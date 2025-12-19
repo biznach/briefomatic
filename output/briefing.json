@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T12:08:25.641033+00:00",
-  "generated_at_human": "2025-12-19 12:08 UTC",
+  "generated_at": "2025-12-19T18:06:30.436307+00:00",
+  "generated_at_human": "2025-12-19 18:06 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Hacker News front page now, but the titles are honest",
+          "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html",
+          "score": 1053,
+          "comments": 238
+        },
+        {
+          "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
+          "url": "https://garagehq.deuxfleurs.fr/",
+          "score": 155,
+          "comments": 21
+        },
+        {
+          "title": "Cursor Acquires Graphite",
+          "url": "https://graphite.com/blog/graphite-joins-cursor",
+          "score": 110,
+          "comments": 61
+        },
+        {
           "title": "GotaTun -- Mullvad's WireGuard Implementation in Rust",
           "url": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
-          "score": 60,
-          "comments": 11
+          "score": 380,
+          "comments": 87
         },
         {
           "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
           "url": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
-          "score": 70,
-          "comments": 23
+          "score": 347,
+          "comments": 189
         },
         {
-          "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
-          "url": "https://github.com/moasq/production-saas-starter",
-          "score": 14,
-          "comments": 5
+          "title": "The FreeBSD Foundation's Laptop Support and Usability Project",
+          "url": "https://github.com/FreeBSDFoundation/proj-laptop",
+          "score": 71,
+          "comments": 25
+        },
+        {
+          "title": "TikTok Deal Is the Shittiest Possible Outcome, Making Everything Worse",
+          "url": "https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/",
+          "score": 164,
+          "comments": 114
+        },
+        {
+          "title": "Show HN: I Made Loom for Mobile",
+          "url": "https://demoscope.app",
+          "score": 20,
+          "comments": 13
+        },
+        {
+          "title": "Believe the Checkbook",
+          "url": "https://robertgreiner.com/believe-the-checkbook/",
+          "score": 27,
+          "comments": 8
         },
         {
           "title": "Beginning January 2026, all ACM publications will be made open access",
           "url": "https://dl.acm.org/openaccess",
-          "score": 1784,
-          "comments": 219
+          "score": 1909,
+          "comments": 231
         },
         {
-          "title": "Getting bitten by Intel's poor naming schemes",
-          "url": "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/",
-          "score": 154,
-          "comments": 79
+          "title": "Programming language speed comparison using Leibniz formula for π",
+          "url": "https://niklas-heer.github.io/speed-comparison/",
+          "score": 18,
+          "comments": 12
         },
         {
-          "title": "Show HN: Hacker News, but every headline is hysterical clickbait",
-          "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html",
-          "score": 11,
-          "comments": 2
+          "title": "Show HN: Stepped Actions – distributed workflow orchestration for Rails",
+          "url": "https://github.com/envirobly/stepped",
+          "score": 62,
+          "comments": 9
         },
         {
-          "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
-          "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
-          "score": 910,
-          "comments": 342
+          "title": "Prepare for That Stupid World",
+          "url": "https://ploum.net/2025-12-19-prepare-for-that-world.html",
+          "score": 34,
+          "comments": 16
         },
         {
           "title": "Texas is suing all of the big TV makers for spying on what you watch",
           "url": "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying",
-          "score": 867,
-          "comments": 434
+          "score": 1116,
+          "comments": 557
+        },
+        {
+          "title": "Does my key fob have more computing power than the Lunar lander?",
+          "url": "https://www.buzzsprout.com/2469780/episodes/18340142-17-does-my-key-fob-have-more-computing-power-than-the-lunar-lander",
+          "score": 24,
+          "comments": 16
+        },
+        {
+          "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
+          "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
+          "score": 1043,
+          "comments": 384
+        },
+        {
+          "title": "Getting bitten by Intel's poor naming schemes",
+          "url": "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/",
+          "score": 233,
+          "comments": 123
+        },
+        {
+          "title": "Building a Transparent Keyserver",
+          "url": "https://words.filippo.io/keyserver-tlog/",
+          "score": 32,
+          "comments": 10
         },
         {
           "title": "1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5",
           "url": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5",
-          "score": 440,
-          "comments": 131
+          "score": 541,
+          "comments": 197
         },
         {
-          "title": "History LLMs: Models trained exclusively on pre-1913 texts",
-          "url": "https://github.com/DGoettlich/history-llms",
-          "score": 540,
-          "comments": 239
-        },
-        {
-          "title": "From Zero to QED: An informal introduction to formality with Lean 4",
-          "url": "https://sdiehl.github.io/zero-to-qed/01_introduction.html",
-          "score": 64,
-          "comments": 4
+          "title": "How to think about durable execution",
+          "url": "https://hatchet.run/blog/durable-execution",
+          "score": 74,
+          "comments": 25
         },
         {
           "title": "Noclip.website – A digital museum of video game levels",
           "url": "https://noclip.website/",
-          "score": 232,
-          "comments": 29
+          "score": 380,
+          "comments": 49
         },
         {
-          "title": "Making Google Sans Flex",
-          "url": "https://design.google/library/google-sans-flex-font",
-          "score": 64,
-          "comments": 38
+          "title": "I have to give Fortnite my passport to use Bluesky",
+          "url": "https://spitfirenews.com/p/why-i-have-to-give-fortnite-my-passport-to-use-bluesky",
+          "score": 68,
+          "comments": 56
         },
         {
-          "title": "Show HN: CommerceTXT – An open standard for AI shopping context (like llms.txt)",
-          "url": "https://commercetxt.org/",
-          "score": 4,
-          "comments": 0
+          "title": "History LLMs: Models trained exclusively on pre-1913 texts",
+          "url": "https://github.com/DGoettlich/history-llms",
+          "score": 664,
+          "comments": 325
+        },
+        {
+          "title": "From Zero to QED: An informal introduction to formality with Lean 4",
+          "url": "https://sdiehl.github.io/zero-to-qed/01_introduction.html",
+          "score": 120,
+          "comments": 16
         },
         {
           "title": "GPT-5.2-Codex",
           "url": "https://openai.com/index/introducing-gpt-5-2-codex/",
-          "score": 508,
-          "comments": 265
-        },
-        {
-          "title": "Pingfs: Stores your data in ICMP ping packets",
-          "url": "https://github.com/yarrick/pingfs",
-          "score": 25,
-          "comments": 2
-        },
-        {
-          "title": "Prompt caching for cheaper LLM tokens",
-          "url": "https://ngrok.com/blog/prompt-caching/",
-          "score": 150,
-          "comments": 33
-        },
-        {
-          "title": "How China built its ‘Manhattan Project’ to rival the West in AI chips",
-          "url": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
-          "score": 359,
-          "comments": 406
-        },
-        {
-          "title": "Reconstructed Commander Keen 1-3 Source Code",
-          "url": "https://pckf.com/viewtopic.php?t=18248",
-          "score": 90,
-          "comments": 13
-        },
-        {
-          "title": "Designing a Passive Lidar Detector Device",
-          "url": "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor",
-          "score": 11,
-          "comments": 0
-        },
-        {
-          "title": "Show HN: Picknplace.js, an alternative to drag-and-drop",
-          "url": "https://jgthms.com/picknplace.js/",
-          "score": 328,
-          "comments": 124
-        },
-        {
-          "title": "Property-Based Testing Caught a Security Bug I Never Would Have Found",
-          "url": "https://kiro.dev/blog/property-based-testing-fixed-security-bug/",
-          "score": 33,
-          "comments": 9
-        },
-        {
-          "title": "SMB Direct – SMB3 over RDMA",
-          "url": "https://docs.kernel.org/filesystems/smb/smbdirect.html",
-          "score": 33,
-          "comments": 6
-        },
-        {
-          "title": "Skills for organizations, partners, the ecosystem",
-          "url": "https://claude.com/blog/organization-skills-and-directory",
-          "score": 272,
-          "comments": 150
-        },
-        {
-          "title": "Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)",
-          "url": "https://github.com/vivienhenz24/fuzzy-canary",
-          "score": 265,
-          "comments": 182
+          "score": 551,
+          "comments": 300
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 87963,
-          "change_24h": 0.77,
-          "change_7d": -4.82,
-          "market_cap": 1759951324882
+          "price": 87034,
+          "change_24h": 0.67,
+          "change_7d": -3.34,
+          "market_cap": 1739274241857
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2951.05,
-          "change_24h": 3.27,
-          "change_7d": -8.9,
-          "market_cap": 357674805806
+          "price": 2946.53,
+          "change_24h": 3.88,
+          "change_7d": -4.05,
+          "market_cap": 356303973555
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 125.1,
-          "change_24h": 0.88,
-          "change_7d": -9.78,
-          "market_cap": 70433800033
+          "price": 123.92,
+          "change_24h": 0.87,
+          "change_7d": -6.29,
+          "market_cap": 69707125380
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.128024,
-          "change_24h": 1.56,
-          "change_7d": -9.26,
-          "market_cap": 19505052050
+          "price": 0.130137,
+          "change_24h": 5.41,
+          "change_7d": -4.09,
+          "market_cap": 21883801540
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.365636,
-          "change_24h": 0.34,
-          "change_7d": -13.9,
-          "market_cap": 13416728619
+          "price": 0.370305,
+          "change_24h": 3.45,
+          "change_7d": -9.35,
+          "market_cap": 13621776405
         }
       ]
     },
@@ -212,19 +212,24 @@
       "count": 10,
       "items": [
         {
+          "name": "zkPass",
+          "symbol": "ZKP",
+          "market_cap_rank": 979
+        },
+        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "zkPass",
-          "symbol": "ZKP",
-          "market_cap_rank": 872
-        },
-        {
           "name": "Toncoin",
           "symbol": "TON",
-          "market_cap_rank": 42
+          "market_cap_rank": 40
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 132
         },
         {
           "name": "Ultima",
@@ -242,24 +247,19 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 131
-        },
-        {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 5
-        },
-        {
-          "name": "Midnight",
-          "symbol": "NIGHT",
-          "market_cap_rank": 90
-        },
-        {
           "name": "Zcash",
           "symbol": "ZEC",
-          "market_cap_rank": 25
+          "market_cap_rank": 24
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 276
         }
       ]
     },
@@ -268,16 +268,43 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 1,
+      "count": 5,
       "items": [
         {
-          "title": "US stocks mixed as tech leads gains; Nasdaq jumps over 1%",
-          "summary": "Major US indexes were mixed on Thursday with the Nasdaq Composite rallying about 1.4% while the Dow rose modestly and small-caps lagged, driven by strength in megacap tech names ahead of key earnings and economic data releases, according to market reports covering Dec. 18 trading activity.",
-          "source": "Greenwich Time",
-          "url": "https://www.greenwichtime.com/business/article/how-major-us-stock-indexes-fared-thursday-21250812.php"
+          "title": "U.S. stocks climb after cooler-than-expected CPI and strong Micron results",
+          "summary": "Stocks rose as a softer-than-expected consumer inflation report boosted hopes for Fed rate cuts and Micron's strong profit report lifted AI/tech names, sending the S&P 500 up 0.8% and the Nasdaq up 1.4% on Thursday; Treasury yields eased on the inflation data.[1][3]",
+          "source": "Barchart / eOption",
+          "url": "https://www.barchart.com/story/news/36700835/how-major-us-stock-indexes-fared-thursday-12-18-2025"
+        },
+        {
+          "title": "Major index moves: S&P 500 +0.8%, Nasdaq +1.4%, Dow +0.1%",
+          "summary": "On Thursday the S&P 500 rose 53.33 points (0.8%) to 6,774.76, the Nasdaq composite rose 313.04 points (1.4%) to 23,006.36, and the Dow Jones Industrial Average rose 65.88 points (0.1%) to 47,951.85, with the Russell 2000 up 0.6%.[1][2]",
+          "source": "Chron / Barchart",
+          "url": "https://www.chron.com/business/article/how-major-us-stock-indexes-fared-thursday-21250812.php"
+        },
+        {
+          "title": "Micron earnings lift AI and semiconductor stocks",
+          "summary": "Micron Technology's strong profit report and guidance provided a lift to semiconductor and AI-related stocks, helping halt recent declines in those sectors and contributing to the Nasdaq's advance.[1][3]",
+          "source": "eOption / Barchart",
+          "url": "https://www.eoption.com/market-review-december-18-2025/"
+        },
+        {
+          "title": "Inflation data increases odds for Fed rate cuts next year",
+          "summary": "A cooler CPI report raised market expectations that the Federal Reserve will be able to continue cutting interest rates next year, a key driver of the equity rally and lower Treasury yields Thursday.[1][3]",
+          "source": "Barchart / eOption",
+          "url": "https://www.barchart.com/story/news/36700835/how-major-us-stock-indexes-fared-thursday-12-18-2025"
+        },
+        {
+          "title": "Philadelphia Fed manufacturing index falls but some internals improve",
+          "summary": "The December Philly Fed headline business conditions index fell to -10.2 from -1.7, below expectations, but internals showed higher employment and a notable decline in prices paid; new orders and capex outlooks improved.[3]",
+          "source": "eOption",
+          "url": "https://www.eoption.com/market-review-december-18-2025/"
         }
       ],
       "citations": [
+        "https://www.barchart.com/story/news/36700835/how-major-us-stock-indexes-fared-thursday-12-18-2025",
+        "https://www.chron.com/business/article/how-major-us-stock-indexes-fared-thursday-21250812.php",
+        "https://www.eoption.com/market-review-december-18-2025/",
         "https://www.greenwichtime.com/business/article/how-major-us-stock-indexes-fared-thursday-21250812.php"
       ]
     },
@@ -286,79 +313,68 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 8,
       "items": [
         {
-          "title": "Bitcoin slips after failed breakout; $23B of options set to expire next week",
-          "summary": "Bitcoin tested the $90k level then sold off ~5.5% after a failed breakout, contributing to elevated volatility across markets; roughly $23 billion of BTC options are due to expire next Friday which market participants warn could amplify moves.[1][2]",
-          "source": "KuCoin / Bloomberg via PaNewsLab",
+          "title": "Bitcoin Drops 5.5% After Failing 90K Breakout Amid BOJ Rate Hike Expectations",
+          "summary": "Bitcoin sold off sharply by 5.5% after testing $90K, trading around $87,700, as markets brace for Bank of Japan's expected rate hike to 0.75% on December 19, with $136B wiped from the market and $23B in options expiring next week.",
+          "source": "KuCoin; MEXC Blog",
           "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-19-2025"
         },
         {
-          "title": "SoFi Bank launches USD stablecoin (SoFiUSD) on Ethereum — first U.S. national bank to do so",
-          "summary": "SoFi Bank issued SoFiUSD, a 1:1 cash-reserved USD stablecoin now live on Ethereum and positioned for use by banks, fintech firms and enterprise partners; reporting notes SoFi plans to open access to its retail users later.[2]",
-          "source": "The Block / PaNewsLab",
-          "url": "https://www.panewslab.com/en/articles/b228838f-2ab3-41b8-b8d6-72591d5623ba"
+          "title": "Ethereum Falls Below $3,000, Raising Concerns of Further Decline to $2,500",
+          "summary": "Ethereum slipped below the critical $3,000 support to $2,958, down 11% year-to-date, amid broader market pressure with Bitcoin's losses, potentially turning $3,000 into resistance.",
+          "source": "Phemex",
+          "url": "https://phemex.com/news/article/ethereum-drops-below-3000-raising-market-concerns-46618"
         },
         {
-          "title": "U.S. crypto bill (CLARITY Act) nearing Senate review, White House adviser says",
-          "summary": "David Sacks, White House head of AI and crypto affairs, said the bipartisan CLARITY Act is closer to formal legislation and is expected to be reviewed and revised in the Senate in January, signaling potential near-term U.S. regulatory action.[2]",
-          "source": "CoinTelegraph / PaNewsLab",
-          "url": "https://www.panewslab.com/en/articles/b228838f-2ab3-41b8-b8d6-72591d5623ba"
-        },
-        {
-          "title": "Synthetix returns to Ethereum mainnet and launches perpetual DEX",
-          "summary": "Synthetix announced it has returned to the Ethereum mainnet after three years and launched a perpetual contract DEX on mainnet, with an incentive program slated for Q1 next year.[3]",
-          "source": "Odaily Planet Daily",
-          "url": "https://www.odaily.news/en/newsflash/461292"
-        },
-        {
-          "title": "Circle launches Arc L1 builder fund to accelerate RWA and enterprise use cases",
-          "summary": "Circle announced an Arc L1 blockchain builder fund aimed at growing an Ecosystem around USDC and Real-World Asset (RWA) primitives, positioning Circle beyond stablecoin issuance toward an 'Economic Operating System'.[1]",
+          "title": "Circle Launches Arc L1 Blockchain Builder Fund for RWA and Enterprise Finance",
+          "summary": "Circle launched the Arc L1 Fund, evolving into an 'Economic Operating System' focused on real-world assets, private credit, low latency, and USDC liquidity for enterprises.",
           "source": "KuCoin",
           "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-19-2025"
         },
         {
-          "title": "Market movers: LDO listed on Robinhood; ZEC sees node software update",
-          "summary": "Robinhood listed LDO for spot trading, contributing to LDO gains, while the Zcash Foundation released Zebra 3.1.0 to improve node performance, supporting ZEC price strength.[1]",
+          "title": "Ondo Finance Unveils Cross-Chain Bridge for 100+ Tokenized Securities",
+          "summary": "Ondo announced its Cross-Chain Bridge to enable seamless movement of over 100 tokenized securities across Ethereum and BNB Chain, addressing liquidity silos in RWA sector.",
           "source": "KuCoin",
           "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-19-2025"
         },
         {
-          "title": "Exchange flows and product updates: Coinbase launches custom stablecoin service; US XRP spot ETF records inflows",
-          "summary": "Coinbase launched a customized stablecoin service (with R2 selected among early ecosystem projects), while reports indicate the U.S. XRP spot ETF saw a net inflow of $30.41M in a single day.[3]",
-          "source": "Odaily Planet Daily",
-          "url": "https://www.odaily.news/en/newsflash/461292"
+          "title": "SoFi Bank Launches SoFiUSD Stablecoin on Ethereum as First US National Bank Issuer",
+          "summary": "SoFi Bank issued SoFiUSD, a 1:1 cash-backed stablecoin on Ethereum, offering low-fee 24/7 settlement to banks and fintechs, with plans for user access.",
+          "source": "Panews Lab",
+          "url": "https://www.panewslab.com/en/articles/b228838f-2ab3-41b8-b8d6-72591d5623ba"
         },
         {
-          "title": "Industry view: Grayscale and Circle highlight stablecoin growth and USDC dominance",
-          "summary": "Grayscale projected explosive stablecoin growth by 2025 and Circle-related reporting continues to highlight USDC's central role in transaction volumes and RWA infrastructure development.[6][5]",
-          "source": "Bitget / AInvest",
-          "url": "https://www.bitget.com/news/detail12560604364254"
+          "title": "CLARITY Act Advances Toward Senate Review in January for Crypto Market Structure",
+          "summary": "White House crypto head David Sacks stated the bipartisan CLARITY Act is nearing formal legislation, with Senate Banking and Agriculture Committees confirming finalization next month.",
+          "source": "Panews Lab",
+          "url": "https://www.panewslab.com/en/articles/b228838f-2ab3-41b8-b8d6-72591d5623ba"
         },
         {
-          "title": "U.S. SEC flags Bitcoin miner hosting as potential securities offering",
-          "summary": "The SEC has asserted in litigation that third-party Bitcoin mining hosting services may fall under securities laws, a regulatory stance that could affect miner business models and hosting relationships.[9]",
-          "source": "MEXC (reporting of SEC action)",
-          "url": "https://www.mexc.com/news/303196"
+          "title": "Synthetix Returns to Ethereum Mainnet After Three Years with Perpetuals DEX",
+          "summary": "Synthetix relaunched on Ethereum mainnet after three years, introducing a Perpetuals DEX amid ongoing project developments.",
+          "source": "KuCoin; Phemex",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-19-2025"
         },
         {
-          "title": "Price snapshot: Market down ~1–1.1% with BTC near mid-$80k and ETH ~$2,800",
-          "summary": "Multiple market reports show the global crypto market declined around 1–1.1% in the past 24 hours, Bitcoin trading in the mid-$80k range (~$85–87k) and Ethereum around $2.8k amid 'Extreme Fear' sentiment readings.[4][1]",
-          "source": "Phemex / KuCoin",
-          "url": "https://phemex.com/news/article/crypto-market-dips-11-as-myx-pump-leo-lead-losses-46362"
+          "title": "Zcash Foundation Releases Zebra 3.1.0, Boosting Node Speed; ZEC Price Rises",
+          "summary": "Zcash Foundation launched Zebra 3.1.0 for improved speed and flexibility in running Zcash nodes, contributing to ZEC price increase among hot tokens like UNI and LDO.",
+          "source": "KuCoin",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-19-2025"
         }
       ],
       "citations": [
         "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-19-2025",
         "https://www.panewslab.com/en/articles/b228838f-2ab3-41b8-b8d6-72591d5623ba",
-        "https://www.odaily.news/en/newsflash/461292",
-        "https://phemex.com/news/article/crypto-market-dips-11-as-myx-pump-leo-lead-losses-46362",
+        "https://blog.mexc.com/news/bitcoin-crash-where-136b-wiped-and-70k-target-as-japan-hikes-dec-19/",
         "https://www.ainvest.com/news/bitcoin-secured-defi-expansion-stacks-usdcx-drive-institutional-adoption-liquidity-innovation-2512/",
-        "https://www.bitget.com/news/detail12560604364254",
+        "https://www.bitgetapps.com/news/detail12560604750060",
         "https://coinpedia.org/price-analysis/bitcoin-is-absorbing-selling-pressure-what-this-says-about-the-next-btc-price-move/",
-        "https://www.binance.com/en/square/post/33883346696130",
-        "https://www.mexc.com/news/303196"
+        "https://www.ainvest.com/news/strategic-case-crypto-exposure-2026-regulatory-clarity-catalyst-2512/",
+        "https://phemex.com/news/article/ethereum-drops-below-3000-raising-market-concerns-46618",
+        "https://www.bitget.com/news/detail12560604110341",
+        "https://phemex.com/news/article/crypto-treasuries-balancing-yield-and-risk-46303"
       ]
     },
     "ai_news": {
@@ -370,43 +386,41 @@
       "items": [
         {
           "title": "Red Hat Acquires Chatterbox Labs to Boost AI Trust and Security",
-          "summary": "Red Hat acquired Chatterbox Labs, a specialist in AI safety and generative AI guardrails, integrating model-agnostic security tools into its AI portfolio for trustworthy enterprise deployments. The move supports production-grade AI in hybrid cloud environments with automated risk metrics.",
+          "summary": "Red Hat has acquired Chatterbox Labs, a specialist in AI safety and generative AI guardrails, integrating model-agnostic security tools into its AI portfolio for trustworthy enterprise deployments across hybrid clouds.",
           "source": "Red Hat",
           "url": "https://www.redhat.com/en/blog/friday-five-december-19-2025-red-hat"
-        },
-        {
-          "title": "TCS Launches TCS BaNCS AI Compass for Banking Innovation",
-          "summary": "Tata Consultancy Services unveiled TCS BaNCS AI Compass, integrating machine learning, deep learning, generative AI, and pre-built agents to optimize banking operations, provide actionable insights, and enhance risk management. Zions Bancorporation praised its potential for efficiency and risk control.",
-          "source": "TCS",
-          "url": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-bancs-ai-upgrade-new-core-tool-supercharge-innovation"
-        },
-        {
-          "title": "NSFOCUS AI Agent Capabilities Recognized by Forrester Report",
-          "summary": "Forrester included NSFOCUS in its report on China's AI agent ecosystem, highlighting trends like DeepSeek breakthroughs, multi-agent systems, RAG improvements, and open-source development. NSFOCUS's AI agents advance cybersecurity with noise reduction, threat reasoning, and faster detection/response times.",
-          "source": "NSFOCUS",
-          "url": "https://nsfocusglobal.com/unlocking-new-possibilities-for-security-operations-nsfocuss-ai-agent-capabilities-recognized-by-authoritative-institution/"
         },
         {
           "title": "Red Hat Expands AI Collaboration with AWS for Scalable Gen AI",
-          "summary": "Red Hat is optimizing its AI platforms for AWS Trainium and Inferentia chips to enable enterprises to scale production-ready generative AI across hybrid clouds. This builds on commitments to open ecosystems and 2026 priorities like agentic AI and infrastructure modernization.",
+          "summary": "Red Hat is partnering with AWS to optimize its AI solutions for AWS Trainium and Inferentia chips, enabling enterprises to scale production-ready generative AI in hybrid cloud environments.",
           "source": "Red Hat",
           "url": "https://www.redhat.com/en/blog/friday-five-december-19-2025-red-hat"
         },
         {
-          "title": "AI Infrastructure Demands Surge with Massive Investments Needed",
-          "summary": "Major tech leaders confirm tens to hundreds of billions in infrastructure investment required for AI competitiveness, amid rising energy/water demands of data centers and inference costs rivaling training. Companies shift from 'AGI' terminology while advancing reasoning capabilities and healthcare deployments.",
+          "title": "Purdue Launches New Initiative to Accelerate AI-Driven Discoveries",
+          "summary": "Purdue University announced a new initiative to prepare datasets for AI and machine learning, speeding up discoveries that are faster and smarter across research fields.",
+          "source": "Purdue University",
+          "url": "https://www.purdue.edu/newsroom/2025/Q4/new-purdue-initiative-to-accelerate-discoveries-driven-by-artificial-intelligence"
+        },
+        {
+          "title": "AI Weekly Highlights: Growing Energy Demands and Infrastructure Investments",
+          "summary": "Recent developments show surging energy and water needs for AI data centers, with inference costs rivaling training, and tech leaders committing tens to hundreds of billions for infrastructure amid shifts away from 'AGI' terminology.",
           "source": "AI Innovations Unleashed",
           "url": "https://www.aiinnovationsunleashed.com/%F0%9F%8E%A7-the-friday-download-ais-price-tag-power-grid-reality-and-the-week-artificial-intelligence-got-very-real-december-19-2025/"
+        },
+        {
+          "title": "Red Hat Outlines 2026 AI Priorities: From Experiment to Production",
+          "summary": "Red Hat executives predict a shift in 2026 toward production-scale AI, focusing on infrastructure modernization, agentic AI scaling via unified platforms, and open hybrid cloud for security and sovereignty.",
+          "source": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/friday-five-december-19-2025-red-hat"
         }
       ],
       "citations": [
         "https://www.aiinnovationsunleashed.com/%F0%9F%8E%A7-the-friday-download-ais-price-tag-power-grid-reality-and-the-week-artificial-intelligence-got-very-real-december-19-2025/",
         "https://www.redhat.com/en/blog/friday-five-december-19-2025-red-hat",
-        "https://coaio.com/news/2025/12/ai-s-transformative-wave-in-software-development-2025-s-key-trends-and-innovations/",
-        "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-bancs-ai-upgrade-new-core-tool-supercharge-innovation",
-        "https://nsfocusglobal.com/unlocking-new-possibilities-for-security-operations-nsfocuss-ai-agent-capabilities-recognized-by-authoritative-institution/",
-        "https://www.infoworld.com/article/4108014/agents-protocols-and-vibes-ais-big-year.html",
-        "https://sjhexpress.com/opinion/2025/12/18/ai-replacing-learning/"
+        "https://www.purdue.edu/newsroom/2025/Q4/new-purdue-initiative-to-accelerate-discoveries-driven-by-artificial-intelligence",
+        "https://aimagazine.com/news/this-weeks-top-5-stories-in-ai-19-december-2026",
+        "https://patimes.org/ai-wont-replace-professors-but-binary-thinking-might-damage-higher-education/"
       ]
     },
     "gaming": {
@@ -414,46 +428,17 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 5,
-      "items": [
-        {
-          "title": "Epic Games Store Holiday 2025: Jotunslayer: Hordes of Hel Free December 18-19",
-          "summary": "Jotunslayer: Hordes of Hel, a Vampire Survivors-style game set in the Viking age, is the latest free title on Epic Games Store's Holiday 2025 giveaway, available only until December 19. The promotion continues with daily free games through early 2026.",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/"
-        },
-        {
-          "title": "Epic Games Store Reveals Next Holiday Free Game: Jotunslayer: Hordes of Hel",
-          "summary": "The second free game in Epic's Holiday 2025 event is Jotunslayer: Hordes of Hel, claimable from December 18 to 19 following Hogwarts Legacy. Users must claim before the next title drops at 8 AM PT on December 19.",
-          "source": "Sportskeeda",
-          "url": "https://www.sportskeeda.com/esports/all-epic-games-store-holiday-2025-free-games-claim"
-        },
-        {
-          "title": "Lost Tork Prototype for Game Boy Advance Recovered and Released",
-          "summary": "A long-lost prototype of Tork, a cancelled Game Boy Advance conversion, has been recovered from Archer Maclean's archives and made available. The update highlights preservation efforts for unreleased games.",
-          "source": "Games That Weren't",
-          "url": "https://www.gamesthatwerent.com"
-        },
-        {
-          "title": "Dropzone Game Boy Prototypes from 1992 Released Publicly",
-          "summary": "Two late prototypes of Dropzone for the original Game Boy, dated October 23 and November 3, 1992, have been recovered and shared as part of a Christmas update from Archer Maclean's backups.",
-          "source": "Games That Weren't",
-          "url": "https://www.gamesthatwerent.com"
-        },
-        {
-          "title": "Fortnite Ballistic v37.10 Update Adds Veiled Precision SMG and Deployable Wall",
-          "summary": "Fortnite's latest Ballistic update introduces the Veiled Precision SMG, Deployable Wall Gadget, and more competitive features. Winterfest 2025 event is also live with festive rewards.",
-          "source": "Fortnite Official (via 4chan /fng/)",
-          "url": "https://www.fortnite.com/news/fortnite-ballistic-v37-10-adds-the-veiled-precision-smg-deployable-wall-gadget-and-more"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
-        "https://en.wikipedia.org/wiki/The_Game_Awards_2025",
-        "https://www.sportskeeda.com/esports/all-epic-games-store-holiday-2025-free-games-claim",
-        "https://boards.4chan.org/vg/thread/550649062/fng-fortnite-general",
         "https://boards.4chan.org/vg/thread/550648732",
-        "https://www.gamesthatwerent.com"
+        "https://www.youtube.com/watch?v=Ga_Nsz7iXvE",
+        "https://omavs.com/news/2025/12/18/hockey-faces-rv-augustana-in-non-conference-series.aspx",
+        "https://chl.ca/ohl-greyhounds/video/video-soo-wsr-december-18-2025",
+        "https://www.maxpreps.com/ca/yuba-city/yuba-city-honkers/basketball/media/videos/?videoid=25103cce-2f9c-4f42-8c94-b762ee3ba4a5",
+        "https://wmubroncos.com/sports/womens-basketball/stats/2025-26/university-of-dayton/boxscore/16614",
+        "https://scsuhuskies.com/news/2025/12/18/st-cloud-state-baseball-announces-2026-schedule",
+        "https://asburyeagles.com/news/2025/12/18/mens-basketball-bluegrass-orthopaedics-athletes-of-the-week-tyler-hall-bre-jones.aspx"
       ]
     },
     "tech_news": {
@@ -461,80 +446,55 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 6,
       "items": [
         {
-          "title": "NVIDIA launches RTX PRO 5000 72GB Blackwell GPU and expands partnerships",
-          "summary": "NVIDIA unveiled the RTX PRO 5000 72GB Blackwell GPU and announced expanded partnerships including co-development work on AI SSDs with SK hynix and supply agreements for next‑generation HBM4 memory with Samsung, strengthening its semiconductor ecosystem and R&D footprint.",
-          "source": "Distill / Semiconductors & AI Chips weekly briefings",
-          "url": "https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2025-12-19"
+          "title": "U.S. launches inter-agency review of potential Nvidia H200 chip sales to China",
+          "summary": "The U.S. administration has begun an inter-agency licensing review that could permit shipments of Nvidia's H200 data‑center accelerator chips to China, following policy decisions to allow such sales with fees; the move has prompted debate over national security and competitive implications for domestic and Chinese chipmakers.",
+          "source": "Reuters (via WHTC)",
+          "url": "https://whtc.com/2025/12/18/exclusive-us-launches-review-of-advanced-nvidia-ai-chip-sales-to-china-sources-say/"
         },
         {
-          "title": "TSMC receives approval for major Phoenix expansion",
-          "summary": "TSMC obtained approval for a significant manufacturing expansion in Phoenix, signaling continued investment in advanced semiconductor capacity outside Taiwan and increasing U.S. chip production footprint.",
-          "source": "Semiconductors & AI Chips weekly briefing (Distill)",
-          "url": "https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2025-12-19"
+          "title": "Micron releases Q1 FY2026 results and holds post-earnings analyst call",
+          "summary": "Memory chipmaker Micron reported Q1 FY2026 results and hosted an analyst call discussing demand dynamics in DRAM and NAND markets amid holiday-season inventory flows and industry supply adjustments.",
+          "source": "YouTube (investor/earnings upload)",
+          "url": "https://www.youtube.com/watch?v=jfLLiiMqy9M"
         },
         {
-          "title": "Samsung unveils Exynos 2600 (2nm) chipset with improved performance",
-          "summary": "Samsung announced the Exynos 2600, produced on a 2nm process, which the company says delivers substantially improved performance targeted at flagship devices.",
-          "source": "Semiconductors & AI Chips weekly briefing (Distill)",
-          "url": "https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2025-12-19"
-        },
-        {
-          "title": "Intel installs first High‑NA EUV system",
-          "summary": "Intel reported installation of its first High‑NA EUV lithography system, a step toward producing more advanced nodes and boosting its leading‑edge manufacturing capabilities.",
-          "source": "Semiconductors & AI Chips weekly briefing (Distill)",
-          "url": "https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2025-12-19"
-        },
-        {
-          "title": "Micron posts record quarterly results driven by memory demand",
-          "summary": "Micron reported record fiscal results for Q1 FY2026, driven by strong demand in memory markets, reflecting continued strength in semiconductor component demand.",
-          "source": "Semiconductors & AI Chips weekly briefing (Distill)",
-          "url": "https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2025-12-19"
-        },
-        {
-          "title": "TSMC pioneers blue ammonia adoption to reduce supply‑chain emissions",
-          "summary": "TSMC committed to reduce supply‑chain emissions by adopting blue ammonia as part of its sustainability strategy tied to its Phoenix expansion and broader manufacturing operations.",
-          "source": "Semiconductors & AI Chips weekly briefing (Distill)",
-          "url": "https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2025-12-19"
-        },
-        {
-          "title": "Qualcomm completes acquisition of Alphawave Semi",
-          "summary": "Qualcomm finalized its acquisition of Alphawave Semi, expanding its portfolio in high‑speed connectivity and custom silicon for broader chip supply chain integration.",
-          "source": "Semiconductors & AI Chips weekly briefing (Distill)",
-          "url": "https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2025-12-19"
-        },
-        {
-          "title": "Solid‑state battery sector reaches pre‑industrialization tipping point",
-          "summary": "Industry test results and production moves indicate solid‑state batteries are progressing from concept to pre‑industrial scale, with new production lines and prototype deliveries accelerating commercialization efforts.",
-          "source": "SMM / Metal.com solid‑state battery weekly analysis",
-          "url": "https://news.metal.com/newscontent/103680775/solid-state-battery-weekly-analysis-national-test-results-for-solid-state-batteries-were-as-expected-high-industry-laboratory-activity-continued"
-        },
-        {
-          "title": "CiDi Inc. lists on Hong Kong Stock Exchange to bolster commercial autonomous driving",
-          "summary": "CiDi Inc., a provider of intelligent driving solutions for commercial vehicles, completed its Main Board listing in Hong Kong, positioning itself to scale autonomous-driving deployments in closed and semi‑closed environments such as mining.",
+          "title": "Hong Kong lists CiDi Inc., new specialized ‘hard tech’ commercial intelligent-driving company",
+          "summary": "CiDi Inc., a Chinese provider of intelligent driving products and solutions for commercial vehicles, debuted on the Hong Kong Main Board, positioning itself as a platform-focused supplier for closed and semi-closed autonomous-driving scenarios.",
           "source": "ACN Newswire",
           "url": "https://www.acnnewswire.com/press-release/english/104317/a-new-benchmark-for-specialized-technology-stocks-in-hong-kong!-cidi's-listing-marks-a-new-chapter-in-commercial-intelligent-driving"
         },
         {
-          "title": "Elbit America recognized for Common Intelligent Display‑2 supply performance",
-          "summary": "Elbit America received recognition from BAE Systems for its contribution to the Common Intelligent Display‑2 program, highlighting advances in ruggedized integrated display and computing systems for military vehicles.",
+          "title": "AeroVironment delivers JLTV-mounted LOCUST laser weapon systems to U.S. Army",
+          "summary": "AeroVironment announced delivery of two Joint Light Tactical Vehicle–mounted LOCUST laser weapon systems (20kW-class) to the U.S. Army, marking another increment in fielding mobile counter‑UAS directed‑energy capabilities.",
           "source": "ASD News",
-          "url": "https://www.asdnews.com/news/defense/2025/12/18/elbit-americas-common-intelligent-display2-program-recognized-bae"
+          "url": "https://www.asdnews.com/news/defense/2025/12/18/av-delivers-jltvmounted-locust-laser-weapon-systems-us-army"
+        },
+        {
+          "title": "Kazakhstan and Japan sign smart‑city cooperation and technology partnerships",
+          "summary": "Kazakhstan and Japan strengthened strategic ties with a smart‑city cooperation agreement and technology partnerships, including meetings between Kazakhstan’s leadership and Rakuten CEO Hiroshi Mikitani to explore digital ecosystem and biotech collaboration.",
+          "source": "Astana Times",
+          "url": "https://astanatimes.com/2025/12/kazakhstan-japan-boost-strategic-ties-with-smart-city-deal-and-technology-partnerships/"
+        },
+        {
+          "title": "Holiday-season consumer electronics surge drives last‑minute tech demand",
+          "summary": "Market coverage highlights a stronger-than-expected holiday tech shopping window, with record Black Friday/Cyber Monday online sales and extended Q5 spending supporting retailers and prompting investors to watch omnichannel leaders and logistics strategies.",
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/minute-holiday-tech-boom-time-invest-consumer-electronics-retailers-key-tech-brands-2512/"
         }
       ],
       "citations": [
-        "https://www.distillintelligence.com/briefings/magnificent-7-2025-12-19",
-        "https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2025-12-19",
-        "https://www.artificialintelligence-news.com",
-        "https://news.metal.com/newscontent/103680775/solid-state-battery-weekly-analysis-national-test-results-for-solid-state-batteries-were-as-expected-high-industry-laboratory-activity-continued",
-        "https://www.asdnews.com/news/defense/2025/12/18/elbit-americas-common-intelligent-display2-program-recognized-bae",
+        "https://www.distillintelligence.com/briefings/ai-leaders-2025-12-19",
+        "https://www.ainvest.com/news/minute-holiday-tech-boom-time-invest-consumer-electronics-retailers-key-tech-brands-2512/",
+        "https://whtc.com/2025/12/18/exclusive-us-launches-review-of-advanced-nvidia-ai-chip-sales-to-china-sources-say/",
         "https://www.youtube.com/watch?v=jfLLiiMqy9M",
         "https://www.acnnewswire.com/press-release/english/104317/a-new-benchmark-for-specialized-technology-stocks-in-hong-kong!-cidi's-listing-marks-a-new-chapter-in-commercial-intelligent-driving",
-        "https://www.gov.mo/en/news/376070/"
+        "https://www.asdnews.com/news/defense/2025/12/18/av-delivers-jltvmounted-locust-laser-weapon-systems-us-army",
+        "https://astanatimes.com/2025/12/kazakhstan-japan-boost-strategic-ties-with-smart-city-deal-and-technology-partnerships/"
       ]
     }
   },
-  "summary": "Here is a concise executive briefing based on the provided raw news and market data:\n\n1. **Market Overview**: The US stock market is mixed, with the Nasdaq Composite rallying about 1.4% and the Dow rising modestly. The crypto market is down around 1-1.1%, with Bitcoin trading in the mid-$80k range and Ethereum around $2.8k. Major cryptocurrencies such as Solana, Dogecoin, and Cardano have seen significant price movements, with Solana's price increasing by 0.88% and Dogecoin's price increasing by 1.56% in the last 24 hours.\n\n2. **Tech & AI**: Notable tech developments include the launch of SoFiUSD, a 1:1 cash-reserved USD stablecoin on Ethereum, and the return of Synthetix to the Ethereum mainnet after three years. Additionally, Circle has launched an Arc L1 blockchain builder fund to accelerate Real-World Asset (RWA) and enterprise use cases. In AI news, Red Hat has acquired Chatterbox, and there have been significant developments in AI model releases, company announcements, and research breakthroughs.\n\n3. **Gaming & Entertainment**: A digital museum of video game levels, Noclip.website, has been launched, allowing users to explore and interact with video game levels in a unique way.\n\n4. **Key Insights**:\n* The crypto market is experiencing increased volatility, with major price movements and regulatory developments on the horizon.\n* The launch of SoFiUSD and Circle's Arc L1 blockchain builder fund signals growing interest in stablecoins and blockchain technology.\n* AI developments, such as Red Hat's acquisition of Chatterbox, are driving innovation in the tech industry.\n* The US stock market is mixed, with tech leading gains and small-caps lagging.\n* Regulatory actions, such as the SEC's assertion that Bitcoin miner hosting services may fall under securities laws, may impact the crypto industry.\n\n5. **Watch List**: \n* US crypto bill (CLARITY Act) nearing Senate review\n* SoFiUSD and its impact on the stablecoin market\n* Circle's Arc L1 blockchain builder fund and its potential to accelerate RWA and enterprise use cases\n* Regulatory developments in the crypto industry, including the SEC's stance on Bitcoin miner hosting services\n* AI model releases and company announcements, such as Red Hat's acquisition of Chatterbox."
+  "summary": "Here is a concise executive briefing based on the provided raw news and market data:\n\n1. **Market Overview**: The S&P 500 rose 0.8% and the Nasdaq climbed 1.4% on Thursday, driven by a softer-than-expected consumer inflation report and strong Micron earnings. Bitcoin dropped 5.5% after failing to break out above $90K, while Ethereum fell below $3,000. The crypto market saw significant movements, with some tokens like ZEC rising after the Zcash Foundation's update.\n\n2. **Tech & AI**: Notable tech developments include the launch of the Arc L1 Fund by Circle, focused on real-world assets and enterprise finance, and the introduction of SoFiUSD, a cash-backed stablecoin on Ethereum. Additionally, Synthetix relaunched on Ethereum mainnet after three years, and the Zcash Foundation released Zebra 3.1.0, improving node speed.\n\n3. **Gaming & Entertainment**: There is limited gaming news in the provided data, but a notable mention is the digital museum of video game levels, Noclip.website, which has garnered significant attention.\n\n4. **Key Insights**:\n* The US stock market saw a positive day on Thursday, driven by inflation data and strong earnings reports.\n* The crypto market is experiencing significant price movements, with Bitcoin and Ethereum seeing notable drops.\n* Regulatory news, such as the CLARITY Act advancing toward Senate review, may impact the crypto market structure.\n* New project developments, like the launch of SoFiUSD and the relaunch of Synthetix, are introducing innovative solutions in the crypto space.\n* The Zcash Foundation's update has contributed to a price increase in ZEC.\n\n5. **Watch List**: Items to monitor in the coming days include:\n* The Bank of Japan's expected rate hike and its potential impact on the crypto market.\n* The Senate review of the CLARITY Act and its potential effects on the crypto market structure.\n* The performance of newly launched projects, such as SoFiUSD and Synthetix.\n* The price movements of major cryptocurrencies, including Bitcoin and Ethereum.\n* The development of new technologies, such as the Zebra 3.1.0 update, and their potential impact on the crypto market."
 }
