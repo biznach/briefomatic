@@ -2,7 +2,7 @@ name: Update Briefing
 
 on:
   schedule:
-    # Runs every 6 hours - adjust as needed
+    # Runs every 6 hours at minute 0
     - cron: '0 */6 * * *'
 
   # Allows manual trigger from GitHub UI
@@ -26,10 +26,12 @@ jobs:
 
       - name: Fetch and generate briefing
         env:
-          # Add your API keys as secrets in GitHub repo settings
-          # NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-          # TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
-          EXAMPLE_SECRET: ${{ secrets.EXAMPLE_SECRET }}
+          # Required for Venice AI summarization
+          VENICE_API_KEY: ${{ secrets.VENICE_API_KEY }}
+          # Optional - for stocks/macro news (free at alphavantage.co)
+          ALPHAVANTAGE_API_KEY: ${{ secrets.ALPHAVANTAGE_API_KEY }}
+          # Optional - for gaming/AI news (free at newsapi.org)
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: python scripts/fetch_briefing.py
 
       - name: Commit and push changes
