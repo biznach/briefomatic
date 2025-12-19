@@ -3,11 +3,10 @@
 Briefomatic - Fetch and compile briefing data from various sources.
 
 Data Sources:
-- Hacker News: Tech/AI/Nerd news (free, no key)
+- Perplexity Sonar: Real-time web search for news (macro, stocks, gaming, tech, AI)
+- Hacker News: Tech/AI/Nerd community signal (free, no key)
 - CoinGecko: Crypto prices and trends (free, no key)
-- Alpha Vantage: Stocks and macro news (free key required)
-- NewsAPI: Gaming and general tech news (free key required)
-- Venice AI: Summarization and filtering (key required)
+- Venice AI: Summarization and filtering
 """
 
 import json
@@ -16,6 +15,92 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 import requests
+
+
+# =============================================================================
+# DATA SOURCE: Perplexity Sonar (Real-time web search)
+# =============================================================================
+
+def fetch_perplexity_news(
+    api_key: str,
+    query: str,
+    category: str,
+    recency: str = "day",
+    model: str = "sonar"
+) -> dict:
+    """
+    Fetch news using Perplexity Sonar's real-time web search.
+
+    Args:
+        api_key: Perplexity API key
+        query: The search query / question
+        category: Category label for the briefing
+        recency: Time filter - 'hour', 'day', 'week', 'month'
+        model: 'sonar' (faster/cheaper) or 'sonar-pro' (more thorough)
+    """
+    try:
+        url = "https://api.perplexity.ai/chat/completions"
+        headers = {
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json"
+        }
+
+        system_prompt = """You are a news research assistant. Provide factual, current information based on your web search.
+Format your response as a JSON array of news items. Each item should have:
+- "title": Brief headline
+- "summary": 1-2 sentence summary
+- "source": Publication name
+- "url": Source URL if available
+
+Return ONLY valid JSON array, no other text. Example:
+[{"title": "...", "summary": "...", "source": "...", "url": "..."}]
+
+If no relevant news found, return empty array: []"""
+
+        payload = {
+            "model": model,
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": query}
+            ],
+            "max_tokens": 2000,
+            "temperature": 0.1,
+            "search_recency_filter": recency
+        }
+
+        response = requests.post(url, headers=headers, json=payload, timeout=60)
+        response.raise_for_status()
+        data = response.json()
+
+        content = data.get("choices", [{}])[0].get("message", {}).get("content", "[]")
+
+        # Parse the JSON response
+        try:
+            # Clean up the response - sometimes wrapped in markdown code blocks
+            content = content.strip()
+            if content.startswith("```"):
+                content = content.split("```")[1]
+                if content.startswith("json"):
+                    content = content[4:]
+            items = json.loads(content)
+        except json.JSONDecodeError:
+            items = [{"title": "Raw response", "summary": content[:500], "source": "perplexity", "url": ""}]
+
+        # Get citations if available
+        citations = data.get("citations", [])
+
+        return {
+            "source": "perplexity",
+            "category": category,
+            "query": query,
+            "recency_filter": recency,
+            "count": len(items) if isinstance(items, list) else 1,
+            "items": items if isinstance(items, list) else [items],
+            "citations": citations
+        }
+
+    except Exception as e:
+        return {"source": "perplexity", "category": category, "error": str(e), "items": []}
 
 
 # =============================================================================
@@ -133,94 +218,6 @@ def fetch_crypto_trending() -> dict:
 
 
 # =============================================================================
-# DATA SOURCE: Alpha Vantage (Free API key required)
-# =============================================================================
-
-def fetch_market_news(api_key: str, topics: str = "technology,financial_markets") -> dict:
-    """
-    Fetch market news and sentiment from Alpha Vantage.
-    Topics: blockchain, earnings, ipo, mergers_and_acquisitions,
-            financial_markets, economy_fiscal, economy_monetary,
-            economy_macro, energy_transportation, finance, life_sciences,
-            manufacturing, real_estate, retail_wholesale, technology
-    """
-    try:
-        url = "https://www.alphavantage.co/query"
-        params = {
-            "function": "NEWS_SENTIMENT",
-            "topics": topics,
-            "apikey": api_key,
-            "limit": 50
-        }
-        response = requests.get(url, params=params, timeout=15)
-        response.raise_for_status()
-        data = response.json()
-
-        items = []
-        for article in data.get("feed", [])[:30]:
-            items.append({
-                "title": article.get("title"),
-                "summary": article.get("summary", "")[:300],
-                "source": article.get("source"),
-                "url": article.get("url"),
-                "sentiment": article.get("overall_sentiment_label"),
-                "sentiment_score": article.get("overall_sentiment_score"),
-            })
-
-        return {
-            "source": "alphavantage",
-            "category": "macro_stocks",
-            "count": len(items),
-            "items": items
-        }
-    except Exception as e:
-        return {"source": "alphavantage", "error": str(e), "items": []}
-
-
-# =============================================================================
-# DATA SOURCE: NewsAPI (Free API key required)
-# =============================================================================
-
-def fetch_newsapi(api_key: str, query: str, category: str = "general") -> dict:
-    """
-    Fetch news from NewsAPI.
-    Categories: business, entertainment, general, health, science, sports, technology
-    """
-    try:
-        url = "https://newsapi.org/v2/everything"
-        params = {
-            "apiKey": api_key,
-            "q": query,
-            "language": "en",
-            "sortBy": "publishedAt",
-            "pageSize": 20
-        }
-        response = requests.get(url, params=params, timeout=10)
-        response.raise_for_status()
-        data = response.json()
-
-        items = []
-        for article in data.get("articles", []):
-            items.append({
-                "title": article.get("title"),
-                "description": article.get("description", "")[:200] if article.get("description") else "",
-                "source": article.get("source", {}).get("name"),
-                "url": article.get("url"),
-                "published": article.get("publishedAt"),
-            })
-
-        return {
-            "source": "newsapi",
-            "category": category,
-            "query": query,
-            "count": len(items),
-            "items": items
-        }
-    except Exception as e:
-        return {"source": "newsapi", "error": str(e), "items": []}
-
-
-# =============================================================================
 # VENICE AI SUMMARIZATION
 # =============================================================================
 
@@ -290,14 +287,14 @@ def compile_briefing() -> dict:
     }
 
     # Get API keys from environment
-    alphavantage_key = os.environ.get("ALPHAVANTAGE_API_KEY")
-    newsapi_key = os.environ.get("NEWSAPI_KEY")
+    perplexity_key = os.environ.get("PERPLEXITY_API_KEY")
     venice_key = os.environ.get("VENICE_API_KEY")
 
     # ==========================================================================
     # FETCH RAW DATA
     # ==========================================================================
 
+    # Free sources (no API key needed)
     print("Fetching Hacker News...")
     briefing["raw_data"]["hackernews"] = fetch_hackernews(limit=25)
 
@@ -307,30 +304,49 @@ def compile_briefing() -> dict:
     print("Fetching trending crypto...")
     briefing["raw_data"]["crypto_trending"] = fetch_crypto_trending()
 
-    if alphavantage_key:
-        print("Fetching market news from Alpha Vantage...")
-        briefing["raw_data"]["market_news"] = fetch_market_news(
-            alphavantage_key,
-            topics="technology,financial_markets,economy_macro,blockchain"
+    # Perplexity-powered news searches
+    if perplexity_key:
+        print("Fetching macro/market news via Perplexity...")
+        briefing["raw_data"]["macro_markets"] = fetch_perplexity_news(
+            perplexity_key,
+            query="What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
+            category="macro_stocks",
+            recency="day"
         )
-    else:
-        print("Skipping Alpha Vantage (no API key)")
 
-    if newsapi_key:
-        print("Fetching gaming news...")
-        briefing["raw_data"]["gaming"] = fetch_newsapi(
-            newsapi_key,
-            query="gaming OR video games OR esports OR PlayStation OR Xbox OR Nintendo",
-            category="gaming"
+        print("Fetching crypto news via Perplexity...")
+        briefing["raw_data"]["crypto_news"] = fetch_perplexity_news(
+            perplexity_key,
+            query="What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
+            category="crypto_news",
+            recency="day"
         )
-        print("Fetching AI news...")
-        briefing["raw_data"]["ai_news"] = fetch_newsapi(
-            newsapi_key,
-            query="artificial intelligence OR ChatGPT OR LLM OR machine learning",
-            category="ai"
+
+        print("Fetching AI news via Perplexity...")
+        briefing["raw_data"]["ai_news"] = fetch_perplexity_news(
+            perplexity_key,
+            query="What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
+            category="ai",
+            recency="day"
+        )
+
+        print("Fetching gaming news via Perplexity...")
+        briefing["raw_data"]["gaming"] = fetch_perplexity_news(
+            perplexity_key,
+            query="What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
+            category="gaming",
+            recency="day"
+        )
+
+        print("Fetching tech news via Perplexity...")
+        briefing["raw_data"]["tech_news"] = fetch_perplexity_news(
+            perplexity_key,
+            query="What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
+            category="tech",
+            recency="day"
         )
     else:
-        print("Skipping NewsAPI (no API key)")
+        print("Skipping Perplexity news (no API key)")
 
     # ==========================================================================
     # GENERATE AI SUMMARY
