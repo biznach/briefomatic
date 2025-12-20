@@ -370,23 +370,27 @@ def main():
     output_dir = Path(__file__).parent.parent / "output"
     output_dir.mkdir(exist_ok=True)
 
-    # Write JSON output
+    # Extract summary before writing JSON (no redundancy)
+    summary = briefing.pop("summary", None)
+    generated_at = briefing["generated_at_human"]
+
+    # Write JSON output (raw data only, no summary)
     output_file = output_dir / "briefing.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(briefing, f, indent=2, ensure_ascii=False)
 
-    print(f"\nBriefing generated: {output_file}")
-    print(f"Timestamp: {briefing['generated_at_human']}")
+    print(f"\nRaw data: {output_file}")
+    print(f"Timestamp: {generated_at}")
     print(f"Sections: {list(briefing['raw_data'].keys())}")
 
-    # Also write a markdown version for easy reading
-    if briefing.get("summary"):
-        md_file = output_dir / "briefing.md"
-        with open(md_file, "w", encoding="utf-8") as f:
+    # Write executive summary to markdown (separate file)
+    if summary:
+        summary_file = output_dir / "summary.md"
+        with open(summary_file, "w", encoding="utf-8") as f:
             f.write(f"# Daily Briefing\n\n")
-            f.write(f"*Generated: {briefing['generated_at_human']}*\n\n")
-            f.write(briefing["summary"])
-        print(f"Markdown version: {md_file}")
+            f.write(f"*Generated: {generated_at}*\n\n")
+            f.write(summary)
+        print(f"Summary: {summary_file}")
 
 
 if __name__ == "__main__":
