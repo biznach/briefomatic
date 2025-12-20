@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T12:07:03.443123+00:00",
-  "generated_at_human": "2025-12-20 12:07 UTC",
+  "generated_at": "2025-12-20T18:05:56.640172+00:00",
+  "generated_at_human": "2025-12-20 18:05 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,34 +8,100 @@
       "count": 25,
       "items": [
         {
-          "title": "NTP at NIST Boulder Has Lost Power",
-          "url": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
-          "score": 125,
-          "comments": 55
+          "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
+          "url": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
+          "score": 61,
+          "comments": 0
         },
         {
-          "title": "Charles Proxy",
-          "url": "https://www.charlesproxy.com/",
-          "score": 170,
-          "comments": 56
+          "title": "Log level 'error' should mean that something needs to be fixed",
+          "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
+          "score": 125,
+          "comments": 62
+        },
+        {
+          "title": "Go ahead, self-host Postgres",
+          "url": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
+          "score": 197,
+          "comments": 146
+        },
+        {
+          "title": "Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal",
+          "url": "https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal",
+          "score": 156,
+          "comments": 40
+        },
+        {
+          "title": "Immersa: Open-source Web-based 3D Presentation Tool",
+          "url": "https://github.com/ertugrulcetin/immersa",
+          "score": 79,
+          "comments": 11
+        },
+        {
+          "title": "NTP at NIST Boulder Has Lost Power",
+          "url": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
+          "score": 330,
+          "comments": 152
+        },
+        {
+          "title": "Maximizing Compression of Apple II Hi-Res Images",
+          "url": "http://deater.net/weave/vmwprod/hgr_compress/",
+          "score": 12,
+          "comments": 1
+        },
+        {
+          "title": "Skills Officially Comes to Codex",
+          "url": "https://developers.openai.com/codex/skills/",
+          "score": 172,
+          "comments": 86
+        },
+        {
+          "title": "Over 40% of Deceased Drivers in Vehicle Crashes Test Positive for THC: Study",
+          "url": "https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/",
+          "score": 66,
+          "comments": 68
+        },
+        {
+          "title": "Show HN: Claude Code Plugin to play music when waiting on user input",
+          "url": "https://github.com/Sevii/agent-marketplace/blob/main/plugins/elevator-music/README.md",
+          "score": 12,
+          "comments": 3
         },
         {
           "title": "CSS Grid Lanes",
           "url": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-          "score": 558,
-          "comments": 156
+          "score": 652,
+          "comments": 195
         },
         {
-          "title": "A terminal emulator that runs in your terminal. Powered by Turbo Vision",
-          "url": "https://github.com/magiblot/tvterm",
-          "score": 53,
-          "comments": 6
+          "title": "Privacy doesn't mean anything anymore, anonymity does",
+          "url": "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/",
+          "score": 269,
+          "comments": 190
         },
         {
           "title": "What Does a Database for SSDs Look Like?",
           "url": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
-          "score": 18,
-          "comments": 10
+          "score": 118,
+          "comments": 91
+        },
+        {
+          "title": "Reflections on AI at the End of 2025",
+          "url": "https://antirez.com/news/157",
+          "score": 130,
+          "comments": 198
+        },
+        {
+          "title": "Mistral OCR 3",
+          "url": "https://mistral.ai/news/mistral-ocr-3",
+          "score": 636,
+          "comments": 115
+        },
+        {
+          "title": "Charles Proxy",
+          "url": "https://www.charlesproxy.com/",
+          "score": 250,
+          "comments": 93
         },
         {
           "title": "Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)",
@@ -44,118 +110,52 @@
           "comments": 0
         },
         {
-          "title": "Skills Officially Comes to Codex",
-          "url": "https://developers.openai.com/codex/skills/",
-          "score": 42,
-          "comments": 10
-        },
-        {
-          "title": "Mistral OCR 3",
-          "url": "https://mistral.ai/news/mistral-ocr-3",
-          "score": 558,
-          "comments": 102
-        },
-        {
-          "title": "New Quantum Antenna Reveals a Hidden Terahertz World",
-          "url": "https://www.sciencedaily.com/releases/2025/12/251213032617.htm",
-          "score": 22,
-          "comments": 1
-        },
-        {
-          "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
-          "url": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
-          "score": 168,
-          "comments": 74
-        },
-        {
-          "title": "Privacy doesn't mean anything anymore, anonymity does",
-          "url": "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/",
-          "score": 116,
-          "comments": 81
+          "title": "Arduino UNO Q bridges high-performance computing with real-time control",
+          "url": "https://www.arduino.cc/product-uno-q/",
+          "score": 33,
+          "comments": 18
         },
         {
           "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
           "url": "https://garagehq.deuxfleurs.fr/",
-          "score": 596,
-          "comments": 128
+          "score": 649,
+          "comments": 143
+        },
+        {
+          "title": "A train-sized tunnel is now carrying electricity under South London",
+          "url": "https://www.ianvisits.co.uk/articles/a-train-sized-tunnel-is-now-carrying-electricity-under-south-london-86221/",
+          "score": 84,
+          "comments": 69
+        },
+        {
+          "title": "New Quantum Antenna Reveals a Hidden Terahertz World",
+          "url": "https://www.sciencedaily.com/releases/2025/12/251213032617.htm",
+          "score": 97,
+          "comments": 4
+        },
+        {
+          "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
+          "url": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
+          "score": 352,
+          "comments": 298
+        },
+        {
+          "title": "Extending ts-Wolfram: dropping OOP, kernel/userspace interop, better printing",
+          "url": "https://www.spakhm.com/ts-wolfram-ext",
+          "score": 3,
+          "comments": 1
+        },
+        {
+          "title": "A terminal emulator that runs in your terminal. Powered by Turbo Vision",
+          "url": "https://github.com/magiblot/tvterm",
+          "score": 100,
+          "comments": 14
         },
         {
           "title": "Contrails Map",
           "url": "https://map.contrails.org/",
-          "score": 46,
-          "comments": 16
-        },
-        {
-          "title": "The Deviancy Signal: Having \"Nothing to Hide\" Is a Threat to Us All",
-          "url": "https://thompson2026.com/blog/deviancy-signal/",
-          "score": 47,
-          "comments": 32
-        },
-        {
-          "title": "Sharp: High performance Node.js image processing/optimization",
-          "url": "https://github.com/lovell/sharp",
-          "score": 17,
-          "comments": 1
-        },
-        {
-          "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
-          "url": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
-          "score": 296,
-          "comments": 89
-        },
-        {
-          "title": "Fuzix on a Raspberry Pi Pico",
-          "url": "https://ewpratten.com/blog/fuzix-pi-pico",
-          "score": 68,
-          "comments": 6
-        },
-        {
-          "title": "Graphite is joining Cursor",
-          "url": "https://cursor.com/blog/graphite",
-          "score": 236,
-          "comments": 234
-        },
-        {
-          "title": "Carolina Cloud – One third the cost of AWS for data science workloads",
-          "url": "https://carolinacloud.io/",
-          "score": 115,
-          "comments": 61
-        },
-        {
-          "title": "8-bit Boléro",
-          "url": "https://linusakesson.net/music/bolero/index.php",
-          "score": 266,
-          "comments": 40
-        },
-        {
-          "title": "LLM Year in Review",
-          "url": "https://karpathy.bearblog.dev/year-in-review-2025/",
-          "score": 241,
-          "comments": 65
-        },
-        {
-          "title": "A better zip bomb (2019)",
-          "url": "https://www.bamsoftware.com/hacks/zipbomb/",
-          "score": 141,
-          "comments": 53
-        },
-        {
-          "title": "Hash tables in Go and advantage of self-hosted compilers",
-          "url": "https://rushter.com/blog/go-and-hashmaps/",
-          "score": 9,
-          "comments": 1
-        },
-        {
-          "title": "Brown/MIT shooting suspect found dead, officials say",
-          "url": "https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/",
-          "score": 159,
-          "comments": 194
-        },
-        {
-          "title": "Feast Your Eyes on Japan's Fake Food",
-          "url": "https://www.newyorker.com/culture/annals-of-gastronomy/feast-your-eyes-on-japans-fake-food",
-          "score": 21,
-          "comments": 8
+          "score": 107,
+          "comments": 48
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 88224,
-          "change_24h": 0.15,
-          "change_7d": -2.35,
-          "market_cap": 1761624768901
+          "price": 88122,
+          "change_24h": 1.26,
+          "change_7d": -2.19,
+          "market_cap": 1760150198297
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2985.84,
-          "change_24h": 0.82,
-          "change_7d": -4.34,
-          "market_cap": 360344342052
+          "price": 2975.74,
+          "change_24h": 0.92,
+          "change_7d": -4.03,
+          "market_cap": 359469974186
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 126.33,
-          "change_24h": 0.87,
-          "change_7d": -5.36,
-          "market_cap": 71029930056
+          "price": 125.94,
+          "change_24h": 1.65,
+          "change_7d": -4.79,
+          "market_cap": 70825849700
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.131892,
-          "change_24h": 2.94,
-          "change_7d": -5.02,
-          "market_cap": 22148589409
+          "price": 0.131692,
+          "change_24h": 1.23,
+          "change_7d": -5.26,
+          "market_cap": 22115731625
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.37811,
-          "change_24h": 3.37,
-          "change_7d": -8.89,
-          "market_cap": 13863461684
+          "price": 0.376169,
+          "change_24h": 1.66,
+          "change_7d": -8.44,
+          "market_cap": 13781837951
         }
       ]
     },
@@ -212,9 +212,24 @@
       "count": 10,
       "items": [
         {
+          "name": "Midnight",
+          "symbol": "NIGHT",
+          "market_cap_rank": 83
+        },
+        {
           "name": "Canton",
           "symbol": "CC",
-          "market_cap_rank": 42
+          "market_cap_rank": 44
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 273
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 132
         },
         {
           "name": "Zcash",
@@ -222,34 +237,9 @@
           "market_cap_rank": 25
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 131
-        },
-        {
           "name": "Bitlight",
           "symbol": "LIGHT",
-          "market_cap_rank": 371
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 270
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Midnight",
-          "symbol": "NIGHT",
-          "market_cap_rank": 90
-        },
-        {
-          "name": "Aster",
-          "symbol": "ASTER",
-          "market_cap_rank": 62
+          "market_cap_rank": 351
         },
         {
           "name": "Bitcoin",
@@ -260,6 +250,16 @@
           "name": "Bittensor",
           "symbol": "TAO",
           "market_cap_rank": 55
+        },
+        {
+          "name": "Plume",
+          "symbol": "PLUME",
+          "market_cap_rank": 608
+        },
+        {
+          "name": "Terra Luna Classic",
+          "symbol": "LUNC",
+          "market_cap_rank": 254
         }
       ]
     },
@@ -268,43 +268,24 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 2,
       "items": [
         {
-          "title": "Major U.S. indexes gain Friday after cooler CPI data and Nvidia-led rebound",
-          "summary": "The S&P 500 rose 0.9% to 6,834.50, the Nasdaq gained 1.3% to 23,307.62, and the Dow added 0.4% to 48,134.89 as AI and big-tech names rallied following softer inflation signals and positive corporate headlines[3][1].",
-          "source": "Barchart / eOption",
-          "url": "https://www.barchart.com/story/news/36721497/how-major-us-stock-indexes-fared-friday-12-19-2025"
-        },
-        {
-          "title": "Weekly market recap: tech drags broader indices amid still-resilient economy",
-          "summary": "Over the week equities were choppy—S&P 500 and Nasdaq showed notable volatility with weakness concentrated in mega-cap tech and AI-exposed stocks, leaving equal-weight and value-oriented benchmarks relatively stronger[2].",
-          "source": "Financial Synergies",
-          "url": "https://www.finsyn.com/weekly-market-recap-dec-19-2025/"
-        },
-        {
-          "title": "Bank of Japan raises rate to highest in 30 years; Japanese stocks rise",
-          "summary": "The Bank of Japan lifted its benchmark interest rate to its highest level in three decades, and Japanese equities closed higher on the move[3].",
-          "source": "Barchart",
-          "url": "https://www.barchart.com/story/news/36721497/how-major-us-stock-indexes-fared-friday-12-19-2025"
-        },
-        {
-          "title": "Corporate earnings/moves: Oracle joins U.S. TikTok JV; Winnebago beats estimates",
-          "summary": "Oracle rallied after joining a new joint venture related to TikTok in the U.S., while Winnebago reported profits and revenue above expectations; Nike traded down in pre-market after mixed investor reaction to results[3][1].",
-          "source": "Barchart / eOption",
-          "url": "https://www.barchart.com/story/news/36721497/how-major-us-stock-indexes-fared-friday-12-19-2025"
-        },
-        {
-          "title": "Market breadth and sector leadership Friday: Tech, healthcare, energy outperform",
-          "summary": "Breadth favored advancers and sector leaders included Technology (+~1.6–2.1%), Health Care, and Energy, while Consumer Staples and Utilities lagged during the session[1].",
-          "source": "eOption",
+          "title": "US major indices advanced on Dec. 19 after cooler CPI and mixed earnings",
+          "summary": "The Dow, S&P 500, Nasdaq and Russell 2000 all closed higher on Dec. 19, with Nasdaq leading gains after cooler CPI data and some positive corporate reports; technology, health care and energy outperformed while consumer staples and real estate lagged in intraday action.[1]",
+          "source": "eOption (Market Review)",
           "url": "https://www.eoption.com/market-review-december-19-2025/"
+        },
+        {
+          "title": "Weekly recap: Big Tech weakness drove indices lower over the week",
+          "summary": "Over the week ending Dec. 19 the S&P 500 fell about 2% and the Nasdaq and Russell 2000 declined nearly 3% as weakness was concentrated in mega-cap tech and AI-related stocks, while value and defensive sectors outperformed and Treasury yields drifted lower.[2]",
+          "source": "Financial Synergies (Weekly Market Recap)",
+          "url": "https://www.finsyn.com/weekly-market-recap-dec-19-2025/"
         }
       ],
       "citations": [
         "https://www.eoption.com/market-review-december-19-2025/",
-        "https://www.finsyn.com/weekly-market-recap-dec-19-2025/",
-        "https://www.barchart.com/story/news/36721497/how-major-us-stock-indexes-fared-friday-12-19-2025"
+        "https://www.finsyn.com/weekly-market-recap-dec-19-2025/"
       ]
     },
     "crypto_news": {
@@ -312,46 +293,38 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "XRP ETFs continue strong inflows after 2025 regulatory settlement",
-          "summary": "Institutional allocation into XRP-focused ETFs has accelerated following Ripple’s 2025 settlement with the SEC, driving roughly $423 million in inflows since mid-November and pushing ETF AUM for XRP toward $1 billion as investors favor payment-utility assets over pure speculation.",
-          "source": "AInvest",
-          "url": "https://www.ainvest.com/news/strategic-case-rotating-crypto-exposure-btc-eth-xrp-regulated-etf-driven-market-2512/"
+          "title": "Binance market update: mixed trading, BTC steady near $88k",
+          "summary": "Binance reports most large-cap cryptocurrencies traded mixed over the past 24 hours while Bitcoin traded in an $86.8k–$89.4k range and was near $88.3k, with global crypto market cap about $2.98T and select small-cap tokens outperforming (SOPH, GIGGLE, ANIME).",
+          "source": "Binance",
+          "url": "https://www.binance.com/en-JP/square/post/12-20-2025-binance-market-update-crypto-market-trends-december-20-2025-33961884901826"
         },
         {
-          "title": "Coinbase publishes bullish 2026 market outlook highlighting RWA tokenization",
-          "summary": "Coinbase's 2026 Crypto Market Outlook forecasts deeper institutional integration of crypto, emphasizing clearer regulation, growth of real-world-asset (RWA) tokenization, and infrastructure that could move digital assets toward core financial-system roles by 2026.",
-          "source": "CryptoRank (reporting on Coinbase outlook)",
-          "url": "https://cryptorank.io/news/feed/1f929-crypto-financial-system-2026-coinbase"
+          "title": "Crypto market livestream commentary: technical market analysis",
+          "summary": "A live market-analysis stream (Candle King) provided real-time chart and trading commentary for December 20, focusing on price action and trading education rather than breaking fundamental news.",
+          "source": "YouTube (Candle King)",
+          "url": "https://www.youtube.com/watch?v=HX-Ks_LGFQs"
         },
         {
-          "title": "Institutional interest in Bitcoin as yield and portfolio diversifier grows",
-          "summary": "Analysts and industry commentary argue institutions are increasingly viewing Bitcoin as a source of yield and a portfolio diversifier amid lower certainty in traditional 'risk-free' assets, supporting demand from long-term, yield-seeking investors.",
-          "source": "FinTech Weekly",
+          "title": "Institutional adoption theme: Bitcoin as yield-generating asset",
+          "summary": "Fintech Weekly highlights institutional interest in using Bitcoin to generate yield via regulated lending, collateralized strategies and arbitrage, arguing these developments shift Bitcoin’s role from pure store-of-value toward productive capital for portfolios.",
+          "source": "Fintech Weekly",
           "url": "https://www.fintechweekly.com/magazine/articles/institutional-portfolios-bitcoin-yield-new-income-sources"
         },
         {
-          "title": "Market commentary — mixed price action with select altcoin outperformers",
-          "summary": "Market updates show mixed trading across major market-cap cryptocurrencies while smaller tokens SOPH, GIGGLE, and ANIME are listed as top daily outperformers with gains of roughly 45%, 26%, and 25% respectively in Binance's Dec. 20 market update.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/33961884901826"
-        },
-        {
-          "title": "Analysts and pundits predict renewed crypto price highs in 2026",
-          "summary": "Various market commentators and analysts are projecting that improving liquidity trends, ETF flows, and institutional adoption could drive Bitcoin and broader crypto markets toward new highs in 2026, with some bullish price forecasts appearing in market roundups.",
-          "source": "99Bitcoins (market roundup)",
+          "title": "Market commentary: bullish forecasts and liquidity outlook for 2026",
+          "summary": "Crypto news roundups (e.g., 99Bitcoins) and market commentators point to improving liquidity and bullish predictions for Bitcoin and broader crypto into 2026, suggesting potential for new highs if macro and liquidity conditions continue to improve.",
+          "source": "99Bitcoins",
           "url": "https://99bitcoins.com/news/altcoins/crypto-market-news-today-december-20-crypto-and-bitcoin-price-to-hit-new-all-time-high-next-year-bessent-warren-vendetta/"
         }
       ],
       "citations": [
-        "https://www.ainvest.com/news/strategic-case-rotating-crypto-exposure-btc-eth-xrp-regulated-etf-driven-market-2512/",
-        "https://cryptorank.io/news/feed/1f929-crypto-financial-system-2026-coinbase",
+        "https://www.binance.com/en-JP/square/post/12-20-2025-binance-market-update-crypto-market-trends-december-20-2025-33961884901826",
+        "https://www.youtube.com/watch?v=HX-Ks_LGFQs",
         "https://www.fintechweekly.com/magazine/articles/institutional-portfolios-bitcoin-yield-new-income-sources",
-        "https://99bitcoins.com/news/altcoins/crypto-market-news-today-december-20-crypto-and-bitcoin-price-to-hit-new-all-time-high-next-year-bessent-warren-vendetta/",
-        "https://www.nasdaq.com/articles/1-top-cryptocurrency-buy-it-soars-much-2000-according-tom-lee-fundstrat",
-        "https://www.binance.com/en/square/post/33961884901826"
+        "https://99bitcoins.com/news/altcoins/crypto-market-news-today-december-20-crypto-and-bitcoin-price-to-hit-new-all-time-high-next-year-bessent-warren-vendetta/"
       ]
     },
     "ai_news": {
@@ -359,34 +332,39 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Nature Publishes Wearable AI Breakthrough for On-Device Frailty Assessment",
-          "summary": "A new study in Nature Communications introduces a wearable AI device framework for continuous, on-device frailty assessment using gait analysis, matching gold standard diagnostics in trials with 16 and 14 participants. The system enables extended wear without user intervention, processing high-rate biosignals autonomously.",
-          "source": "Nature Communications",
-          "url": "https://www.nature.com/articles/s41467-025-67728-y"
+          "title": "Humanoid robotics and AI capabilities surge in 2025 — broad YouTube roundup",
+          "summary": "A widely viewed YouTube episode summarized rapid 2025 advances in humanoid robots, including cheaper, faster platforms, increased real-world deployment, and research linking simulation-to-real training (ASAP) for agile movement, highlighting risks around autonomous weapons and public deployments.",
+          "source": "AI Revolution (YouTube)",
+          "url": "https://www.youtube.com/watch?v=a4Y_VVuqYyk"
         },
         {
-          "title": "Nabla Announces Exclusive Partnership with Yann LeCun's Advanced Machine Intelligence",
-          "summary": "On December 18, 2025, Nabla partnered with Yann LeCun's new AI firm for first access to world model technologies, aiming to develop FDA-certifiable agentic AI for healthcare beyond LLMs. The collaboration focuses on deterministic reasoning and handling continuous medical data.",
+          "title": "Nabla announces strategic partnership with Yann LeCun’s new research company",
+          "summary": "Nabla said it forged an exclusive strategic partnership with Advanced Machine Intelligence, a company founded by Yann LeCun, to gain early access to 'world model' technologies for building agentic, FDA-certifiable clinical AI systems designed to improve deterministic reasoning and handling of continuous medical signals.",
           "source": "Quantum Zeitgeist",
           "url": "https://quantumzeitgeist.com/nabla-ai-lecun-ai-partnership/"
         },
         {
-          "title": "AI Robotics Advances Highlighted: Combat Robots, Humanoids, and New Training Frameworks",
-          "summary": "A recent YouTube update covers 2025 AI robotics progress including AI-powered combat robots, new humanoids from Unitree, Tesla Optimus, Figure, and Boston Dynamics' Atlas, plus Nvidia and Carnegie Mellon University's ASAP framework for agile robotics training.",
-          "source": "AI Revolution (YouTube)",
-          "url": "https://www.youtube.com/watch?v=a4Y_VVuqYyk"
+          "title": "Unified dynamics paper links cosmology, biology and machine learning",
+          "summary": "Researchers from IIT Roorkee published a theoretical framework proposing common dynamical principles across the Big Bang, biological evolution, and machine learning, presenting mathematical motifs for complexity and adaptation and releasing a preprint on arXiv.",
+          "source": "Quantum News (reported online)",
+          "url": "https://arxiv.org/abs/2512.16515"
+        },
+        {
+          "title": "AI reshapes cybersecurity: defenders and attackers both gain new capabilities",
+          "summary": "A 2025 industry overview reports AI is accelerating threat detection and response while enabling more automated attacks—AI-generated phishing, deepfakes and supply-chain compromises are increasingly common—prompting expanded training and credential programs to upskill cybersecurity workforces.",
+          "source": "NextMSC (industry blog)",
+          "url": "https://www.nextmsc.com/blogs/how-is-ai-transforming-cybersecurity-in-2025"
         }
       ],
       "citations": [
-        "https://gpt.gekko.de/the-state-of-ai-2025-hype-winners-and-losers/",
         "https://www.youtube.com/watch?v=a4Y_VVuqYyk",
         "https://quantumzeitgeist.com/nabla-ai-lecun-ai-partnership/",
-        "https://unu.edu/cris/blog-post/unlocking-solutions-ai-disaster-management-and-psychosocial-well-being",
-        "https://www.nature.com/articles/s41467-025-67728-y",
-        "http://www.buffalo.edu/ubnow/stories/2025/12/year-in-ai.html"
+        "https://www.nextmsc.com/blogs/how-is-ai-transforming-cybersecurity-in-2025",
+        "https://quantumzeitgeist.com/ai-systems-big-bang-unified-dynamics-enables-understanding-complex/",
+        "https://pdamerica.org/sundays-town-hall-why-progressives-must-lead-on-ai-policy/"
       ]
     },
     "gaming": {
@@ -394,35 +372,17 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
-      "items": [
-        {
-          "title": "Epic Games Store Offers Eternights as Free Game for December 19-20",
-          "summary": "The Epic Games Store is giving away Eternights for free from December 19 to 20, 2025, continuing their daily free game promotion. Previous titles include Jotunslayer: Hordes of Hel and Hogwarts Legacy.",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/"
-        },
-        {
-          "title": "Steel Ball Run: JoJo's Bizarre Adventure Anime Reveals New Trailer and Cast",
-          "summary": "A new trailer for the Steel Ball Run anime adaptation of JoJo's Bizarre Adventure was released, announcing Episode 1 premiere on March 19, 2026, along with voice actors for Pocoloco and Sand Man.",
-          "source": "JoJo News",
-          "url": "https://jojo-news.com/2025/12/19/steel-ball-run-jojos-bizarre-adventure-anime-new-trailer-release-date-and-more-cast-revealed/"
-        },
-        {
-          "title": "Homebois vs Influence Rage Match Highlighted in Mobile Legends Esports Stream",
-          "summary": "A rage match between Homebois and Influence in Mobile Legends Bang Bang featured intense plays, with Influence securing advantages in mid-lane and objectives during the December 19 stream.",
-          "source": "YouTube - Hilman Aufa",
-          "url": "https://www.youtube.com/watch?v=-NW8CrxaCkY"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
+        "https://www.bittime.com/en/blog/Tomarket-daily-combo-19-20-desember-2025",
         "https://boards.4chan.org/vg/thread/550783926",
+        "https://www.youtube.com/watch?v=3nvnC5eyQDA",
         "https://boards.4chan.org/vg/thread/550770682",
-        "https://www.youtube.com/watch?v=-NW8CrxaCkY",
-        "https://chl.ca/whl-raiders/video/prince-albert-toyota-game-highlights-december-19-vs-kelowna",
+        "https://boards.4chan.org/vg/thread/550754539",
+        "https://www.youtube.com/watch?v=eRqyiWjaZss",
         "https://jojo-news.com/2025/12/19/steel-ball-run-jojos-bizarre-adventure-anime-new-trailer-release-date-and-more-cast-revealed/",
-        "https://www.youtube.com/watch?v=cFfSiSBXOq8"
+        "https://bentleyfalcons.com/boxscore.aspx?id=8139"
       ]
     },
     "tech_news": {
@@ -430,46 +390,58 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Netflix Acquires Gaming Avatar Maker Ready Player Me",
-          "summary": "Netflix has acquired Ready Player Me, a company specializing in gaming avatars, to enhance its gaming offerings. The deal was announced on December 19, 2025.",
-          "source": "TechCrunch",
+          "title": "U.S. Department of Energy launches ‘Genesis’ research collaboration with big tech and startups",
+          "summary": "The DOE announced a major research mission joining government, large technology firms and smaller companies to accelerate energy and scientific computing projects—partnering with firms across cloud, hardware and software to support DOE facilities and research programs.",
+          "source": "Reuters (reported in news roundups)",
+          "url": "https://www.reuters.com/business/retail-consumer/us-energy-department-taps-big-tech-ai-powered-research-push-2025-12-18/"
+        },
+        {
+          "title": "Netflix acquires avatar-maker Ready Player Me to boost cross-platform experiences",
+          "summary": "Netflix agreed to acquire Ready Player Me, a maker of interoperable 3D avatars and avatar-creation tools, to expand its capabilities in gaming and social/interactive experiences across devices and platforms.",
+          "source": "TechCrunch (reported in news roundups)",
           "url": "https://techcrunch.com/2025/12/19/netflix-acquires-gaming-avatar-maker-ready-player-me/"
         },
         {
-          "title": "Russia-Linked Hackers Launch Microsoft 365 Phishing Campaign",
-          "summary": "Russia-linked hackers have initiated a phishing campaign targeting Microsoft 365 credentials, posing significant cybersecurity risks. The campaign was reported on December 19, 2025.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html"
-        },
-        {
-          "title": "Google Sees 20% of AI Software Dev Hires as Former Employees Returning",
-          "summary": "Google is experiencing a 'boomerang' hiring trend where one in five AI software developers hired in 2025 are former employees returning to the company. This was highlighted in reports from December 19, 2025.",
-          "source": "CNBC",
+          "title": "Google reports strong ‘boomerang’ hiring trend for engineering roles",
+          "summary": "Google said a notable share of hires this year have been returning former employees—part of broader tech-sector hiring patterns as companies rehire experienced talent to accelerate product work.",
+          "source": "CNBC (reported in media roundups)",
           "url": "https://www.cnbc.com/2025/12/19/google-boomerang-year-20percent-ai-software-devs-hired-2025-ex-employees.html"
         },
         {
-          "title": "New Report on Intelligent Shopping Carts Market Forecast 2025-2030",
-          "summary": "Research and Markets released a global forecast for the intelligent shopping carts market, highlighting innovations from companies like Amazon, AiFi, and Standard Cognition. The report was published on December 19, 2025.",
-          "source": "Research and Markets",
-          "url": "www.researchandmarkets.com/r/igubbf"
+          "title": "Russian-linked Microsoft 365 phishing campaign targets enterprise users",
+          "summary": "Security researchers disclosed a phishing campaign attributed to Russia-linked actors that abuses Microsoft 365 workflows to harvest credentials and bypass protections, prompting fresh guidance for enterprise admins.",
+          "source": "The Hacker News (reported in news roundups)",
+          "url": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html"
         },
         {
-          "title": "AI Hyperscalers Continue Bond Issuance for Data Center Expansion",
-          "summary": "Major hyperscalers like Meta, Alphabet, and Amazon raised tens of billions in bonds last month to fund capital expenditures, with debt-to-cash ratios improving. Analysts note room for elevated debt issuance amid infrastructure builds, reported December 19, 2025.",
+          "title": "Netflix push into gaming and social avatars signals broader media–tech convergence",
+          "summary": "Industry coverage highlights Netflix’s Ready Player Me purchase as part of a wider strategy by media companies to integrate real-time 3D, avatars and interactive features into streaming and games to increase engagement.",
+          "source": "Tech industry coverage (summarized from multiple outlets)",
+          "url": ""
+        },
+        {
+          "title": "Research reports spotlight growth areas: intelligent shopping carts and payment gateways",
+          "summary": "Market research releases highlighted opportunities in retail tech—intelligent shopping carts—and an $86.9 billion opportunity in payment gateways driven by BNPL, mobile wallets and blockchain integrations.",
+          "source": "Research and Markets / GlobeNewswire (via newswire summaries)",
+          "url": ""
+        },
+        {
+          "title": "Entertainment production company Asteria emphasizes ethical, permission-based AI video tools",
+          "summary": "Asteria and partners promoted a film-focused AI video tool that uses only open-license or explicitly permitted source material, positioning ethical sourcing as a selling point amid copyright controversies in generative video.",
           "source": "Fortune",
-          "url": "https://fortune.com/2025/12/19/ai-hyperscalers-debt-issuance-bond-binge-cash-flow-capital-expenditures/"
+          "url": "https://fortune.com/2025/12/20/natasha-lyonne-ai-ethics-asteria-production-moonvalley-marey-video-generation/"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=dht9D5aP9uk",
+        "https://www.youtube.com/watch?v=NgsT-cfzZug",
         "https://www.youtube.com/watch?v=4hCpm4IPS3I",
-        "https://fortune.com/2025/12/19/nvidia-jensen-huang-book-thinking-machine-stephen-witt-interview/",
-        "https://fortune.com/2025/12/19/yann-lecun-ami-labs-ai-startup-valuation-meta-departure/",
+        "https://www.moomoo.com/community/feed/us-stock-market-watch-evening-report-friday-december-19-2025-115749699256325",
         "https://greensheet.com/newswire&article_id=62985",
-        "https://fortune.com/2025/12/19/ai-hyperscalers-debt-issuance-bond-binge-cash-flow-capital-expenditures/"
+        "https://greensheet.com/newswire&article_id=62988",
+        "https://fortune.com/2025/12/20/natasha-lyonne-ai-ethics-asteria-production-moonvalley-marey-video-generation/"
       ]
     }
   }
