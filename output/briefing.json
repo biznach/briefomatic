@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T00:21:11.213322+00:00",
-  "generated_at_human": "2025-12-22 00:21 UTC",
+  "generated_at": "2025-12-22T06:08:22.520558+00:00",
+  "generated_at_human": "2025-12-22 06:08 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -10,152 +10,152 @@
         {
           "title": "A guide to local coding models",
           "url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
-          "score": 152,
-          "comments": 72
+          "score": 332,
+          "comments": 166
         },
         {
-          "title": "Show HN: Books mentioned on Hacker News in 2025",
-          "url": "https://hackernews-readings-613604506318.us-west1.run.app",
-          "score": 312,
-          "comments": 120
+          "title": "Deliberate Internet Shutdowns",
+          "url": "https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html",
+          "score": 110,
+          "comments": 35
+        },
+        {
+          "title": "Webb observes exoplanet that may have an exotic helium and carbon atmosphere",
+          "url": "https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/",
+          "score": 24,
+          "comments": 3
         },
         {
           "title": "I'm just having fun",
           "url": "https://jyn.dev/i-m-just-having-fun/",
-          "score": 88,
-          "comments": 27
-        },
-        {
-          "title": "Rue: Higher level than Rust, lower level than Go",
-          "url": "https://rue-lang.dev/",
-          "score": 65,
-          "comments": 39
+          "score": 271,
+          "comments": 86
         },
         {
           "title": "Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
           "url": "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/",
-          "score": 34,
-          "comments": 12
+          "score": 154,
+          "comments": 64
         },
         {
-          "title": "Evaluating chain-of-thought monitorability",
-          "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/",
-          "score": 16,
+          "title": "Show HN: Books mentioned on Hacker News in 2025",
+          "url": "https://hackernews-readings-613604506318.us-west1.run.app",
+          "score": 387,
+          "comments": 147
+        },
+        {
+          "title": "Build Android apps using Rust and Iced",
+          "url": "https://github.com/ibaryshnikov/android-iced-example",
+          "score": 26,
+          "comments": 8
+        },
+        {
+          "title": "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
+          "url": "https://ym2132.github.io/ONNX_MLProgram_NN_exploration",
+          "score": 53,
+          "comments": 8
+        },
+        {
+          "title": "Kernighan's Lever",
+          "url": "https://linusakesson.net/programming/kernighans-lever/index.php",
+          "score": 27,
+          "comments": 8
+        },
+        {
+          "title": "Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs",
+          "url": "https://eulumdat.icu",
+          "score": 8,
           "comments": 0
-        },
-        {
-          "title": "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
-          "url": "https://mastodon.online/@mullvadnet/115742530333573065",
-          "score": 413,
-          "comments": 132
-        },
-        {
-          "title": "Show HN: WalletWallet – create Apple passes from anything",
-          "url": "https://walletwallet.alen.ro/",
-          "score": 263,
-          "comments": 79
-        },
-        {
-          "title": "Show HN: Autograd.c – A tiny ML framework built from scratch",
-          "url": "https://github.com/sueszli/autograd.c",
-          "score": 38,
-          "comments": 3
-        },
-        {
-          "title": "I program on the subway",
-          "url": "https://www.scd31.com/posts/programming-on-the-subway",
-          "score": 148,
-          "comments": 97
         },
         {
           "title": "CO2 batteries that store grid energy take off globally",
           "url": "https://spectrum.ieee.org/co2-battery-energy-storage",
-          "score": 120,
-          "comments": 95
+          "score": 194,
+          "comments": 166
         },
         {
-          "title": "You’re not burnt out, you’re existentially starving",
-          "url": "https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/",
-          "score": 179,
-          "comments": 196
+          "title": "Luke Howard’s essay on the modification of clouds (1865)",
+          "url": "https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/",
+          "score": 6,
+          "comments": 0
         },
         {
-          "title": "I can't upgrade to Windows 11, now leave me alone",
-          "url": "https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone",
-          "score": 300,
-          "comments": 278
+          "title": "Show HN: WalletWallet – create Apple passes from anything",
+          "url": "https://walletwallet.alen.ro/",
+          "score": 340,
+          "comments": 98
+        },
+        {
+          "title": "I program on the subway",
+          "url": "https://www.scd31.com/posts/programming-on-the-subway",
+          "score": 198,
+          "comments": 134
+        },
+        {
+          "title": "Evaluating chain-of-thought monitorability",
+          "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/",
+          "score": 45,
+          "comments": 16
+        },
+        {
+          "title": "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
+          "url": "https://mastodon.online/@mullvadnet/115742530333573065",
+          "score": 514,
+          "comments": 166
+        },
+        {
+          "title": "Cursed circuits #3: true mathematics",
+          "url": "https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics",
+          "score": 3,
+          "comments": 0
+        },
+        {
+          "title": "Exploring Speculative JIT Compilation for Emacs Lisp with Java",
+          "url": "https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/",
+          "score": 8,
+          "comments": 1
+        },
+        {
+          "title": "Show HN: Autograd.c – A tiny ML framework built from scratch",
+          "url": "https://github.com/sueszli/autograd.c",
+          "score": 74,
+          "comments": 8
+        },
+        {
+          "title": "Functional Flocking Quadtree in ClojureScript",
+          "url": "https://www.lbjgruppen.com/en/posts/flocking-quadtrees",
+          "score": 7,
+          "comments": 0
         },
         {
           "title": "E.W.Dijkstra Archive",
           "url": "https://www.cs.utexas.edu/~EWD/welcome.html",
-          "score": 101,
-          "comments": 8
+          "score": 129,
+          "comments": 12
+        },
+        {
+          "title": "86Box v5.3",
+          "url": "https://86box.net/2025/12/21/86box-v5-3.html",
+          "score": 47,
+          "comments": 1
         },
         {
           "title": "Autoland saves King Air, everyone reported safe",
           "url": "https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/",
-          "score": 77,
-          "comments": 31
+          "score": 192,
+          "comments": 111
         },
         {
-          "title": "Structured outputs create false confidence",
-          "url": "https://boundaryml.com/blog/structured-outputs-create-false-confidence",
-          "score": 109,
-          "comments": 54
-        },
-        {
-          "title": "ARIN Public Incident Report – 4.10 Misissuance Error",
-          "url": "https://www.arin.net/announcements/20251212/",
-          "score": 130,
-          "comments": 34
-        },
-        {
-          "title": "More on whether useful quantum computing is “imminent”",
-          "url": "https://scottaaronson.blog/?p=9425",
-          "score": 55,
-          "comments": 41
-        },
-        {
-          "title": "Get an AI code review in 10 seconds",
-          "url": "https://oldmanrahul.com/2025/12/19/ai-code-review-trick/",
-          "score": 84,
-          "comments": 45
+          "title": "You’re not burnt out, you’re existentially starving",
+          "url": "https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/",
+          "score": 263,
+          "comments": 316
         },
         {
           "title": "Ruby website redesigned",
           "url": "https://www.ruby-lang.org/en/",
-          "score": 353,
-          "comments": 136
-        },
-        {
-          "title": "Coarse is better",
-          "url": "https://borretti.me/article/coarse-is-better",
-          "score": 175,
-          "comments": 94
-        },
-        {
-          "title": "Indoor tanning makes youthful skin much older on a genetic level",
-          "url": "https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level",
-          "score": 213,
+          "score": 385,
           "comments": 156
-        },
-        {
-          "title": "The gift card accountability sink",
-          "url": "https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/",
-          "score": 73,
-          "comments": 44
-        },
-        {
-          "title": "Why “negative vectors” can't delete data in FAISS – but weighted kernels can",
-          "url": "https://github.com/nikitph/bloomin/tree/master/negative-vector-experiment",
-          "score": 4,
-          "comments": 0
-        },
-        {
-          "title": "Waymo halts service during S.F. blackout after causing traffic jams",
-          "url": "https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/",
-          "score": 170,
-          "comments": 252
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 89131,
-          "change_24h": 0.9,
-          "change_7d": 1.02,
-          "market_cap": 1770771514535
+          "price": 88786,
+          "change_24h": 0.77,
+          "change_7d": -0.98,
+          "market_cap": 1772559216389
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3026.72,
-          "change_24h": 1.64,
-          "change_7d": -1.26,
-          "market_cap": 362535030252
+          "price": 3026.68,
+          "change_24h": 1.77,
+          "change_7d": -3.12,
+          "market_cap": 365205699138
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 127.17,
-          "change_24h": 1.12,
-          "change_7d": -1.8,
-          "market_cap": 71511950166
+          "price": 126.2,
+          "change_24h": 0.83,
+          "change_7d": -4.32,
+          "market_cap": 71043774563
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.132704,
-          "change_24h": 0.55,
-          "change_7d": -1.16,
-          "market_cap": 22069979838
+          "price": 0.131845,
+          "change_24h": 0.33,
+          "change_7d": -3.55,
+          "market_cap": 22174054966
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.370634,
-          "change_24h": -0.57,
-          "change_7d": -6.53,
-          "market_cap": 13588719893
+          "price": 0.36593,
+          "change_24h": -0.51,
+          "change_7d": -9.37,
+          "market_cap": 13428685089
         }
       ]
     },
@@ -212,34 +212,44 @@
       "count": 10,
       "items": [
         {
-          "name": "Midnight",
-          "symbol": "NIGHT",
-          "market_cap_rank": 58
-        },
-        {
           "name": "Bitlight",
           "symbol": "LIGHT",
-          "market_cap_rank": 657
+          "market_cap_rank": 755
         },
         {
-          "name": "RaveDAO",
-          "symbol": "RAVE",
-          "market_cap_rank": 301
+          "name": "Midnight",
+          "symbol": "NIGHT",
+          "market_cap_rank": 62
         },
         {
           "name": "zkPass",
           "symbol": "ZKP",
-          "market_cap_rank": 834
+          "market_cap_rank": 842
         },
         {
-          "name": "Aave",
-          "symbol": "AAVE",
-          "market_cap_rank": 50
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 261
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Audiera",
+          "symbol": "BEAT",
+          "market_cap_rank": 133
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 134
+        },
+        {
+          "name": "Uniswap",
+          "symbol": "UNI",
+          "market_cap_rank": 38
+        },
+        {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 25
         },
         {
           "name": "Hyperliquid",
@@ -247,19 +257,9 @@
           "market_cap_rank": 27
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "Render",
-          "symbol": "RENDER",
-          "market_cap_rank": 122
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 133
+          "name": "Canton",
+          "symbol": "CC",
+          "market_cap_rank": 45
         }
       ]
     },
@@ -268,46 +268,39 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "U.S. Stock Futures Rise Ahead of Holiday-Shortened Week",
-          "summary": "Dow Jones futures up 80 points (0.2%), S&P 500 and Nasdaq-100 futures advanced late Sunday as investors hope for a Santa Claus rally. Markets close early Wednesday for Christmas Eve and fully Thursday.",
-          "source": "Morningstar/MarketWatch",
-          "url": "https://www.morningstar.com/news/marketwatch/20251221158/us-stock-futures-rise-as-investors-hold-out-hope-for-a-christmas-rally"
+          "title": "S&P 500 Ends Week Near Record Highs Following Lower-Than-Expected Inflation Data",
+          "summary": "The S&P 500 gained slightly last week and ended Friday at its high, buoyed by lower-than-expected US inflation data released Thursday. The index remains within reach of its record high after nearly breaking it weeks earlier.",
+          "source": "Daily Forex",
+          "url": "https://www.dailyforex.com/forex-technical-analysis/2025/12/weekly-forex-forecast-21th-to-26th-december-2025/238752"
         },
         {
-          "title": "Wall Street Ends Week Higher Led by Tech Stocks",
-          "summary": "S&P 500 rose 0.9% to 6,834.50 on Friday, up 0.1% for the week; Nasdaq gained 1.3% to 23,307.62, up 0.5%; Dow up 0.4% to 48,134.89. Tech sector rallied 2%, boosting indices amid holiday positioning.",
+          "title": "US Stock Futures Edge Higher as Markets Prepare for Holiday-Shortened Week",
+          "summary": "US stock futures climbed on Sunday evening, December 22, 2025, signaling cautious optimism ahead of a shortened holiday trading week. Oracle and Nvidia showed signs of rebound.",
           "source": "Economic Times",
-          "url": "https://economictimes.com/us/business/wall-street-likely-to-remain-positive-as-stocks-may-continue-to-rebound-next-week-tech-and-ai-remain-in-focus-how-are-sp-500-nasdaq-and-dow-jones-expected-to-perform/articleshow/126101153.cms"
+          "url": "https://economictimes.com/us/business/sp500-nasdaq-dow-jones-futures-climb-ahead-of-holiday-shortened-week-oracle-nvidia-rebounds/articleshow/126113335.cms"
         },
         {
-          "title": "U.S. CPI Surprise Fuels Market Optimism Despite Flat Retail Sales",
-          "summary": "U.S. CPI at 2.7% annualized, below 3.1% expected, easing inflation fears; retail sales flat, signaling slowing economy. Fed rate cut expectations steady at two 0.25% cuts in 2026.",
-          "source": "DailyForex",
+          "title": "Silver Delivers Winning Trade as Precious Metals Show Mixed Performance",
+          "summary": "Silver posted a winning trade worth 1.37% following a daily close above $63.57 on Wednesday, while gold failed to set up a trading signal above $4,355.80.",
+          "source": "Daily Forex",
           "url": "https://www.dailyforex.com/forex-technical-analysis/2025/12/weekly-forex-forecast-21th-to-26th-december-2025/238752"
         },
         {
-          "title": "Bank of England Cuts Rates as Expected",
-          "summary": "BoE delivered 0.25% rate cut with no surprises. Canadian CPI rose 0.1% month-on-month as anticipated.",
-          "source": "DailyForex",
-          "url": "https://www.dailyforex.com/forex-technical-analysis/2025/12/weekly-forex-forecast-21th-to-26th-december-2025/238752"
-        },
-        {
-          "title": "S&P 500 Nears Record High After Weekly Gain",
-          "summary": "S&P 500 ended Friday at 6,834.50, up slightly for the week and close to record high, driven by lower-than-expected inflation data despite prior declines.",
-          "source": "DailyForex",
-          "url": "https://www.dailyforex.com/forex-technical-analysis/2025/12/weekly-forex-forecast-21th-to-26th-december-2025/238752"
+          "title": "Key Economic Data and Early Market Closures Scheduled for Holiday Week",
+          "summary": "This week features critical releases including Q3 GDP initial estimate and Q3 PCE inflation data on Wednesday, with US equity markets closing early at 1:00 PM ET on Christmas Eve. European markets will operate on shortened hours or close entirely.",
+          "source": "BabyPips",
+          "url": "https://www.babypips.com/analysis/whats-moving-markets-this-week-december-22-26-2025"
         }
       ],
       "citations": [
-        "https://www.morningstar.com/news/marketwatch/20251221158/us-stock-futures-rise-as-investors-hold-out-hope-for-a-christmas-rally",
-        "https://economictimes.com/us/business/wall-street-likely-to-remain-positive-as-stocks-may-continue-to-rebound-next-week-tech-and-ai-remain-in-focus-how-are-sp-500-nasdaq-and-dow-jones-expected-to-perform/articleshow/126101153.cms",
         "https://www.dailyforex.com/forex-technical-analysis/2025/12/weekly-forex-forecast-21th-to-26th-december-2025/238752",
-        "https://www.stageanalysis.net/blog/1355724/us-stocks-watchlist-22-december-2025",
-        "https://www.nasdaq.com/articles/stock-market-flashing-clear-warning-investors-heres-what-history-says-could-happen-2026",
-        "https://www.investing.com/indices/us-spx-500-historical-data"
+        "https://www.babypips.com/analysis/whats-moving-markets-this-week-december-22-26-2025",
+        "https://news.futunn.com/en/post/66480603/top-ten-shocking-events-in-the-2025-us-stock-market",
+        "https://www.youtube.com/watch?v=fVhQtLECtWc",
+        "https://economictimes.com/us/business/sp500-nasdaq-dow-jones-futures-climb-ahead-of-holiday-shortened-week-oracle-nvidia-rebounds/articleshow/126113335.cms"
       ]
     },
     "crypto_news": {
@@ -315,48 +308,54 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Bitcoin Surpasses $89,000 USDT with 0.79% 24-Hour Gain",
-          "summary": "Bitcoin crossed the 89,000 USDT mark, trading at 89,005.953125 USDT as of December 22, 2025, 00:10 AM UTC, reflecting a modest 0.79% increase over the past 24 hours amid ongoing market fluctuations.",
+          "title": "BEAT Token Surges 31.53% to $2.98 Amid Bitcoin Consolidation",
+          "summary": "BEAT, the native token of the Audiera platform, rose 31.53% to $2.98 in December 2025, outperforming the bearish crypto market where Bitcoin consolidates between $87,000 and $89,000.",
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/surprising-rise-beat-december-22-2025-narrative-crypto-2512/"
+        },
+        {
+          "title": "Blockchain Funding Reaches $299M in 18 Deals Over Past Week",
+          "summary": "Blockchain projects raised over $299 million from December 15-22, 2025, with major deals including RedotPay's $107M B-round and Fuse Energy's $70M funding.",
+          "source": "Phemex",
+          "url": "https://phemex.com/news/article/blockchain-funding-surges-with-299m-raised-in-18-deals-47324"
+        },
+        {
+          "title": "Bitcoin Surpasses $89,000 with 0.79% 24-Hour Gain",
+          "summary": "Bitcoin crossed $89,000 USDT on December 22, 2025, marking a 0.79% increase in 24 hours amid ongoing market consolidation.",
           "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/34033161670201"
+          "url": "https://www.binance.com/en/square/post/12-22-2025-bitcoin-btc-surpasses-89-000-usdt-with-a-0-79-increase-in-24-hours-34033161670201"
         },
         {
-          "title": "Bitcoin Long-Term Holder Profits Hit 20-Month Low, Increasing Selling Pressure",
-          "summary": "Long-term Bitcoin holders' supply change dropped to a 20-month low, signaling elevated distribution as unrealized profits shrink, with BTC trading near $87,900 and facing resistance at $88,210.",
-          "source": "BeInCrypto",
-          "url": "https://beincrypto.com/bitcoin-long-term-holders-profit-crash/"
+          "title": "CryptoQuant Confirms Bitcoin Bear Market, Targets $70K Support",
+          "summary": "Blockchain analytics firm CryptoQuant declared Bitcoin in a bear market due to weakening demand and institutional selling, with potential drops to $70,000 or $56,000.",
+          "source": "Coinpedia",
+          "url": "https://coinpedia.org/news/bitcoin-price-news-cryptoquant-confirms-bear-market-eyes-70000-support/"
         },
         {
-          "title": "XRP Price Stagnant at $1.90 Despite $1.2B ETF Inflows and Whale Accumulation",
-          "summary": "Spot XRP ETFs surpassed $1.2 billion in assets with consistent inflows, while whale holdings (100M-1B XRP) rose to 12.8%, yet price remains flat near $1.90 due to muted momentum indicators.",
+          "title": "ICP Rallies 22% Then Slips 8% on AI-No-Code Tool Hype",
+          "summary": "Internet Computer (ICP) surged 22.65% from its $3 support but pulled back 8%, driven by Dfinity Foundation's comments on AI-powered no-code tools for blockchain apps.",
           "source": "AMBCrypto",
-          "url": "https://ambcrypto.com/why-xrp-isnt-moving-despite-1-2b-in-etf-demand/"
+          "url": "https://ambcrypto.com/icp-rallies-22-then-slips-8-what-comes-next-after-this-volatility/"
         },
         {
-          "title": "Experts Warn Bitcoin Could Crash Below $50K by 2028 Without Quantum Resistance",
-          "summary": "Industry leaders like Jameson Lopp and Charles Edwards highlight the urgent need for quantum-safe upgrades to Bitcoin's cryptography, warning of a potential preemptive price collapse if the network fails to adapt within 5-10 years.",
-          "source": "BitcoinWorld",
-          "url": "https://bitcoinworld.co.in/bitcoin-crash-quantum-defense-2028/"
-        },
-        {
-          "title": "Galaxy Digital Forecasts Uncertain Bitcoin Outlook for 2026, $250K Target by 2027",
-          "summary": "Galaxy Digital's head of research Alex Thorn cites options signals and macro risks as reasons for Bitcoin's unclear 2026 path, while upholding a $250,000 price target by end of 2027.",
+          "title": "XRP Weakens to $1.915 After Failing to Hold $1.95",
+          "summary": "XRP dropped from $1.926 to $1.915 over 24 hours ending December 22, 2025, following repeated failures to break $1.95 resistance.",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2025/12/21/galaxy-digital-s-head-of-research-explains-why-bitcoin-s-outlook-is-so-uncertain-in-2026"
+          "url": "https://www.coindesk.com/markets/2025/12/22/xrp-weakens-after-repeated-price-action-failures-near-usd1-95"
         }
       ],
       "citations": [
+        "https://www.ainvest.com/news/surprising-rise-beat-december-22-2025-narrative-crypto-2512/",
+        "https://phemex.com/news/article/blockchain-funding-surges-with-299m-raised-in-18-deals-47324",
         "https://www.youtube.com/watch?v=JiB8v66_SD8",
-        "https://www.binance.com/en/square/post/34033161670201",
-        "https://bitcoinworld.co.in/bitcoin-crash-quantum-defense-2028/",
-        "https://beincrypto.com/bitcoin-long-term-holders-profit-crash/",
-        "https://blockchainreporter.net/web3-gaming-tokens-lead-decembers-crypto-rally-as-ai-integration-drives-market-shift/",
-        "https://en.cryptonomist.ch/2025/12/21/crypto-horoscope-from-december-22-to-28-2025/",
-        "https://ambcrypto.com/why-xrp-isnt-moving-despite-1-2b-in-etf-demand/",
-        "https://www.coindesk.com/markets/2025/12/21/galaxy-digital-s-head-of-research-explains-why-bitcoin-s-outlook-is-so-uncertain-in-2026"
+        "https://www.binance.com/en/square/post/12-22-2025-bitcoin-btc-surpasses-89-000-usdt-with-a-0-79-increase-in-24-hours-34033161670201",
+        "https://ambcrypto.com/icp-rallies-22-then-slips-8-what-comes-next-after-this-volatility/",
+        "https://coinpedia.org/news/bitcoin-price-news-cryptoquant-confirms-bear-market-eyes-70000-support/",
+        "https://www.coindesk.com/markets/2025/12/22/xrp-weakens-after-repeated-price-action-failures-near-usd1-95",
+        "https://thecryptobasic.com/2025/12/22/timelines-for-xrp-to-hit-10-50-and-100-after-recent-crash/"
       ]
     },
     "ai_news": {
@@ -364,35 +363,49 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Samsung Announces AI Vision Upgrade with Google Gemini for CES 2026",
-          "summary": "Samsung will unveil an enhanced AI Vision feature for its Bespoke AI Refrigerator Family Hub at CES 2026, integrating Google Gemini for improved food recognition, including more fresh and processed foods without registration and user-labeled items.",
-          "source": "PR Newswire",
+          "title": "Duke University AI Uncovers Simple Rules in Complex Systems",
+          "summary": "Researchers at Duke University developed an AI system that can reduce thousands of variables in complex systems into compact, readable equations. The method works across physics, engineering, climate science, and biology, producing models more than 10 times smaller than previous machine-learning approaches while maintaining accuracy.",
+          "source": "Science Daily / Duke University",
+          "url": "http://www.sciencedaily.com/releases/2025/12/251221091237.htm"
+        },
+        {
+          "title": "Hybrid Reasoning Emerges as Next Evolution in AI",
+          "summary": "Hybrid reasoning, which combines symbolic AI's rule-based structure with statistical AI's flexibility, is gaining prominence as a solution to reduce hallucinations and improve AI accuracy. The approach offers improved transparency, efficiency, and adaptability across various applications.",
+          "source": "Open Source For You",
+          "url": "https://www.opensourceforu.com/2025/12/is-hybrid-reasoning-the-next-big-thing-in-artificial-intelligence/"
+        },
+        {
+          "title": "Samsung Unveils AI Vision with Google Gemini Integration at CES 2026",
+          "summary": "Samsung announced an upgraded AI Vision feature for its Bespoke AI Refrigerator Family Hub, now powered by Google Gemini. The enhancement significantly expands food recognition capabilities beyond the previous 37 fresh food and 50 pre-registered processed food items.",
+          "source": "PR Newswire / Morningstar",
           "url": "https://www.morningstar.com/news/pr-newswire/20251221ln52108/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026"
         },
         {
-          "title": "NVIDIA Releases Nemotron 3 Family of Open Models",
-          "summary": "NVIDIA announced the Nemotron 3 family of open models, data, and libraries, highlighted in real-time analytics news for the week ending December 20.",
-          "source": "RTInsights",
-          "url": "https://www.rtinsights.com/real-time-analytics-news-for-the-week-ending-december-20/"
+          "title": "Efficient AI Architectures Reshape Enterprise Deployment",
+          "summary": "Industry experts highlight emerging trends in deep learning including Mixture of Experts (MoE) architectures and parameter-efficient fine-tuning techniques like LoRA and quantization, making sophisticated AI more accessible for enterprise applications.",
+          "source": "TechTimes",
+          "url": "https://www.techtimes.com/articles/313537/20251221/pushkar-gupta-pragmatic-path-scaling-ai-deep-learning-enterprise.htm"
         },
         {
-          "title": "Edge Impulse Guest-Edits Elektor Issue on Edge AI",
-          "summary": "Edge Impulse has guest-edited a special issue of Elektor magazine diving into edge AI, covering key terms for understanding edge AI and machine learning.",
-          "source": "EE News Europe",
-          "url": "https://www.eenewseurope.com/en/edge-ai-edge-impulse/"
+          "title": "Concerns Mount Over AI Bubble as Market Concentration Grows",
+          "summary": "Analysis reveals that 75% of S&P 500 returns come from just 41 AI stocks, with the 'magnificent seven' tech companies accounting for 37% of index performance. Critics question whether the mathematical foundations of the AI boom remain sound, citing limitations of current Large Language Models.",
+          "source": "Sky News",
+          "url": "https://news.sky.com/story/fears-grow-of-ai-bubble-and-here-are-the-pressure-points-that-could-burst-it-13486328"
         }
       ],
       "citations": [
-        "https://www.cyberdaily.au/tech/13011-industry-predictions-for-2026-what-s-in-store-for-artificial-intelligence",
-        "https://www.rtinsights.com/real-time-analytics-news-for-the-week-ending-december-20/",
+        "https://www.opensourceforu.com/2025/12/is-hybrid-reasoning-the-next-big-thing-in-artificial-intelligence/",
+        "http://www.sciencedaily.com/releases/2025/12/251221091237.htm",
+        "https://www.techtimes.com/articles/313537/20251221/pushkar-gupta-pragmatic-path-scaling-ai-deep-learning-enterprise.htm",
+        "https://news.sky.com/story/fears-grow-of-ai-bubble-and-here-are-the-pressure-points-that-could-burst-it-13486328",
         "https://www.morningstar.com/news/pr-newswire/20251221ln52108/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026",
+        "https://thehackernews.com/expert-insights/2025/12/purdue-universitys-real-world-deepfake.html",
         "https://www.prnewswire.com/news-releases/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026-302647596.html",
-        "https://www.timeshighereducation.com/opinion/i-was-wrong-universities-dont-fear-ai-they-fear-self-reflection",
-        "https://www.eenewseurope.com/en/edge-ai-edge-impulse/",
-        "https://securityboulevard.com/2025/12/future-scope-of-agentic-ai-in-enhancing-enterprise-security/"
+        "https://www.nationaldefensemagazine.org/articles/2025/12/22/tracking-research-pipeline-key",
+        "https://360mozambique.com/innovation/ai/numbers-that-matter-how-ai-is-driving-enormous-energy-demand/"
       ]
     },
     "gaming": {
@@ -400,16 +413,34 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 3,
+      "items": [
+        {
+          "title": "Monopoly GO Launches Goblet Run Event with Major Rewards",
+          "summary": "The Goblet Run event on Monopoly GO started at 3 PM ET on December 21, 2025, and runs until 12 PM ET on December 22, 2025, offering players up to 18,205 dice, sticker packs, tokens, cash, and boosts by landing on Tax and Utility tiles.[2][3]",
+          "source": "AppGamer / SuperCheats",
+          "url": "https://www.appgamer.com/monopoly-go-goblet-run-rewards"
+        },
+        {
+          "title": "Fortnite Announces Winterfest 2025 and Ballistic v37.10 Update",
+          "summary": "Fortnite Winterfest 2025 is live, encouraging players to get into the holiday spirit, while the Ballistic v37.10 update adds the Veiled Precision SMG, Deployable Wall Gadget, and more competitive features.[4]",
+          "source": "Fortnite Official / 4chan /vg/",
+          "url": "https://www.fortnite.com/news/fortnite-winterfest-2025-get-in-the-spirit"
+        },
+        {
+          "title": "CNBC Reports Xbox Losing Console Race Amid Microsoft's Gaming Pivot",
+          "summary": "Xbox is significantly trailing in console sales as part of Microsoft's broader shift toward a multi-platform strategy, sparking discussions on challenging PlayStation and Steam dominance.[5]",
+          "source": "NeoGAF / CNBC",
+          "url": "https://www.neogaf.com/threads/cnbc-xbox-is-losing-the-console-race-by-miles-it%E2%80%99s-part-of-microsoft%E2%80%99s-big-gaming-pivot.1691569/page-2"
+        }
+      ],
       "citations": [
         "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
-        "https://gamerant.com/epic-games-store-free-games-list/",
         "https://www.appgamer.com/monopoly-go-goblet-run-rewards",
-        "https://boards.4chan.org/vg/thread/550983901/bag-blue-archive-general-9058",
+        "https://www.supercheats.com/monopoly-go-walkthrough-guide/monopoly-go-goblet-run-rewards-and-milestones",
+        "https://boards.4chan.org/vg/thread/551020564",
         "https://www.neogaf.com/threads/cnbc-xbox-is-losing-the-console-race-by-miles-it%E2%80%99s-part-of-microsoft%E2%80%99s-big-gaming-pivot.1691569/page-2",
-        "https://www.nhl.com/wild/news/game-preview-vs-colorado-avalanche-122125",
-        "https://annarborobserver.com/calendar/"
+        "https://forums.stardock.com/540142/unclear-whose-territory-it-is"
       ]
     },
     "tech_news": {
@@ -420,48 +451,48 @@
       "count": 6,
       "items": [
         {
-          "title": "Trump's Tech and Media Umbrella Merges with Fusion Reactor Developer in $6B Deal",
-          "summary": "President Trump's tech and media umbrella company is merging with a fusion reactor developer in a deal valued over $6 billion. The merger aims to advance fusion energy technology amid growing interest in clean power sources.",
-          "source": "Fortune",
-          "url": "https://fortune.com"
-        },
-        {
           "title": "Waymo Autonomous Vehicles Freeze and Block Traffic During San Francisco Power Outage",
-          "summary": "Waymo's self-driving cars halted operations and blocked traffic in San Francisco during a power outage, affecting service across at least seven cities in the Bay Area. The incident highlights vulnerabilities in robotaxi reliability during infrastructure failures.",
+          "summary": "Waymo robotaxis halted operations and blocked traffic in San Francisco during a power outage on Sunday, affecting service across at least seven cities in the Bay Area.",
           "source": "Fortune",
           "url": "https://fortune.com"
         },
         {
-          "title": "Georgia Regulators Approve 50% Power Capacity Boost for Anticipated Data Center Demand",
-          "summary": "Georgia regulators have approved a significant increase in power capacity, betting on future data center growth despite risks if demand projections fail. The decision addresses surging needs from tech infrastructure expansions.",
-          "source": "Fortune",
-          "url": "https://fortune.com"
+          "title": "HCLTech Partners with Netherlands’ ASN Bank to Modernize IT Operations",
+          "summary": "HCLTech has partnered with ASN Bank to modernize its IT operations, aligning with the bank’s ‘Simplify and Grow’ strategy and strengthening HCLTech’s presence in the Dutch banking sector.",
+          "source": "AffairsCloud",
+          "url": "https://affairscloud.com/current-affairs-21-22-december-2025/"
         },
         {
-          "title": "Chinese Startup Launches Ghana TPU Chip Claiming Superiority Over Nvidia A100",
-          "summary": "Zhonghao Xinying, founded by a former Google TPU engineer, unveiled the Ghana AI chip, which is reportedly 1.5x faster and 75% more efficient than Nvidia's A100 despite using an older process. The development signals China's push in custom AI hardware to reduce reliance on Nvidia.",
-          "source": "Evolving AI (YouTube)",
-          "url": "https://www.youtube.com/watch?v=NpE9hAgfIdA"
+          "title": "Protean eGov Technologies Acquires 4.95% Stake in NSDL Payments Bank for Rs.30.2 Crores",
+          "summary": "Protean eGov Technologies Limited acquired a 4.95% stake in NSDL Payments Bank for Rs.30.2 crores in December 2025.",
+          "source": "AffairsCloud",
+          "url": "https://affairscloud.com/current-affairs-21-22-december-2025/"
         },
         {
-          "title": "Elon Musk's Fortune Grows by $55 Billion After Delaware Court Reinstates Tesla Pay Package",
-          "summary": "A Delaware court awarded Elon Musk his $55 billion Tesla compensation package, boosting his net worth to $679 billion after it was previously rescinded. The ruling stems from a shareholder challenge in 2024.",
-          "source": "Fortune",
-          "url": "https://fortune.com"
+          "title": "PNB Metlife and PolicyBazaar Launch ‘DigiProtect Term Insurance’ for Salaried Individuals",
+          "summary": "PNB Metlife and PolicyBazaar introduced ‘DigiProtect Term Insurance’, a digital term insurance product targeted at India’s salaried individuals.",
+          "source": "AffairsCloud",
+          "url": "https://affairscloud.com/current-affairs-21-22-december-2025/"
         },
         {
-          "title": "Space Development Agency Awards Major Satellite Contracts; Blue Origin Conducts Groundbreaking Flight",
-          "summary": "The U.S. Space Development Agency issued significant satellite awards, while Blue Origin achieved a groundbreaking flight test. NASA also called for an Artemis program review amid ongoing space developments.",
+          "title": "SDA Awards Significant Satellite Contract; Blue Origin Conducts Groundbreaking Flight",
+          "summary": "The Space Development Agency (SDA) announced a major satellite award, while Blue Origin achieved a groundbreaking flight, highlighted in the day's space briefing.",
+          "source": "KeepTrack Space Brief",
+          "url": "https://keeptrack.space/space-brief/space-brief-2025-12-21"
+        },
+        {
+          "title": "NASA Calls for Artemis Program Review Amid Space Developments",
+          "summary": "NASA has initiated a review of the Artemis program as part of key space sector updates on December 21, 2025.",
           "source": "KeepTrack Space Brief",
           "url": "https://keeptrack.space/space-brief/space-brief-2025-12-21"
         }
       ],
       "citations": [
-        "https://www.crowdfundinsider.com/2025/12/256731-ai-adoption-trends-2025-saw-emergence-of-1000-agentic-ai-offerings/",
+        "https://affairscloud.com/current-affairs-21-22-december-2025/",
         "https://energyindemand.com/2025/12/21/energy-in-demand-news-december-21-22-2025/",
-        "https://www.youtube.com/watch?v=NpE9hAgfIdA",
         "https://fortune.com",
         "https://keeptrack.space/space-brief/space-brief-2025-12-21",
+        "https://www.inma.org/blogs/Generative-AI-Initiative/post.cfm/where-ai-has-taken-the-news-industry-and-vice-versa",
         "https://www.riotimesonline.com/economic-calendar-key-market-events-for-the-week-from-december-22-to-december-26-2025/",
         "https://english.news.cn/africa/20251221/3038a5adc42c4acdb94b7a33b93fca9b/c.html"
       ]
