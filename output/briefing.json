@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T06:08:22.520558+00:00",
-  "generated_at_human": "2025-12-22 06:08 UTC",
+  "generated_at": "2025-12-22T12:08:31.617884+00:00",
+  "generated_at_human": "2025-12-22 12:08 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "If You Don't Design Your Career, Someone Else Will",
+          "url": "https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/",
+          "score": 71,
+          "comments": 37
+        },
+        {
+          "title": "The ancient monuments saluting the winter solstice",
+          "url": "https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice",
+          "score": 43,
+          "comments": 25
+        },
+        {
           "title": "A guide to local coding models",
           "url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
-          "score": 332,
-          "comments": 166
+          "score": 447,
+          "comments": 246
+        },
+        {
+          "title": "Programming languages used for music",
+          "url": "https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes",
+          "score": 60,
+          "comments": 18
         },
         {
           "title": "Deliberate Internet Shutdowns",
           "url": "https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html",
-          "score": 110,
-          "comments": 35
-        },
-        {
-          "title": "Webb observes exoplanet that may have an exotic helium and carbon atmosphere",
-          "url": "https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/",
-          "score": 24,
-          "comments": 3
-        },
-        {
-          "title": "I'm just having fun",
-          "url": "https://jyn.dev/i-m-just-having-fun/",
-          "score": 271,
+          "score": 203,
           "comments": 86
         },
         {
-          "title": "Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
-          "url": "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/",
-          "score": 154,
-          "comments": 64
+          "title": "How I protect my Forgejo instance from AI web crawlers",
+          "url": "https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html",
+          "score": 48,
+          "comments": 32
         },
         {
-          "title": "Show HN: Books mentioned on Hacker News in 2025",
-          "url": "https://hackernews-readings-613604506318.us-west1.run.app",
-          "score": 387,
-          "comments": 147
+          "title": "Well Being in Times of Algorithms",
+          "url": "https://www.ssp.sh/blog/well-being-algorithms/",
+          "score": 16,
+          "comments": 10
         },
         {
           "title": "Build Android apps using Rust and Iced",
           "url": "https://github.com/ibaryshnikov/android-iced-example",
-          "score": 26,
-          "comments": 8
+          "score": 102,
+          "comments": 33
         },
         {
-          "title": "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
-          "url": "https://ym2132.github.io/ONNX_MLProgram_NN_exploration",
-          "score": 53,
-          "comments": 8
+          "title": "Show HN: Books mentioned on Hacker News in 2025",
+          "url": "https://hackernews-readings-613604506318.us-west1.run.app",
+          "score": 478,
+          "comments": 172
+        },
+        {
+          "title": "I'm just having fun",
+          "url": "https://jyn.dev/i-m-just-having-fun/",
+          "score": 379,
+          "comments": 160
+        },
+        {
+          "title": "Webb observes exoplanet that may have an exotic helium and carbon atmosphere",
+          "url": "https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/",
+          "score": 71,
+          "comments": 17
+        },
+        {
+          "title": "Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
+          "url": "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/",
+          "score": 201,
+          "comments": 81
+        },
+        {
+          "title": "Aliasing",
+          "url": "https://xania.org/202512/15-aliasing-in-general",
+          "score": 46,
+          "comments": 7
         },
         {
           "title": "Kernighan's Lever",
           "url": "https://linusakesson.net/programming/kernighans-lever/index.php",
-          "score": 27,
-          "comments": 8
-        },
-        {
-          "title": "Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs",
-          "url": "https://eulumdat.icu",
-          "score": 8,
-          "comments": 0
-        },
-        {
-          "title": "CO2 batteries that store grid energy take off globally",
-          "url": "https://spectrum.ieee.org/co2-battery-energy-storage",
-          "score": 194,
-          "comments": 166
-        },
-        {
-          "title": "Luke Howard’s essay on the modification of clouds (1865)",
-          "url": "https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/",
-          "score": 6,
-          "comments": 0
-        },
-        {
-          "title": "Show HN: WalletWallet – create Apple passes from anything",
-          "url": "https://walletwallet.alen.ro/",
-          "score": 340,
-          "comments": 98
-        },
-        {
-          "title": "I program on the subway",
-          "url": "https://www.scd31.com/posts/programming-on-the-subway",
-          "score": 198,
-          "comments": 134
-        },
-        {
-          "title": "Evaluating chain-of-thought monitorability",
-          "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/",
-          "score": 45,
-          "comments": 16
-        },
-        {
-          "title": "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
-          "url": "https://mastodon.online/@mullvadnet/115742530333573065",
-          "score": 514,
-          "comments": 166
-        },
-        {
-          "title": "Cursed circuits #3: true mathematics",
-          "url": "https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics",
-          "score": 3,
-          "comments": 0
-        },
-        {
-          "title": "Exploring Speculative JIT Compilation for Emacs Lisp with Java",
-          "url": "https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/",
-          "score": 8,
-          "comments": 1
-        },
-        {
-          "title": "Show HN: Autograd.c – A tiny ML framework built from scratch",
-          "url": "https://github.com/sueszli/autograd.c",
           "score": 74,
-          "comments": 8
+          "comments": 30
+        },
+        {
+          "title": "Cartoon Network channel errors (1995 – 2025)",
+          "url": "https://cnas.fandom.com/wiki/Channel_Errors",
+          "score": 15,
+          "comments": 3
         },
         {
           "title": "Functional Flocking Quadtree in ClojureScript",
           "url": "https://www.lbjgruppen.com/en/posts/flocking-quadtrees",
-          "score": 7,
+          "score": 56,
+          "comments": 3
+        },
+        {
+          "title": "Show HN: Backlog – a public repository of real work problems",
+          "url": "https://www.worldsbacklog.com/",
+          "score": 16,
+          "comments": 3
+        },
+        {
+          "title": "A Guide to Magnetizing N48 Magnets in Ansys Maxwell",
+          "url": "https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell",
+          "score": 40,
+          "comments": 3
+        },
+        {
+          "title": "CO2 batteries that store grid energy take off globally",
+          "url": "https://spectrum.ieee.org/co2-battery-energy-storage",
+          "score": 262,
+          "comments": 221
+        },
+        {
+          "title": "Rue: Higher level than Rust, lower level than Go",
+          "url": "https://rue-lang.dev/",
+          "score": 160,
+          "comments": 134
+        },
+        {
+          "title": "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
+          "url": "https://ym2132.github.io/ONNX_MLProgram_NN_exploration",
+          "score": 74,
+          "comments": 15
+        },
+        {
+          "title": "More on whether useful quantum computing is “imminent”",
+          "url": "https://scottaaronson.blog/?p=9425",
+          "score": 93,
+          "comments": 77
+        },
+        {
+          "title": "Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs",
+          "url": "https://eulumdat.icu",
+          "score": 34,
           "comments": 0
         },
         {
-          "title": "E.W.Dijkstra Archive",
-          "url": "https://www.cs.utexas.edu/~EWD/welcome.html",
-          "score": 129,
-          "comments": 12
-        },
-        {
-          "title": "86Box v5.3",
-          "url": "https://86box.net/2025/12/21/86box-v5-3.html",
-          "score": 47,
+          "title": "Making the most of bit arrays in Gleam",
+          "url": "https://gearsco.de/blog/bit-array-syntax/",
+          "score": 27,
           "comments": 1
         },
         {
-          "title": "Autoland saves King Air, everyone reported safe",
-          "url": "https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/",
-          "score": 192,
-          "comments": 111
-        },
-        {
-          "title": "You’re not burnt out, you’re existentially starving",
-          "url": "https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/",
-          "score": 263,
-          "comments": 316
-        },
-        {
-          "title": "Ruby website redesigned",
-          "url": "https://www.ruby-lang.org/en/",
-          "score": 385,
-          "comments": 156
+          "title": "Lightning: Real-time editing for tiled map data",
+          "url": "https://felt.com/blog/lightning-tiles",
+          "score": 12,
+          "comments": 3
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 88786,
-          "change_24h": 0.77,
-          "change_7d": -0.98,
-          "market_cap": 1772559216389
+          "price": 89994,
+          "change_24h": 1.5,
+          "change_7d": 0.39,
+          "market_cap": 1796520571657
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3026.68,
-          "change_24h": 1.77,
-          "change_7d": -3.12,
-          "market_cap": 365205699138
+          "price": 3050.45,
+          "change_24h": 1.75,
+          "change_7d": -3.37,
+          "market_cap": 368092822851
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 126.2,
-          "change_24h": 0.83,
-          "change_7d": -4.32,
-          "market_cap": 71043774563
+          "price": 127.01,
+          "change_24h": 1.18,
+          "change_7d": -3.96,
+          "market_cap": 71460492860
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.131845,
-          "change_24h": 0.33,
-          "change_7d": -3.55,
-          "market_cap": 22174054966
+          "price": 0.132845,
+          "change_24h": 0.82,
+          "change_7d": -3.03,
+          "market_cap": 22319134530
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.36593,
-          "change_24h": -0.51,
-          "change_7d": -9.37,
-          "market_cap": 13428685089
+          "price": 0.371354,
+          "change_24h": 0.31,
+          "change_7d": -8.16,
+          "market_cap": 13598748557
         }
       ]
     },
@@ -212,44 +212,44 @@
       "count": 10,
       "items": [
         {
-          "name": "Bitlight",
-          "symbol": "LIGHT",
-          "market_cap_rank": 755
-        },
-        {
-          "name": "Midnight",
-          "symbol": "NIGHT",
-          "market_cap_rank": 62
-        },
-        {
           "name": "zkPass",
           "symbol": "ZKP",
-          "market_cap_rank": 842
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 261
+          "market_cap_rank": 747
         },
         {
           "name": "Audiera",
           "symbol": "BEAT",
-          "market_cap_rank": 133
+          "market_cap_rank": 126
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 134
+          "name": "Bitlight",
+          "symbol": "LIGHT",
+          "market_cap_rank": 762
         },
         {
-          "name": "Uniswap",
-          "symbol": "UNI",
-          "market_cap_rank": 38
+          "name": "Midnight",
+          "symbol": "NIGHT",
+          "market_cap_rank": 63
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 25
+          "name": "Aave",
+          "symbol": "AAVE",
+          "market_cap_rank": 50
+        },
+        {
+          "name": "pippin",
+          "symbol": "PIPPIN",
+          "market_cap_rank": 187
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 251
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Hyperliquid",
@@ -257,9 +257,9 @@
           "market_cap_rank": 27
         },
         {
-          "name": "Canton",
-          "symbol": "CC",
-          "market_cap_rank": 45
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         }
       ]
     },
@@ -268,39 +268,30 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "S&P 500 Ends Week Near Record Highs Following Lower-Than-Expected Inflation Data",
-          "summary": "The S&P 500 gained slightly last week and ended Friday at its high, buoyed by lower-than-expected US inflation data released Thursday. The index remains within reach of its record high after nearly breaking it weeks earlier.",
-          "source": "Daily Forex",
-          "url": "https://www.dailyforex.com/forex-technical-analysis/2025/12/weekly-forex-forecast-21th-to-26th-december-2025/238752"
+          "title": "US Stock Futures Rise Ahead of Holiday-Shortened Week",
+          "summary": "Major US index futures posted gains as markets prepare for a shortened trading week due to Christmas. Nasdaq 100 futures gained 0.34%, while Dow Jones and S&P 500 futures strengthened by 0.15% and 0.21% respectively, with the tech sector leading the recovery.",
+          "source": "Gotrade News",
+          "url": "https://www.heygotrade.com/en/news/us-stock-futures-rise-tech-sector-rebounds-ahead-of-christmas/"
         },
         {
-          "title": "US Stock Futures Edge Higher as Markets Prepare for Holiday-Shortened Week",
-          "summary": "US stock futures climbed on Sunday evening, December 22, 2025, signaling cautious optimism ahead of a shortened holiday trading week. Oracle and Nvidia showed signs of rebound.",
-          "source": "Economic Times",
-          "url": "https://economictimes.com/us/business/sp500-nasdaq-dow-jones-futures-climb-ahead-of-holiday-shortened-week-oracle-nvidia-rebounds/articleshow/126113335.cms"
+          "title": "Tech Sector Rebounds with Oracle and NVIDIA Leading Gains",
+          "summary": "Oracle Corporation shares jumped following a deal to manage TikTok's US operations through a new joint venture, while NVIDIA rebounded on potential export permits for AI chips to China, signaling continued momentum in the AI sector.",
+          "source": "Gotrade News",
+          "url": "https://www.heygotrade.com/en/news/us-stock-futures-rise-tech-sector-rebounds-ahead-of-christmas/"
         },
         {
-          "title": "Silver Delivers Winning Trade as Precious Metals Show Mixed Performance",
-          "summary": "Silver posted a winning trade worth 1.37% following a daily close above $63.57 on Wednesday, while gold failed to set up a trading signal above $4,355.80.",
-          "source": "Daily Forex",
-          "url": "https://www.dailyforex.com/forex-technical-analysis/2025/12/weekly-forex-forecast-21th-to-26th-december-2025/238752"
-        },
-        {
-          "title": "Key Economic Data and Early Market Closures Scheduled for Holiday Week",
-          "summary": "This week features critical releases including Q3 GDP initial estimate and Q3 PCE inflation data on Wednesday, with US equity markets closing early at 1:00 PM ET on Christmas Eve. European markets will operate on shortened hours or close entirely.",
-          "source": "BabyPips",
-          "url": "https://www.babypips.com/analysis/whats-moving-markets-this-week-december-22-26-2025"
+          "title": "NASDAQ Closes at 23,307 with Strong Weekly Performance",
+          "summary": "The NASDAQ rose 301 points to close at 23,307 with 58% of stocks on the index rising and volume at 13.4 billion shares, posting a weekly gain of 112 points.",
+          "source": "Fully Informed",
+          "url": "https://www.fullyinformed.com/stock-market-outlook-for-mon-dec-22-2025-continuing-higher/"
         }
       ],
       "citations": [
-        "https://www.dailyforex.com/forex-technical-analysis/2025/12/weekly-forex-forecast-21th-to-26th-december-2025/238752",
-        "https://www.babypips.com/analysis/whats-moving-markets-this-week-december-22-26-2025",
-        "https://news.futunn.com/en/post/66480603/top-ten-shocking-events-in-the-2025-us-stock-market",
-        "https://www.youtube.com/watch?v=fVhQtLECtWc",
-        "https://economictimes.com/us/business/sp500-nasdaq-dow-jones-futures-climb-ahead-of-holiday-shortened-week-oracle-nvidia-rebounds/articleshow/126113335.cms"
+        "https://www.heygotrade.com/en/news/us-stock-futures-rise-tech-sector-rebounds-ahead-of-christmas/",
+        "https://www.fullyinformed.com/stock-market-outlook-for-mon-dec-22-2025-continuing-higher/"
       ]
     },
     "crypto_news": {
@@ -308,54 +299,39 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "BEAT Token Surges 31.53% to $2.98 Amid Bitcoin Consolidation",
-          "summary": "BEAT, the native token of the Audiera platform, rose 31.53% to $2.98 in December 2025, outperforming the bearish crypto market where Bitcoin consolidates between $87,000 and $89,000.",
-          "source": "AInvest",
-          "url": "https://www.ainvest.com/news/surprising-rise-beat-december-22-2025-narrative-crypto-2512/"
+          "title": "Bitcoin Whale Opens $120M Short Positions on BTC and ETH",
+          "summary": "A major crypto whale expanded leveraged short positions totaling around $120M on Bitcoin and Ethereum, selling 255 BTC and signaling bearish sentiment amid market struggles. Analysts note ongoing selling pressure near key support levels.",
+          "source": "The Crypto Basic",
+          "url": "https://thecryptobasic.com/2025/12/22/bitcoin-whale-bets-on-downside-with-heavy-120m-short/"
         },
         {
-          "title": "Blockchain Funding Reaches $299M in 18 Deals Over Past Week",
-          "summary": "Blockchain projects raised over $299 million from December 15-22, 2025, with major deals including RedotPay's $107M B-round and Fuse Energy's $70M funding.",
-          "source": "Phemex",
-          "url": "https://phemex.com/news/article/blockchain-funding-surges-with-299m-raised-in-18-deals-47324"
-        },
-        {
-          "title": "Bitcoin Surpasses $89,000 with 0.79% 24-Hour Gain",
-          "summary": "Bitcoin crossed $89,000 USDT on December 22, 2025, marking a 0.79% increase in 24 hours amid ongoing market consolidation.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/12-22-2025-bitcoin-btc-surpasses-89-000-usdt-with-a-0-79-increase-in-24-hours-34033161670201"
-        },
-        {
-          "title": "CryptoQuant Confirms Bitcoin Bear Market, Targets $70K Support",
-          "summary": "Blockchain analytics firm CryptoQuant declared Bitcoin in a bear market due to weakening demand and institutional selling, with potential drops to $70,000 or $56,000.",
-          "source": "Coinpedia",
-          "url": "https://coinpedia.org/news/bitcoin-price-news-cryptoquant-confirms-bear-market-eyes-70000-support/"
-        },
-        {
-          "title": "ICP Rallies 22% Then Slips 8% on AI-No-Code Tool Hype",
-          "summary": "Internet Computer (ICP) surged 22.65% from its $3 support but pulled back 8%, driven by Dfinity Foundation's comments on AI-powered no-code tools for blockchain apps.",
-          "source": "AMBCrypto",
-          "url": "https://ambcrypto.com/icp-rallies-22-then-slips-8-what-comes-next-after-this-volatility/"
-        },
-        {
-          "title": "XRP Weakens to $1.915 After Failing to Hold $1.95",
-          "summary": "XRP dropped from $1.926 to $1.915 over 24 hours ending December 22, 2025, following repeated failures to break $1.95 resistance.",
+          "title": "Bitcoin Rises to $89,000 as Gold Tokens Shine in Crypto Markets",
+          "summary": "Bitcoin climbed to $89,000, steadying near this level, while gold-backed tokens outperformed amid rising gold prices and gains in Asia stocks. Ether and other majors like SOL and ADA also featured in market updates.",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2025/12/22/xrp-weakens-after-repeated-price-action-failures-near-usd1-95"
+          "url": "https://www.coindesk.com/markets/2025/12/22/crypto-markets-today-gold-tokens-shine-as-bitcoin-rises-to-usd89-000"
+        },
+        {
+          "title": "Top DOJ Official Todd Blanche Halted Crypto Enforcement While Holding $150K+ in Assets",
+          "summary": "DOJ's second-highest official shut down crypto enforcement actions despite holding over $150,000 in Bitcoin, Ethereum, Solana, and Coinbase stock, raising conflict-of-interest concerns. This aligns with pro-crypto shifts under Trump administration.",
+          "source": "ProPublica",
+          "url": "https://www.propublica.org/article/todd-blanche-crypto-doj-trump"
+        },
+        {
+          "title": "$27 Billion in Bitcoin and Ether Options Face Year-End Reset",
+          "summary": "A massive $27 billion in Bitcoin and Ether options is set for a Boxing Day year-end reset, potentially impacting market volatility as positions expire.",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2025/12/22/boxing-day-bonanza-usd27-billion-in-bitcoin-ether-options-set-for-year-end-reset"
         }
       ],
       "citations": [
-        "https://www.ainvest.com/news/surprising-rise-beat-december-22-2025-narrative-crypto-2512/",
-        "https://phemex.com/news/article/blockchain-funding-surges-with-299m-raised-in-18-deals-47324",
-        "https://www.youtube.com/watch?v=JiB8v66_SD8",
-        "https://www.binance.com/en/square/post/12-22-2025-bitcoin-btc-surpasses-89-000-usdt-with-a-0-79-increase-in-24-hours-34033161670201",
-        "https://ambcrypto.com/icp-rallies-22-then-slips-8-what-comes-next-after-this-volatility/",
-        "https://coinpedia.org/news/bitcoin-price-news-cryptoquant-confirms-bear-market-eyes-70000-support/",
-        "https://www.coindesk.com/markets/2025/12/22/xrp-weakens-after-repeated-price-action-failures-near-usd1-95",
-        "https://thecryptobasic.com/2025/12/22/timelines-for-xrp-to-hit-10-50-and-100-after-recent-crash/"
+        "https://thecryptobasic.com/2025/12/22/bitcoin-whale-bets-on-downside-with-heavy-120m-short/",
+        "https://www.coindesk.com/markets/2025/12/22/crypto-markets-today-gold-tokens-shine-as-bitcoin-rises-to-usd89-000",
+        "https://www.propublica.org/article/todd-blanche-crypto-doj-trump",
+        "https://www.coindesk.com/markets/2025/12/22/boxing-day-bonanza-usd27-billion-in-bitcoin-ether-options-set-for-year-end-reset",
+        "https://www.coindesk.com/markets/2025/12/22/bitcoin-steadies-near-usd89-000-as-gold-hits-record-and-asia-stocks-rise"
       ]
     },
     "ai_news": {
@@ -363,49 +339,55 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Duke University AI Uncovers Simple Rules in Complex Systems",
-          "summary": "Researchers at Duke University developed an AI system that can reduce thousands of variables in complex systems into compact, readable equations. The method works across physics, engineering, climate science, and biology, producing models more than 10 times smaller than previous machine-learning approaches while maintaining accuracy.",
-          "source": "Science Daily / Duke University",
-          "url": "http://www.sciencedaily.com/releases/2025/12/251221091237.htm"
+          "title": "AI Fuels Record Layoffs in 2025 as Major Tech Companies Cut Costs",
+          "summary": "Over 122,549 tech employees have been laid off across 257 companies in 2025, with more than 54,000 US job cuts directly attributed to AI. Microsoft has conducted around 15,000 layoffs this year, making AI adoption a core performance metric for all roles.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/amp/technology/news/story/ai-fuels-record-layoffs-in-2025-as-amazon-microsoft-salesforce-and-other-companies-cut-costs-story-in-5-points-2839741-2025-12-22"
         },
         {
-          "title": "Hybrid Reasoning Emerges as Next Evolution in AI",
-          "summary": "Hybrid reasoning, which combines symbolic AI's rule-based structure with statistical AI's flexibility, is gaining prominence as a solution to reduce hallucinations and improve AI accuracy. The approach offers improved transparency, efficiency, and adaptability across various applications.",
-          "source": "Open Source For You",
-          "url": "https://www.opensourceforu.com/2025/12/is-hybrid-reasoning-the-next-big-thing-in-artificial-intelligence/"
+          "title": "New AI Framework Discovers Simple Rules in Complex Systems",
+          "summary": "Researchers published a breakthrough method in npj Complexity that uses AI to reduce complex nonlinear systems with hundreds of variables into simpler models with far fewer dimensions, producing models more than 10 times smaller than previous approaches while maintaining accuracy.",
+          "source": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2025/12/251221091237.htm"
         },
         {
-          "title": "Samsung Unveils AI Vision with Google Gemini Integration at CES 2026",
-          "summary": "Samsung announced an upgraded AI Vision feature for its Bespoke AI Refrigerator Family Hub, now powered by Google Gemini. The enhancement significantly expands food recognition capabilities beyond the previous 37 fresh food and 50 pre-registered processed food items.",
-          "source": "PR Newswire / Morningstar",
-          "url": "https://www.morningstar.com/news/pr-newswire/20251221ln52108/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026"
+          "title": "AI Goes Mainstream in Food and Beverage Industry",
+          "summary": "AI tools including trend-spotting engines and autonomous R&D agents have become everyday infrastructure in food and beverage companies. Startups like Starday and Turing Labs are using AI for predictive analytics and product development automation.",
+          "source": "Food Navigator USA",
+          "url": "https://www.foodnavigator-usa.com/Article/2025/12/22/this-years-wave-of-tools-from-trendspotting-engines-to-autonomous-rd-agents-turned-ai-into-everyday-infrastructure-for-food-and-beverage/"
         },
         {
-          "title": "Efficient AI Architectures Reshape Enterprise Deployment",
-          "summary": "Industry experts highlight emerging trends in deep learning including Mixture of Experts (MoE) architectures and parameter-efficient fine-tuning techniques like LoRA and quantization, making sophisticated AI more accessible for enterprise applications.",
-          "source": "TechTimes",
-          "url": "https://www.techtimes.com/articles/313537/20251221/pushkar-gupta-pragmatic-path-scaling-ai-deep-learning-enterprise.htm"
+          "title": "AI Applications Transforming Commercial Vehicles Industry",
+          "summary": "AI is revolutionizing fleet efficiency through work order automation, prognostics for predictive maintenance, emotional intelligence for vehicle safety, and autonomous driving technology that reduces human intervention and boosts operational efficiency.",
+          "source": "Globe Newswire",
+          "url": "https://www.globenewswire.com/news-release/2025/12/22/3209036/0/en/Commercial-Vehicles-AI-Applications-Market-Research-Report-2024-2029-Revolutionizing-Fleet-Efficiency-Supporting-Autonomous-Driving-and-Boosting-Design-and-Supply-Chain-Processes.html"
         },
         {
-          "title": "Concerns Mount Over AI Bubble as Market Concentration Grows",
-          "summary": "Analysis reveals that 75% of S&P 500 returns come from just 41 AI stocks, with the 'magnificent seven' tech companies accounting for 37% of index performance. Critics question whether the mathematical foundations of the AI boom remain sound, citing limitations of current Large Language Models.",
-          "source": "Sky News",
-          "url": "https://news.sky.com/story/fears-grow-of-ai-bubble-and-here-are-the-pressure-points-that-could-burst-it-13486328"
+          "title": "Business Leaders Discuss AI Workforce Transformation and Rapid Model Competition",
+          "summary": "Industry experts emphasize that AI will reshape rather than eliminate jobs, with seven major AI models launching within a month during the second half of 2025, signaling intense competition and rapidly expanding capabilities.",
+          "source": "Rochester Business Journal",
+          "url": "https://rbj.net/2025/12/22/business-leaders-weigh-opportunities-risks-ai/"
+        },
+        {
+          "title": "Telecommunications and Vendor Headcount Declines Attributed to AI",
+          "summary": "Thousands of jobs have disappeared from telco and vendor workforces in 2025 as company leadership blamed AI for workforce reductions.",
+          "source": "Light Reading",
+          "url": "https://www.lightreading.com/ai-machine-learning/2025-in-review-headcount-on-the-slide"
         }
       ],
       "citations": [
-        "https://www.opensourceforu.com/2025/12/is-hybrid-reasoning-the-next-big-thing-in-artificial-intelligence/",
-        "http://www.sciencedaily.com/releases/2025/12/251221091237.htm",
-        "https://www.techtimes.com/articles/313537/20251221/pushkar-gupta-pragmatic-path-scaling-ai-deep-learning-enterprise.htm",
-        "https://news.sky.com/story/fears-grow-of-ai-bubble-and-here-are-the-pressure-points-that-could-burst-it-13486328",
-        "https://www.morningstar.com/news/pr-newswire/20251221ln52108/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026",
-        "https://thehackernews.com/expert-insights/2025/12/purdue-universitys-real-world-deepfake.html",
-        "https://www.prnewswire.com/news-releases/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026-302647596.html",
-        "https://www.nationaldefensemagazine.org/articles/2025/12/22/tracking-research-pipeline-key",
-        "https://360mozambique.com/innovation/ai/numbers-that-matter-how-ai-is-driving-enormous-energy-demand/"
+        "https://www.indiatoday.in/amp/technology/news/story/ai-fuels-record-layoffs-in-2025-as-amazon-microsoft-salesforce-and-other-companies-cut-costs-story-in-5-points-2839741-2025-12-22",
+        "https://www.sciencedaily.com/releases/2025/12/251221091237.htm",
+        "https://aihub.org/2025/12/22/aihub-interview-highlights-2025/",
+        "https://www.coloradopolitics.com/2025/12/22/leadership-in-the-age-of-artificial-intelligence-cronin/",
+        "https://www.foodnavigator-usa.com/Article/2025/12/22/this-years-wave-of-tools-from-trendspotting-engines-to-autonomous-rd-agents-turned-ai-into-everyday-infrastructure-for-food-and-beverage/",
+        "https://rbj.net/2025/12/22/business-leaders-weigh-opportunities-risks-ai/",
+        "https://www.globenewswire.com/news-release/2025/12/22/3209036/0/en/Commercial-Vehicles-AI-Applications-Market-Research-Report-2024-2029-Revolutionizing-Fleet-Efficiency-Supporting-Autonomous-Driving-and-Boosting-Design-and-Supply-Chain-Processes.html",
+        "https://www.post-gazette.com/business/tech-news/2025/12/22/agility-robotics-artificial-intelligence-humanoid-digit-robot/stories/202512110094",
+        "https://www.lightreading.com/ai-machine-learning/2025-in-review-headcount-on-the-slide"
       ]
     },
     "gaming": {
@@ -413,34 +395,13 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
-      "items": [
-        {
-          "title": "Monopoly GO Launches Goblet Run Event with Major Rewards",
-          "summary": "The Goblet Run event on Monopoly GO started at 3 PM ET on December 21, 2025, and runs until 12 PM ET on December 22, 2025, offering players up to 18,205 dice, sticker packs, tokens, cash, and boosts by landing on Tax and Utility tiles.[2][3]",
-          "source": "AppGamer / SuperCheats",
-          "url": "https://www.appgamer.com/monopoly-go-goblet-run-rewards"
-        },
-        {
-          "title": "Fortnite Announces Winterfest 2025 and Ballistic v37.10 Update",
-          "summary": "Fortnite Winterfest 2025 is live, encouraging players to get into the holiday spirit, while the Ballistic v37.10 update adds the Veiled Precision SMG, Deployable Wall Gadget, and more competitive features.[4]",
-          "source": "Fortnite Official / 4chan /vg/",
-          "url": "https://www.fortnite.com/news/fortnite-winterfest-2025-get-in-the-spirit"
-        },
-        {
-          "title": "CNBC Reports Xbox Losing Console Race Amid Microsoft's Gaming Pivot",
-          "summary": "Xbox is significantly trailing in console sales as part of Microsoft's broader shift toward a multi-platform strategy, sparking discussions on challenging PlayStation and Steam dominance.[5]",
-          "source": "NeoGAF / CNBC",
-          "url": "https://www.neogaf.com/threads/cnbc-xbox-is-losing-the-console-race-by-miles-it%E2%80%99s-part-of-microsoft%E2%80%99s-big-gaming-pivot.1691569/page-2"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
         "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
-        "https://www.appgamer.com/monopoly-go-goblet-run-rewards",
-        "https://www.supercheats.com/monopoly-go-walkthrough-guide/monopoly-go-goblet-run-rewards-and-milestones",
         "https://boards.4chan.org/vg/thread/551020564",
-        "https://www.neogaf.com/threads/cnbc-xbox-is-losing-the-console-race-by-miles-it%E2%80%99s-part-of-microsoft%E2%80%99s-big-gaming-pivot.1691569/page-2",
-        "https://forums.stardock.com/540142/unclear-whose-territory-it-is"
+        "https://eu.36kr.com/en/p/3606173429842690",
+        "https://www.neogaf.com/threads/cnbc-xbox-is-losing-the-console-race-by-miles-it%E2%80%99s-part-of-microsoft%E2%80%99s-big-gaming-pivot.1691569/page-2"
       ]
     },
     "tech_news": {
@@ -448,53 +409,14 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 6,
-      "items": [
-        {
-          "title": "Waymo Autonomous Vehicles Freeze and Block Traffic During San Francisco Power Outage",
-          "summary": "Waymo robotaxis halted operations and blocked traffic in San Francisco during a power outage on Sunday, affecting service across at least seven cities in the Bay Area.",
-          "source": "Fortune",
-          "url": "https://fortune.com"
-        },
-        {
-          "title": "HCLTech Partners with Netherlands’ ASN Bank to Modernize IT Operations",
-          "summary": "HCLTech has partnered with ASN Bank to modernize its IT operations, aligning with the bank’s ‘Simplify and Grow’ strategy and strengthening HCLTech’s presence in the Dutch banking sector.",
-          "source": "AffairsCloud",
-          "url": "https://affairscloud.com/current-affairs-21-22-december-2025/"
-        },
-        {
-          "title": "Protean eGov Technologies Acquires 4.95% Stake in NSDL Payments Bank for Rs.30.2 Crores",
-          "summary": "Protean eGov Technologies Limited acquired a 4.95% stake in NSDL Payments Bank for Rs.30.2 crores in December 2025.",
-          "source": "AffairsCloud",
-          "url": "https://affairscloud.com/current-affairs-21-22-december-2025/"
-        },
-        {
-          "title": "PNB Metlife and PolicyBazaar Launch ‘DigiProtect Term Insurance’ for Salaried Individuals",
-          "summary": "PNB Metlife and PolicyBazaar introduced ‘DigiProtect Term Insurance’, a digital term insurance product targeted at India’s salaried individuals.",
-          "source": "AffairsCloud",
-          "url": "https://affairscloud.com/current-affairs-21-22-december-2025/"
-        },
-        {
-          "title": "SDA Awards Significant Satellite Contract; Blue Origin Conducts Groundbreaking Flight",
-          "summary": "The Space Development Agency (SDA) announced a major satellite award, while Blue Origin achieved a groundbreaking flight, highlighted in the day's space briefing.",
-          "source": "KeepTrack Space Brief",
-          "url": "https://keeptrack.space/space-brief/space-brief-2025-12-21"
-        },
-        {
-          "title": "NASA Calls for Artemis Program Review Amid Space Developments",
-          "summary": "NASA has initiated a review of the Artemis program as part of key space sector updates on December 21, 2025.",
-          "source": "KeepTrack Space Brief",
-          "url": "https://keeptrack.space/space-brief/space-brief-2025-12-21"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://affairscloud.com/current-affairs-21-22-december-2025/",
-        "https://energyindemand.com/2025/12/21/energy-in-demand-news-december-21-22-2025/",
-        "https://fortune.com",
-        "https://keeptrack.space/space-brief/space-brief-2025-12-21",
-        "https://www.inma.org/blogs/Generative-AI-Initiative/post.cfm/where-ai-has-taken-the-news-industry-and-vice-versa",
-        "https://www.riotimesonline.com/economic-calendar-key-market-events-for-the-week-from-december-22-to-december-26-2025/",
-        "https://english.news.cn/africa/20251221/3038a5adc42c4acdb94b7a33b93fca9b/c.html"
+        "https://www.theregister.com/2025/12/22/ai_hyperscale_capex_research/",
+        "https://www.youtube.com/watch?v=ndOYhN7jc1k",
+        "https://eu.36kr.com/en/p/3606325354874119",
+        "https://www.marklines.com/en/news/337720",
+        "https://blog.mexc.com/news/the-feds-latest-liquidity-move-unpacking-the-6-8-billion-repo-injection-and-its-ripple-effects-on-markets-and-crypto/"
       ]
     }
   }
