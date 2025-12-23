@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T18:07:12.672860+00:00",
-  "generated_at_human": "2025-12-22 18:07 UTC",
+  "generated_at": "2025-12-23T00:19:54.919501+00:00",
+  "generated_at_human": "2025-12-23 00:19 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,112 @@
       "count": 25,
       "items": [
         {
-          "title": "Scaling LLMs to Larger Codebases",
-          "url": "https://blog.kierangill.xyz/oversight-and-guidance",
-          "score": 90,
-          "comments": 45
+          "title": "NPM Package with 56K Downloads Caught Stealing WhatsApp Messages",
+          "url": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
+          "score": 172,
+          "comments": 101
         },
         {
-          "title": "The biggest CRT ever made: Sony's PVM-4300",
-          "url": "https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/",
-          "score": 158,
-          "comments": 96
+          "title": "The Illustrated Transformer",
+          "url": "https://jalammar.github.io/illustrated-transformer/",
+          "score": 210,
+          "comments": 46
         },
         {
-          "title": "Jimmy Lai Is a Martyr for Freedom",
-          "url": "https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/",
-          "score": 89,
-          "comments": 18
+          "title": "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
+          "url": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
+          "score": 141,
+          "comments": 39
+        },
+        {
+          "title": "It's Always TCP_NODELAY",
+          "url": "https://brooker.co.za/blog/2024/05/09/nagle.html",
+          "score": 86,
+          "comments": 21
+        },
+        {
+          "title": "GLM-4.7: Advancing the Coding Capability",
+          "url": "https://z.ai/blog/glm-4.7",
+          "score": 206,
+          "comments": 77
+        },
+        {
+          "title": "The Garbage Collection Handbook",
+          "url": "https://gchandbook.org/index.html",
+          "score": 119,
+          "comments": 7
+        },
+        {
+          "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
+          "url": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
+          "score": 287,
+          "comments": 299
+        },
+        {
+          "title": "NIST was 5 μs off UTC after last week's power cut",
+          "url": "https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut",
+          "score": 161,
+          "comments": 85
         },
         {
           "title": "Claude Code gets native LSP support",
           "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-          "score": 24,
-          "comments": 2
+          "score": 271,
+          "comments": 149
         },
         {
-          "title": "Benn Jordan – This Flock Camera Leak Is Like Netflix for Stalkers [video]",
-          "url": "https://www.youtube.com/watch?v=vU1-uiUlHTo",
-          "score": 66,
-          "comments": 21
+          "title": "FPGAs Need a New Future",
+          "url": "https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/",
+          "score": 39,
+          "comments": 4
         },
         {
-          "title": "A year of vibes",
-          "url": "https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/",
-          "score": 131,
-          "comments": 70
+          "title": "Scaling LLMs to Larger Codebases",
+          "url": "https://blog.kierangill.xyz/oversight-and-guidance",
+          "score": 192,
+          "comments": 81
         },
         {
-          "title": "The ancient monuments saluting the winter solstice",
-          "url": "https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice",
-          "score": 138,
-          "comments": 76
+          "title": "Things I learnt about passkeys when building passkeybot",
+          "url": "https://enzom.dev/b/passkeys/",
+          "score": 75,
+          "comments": 30
+        },
+        {
+          "title": "How the RESISTORS put computing into 1960s counter-culture",
+          "url": "https://spectrum.ieee.org/teenage-hackers",
+          "score": 21,
+          "comments": 3
+        },
+        {
+          "title": "Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)",
+          "url": "https://arxiv.org/abs/2512.14693",
+          "score": 47,
+          "comments": 5
+        },
+        {
+          "title": "Ask HN: Why isn't there competition to LinkedIn yet?",
+          "url": "https://news.ycombinator.com/item?id=46360146",
+          "score": 37,
+          "comments": 31
+        },
+        {
+          "title": "US blocks all offshore wind construction, says reason is classified",
+          "url": "https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/",
+          "score": 389,
+          "comments": 317
+        },
+        {
+          "title": "The biggest CRT ever made: Sony's PVM-4300",
+          "url": "https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/",
+          "score": 211,
+          "comments": 139
+        },
+        {
+          "title": "There Is No Future for Online Safety Without Privacy and Security",
+          "url": "https://itsfoss.com/news/alexander-linton-interview/",
+          "score": 26,
+          "comments": 10
         },
         {
           "title": "Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)",
@@ -56,106 +122,40 @@
           "comments": 0
         },
         {
-          "title": "AI Bathroom Monitors? Welcome to America's New Surveillance High Schools",
-          "url": "https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/",
-          "score": 14,
-          "comments": 1
+          "title": "The Rise of SQL:the second programming language everyone needs to know",
+          "url": "https://spectrum.ieee.org/the-rise-of-sql",
+          "score": 89,
+          "comments": 82
+        },
+        {
+          "title": "Hybrid Aerial Underwater Drone – Bachelor Project [video]",
+          "url": "https://www.youtube.com/watch?v=g7vmPFZrYAk",
+          "score": 32,
+          "comments": 18
         },
         {
           "title": "Henge Finder",
           "url": "https://hengefinder.rcdis.co/#learn",
-          "score": 5,
+          "score": 45,
+          "comments": 8
+        },
+        {
+          "title": "Show HN: C-compiler to compile TCC for live-bootstrap",
+          "url": "https://github.com/FransFaase/MES-replacement",
+          "score": 6,
           "comments": 0
-        },
-        {
-          "title": "There's no such thing as a fake feather [video]",
-          "url": "https://www.youtube.com/watch?v=N5yV1Q9O6r4",
-          "score": 37,
-          "comments": 13
-        },
-        {
-          "title": "Show HN: Netrinos – A keep it simple Mesh VPN for small teams",
-          "url": "https://netrinos.com",
-          "score": 63,
-          "comments": 29
-        },
-        {
-          "title": "Microsoft will kill obsolete cipher that has wreaked decades of havoc",
-          "url": "https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/",
-          "score": 87,
-          "comments": 51
-        },
-        {
-          "title": "Programming languages used for music",
-          "url": "https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes",
-          "score": 181,
-          "comments": 73
         },
         {
           "title": "Debian's Git Transition",
           "url": "https://diziet.dreamwidth.org/20436.html",
-          "score": 114,
-          "comments": 32
-        },
-        {
-          "title": "If you don't design your career, someone else will (2014)",
-          "url": "https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/",
-          "score": 302,
-          "comments": 163
-        },
-        {
-          "title": "Deliberate Internet Shutdowns",
-          "url": "https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html",
-          "score": 274,
-          "comments": 139
-        },
-        {
-          "title": "Show HN: Backlog – a public repository of real work problems",
-          "url": "https://www.worldsbacklog.com/",
-          "score": 93,
-          "comments": 20
-        },
-        {
-          "title": "The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine",
-          "url": "https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html",
-          "score": 121,
-          "comments": 118
-        },
-        {
-          "title": "Spotify reportedly investigating Anna's Archive's scraping of their library",
-          "url": "https://www.billboard.com/business/streaming/spotify-music-library-leak-1236143970/",
-          "score": 22,
-          "comments": 31
-        },
-        {
-          "title": "On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs",
-          "url": "https://arxiv.org/abs/2512.01797",
-          "score": 25,
-          "comments": 38
-        },
-        {
-          "title": "Decompiling the Synergy: Human–LLM Teaming in Reverse Engineering [pdf]",
-          "url": "https://www.zionbasque.com/files/papers/dec-synergy-study.pdf",
-          "score": 28,
-          "comments": 1
-        },
-        {
-          "title": "How I protect my Forgejo instance from AI web crawlers",
-          "url": "https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html",
-          "score": 113,
+          "score": 187,
           "comments": 66
         },
         {
-          "title": "Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
-          "url": "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/",
-          "score": 256,
-          "comments": 105
-        },
-        {
-          "title": "Show HN: An easy way of broadcasting radio around you (looking for feedback)",
-          "url": "https://github.com/dpipstudio/botwave",
-          "score": 10,
-          "comments": 0
+          "title": "Tc – Theodore Calvin's language-agnostic testing framework",
+          "url": "https://github.com/ahoward/tc",
+          "score": 9,
+          "comments": 4
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 89262,
-          "change_24h": 1.28,
-          "change_7d": 4.15,
-          "market_cap": 1782110130143
+          "price": 88575,
+          "change_24h": -0.44,
+          "change_7d": 2.5,
+          "market_cap": 1766997270018
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3029.52,
-          "change_24h": 1.72,
-          "change_7d": 3.24,
-          "market_cap": 365892509025
+          "price": 3018.76,
+          "change_24h": -0.03,
+          "change_7d": 1.85,
+          "market_cap": 363168147935
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 126.84,
-          "change_24h": 1.4,
-          "change_7d": 0.33,
-          "market_cap": 71384166229
+          "price": 126.04,
+          "change_24h": -0.85,
+          "change_7d": -1.32,
+          "market_cap": 70826903548
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.13384,
-          "change_24h": 3.13,
-          "change_7d": 3.25,
-          "market_cap": 22480892919
+          "price": 0.132565,
+          "change_24h": -0.11,
+          "change_7d": 2.19,
+          "market_cap": 22240576323
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.377793,
-          "change_24h": 4.17,
-          "change_7d": -1.31,
-          "market_cap": 13853415905
+          "price": 0.371024,
+          "change_24h": 0.14,
+          "change_7d": -4.38,
+          "market_cap": 13579722652
         }
       ]
     },
@@ -214,12 +214,17 @@
         {
           "name": "Aave",
           "symbol": "AAVE",
-          "market_cap_rank": 50
+          "market_cap_rank": 53
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 133
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 55
+        },
+        {
+          "name": "Midnight",
+          "symbol": "NIGHT",
+          "market_cap_rank": 62
         },
         {
           "name": "Bitcoin",
@@ -227,39 +232,34 @@
           "market_cap_rank": 1
         },
         {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 26
+        },
+        {
+          "name": "pippin",
+          "symbol": "PIPPIN",
+          "market_cap_rank": 184
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 133
+        },
+        {
+          "name": "Aster",
+          "symbol": "ASTER",
+          "market_cap_rank": 65
+        },
+        {
           "name": "Monad",
           "symbol": "MON",
-          "market_cap_rank": 256
-        },
-        {
-          "name": "Midnight",
-          "symbol": "NIGHT",
-          "market_cap_rank": 66
-        },
-        {
-          "name": "zkPass",
-          "symbol": "ZKP",
-          "market_cap_rank": 785
+          "market_cap_rank": 264
         },
         {
           "name": "Audiera",
           "symbol": "BEAT",
-          "market_cap_rank": 134
-        },
-        {
-          "name": "Kaspa",
-          "symbol": "KAS",
-          "market_cap_rank": 80
-        },
-        {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 25
+          "market_cap_rank": 139
         }
       ]
     },
@@ -268,49 +268,17 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 1,
       "items": [
         {
-          "title": "U.S. Stock Indices Close Mixed with Tech Leading Gains",
-          "summary": "The S&P 500 climbed 0.88% to 6,834.50, the Nasdaq Composite spiked 1.31% to 23,307.62, and the Russell 2000 advanced 0.86% to 2,529.42, while the Dow Jones Industrial Average rose 0.38% to 48,134.89. Technology stocks recovered late week behind gains in Oracle and AI data center plays.",
-          "source": "eOption",
-          "url": "https://www.eoption.com/morning-preview-december-22-2025/"
-        },
-        {
-          "title": "Asian Markets Show Strength with Nikkei, Shanghai, and Hang Seng Gains",
-          "summary": "The Nikkei Index jumped 895 points to 50,402, the Shanghai Index added 26 points to 3,917, and the Hang Seng Index advanced 111 points to 25,801, while European indices showed slight declines.",
-          "source": "eOption",
-          "url": "https://www.eoption.com/morning-preview-december-22-2025/"
-        },
-        {
-          "title": "Inflation Moderates with CPI Falling to 2.7% Headline and 2.6% Core",
-          "summary": "Headline and core CPI declined to 2.7% and 2.6% year-over-year respectively, while nonfarm payrolls grew by 64k in November and the unemployment rate ticked up to 4.6%.",
-          "source": "Interactive Brokers",
-          "url": "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/weekly-market-recap-week-of-december-22-2025/"
-        },
-        {
-          "title": "Micron Shares Surge on Strong AI Chip Demand Outlook",
-          "summary": "Micron (MU) shares surged late week after reporting upbeat results and forecasts on booming AI chip demand, helping the broader technology sector rebound.",
-          "source": "eOption",
-          "url": "https://www.eoption.com/morning-preview-december-22-2025/"
-        },
-        {
-          "title": "Gold and Silver Miners Rally as Precious Metals Hit Record Highs",
-          "summary": "Newmont (NEM) gained 2.6% and Coeur Mining (CDE) rose 3.6% as gold and silver prices climbed to record highs, with gold prices driven higher by geopolitical concerns and rising deficits.",
-          "source": "eOption",
-          "url": "https://www.eoption.com/morning-preview-december-22-2025/"
-        },
-        {
-          "title": "Christmas Gift Prices Rise 4.5% in 2025, Gold Rings Surge 32.5%",
-          "summary": "According to PNC's Christmas Price Index, overall gift prices increased 4.5% year-over-year in 2025, with gold rings experiencing a dramatic 32.5% surge due to geopolitical risks and rising deficits.",
-          "source": "Interactive Brokers",
-          "url": "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/weekly-market-recap-week-of-december-22-2025/"
+          "title": "S&P 500 Ends Week Marginally Up +0.1% Amid Four-Day Decline and Triple Witching Expiration",
+          "summary": "The S&P 500 closed last week up 0.1% despite four consecutive down days ending Thursday with a 180-point drop, likely tied to triple witching options and futures expiration on Friday. Analysts predict potential new highs above 7,000 by year-end 2025 if no major geopolitical issues arise, with VIX dropping 11.62% on Friday signaling reduced volatility.",
+          "source": "Navellier",
+          "url": "https://navellier.com/12-23-25-there-is-still-time-to-get-to-sp-7000-in-2025/"
         }
       ],
       "citations": [
-        "https://www.eoption.com/morning-preview-december-22-2025/",
-        "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/weekly-market-recap-week-of-december-22-2025/",
-        "https://www.nasdaq.com/articles/stock-market-news-dec-22-2025"
+        "https://navellier.com/12-23-25-there-is-still-time-to-get-to-sp-7000-in-2025/"
       ]
     },
     "crypto_news": {
@@ -318,63 +286,55 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 6,
       "items": [
         {
-          "title": "Major Cryptocurrencies Trading Mixed with POLYX, ANIME, and EPIC Leading Gains",
-          "summary": "Most major cryptocurrencies by market cap are trading mixed on December 22, 2025, with market outperformers including POLYX (up 22%), ANIME (up 18%), and EPIC (up 17%). Ethereum trades at $3,036.89 (+1.45%), BNB at $866.15 (+1.52%), and Bitcoin-wrapped tokens at $89,371.65 (+1.07%).",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/12-22-2025-binance-market-update-crypto-market-trends-december-22-2025-34050358534881"
+          "title": "Top 100 Crypto Tokens Show Mixed Performance on December 23",
+          "summary": "Audiera (BEAT) surged 57.16% to $4.55, while MYX Finance gained 18.8%. Notable decliners included Canton (CC) dropping 15.79%, Aave falling 11.25% to $154.78, and Mantle declining 1.89%.",
+          "source": "Phemex",
+          "url": "https://phemex.com/news/article/top-100-crypto-tokens-show-mixed-performance-on-december-23-47661"
         },
         {
-          "title": "Gold Surges to New Record, Outperforming Bitcoin",
-          "summary": "Gold has surged to new record highs while cryptocurrency prices remain muted, with Bitcoin slipping from day's highs during U.S. trading sessions. Gold is currently outperforming Bitcoin as a store of value.",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2025/12/22/crypto-prices-again-muted-as-gold-surges-to-new-record-u-s-stocks-advance"
+          "title": "Bitcoin Rejected at $90K Again as Gold Correlation Turns Negative",
+          "summary": "Bitcoin failed to break above $90,000 on December 22, slipping back to the $88,000 range. Bitcoin's correlation with gold has turned negative, indicating the market is treating BTC more as a high-beta risk asset rather than a macro hedge.",
+          "source": "AMBCrypto",
+          "url": "https://ambcrypto.com/bitcoin-rejected-at-90k-again-as-gold-correlation-turns-negative/"
         },
         {
-          "title": "DOJ Official Todd Blanche Shut Down Crypto Enforcement While Holding Crypto Assets",
-          "summary": "ProPublica reports that Todd Blanche, the second-highest official at the Justice Department, held cryptocurrency assets worth $159,000 to $485,000 and shut down crypto enforcement actions while failing to fully divest his holdings as required by his ethics agreement. The report raises concerns about conflicts of interest in crypto regulation.",
-          "source": "ProPublica",
-          "url": "https://www.propublica.org/article/todd-blanche-crypto-doj-trump"
+          "title": "SEC Charges Crypto Trading Platforms and Investment Clubs in $14 Million Fraud Scheme",
+          "summary": "The SEC filed charges against Morocoin Tech Corp., Berge Blockchain Technology, and Cirkor Inc., along with four investment clubs, for defrauding retail investors of over $14 million through a social media-based confidence scam involving fake AI investment tips.",
+          "source": "Newsfile Corp",
+          "url": "https://www.newsfilecorp.com/release/278873/SEC-Charges-Three-Purported-Crypto-Asset-Trading-Platforms-and-Four-Investment-Clubs-with-Scheme-That-Targeted-Retail-Investors-on-Social-Media"
         },
         {
-          "title": "Brazil's Crypto Activity Jumps 43% in 2025",
-          "summary": "Brazil has experienced a significant surge in cryptocurrency activity, with a 43% increase in 2025 and average investments topping $1,000 per participant.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/12-22-2025-binance-market-update-crypto-market-trends-december-22-2025-34050358534881"
+          "title": "Analyst Raises Hut 8 Price Target Following Billion-Dollar AI Infrastructure Deal",
+          "summary": "Benchmark analyst Mark Palmer upgraded Hut 8's price target after the Bitcoin mining company announced a partnership with Anthropic and Fluidstack to develop up to 2,295 megawatts of AI data center capacity, backed by Google's financial guarantee. Hut 8 stock is up 17.78% and has climbed 138% year-to-date.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/crypto/trading/analyst-raises-bitcoin-miners-target-after-billion-dollar-deals"
         },
         {
-          "title": "U.S. Lawmakers Urge IRS to Revise Crypto Staking Tax Rules by 2026",
-          "summary": "U.S. lawmakers are pushing the Internal Revenue Service to revise cryptocurrency staking tax rules before 2026, addressing concerns about the current regulatory framework.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/12-22-2025-binance-market-update-crypto-market-trends-december-22-2025-34050358534881"
+          "title": "JPMorgan Exploring Cryptocurrency Trading for Institutional Clients",
+          "summary": "JPMorgan Chase is considering offering cryptocurrency trading services to its institutional clients, signaling continued mainstream adoption of digital assets by major financial institutions.",
+          "source": "Economic Times",
+          "url": "https://economictimes.com/markets/us-stocks/news/jpmorgan-exploring-crypto-trading-to-institutional-clients-bloomberg-news-reports/articleshow/126124029.cms"
         },
         {
-          "title": "U.S. Federal Bank Regulators Approve Legal Cryptocurrency Transactions and Custody",
-          "summary": "U.S. Federal Bank Regulators have approved legal cryptocurrency transactions and custody services, marking a regulatory milestone for the digital assets industry.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/12-22-2025-binance-market-update-crypto-market-trends-december-22-2025-34050358534881"
-        },
-        {
-          "title": "Uniswap Hits Record Users",
-          "summary": "Uniswap has reached record numbers of users, indicating growing adoption of decentralized exchange platforms.",
-          "source": "99Bitcoins",
-          "url": "https://99bitcoins.com/news/altcoins/crypto-market-news-today-december-22-bitcoin-price-to-reclaim-100k-before-year-end-uniswap-hits-record-users/"
-        },
-        {
-          "title": "Market Sentiment Shows Cautious Optimism in BTC and ETH Options",
-          "summary": "Options market sentiment indicates cautious optimism regarding Bitcoin and Ethereum, suggesting measured investor confidence in major cryptocurrencies.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/12-22-2025-binance-market-update-crypto-market-trends-december-22-2025-34050358534881"
+          "title": "2025 Marked Year of Crypto Institutionalization with Major Policy Changes",
+          "summary": "2025 cemented digital assets in mainstream finance through U.S. policy developments including the repeal of SAB 121, allowing banks to treat crypto assets like traditional assets. BitGo launched Stablecoin-as-a-Service in March, and World Liberty Financial created USD1 in April as a regulated institutional settlement solution.",
+          "source": "BitGo",
+          "url": "https://www.bitgo.com/resources/blog/2025-year-in-review/"
         }
       ],
       "citations": [
-        "https://www.binance.com/en/square/post/12-22-2025-binance-market-update-crypto-market-trends-december-22-2025-34050358534881",
-        "https://www.coindesk.com/markets/2025/12/22/crypto-prices-again-muted-as-gold-surges-to-new-record-u-s-stocks-advance",
+        "https://phemex.com/news/article/top-100-crypto-tokens-show-mixed-performance-on-december-23-47661",
+        "https://www.bitgo.com/resources/blog/2025-year-in-review/",
+        "https://ambcrypto.com/bitcoin-rejected-at-90k-again-as-gold-correlation-turns-negative/",
+        "https://www.youtube.com/watch?v=ZogzpC7xDXQ",
+        "https://www.newsfilecorp.com/release/278873/SEC-Charges-Three-Purported-Crypto-Asset-Trading-Platforms-and-Four-Investment-Clubs-with-Scheme-That-Targeted-Retail-Investors-on-Social-Media",
+        "https://www.thestreet.com/crypto/trading/analyst-raises-bitcoin-miners-target-after-billion-dollar-deals",
+        "https://www.coindesk.com/markets/2025/12/22/crypto-markets-slip-further-as-traders-brace-for-usd28-5b-deribit-expiry",
         "https://www.propublica.org/article/todd-blanche-crypto-doj-trump",
-        "https://99bitcoins.com/news/altcoins/crypto-market-news-today-december-22-bitcoin-price-to-reclaim-100k-before-year-end-uniswap-hits-record-users/",
-        "https://www.coindesk.com/markets/2025/12/22/crypto-markets-today-gold-tokens-shine-as-bitcoin-rises-to-usd89-000"
+        "https://economictimes.com/markets/us-stocks/news/jpmorgan-exploring-crypto-trading-to-institutional-clients-bloomberg-news-reports/articleshow/126124029.cms"
       ]
     },
     "ai_news": {
@@ -382,38 +342,35 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Medicus Pharma Engages Reliant AI for AI-Driven Clinical Data Analytics Platform",
-          "summary": "Medicus Pharma Ltd. announced a partnership with Reliant AI to develop an artificial intelligence-driven clinical data analytics platform to support the development of Teverelix, a next-generation GnRH antagonist for acute urinary retention and high cardiovascular risk prostate cancer, representing approximately $6 billion in potential market opportunity.",
-          "source": "Medicus Pharma Ltd.",
-          "url": "https://medicuspharma.com/medicus-pharma-ltd-announces-engagement-with-reliant-ai-to-develop-artificial-intelligence-ai-driven-clinical-data-analytics-platform/"
+          "title": "OpenAI Acknowledges Persistent Prompt Injection Vulnerabilities in AI Browsers",
+          "summary": "OpenAI states that AI browsers may always be vulnerable to prompt injection attacks and is developing an LLM-based automated attacker using reinforcement learning to simulate and test defenses proactively. The company emphasizes layered defenses, rapid patching, and internal stress-testing to stay ahead of real-world exploits.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/"
         },
         {
-          "title": "The Hackett Group Launches XT and AIXelerator Gen AI-Assisted Platforms",
-          "summary": "The Hackett Group announced the launch of XT and AIXelerator, two new generative AI-enabled service delivery platforms designed to accelerate transformation consulting and technology implementation engagements using the company's proprietary solution language model.",
-          "source": "The Hackett Group",
-          "url": "https://www.thehackertgroup.com/the-hackett-group-launches-xt-and-aixelerator-to-complete-full-suite-of-gen-ai-assisted-platforms/"
+          "title": "KAIST Researchers Unveil AI-Driven Assistant for Optimizing Injection Molding",
+          "summary": "KAIST has proposed an AI-based solution that autonomously calculates optimal injection molding settings, optimizes manufacturing processes, and transfers knowledge to address efficiency concerns.",
+          "source": "TechXplore",
+          "url": "https://techxplore.com/news/2025-12-ai-driven-molding-decisions-multiple.html"
         },
         {
-          "title": "Zero Trust AI Security Framework Advances with Machine Learning Integration",
-          "summary": "New developments in zero trust AI security demonstrate how machine learning algorithms are improving detection accuracy through continuous learning and processing vast datasets to identify subtle indicators of compromise in cybersecurity frameworks.",
-          "source": "Seceon",
-          "url": "https://seceon.com/zero-trust-ai-security-the-comprehensive-guide-to-next-generation-cybersecurity-in-2026/"
-        },
-        {
-          "title": "Jabil Combines Machine Learning and Generative AI for International Trade Code Accuracy",
-          "summary": "Jabil implemented a layered AI approach combining machine learning with generative AI to improve accuracy in assigning international trade codes, using a chatbot to validate machine learning estimates and reduce errors in critical business processes.",
-          "source": "Wharton Knowledge",
-          "url": "https://knowledge.wharton.upenn.edu/article/adopting-ai-starting-small-while-thinking-big/"
+          "title": "Archetype Begins Beta Testing AI Agent Toolkit for Physical Machine Environments",
+          "summary": "Archetype is beta testing a toolkit designed for building AI agents that can be embedded directly into IT environments to manage machines in physical settings.",
+          "source": "Techstrong.ai",
+          "url": "https://techstrong.ai/features/archetype-preps-ai-agents-for-machines-running-physical-environments/"
         }
       ],
       "citations": [
-        "https://medicuspharma.com/medicus-pharma-ltd-announces-engagement-with-reliant-ai-to-develop-artificial-intelligence-ai-driven-clinical-data-analytics-platform/",
-        "https://seceon.com/zero-trust-ai-security-the-comprehensive-guide-to-next-generation-cybersecurity-in-2026/",
-        "https://www.thehackettgroup.com/the-hackett-group-launches-xt-and-aixelerator-to-complete-full-suite-of-gen-ai-assisted-platforms/",
-        "https://knowledge.wharton.upenn.edu/article/adopting-ai-starting-small-while-thinking-big/"
+        "https://opentools.ai/news/ai-revolution-2025-year-of-breakthroughs-and-global-shifts",
+        "https://www.algaibra.com/how-did-ai-transform-jobs-across-the-globe-in-2025/",
+        "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
+        "https://economictimes.com/ais-blind-spots-these-10-spots-are-reserved-for-human-judgment-and-cannot-be-imitated-through-machine-learning/slideshow/126121672.cms",
+        "https://techxplore.com/news/2025-12-ai-driven-molding-decisions-multiple.html",
+        "https://voxeu.org/voxeu/columns/ai-and-systemic-risk",
+        "https://techstrong.ai/features/archetype-preps-ai-agents-for-machines-running-physical-environments/"
       ]
     },
     "gaming": {
@@ -421,22 +378,52 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 1,
+      "count": 6,
       "items": [
         {
-          "title": "Prime Video Adds 2nd-Highest-Grossing Video Game Movie Ever",
-          "summary": "Prime Video has added one of the highest-grossing video game movies of all time to its streaming platform on December 22, 2025.",
-          "source": "ComingSoon",
-          "url": "https://www.comingsoon.net/movies/news/2077095-prime-video-adds-2nd-highest-grossing-video-game-movie"
+          "title": "Vince Zampella, Co-Creator of Call of Duty, Dies in Car Crash at 57",
+          "summary": "Vince Zampella, co-founder of Infinity Ward and Respawn Entertainment, known for Call of Duty, Titanfall, Apex Legends, and Star Wars Jedi games, died in a Ferrari crash north of Los Angeles on Sunday. Tributes highlight his profound impact on the FPS genre and gaming industry.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/vince-zampella-creator-of-call-of-duty-dies-at-57-report-101766440735732.html"
+        },
+        {
+          "title": "Vince Zampella Killed in Single-Car Crash Near Los Angeles",
+          "summary": "The influential game developer and Respawn CEO, behind blockbuster franchises like Call of Duty and Apex Legends, passed away at 57 in a crash involving his Ferrari, as reported by US media.",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/vince-zampella-video-game-developer-killed-in-car-crash-9883586"
+        },
+        {
+          "title": "Fantastic Pixel Castle Studio Closes After Funding Cut",
+          "summary": "Greg Street's MMO studio, Fantastic Pixel Castle, shut down as of November after NetEase withdrew funding, marking another blow amid ongoing industry layoffs.",
+          "source": "GameDev News YouTube",
+          "url": "https://www.youtube.com/watch?v=ImF4f-vd1cI"
+        },
+        {
+          "title": "Larian Faces Backlash Over Divinity 3 Reveal and AI Use",
+          "summary": "Larian Studios received heated feedback after revealing Divinity 3, with concerns over a trailer and CEO Swen's comments on AI tools; the studio plans an AMA post-holiday to address issues.",
+          "source": "GameDev News YouTube",
+          "url": "https://www.youtube.com/watch?v=ImF4f-vd1cI"
+        },
+        {
+          "title": "Major Game Releases This Week: Duet Night Abyss, Game of Fate 3",
+          "summary": "Upcoming PC releases include Duet Night Abyss (Dec 23), a fantasy action RPG; Quarantine Zombiesl and others (Dec 23-24); and Game of Fate 3: Clash of Crowns (Dec 25), a live-action thriller.",
+          "source": "Allkeyshop",
+          "url": "https://www.allkeyshop.com/blog/en-us/best-new-games-releasing-week-december-22-28-news-d/"
+        },
+        {
+          "title": "EVE Online Sees Record Destruction in November 2025",
+          "summary": "EVE Online reported nearly 730K hulls, capsules, and structures destroyed in November, with 74.85 trillion ISK in losses, surpassing yearly peaks amid Drone Regions glassing.",
+          "source": "The Ancient Gaming Noob",
+          "url": "https://tagn.wordpress.com/2025/12/22/"
         }
       ],
       "citations": [
-        "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
-        "https://eu.36kr.com/en/p/3606173429842690",
-        "https://boards.4chan.org/vg/thread/551037441/poe2g-path-of-exile-2-general",
-        "https://www.comingsoon.net/movies/news/2077095-prime-video-adds-2nd-highest-grossing-video-game-movie",
-        "https://www.youtube.com/watch?v=EEFf4-Ixki0",
-        "https://forums.stardock.com/540142/unclear-whose-territory-it-is"
+        "https://www.allkeyshop.com/blog/en-us/best-new-games-releasing-week-december-22-28-news-d/",
+        "https://www.youtube.com/watch?v=ImF4f-vd1cI",
+        "https://tagn.wordpress.com/2025/12/22/",
+        "https://www.hindustantimes.com/world-news/vince-zampella-creator-of-call-of-duty-dies-at-57-report-101766440735732.html",
+        "https://www.ndtv.com/world-news/vince-zampella-video-game-developer-killed-in-car-crash-9883586",
+        "https://economictimes.com/news/international/us/who-was-vince-zampella-legendary-game-developer-dies-in-southern-california-crash/articleshow/126128729.cms"
       ]
     },
     "tech_news": {
@@ -444,34 +431,53 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 6,
       "items": [
         {
-          "title": "Bosch Announces AI Extension Platform for AI-Powered Cockpits at CES 2026",
-          "summary": "Robert Bosch LLC will unveil a new AI-enabled high-performance computing unit for AI-powered cockpits, developed with Microsoft and NVIDIA, at CES 2026 in Las Vegas.",
-          "source": "MarkLines",
-          "url": "https://www.marklines.com/en/news/337720"
+          "title": "FINNY AI Raises $17 Million in Series A Funding",
+          "summary": "FINNY AI, a prospecting and marketing platform for financial advisors, secured $17 million in Series A funding led by Venrock, with participation from investors including former Vanguard CEO William McNabb. The funding supports growth in the wealthtech sector.",
+          "source": "Dwealth.news",
+          "url": "https://dwealth.news/2025/12/advisor-tech-talk-week-of-12-23-25/"
         },
         {
-          "title": "Hyundai Motor Group to Debut Humanoid Robot at CES 2026",
-          "summary": "Hyundai Motor Group plans to present its robotics strategy, including a humanoid robot debut, at CES 2026.",
-          "source": "AzerNews",
-          "url": "https://www.azernews.az/region/251991.html"
+          "title": "CapIntel Reports 9,225% Revenue Growth and Launches New Products",
+          "summary": "CapIntel announced exceptional growth with 9,225% revenue increase over three years, alongside launches of AI Statement Reader for data analysis and beta digital presentations for personalized client communications. The company expanded its leadership team and gained global recognition.",
+          "source": "Dwealth.news",
+          "url": "https://dwealth.news/2025/12/advisor-tech-talk-week-of-12-23-25/"
         },
         {
-          "title": "AI Glasses Emerge as Major 2025 Hardware Trend with Explosive Growth Projected",
-          "summary": "AI glasses are predicted to ship 5.5 million units in 2025, up 135% year-over-year, with giants like Huawei, Xiaomi, Baidu, Alibaba, and Li Auto competing in this new smart hardware category.",
-          "source": "36Kr",
-          "url": "https://eu.36kr.com/en/p/3606325354874119"
+          "title": "Tradeweb Completes First Fully Electronic Auction for Brokered CDs",
+          "summary": "Tradeweb Markets executed the industry's first fully electronic auction for brokered certificates of deposit on its retail platform, involving Gateway First Bank and InspereX, powered by Alphaledger’s blockchain technology.",
+          "source": "Dwealth.news",
+          "url": "https://dwealth.news/2025/12/advisor-tech-talk-week-of-12-23-25/"
+        },
+        {
+          "title": "Artrya Secures Third U.S. Commercial Customer with Cone Health",
+          "summary": "ASX-listed Artrya signed a five-year deal worth at least US$0.45 million with Cone Health for its Salix Coronary Anatomy platform, converting all three U.S. foundation partners to commercial customers and boosting shares 6%.",
+          "source": "Motley Fool",
+          "url": "https://www.fool.com.au/2025/12/23/this-asx-tech-stock-is-jumping-6-on-big-us-ai-news/"
+        },
+        {
+          "title": "iRobot Files for Chapter 11 Bankruptcy After Failed Amazon Acquisition",
+          "summary": "iRobot entered bankruptcy in December 2025 with revenue declines, following the FTC-blocked $1.4 billion Amazon deal in 2024, and was acquired by contract manufacturer Picea Robotics amid regulatory and competitive pressures.",
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/irobot-collapse-cautionary-tale-tech-innovation-global-competitiveness-2512/"
+        },
+        {
+          "title": "Israeli High-Tech Funding Reaches $15.6 Billion in 2025",
+          "summary": "Israeli high-tech companies raised $15.6 billion in private funding this year, a rise from $12.2 billion in 2024, according to Startup Nation Central's report.",
+          "source": "Economic Times",
+          "url": "https://economictimes.com/tech/funding/israeli-high-tech-funding-rises-to-nearly-16-billion-in-2025-report-says/amp_articleshow/126124805.cms"
         }
       ],
       "citations": [
-        "https://www.theregister.com/2025/12/22/ai_hyperscale_capex_research/",
-        "https://eu.36kr.com/en/p/3606325354874119",
-        "https://news.fourslash.com/newcomers-challenge-big-tech-in-ai-data-center-boom",
-        "https://www.marklines.com/en/news/337720",
-        "https://www.mexc.com/en-NG/news/321791",
-        "https://www.azernews.az/region/251991.html"
+        "https://dwealth.news/2025/12/advisor-tech-talk-week-of-12-23-25/",
+        "https://www.fool.com.au/2025/12/23/this-asx-tech-stock-is-jumping-6-on-big-us-ai-news/",
+        "https://www.thehansindia.com/technology/tech-news/ai-reshapes-tech-jobs-in-2025-as-layoffs-surge-across-global-companies-1032900",
+        "https://www.ainvest.com/news/irobot-collapse-cautionary-tale-tech-innovation-global-competitiveness-2512/",
+        "https://timesofindia.indiatimes.com/technology/tech-news/after-laying-off-4000-employees-and-automating-with-ai-agents-salesforce-executives-admit-we-were-more-confident-about-/articleshow/126121875.cms",
+        "https://www.cbsnews.com/video/top-tech-gadgets-of-2025/",
+        "https://economictimes.com/tech/funding/israeli-high-tech-funding-rises-to-nearly-16-billion-in-2025-report-says/amp_articleshow/126124805.cms"
       ]
     }
   }

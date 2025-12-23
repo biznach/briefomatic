@@ -1,25 +1,26 @@
 # Daily Briefing
 
-*Generated: 2025-12-22 18:07 UTC*
+*Generated: 2025-12-23 00:19 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+**Market Overview**
+The S&P 500 ended the week marginally up 0.1% despite a four-day decline, with analysts predicting potential new highs above 7,000 by year-end 2025 if no major geopolitical issues arise. In the crypto market, Bitcoin failed to break above $90,000 and slipped back to the $88,000 range, with its correlation with gold turning negative. Top 100 crypto tokens showed mixed performance, with Audiera (BEAT) surging 57.16% and MYX Finance gaining 18.8%, while Canton (CC) dropped 15.79% and Aave fell 11.25%.
 
-1. **Market Overview**: The S&P 500 climbed 0.88% to 6,834.50, while the Nasdaq Composite spiked 1.31% to 23,307.62. Major cryptocurrencies are trading mixed, with Bitcoin at $89,371.65 (+1.07%) and Ethereum at $3,036.89 (+1.45%). Gold has surged to new record highs, outperforming Bitcoin as a store of value.
+**Tech & AI**
+OpenAI acknowledged persistent prompt injection vulnerabilities in AI browsers and is developing an LLM-based automated attacker to simulate and test defenses. KAIST researchers unveiled an AI-driven assistant for optimizing injection molding, and Archetype began beta testing an AI agent toolkit for physical machine environments. Additionally, GLM-4.7 was released, advancing the coding capability, and Claude Code got native LSP support.
 
-2. **Tech & AI**: Micron shares surged on strong AI chip demand outlook, helping the broader technology sector rebound. Disney Imagineering debuted a next-generation robotic character, Olaf, marking a new era of innovation. Claude Code got native LSP support, and there are developments in LLMs, including scaling to larger codebases and research on hallucination-associated neurons.
+**Gaming & Entertainment**
+There is no notable gaming news in the provided data.
 
-3. **Gaming & Entertainment**: Disney Imagineering's debut of the robotic character Olaf is a notable development in the entertainment sector. There is no significant gaming news in the provided data.
+**Key Insights**
+* The S&P 500 is predicted to reach new highs above 7,000 by year-end 2025 if no major geopolitical issues arise.
+* Bitcoin's correlation with gold has turned negative, indicating the market is treating BTC more as a high-beta risk asset rather than a macro hedge.
+* OpenAI is developing an LLM-based automated attacker to simulate and test defenses against prompt injection vulnerabilities in AI browsers.
+* JPMorgan Chase is considering offering cryptocurrency trading services to its institutional clients, signaling continued mainstream adoption of digital assets.
+* 2025 marked the year of crypto institutionalization with major policy changes, including the repeal of SAB 121 and the launch of Stablecoin-as-a-Service.
 
-4. **Key Insights**:
-* The technology sector is rebounding, driven by strong AI chip demand and innovation in robotics.
-* Cryptocurrency prices are trading mixed, with some major cryptocurrencies experiencing significant gains.
-* Gold has surged to new record highs, outperforming Bitcoin as a store of value.
-* Regulatory developments in the cryptocurrency space, including the approval of legal cryptocurrency transactions and custody services, may impact market sentiment.
-* The surge in cryptocurrency activity in Brazil, with a 43% increase in 2025, indicates growing adoption of digital assets.
-
-5. **Watch List**: 
-* Cryptocurrency prices and regulatory developments
-* Gold prices and their impact on the cryptocurrency market
-* AI chip demand and its effect on the technology sector
-* Disney Imagineering's robotic character Olaf and its potential applications
-* Uniswap's record user numbers and the growing adoption of decentralized exchange platforms
+**Watch List**
+* S&P 500 and its potential to reach new highs above 7,000 by year-end 2025.
+* Bitcoin's price movement and its correlation with gold.
+* OpenAI's development of an LLM-based automated attacker to simulate and test defenses against prompt injection vulnerabilities in AI browsers.
+* JPMorgan Chase's potential entry into cryptocurrency trading services for institutional clients.
+* Regulatory developments in the crypto space, including the SEC's charges against crypto trading platforms and investment clubs.
