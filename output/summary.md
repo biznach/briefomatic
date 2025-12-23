@@ -1,26 +1,24 @@
 # Daily Briefing
 
-*Generated: 2025-12-23 00:19 UTC*
+*Generated: 2025-12-23 06:07 UTC*
 
-**Market Overview**
-The S&P 500 ended the week marginally up 0.1% despite a four-day decline, with analysts predicting potential new highs above 7,000 by year-end 2025 if no major geopolitical issues arise. In the crypto market, Bitcoin failed to break above $90,000 and slipped back to the $88,000 range, with its correlation with gold turning negative. Top 100 crypto tokens showed mixed performance, with Audiera (BEAT) surging 57.16% and MYX Finance gaining 18.8%, while Canton (CC) dropped 15.79% and Aave fell 11.25%.
+Here is a concise executive briefing based on the provided raw news and market data:
 
-**Tech & AI**
-OpenAI acknowledged persistent prompt injection vulnerabilities in AI browsers and is developing an LLM-based automated attacker to simulate and test defenses. KAIST researchers unveiled an AI-driven assistant for optimizing injection molding, and Archetype began beta testing an AI agent toolkit for physical machine environments. Additionally, GLM-4.7 was released, advancing the coding capability, and Claude Code got native LSP support.
+1. **Market Overview**: The S&P 500 rallied 0.4-0.6% on Monday, with gold and silver reaching record highs. Bitcoin is down over 22% in Q4 2025, heading for its worst year since 2018. Major cryptocurrencies edged lower overall, with Ethereum and Bitcoin ETFs seeing $1.1 billion in net outflows.
 
-**Gaming & Entertainment**
-There is no notable gaming news in the provided data.
+2. **Tech & AI**: Notable developments include the creation of an AI system for autonomous injection molding optimization by KAIST researchers, and MIT scientists developing a new optimization method for designing 3D structures that transform from flat configurations into complex curved forms. Additionally, Claude Code has received native LSP support, and a new audio model, SAM, has been announced for transforming audio editing.
 
-**Key Insights**
-* The S&P 500 is predicted to reach new highs above 7,000 by year-end 2025 if no major geopolitical issues arise.
-* Bitcoin's correlation with gold has turned negative, indicating the market is treating BTC more as a high-beta risk asset rather than a macro hedge.
-* OpenAI is developing an LLM-based automated attacker to simulate and test defenses against prompt injection vulnerabilities in AI browsers.
-* JPMorgan Chase is considering offering cryptocurrency trading services to its institutional clients, signaling continued mainstream adoption of digital assets.
-* 2025 marked the year of crypto institutionalization with major policy changes, including the repeal of SAB 121 and the launch of Stablecoin-as-a-Service.
+3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
 
-**Watch List**
-* S&P 500 and its potential to reach new highs above 7,000 by year-end 2025.
-* Bitcoin's price movement and its correlation with gold.
-* OpenAI's development of an LLM-based automated attacker to simulate and test defenses against prompt injection vulnerabilities in AI browsers.
-* JPMorgan Chase's potential entry into cryptocurrency trading services for institutional clients.
-* Regulatory developments in the crypto space, including the SEC's charges against crypto trading platforms and investment clubs.
+4. **Key Insights**:
+* The crypto market is experiencing deleveraging, which may be a positive reset for 2026, focusing on fundamentals, RWAs, AI, and sustainability.
+* Bitcoin is facing its worst year since 2018, with a 22% decline in Q4 2025.
+* The S&P 500 is expected to potentially break out to 7,000 in 2025, despite recent volatility.
+* AI and machine learning continue to advance, with new developments in optimization methods and autonomous systems.
+
+5. **Watch List**: 
+* Crypto market trends and regulatory developments
+* S&P 500 and major index movements
+* Advancements in AI and machine learning, particularly in optimization methods and autonomous systems
+* Bitcoin and Ethereum price movements and ETF flows
+* Developments in the field of RWAs and tokenization
