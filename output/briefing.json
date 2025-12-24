@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T06:07:38.822513+00:00",
-  "generated_at_human": "2025-12-24 06:07 UTC",
+  "generated_at": "2025-12-24T12:08:35.160745+00:00",
+  "generated_at_human": "2025-12-24 12:08 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "The Windows Utility",
+          "url": "https://christitus.com/windows-tool/",
+          "score": 46,
+          "comments": 17
+        },
+        {
           "title": "Fabrice Bellard Releases MicroQuickJS",
           "url": "https://github.com/bellard/mquickjs/blob/main/README.md",
-          "score": 916,
-          "comments": 356
-        },
-        {
-          "title": "X-ray: a Python library for finding bad redactions in PDF documents",
-          "url": "https://github.com/freelawproject/x-ray",
-          "score": 320,
-          "comments": 70
-        },
-        {
-          "title": "Unifi Travel Router",
-          "url": "https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router",
-          "score": 173,
-          "comments": 124
+          "score": 1131,
+          "comments": 424
         },
         {
           "title": "Some Epstein file redactions are being undone with hacks",
           "url": "https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media",
-          "score": 290,
-          "comments": 208
+          "score": 570,
+          "comments": 435
+        },
+        {
+          "title": "X-ray: a Python library for finding bad redactions in PDF documents",
+          "url": "https://github.com/freelawproject/x-ray",
+          "score": 472,
+          "comments": 85
+        },
+        {
+          "title": "Google 2025 recap: Research breakthroughs of the year",
+          "url": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+          "score": 23,
+          "comments": 4
+        },
+        {
+          "title": "I rebuilt FlashAttention in Triton to understand the performance archaeology",
+          "url": "https://aminediro.com/posts/flash_attn/",
+          "score": 29,
+          "comments": 3
+        },
+        {
+          "title": "Unifi Travel Router",
+          "url": "https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router",
+          "score": 292,
+          "comments": 249
         },
         {
           "title": "Texas app store age verification law blocked by federal judge",
           "url": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/",
-          "score": 192,
-          "comments": 108
+          "score": 241,
+          "comments": 149
         },
         {
-          "title": "Show HN: Turn raw HTML into production-ready images for free",
-          "url": "https://html2png.dev",
-          "score": 38,
-          "comments": 11
+          "title": "Show HN: Tonbo – an embedded database for serverless and edge runtimes",
+          "url": "https://github.com/tonbo-io/tonbo",
+          "score": 29,
+          "comments": 7
         },
         {
           "title": "Autonomously navigating the real world: lessons from the PG&E outage",
           "url": "https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world",
-          "score": 37,
-          "comments": 8
-        },
-        {
-          "title": "Is Northern Virginia still the least reliable AWS region?",
-          "url": "https://statusgator.com/blog/aws-least-reliable-region-in-2025/",
-          "score": 83,
-          "comments": 48
+          "score": 95,
+          "comments": 51
         },
         {
           "title": "Nabokov's guide to foreigners learning Russian",
           "url": "https://twitter.com/haravayin_hogh/status/2003299405907247502",
-          "score": 46,
-          "comments": 55
+          "score": 117,
+          "comments": 184
         },
         {
-          "title": "Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4",
-          "url": "https://abhamra.com/blog/randomized-maxcut/",
-          "score": 14,
-          "comments": 0
-        },
-        {
-          "title": "Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]",
-          "url": "https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf",
-          "score": 23,
-          "comments": 1
-        },
-        {
-          "title": "'Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed",
-          "url": "https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html",
-          "score": 29,
-          "comments": 5
-        },
-        {
-          "title": "Lua 5.5",
-          "url": "https://lua.org/versions.html#5.5",
-          "score": 250,
-          "comments": 77
-        },
-        {
-          "title": "Perfect Software – Software for an Audience of One",
-          "url": "https://outofdesk.netlify.app/blog/perfect-software",
-          "score": 127,
-          "comments": 51
-        },
-        {
-          "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
-          "url": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
-          "score": 376,
-          "comments": 229
-        },
-        {
-          "title": "Charts in Slides",
-          "url": "https://ia.net/topics/charts-in-slides",
-          "score": 22,
-          "comments": 0
-        },
-        {
-          "title": "Could lockfiles just be SBOMs?",
-          "url": "https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html",
-          "score": 23,
-          "comments": 10
-        },
-        {
-          "title": "Learn Lisp/Fennel Programming Against Neovim",
-          "url": "https://github.com/humorless/fennel-fp-neovim",
-          "score": 37,
-          "comments": 4
-        },
-        {
-          "title": "HTTP Caching, a Refresher",
-          "url": "https://danburzo.ro/http-caching-refresher/",
-          "score": 89,
-          "comments": 8
-        },
-        {
-          "title": "Help My c64 caught on fire",
-          "url": "https://c0de517e.com/026_c64fire.htm",
-          "score": 89,
-          "comments": 26
-        },
-        {
-          "title": "Volvo Centum is Dalton Maag's new typeface for Volvo",
-          "url": "https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum",
-          "score": 73,
-          "comments": 65
+          "title": "Show HN: Turn raw HTML into production-ready images for free",
+          "url": "https://html2png.dev",
+          "score": 88,
+          "comments": 42
         },
         {
           "title": "Don't Become the Machine",
           "url": "https://armeet.bearblog.dev/becoming-the-machine/",
-          "score": 17,
-          "comments": 4
+          "score": 106,
+          "comments": 53
         },
         {
-          "title": "Open source USB to GPIB converter (for Test and Measurement instruments)",
-          "url": "https://github.com/xyphro/UsbGpib",
-          "score": 22,
-          "comments": 3
+          "title": "Permission Systems for Enterprise That Scale",
+          "url": "https://eliocapella.com/blog/permission-systems-for-enterprise/",
+          "score": 13,
+          "comments": 2
+        },
+        {
+          "title": "US sanctions EU government officials behind the DSA",
+          "url": "https://mastodon.social/@fj/115773761468906515",
+          "score": 57,
+          "comments": 27
+        },
+        {
+          "title": "Scaling Go Testing with Contract and Scenario Mocks",
+          "url": "https://funnelstory.ai/blog/engineering/scaling-go-testing-with-contract-and-scenario-mocks",
+          "score": 5,
+          "comments": 0
+        },
+        {
+          "title": "Lua 5.5",
+          "url": "https://lua.org/versions.html#5.5",
+          "score": 315,
+          "comments": 104
+        },
+        {
+          "title": "Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4",
+          "url": "https://abhamra.com/blog/randomized-maxcut/",
+          "score": 36,
+          "comments": 1
         },
         {
           "title": "What makes you senior",
           "url": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/",
-          "score": 278,
-          "comments": 135
+          "score": 359,
+          "comments": 175
         },
         {
-          "title": "Fifty problems with standard web APIs in 2025",
-          "url": "https://zerotrickpony.com/articles/browser-bugs/",
-          "score": 97,
-          "comments": 27
+          "title": "Custom Cross Compiler with Nix",
+          "url": "https://www.hobson.space/posts/nixcross/",
+          "score": 25,
+          "comments": 1
+        },
+        {
+          "title": "Perfect Software – Software for an Audience of One",
+          "url": "https://outofdesk.netlify.app/blog/perfect-software",
+          "score": 152,
+          "comments": 61
+        },
+        {
+          "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
+          "url": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
+          "score": 447,
+          "comments": 263
+        },
+        {
+          "title": "Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]",
+          "url": "https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf",
+          "score": 38,
+          "comments": 2
+        },
+        {
+          "title": "HTTP Caching, a Refresher",
+          "url": "https://danburzo.ro/http-caching-refresher/",
+          "score": 116,
+          "comments": 18
+        },
+        {
+          "title": "Open source USB to GPIB converter (for Test and Measurement instruments)",
+          "url": "https://github.com/xyphro/UsbGpib",
+          "score": 43,
+          "comments": 17
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 86877,
-          "change_24h": -0.93,
-          "change_7d": 0.31,
-          "market_cap": 1735279624939
+          "price": 87107,
+          "change_24h": -0.62,
+          "change_7d": 0.59,
+          "market_cap": 1739112962545
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2924.95,
-          "change_24h": -1.66,
-          "change_7d": -0.13,
-          "market_cap": 353325378628
+          "price": 2924.74,
+          "change_24h": -1.21,
+          "change_7d": 0.2,
+          "market_cap": 352703204844
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 121.31,
-          "change_24h": -2.95,
-          "change_7d": -5.06,
-          "market_cap": 68257123412
+          "price": 121.97,
+          "change_24h": -2.21,
+          "change_7d": -4.41,
+          "market_cap": 68638619485
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.127123,
-          "change_24h": -3.04,
-          "change_7d": -2.94,
-          "market_cap": 21384823950
+          "price": 0.127815,
+          "change_24h": -2.17,
+          "change_7d": -1.91,
+          "market_cap": 21485539746
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.355518,
-          "change_24h": -2.79,
-          "change_7d": -6.37,
-          "market_cap": 13050839501
+          "price": 0.35809,
+          "change_24h": -2.35,
+          "change_7d": -5.21,
+          "market_cap": 13138150469
         }
       ]
     },
@@ -214,32 +214,7 @@
         {
           "name": "pippin",
           "symbol": "PIPPIN",
-          "market_cap_rank": 142
-        },
-        {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 62
-        },
-        {
-          "name": "Midnight",
-          "symbol": "NIGHT",
-          "market_cap_rank": 79
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Aster",
-          "symbol": "ASTER",
-          "market_cap_rank": 66
-        },
-        {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 5
+          "market_cap_rank": 149
         },
         {
           "name": "Bitcoin",
@@ -247,19 +222,44 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Plasma",
-          "symbol": "XPL",
-          "market_cap_rank": 235
+          "name": "Aave",
+          "symbol": "AAVE",
+          "market_cap_rank": 53
         },
         {
-          "name": "Cysic",
-          "symbol": "CYS",
-          "market_cap_rank": 730
+          "name": "Boundless",
+          "symbol": "ZKC",
+          "market_cap_rank": 918
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 55
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 253
+        },
+        {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 26
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 30
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
           "market_cap_rank": 2
+        },
+        {
+          "name": "Avantis",
+          "symbol": "AVNT",
+          "market_cap_rank": 422
         }
       ]
     },
@@ -268,40 +268,78 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
-      "citations": []
+      "count": 3,
+      "items": [
+        {
+          "title": "Wall Street Closes Higher for Fourth Straight Day",
+          "summary": "The Dow Jones rose 0.2% to 48,442.41, Nasdaq gained 0.6% to 23,561.84 led by Marvell Technology up 3.4%, and S&P 500 advanced 0.4% to a new all-time high of 6,909.79, driven by AI and tech momentum amid mixed economic data including a drop in the Present Situation Index to 116.8.",
+          "source": "Zacks Investment Research",
+          "url": "https://www.zacks.com/stock/news/2808315/stock-market-news-for-dec-24-2025"
+        },
+        {
+          "title": "S&P 500 Hits Record High at 6,912",
+          "summary": "The S&P 500 rose 0.04% to 6,912 on December 24, following a 0.52% gain to 6,914 on December 23, with megacaps like Nvidia up 2.5%, Broadcom 2.2%, Amazon and Alphabet 1.3% leading the advance in tech and energy sectors.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/stock-market"
+        },
+        {
+          "title": "US Stocks Push Higher Near Record Highs",
+          "summary": "U.S. stocks continued upward in the holiday-shortened week, with S&P 500 closing near record highs supported by broad gains; European equity futures remained largely flat.",
+          "source": "Axon Markets",
+          "url": "https://www.axonmarkets.com/blog/daily-market-update-december-24-2025"
+        }
+      ],
+      "citations": [
+        "https://www.zacks.com/stock/news/2808315/stock-market-news-for-dec-24-2025",
+        "https://tradingeconomics.com/united-states/stock-market",
+        "https://www.axonmarkets.com/blog/daily-market-update-december-24-2025"
+      ]
     },
     "crypto_news": {
       "source": "perplexity",
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Bitcoin Dips Below $88K as Altcoins Lead Market-Wide Pullback",
-          "summary": "Bitcoin slipped 1.12% below $88,000 and Ethereum dropped 1.5% near $3,000 over the past 24 hours, with altcoins like Audiera plunging over 41% and WIF hitting a weekly low after a 12% drop. The NFT sector led losses with top NFTs down more than 9% amid broad declines.",
-          "source": "XT.com",
-          "url": "https://www.xt.com/en/blog/post/live-crypto-news-today-latest-updates-for-dec-24-2025-altcoins-lead-declines-as-bitcoin-dips-below-88k-in-market-wide-pullback"
+          "title": "Bitcoin and major altcoins slip as crypto market cap dips below $3T",
+          "summary": "Bitcoin and major altcoins fell on broad crypto weakness, dragging total crypto market value down to about $2.97 trillion; Ether, Solana and Cardano were among the decliners amid lingering BTC weakness despite record highs in global stocks.[4][6]",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2025/12/24/eth-sol-ada-slump-as-bitcoin-weakness-lingers-despite-record-stocks-jump"
         },
         {
-          "title": "Bitcoin, Ethereum, and XRP Face Intensifying Bearish Momentum",
-          "summary": "Analysts warn of prolonged bearish pressure on Bitcoin, Ethereum, and XRP due to structural weakness, falling RSI indicators, ETF outflows, and thin order books. The market shows uncertainty with key resistance levels unbreached and downside risks mounting.",
-          "source": "AInvest",
-          "url": "https://www.ainvest.com/news/bitcoin-news-today-bitcoin-ethereum-xrp-pressure-bearish-momentum-intensifies-2512/"
+          "title": "Binance market update: most large-cap tokens trading lower; MOVE, AVNT, ZBT outperform",
+          "summary": "Binance reports the majority of major cryptocurrencies are trading lower while token outperformers for the period include MOVE (+33%), AVNT (+20%) and ZBT (+19%), reflecting mixed intra‑day performance across markets.[5]",
+          "source": "Binance",
+          "url": "https://www.binance.com/en/square/post/34138832621449"
         },
         {
-          "title": "XRP Needs Four-Digit Prices to Ease Sovereign Settlement Liquidity Stress",
-          "summary": "Market commentator outlines a three-stage valuation for XRP, predicting sharp price increases to four-digit levels for efficient sovereign-scale settlements, driven by institutional adoption rather than speculation. Current price above $1.9 is seen as undervalued for banks' needs.",
-          "source": "The Crypto Basic",
-          "url": "https://thecryptobasic.com/2025/12/24/heres-how-high-xrp-must-climb-to-ease-liquidity-stress-in-sovereign-settlements/"
+          "title": "SEC charges firms over $14M crypto scam using fake AI investment tips",
+          "summary": "The U.S. Securities and Exchange Commission filed charges alleging an elaborate $14 million cryptocurrency fraud that used WhatsApp groups, fake AI‑generated trading tips and bogus trading platforms to defraud U.S. investors, naming multiple companies and investment clubs in the complaint.[2]",
+          "source": "The Hacker News (reporting on SEC action)",
+          "url": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html"
+        },
+        {
+          "title": "American Bitcoin Corp (ABTC) shares plunge over 85% since spinoff",
+          "summary": "Shares of American Bitcoin Corp have dropped more than 85% from post‑spinoff highs amid a broader BTC pullback, weak miner economics (falling hashprice) and a large tranche of unlocked shares flooding the market, according to reporting on the miner’s stock performance.[1]",
+          "source": "CoinGeek",
+          "url": "https://coingeek.com/abtc-shares-plunge-over-85-percent-since-spinoff/"
+        },
+        {
+          "title": "Opinion: Major cryptocurrencies have lost over $1.2T since early October",
+          "summary": "An opinion piece reports that from early October through mid‑December major cryptocurrencies lost more than $1.2 trillion in market capitalization, highlighting the scale of recent market contraction.[3]",
+          "source": "Eurasia Review",
+          "url": "https://www.eurasiareview.com/24122025-public-makes-trillions-on-plunging-crypto-oped/"
         }
       ],
       "citations": [
-        "https://www.xt.com/en/blog/post/live-crypto-news-today-latest-updates-for-dec-24-2025-altcoins-lead-declines-as-bitcoin-dips-below-88k-in-market-wide-pullback",
-        "https://www.ainvest.com/news/bitcoin-news-today-bitcoin-ethereum-xrp-pressure-bearish-momentum-intensifies-2512/",
-        "https://thecryptobasic.com/2025/12/24/heres-how-high-xrp-must-climb-to-ease-liquidity-stress-in-sovereign-settlements/"
+        "https://coingeek.com/abtc-shares-plunge-over-85-percent-since-spinoff/",
+        "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html",
+        "https://www.eurasiareview.com/24122025-public-makes-trillions-on-plunging-crypto-oped/",
+        "https://www.coindesk.com/markets/2025/12/24/eth-sol-ada-slump-as-bitcoin-weakness-lingers-despite-record-stocks-jump",
+        "https://www.binance.com/en/square/post/34138832621449",
+        "https://www.coindesk.com/markets/2025/12/24/bitcoin-continues-to-slip-against-gold-testing-the-safe-haven-trade"
       ]
     },
     "ai_news": {
@@ -309,54 +347,43 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "GenEnv Co-evolution Accelerates AI Learning on Dynamic Benchmarks",
-          "summary": "Researchers introduced GenEnv, a co-evolutionary system that boosts AI agent performance by up to 40.3% on ALFWorld tasks compared to 7B baselines, using 3.3 times less data than Gemini 2.5 Pro augmentation. It enables data-efficient scaling for LLM agents through dynamic, difficulty-calibrated curricula.",
+          "title": "Stanford Researchers Unveil 3D Chip to Overcome AI Hardware Bottleneck",
+          "summary": "Stanford University researchers have developed a novel 3D computer chip that stacks memory and computing elements vertically, outperforming 2D chips by up to four times and promising up to 12-fold improvements on AI workloads like LLaMA. The U.S.-manufactured prototype addresses data movement bottlenecks critical for AI efficiency.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2025/12/251223084857.htm"
+        },
+        {
+          "title": "GenEnv Training System Boosts AI Agent Performance by 40% with Data Efficiency",
+          "summary": "Researchers introduced GenEnv, a co-evolutionary training system using adaptive simulated environments, achieving up to +40.3% improvement on ALFWorld benchmarks over 7B baselines while using 3.3 times less data than Gemini 2.5 Pro augmentation. It enhances agent reasoning and provides a scalable path for LLM agent training.",
           "source": "Quantum Zeitgeist",
           "url": "https://quantumzeitgeist.com/ai-learning-evolution-genenv-accelerates-dynamic-five-benchmark-tasks/"
         },
         {
-          "title": "University of Illinois Showcases Over 40 AI Papers at NeurIPS 2025",
-          "summary": "The University of Illinois highlighted extensive AI research at NeurIPS 2025 in San Diego, covering machine learning theory, computer vision, NLP, reinforcement learning, and responsible AI, with a preview event at Micro-NeurIPS.",
-          "source": "University of Illinois ECE",
-          "url": "https://ece.illinois.edu/news/illinois-ai-research-at-neurips-2025"
+          "title": "Google Cloud CEO Details Decade-Long Strategy for AI Energy Efficiency and Silicon Innovation",
+          "summary": "Google Cloud CEO Thomas Kurian highlighted a 10-year foresight into AI bottlenecks like specialized silicon and power scarcity, with energy-efficient TPUs designed for maximum flops per energy unit. The company employs AI-managed data centers and diversified energy strategies amid surging AI demands.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2025/12/23/google-cloud-ceo-thomas-kurian-ai-energy-tpu-battle/"
         },
         {
-          "title": "Salesforce Backpedals on Agentic AI Hype for Agentforce",
-          "summary": "Salesforce is shifting Agentforce from generative AI and LLMs to traditional 'if-then' automation due to reliability issues, acknowledging less trust in LLMs and increased need for human troubleshooting.",
-          "source": "AdExchanger",
-          "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-24122025/"
-        },
-        {
-          "title": "Federated AI Learning Deployed at Three US National Labs",
-          "summary": "Three US national labs are implementing federated AI learning, as covered in recent HPC-AI news bytes alongside discussions from AI 'doomers' and high-frequency trading advancements.",
-          "source": "Inside AI News",
-          "url": "https://insideainews.com/2025/12/23/news-bytes-20251222-federated-ai-learning-at-3-national-labs-ai-doomers-speak-out/"
-        },
-        {
-          "title": "AI Venture Capital Reshapes Silicon Valley in 2025",
-          "summary": "Artificial intelligence drove major changes in venture capital, office space, hiring, and regional strategy across Silicon Valley throughout 2025.",
-          "source": "Silicon Valley Business Journal",
-          "url": "https://www.bizjournals.com/sanjose/news/2025/12/23/ai-venture-capital-recap-2025.html"
-        },
-        {
-          "title": "Agentic AI Advances Finance with Proactive Investment Tools",
-          "summary": "Boosted AI's agentic AI anticipates user needs for tailored investment recommendations, voice interactions, and democratized research, distinguishing it from generative AI.",
-          "source": "Fintech TV",
-          "url": "https://fintech.tv/agentic-ai-redefines-investing-as-boosted-ai-pushes-finance-beyond-chatbots/"
+          "title": "MIT-Mecalux Collaboration Advances AI for Autonomous Logistics and Warehouse Robots",
+          "summary": "MIT and Mecalux are developing self-learning AI models for order allocation, distribution, and reinforcement learning to optimize autonomous mobile robots (AMRs) in dynamic warehouses. The systems adapt to complex environments, enhancing efficiency and future-proofing supply chains.",
+          "source": "Mecalux",
+          "url": "https://www.mecalux.com/blog/future-of-ai-in-logistics"
         }
       ],
       "citations": [
-        "https://insideainews.com/2025/12/23/news-bytes-20251222-federated-ai-learning-at-3-national-labs-ai-doomers-speak-out/",
         "https://quantumzeitgeist.com/ai-learning-evolution-genenv-accelerates-dynamic-five-benchmark-tasks/",
-        "https://www.adexchanger.com/daily-news-roundup/wednesday-24122025/",
-        "https://tech.einnews.com/amp/pr_news/877771431/generative-artificial-intelligence-ai-in-banking-and-finance-market-in-2029",
-        "https://fintech.tv/agentic-ai-redefines-investing-as-boosted-ai-pushes-finance-beyond-chatbots/",
-        "https://www.govinfosecurity.com/openai-will-forever-fight-prompt-injection-attacks-a-30380",
-        "https://ece.illinois.edu/news/illinois-ai-research-at-neurips-2025",
-        "https://www.bizjournals.com/sanjose/news/2025/12/23/ai-venture-capital-recap-2025.html"
+        "https://www.sciencedaily.com/releases/2025/12/251223084857.htm",
+        "https://www.frenchtechjournal.com/la-machine-56-will-2026-be-the-year-of-responsible-ai/",
+        "https://www.mecalux.com/blog/future-of-ai-in-logistics",
+        "https://fortune.com/2025/12/23/google-cloud-ceo-thomas-kurian-ai-energy-tpu-battle/",
+        "https://tech.einnews.com/amp/pr_news/877775383/generative-artificial-intelligence-ai-in-financial-services-market-in-2029",
+        "https://www.cio.inc/gen-ai-paradox-turning-legacy-code-into-asset-a-30384",
+        "https://www.streetinsider.com/Newsfile/Gold+Hunter+Deploys+Machine-Learning+Artificial+Intelligence+with+Windfall+Geotek+to+Expedite+Drill+Targeting+at+Great+Northern;+Extends+Warrant+Duration/25778878.html",
+        "https://www.infoworld.com/article/4105894/ai-power-tools-6-ways-to-supercharge-your-terminal.html"
       ]
     },
     "gaming": {
@@ -364,52 +391,24 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 2,
       "items": [
         {
-          "title": "Epic Games Store gives away Bloodstained: Ritual of the Night for 24 hours",
-          "summary": "Epic Games Store's December 23 mystery free title was revealed as Bloodstained: Ritual of the Night, available to claim until Dec. 24 at 16:00 UTC; the giveaway highlights the side‑scrolling RPG's strong reviews and controller support while noting some complaints about drop rates and pacing.[1]",
-          "source": "Notebookcheck",
-          "url": "https://www.notebookcheck.net/December-23-Epic-Games-Store-mystery-free-game-turns-out-to-be-critically-acclaimed-RPG.1191618.0.html"
+          "title": "Crossout Releases Small Update with New Year Workbench Enhancements",
+          "summary": "Crossout launched a small update on December 24, 2025, adding upgraded parts to the New Year workbench, fixing crashes related to outdated processors, and resolving various bugs in the New Year's Engineer garage.",
+          "source": "Crossout.net",
+          "url": "https://crossout.net/en/news/426"
         },
         {
-          "title": "Black Desert deploys December 24 update with fixes, snowboard event and adjustments",
-          "summary": "Pearl Abyss released a December 24 patch for Black Desert featuring event additions (including a Snowboard Showdown), multiple quest and UI fixes, world boss schedule adjustments, and several item/loot changes and recoveries.[2]",
-          "source": "Black Desert (Pearl Abyss)",
-          "url": "https://blackdesert.pearlabyss.com/Asia/en-us/News/Notice/Detail?_boardNo=12696"
-        },
-        {
-          "title": "Dying Light series receives December updates across The Beast, Dying Light 2 and original",
-          "summary": "Dying Light: The Beast got a fresh content update, Dying Light 2 returned with a seasonal event, and the original Dying Light launched holiday activities as part of the franchise's December update preview.[3]",
-          "source": "GameGPU",
-          "url": "https://en.gamegpu.com/News/games/Dying-Light-showed-a-December-review-of-updates-for-The-Beast-Dying-Light-2-and-the-original"
-        },
-        {
-          "title": "Nintendo highlights party games lineup and new/updated Switch releases for the holiday season",
-          "summary": "Nintendo's Dec. 24 post spotlights multiplayer and party games for Nintendo Switch and Nintendo Switch 2 — including Mario Kart World, LEGO Party, Jackbox Party Pack 11, Sonic Racing: CrossWorlds (Switch 2 edition), and Just Dance 2026 — positioning these as recommended titles for festive local and online play.[4]",
-          "source": "Nintendo",
-          "url": "https://www.nintendo.com/au/news-and-articles/get-the-party-started/"
-        },
-        {
-          "title": "DDO schedules Wednesday maintenance downtime",
-          "summary": "Dungeons & Dragons Online (DDO) announced weekly maintenance downtime for Dec. 24: game worlds will be unavailable from 9:00 AM to 1:00 PM Eastern (UTC‑5).[5]",
-          "source": "DDO",
-          "url": "https://www.ddo.com/news/ddo-downtime-122425"
-        },
-        {
-          "title": "Report: 2025 game releases dominate consumer purchases, GAMIVO research finds",
-          "summary": "GAMIVO-backed research reported that 60% of video games bought this year were released between 2021 and 2025, with 28% of purchases for titles that premiered in 2025 and 24% for 2024 releases, indicating strong consumer demand for recent releases.[6]",
-          "source": "The Manila Times / GlobeNewswire (GAMIVO research)",
-          "url": "https://www.manilatimes.net/2025/12/24/tmt-newswire/globenewswire/games-released-in-2025-are-at-the-top-of-sales-charts-gamivos-research-shows/2248975"
+          "title": "New Report Suggests Imminent Witcher 3 DLC Release",
+          "summary": "A Polish analyst's report indicates an upcoming Witcher 3 DLC with a potentially imminent release date, alongside discussions on long-term support from CD Projekt Red including final patches and collaboration with Fool's Theory.",
+          "source": "YouTube - WesNemo",
+          "url": "https://www.youtube.com/watch?v=85wS8Jbr0hI"
         }
       ],
       "citations": [
-        "https://www.notebookcheck.net/December-23-Epic-Games-Store-mystery-free-game-turns-out-to-be-critically-acclaimed-RPG.1191618.0.html",
-        "https://blackdesert.pearlabyss.com/Asia/en-us/News/Notice/Detail?_boardNo=12696",
-        "https://en.gamegpu.com/News/games/Dying-Light-showed-a-December-review-of-updates-for-The-Beast-Dying-Light-2-and-the-original",
-        "https://www.nintendo.com/au/news-and-articles/get-the-party-started/",
-        "https://www.ddo.com/news/ddo-downtime-122425",
-        "https://www.manilatimes.net/2025/12/24/tmt-newswire/globenewswire/games-released-in-2025-are-at-the-top-of-sales-charts-gamivos-research-shows/2248975"
+        "https://crossout.net/en/news/426",
+        "https://www.youtube.com/watch?v=85wS8Jbr0hI"
       ]
     },
     "tech_news": {
@@ -417,33 +416,14 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
-      "items": [
-        {
-          "title": "Canon Receives TSMC 2025 Excellent Performance Award for Production Support",
-          "summary": "Canon Inc. was awarded the 2025 Excellent Performance Award by Taiwan Semiconductor Manufacturing Co. for outstanding production support. The recognition highlights Canon's contributions to TSMC's operations.",
-          "source": "Canon Global",
-          "url": "https://global.canon/en/news/2025/20251224.html"
-        },
-        {
-          "title": "Tencent Uses Japanese Deal to Access Restricted Nvidia Chips",
-          "summary": "Chinese tech giant Tencent has found a legal way through a Japanese partnership to obtain Nvidia's advanced semiconductors despite US export restrictions. This development allows Tencent to bypass bans on high-end chips.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-one-of-the-biggest-chinese-company-is-using-a-japanese-deal-to-access-banned-nvidia-chips/articleshow/126132724.cms"
-        },
-        {
-          "title": "Hyundai Motor Group Announces Key Executive Appointments in Software and IT",
-          "summary": "Hyundai Motor Group appointed new leaders to strengthen its software and IT divisions, including President Jin as Head of ICT Division and Seokmoon Ryoo as CEO of Hyundai AutoEver. These changes support the group's shift to software-defined mobility.",
-          "source": "Hyundai Motor Group",
-          "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001096"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://news.samsung.com/global/ces-2026-from-communication-to-understandingsamsung-to-unveil-the-next-stage-of-ai-appliances",
-        "https://global.canon/en/news/2025/20251224.html",
-        "https://timesofindia.indiatimes.com/technology/tech-news/how-one-of-the-biggest-chinese-company-is-using-a-japanese-deal-to-access-banned-nvidia-chips/articleshow/126132724.cms",
+        "https://technode.global/2025/12/24/year-in-review-tnglobals-top-15-most-read-news-article-in-2025/",
+        "https://www.fintechfutures.com/ai-in-fintech/2025-top-five-ai-stories-of-the-year",
         "https://global.fujitsu/en-global/pr/news/2025/12/24-02",
-        "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001096"
+        "https://www.heygotrade.com/en/news/oracle-dives-to-192-huge-discount-or-just-a-trap/",
+        "https://www.fidelity.com/news/article/technology/202512240425PRIMZONEFULLFEED9616945"
       ]
     }
   }
