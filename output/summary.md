@@ -1,25 +1,23 @@
 # Daily Briefing
 
-*Generated: 2025-12-27 12:07 UTC*
+*Generated: 2025-12-27 18:06 UTC*
 
-Here is your executive briefing:
+1. **Market Overview**: Major US indexes ended marginally down on December 26, with the S&P 500 falling less than 0.1% to 6,929.94, and the Dow Jones also down less than 0.1% to 48,710.97. The crypto market saw mixed trading, with Bitcoin down 1.32% to $87,571 and Ethereum down 1.14% to $2,933. The global crypto market cap dropped 1.19% to $2.95T. Gold and silver prices rose, with silver up nearly 8% due to supply constraints.
 
-1. **Market Overview**: Major US indexes closed slightly lower on Friday, with the S&P 500 down 0.1% to 6,929.94, Dow down 0.1% to 48,710.97, and Nasdaq down 0.1% to 23,593.10. Bitcoin retreated to $87K amid year-end consolidation, while Ethereum fell 0.89% to $2,934. The crypto market saw significant movements, with institutional capital shifting from Bitcoin to Ethereum, potentially igniting a bull cycle.
+2. **Tech & AI**: Apple released an open-source model that instantly turns 2D photos into 3D views. There were also notable developments in AI, including discussions on the need for safeguards as GenAI becomes more embedded in R&D. Additionally, VSCode rebranded as "The open source AI code editor", and there were various other tech developments, such as the release of mruby, a Ruby for embedded systems, and the announcement of the QNX Self-Hosted Developer Desktop.
 
-2. **Tech & AI**: Google released T5Gemma 2, a new multimodal encoder-decoder model, advancing multimodal AI capabilities. Mistral introduced OCR 3, a new optical character recognition model, enhancing AI's ability to process visual text data. Nvidia unveiled Nitrogen, a new AI system specialized for game playing, signaling progress in reinforcement learning for gaming.
-
-3. **Gaming & Entertainment**: Nvidia's release of Nitrogen, a game-playing AI system, is a notable development in the gaming industry. Additionally, the Langjam-Gamejam Devlog showcased the creation of a language, compiler, VM, and 5 games in 52 hours, demonstrating innovative game development techniques.
+3. **Gaming & Entertainment**: Nintendo updated Donkey Kong Bananza on the Switch 2 and launched a major eShop sale in the US. The gaming industry also mourned the loss of Vince Zampella, co-creator of Call of Duty, who passed away at 55. The Valhalla Cup 1 night session was held for EA Sports FC 26, featuring competitive matches.
 
 4. **Key Insights**:
-* Institutional capital is shifting from Bitcoin to Ethereum, potentially igniting a bull cycle.
-* Google's T5Gemma 2 and Mistral's OCR 3 are advancing multimodal AI capabilities and text recognition.
-* Nvidia's Nitrogen is a significant development in game-playing AI, with potential applications in the gaming industry.
-* The crypto market is experiencing significant movements, with Bitcoin and Ethereum prices fluctuating amid year-end consolidation.
-* Regulatory developments, such as the CLARITY Act, may impact the crypto market and spark rallies in certain coins.
+* The US stock market saw marginal declines on December 26, with the S&P 500 and Dow Jones down less than 0.1%.
+* The crypto market experienced mixed trading, with Bitcoin and Ethereum down, but some altcoins seeing significant gains.
+* There were notable developments in AI, including Apple's open-source 2D to 3D model and discussions on GenAI safeguards.
+* The gaming industry saw updates from Nintendo and the loss of a major figure, Vince Zampella.
+* Regulatory shifts in the US crypto policy are moving towards SEC-CFTC collaboration, with Congress passing the first major crypto legislation this year.
 
 5. **Watch List**: 
-* Bitcoin and Ethereum prices as they continue to fluctuate amid year-end consolidation.
-* Regulatory developments, such as the CLARITY Act, and their potential impact on the crypto market.
-* Nvidia's Nitrogen and its potential applications in the gaming industry.
-* Google's T5Gemma 2 and Mistral's OCR 3, and their potential to advance multimodal AI capabilities and text recognition.
-* Institutional capital shifts in the crypto market, potentially signaling a bull cycle for Ethereum.
+* US stock market movements and potential impacts of holiday trading.
+* Crypto market trends, including Bitcoin and Ethereum price movements.
+* Developments in AI, particularly around GenAI and its applications.
+* Gaming industry updates, including new releases and esports events.
+* Regulatory changes in the crypto space, including the collaboration between SEC and CFTC.
