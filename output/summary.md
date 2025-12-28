@@ -1,23 +1,25 @@
 # Daily Briefing
 
-*Generated: 2025-12-27 18:06 UTC*
+*Generated: 2025-12-28 00:23 UTC*
 
-1. **Market Overview**: Major US indexes ended marginally down on December 26, with the S&P 500 falling less than 0.1% to 6,929.94, and the Dow Jones also down less than 0.1% to 48,710.97. The crypto market saw mixed trading, with Bitcoin down 1.32% to $87,571 and Ethereum down 1.14% to $2,933. The global crypto market cap dropped 1.19% to $2.95T. Gold and silver prices rose, with silver up nearly 8% due to supply constraints.
+Here is your executive briefing:
 
-2. **Tech & AI**: Apple released an open-source model that instantly turns 2D photos into 3D views. There were also notable developments in AI, including discussions on the need for safeguards as GenAI becomes more embedded in R&D. Additionally, VSCode rebranded as "The open source AI code editor", and there were various other tech developments, such as the release of mruby, a Ruby for embedded systems, and the announcement of the QNX Self-Hosted Developer Desktop.
+1. **Market Overview**: The US major stock indexes saw slight declines on Friday amid holiday trading, with the S&P 500 down 0.03% and the Dow Jones down 0.04%. However, the indexes reached record highs during the weekly Santa Claus rally, driven by tech, financials, and materials sectors. Spot silver surged 10% to over $79 per ounce, while gold rose 1.12%. In the crypto market, Bitcoin's price increased by 0.57% in the last 24 hours, and Ethereum's price rose by 0.69%. Solana's price saw a significant increase of 1.95% in the last 24 hours.
 
-3. **Gaming & Entertainment**: Nintendo updated Donkey Kong Bananza on the Switch 2 and launched a major eShop sale in the US. The gaming industry also mourned the loss of Vince Zampella, co-creator of Call of Duty, who passed away at 55. The Valhalla Cup 1 night session was held for EA Sports FC 26, featuring competitive matches.
+2. **Tech & AI**: Notable tech developments include Nvidia's $20B antitrust loophole, and the release of Ez FFmpeg, a video editing tool. Additionally, there have been discussions on the dangers of SSL certificates and the challenges of clock synchronization. Project Vend: Phase Two has been announced by Anthropic, and Mysti, a tool that synthesizes code, has been showcased on GitHub.
+
+3. **Gaming & Entertainment**: Rainbow Six Siege was hacked, resulting in players receiving billions of credits and random bans. There have been no other significant gaming news in the past 24 hours.
 
 4. **Key Insights**:
-* The US stock market saw marginal declines on December 26, with the S&P 500 and Dow Jones down less than 0.1%.
-* The crypto market experienced mixed trading, with Bitcoin and Ethereum down, but some altcoins seeing significant gains.
-* There were notable developments in AI, including Apple's open-source 2D to 3D model and discussions on GenAI safeguards.
-* The gaming industry saw updates from Nintendo and the loss of a major figure, Vince Zampella.
-* Regulatory shifts in the US crypto policy are moving towards SEC-CFTC collaboration, with Congress passing the first major crypto legislation this year.
+* The S&P 500 and Dow Jones indexes reached record highs during the weekly Santa Claus rally, driven by tech, financials, and materials sectors.
+* Spot silver surged 10% to over $79 per ounce, while gold rose 1.12%, indicating increased demand for precious metals as inflation hedges.
+* Solana reported $1.3 billion in revenue in 2025, leading public blockchain revenue, ahead of Hyperliquid, Tron, and Ethereum.
+* Crypto retail interest has fallen to a one-year low in Google search trends, indicating reduced retail attention despite ongoing institutional flows and protocol developments.
+* Tom Lee forecasted that Ethereum's price may rise to $7,000-$9,000 by early 2026, citing accelerating tokenization of assets and increased on-chain financial activity.
 
 5. **Watch List**: 
-* US stock market movements and potential impacts of holiday trading.
-* Crypto market trends, including Bitcoin and Ethereum price movements.
-* Developments in AI, particularly around GenAI and its applications.
-* Gaming industry updates, including new releases and esports events.
-* Regulatory changes in the crypto space, including the collaboration between SEC and CFTC.
+* US stock indexes and their reaction to the upcoming economic data releases
+* Crypto prices, particularly Ethereum, following Tom Lee's forecast
+* Solana's continued performance as a leading public blockchain
+* Developments in the gaming industry, particularly in regards to hacking and security measures
+* The impact of geopolitical events, such as the Venezuela oil blockade, on crypto and traditional markets.
