@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T12:08:52.625649+00:00",
-  "generated_at_human": "2025-12-29 12:08 UTC",
+  "generated_at": "2025-12-29T18:07:22.796028+00:00",
+  "generated_at_human": "2025-12-29 18:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Static Allocation with Zig",
+          "url": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
+          "score": 68,
+          "comments": 29
+        },
+        {
+          "title": "GOG is getting acquired by its original co-founder: What it means for you",
+          "url": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+          "score": 190,
+          "comments": 64
+        },
+        {
           "title": "What an unprocessed photo looks like",
           "url": "https://maurycyz.com/misc/raw_photo/",
-          "score": 1637,
-          "comments": 274
+          "score": 2128,
+          "comments": 350
+        },
+        {
+          "title": "Libgodc: Write Go Programs for Sega Dreamcast",
+          "url": "https://github.com/drpaneas/libgodc",
+          "score": 112,
+          "comments": 33
+        },
+        {
+          "title": "Kidnapped by Deutsche Bahn",
+          "url": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
+          "score": 630,
+          "comments": 648
+        },
+        {
+          "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+          "url": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+          "score": 19,
+          "comments": 0
         },
         {
           "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
           "url": "https://github.com/HarryR/z80ai",
-          "score": 212,
-          "comments": 55
+          "score": 392,
+          "comments": 88
+        },
+        {
+          "title": "Nvidia takes $5B stake in Intel under September agreement",
+          "url": "https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/",
+          "score": 25,
+          "comments": 2
         },
         {
           "title": "You can make up HTML tags",
           "url": "https://maurycyz.com/misc/make-up-tags/",
-          "score": 298,
-          "comments": 106
+          "score": 468,
+          "comments": 155
         },
         {
-          "title": "Developing a Beautiful and Performant Block Editor in Qt C++ and QML",
-          "url": "https://rubymamistvalove.com/block-editor",
-          "score": 63,
-          "comments": 19
-        },
-        {
-          "title": "Binaries",
-          "url": "https://fzakaria.com/2025/12/28/huge-binaries",
-          "score": 63,
-          "comments": 27
-        },
-        {
-          "title": "Staying ahead of censors in 2025",
-          "url": "https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898",
-          "score": 163,
-          "comments": 132
+          "title": "Linux DAW: Help Linux musicians to quickly and easily find the tools they need",
+          "url": "https://linuxdaw.org/",
+          "score": 76,
+          "comments": 43
         },
         {
           "title": "Feynman's Hughes Lectures: 950 pages of notes",
           "url": "https://thehugheslectures.info/the-lectures/",
-          "score": 5,
-          "comments": 0
+          "score": 122,
+          "comments": 29
+        },
+        {
+          "title": "Show HN: Vibe coding a bookshelf with Claude Code",
+          "url": "https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/",
+          "score": 200,
+          "comments": 158
+        },
+        {
+          "title": "You can't design software you don't work on",
+          "url": "https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+          "score": 118,
+          "comments": 34
+        },
+        {
+          "title": "Show HN: See what readers who loved your favorite book/author also loved to read",
+          "url": "https://shepherd.com/bboy/2025",
+          "score": 71,
+          "comments": 15
+        },
+        {
+          "title": "Huge Binaries",
+          "url": "https://fzakaria.com/2025/12/28/huge-binaries",
+          "score": 157,
+          "comments": 68
+        },
+        {
+          "title": "My coworker's 36 key Corne open-source keyboard setup",
+          "url": "https://nuon.co/blog/nuon-keyboard-culture/",
+          "score": 24,
+          "comments": 13
+        },
+        {
+          "title": "Developing a Beautiful and Performant Block Editor in Qt C++ and QML",
+          "url": "https://rubymamistvalove.com/block-editor",
+          "score": 117,
+          "comments": 46
+        },
+        {
+          "title": "Show HN: Spacelist, a TUI for Aerospace window manager",
+          "url": "https://github.com/magicmark/spacelist",
+          "score": 17,
+          "comments": 6
         },
         {
           "title": "My First Meshtastic Network",
           "url": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
-          "score": 62,
-          "comments": 24
-        },
-        {
-          "title": "Unity's Mono problem: Why your C# code runs slower than it should",
-          "url": "https://marekfiser.com/blog/mono-vs-dot-net-in-unity/",
-          "score": 209,
-          "comments": 108
-        },
-        {
-          "title": "Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs",
-          "url": "https://nilch.org",
-          "score": 98,
-          "comments": 50
+          "score": 130,
+          "comments": 59
         },
         {
           "title": "As AI gobbles up chips, prices for devices may rise",
           "url": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
-          "score": 183,
-          "comments": 270
+          "score": 270,
+          "comments": 414
+        },
+        {
+          "title": "Unity's Mono problem: Why your C# code runs slower than it should",
+          "url": "https://marekfiser.com/blog/mono-vs-dot-net-in-unity/",
+          "score": 252,
+          "comments": 149
+        },
+        {
+          "title": "Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs",
+          "url": "https://nilch.org",
+          "score": 152,
+          "comments": 63
+        },
+        {
+          "title": "FBI Response to Minnesota Fraud Allegations",
+          "url": "https://www.axios.com/2025/12/29/nick-shirley-minnesota-fraud-vance-fbi-somali",
+          "score": 4,
+          "comments": 0
+        },
+        {
+          "title": "The Cost of Allocation Errors",
+          "url": "https://varietyiq.com/blog/misallocation",
+          "score": 7,
+          "comments": 0
         },
         {
           "title": "Software engineers should be a little bit cynical",
           "url": "https://www.seangoedecke.com/a-little-bit-cynical/",
-          "score": 210,
-          "comments": 148
-        },
-        {
-          "title": "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
-          "url": "https://substack.com/inbox/post/182743659",
-          "score": 779,
-          "comments": 345
-        },
-        {
-          "title": "Koine",
-          "url": "https://github.com/pattern-zones-co/koine",
-          "score": 11,
-          "comments": 2
-        },
-        {
-          "title": "Researchers discover molecular difference in autistic brains",
-          "url": "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/",
-          "score": 144,
-          "comments": 78
-        },
-        {
-          "title": "Best practices for long-run LED strip installs (20–50M) to avoid flicker?",
-          "url": "https://news.ycombinator.com/item?id=46383452",
-          "score": 9,
-          "comments": 6
-        },
-        {
-          "title": "MongoBleed Explained Simply",
-          "url": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
-          "score": 201,
-          "comments": 85
-        },
-        {
-          "title": "PySDR: A Guide to SDR and DSP Using Python",
-          "url": "https://pysdr.org/content/intro.html",
-          "score": 184,
-          "comments": 8
-        },
-        {
-          "title": "Spherical Cow",
-          "url": "https://lib.rs/crates/spherical-cow",
-          "score": 102,
-          "comments": 16
-        },
-        {
-          "title": "Fast GPU Interconnect over Radio",
-          "url": "https://spectrum.ieee.org/rf-over-fiber",
-          "score": 32,
-          "comments": 6
-        },
-        {
-          "title": "Mouse: Computer Programming Language (2006)",
-          "url": "http://mouse.davidgsimpson.com/",
-          "score": 16,
-          "comments": 4
-        },
-        {
-          "title": "Formally Verifying Peephole Optimisations in Lean",
-          "url": "https://l-m.dev/cs/formally-verifying-peephole-optimisations-in-lean/",
-          "score": 9,
-          "comments": 3
-        },
-        {
-          "title": "Line scan camera image processing",
-          "url": "https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/",
-          "score": 46,
-          "comments": 3
-        },
-        {
-          "title": "Formulaic Delimiters in the Iliad and the Odyssey",
-          "url": "https://glthr.com/formulaic-delimiters-in-the-iliad-and-the-odyssey",
-          "score": 21,
-          "comments": 8
-        },
-        {
-          "title": "Fast CVVDP implementation in C",
-          "url": "https://github.com/halidecx/fcvvdp",
-          "score": 41,
-          "comments": 8
+          "score": 261,
+          "comments": 189
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 87076,
-          "change_24h": -0.82,
-          "change_7d": -2.95,
-          "market_cap": 1746680097470
+          "price": 87803,
+          "change_24h": 0.21,
+          "change_7d": -1.93,
+          "market_cap": 1752800875285
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2934.63,
-          "change_24h": -0.22,
-          "change_7d": -3.46,
-          "market_cap": 356515651350
+          "price": 2939.02,
+          "change_24h": -0.06,
+          "change_7d": -3.37,
+          "market_cap": 354921336646
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 124.48,
-          "change_24h": 0.0,
-          "change_7d": -1.74,
-          "market_cap": 70364015163
+          "price": 123.66,
+          "change_24h": -0.46,
+          "change_7d": -2.89,
+          "market_cap": 69608925369
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.124078,
-          "change_24h": 0.19,
-          "change_7d": -6.6,
-          "market_cap": 20979180834
+          "price": 0.123863,
+          "change_24h": -0.08,
+          "change_7d": -7.39,
+          "market_cap": 20822135784
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.366989,
-          "change_24h": -1.05,
-          "change_7d": -1.08,
-          "market_cap": 13532953560
+          "price": 0.359187,
+          "change_24h": -2.5,
+          "change_7d": -5.14,
+          "market_cap": 13176866571
         }
       ]
     },
@@ -212,34 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "ZEROBASE",
-          "symbol": "ZBT",
-          "market_cap_rank": 705
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "OVERTAKE",
-          "symbol": "TAKE",
-          "market_cap_rank": 494
-        },
-        {
-          "name": "Cardano",
-          "symbol": "ADA",
-          "market_cap_rank": 12
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 243
-        },
-        {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 22
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 135
         },
         {
           "name": "Solana",
@@ -247,19 +222,44 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Audiera",
-          "symbol": "BEAT",
-          "market_cap_rank": 179
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 245
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 55
+        },
+        {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 21
         },
         {
           "name": "Flow",
           "symbol": "FLOW",
           "market_cap_rank": 305
+        },
+        {
+          "name": "Canton",
+          "symbol": "CC",
+          "market_cap_rank": 34
+        },
+        {
+          "name": "PAX Gold",
+          "symbol": "PAXG",
+          "market_cap_rank": 68
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         }
       ]
     },
@@ -271,7 +271,7 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.fullyinformed.com/stock-market-outlook-for-mon-dec-29-2025-santa-claus-rally-still-continues/"
+        "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/weekly-market-recap-week-of-december-29-2025/"
       ]
     },
     "crypto_news": {
@@ -279,65 +279,24 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 2,
       "items": [
         {
-          "title": "Bitcoin Fails to Break $90K, Dips to $86.7K Before Rebounding to Around $88K",
-          "summary": "Bitcoin traded between $87,435 and $90,406 over the past 24 hours but reversed early gains, dropping below $88,000 amid U.S. equities pullback and Nasdaq futures decline. Crypto Fear & Greed Index remains at 24, indicating Extreme Fear.",
-          "source": "KuCoin, Binance, CoinDesk, 99Bitcoins",
-          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-29-2025"
+          "title": "Bitcoin Briefly Hits $90,000 Before Dropping to $87,871",
+          "summary": "Bitcoin climbed to $90,000 briefly but fell back to $87,871, with analysts warning that failure to convincingly flip $90k could lead to repeating prior patterns. Solana (SOL) is trading at $125.8 amid mixed market conditions.",
+          "source": "99Bitcoins",
+          "url": "https://99bitcoins.com/news/altcoins/crypto-news-today-29-december-2025-bitcoin-at-88k-after-testing-90k-sol-trades-at-125-8/"
         },
         {
-          "title": "Uniswap Burns 100 Million UNI Tokens Worth $596 Million",
-          "summary": "Uniswap successfully burned 100 million UNI tokens valued at approximately $596 million, a significant supply reduction event. UNI is among trending tokens amid market volatility.",
-          "source": "KuCoin",
-          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-29-2025"
-        },
-        {
-          "title": "Canton Network Releases CIP-56 Privacy Token Standard, CC Token Surges 22%",
-          "summary": "Canton Network launched the CIP-56 privacy token standard, driving a 22% rise in CC token price. CC is highlighted as a top trending token.",
-          "source": "KuCoin",
-          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-29-2025"
-        },
-        {
-          "title": "U.S. Spot Bitcoin ETFs See $782 Million Net Outflows During Christmas Week",
-          "summary": "U.S.-listed spot Bitcoin ETFs recorded cumulative net outflows of approximately $782 million during Christmas week. Investors are selling BTC to offset capital gains and reduce taxable income, per Bloomberg.",
-          "source": "KuCoin",
-          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-29-2025"
-        },
-        {
-          "title": "First Arrest in Coinbase Internal Data Leak Case",
-          "summary": "Indian police arrested a former Coinbase customer service employee in connection with an internal data leak investigation. This marks the first arrest in the case.",
-          "source": "KuCoin",
-          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-29-2025"
-        },
-        {
-          "title": "ABN AMRO Receives MiCAR Approval, Launches Blockchain-Based Derivatives",
-          "summary": "Dutch bank ABN AMRO obtained MiCAR approval and introduced blockchain-based derivatives. This regulatory milestone enables compliant crypto derivative offerings.",
-          "source": "KuCoin",
-          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-29-2025"
-        },
-        {
-          "title": "LayerZero Community Rejects Protocol Fee Mechanism Activation",
-          "summary": "The LayerZero community vote to activate the protocol fee mechanism failed to pass. This decision impacts ZRO token dynamics amid ongoing developments.",
-          "source": "KuCoin",
-          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-29-2025"
-        },
-        {
-          "title": "Coinbase CEO: Bitcoin Acts as $38T Check on U.S. Debt and Inflation",
-          "summary": "Coinbase CEO Brian Armstrong stated that Bitcoin strengthens the U.S. dollar by providing a $38 trillion check on debt and inflation. This view highlights BTC's macroeconomic role.",
-          "source": "CryptoNinjas",
-          "url": "https://www.cryptoninjas.net/news/bitcoin-strengthens-the-us-dollar-by-38t-check-on-debt-inflation-says-coinbase-ceo-brian-armstrong/"
+          "title": "Crypto Market Mixed with ZBT, ONT, and ZKC Leading Gains",
+          "summary": "Major cryptocurrencies are trading mixed, with outperformers ZBT up 78%, ONT up 23%, and ZKC up 15% as of December 29, 2025.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/34360016261177"
         }
       ],
       "citations": [
-        "https://www.kucoin.com/news/articles/crypto-daily-market-report-december-29-2025",
-        "https://www.binance.com/en/square/post/34360016261177",
-        "https://openexo.com/feed/item/bitcoin-news-today-live-updates-on-dec-29-2025-gold-price-silver-price",
-        "https://www.cryptoninjas.net/news/bitcoin-strengthens-the-us-dollar-by-38t-check-on-debt-inflation-says-coinbase-ceo-brian-armstrong/",
-        "https://www.altcoinbuzz.io/reviews/crypto-price-analysis/bitcoin-emotional-price-resistance-caps-recovery-attempts/",
         "https://99bitcoins.com/news/altcoins/crypto-news-today-29-december-2025-bitcoin-at-88k-after-testing-90k-sol-trades-at-125-8/",
-        "https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt"
+        "https://www.binance.com/en/square/post/34360016261177"
       ]
     },
     "ai_news": {
@@ -345,28 +304,13 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 2,
-      "items": [
-        {
-          "title": "MIT and Recursion Release Boltz-2 AI Model for Protein Structure and Binding Prediction",
-          "summary": "Researchers at MIT's CSAIL and Recursion announced Boltz-2, an updated AI model that predicts protein structures and drug binding affinities in 20 seconds using a single GPU. The model is available under an MIT license for commercial and non-commercial use.",
-          "source": "Bio-IT World",
-          "url": "https://www.bio-itworld.com/news/2025/12/29/top-stories-of-2025--ai-for-research--innovative-practices--digital-twins"
-        },
-        {
-          "title": "StepStellar Launches Step-DeepResearch, Cost-Effective 32B Parameter Deep Research Model",
-          "summary": "Stepfun open-sourced Step-DeepResearch, a 32 billion parameter model for autonomous research and report generation, matching top commercial models like o3-mini at one-tenth the cost. It excels in benchmarks like Scale AI Research Rubrics (61.4%) and ADR-Bench.",
-          "source": "aibase",
-          "url": "https://news.aibase.com/news/24092"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.bio-itworld.com/news/2025/12/29/top-stories-of-2025--ai-for-research--innovative-practices--digital-twins",
-        "https://www.edge-ai-vision.com/2025/12/the-coming-robotics-revolution-how-ai-and-macnicas-capture-process-communicate-philosophy-will-define-the-next-industrial-era/",
-        "https://www.csoonline.com/article/4111384/top-5-real-world-ai-security-threats-revealed-in-2025.html",
-        "https://www.phacetlabs.com/blog/ai-financial-data-automation-end-to-end-transparency",
-        "https://news.aibase.com/news/24092",
-        "https://thisweekhealth.com/captivate-podcast/2025-healthcare-recap-cio-pressures-ai-advances-and-cultural-shifts-2/"
+        "https://towardsai.net/p/machine-learning/last-week-in-ai-gemini-3-flash-gpt-5-2-arrive-agentic-ai-hits-60m-deepsomatic-cracks-cancer-dec-22-28-2025",
+        "https://aihub.org/2025/12/29/aihub-monthly-digest-december-2025-studying-bias-in-ai-based-recruitment-tools-an-image-dataset-for-ethical-ai-benchmarking-and-end-of-year-compilations/",
+        "https://www.ecampusnews.com/ai-in-education/2025/12/29/the-rise-of-ai-native-universities/",
+        "https://news.gatech.edu/features/2025/12/generating-buzz-ai-coming-screen-near-you"
       ]
     },
     "gaming": {
@@ -374,33 +318,39 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Epic Games Store Reveals SKALD: Against the Black Priory as Free Game for December 28-29",
-          "summary": "SKALD: Against the Black Priory has been officially unveiled as the Epic Games Store's free game available from December 28 to 29, 2025. This offers players a chance to claim the title at no cost during the specified period.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/epic-games-store-december-2025-free-games-skald-against-black-priory/"
+          "title": "Donot Blockchain Game Releases Daily Combo for December 28-29, 2025",
+          "summary": "The blockchain-based pay-to-earn game Donot, launched in December 2024, announced its daily combo challenge for December 28-29, 2025, offering up to 1,000 DONOT tokens for completing missions and tasks amid ongoing airdrop events.",
+          "source": "MEXC Blog",
+          "url": "https://blog.mexc.com/news/today-donot-daily-combo-for-december-29-2025/"
         },
         {
-          "title": "Sonic the Hedgehog 4 Movie Release Date Announced for March 19, 2027",
-          "summary": "Paramount has set Sonic the Hedgehog 4 for theatrical release on March 19, 2027, with an additional event movie in the Sonic universe planned for December 22, 2028. The news was highlighted in Sonic community discussions.",
+          "title": "Sonic the Hedgehog 4 Movie Set for March 19, 2027 Release",
+          "summary": "Variety reports Sonic the Hedgehog 4 will release on March 19, 2027, with an additional event movie in the Sonic universe scheduled for December 22, 2028; discussions highlight new characters in Sonic: Racing CrossWorlds.",
           "source": "Variety via 4chan /vg/",
           "url": "https://variety.com/2025/film/news/sonic-4-release-date-march-2027-1236280697/"
         },
         {
-          "title": "Nicktoons & The Dice of Destiny Receives PS5 Review Highlighting Nostalgia Value",
-          "summary": "The isometric action RPG Nicktoons & The Dice of Destiny, featuring characters like SpongeBob and TMNT, is praised for nostalgia but critiqued for lacking depth beyond its $49.99 price, available on PS5, Xbox, Switch, and PC. Review based on a provided copy.",
+          "title": "Nicktoons & The Dice of Destiny Receives Mixed PS5 Review",
+          "summary": "The isometric action RPG Nicktoons & The Dice of Destiny, featuring characters like SpongeBob and TMNT in Diablo-style gameplay, earns praise for nostalgia but criticism for lack of depth at $49.99, available on PS5, Xbox, Switch, and PC.",
           "source": "The Gaming Outsider",
-          "url": "https://thegamingoutsider.com/2025/12/28/nicktoons-the-dice-of-destiny-ps5-review/dnewman/?share=print&nb=1"
+          "url": "https://thegamingoutsider.com/2025/12/28/nicktoons-the-dice-of-destiny-ps5-review/dnewman/"
+        },
+        {
+          "title": "Overtake.gg Racing and Gaming Site Hit by Technical Glitch",
+          "summary": "Popular racing and gaming website Overtake.gg experienced a technical malfunction on December 28, 2025, causing disruptions for visitors.",
+          "source": "O-Posts",
+          "url": "https://o-posts.com"
         }
       ],
       "citations": [
-        "https://gamerant.com/epic-games-store-december-2025-free-games-skald-against-black-priory/",
         "https://blog.mexc.com/news/today-donot-daily-combo-for-december-29-2025/",
-        "https://www.bittime.com/en/blog/tomarket-daily-combo-28-29-desember-2025",
         "https://boards.4chan.org/vg/thread/551808645",
         "https://thegamingoutsider.com/2025/12/28/nicktoons-the-dice-of-destiny-ps5-review/dnewman/?share=print&nb=1",
+        "https://www.restart.run/articles/the-best-video-game-storylines-of-2025",
+        "https://o-posts.com",
         "https://www.semana.com/empresas/articulo/casos-de-impresion-3d-en-colombia/260785/"
       ]
     },
@@ -409,38 +359,31 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 2,
       "items": [
         {
-          "title": "Samsung Plans Google Photos Integration for AI TV Lineup",
-          "summary": "Samsung announced plans to integrate Google Photos into its Samsung AI TV lineup, enabling users to relive memories on the big screen. This enhances smart TV features ahead of CES 2026 events.",
+          "title": "Samsung Plans to Integrate Google Photos into AI TV Lineup",
+          "summary": "Samsung announced plans to bring Google Photos to its Samsung AI TV lineup, enabling users to relive memories on the big screen. This integration highlights upcoming enhancements in Samsung's TV ecosystem.",
           "source": "Press Release Hub",
           "url": "https://pressreleasehub.pa.media/article/samsung-plans-to-bring-google-photos-to-samsung-ai-tv-lineup-helping-users-relive-their-favorite-memories-on-the-big-screen-63070.html"
         },
         {
-          "title": "CiDi Launches IPO Amid Autonomous Driving Commercial Expansion",
-          "summary": "CiDi Inc. commenced its IPO process for a Hong Kong listing, highlighting scaled deployment of autonomous mining trucks and a dual-drive business model in V2X technology. The company has delivered 414 units and secured orders for 647 more as of June 2025.",
-          "source": "ACN Newswire",
-          "url": "https://www.acnnewswire.com/press-release/english/104394/autonomous-driving-enters-the-core-value-realization-phase:-what-anchors-cidi's-valuation"
-        },
-        {
-          "title": "Samsung and Apple Smartphone Prices May Continue Rising",
-          "summary": "Reports indicate potential price increases for Samsung and Apple smartphones in the near future amid market trends. This follows discussions on next-generation devices like iPhone Air for 2026.",
+          "title": "Samsung and Apple Smartphone Prices May Continue to Rise",
+          "summary": "Reports indicate that smartphone prices from Samsung and Apple could keep increasing in the near future amid market trends. This follows ongoing discussions in technology news roundups.",
           "source": "Vietbao",
           "url": "https://vietbao.vn/en/diem-tin-cong-nghe-29-12-gia-smartphone-samsung-va-apple-co-the-tiep-tuc-tang-trong-thoi-gian-toi-577823.html"
         }
       ],
       "citations": [
         "https://www.mexc.com/news/365079",
+        "https://www.youtube.com/watch?v=EBLVFZwPUqA",
+        "https://www.ainvest.com/news/evaluating-ai-supercycle-valuation-wall-tech-sell-buying-opportunity-correction-warning-2512/",
         "https://pressreleasehub.pa.media/article/samsung-plans-to-bring-google-photos-to-samsung-ai-tv-lineup-helping-users-relive-their-favorite-memories-on-the-big-screen-63070.html",
-        "https://www.ainvest.com/news/ai-governance-revolution-china-regulatory-surge-implications-global-ai-startups-2512/",
-        "https://www.acnnewswire.com/press-release/english/104394/autonomous-driving-enters-the-core-value-realization-phase:-what-anchors-cidi's-valuation",
         "https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-28-2025-january-10-2026/",
         "https://www.semana.com/empresas/articulo/casos-de-impresion-3d-en-colombia/260785/?s-news-23682326-2025-12-28-major-data-reversal-tech-industry-decline-2025663044",
-        "https://www.uniladtech.com/news/tech-news/baba-vanga-prediction-televised-event-december-2025-329477-20251229",
+        "https://www.semana.com/empresas/articulo/casos-de-impresion-3d-en-colombia/260785/?s-news-23683304-2025-12-28-meta-announces-new-investment-initiative-to-enhance-ai-development-amid-regulatory-challenges269226",
         "https://vietbao.vn/en/diem-tin-cong-nghe-29-12-gia-smartphone-samsung-va-apple-co-the-tiep-tuc-tang-trong-thoi-gian-toi-577823.html",
-        "https://www.chinalawtranslate.com/en/22197-2/",
-        "https://www.manisteenews.com/news/article/the-moon-and-sun-figure-big-in-the-new-year-s-21264728.php"
+        "https://www.chinalawtranslate.com/en/friends-we-made/"
       ]
     }
   }
