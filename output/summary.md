@@ -1,26 +1,26 @@
 # Daily Briefing
 
-*Generated: 2025-12-29 00:22 UTC*
+*Generated: 2025-12-29 06:08 UTC*
 
 **Market Overview**
-The S&P 500 Index rose 1.40% last week, driven by AI-related tech stocks and positive holiday momentum. The US Q3 GDP surged to a 4.3% annualized rate, beating expectations. In the crypto market, Bitcoin fell ~32% amid large ETF outflows, while BNB rose above 860 USDT. The current crypto prices show Bitcoin at $87,765, Ethereum at $2,943.9, and Solana at $125.23.
+Major US indexes, including the S&P 500, Dow, and Nasdaq, are near record highs due to a year-end rally, with the S&P 500 closing around 6,930. The crypto market is also seeing gains, with Bitcoin rising above $90,000 and Ethereum reaching $3,033.70. Precious metals, such as gold and silver, have hit fresh records, boosting US-listed miners.
 
 **Tech & AI**
-Notable tech developments include the release of Dolphin Progress Report: Release 2512, and the discussion on Unity's Mono problem. Additionally, there are articles on learning computer graphics from scratch, and the use of PySDR for SDR and DSP using Python. However, there are no significant AI developments in the provided data.
+Notable tech developments include Nvidia's licensing deal with Groq, which has lifted AI-related equities and supported broader market strength. Additionally, there are concerns about potential sell pressure due to large token unlocks scheduled around year-end, including HYPE, SUI, and KMNO. Researchers have also discovered a molecular difference in autistic brains, which could lead to new treatments.
 
 **Gaming & Entertainment**
-There is no notable gaming news in the provided data, except for the Dolphin Progress Report, which is related to the Dolphin emulator.
+There is limited gaming news, but a notable development is the discussion around Valve's potential retirement of the Steam Deck LCD. Additionally, a blog post explores why Unity's Mono problem causes C# code to run slower than it should.
 
 **Key Insights**
-* The US Q3 GDP growth was stronger than expected, which may lead to potential Fed interest rate adjustments in 2026.
-* Bitcoin's price is experiencing bearish short-term momentum, with potential downside targets near $79,405.
-* Large token unlocks are scheduled for multiple altcoins next week, which could increase sell pressure for affected tokens.
-* Coinbase Institutional highlighted three areas that will dominate the crypto market in 2026, including structural shifts that will reshape markets.
-* The S&P 500 Index rose 1.40% last week, driven by AI-related tech stocks and positive holiday momentum.
+* The S&P 500 is poised to test 7,000 as year-end momentum persists, driven largely by tech and AI leadership.
+* Bitcoin's rise above $90,000 is attributed to geopolitical uncertainty, and analysts warn of a potential "hidden bear market" despite possible 2025 highs.
+* Large token unlocks scheduled around year-end could lead to potential sell pressure in the crypto market.
+* Nvidia's licensing deal with Groq has lifted AI-related equities and supported broader market strength.
+* Researchers have discovered a molecular difference in autistic brains, which could lead to new treatments.
 
 **Watch List**
-* Bitcoin's price movement and potential downside targets
-* Upcoming token unlocks for multiple altcoins
-* US Fed interest rate adjustments in 2026
-* Coinbase Institutional's highlighted areas for the crypto market in 2026
-* S&P 500 Index movement and its relation to AI-related tech stocks
+* S&P 500: Monitor its movement towards the 7,000 level.
+* Bitcoin: Watch for potential price movements amid geopolitical uncertainty.
+* Crypto token unlocks: Monitor the impact of large token unlocks on the crypto market.
+* Nvidia: Follow the development of its licensing deal with Groq and its impact on AI-related equities.
+* Precious metals: Monitor the movement of gold and silver prices and their impact on US-listed miners.
