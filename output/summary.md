@@ -1,25 +1,19 @@
 # Daily Briefing
 
-*Generated: 2025-12-30 00:20 UTC*
+*Generated: 2025-12-30 06:07 UTC*
 
-Here is your executive briefing:
-
-1. **Market Overview**: Major indexes declined on Monday, with the S&P 500 falling 0.35% to 6,905.74, the Nasdaq dropping 0.50% to 23,474.34, and the Dow losing 0.51% to 48,461.93, driven by weakness in tech stocks. Bitcoin's price slipped below $87,000, while Ethereum showed similar consolidation. The crypto market saw mixed movements, with XRP, Solana, and Dogecoin outperforming Bitcoin with gains over 1%.
-
-2. **Tech & AI**: OpenAI's GPT-5 model demonstrated significant problem-solving capabilities by designing science experiments 79 times faster. ManusAI joined Meta, and there were notable developments in parsing advances, static allocation with Zig, and AI forcing better code quality. Additionally, there were discussions on the limitations of designing software without working on it and the importance of understanding undefined behavior in production bugs.
-
-3. **Gaming & Entertainment**: GOG is getting acquired by its original co-founder, and there were releases of delisted Steam games. Additionally, there were announcements about Linux DAW, a platform to help Linux musicians find the tools they need, and Intelligence, a mystery investigation game.
-
-4. **Key Insights**:
-* The tech sector is experiencing a rotation from growth to value stocks, with energy stocks rising as oil prices surge.
-* Bitcoin's price is consolidating after a brief surge above $90,000, with analysts predicting a test of $88,665 resistance before a decline to $78,505.
-* AI is advancing rapidly, with OpenAI's GPT-5 model demonstrating significant problem-solving capabilities.
-* The crypto market is experiencing mixed movements, with some altcoins outperforming Bitcoin.
-* There is a growing importance of understanding AI's impact on various industries, including finance and healthcare.
-
+1. **Market Overview**: The US stock market experienced a decline on Monday, December 29, 2025, with the Dow falling 0.5%, S&P 500 dropping 0.3%, Nasdaq falling 0.5%, and Russell 2000 declining 0.6%. Despite this, major indexes remain strongly up for 2025, with the S&P 500 up 17.4%, Dow up 13.9%, Nasdaq up 21.6%, and Russell 2000 up 13%. In the crypto market, Bitcoin's price is volatile, briefly climbing above $90,000 before pulling back, while XRP and SOL investment products see significant inflows. 
+2. **Tech & AI**: Notable developments include OpenAI's GPT-5 designing science experiments 79 times faster than traditional methods, Google's release of Gemini 3 and Gemini 3 Flash for advanced tasks, and Anthropic's launch of open-source Agent Skills to challenge OpenAI. Additionally, there are concerns about AI trust and rising threats, with 88% of organizations noting more AI-powered bot attacks.
+3. **Gaming & Entertainment**: Unfortunately, the provided data does not contain sufficient information to provide a concise update on the gaming industry. 
+4. **Key Insights**: 
+* The US stock market is experiencing a short week, with the FOMC minutes release expected on Tuesday, which may provide insights into the December rate cut.
+* AI is increasingly being used in scientific research, with OpenAI's GPT-5 model accelerating gene copying processes.
+* There is a growing concern about AI trust and security, with organizations facing increasing AI-driven attacks.
+* The crypto market is experiencing significant price movements, with Bitcoin's price being volatile and XRP and SOL investment products seeing significant inflows.
+* Anthropic's open-source Agent Skills may challenge OpenAI's dominance in the AI market.
 5. **Watch List**: 
-* Bitcoin's price movement and its potential impact on the crypto market.
-* The development of AI models, such as OpenAI's GPT-5, and their potential applications in various industries.
-* The rotation from growth to value stocks in the tech sector and its potential impact on the market.
-* The acquisition of GOG by its original co-founder and its potential impact on the gaming industry.
-* The development of new technologies, such as parsing advances and static allocation with Zig, and their potential applications in various industries.
+* FOMC minutes release on Tuesday for insights into the December rate cut.
+* Bitcoin's price movements and the overall crypto market.
+* Developments in AI, particularly in scientific research and security.
+* The impact of Anthropic's open-source Agent Skills on the AI market.
+* The performance of major stock indexes in the new year.
