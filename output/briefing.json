@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T06:07:40.739542+00:00",
-  "generated_at_human": "2025-12-31 06:07 UTC",
+  "generated_at": "2025-12-31T12:08:33.684432+00:00",
+  "generated_at_human": "2025-12-31 12:08 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Akin's Laws of Spacecraft Design [pdf]",
+          "url": "https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf",
+          "score": 26,
+          "comments": 2
+        },
+        {
+          "title": "The rise of industrial software",
+          "url": "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software",
+          "score": 101,
+          "comments": 69
+        },
+        {
+          "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+          "url": "https://exopriors.com/scry",
+          "score": 89,
+          "comments": 25
+        },
+        {
+          "title": "Tixl: Open-source realtime motion graphics",
+          "url": "https://github.com/tixl3d/tixl",
+          "score": 67,
+          "comments": 6
+        },
+        {
           "title": "Animated AI",
           "url": "https://animatedai.github.io/",
-          "score": 75,
-          "comments": 9
+          "score": 203,
+          "comments": 21
+        },
+        {
+          "title": "Activeloop (YC S18) Is Hiring MTS – Back End Engineer",
+          "url": "https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd",
+          "score": 1,
+          "comments": 0
         },
         {
           "title": "A faster heart for F-Droid",
           "url": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
-          "score": 338,
-          "comments": 144
+          "score": 424,
+          "comments": 179
         },
         {
-          "title": "Readings in Database Systems (5th Edition)",
-          "url": "http://www.redbook.io/",
-          "score": 48,
-          "comments": 2
-        },
-        {
-          "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
-          "url": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
-          "score": 255,
-          "comments": 59
+          "title": "Doom in Django: testing the limits of LiveView at 600.000 divs/segundo",
+          "url": "https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/",
+          "score": 31,
+          "comments": 8
         },
         {
           "title": "Show HN: 22 GB of Hacker News in SQLite",
           "url": "https://hackerbook.dosaygo.com",
-          "score": 424,
-          "comments": 150
+          "score": 562,
+          "comments": 173
         },
         {
-          "title": "A Vulnerability in Libsodium",
-          "url": "https://00f.net/2025/12/30/libsodium-vulnerability/",
-          "score": 244,
-          "comments": 32
+          "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
+          "url": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+          "score": 320,
+          "comments": 78
         },
         {
-          "title": "Google Opal",
-          "url": "https://opal.google/landing/",
-          "score": 51,
-          "comments": 26
-        },
-        {
-          "title": "Zpdf: PDF text extraction in Zig – 5x faster than MuPDF",
-          "url": "https://github.com/Lulzx/zpdf",
-          "score": 156,
-          "comments": 55
-        },
-        {
-          "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
-          "url": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
-          "score": 283,
-          "comments": 381
-        },
-        {
-          "title": "Loss32: Let's Build a Win32/Linux",
-          "url": "https://loss32.org/",
-          "score": 251,
-          "comments": 330
-        },
-        {
-          "title": "Honey's Dieselgate: Detecting and tricking testers",
-          "url": "https://vptdigital.com/blog/honey-detecting-testers/",
-          "score": 171,
-          "comments": 48
-        },
-        {
-          "title": "Electrolysis can solve one of our biggest contamination problems",
-          "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
-          "score": 143,
-          "comments": 38
-        },
-        {
-          "title": "What If Heavy Files Felt Heavy?",
-          "url": "https://www.shiveesh.com/thoughts-and-ideas/what-if-heavy-files-actually-felt-heavy",
-          "score": 23,
-          "comments": 14
-        },
-        {
-          "title": "LLVM AI tool policy: human in the loop",
-          "url": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
-          "score": 156,
-          "comments": 73
-        },
-        {
-          "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
-          "url": "https://www.gkbrk.com/hotel-music",
-          "score": 201,
-          "comments": 26
-        },
-        {
-          "title": "Sabotaging Bitcoin",
-          "url": "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html",
-          "score": 120,
-          "comments": 74
-        },
-        {
-          "title": "Non-Zero-Sum Games",
-          "url": "https://nonzerosum.games/",
-          "score": 357,
-          "comments": 178
+          "title": "'Three norths' alignment about to end",
+          "url": "https://www.spatialsource.com.au/three-norths-alignment-about-to-end/",
+          "score": 30,
+          "comments": 13
         },
         {
           "title": "Odin: Moving Towards a New \"core:OS\"",
           "url": "https://odin-lang.org/news/moving-towards-a-new-core-os/",
-          "score": 7,
-          "comments": 0
+          "score": 76,
+          "comments": 25
         },
         {
-          "title": "Toro: Deploy Applications as Unikernels",
-          "url": "https://github.com/torokernel/torokernel",
-          "score": 126,
-          "comments": 106
+          "title": "Readings in Database Systems (5th Edition) (2015)",
+          "url": "http://www.redbook.io/",
+          "score": 110,
+          "comments": 9
+        },
+        {
+          "title": "Show HN: I built a universal clipboard that syncs realtime on multiple devices",
+          "url": "https://www.quickclip.space/",
+          "score": 4,
+          "comments": 1
+        },
+        {
+          "title": "Honey's Dieselgate: Detecting and tricking testers",
+          "url": "https://vptdigital.com/blog/honey-detecting-testers/",
+          "score": 265,
+          "comments": 90
+        },
+        {
+          "title": "A Vulnerability in Libsodium",
+          "url": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+          "score": 281,
+          "comments": 36
+        },
+        {
+          "title": "Loss32: Let's Build a Win32/Linux",
+          "url": "https://loss32.org/",
+          "score": 293,
+          "comments": 383
+        },
+        {
+          "title": "The Organists Improvising Soundtracks to Silent Films",
+          "url": "https://www.newyorker.com/magazine/2025/12/29/the-organists-improvising-soundtracks-to-silent-films",
+          "score": 6,
+          "comments": 1
+        },
+        {
+          "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
+          "url": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
+          "score": 382,
+          "comments": 540
+        },
+        {
+          "title": "Non-Zero-Sum Games",
+          "url": "https://nonzerosum.games/",
+          "score": 388,
+          "comments": 179
+        },
+        {
+          "title": "Electrolysis can solve one of our biggest contamination problems",
+          "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
+          "score": 166,
+          "comments": 49
+        },
+        {
+          "title": "Sabotaging Bitcoin",
+          "url": "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html",
+          "score": 157,
+          "comments": 146
         },
         {
           "title": "Mitsubishi Diatone D-160 (1985)",
           "url": "https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html",
-          "score": 32,
-          "comments": 15
-        },
-        {
-          "title": "Git analytics that works across GitHub, GitLab, and Bitbucket",
-          "url": "https://news.ycombinator.com/item?id=46419311",
-          "score": 7,
-          "comments": 5
-        },
-        {
-          "title": "Escaping containment: A security analysis of FreeBSD jails [video]",
-          "url": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
-          "score": 75,
-          "comments": 2
+          "score": 57,
+          "comments": 22
         },
         {
           "title": "No strcpy either",
           "url": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
-          "score": 179,
-          "comments": 103
+          "score": 215,
+          "comments": 119
         },
         {
-          "title": "Professional software developers don't vibe, they control",
-          "url": "https://arxiv.org/abs/2512.14012",
-          "score": 148,
-          "comments": 174
-        },
-        {
-          "title": "L1TF Reloaded",
-          "url": "https://github.com/ThijsRay/l1tf_reloaded",
-          "score": 17,
-          "comments": 0
+          "title": "Zpdf: PDF text extraction in Zig",
+          "url": "https://github.com/Lulzx/zpdf",
+          "score": 188,
+          "comments": 75
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 88403,
-          "change_24h": 1.41,
-          "change_7d": 1.49,
-          "market_cap": 1764380911099
+          "price": 88835,
+          "change_24h": 1.12,
+          "change_7d": 1.91,
+          "market_cap": 1774752734100
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2973.63,
-          "change_24h": 1.16,
-          "change_7d": 1.35,
-          "market_cap": 358675529475
+          "price": 2995.03,
+          "change_24h": 0.6,
+          "change_7d": 2.35,
+          "market_cap": 361488467729
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 125.54,
-          "change_24h": 1.83,
-          "change_7d": 3.22,
-          "market_cap": 70648223948
+          "price": 126.49,
+          "change_24h": 1.89,
+          "change_7d": 3.85,
+          "market_cap": 71216862271
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.122988,
-          "change_24h": -0.07,
-          "change_7d": -3.37,
-          "market_cap": 20677648013
+          "price": 0.123157,
+          "change_24h": -1.2,
+          "change_7d": -3.79,
+          "market_cap": 20714256667
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.352306,
-          "change_24h": 0.45,
-          "change_7d": -1.02,
-          "market_cap": 12931352667
+          "price": 0.351045,
+          "change_24h": -0.34,
+          "change_7d": -2.08,
+          "market_cap": 12880921470
         }
       ]
     },
@@ -214,12 +214,22 @@
         {
           "name": "Lighter",
           "symbol": "LIT",
-          "market_cap_rank": 118
+          "market_cap_rank": 117
         },
         {
-          "name": "Plasma",
-          "symbol": "XPL",
-          "market_cap_rank": 185
+          "name": "Bitlight",
+          "symbol": "LIGHT",
+          "market_cap_rank": 638
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 236
         },
         {
           "name": "Hyperliquid",
@@ -227,39 +237,29 @@
           "market_cap_rank": 29
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 239
+          "name": "ElizaOS",
+          "symbol": "ELIZAOS",
+          "market_cap_rank": 633
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 22
+          "name": "Canton",
+          "symbol": "CC",
+          "market_cap_rank": 33
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 135
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 62
         },
         {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 5
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
         },
         {
           "name": "Aster",
           "symbol": "ASTER",
           "market_cap_rank": 63
-        },
-        {
-          "name": "Sonic",
-          "symbol": "S",
-          "market_cap_rank": 213
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
         }
       ]
     },
@@ -268,17 +268,37 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 1,
+      "count": 4,
       "items": [
         {
-          "title": "US Stock Indexes Close Slightly Lower on Tuesday, December 30",
-          "summary": "Major US indexes ended the day with small losses: S&P 500 down 0.1% to 6,894.24, Dow Jones down 0.2% to 48,367.06, Nasdaq down 0.2% to 23,419.08, and Russell 2000 down 0.8% to 2,500.59. Despite recent dips, all indexes are on track for strong 2025 annual gains, with S&P 500 up 17.3%, Nasdaq up 21.3%.",
-          "source": "WDRB",
-          "url": "https://www.wdrb.com/news/national/how-major-us-stock-indexes-fared-tuesday-12-30-2025/article_662c6fe6-5046-5c40-8124-5ed749088f27.html"
+          "title": "S&P 500 Closes Slightly Lower at 6896 on December 30",
+          "summary": "The S&P 500 ended down 9 points at 6896 on low volume of 3.3 billion shares, with 53% of intraday volume traded higher but 51% of stocks closing lower, signaling a neutral to lower outlook.",
+          "source": "Fully Informed",
+          "url": "https://www.fullyinformed.com/stock-market-outlook-for-wed-dec-31-2025-neutral-to-lower-close/"
+        },
+        {
+          "title": "Indian Markets Open Higher on December 31",
+          "summary": "Nifty 50 opened up 0.12% at 25,971.05 and Sensex up 0.14% in pre-opening; previous day Nifty 50 closed down 0.01%.",
+          "source": "Dhan",
+          "url": "https://dhan.co/blog/market-today/market-opening-bell-31st-december-2025/"
+        },
+        {
+          "title": "S&P 500 Technical Outlook Bullish with Pivot at 6,859.63",
+          "summary": "US500 (S&P 500) shows bullish momentum, potential short-term pullback to pivot at 6,859.63 before rising, supported by 38.2% Fibonacci retracement.",
+          "source": "IC Markets",
+          "url": "https://www.icmarkets.com/blog/wednesday-31st-december-2025-technical-outlook-and-review/"
+        },
+        {
+          "title": "US Dollar Index Bearish on December 31",
+          "summary": "DXY exhibits bearish direction and overall bearish momentum in technical review.",
+          "source": "IC Markets",
+          "url": "https://www.icmarkets.com/blog/wednesday-31st-december-2025-technical-outlook-and-review/"
         }
       ],
       "citations": [
-        "https://www.wdrb.com/news/national/how-major-us-stock-indexes-fared-tuesday-12-30-2025/article_662c6fe6-5046-5c40-8124-5ed749088f27.html"
+        "https://www.icmarkets.com/blog/wednesday-31st-december-2025-technical-outlook-and-review/",
+        "https://dhan.co/blog/market-today/market-opening-bell-31st-december-2025/",
+        "https://www.fullyinformed.com/stock-market-outlook-for-wed-dec-31-2025-neutral-to-lower-close/"
       ]
     },
     "crypto_news": {
@@ -289,46 +309,43 @@
       "count": 5,
       "items": [
         {
-          "title": "Bitcoin Stabilizes Around $88,000-$90,000 After Q4 Decline of Over 22%",
-          "summary": "Bitcoin is trading near $88,000-$90,000, down over 22% in Q4 2025—its worst December since 2018—while Ethereum holds around $2,900-$3,000 amid selling pressure and fearful market sentiment. Total crypto market cap remains stable at about $3 trillion despite underperformance versus gold and stocks.",
-          "source": "FXStreet, CoinDesk, Sergey Tereshkin, Economic Times",
-          "url": "https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-canton-ethereum-asian-wrap-31-december-202512310433"
+          "title": "Bitcoin Stabilizes Around $90,000 After October Peak of $126,000",
+          "summary": "Bitcoin is stabilizing at approximately $90,000 following a high of $126,000 in October 2025, with total market capitalization at $3 trillion despite recent sell-offs. Institutional investors have accumulated over $95 billion in Bitcoin.",
+          "source": "Sergey Tereshkin",
+          "url": "https://sergeytereshkin.com/publications/cryptocurrency-news-wednesday-december-31-2025-bitcoin-altcoins-global-market-trends"
         },
         {
-          "title": "Grayscale Files for First Bittensor ETF with SEC",
-          "summary": "Grayscale has submitted an S-1 filing to the SEC to launch the first U.S. Bittensor ETF, providing regulated access to $TAO, the token of Bittensor’s decentralized AI blockchain, signaling rising institutional interest in AI-crypto assets.",
-          "source": "CNBC Crypto World",
-          "url": "https://www.youtube.com/watch?v=Qsm52UNkooM"
+          "title": "Bitcoin Faces Extended Correction with Hash Rate Decline Signaling Potential Bottom",
+          "summary": "Bitcoin's price has dropped to around $88,000-$90,000 amid a 4% hash rate decline in December 2025, historically preceding rebounds, while long-term holders sold over 80,000 BTC. Analysts watch $74,000 as critical support.",
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/bitcoin-bottom-sight-extended-correction-2512/"
         },
         {
-          "title": "FOMC Minutes Signal 'Higher for Longer' Rates, Pressuring Crypto Markets",
-          "summary": "Federal Reserve's December FOMC minutes indicate a pause in rate cuts, reinforcing 'higher for longer' policy that weighs on Bitcoin and risk assets, with BTC range-bound at $85K-$90K amid subdued volumes and cautious sentiment.",
-          "source": "Coinpedia",
-          "url": "https://coinpedia.org/news/fomc-minutes-signal-higher-for-longer-rates-pressuring-bitcoin-and-crypto-markets/"
+          "title": "Crypto Trading Volumes Plunge to 2025 Lows During Holiday Slump",
+          "summary": "Cryptocurrency markets experience a holiday slump with trading volumes at the lowest levels of 2025, altcoins like ETH and SOL seeing over 50% weekly volume drops compared to last year.",
+          "source": "CryptoPotato",
+          "url": "https://cryptopotato.com/crypto-markets-hit-holiday-slump-trading-volumes-plunge-to-lowest-levels-of-2025/"
         },
         {
-          "title": "Top Gainers: Canton, Four, and Plasma Post Double-Digit Rallies",
-          "summary": "Canton (CC), Four (FORM), and Plasma (XPL) lead 24-hour gainers with double-digit increases, with Canton extending recovery and others targeting breaks above key EMAs.",
-          "source": "FXStreet",
-          "url": "https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-canton-ethereum-asian-wrap-31-december-202512310433"
+          "title": "Ethereum Trades Around $3,000 with Upcoming 'Hegota' Upgrade Anticipated",
+          "summary": "Ethereum is stabilizing near $3,000 after corrections, remaining key for DeFi and NFTs, with a major scalability upgrade 'Hegota' expected by end of 2026.",
+          "source": "Sergey Tereshkin",
+          "url": "https://sergeytereshkin.com/publications/cryptocurrency-news-wednesday-december-31-2025-bitcoin-altcoins-global-market-trends"
         },
         {
-          "title": "Crypto Lags Gold and Stocks in 2025, But Analysts Predict 2026 Catch-Up Rally",
-          "summary": "Bitcoin down 20% since November while gold rose 9% and S&P 500 gained 1%; long-term BTC holders have stopped selling, active addresses up 5.5%, setting stage for potential capital rotation and rally in 2026.",
+          "title": "Altcoins Show Mixed Performance with CHZ, AT, and CYBER Leading Gains",
+          "summary": "Major cryptocurrencies trade mixed on December 31, 2025, with outperformers CHZ up 19%, AT up 17%, and CYBER up 16%, amid moderate growth in top altcoins.",
           "source": "Binance Square",
-          "url": "https://www.binance.com/en-JP/square/post/12-31-2025-crypto-news-crypto-lags-gold-and-stocks-in-2025-but-analysts-see-catch-up-rally-potential-in-2026-34438941453649"
+          "url": "https://www.binance.com/en/square/post/34448489704330"
         }
       ],
       "citations": [
-        "https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-canton-ethereum-asian-wrap-31-december-202512310433",
         "https://sergeytereshkin.com/publications/cryptocurrency-news-wednesday-december-31-2025-bitcoin-altcoins-global-market-trends",
-        "https://www.youtube.com/watch?v=Qsm52UNkooM",
-        "https://www.binance.com/en-JP/square/post/12-31-2025-crypto-news-crypto-lags-gold-and-stocks-in-2025-but-analysts-see-catch-up-rally-potential-in-2026-34438941453649",
-        "https://coinpedia.org/news/fomc-minutes-signal-higher-for-longer-rates-pressuring-bitcoin-and-crypto-markets/",
-        "https://www.coindesk.com/markets/2025/12/31/bitcoin-ether-drop-more-than-22-in-q4-as-december-santa-rally-fizzles",
-        "https://ambcrypto.com/crypto-sentiment-turns-fearful-as-bitcoin-consolidates-panic-or-patience/",
-        "https://economictimes.com/markets/cryptocurrency/bitcoin-near-88k-ethereum-at-2900-as-crypto-market-ends-2025-on-a-subdued-note/articleshow/126264219.cms",
-        "https://99bitcoins.com/news/altcoins/bitcoin-loses-90k-oil-jumps/"
+        "https://www.ainvest.com/news/bitcoin-bottom-sight-extended-correction-2512/",
+        "https://cryptopotato.com/crypto-markets-hit-holiday-slump-trading-volumes-plunge-to-lowest-levels-of-2025/",
+        "https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025",
+        "https://99bitcoins.com/news/altcoins/crypto-market-news-today-december-31-2025-crypto-retrospectives-in-bitcoin-price-ethereum-and-some-of-the-major-alts/",
+        "https://www.binance.com/en/square/post/34448489704330"
       ]
     },
     "ai_news": {
@@ -336,54 +353,41 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "Evermind AI Launches EverMemOS for Persistent AI Memory",
-          "summary": "Evermind AI released EverMemOS, a foundational memory infrastructure for agentic AI that enables long-term memory, adaptation, and evolution, achieving 92.3% accuracy on LoCoMo and 82% on LongMemEval-S benchmarks. Complementary technologies like EverMemModel approach 100 million token context lengths.",
-          "source": "Barchart / Press Advantage",
-          "url": "https://www.barchart.com/story/news/36834873/evermind-ai-launches-evermemos-to-transform-artificial-intelligence-through-foundational-memory-infrastructure"
-        },
-        {
-          "title": "US Army Establishes Dedicated AI and Machine Learning Officer Career Field",
-          "summary": "The Army announced a new 49B specialty for officers starting January 2026 via Voluntary Transfer Incentive Program, aimed at advancing data-centric and AI-enabled forces with graduate training and hands-on experience.",
+          "title": "U.S. Army Launches Dedicated AI and Machine Learning Career Field for Officers",
+          "summary": "The Army announced a new 49B specialty for officers, opening in January 2026 via Voluntary Transfer Incentive Program, to develop leaders advancing AI-enabled transformation in decision-making, targeting, logistics, and robotics.",
           "source": "Military Times",
           "url": "https://www.militarytimes.com/news/your-military/2025/12/31/army-stands-up-ai-machine-learning-career-field-for-officers/"
         },
         {
-          "title": "Neel Somani Discusses Future of Transparent AI Systems",
-          "summary": "AI expert Neel Somani highlights rising demand for interpretable AI models using techniques like feature attribution, layer visualization, and structured reasoning to balance accuracy with oversight amid growing model complexity.",
-          "source": "Tech Times",
-          "url": "http://www.techtimes.com/articles/313704/20251231/neel-somani-future-transparent-ai-systems.htm"
+          "title": "Luxbit.ai Completes Internal AI System Architecture Upgrade",
+          "summary": "Luxbit.ai confirmed the full deployment of an internal upgrade to its AI system, involving changes to architecture, processing workflows, and infrastructure, with no user disruptions and alignment to operational standards.",
+          "source": "Aithority",
+          "url": "https://aithority.com/machine-learning/luxbit-ai-confirms-completion-of-internal-ai-system-upgrade/"
         },
         {
-          "title": "AI Accelerates Market Abuse Surveillance with Reduced False Positives",
-          "summary": "Regulators like Germany’s BaFin and Italy’s Consob leverage AI, NLP, and ML for faster detection of manipulation, insider trading, and complex schemes, with future capabilities in proactive threat anticipation.",
-          "source": "NICE Actimize",
-          "url": "https://www.niceactimize.com/blog/ai-adoption-accelerates-smarter-surveillance-faster-action"
+          "title": "Threat Actors Promote AI-Enhanced Metamorphic Crypter on Dark Web",
+          "summary": "ImpactSolutions is marketing InternalWhisper x ImpactSolutions, an AI-powered metamorphic crypter using machine learning to rewrite its codebase per build, evading antivirus via in-memory execution and advanced obfuscation techniques.",
+          "source": "Cyberpress",
+          "url": "https://cyberpress.org/ai-enhanced-metamorphic-crypter/"
         },
         {
-          "title": "One Stop Systems Sells Bressner to Focus on AI, ML, and Edge Computing",
-          "summary": "One Stop Systems completed a $22.4 million sale of Bressner Technology GmbH to sharpen focus on core growth in AI, machine learning, and rugged edge compute markets.",
-          "source": "Quiver Quantitative",
-          "url": "https://www.quiverquant.com/news/One+Stop+Systems+Completes+Strategic+Sale+of+Bressner+Technology+GmbH+to+Enhance+Focus+on+Core+AI,+ML,+and+Rugged+Edge+Compute+Markets"
-        },
-        {
-          "title": "AI Model Risk Management Market to Grow at 12% CAGR to 2029",
-          "summary": "Driven by AI/ML adoption in regulated industries and increasing model complexity, the market is projected to expand from $2.324 billion in 2024, emphasizing governance, monitoring, and compliance frameworks.",
-          "source": "EIN Presswire",
-          "url": "https://www.einpresswire.com/article/879254267/ai-model-risk-management-market-in-2029"
+          "title": "OpenAI Acknowledges Persistent Prompt Injection Vulnerabilities in AI Agents",
+          "summary": "AI agents remain susceptible to prompt injection attacks, particularly on the open web, highlighting ongoing security challenges despite advancements.",
+          "source": "Cybersecurity Asia",
+          "url": "https://cybersecurityasia.net/prompt-injection-isnt-going-away-openai-know/"
         }
       ],
       "citations": [
-        "https://www.barchart.com/story/news/36834873/evermind-ai-launches-evermemos-to-transform-artificial-intelligence-through-foundational-memory-infrastructure",
-        "http://www.techtimes.com/articles/313704/20251231/neel-somani-future-transparent-ai-systems.htm",
-        "https://www.niceactimize.com/blog/ai-adoption-accelerates-smarter-surveillance-faster-action",
+        "https://champaignmagazine.com/2025/12/30/2025-ai-year-in-review-report-3-4-5/",
+        "https://www.cognixia.com/blog/reskilling-workforce-for-artificial-intelligence-transformation-in-2025/",
+        "https://aithority.com/machine-learning/luxbit-ai-confirms-completion-of-internal-ai-system-upgrade/",
         "https://www.militarytimes.com/news/your-military/2025/12/31/army-stands-up-ai-machine-learning-career-field-for-officers/",
-        "https://www.einpresswire.com/article/879254267/ai-model-risk-management-market-in-2029",
-        "https://www.quiverquant.com/news/One+Stop+Systems+Completes+Strategic+Sale+of+Bressner+Technology+GmbH+to+Enhance+Focus+on+Core+AI,+ML,+and+Rugged+Edge+Compute+Markets",
-        "https://cybersecurityasia.net/prompt-injection-isnt-going-away-openai-know/",
-        "https://futureiot.tech/bridging-the-security-gap-in-ai-driven-software-supply-chains/"
+        "https://cyberpress.org/ai-enhanced-metamorphic-crypter/",
+        "http://www.einpresswire.com/article/879222425/generative-artificial-intelligence-ai-in-human-resources-hr-market-in-2029",
+        "https://cybersecurityasia.net/prompt-injection-isnt-going-away-openai-know/"
       ]
     },
     "gaming": {
@@ -391,12 +395,34 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 3,
+      "items": [
+        {
+          "title": "Spacestation Gaming, ENVY, and NTMR Disband The Finals Rosters",
+          "summary": "Several esports organizations including Spacestation Gaming, ENVY, and NTMR have disbanded their rosters for the tactical FPS game The Finals ahead of the 2026 competitive season.",
+          "source": "Esports Insider",
+          "url": "https://esportsinsider.com/2025/12/spacestation-gaming-envy-ntmr-say-goodbye-to-the-finals-rosters"
+        },
+        {
+          "title": "Monolith Studio Closes, Ending Nemesis System Development",
+          "summary": "Monolith, creators of the Nemesis system from the Shadow of Mordor series, has shut down, marking a significant loss for innovative gaming mechanics despite licensing until 2036.",
+          "source": "Not So Serious Gaming (YouTube)",
+          "url": "https://www.youtube.com/watch?v=m_3LS0f92tg"
+        },
+        {
+          "title": "Arc Raiders Launches with AI-Generated NPC Voices",
+          "summary": "Arc Raiders has implemented AI for NPC voices, sparking discussions on its acceptability in entertainment despite impacts on voice actors in the industry.",
+          "source": "Newegg Gamer Community / Windows Central",
+          "url": "http://www.newegg.com/gamer/community/t/generative-ai-why-do-people-hate-it-so-much-small-mistakes-here-and-there-seem-fine-for-entertainment/15842"
+        }
+      ],
       "citations": [
-        "https://tagn.wordpress.com/2025/12/30/",
         "https://www.youtube.com/watch?v=m_3LS0f92tg",
-        "http://tv5.espn.com/gaming/story/_/id/47452936/25-best-video-games-2025-kingdom-come-clair-obscur-nba-2k26-cfb-26"
+        "https://www.digitallydownloaded.net/2025/12/matts-2025-games-of-the-year.html",
+        "https://www.aiandgames.com/p/the-final-five-ai-and-games-goty",
+        "http://www.newegg.com/gamer/community/t/generative-ai-why-do-people-hate-it-so-much-small-mistakes-here-and-there-seem-fine-for-entertainment/15842",
+        "https://boards.4chan.org/vg/thread/552088216/agdg-amateur-game-development-general",
+        "https://esportsinsider.com/2025/12/spacestation-gaming-envy-ntmr-say-goodbye-to-the-finals-rosters"
       ]
     },
     "tech_news": {
@@ -406,11 +432,7 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": [
-        "https://laist.com/news/big-tech-got-regulated-but-just-barely-2025-in-review",
-        "https://www.trendforce.com/news/2025/12/31/news-2025-tech-layoffs-meta-amazon-microsoft-and-others-cut-tens-of-thousands-of-roles/",
-        "https://www.metaltechnews.com/story/2025/12/31/news/top-10-metal-tech-news-articles-of-2025/2593.html"
-      ]
+      "citations": []
     }
   }
 }
