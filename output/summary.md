@@ -1,25 +1,25 @@
 # Daily Briefing
 
-*Generated: 2025-12-30 18:07 UTC*
+*Generated: 2025-12-31 00:20 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+Here is your executive briefing for December 31, 2025:
 
-1. **Market Overview**: The US major indices dipped slightly on Friday amid light holiday trading, with the S&P 500 slipping 0.03% to 6,929.94. Bitcoin rose above $89,000 on short-covering, while Ethereum gained about 1.8% to trade near $2,980. The crypto market saw mixed performance, with some major cryptocurrencies trading higher and others lower.
+1. **Market Overview**: US stock indexes dipped slightly on Tuesday amid year-end trading, with the S&P 500 down 0.1%, Dow down 0.2%, Nasdaq down 0.2%, and Russell 2000 down 0.8%. Despite this, major indexes are on track for strong 2025 gains, with the S&P up 17.3% and Nasdaq up 21.3%. In the crypto market, Bitcoin is trading near $90,000, down from its October peak of $126,000, while Ethereum is around $3,000. The total crypto market cap is stable at $2.96 trillion.
 
-2. **Tech & AI**: Notable tech and AI developments include the release of DeepSeek R1, a reasoning model optimized for logic, mathematics, and pattern-finding tasks. Insilico Medicine listed on the Hong Kong Stock Exchange in 2025's largest Hong Kong biotech IPO, advancing AI-driven drug discovery. Sony AI released the Fair Human-Centric Image Benchmark for evaluating bias in computer vision models.
+2. **Tech & AI**: Notable tech developments include the sale of GOG to its co-founder for $25 million, allowing CD PROJEKT to focus on game development. Additionally, there have been discussions on the art of programming, a faster server for F-Droid, and a security analysis of FreeBSD jails. However, there are no significant AI developments reported in the past 24 hours.
 
-3. **Gaming & Entertainment**: The briefing does not contain significant gaming news, but it mentions that the Stranger Things creator advised turning off "garbage" settings, which may be of interest to gamers and entertainment enthusiasts.
+3. **Gaming & Entertainment**: CD PROJEKT has completed the sale of its digital storefront GOG for $25 million, and the Epic Games Store's winter holiday giveaway has exceeded $400 in total value, with new free game offerings available through December 31, 2025.
 
 4. **Key Insights**:
-* The US major indices are on track for strong yearly gains led by tech and communications sectors.
-* Bitcoin's price surge above $89,000 may indicate a short-term bullish trend.
-* The release of new AI models and benchmarks, such as DeepSeek R1 and the Fair Human-Centric Image Benchmark, demonstrates ongoing advancements in AI technology.
-* Insilico Medicine's listing on the Hong Kong Stock Exchange highlights the growing importance of AI-driven drug discovery.
-* The mixed performance of major cryptocurrencies may indicate a period of consolidation or volatility in the crypto market.
+* The crypto market is experiencing a shift in sentiment, with fear index hitting 30 on December 26, indicating defensive accumulation amid consolidation.
+* Bitcoin is on track for its first post-halving year loss, down 7% from its January 2025 open.
+* Ethereum's 'Hegota' upgrade is anticipated by the end of 2026, expected to boost network performance.
+* The Epic Games Store's winter giveaway has surpassed $400 in value, offering new free game offerings through December 31, 2025.
+* CD PROJEKT's sale of GOG allows the company to focus on game development.
 
-5. **Watch List**: Items to monitor in the coming days include:
-* US major indices' performance as they approach the end of the year.
-* Bitcoin's price movement and potential impact on the broader crypto market.
-* Developments in AI technology, particularly in the areas of reasoning models and computer vision ethics.
-* Insilico Medicine's progress in AI-driven drug discovery and its potential impact on the biotech industry.
-* The performance of major cryptocurrencies and potential shifts in market sentiment.
+5. **Watch List**: 
+* Bitcoin and Ethereum prices
+* Upcoming 'Hegota' upgrade for Ethereum
+* XRP developments, with reports of something'massive' impending on December 31
+* Epic Games Store's winter giveaway
+* CD PROJEKT's game development focus after the sale of GOG

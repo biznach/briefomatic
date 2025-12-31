@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T18:07:16.975693+00:00",
-  "generated_at_human": "2025-12-30 18:07 UTC",
+  "generated_at": "2025-12-31T00:20:38.855883+00:00",
+  "generated_at_human": "2025-12-31 00:20 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,76 +8,142 @@
       "count": 25,
       "items": [
         {
+          "title": "NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives",
+          "url": "https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/",
+          "score": 155,
+          "comments": 108
+        },
+        {
+          "title": "Project ideas to appreciate the art of programming",
+          "url": "https://codecrafters.io/blog/programming-project-ideas",
+          "score": 45,
+          "comments": 14
+        },
+        {
+          "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
+          "url": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+          "score": 192,
+          "comments": 46
+        },
+        {
+          "title": "A faster heart for F-Droid. Our new server is here",
+          "url": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
+          "score": 207,
+          "comments": 91
+        },
+        {
+          "title": "Show HN: 22 GB of Hacker News in SQLite",
+          "url": "https://hackerbook.dosaygo.com",
+          "score": 271,
+          "comments": 91
+        },
+        {
+          "title": "A Vulnerability in Libsodium",
+          "url": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+          "score": 170,
+          "comments": 19
+        },
+        {
+          "title": "Electrolysis can solve one of our biggest contamination problems",
+          "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
+          "score": 113,
+          "comments": 18
+        },
+        {
+          "title": "Sabotaging Bitcoin",
+          "url": "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html",
+          "score": 43,
+          "comments": 19
+        },
+        {
           "title": "Toro: Deploy Applications as Unikernels",
           "url": "https://github.com/torokernel/torokernel",
-          "score": 34,
-          "comments": 11
+          "score": 115,
+          "comments": 99
         },
         {
-          "title": "Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V",
-          "url": "https://mwilczynski.dev/posts/riscv-gpu-zink/",
-          "score": 18,
-          "comments": 1
+          "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
+          "url": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
+          "score": 105,
+          "comments": 128
         },
         {
-          "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
-          "url": "https://www.gkbrk.com/hotel-music",
-          "score": 56,
-          "comments": 5
-        },
-        {
-          "title": "Non-Zero-Sum Games",
-          "url": "https://nonzerosum.games/",
-          "score": 223,
-          "comments": 95
-        },
-        {
-          "title": "The British empire's resilient subsea telegraph network",
-          "url": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
-          "score": 94,
-          "comments": 17
-        },
-        {
-          "title": "Approachable Swift Concurrency",
-          "url": "https://fuckingapproachableswiftconcurrency.com/en/",
-          "score": 93,
-          "comments": 44
-        },
-        {
-          "title": "What Happened to Abit Motherboards",
-          "url": "https://dfarq.homeip.net/what-happened-to-abit-motherboards/",
-          "score": 26,
-          "comments": 24
-        },
-        {
-          "title": "Times New American: A Tale of Two Fonts",
-          "url": "https://hsu.cy/2025/12/times-new-american/",
-          "score": 120,
-          "comments": 70
-        },
-        {
-          "title": "Postgres extension complements pgvector for performance and scale",
-          "url": "https://github.com/timescale/pgvectorscale",
-          "score": 74,
-          "comments": 11
+          "title": "Zpdf: PDF text extraction in Zig – 5x faster than MuPDF",
+          "url": "https://github.com/Lulzx/zpdf",
+          "score": 95,
+          "comments": 40
         },
         {
           "title": "Loss32: Let's Build a Win32/Linux",
           "url": "https://loss32.org/",
-          "score": 15,
-          "comments": 142
+          "score": 185,
+          "comments": 284
         },
         {
-          "title": "Netflix Open Content",
-          "url": "https://opencontent.netflix.com/",
-          "score": 457,
-          "comments": 84
+          "title": "Honey's Dieselgate: Detecting and Tricking Testers",
+          "url": "https://www.benedelman.org/honey-detecting-testers/",
+          "score": 5,
+          "comments": 1
         },
         {
-          "title": "Go away Python",
-          "url": "https://lorentz.app/blog-item.html?id=go-shebang",
-          "score": 238,
-          "comments": 206
+          "title": "Honey's Dieselgate: Detecting and tricking testers",
+          "url": "https://vptdigital.com/blog/honey-detecting-testers/",
+          "score": 71,
+          "comments": 17
+        },
+        {
+          "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
+          "url": "https://www.gkbrk.com/hotel-music",
+          "score": 160,
+          "comments": 22
+        },
+        {
+          "title": "Professional software developers don't vibe, they control",
+          "url": "https://arxiv.org/abs/2512.14012",
+          "score": 96,
+          "comments": 123
+        },
+        {
+          "title": "Everything as code: How we manage our company in one monorepo",
+          "url": "https://www.kasava.dev/blog/everything-as-code-monorepo",
+          "score": 162,
+          "comments": 156
+        },
+        {
+          "title": "Non-Zero-Sum Games",
+          "url": "https://nonzerosum.games/",
+          "score": 313,
+          "comments": 162
+        },
+        {
+          "title": "Escaping containment: A security analysis of FreeBSD jails [video]",
+          "url": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
+          "score": 34,
+          "comments": 0
+        },
+        {
+          "title": "Mitsubishi Diatone D-160 (1985)",
+          "url": "https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html",
+          "score": 5,
+          "comments": 1
+        },
+        {
+          "title": "The British empire's resilient subsea telegraph network",
+          "url": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
+          "score": 155,
+          "comments": 40
+        },
+        {
+          "title": "Braid Math Article",
+          "url": "https://mathvoices.ams.org/mathmedia/tonys-take-april-2022/",
+          "score": 9,
+          "comments": 0
+        },
+        {
+          "title": "Approachable Swift Concurrency",
+          "url": "https://fuckingapproachableswiftconcurrency.com/en/",
+          "score": 154,
+          "comments": 67
         },
         {
           "title": "Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)",
@@ -86,76 +152,10 @@
           "comments": 0
         },
         {
-          "title": "Show HN: Tidy Baby is a SET game but with words",
-          "url": "https://tidy.baby",
-          "score": 7,
-          "comments": 0
-        },
-        {
-          "title": "Ask HN: Any example of successful vibe-coded product?",
-          "url": "https://news.ycombinator.com/item?id=46434821",
-          "score": 32,
-          "comments": 21
-        },
-        {
-          "title": "GOG is getting acquired by its original co-founder",
-          "url": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-          "score": 814,
-          "comments": 489
-        },
-        {
-          "title": "Stranger Things creator says turn off \"garbage\" settings",
-          "url": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
-          "score": 330,
-          "comments": 604
-        },
-        {
-          "title": "Show HN: One clean, developer-focused page for every Unicode symbol",
-          "url": "https://fontgenerator.design/symbols",
-          "score": 120,
-          "comments": 51
-        },
-        {
-          "title": "Optimal Classification Cutoffs",
-          "url": "https://finite-sample.github.io/optimal-classification-cutoffs/",
-          "score": 5,
-          "comments": 0
-        },
-        {
-          "title": "Five Years of Tinygrad",
-          "url": "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html",
-          "score": 88,
-          "comments": 48
-        },
-        {
-          "title": "No strcpy either",
-          "url": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
-          "score": 148,
-          "comments": 71
-        },
-        {
-          "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
-          "url": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
-          "score": 589,
-          "comments": 657
-        },
-        {
-          "title": "Concurrent Hash Table Designs",
-          "url": "https://bluuewhale.github.io/posts/concurrent-hashmap-designs/",
-          "score": 34,
-          "comments": 2
-        },
-        {
-          "title": "Charm Ruby – Glamorous Terminal Libraries for Ruby",
-          "url": "https://charm-ruby.dev/",
-          "score": 95,
-          "comments": 12
-        },
-        {
-          "title": "Hacking Washing Machines [video]",
-          "url": "https://media.ccc.de/v/39c3-hacking-washing-machines",
-          "score": 180,
-          "comments": 38
+          "title": "Times New American: A Tale of Two Fonts",
+          "url": "https://hsu.cy/2025/12/times-new-american/",
+          "score": 205,
+          "comments": 127
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 88294,
-          "change_24h": 0.72,
-          "change_7d": 0.38,
-          "market_cap": 1762175200401
+          "price": 88233,
+          "change_24h": 1.17,
+          "change_7d": 1.01,
+          "market_cap": 1764179098471
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2975.07,
-          "change_24h": 1.42,
-          "change_7d": 0.64,
-          "market_cap": 358636970440
+          "price": 2960.82,
+          "change_24h": 0.84,
+          "change_7d": 0.1,
+          "market_cap": 358021056551
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 124.54,
-          "change_24h": 0.71,
-          "change_7d": 0.13,
-          "market_cap": 70118839700
+          "price": 124.59,
+          "change_24h": 1.22,
+          "change_7d": 0.67,
+          "market_cap": 70165180973
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.123614,
-          "change_24h": -0.04,
-          "change_7d": -5.3,
-          "market_cap": 20780022859
+          "price": 0.122906,
+          "change_24h": 0.01,
+          "change_7d": -4.99,
+          "market_cap": 20693347534
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.352324,
-          "change_24h": -1.83,
-          "change_7d": -3.24,
-          "market_cap": 12921744078
+          "price": 0.349379,
+          "change_24h": -1.04,
+          "change_7d": -3.41,
+          "market_cap": 12861242200
         }
       ]
     },
@@ -214,22 +214,37 @@
         {
           "name": "Lighter",
           "symbol": "LIT",
-          "market_cap_rank": 115
+          "market_cap_rank": 123
         },
         {
-          "name": "ElizaOS",
-          "symbol": "ELIZAOS",
-          "market_cap_rank": 664
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 244
         },
         {
           "name": "Canton",
           "symbol": "CC",
-          "market_cap_rank": 33
+          "market_cap_rank": 31
+        },
+        {
+          "name": "ElizaOS",
+          "symbol": "ELIZAOS",
+          "market_cap_rank": 666
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 135
         },
         {
           "name": "Hyperliquid",
           "symbol": "HYPE",
           "market_cap_rank": 29
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Aster",
@@ -242,24 +257,9 @@
           "market_cap_rank": 22
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 135
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 251
+          "name": "Aerodrome Finance",
+          "symbol": "AERO",
+          "market_cap_rank": 171
         }
       ]
     },
@@ -268,42 +268,17 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 1,
       "items": [
         {
-          "title": "US Major Indices Dip Slightly on Friday Amid Light Holiday Trading",
-          "summary": "The S&P 500 slipped 0.03% to 6,929.94, Dow fell 0.04% to 48,710.97, Nasdaq dropped 0.09% to 23,593.10, and Russell 2000 declined 0.54% to 2,534.35 on December 29. Markets remain on track for strong yearly gains led by tech and communications sectors.",
-          "source": "Investrade",
-          "url": "https://www.investrade.com/morning-preview-december-29-2025/"
-        },
-        {
-          "title": "Q3 GDP Surges to 4.3%, Strongest in Two Years, Boosting S&P to New Highs",
-          "summary": "Q3 GDP came in at 4.3%, exceeding estimates by a full percentage point, while the S&P 500 hit fresh records despite subdued holiday trading. Treasuries tested 4.20% yields but ended unchanged.",
-          "source": "SWBC Blogs",
-          "url": "https://blog.swbc.com/investmenthub/market-commentary-week-of-december-29-2025"
-        },
-        {
-          "title": "Fed Signals Potential Pause on Rate Cuts in January Amid Labor Stabilization",
-          "summary": "Market expectations show only 15% probability of a rate cut at the January 29 Fed meeting, with Chair Powell emphasizing flexibility after labor market data post-government shutdown. Dovish stance anticipated under new chair supports risk-on sentiment.",
-          "source": "Investrade",
-          "url": "https://www.investrade.com/morning-preview-december-29-2025/"
-        },
-        {
-          "title": "Asian Markets Mixed Overnight; Nikkei Drops as US Futures Point Lower",
-          "summary": "Nikkei fell 223 points to 50,526, Hang Seng dropped 183 points to 25,635, while Shanghai rose slightly to 3,965. US stocks looking lower to start final trading days of 2025.",
-          "source": "Investrade",
-          "url": "https://www.investrade.com/morning-preview-december-29-2025/"
-        },
-        {
-          "title": "Municipal Bond Market Steady with Strong Inflows During Holiday Week",
-          "summary": "Municipal market remained quiet with unchanged MMD scale, zero new supply, and over $600 million inflows each from ETFs and funds. Light trading expected to close out the year.",
-          "source": "SWBC Blogs",
-          "url": "https://blog.swbc.com/investmenthub/market-commentary-week-of-december-29-2025"
+          "title": "US Stock Indexes Dip Slightly on Tuesday Amid Year-End Trading",
+          "summary": "The S&P 500 fell 0.1% to 6,894.24, Dow dropped 0.2% to 48,367.06, Nasdaq declined 0.2% to 23,419.08, and Russell 2000 slid 0.8% to 2,500.59. Despite three days of small losses, major indexes are on track for strong 2025 gains: S&P up 17.3%, Nasdaq up 21.3%.[1]",
+          "source": "WDRB",
+          "url": "https://www.wdrb.com/news/national/how-major-us-stock-indexes-fared-tuesday-12-30-2025/article_662c6fe6-5046-5c40-8124-5ed749088f27.html"
         }
       ],
       "citations": [
-        "https://www.investrade.com/morning-preview-december-29-2025/",
-        "https://blog.swbc.com/investmenthub/market-commentary-week-of-december-29-2025"
+        "https://www.wdrb.com/news/national/how-major-us-stock-indexes-fared-tuesday-12-30-2025/article_662c6fe6-5046-5c40-8124-5ed749088f27.html"
       ]
     },
     "crypto_news": {
@@ -311,44 +286,54 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Bitcoin Rises Above $89,000 on Short-Covering",
-          "summary": "Bitcoin (BTC) is trading around $87,900, up roughly 1.3% over the past day, with short-covering activity boosting BTC above $89,000. Ethereum (ETH) has gained about 1.8% to trade near $2,980.",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2025/12/30/bitcoin-rises-above-usd89-000-showing-rare-gain-in-u-s-trading"
+          "title": "Bitcoin Stabilizes Around $90,000 After October Peak of $126,000",
+          "summary": "Bitcoin is trading near $90,000, down from its $126,000 high in October 2025, with total market cap at $3 trillion despite institutional accumulation of over $95 billion in BTC. Altcoins like Ethereum at $3,000 show moderate recovery signs amid year-end caution.",
+          "source": "Sergey Tereshkin",
+          "url": "https://sergeytereshkin.com/publications/cryptocurrency-news-wednesday-december-31-2025-bitcoin-altcoins-global-market-trends"
         },
         {
-          "title": "Beta Finance Surges Over 423% in Major Market Rally",
-          "summary": "Beta Finance leads the market with a sharp surge of more than 423%, followed by ElizaOS which has climbed nearly 150% over the past day. 0x Protocol is also among top gainers, rising around 35%.",
-          "source": "MEXC News",
-          "url": "https://www.mexc.com/news/375182"
+          "title": "Bitcoin on Track for First Post-Halving Year Loss",
+          "summary": "Bitcoin is down 7% from its January 2025 open of $94,419, potentially ending the post-2024 halving year in the red for the first time, trading at around $87,800 amid bearish retail sentiment.",
+          "source": "Stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-on-track-to-end-first-ever-post-halving-year-in-the-red/cL74zJfREUZ"
         },
         {
-          "title": "Crypto Derivatives Trading Exceeds $1 Trillion Monthly Volume",
-          "summary": "Decentralized exchanges are processing more than $1 trillion in monthly perpetual futures volume by late 2025, rivaling activity on some centralized venues as traders increasingly turn to onchain perpetual futures.",
-          "source": "MEXC News",
-          "url": "https://www.mexc.com/news/375182"
+          "title": "Crypto Sentiment Shifts to Fear as Bitcoin Consolidates Below $90K",
+          "summary": "Market fear index hit 30 on December 26, with total crypto cap stable at $2.96 trillion after adding $110 billion since December 18, signaling defensive accumulation amid consolidation.",
+          "source": "AMBCrypto",
+          "url": "https://ambcrypto.com/crypto-sentiment-turns-fearful-as-bitcoin-consolidates-panic-or-patience/"
         },
         {
-          "title": "Mixed Performance Across Major Cryptocurrencies",
-          "summary": "Most major cryptocurrencies by market cap are trading mixed, with market outperformers including ZRX (up 26%), MANTA (up 11%), and POLYX (up 8%).",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/34404252900746"
+          "title": "21 Capital Lists on NYC Exchange with 43,500 BTC Assets",
+          "summary": "On December 8, 2025, 21 Capital began trading on the NYC exchange holding over 43,500 BTC, marking a significant institutional development amid positive fund inflows into Bitcoin and Ethereum.",
+          "source": "YouTube - Cryptocurrency News #25",
+          "url": "https://www.youtube.com/watch?v=GlvOQcmmGAw"
         },
         {
-          "title": "Dragonfly Forecasts Bitcoin Above $150,000 by End-2026",
-          "summary": "Haseeb Qureshi, managing partner at Dragonfly, forecasts that Bitcoin will trade above $150,000 by the end of 2026, though he expects Bitcoin's dominance to decline as capital shifts into other sectors.",
-          "source": "MEXC News",
-          "url": "https://www.mexc.com/news/375182"
+          "title": "Ethereum 'Hegota' Upgrade Anticipated by End of 2026",
+          "summary": "Ethereum, trading around $3,000 after corrections, remains key for DeFi and NFTs, with the upcoming 'Hegota' scalability upgrade expected by late 2026 to boost network performance.",
+          "source": "Sergey Tereshkin",
+          "url": "https://sergeytereshkin.com/publications/cryptocurrency-news-wednesday-december-31-2025-bitcoin-altcoins-global-market-trends"
+        },
+        {
+          "title": "XRP Sees Buzz Over Potential Massive Developments",
+          "summary": "Reports highlight something 'massive' impending for XRP on December 31, alongside regulatory senate mentions and retail alerts, fueling speculation in recent days.",
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/video-massive-happen-xrp-dec-31st-insane-2512/"
         }
       ],
       "citations": [
-        "https://www.mexc.com/news/375182",
-        "https://www.binance.com/en/square/post/34404252900746",
-        "https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be",
-        "https://www.coindesk.com/markets/2025/12/30/bitcoin-rises-above-usd89-000-showing-rare-gain-in-u-s-trading"
+        "https://sergeytereshkin.com/publications/cryptocurrency-news-wednesday-december-31-2025-bitcoin-altcoins-global-market-trends",
+        "https://www.youtube.com/watch?v=GlvOQcmmGAw",
+        "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-on-track-to-end-first-ever-post-halving-year-in-the-red/cL74zJfREUZ",
+        "https://www.ainvest.com/news/video-massive-happen-xrp-dec-31st-insane-2512/",
+        "https://ambcrypto.com/crypto-sentiment-turns-fearful-as-bitcoin-consolidates-panic-or-patience/",
+        "https://www.investing.com/analysis/bitcoin-and-fomo-in-2025-200672495",
+        "https://www.youtube.com/watch?v=ESIEHKVV6UM",
+        "https://99bitcoins.com/news/altcoins/bitcoin-loses-90k-oil-jumps/"
       ]
     },
     "ai_news": {
@@ -356,32 +341,16 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 3,
-      "items": [
-        {
-          "title": "DeepSeek Releases R1 Reasoning Model with Smaller Local Versions",
-          "summary": "AI startup DeepSeek launched DeepSeek R1, a reasoning model optimized for logic, mathematics, and pattern-finding tasks, along with six smaller versions designed to run locally on laptops.",
-          "source": "AI Hub",
-          "url": "https://aihub.org/2025/12/30/2025-digest-of-digests/"
-        },
-        {
-          "title": "Insilico Medicine Lists on Hong Kong Stock Exchange as Largest Biotech IPO",
-          "summary": "Insilico Medicine completed its listing on the Hong Kong Stock Exchange in 2025's largest Hong Kong biotech IPO, advancing AI-driven drug discovery with its upgraded Life Star 2 platform and Pharmaceutical Superintelligence concept.",
-          "source": "Insilico Medicine",
-          "url": "https://insilico.com/news/p010170up1-insilico-medicine-lists-on-hong-kong-sto"
-        },
-        {
-          "title": "Sony AI Releases Fair Human-Centric Image Benchmark for Computer Vision Ethics",
-          "summary": "Sony AI published the Fair Human-Centric Image Benchmark (FHIBE), a consent-based dataset with over 10,000 human images for evaluating bias in computer vision models, establishing a new benchmark for AI ethics.",
-          "source": "AI Hub",
-          "url": "https://aihub.org/2025/12/30/2025-digest-of-digests/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://opentools.ai/news/ai-in-2025-major-breakthroughs-and-economic-shifts",
-        "https://aihub.org/2025/12/30/2025-digest-of-digests/",
-        "https://insilico.com/news/p010170up1-insilico-medicine-lists-on-hong-kong-sto",
-        "https://theaiinsider.tech/2025/12/30/ai-insiders-expert-predictions-on-artificial-intelligence-part-one/"
+        "https://champaignmagazine.com/2025/12/30/2025-ai-year-in-review-report-3-4-5/",
+        "https://ai-weekly.ai/newsletter-12-30-2025/",
+        "https://nadzweb.com/2025/12/ais-shifting-sands-from-cloud-dominance-to-hybrid-futures-enhanced-coding-and-the-rise-of-the-ai-integrated-metaverse/",
+        "https://highways.today/2025/12/30/ai-engineering-reality/",
+        "https://www.quiverquant.com/news/One+Stop+Systems+Completes+Strategic+Sale+of+Bressner+Technology+GmbH+to+Enhance+Focus+on+Core+AI,+ML,+and+Rugged+Edge+Compute+Markets",
+        "https://sdtimes.com/ai/december-2025-ai-updates-from-the-past-month/",
+        "https://techstrong.ai/editorial-calendar/best-of-2025/google-to-spend-75-billion-on-ai-cloud-investment-2/"
       ]
     },
     "gaming": {
@@ -389,37 +358,28 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 2,
       "items": [
         {
-          "title": "Epic Games Store Reveals Viewfinder as December 29-30 Free Game",
-          "summary": "Viewfinder, a first-person puzzle platformer by Sad Owl Studios, is the latest free game in Epic's 2025 holiday giveaway. The promotion is nearing its conclusion with only a few mystery titles remaining before the Epic Games Store returns to its standard weekly free game schedule in early January.",
-          "source": "GAM3S.GG",
-          "url": "https://gam3s.gg/news/epic-games-store-free-game-for-december-29/"
+          "title": "CD PROJEKT Completes Sale of GOG to Co-Founder Michał Kiciński",
+          "summary": "CD PROJEKT announced the sale of its digital storefront GOG for $25 million to co-founder Michał Kiciński. The transaction was expected to be completed on December 31, 2025, allowing CD PROJEKT to focus on game development while GOG continues its mission to preserve older games.",
+          "source": "Game World Observer",
+          "url": "https://gameworldobserver.com/2025/12/30/cd-projekt-announced-the-sale-of-gog-for-25-million"
         },
         {
-          "title": "Zenless Zone Zero 2.5 Maintenance Scheduled for December 30",
-          "summary": "Zenless Zone Zero will undergo maintenance on December 30, 2025, starting at 6 am UTC+8 and lasting approximately 5 hours until 11 am UTC+8. New content from the 2.5 update will be available after the maintenance period concludes.",
-          "source": "Sportskeeda",
-          "url": "https://www.sportskeeda.com/esports/what-time-will-zenless-zone-zero-zzz-2-5-maintenance-start-end"
-        },
-        {
-          "title": "Best Cozy Games of 2025 Highlighted",
-          "summary": "A gaming review site has compiled a list of the best cozy games from 2025, including titles like Duck Detective: The Ghost of Glamping, Bugtopia, and Squeakross: Home Squeak Home, all receiving perfect scores based on extensive gameplay testing.",
-          "source": "Comfy Cozy Gaming",
-          "url": "https://www.comfycozygaming.com/2025/12/30/best-cozy-games-of-2025/"
+          "title": "Epic Games Store Winter Giveaway Surpasses $400 in Value",
+          "summary": "The Epic Games Store's 20-day winter holiday giveaway has exceeded $400 in total value with new free game offerings available through December 31, 2025.",
+          "source": "Game Rant",
+          "url": "https://gamerant.com/epic-games-store-holiday-giveaway-december-2025-free-game-trine-bundle/"
         }
       ],
       "citations": [
-        "https://gam3s.gg/news/epic-games-store-free-game-for-december-29/",
-        "https://boards.4chan.org/vg/thread/551920325",
-        "https://boards.4chan.org/vg/thread/551906287/fng-fortnite-general",
-        "https://www.youtube.com/watch?v=evxeoQXAgA4",
-        "https://www.comfycozygaming.com/2025/12/30/best-cozy-games-of-2025/",
-        "https://www.youtube.com/watch?v=gPn1NlIc8GA",
-        "https://www.youtube.com/watch?v=bqiOEQ97q_M",
-        "https://www.sportskeeda.com/esports/what-time-will-zenless-zone-zero-zzz-2-5-maintenance-start-end",
-        "https://www.youtube.com/watch?v=cZsHEGhSBbQ"
+        "https://www.youtube.com/watch?v=K9746JcMtGs",
+        "https://www.youtube.com/watch?v=Jboqqyt5ItE",
+        "https://www.purexbox.com/news/2025/12/xbox-360-user-shows-whatll-happen-when-it-reaches-date-limit-on-december-31st-2025",
+        "https://gameworldobserver.com/2025/12/30/cd-projekt-announced-the-sale-of-gog-for-25-million",
+        "https://www.youtube.com/watch?v=ecLvl9yzPPI",
+        "https://gamerant.com/epic-games-store-holiday-giveaway-december-2025-free-game-trine-bundle/"
       ]
     },
     "tech_news": {
@@ -430,15 +390,13 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=ybO0ss5sF7I",
-        "https://www.youtube.com/watch?v=ZnrijxkHpE0",
-        "https://ipwatchdog.com/2025/12/29/ip-legislation-shaped-2025-prospects-new-year/",
-        "https://www.tmcnet.com/usubmit/-naver-d2sf-invests-sorcerics-an-ambient-ai-startup-/2025/12/29/10309982.htm",
-        "https://www.marklines.com/en/news/338081",
-        "https://www.youtube.com/watch?v=LBYVAHIjkhs",
-        "https://mind-core.com/cybersecurity-and-it-blog-mindcores-game-changing-insights/",
-        "https://www.youtube.com/watch?v=nqBxGUYp3y8",
-        "https://erkansaka.net/2025/12/29/erkan-saka-2025-recap/"
+        "https://www.mediapost.com/publications/article/411678/meta-acquires-ai-startup-for-social-business-inte.html",
+        "https://timesofindia.indiatimes.com/technology/tech-news/that-is-not-noise-google-is-leaving-chatgpt-behind-and-this-is-the-clearest-signal-that-/articleshow/126250415.cms",
+        "https://www.youtube.com/watch?v=vNxwNRkD3x4",
+        "https://startupnews.fyi/2025/12/30/2025s-biggest-tech-stories-in-charts/",
+        "https://laist.com/news/big-tech-got-regulated-but-just-barely-2025-in-review",
+        "https://www.youtube.com/watch?v=w0sRna8Gx8k&vl=en",
+        "https://www.metaltechnews.com/story/2025/12/31/news/top-10-metal-tech-news-articles-of-2025/2593.html"
       ]
     }
   }
