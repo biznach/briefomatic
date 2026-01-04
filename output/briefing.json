@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T18:06:43.746616+00:00",
-  "generated_at_human": "2026-01-03 18:06 UTC",
+  "generated_at": "2026-01-04T00:23:00.042024+00:00",
+  "generated_at_human": "2026-01-04 00:23 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,70 +8,142 @@
       "count": 25,
       "items": [
         {
-          "title": "The C3 Programming Language",
-          "url": "https://c3-lang.org",
-          "score": 79,
-          "comments": 29
+          "title": "Total monthly number of StackOverflow questions over time",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+          "score": 291,
+          "comments": 180
+        },
+        {
+          "title": "Swift on Android: Full Native App Development Now Possible",
+          "url": "https://docs.swifdroid.com/app/",
+          "score": 35,
+          "comments": 5
         },
         {
           "title": "The Most Popular Blogs of Hacker News in 2025",
           "url": "https://refactoringenglish.com/blog/2025-hn-top-5/",
-          "score": 92,
-          "comments": 20
+          "score": 383,
+          "comments": 81
+        },
+        {
+          "title": "Ed25519-CLI – command-line interface for the Ed25519 signature system",
+          "url": "https://lib25519.cr.yp.to/ed25519-cli.html",
+          "score": 45,
+          "comments": 5
+        },
+        {
+          "title": "Take One Small Step",
+          "url": "https://thinkhuman.com/take-one-small-step/",
+          "score": 28,
+          "comments": 8
+        },
+        {
+          "title": "The Riven Diffs – Seeing Riven (1997) Differently",
+          "url": "https://glthr.com/the-riven-diffs-1",
+          "score": 26,
+          "comments": 0
+        },
+        {
+          "title": "The Suck Is Why We're Here",
+          "url": "https://nik.art/the-suck-is-why-were-here/",
+          "score": 12,
+          "comments": 0
+        },
+        {
+          "title": "The C3 Programming Language",
+          "url": "https://c3-lang.org",
+          "score": 269,
+          "comments": 165
+        },
+        {
+          "title": "Scaling Latent Reasoning via Looped Language Models",
+          "url": "https://arxiv.org/abs/2510.25741",
+          "score": 26,
+          "comments": 2
+        },
+        {
+          "title": "Determining Current Arm Cortex-M Security State with GDB",
+          "url": "https://danielmangum.com/posts/arm-cortex-m-security-state-gdb/",
+          "score": 10,
+          "comments": 0
+        },
+        {
+          "title": "Xr0 verifier, guarantee the safety of C programs at compile time",
+          "url": "https://xr0.dev",
+          "score": 46,
+          "comments": 10
+        },
+        {
+          "title": "Exploring Dithering on Spectra 6-color E-Ink Displays",
+          "url": "https://myembeddedstuff.com/e-ink-spectra-6-color",
+          "score": 64,
+          "comments": 2
+        },
+        {
+          "title": "As deep-sea mining race ramps up, mission will assess whether ecosystems recover",
+          "url": "https://www.science.org/content/article/deep-sea-mining-race-ramps-mission-will-assess-whether-ecosystems-recover-afterward",
+          "score": 43,
+          "comments": 29
+        },
+        {
+          "title": "China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron",
+          "url": "https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html",
+          "score": 32,
+          "comments": 8
         },
         {
           "title": "Publish on your own site, syndicate elsewhere",
           "url": "https://indieweb.org/POSSE#",
-          "score": 900,
-          "comments": 200
+          "score": 994,
+          "comments": 234
         },
         {
-          "title": "Trump says Venezuela’s Maduro captured after strikes",
-          "url": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
-          "score": 1033,
-          "comments": 2459
+          "title": "Comparing benefits of every-third-day vs. daily low-dose aspirin therapy (2001)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11190906/",
+          "score": 18,
+          "comments": 2
+        },
+        {
+          "title": "Experiments with Ableton-MCP",
+          "url": "https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025",
+          "score": 58,
+          "comments": 7
         },
         {
           "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
           "url": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
-          "score": 663,
-          "comments": 109
+          "score": 742,
+          "comments": 120
+        },
+        {
+          "title": "Sirius DB",
+          "url": "https://www.sirius-db.com/",
+          "score": 90,
+          "comments": 13
         },
         {
           "title": "Recursive Language Models",
           "url": "https://arxiv.org/abs/2512.24601",
-          "score": 44,
-          "comments": 6
+          "score": 106,
+          "comments": 19
         },
         {
-          "title": "Show HN: Offline tiles and routing and geocoding in one Docker Compose stack",
-          "url": "https://www.corviont.com/",
-          "score": 32,
-          "comments": 0
-        },
-        {
-          "title": "X-Clacks-Overhead",
-          "url": "https://hleb.dev/post/x-clacks-overhead/",
-          "score": 70,
+          "title": "Beating myself at chess",
+          "url": "https://log.schemescape.com/posts/diy/beating-myself-at-chess.html",
+          "score": 30,
           "comments": 17
         },
         {
-          "title": "Profiling with Ctrl-C (2024)",
-          "url": "https://yosefk.com/blog/profiling-with-ctrl-c.html",
-          "score": 44,
-          "comments": 8
-        },
-        {
-          "title": "Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot",
-          "url": "https://streaming.media.ccc.de/39c3/relive/2149",
-          "score": 130,
-          "comments": 15
+          "title": "World's largest functioning musical instrument: Wanamaker Organ in Philadelphia",
+          "url": "https://en.wikipedia.org/wiki/Wanamaker_Organ",
+          "score": 64,
+          "comments": 14
         },
         {
           "title": "IPv6 just turned 30 and still hasn't taken over the world",
           "url": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
-          "score": 479,
-          "comments": 976
+          "score": 536,
+          "comments": 1076
         },
         {
           "title": "ParadeDB (YC S23) Is Hiring Database Engineers",
@@ -80,82 +152,10 @@
           "comments": 0
         },
         {
-          "title": "World's largest functioning musical instrument: Wanamaker Organ in Philadelphia",
-          "url": "https://en.wikipedia.org/wiki/Wanamaker_Organ",
-          "score": 17,
-          "comments": 3
-        },
-        {
-          "title": "A Beginner's Two-Component Crystal-Style Wi-Fi Detector",
-          "url": "https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/",
-          "score": 92,
-          "comments": 32
-        },
-        {
-          "title": "Clicks Communicator",
-          "url": "https://www.clicksphone.com/en/communicator",
-          "score": 387,
-          "comments": 240
-        },
-        {
-          "title": "2026 will be my year of the Linux desktop",
-          "url": "https://xeiaso.net/notes/2026/year-linux-desktop/",
-          "score": 688,
-          "comments": 518
-        },
-        {
-          "title": "Ask HN: Who is hiring? (January 2026)",
-          "url": "https://news.ycombinator.com/item?id=46466074",
-          "score": 326,
-          "comments": 199
-        },
-        {
-          "title": "Cadova: Swift DSL for parametric 3D modeling",
-          "url": "https://github.com/tomasf/Cadova",
-          "score": 56,
-          "comments": 11
-        },
-        {
-          "title": "UK company sends factory with 1,000C furnace into space",
-          "url": "https://www.bbc.co.uk/news/articles/c62vx0pgyrgo",
-          "score": 102,
-          "comments": 57
-        },
-        {
-          "title": "Sirius DB",
-          "url": "https://www.sirius-db.com/",
-          "score": 8,
-          "comments": 1
-        },
-        {
-          "title": "How Smell Guides Our Inner World",
-          "url": "https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/",
-          "score": 36,
-          "comments": 9
-        },
-        {
-          "title": "Linux kernel security work",
-          "url": "http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/",
-          "score": 146,
-          "comments": 65
-        },
-        {
-          "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
-          "url": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
-          "score": 135,
-          "comments": 38
-        },
-        {
-          "title": "Jank Lang Hit Alpha",
-          "url": "https://github.com/jank-lang/jank",
-          "score": 219,
-          "comments": 29
-        },
-        {
-          "title": "A Basic Just-In-Time Compiler (2015)",
-          "url": "https://nullprogram.com/blog/2015/03/19/",
-          "score": 87,
-          "comments": 21
+          "title": "Report: Microsoft kills official way to activate Windows 11/10 without internet",
+          "url": "https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette",
+          "score": 350,
+          "comments": 283
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 89992,
-          "change_24h": -0.4,
-          "change_7d": 2.82,
-          "market_cap": 1798075964095
+          "price": 91141,
+          "change_24h": 1.23,
+          "change_7d": 3.8,
+          "market_cap": 1821860685171
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3104.76,
-          "change_24h": -0.47,
-          "change_7d": 6.32,
-          "market_cap": 374897495190
+          "price": 3140.74,
+          "change_24h": 0.39,
+          "change_7d": 6.51,
+          "market_cap": 379014814949
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 131.69,
-          "change_24h": 0.15,
-          "change_7d": 6.81,
-          "market_cap": 74223193420
+          "price": 134.29,
+          "change_24h": 1.21,
+          "change_7d": 7.71,
+          "market_cap": 75707089756
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.141372,
-          "change_24h": 1.8,
-          "change_7d": 15.03,
-          "market_cap": 23799415473
+          "price": 0.144486,
+          "change_24h": 1.28,
+          "change_7d": 16.24,
+          "market_cap": 24336241635
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.387714,
-          "change_24h": -0.01,
-          "change_7d": 8.9,
-          "market_cap": 14223090971
+          "price": 0.392118,
+          "change_24h": -1.37,
+          "change_7d": 6.21,
+          "market_cap": 14387397284
         }
       ]
     },
@@ -212,14 +212,19 @@
       "count": 10,
       "items": [
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 119
         },
         {
-          "name": "Official Trump",
-          "symbol": "TRUMP",
-          "market_cap_rank": 97
+          "name": "Convex Finance",
+          "symbol": "CVX",
+          "market_cap_rank": 274
+        },
+        {
+          "name": "Render",
+          "symbol": "RENDER",
+          "market_cap_rank": 105
         },
         {
           "name": "Pepe",
@@ -227,39 +232,34 @@
           "market_cap_rank": 50
         },
         {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 207
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 129
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 31
+        },
+        {
           "name": "Zcash",
           "symbol": "ZEC",
           "market_cap_rank": 23
         },
         {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 130
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 211
-        },
-        {
           "name": "World Liberty Financial",
           "symbol": "WLFI",
           "market_cap_rank": 36
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 125
-        },
-        {
-          "name": "MetaDAO",
-          "symbol": "META",
-          "market_cap_rank": 285
-        },
-        {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 30
         }
       ]
     },
@@ -271,39 +271,44 @@
       "count": 5,
       "items": [
         {
-          "title": "S&P 500 Edges Up 0.2% to 6,858 in Wobbly Start to 2026",
-          "summary": "The S&P 500 rose 12.97 points or 0.2% to 6,858.47 on January 2, capping a holiday-shortened week after gaining over 16% in 2025. Technology stocks, particularly AI-focused firms, drove volatile trading amid broader market quietness.[1][2]",
-          "source": "Trading Economics, Altoona Mirror",
-          "url": "https://tradingeconomics.com/united-states/stock-market"
+          "title": "Wall Street Starts 2026 with Mixed Gains as Tech Sector Drives Volatility",
+          "summary": "U.S. stocks ended mixed on Friday, January 2, with the Dow rising 0.7% to 48,382, S&P 500 up 0.2% to 6,858, and Nasdaq nearly flat down less than 0.1% to 23,236, led by AI strength in Nvidia (+1.3%) but weighed by Microsoft (-2.2%) and Tesla (-2.6%) amid falling sales.",
+          "source": "Times Leader",
+          "url": "https://www.timesleader.com/business/1728932/wall-street-edges-higher-in-a-wobbly-start-to-2026"
         },
         {
-          "title": "Dow Jones Climbs 0.7% to 48,382 Led by Nvidia and Caterpillar",
-          "summary": "The Dow Jones Industrial Average gained 319.10 points or 0.7% to 48,382.39, with Nvidia up 1.3-2.84%, Caterpillar 1.94%, and Apple 1.83%, offsetting losses in Salesforce and Visa. Gains reflect AI sector strength on the first trading day of 2026.[1][2]",
-          "source": "Trading Economics, Altoona Mirror",
-          "url": "https://tradingeconomics.com/united-states/stock-market"
+          "title": "AI Stocks Fuel New Year's Rally After 2025 Slump; Baidu AI Unit Files for IPO",
+          "summary": "Major indexes rose early Friday on AI sector strength, with chip stocks leading after Baidu's AI unit filed for IPO; Bitcoin climbed over 2% testing $90,000 while Berkshire Hathaway dipped slightly.",
+          "source": "Charles Schwab",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
         },
         {
-          "title": "Nasdaq Composite Dips Slightly to 23,235 Amid Tech Pullback",
-          "summary": "The Nasdaq fell less than 0.1% or 6.36 points to 23,235.63, weighed down by Microsoft (-2.2%) and Tesla (-2.6%) after Tesla's second year of falling sales. Early gains erased as software contrasted with mixed sectors.[1][2]",
-          "source": "Trading Economics, Altoona Mirror",
-          "url": "https://tradingeconomics.com/united-states/stock-market"
+          "title": "Markets Eye Fed Rate Cuts in 2026 Amid Dovish Expectations and Labor Data",
+          "summary": "Analysts anticipate 2-3 Fed rate cuts in 2026 depending on labor market trajectory and December jobs report due January 9; markets price in easing policy with Dollar Index expected to fall 8-10%.",
+          "source": "Marc to Market",
+          "url": "https://www.marctomarket.com/2026/01/january-2026-monthly.html"
         },
         {
-          "title": "US Stocks Kick Off 2026 Higher on AI Momentum Despite Valuations Concerns",
-          "summary": "US indices started the year sharply higher before moderating, with Nasdaq 100 up over 1% initially and S&P 500 flat to +0.27%, approaching records as AI developments offset high valuation worries. Foreign markets like Britain and South Korea hit records.[1][2]",
-          "source": "Trading Economics, Altoona Mirror",
-          "url": "https://tradingeconomics.com/united-states/stock-market"
+          "title": "U.S. Markets Closed Sunday; Focus on China PMI and Central Bank Signals",
+          "summary": "No U.S. trading or earnings on January 4 holiday; investors watch China December PMI showing services growth but weak industry, plus potential Fed/ECB comments on rates amid expectations of policy easing.",
+          "source": "Sergey Tereshkin",
+          "url": "https://sergeytereshkin.com/publications/economic-events-and-corporate-reports-january-4-2026"
         },
         {
-          "title": "Tesla Shares Drop 2.6% on Second Straight Year of Declining Sales",
-          "summary": "Tesla weighed on the Nasdaq with a 2.6% decline after reporting falling sales for the second consecutive year, highlighting challenges amid outsized influence from top tech firms like Nvidia, Microsoft, and Tesla.[2]",
-          "source": "Altoona Mirror",
-          "url": "https://www.altoonamirror.com/news/local-business/2026/01/wall-street-edges-higher-in-a-wobbly-start-to-2026/"
+          "title": "Tesla Reports Second Year of Falling Sales as Nasdaq Dips",
+          "summary": "Tesla shares fell 2.6% Friday after disclosing declining sales for a second straight year, contributing to Nasdaq's flat close despite broader market gains.",
+          "source": "Manila Times",
+          "url": "https://www.manilatimes.net/2026/01/04/business/top-business/wall-street-ends-mixed-at-the-top-of-the-new-year-treasury-yields-move-higher/2252193"
         }
       ],
       "citations": [
-        "https://tradingeconomics.com/united-states/stock-market",
-        "https://www.altoonamirror.com/news/local-business/2026/01/wall-street-edges-higher-in-a-wobbly-start-to-2026/"
+        "https://www.schwab.com/learn/story/stock-market-update-open",
+        "https://sergeytereshkin.com/publications/economic-events-and-corporate-reports-january-4-2026",
+        "https://www.timesleader.com/business/1728932/wall-street-edges-higher-in-a-wobbly-start-to-2026",
+        "https://www.manilatimes.net/2026/01/04/business/top-business/wall-street-ends-mixed-at-the-top-of-the-new-year-treasury-yields-move-higher/2252193",
+        "https://www.marctomarket.com/2026/01/january-2026-monthly.html",
+        "https://us.etrade.com/knowledge/library/perspectives/market-happenings/monthly-perspectives-january-2026",
+        "https://www.beaumontenterprise.com/business/article/how-major-us-stock-indexes-fared-friday-1-2-2026-21273358.php"
       ]
     },
     "crypto_news": {
@@ -311,54 +316,12 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 7,
-      "items": [
-        {
-          "title": "BlackRock Warns Stablecoins Entering Systemic Financial Impact Phase",
-          "summary": "BlackRock states that global capital consensus is rising and stablecoins will enter a stage of systemic financial impact. This highlights growing mainstream recognition of stablecoins' role in finance.",
-          "source": "Odaily",
-          "url": "https://www.kucoin.com/news/flash/odaily-key-crypto-news-summary-for-january-3-2026"
-        },
-        {
-          "title": "South Korea Crypto Market Faces Regulatory Bottlenecks with 160 Trillion Won Outflow",
-          "summary": "South Korea's cryptocurrency market is hindered by regulations, leading to an estimated 160 trillion won outflow to overseas platforms last year. This underscores ongoing regulatory challenges in the region.",
-          "source": "Odaily",
-          "url": "https://www.kucoin.com/news/flash/odaily-key-crypto-news-summary-for-january-3-2026"
-        },
-        {
-          "title": "Global Crypto Market Cap Hits $3.06T with Major Price Gains",
-          "summary": "The cryptocurrency market cap reached $3.06T, up 0.08% in 24 hours, with BTC at $89,810 (+0.72%), ETH at $3,099 (+1.93%), XRP +6.97%, and outperformers like SAPIEN (+25%), FTT (+21%), PEPE (+20%). Meme coins like DOGE surged 9.52% amid a broader recovery.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/01-03-2026-binance-market-update-crypto-market-trends-january-3-2026-34581200240009"
-        },
-        {
-          "title": "Turkmenistan Legalizes Crypto Mining and Exchanges",
-          "summary": "Turkmenistan has legalized cryptocurrency mining and exchanges to boost economic growth. This marks a significant regulatory development in Central Asia.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/01-03-2026-binance-market-update-crypto-market-trends-january-3-2026-34581200240009"
-        },
-        {
-          "title": "U.S. XRP Spot ETF Records $13.59M Net Inflow",
-          "summary": "The U.S. XRP spot ETF saw a net inflow of $13.59 million in a single day. This reflects growing institutional interest in XRP amid its 6.97% price rise.",
-          "source": "Odaily",
-          "url": "https://www.kucoin.com/news/flash/odaily-key-crypto-news-summary-for-january-3-2026"
-        },
-        {
-          "title": "Bitmine Accumulates 544,000 ETH Staked Worth $1.7B; Stock Rises 14%",
-          "summary": "Bitmine has staked a total of 544,000 ETH valued at $1.7 billion, while Tom Lee's stock issuance proposal drove its stock price up 14%. This indicates strong Ethereum staking activity and market optimism.",
-          "source": "Odaily",
-          "url": "https://www.kucoin.com/news/flash/odaily-key-crypto-news-summary-for-january-3-2026"
-        },
-        {
-          "title": "WLFI to Mobilize Reserves for USD1 Ecosystem and Meme Projects",
-          "summary": "WLFI plans to use strategic reserves to support USD1 ecosystem development, promoting meme projects and liquidity growth. WLFI price rose 2.61% amid this announcement.",
-          "source": "Odaily",
-          "url": "https://www.kucoin.com/news/flash/odaily-key-crypto-news-summary-for-january-3-2026"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.kucoin.com/news/flash/odaily-key-crypto-news-summary-for-january-3-2026",
-        "https://www.binance.com/en/square/post/01-03-2026-binance-market-update-crypto-market-trends-january-3-2026-34581200240009"
+        "https://www.ainvest.com/news/bitcoin-momentum-altcoin-rotation-signal-bullish-phase-2026-2601/",
+        "https://www.youtube.com/watch?v=YLAH0ONhjbg",
+        "https://cryptorank.io/news/feed/f991e-bitcoin-price-prediction-descending-trendline-keeps-pressure-on-buyers-into-january-4"
       ]
     },
     "ai_news": {
@@ -366,54 +329,32 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 3,
       "items": [
         {
-          "title": "DeepSeek Releases New AI Training Framework on New Year's Eve",
-          "summary": "DeepSeek published a technical paper on December 31, 2025, introducing 'manifold-constrained hyper-connections,' a general framework for training AI systems at scale. The release demonstrates continued innovation momentum from Chinese AI companies.",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/tech/tech-war/article/3338528/tech-war-china-takes-confident-strides-develop-more-ai-innovation-2026"
+          "title": "Geoffrey Hinton Warns 2026 Could See Mass AI Job Displacement",
+          "summary": "AI pioneer Geoffrey Hinton predicts 2026 as a potential tipping point for widespread job losses due to accelerating AI capabilities in knowledge work, faster deployment, and cost reductions threatening white-collar roles.",
+          "source": "AI Daily",
+          "url": "https://www.ai-daily.news/articles/geoffrey-hinton-warns-ai-could-trigger-mass-job-displacement"
         },
         {
-          "title": "China Confirms Over 700 Generative AI Models Cleared for Official Filing",
-          "summary": "China's Cyberspace Administration (CAC) confirmed that over 700 generative models have now cleared official filing, demonstrating unprecedented scale of AI integration in the Chinese market.",
-          "source": "Boston Institute of Analytics",
-          "url": "https://bostoninstituteofanalytics.org/blog/this-week-in-ai-29th-dec-2nd-jan-biggest-breakthroughs-news-you-missed/"
+          "title": "UCLA Researchers Develop Model-Free Reinforcement Learning for Optical AI Systems",
+          "summary": "UCLA introduces a reinforcement learning framework using proximal policy optimization for in situ training of diffractive optical processors, enabling direct learning from real optical measurements without digital models, with applications in classification and hologram generation.",
+          "source": "TechXplore",
+          "url": "https://techxplore.com/news/2026-01-free-optical-ai.html"
         },
         {
-          "title": "Google Rolls Out Gemini 3 Flash Globally with Speed-First Focus",
-          "summary": "Google's latest 'speed-first' model, Gemini 3 Flash, hit global Search and developer APIs, marking a push for near-instant AI responses.",
-          "source": "Boston Institute of Analytics",
-          "url": "https://bostoninstituteofanalytics.org/blog/this-week-in-ai-29th-dec-2nd-jan-biggest-breakthroughs-news-you-missed/"
-        },
-        {
-          "title": "U.S. Army Establishes New AI/ML Officer Career Path (49B Specialty)",
-          "summary": "The U.S. Army officially created a new 49B Artificial Intelligence/Machine Learning Officer designation. The first selection board will meet in January 2026, with officers expected to complete reclassification by the end of fiscal year 2026.",
-          "source": "Interesting Engineering",
-          "url": "https://interestingengineering.com/ai-robotics/us-army-creates-new-ai-officer-career-path-to-embed-machine-learning-across-operations"
-        },
-        {
-          "title": "Amazon Ring Deploys AI Facial Recognition Feature 'Familiar Faces'",
-          "summary": "Amazon's Ring began deploying AI facial recognition to identify specific people, not just motion detection, sparking major year-end debate on biometric privacy.",
-          "source": "Boston Institute of Analytics",
-          "url": "https://bostoninstituteofanalytics.org/blog/this-week-in-ai-29th-dec-2nd-jan-biggest-breakthroughs-news-you-missed/"
-        },
-        {
-          "title": "AI Industry Shifts Focus to 'Agentic AI' Systems in 2026",
-          "summary": "Major AI companies are transitioning from assistive AI chatbots to agentic AI systems that can perform actions independently, marking a significant shift in AI application development.",
-          "source": "Boston Institute of Analytics",
-          "url": "https://bostoninstituteofanalytics.org/blog/this-week-in-ai-29th-dec-2nd-jan-biggest-breakthroughs-news-you-missed/"
+          "title": "Render Network Sees Record Demand Amid AI-Driven Creative Shifts",
+          "summary": "Cloud rendering demand surges to over 390 million frames processed in 2025, fueled by AI adoption among 2 million creators, though raising concerns over job displacement and ethical issues in creative industries.",
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/render-navigates-ai-shift-creative-demand-hits-record-2601/"
         }
       ],
       "citations": [
-        "https://www.scmp.com/tech/tech-war/article/3338528/tech-war-china-takes-confident-strides-develop-more-ai-innovation-2026",
-        "https://bostoninstituteofanalytics.org/blog/this-week-in-ai-29th-dec-2nd-jan-biggest-breakthroughs-news-you-missed/",
-        "https://interestingengineering.com/ai-robotics/us-army-creates-new-ai-officer-career-path-to-embed-machine-learning-across-operations",
-        "https://www.deeplearning.ai/the-batch/issue-334/",
-        "https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/army-establishes-new-ai-and-machine-learning-career-path-for-officers/",
-        "https://www.prsa.org/article/a-tech-communicator-s-take-on-ai-and-continuous-change-jan26",
-        "https://lasvegassun.com/news/2026/jan/03/meet-the-ai-agents-of-2026-ambitious-overhyped-and/",
-        "https://www.eweek.com/news/under-the-radar-ai-companies-2026/"
+        "https://www.ai-daily.news/articles/geoffrey-hinton-warns-ai-could-trigger-mass-job-displacement",
+        "https://techxplore.com/news/2026-01-free-optical-ai.html",
+        "https://www.ainvest.com/news/render-navigates-ai-shift-creative-demand-hits-record-2601/",
+        "https://securityboulevard.com/2026/01/why-are-it-leaders-optimistic-about-future-ai-governance/"
       ]
     },
     "gaming": {
@@ -421,44 +362,34 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 3,
       "items": [
         {
-          "title": "Love and Deepspace Tops December Gacha Revenue Charts",
-          "summary": "Love and Deepspace led December's gacha earnings, followed by Genshin Impact, while Honkai Star Rail and Pokémon TCG Pocket declined. Genshin Impact Version Luna IV and Love and Deepspace 5.0 updates introduce new characters, stories, events, and features.",
-          "source": "Gaming Hardcore (YouTube)",
-          "url": "https://www.youtube.com/watch?v=ceaVU1E2MS4"
+          "title": "Servers for Anthem, Warlander, and NBA Live 19 to Shut Down in January 2026",
+          "summary": "Online servers for Anthem will close on January 12, making the game completely unavailable; Warlander shuts down January 20, and NBA Live 19 ends January 30. WWE 2K24 servers delayed to March, with removal from stores by end of January.",
+          "source": "ixbt.games",
+          "url": "https://ixbt.games/en/news/2026/01/03/proshhai-onlain-servery-trex-igr-zakroiut-v-ianvare.html"
         },
         {
-          "title": "PS5 Jailbreak Discovered Using Star Wars: Racer Revenge",
-          "summary": "Hackers found a PS5 jailbreak exploit via the PS4 version of Star Wars: Racer Revenge, causing physical copy prices to surge. CD Projekt hints at a secret Witcher 3 expansion.",
-          "source": "Gaming Hardcore (YouTube)",
-          "url": "https://www.youtube.com/watch?v=ceaVU1E2MS4"
+          "title": "AMD FSR 4 Redstone: Complete List of Supported Games for January 2026",
+          "summary": "AMD releases a full list of games supporting FSR 3.1 and FSR 3.1.4, including a step-by-step guide to enable FSR Redstone and required drivers as of January 2026.",
+          "source": "gamegpu.com",
+          "url": "https://en.gamegpu.com/News/zhelezo/AMD-FSR-4-Redstone:-A-Complete-List-of-Games-for-January-2026"
         },
         {
-          "title": "Pandoland Shutdown and Granblue Fantasy Steam Launch Announced",
-          "summary": "Pandoland will shut down in March 2026, while Granblue Fantasy launches on Steam in March. Netmarble’s Mongil Star Dive delayed to March, with new games releasing January 5–10 on PC, Switch, and consoles.",
-          "source": "Gaming Hardcore (YouTube)",
-          "url": "https://www.youtube.com/watch?v=ceaVU1E2MS4"
-        },
-        {
-          "title": "Tim Kask, TSR’s First Employee and D&D Pioneer, Passes Away at 76",
-          "summary": "Tim Kask, TSR’s inaugural employee, Dragon Magazine editor, and creator of the Apparatus of Kwalish, died from sudden illness. He was a key figure in early D&D history.",
-          "source": "Cannibal Halfling Gaming",
-          "url": "https://cannibalhalflinggaming.com/2026/01/03/weekend-update-1-3-2026/"
-        },
-        {
-          "title": "New Emulation Handhelds Available for Pre-Order",
-          "summary": "New devices like GAMEMT E3 Vigor, KT Pocket KTR2, and AYANEO Pocket Play are up for pre-order with varying features and prices. Free games include Total War: Three Kingdoms and Wildgate.",
-          "source": "Gaming Hardcore (YouTube)",
-          "url": "https://www.youtube.com/watch?v=ceaVU1E2MS4"
+          "title": "Stardew Valley: Nintendo Switch 2 Edition Released on NA eShop; Space Invaders Arcade Archives Hits 500th Release",
+          "summary": "Stardew Valley: Nintendo Switch 2 Edition launched on North American eShops on Christmas Day with fixes incoming for Europe; Hamster releases Space Invaders as its 500th Arcade Archives title.",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-january"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=ceaVU1E2MS4",
-        "https://www.youtube.com/watch?v=N2AZJfCInaE",
-        "https://cannibalhalflinggaming.com/2026/01/03/weekend-update-1-3-2026/",
-        "https://tomsgaming.com/2026/01/03/"
+        "https://ixbt.games/en/news/2026/01/03/proshhai-onlain-servery-trex-igr-zakroiut-v-ianvare.html",
+        "https://technicallyentertaining.substack.com/p/7-bold-predictions-that-will-reshape",
+        "https://www.tomsguide.com/gaming/pc-gaming/2026-will-be-the-year-of-cloud-gaming-and-we-may-not-even-have-a-choice",
+        "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-january",
+        "https://en.gamegpu.com/News/zhelezo/AMD-FSR-4-Redstone:-A-Complete-List-of-Games-for-January-2026",
+        "https://wolfsgamingblog.com/2026/01/04/not-the-best-games-of-2025-just-the-ones-that-mattered-to-me/"
       ]
     },
     "tech_news": {
@@ -469,22 +400,23 @@
       "count": 2,
       "items": [
         {
-          "title": "Waymo Autonomous Vehicles Malfunction During San Francisco Power Outage",
-          "summary": "Google's Waymo self-driving cars experienced significant malfunctions during a San Francisco power outage that knocked out traffic lights across the city, with vehicles refusing to move and blocking intersections and other Waymos.",
-          "source": "Micro Center",
-          "url": "https://www.microcenter.com/site/mc-news/article/this-week-in-ai-jan-2-2026.aspx"
+          "title": "Tesla loses world's largest EV seller status to BYD",
+          "summary": "BYD overtook Tesla as the world's largest battery electric vehicle seller in 2025, reporting 2.25 million BEV sales (28% increase) compared to Tesla's 1.64 million units (8.5% decline). This marks the first time since 2018 that Tesla has lost the top position.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/tesla-loses-its-status-as-the-worlds-largest-seller-of-battery-powered-evs-to-chinese-company-/articleshow/126321819.cms"
         },
         {
-          "title": "Wall Street Opens 2026 with Mixed Tech Performance",
-          "summary": "The Dow Jones and S&P 500 snapped a four-day losing streak with gains led by semiconductor stocks (Nvidia, Intel up 4%) and industrials (Boeing +4.9%), while major tech stocks like Apple, Microsoft, Amazon, and Tesla declined.",
-          "source": "Whales Book",
-          "url": "https://www.whalesbook.com/news/English/Economy/2026-Kicks-Off-Strong-Dow-Jumps-as-Tech-Stocks-Lead-Rally-Is-the-Bull-Run-Back/695889f55012e0ea752557cc"
+          "title": "Big Tech faces growing community opposition to data center expansion",
+          "summary": "Communities across the U.S. are increasingly blocking or delaying data center proposals, with 20 proposals valued at $98 billion blocked or delayed between April-June 2025. Local opposition over zoning, environmental concerns, and resource consumption is becoming a major obstacle to Big Tech's infrastructure expansion.",
+          "source": "ABC News",
+          "url": "https://abcnews.go.com/Technology/wireStory/big-techs-fast-expanding-plans-data-centers-running-128860618"
         }
       ],
       "citations": [
-        "https://www.microcenter.com/site/mc-news/article/this-week-in-ai-jan-2-2026.aspx",
-        "https://www.whalesbook.com/news/English/Economy/2026-Kicks-Off-Strong-Dow-Jumps-as-Tech-Stocks-Lead-Rally-Is-the-Bull-Run-Back/695889f55012e0ea752557cc",
-        "https://www.hackdiversity.com/inside-bcgs-ai-product-assembly-line/"
+        "https://www.youtube.com/watch?v=HyVKZuVq6Rs",
+        "https://www.nashuatelegraph.com/news/business/2026/01/03/big-techs-fast-expanding-plans-for-data-centers-are-running-into-stiff-community-opposition/",
+        "https://abcnews.go.com/Technology/wireStory/big-techs-fast-expanding-plans-data-centers-running-128860618",
+        "https://timesofindia.indiatimes.com/technology/tech-news/tesla-loses-its-status-as-the-worlds-largest-seller-of-battery-powered-evs-to-chinese-company-/articleshow/126321819.cms"
       ]
     }
   }
