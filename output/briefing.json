@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T18:06:32.407582+00:00",
-  "generated_at_human": "2026-01-04 18:06 UTC",
+  "generated_at": "2026-01-05T00:22:17.632282+00:00",
+  "generated_at_human": "2026-01-05 00:22 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,124 @@
       "count": 25,
       "items": [
         {
+          "title": "Show HN: Terminal UI for AWS",
+          "url": "https://github.com/huseyinbabal/taws",
+          "score": 158,
+          "comments": 74
+        },
+        {
           "title": "Lessons from 14 Years at Google",
           "url": "https://addyosmani.com/blog/21-lessons/",
-          "score": 245,
-          "comments": 86
+          "score": 740,
+          "comments": 337
+        },
+        {
+          "title": "Why does a least squares fit appear to have a bias when applied to simple data?",
+          "url": "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple",
+          "score": 99,
+          "comments": 20
+        },
+        {
+          "title": "Eurostar AI vulnerability: when a chatbot goes off the rails",
+          "url": "https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/",
+          "score": 79,
+          "comments": 17
+        },
+        {
+          "title": "Linear Address Spaces: Unsafe at any speed",
+          "url": "https://queue.acm.org/detail.cfm?id=3534854",
+          "score": 106,
+          "comments": 60
+        },
+        {
+          "title": "The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)",
+          "url": "https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/",
+          "score": 74,
+          "comments": 31
         },
         {
           "title": "Street Fighter II, the World Warrier (2021)",
           "url": "https://fabiensanglard.net/sf2_warrier/",
-          "score": 159,
-          "comments": 21
+          "score": 293,
+          "comments": 46
         },
         {
           "title": "The Unbearable Joy of Sitting Alone in a Café",
           "url": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
-          "score": 147,
-          "comments": 83
+          "score": 394,
+          "comments": 231
+        },
+        {
+          "title": "Ripple, a puzzle game about 2nd and 3rd order effects",
+          "url": "https://ripplegame.app/",
+          "score": 60,
+          "comments": 9
+        },
+        {
+          "title": "Web development is fun again",
+          "url": "https://ma.ttias.be/web-development-is-fun-again/",
+          "score": 250,
+          "comments": 321
+        },
+        {
+          "title": "Stop Forwarding Errors, Start Designing Them",
+          "url": "https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/",
+          "score": 62,
+          "comments": 35
+        },
+        {
+          "title": "Server-rendered multiplayer games with Lua (no client code)",
+          "url": "https://cleoselene.com/",
+          "score": 46,
+          "comments": 22
+        },
+        {
+          "title": "Claude Code On-the-Go",
+          "url": "https://granda.org/en/2026/01/02/claude-code-on-the-go/",
+          "score": 183,
+          "comments": 123
         },
         {
           "title": "Show HN: An interactive guide to how browsers work",
           "url": "https://howbrowserswork.com/",
-          "score": 73,
-          "comments": 13
+          "score": 160,
+          "comments": 27
         },
         {
-          "title": "Using Hinge as a Command and Control Server",
-          "url": "https://mattwie.se/hinge-command-control-c2",
-          "score": 32,
-          "comments": 5
+          "title": "Agentic Patterns",
+          "url": "https://github.com/nibzard/awesome-agentic-patterns",
+          "score": 52,
+          "comments": 1
         },
         {
-          "title": "Understanding the bin, sbin, usr/bin, usr/sbin split (2010)",
-          "url": "https://lists.busybox.net/pipermail/busybox/2010-December/074114.html",
-          "score": 119,
-          "comments": 70
+          "title": "Show HN: Quantum Tunnel",
+          "url": "https://chuanqisun.github.io/quantum-tunnel/",
+          "score": 10,
+          "comments": 3
         },
         {
-          "title": "Neural Networks: Zero to Hero",
-          "url": "https://karpathy.ai/zero-to-hero.html",
-          "score": 600,
-          "comments": 51
+          "title": "Show HN: An LLM-Powered PCB Schematic Checker (Major Update)",
+          "url": "https://traceformer.io/",
+          "score": 21,
+          "comments": 4
+        },
+        {
+          "title": "Show HN: Hover – IDE style hover documentation on any webpage",
+          "url": "https://github.com/Sampsoon/hover",
+          "score": 30,
+          "comments": 12
+        },
+        {
+          "title": "Six Harmless Bugs Lead to Remote Code Execution",
+          "url": "https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/",
+          "score": 7,
+          "comments": 1
+        },
+        {
+          "title": "OpenGitOps",
+          "url": "https://opengitops.dev/",
+          "score": 25,
+          "comments": 20
         },
         {
           "title": "Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access",
@@ -56,106 +134,28 @@
           "comments": 0
         },
         {
-          "title": "Web development is fun again",
-          "url": "https://ma.ttias.be/web-development-is-fun-again/",
-          "score": 70,
-          "comments": 78
-        },
-        {
-          "title": "Maybe comments should explain 'what' (2017)",
-          "url": "https://www.hillelwayne.com/post/what-comments/",
-          "score": 143,
-          "comments": 140
-        },
-        {
-          "title": "FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers",
-          "url": "https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/",
-          "score": 87,
-          "comments": 1
+          "title": "The great shift of English prose",
+          "url": "https://www.worksinprogress.news/p/english-prose-has-become-much-easier",
+          "score": 18,
+          "comments": 12
         },
         {
           "title": "Bison return to Illinois' Kane County after 200 years",
           "url": "https://phys.org/news/2025-12-bison-illinois-kane-county-years.html",
-          "score": 35,
-          "comments": 3
-        },
-        {
-          "title": "One Formula That Demystifies 3D Graphics",
-          "url": "https://www.youtube.com/watch?v=qjWkNZ0SXfo",
-          "score": 45,
-          "comments": 10
-        },
-        {
-          "title": "AI Sycophancy Panic",
-          "url": "https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md",
-          "score": 30,
-          "comments": 47
-        },
-        {
-          "title": "Cold-Blooded Software (2023)",
-          "url": "https://dubroy.com/blog/cold-blooded-software/",
-          "score": 46,
-          "comments": 10
+          "score": 108,
+          "comments": 27
         },
         {
           "title": "Moiré Explorer",
           "url": "https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer",
-          "score": 46,
-          "comments": 7
+          "score": 112,
+          "comments": 16
         },
         {
-          "title": "Anti-Aging Injection Regrows Knee Cartilage and Prevents Arthritis",
-          "url": "https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/",
-          "score": 95,
-          "comments": 32
-        },
-        {
-          "title": "JavaScript engines zoo – Compare every JavaScript engine",
-          "url": "https://zoo.js.org/",
-          "score": 120,
-          "comments": 49
-        },
-        {
-          "title": "How I archived 10 years of memories using Spotify",
-          "url": "https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify",
-          "score": 30,
-          "comments": 11
-        },
-        {
-          "title": "Attention Is Bayesian Inference",
-          "url": "https://medium.com/@vishalmisra/attention-is-bayesian-inference-578c25db4501",
-          "score": 91,
-          "comments": 17
-        },
-        {
-          "title": "The Gentle Seduction (1989)",
-          "url": "http://www.skyhunter.com/marcs/GentleSeduction.html",
-          "score": 171,
-          "comments": 53
-        },
-        {
-          "title": "Jeffgeerling.com has been Migrated to Hugo",
-          "url": "https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/",
-          "score": 146,
-          "comments": 130
-        },
-        {
-          "title": "The suck is why we're here",
-          "url": "https://nik.art/the-suck-is-why-were-here/",
-          "score": 399,
-          "comments": 235
-        },
-        {
-          "title": "Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin",
-          "url": "https://news.ycombinator.com/item?id=46471648",
-          "score": 85,
-          "comments": 60
-        },
-        {
-          "title": "The PGP problem (2019)",
-          "url": "https://www.latacora.com/blog/2019/07/16/the-pgp-problem/",
-          "score": 66,
-          "comments": 86
+          "title": "Using Hinge as a Command and Control Server",
+          "url": "https://mattwie.se/hinge-command-control-c2",
+          "score": 84,
+          "comments": 40
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 91252,
-          "change_24h": 1.39,
-          "change_7d": 3.99,
-          "market_cap": 1822973652153
+          "price": 91859,
+          "change_24h": 0.79,
+          "change_7d": 4.54,
+          "market_cap": 1831573371171
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3132.93,
-          "change_24h": 0.91,
-          "change_7d": 6.5,
-          "market_cap": 378413989072
+          "price": 3151.78,
+          "change_24h": 0.35,
+          "change_7d": 6.88,
+          "market_cap": 379949197276
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 134.67,
-          "change_24h": 2.24,
-          "change_7d": 8.38,
-          "market_cap": 75916224354
+          "price": 134.55,
+          "change_24h": 0.19,
+          "change_7d": 7.51,
+          "market_cap": 75779839825
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.151957,
-          "change_24h": 7.5,
-          "change_7d": 22.47,
-          "market_cap": 25575556087
+          "price": 0.149781,
+          "change_24h": 3.66,
+          "change_7d": 20.98,
+          "market_cap": 25156594123
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.40315,
-          "change_24h": 3.97,
-          "change_7d": 9.04,
-          "market_cap": 14794774347
+          "price": 0.400433,
+          "change_24h": 2.12,
+          "change_7d": 8.73,
+          "market_cap": 14681132483
         }
       ]
     },
@@ -214,7 +214,7 @@
         {
           "name": "PONKE",
           "symbol": "PONKE",
-          "market_cap_rank": 873
+          "market_cap_rank": 855
         },
         {
           "name": "Pepe",
@@ -222,29 +222,24 @@
           "market_cap_rank": 48
         },
         {
-          "name": "Bonk",
-          "symbol": "BONK",
-          "market_cap_rank": 97
-        },
-        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
           "market_cap_rank": 115
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 212
         },
         {
           "name": "Lighter",
           "symbol": "LIT",
-          "market_cap_rank": 130
+          "market_cap_rank": 129
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 4
         },
         {
           "name": "Solana",
@@ -252,14 +247,19 @@
           "market_cap_rank": 6
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 211
+          "name": "Fartcoin",
+          "symbol": "FARTCOIN",
+          "market_cap_rank": 181
         },
         {
-          "name": "Shiba Inu",
-          "symbol": "SHIB",
-          "market_cap_rank": 33
+          "name": "Aster",
+          "symbol": "ASTER",
+          "market_cap_rank": 62
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 29
         }
       ]
     },
@@ -268,47 +268,50 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "US Markets Show Mixed Gains on First Trading Day of 2026",
-          "summary": "The S&P 500 rose 0.2% to 6,858.47, Dow gained 0.7% to 48,382.39, while Nasdaq dipped less than 0.1% to 23,235.63 amid tech sector volatility. Nvidia climbed 1.3%, but Microsoft and Tesla fell 2.2% and 2.6% respectively after Tesla's reported sales decline.",
-          "source": "Times Leader",
-          "url": "https://www.timesleader.com/business/1728932/wall-street-edges-higher-in-a-wobbly-start-to-2026"
+          "title": "Hang Seng Index Surges Above 26,000 on First Trading Day of 2026 Amid AI Optimism",
+          "summary": "Hong Kong's Hang Seng Index rallied 2.8% to break above 26,000, driven by artificial intelligence developments in China, marking a strong start to the year after 28% gains in 2025. The index needs to sustain above 26,264 to confirm breakout from recent consolidation.",
+          "source": "IG International",
+          "url": "https://www.ig.com/en/news-and-trade-ideas/weekly-market-navigator--5-jan-2026-260105"
         },
         {
-          "title": "Global Markets Closed on January 4 Holiday with No Major Economic Data",
-          "summary": "US and European exchanges remained closed for New Year's holiday, resulting in low trading activity and no new macroeconomic publications or corporate reports. Investors are preparing for upcoming data from China and the first full trading week.",
-          "source": "Sergey Tereshkin",
-          "url": "https://sergeytereshkin.com/publications/economic-events-and-corporate-reports-january-4-2026"
+          "title": "Nifty 50 Hits New Closing High with Bullish Momentum on January 2",
+          "summary": "India's Nifty 50 rose 0.7% to a record closing high after breaking falling resistance, with strong technical indicators like RSI at 62.39 and positive MACD signaling continued bullish bias. The index eyes 26,500–26,700 if it surpasses 26,350, with support at 26,000–26,100.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-january-5-top-15-things-to-know-before-the-opening-bell-13755860.html"
         },
         {
-          "title": "FOMC Minutes Reveal Closer Rate Cut Decision, Slight Hawkish Tilt",
-          "summary": "Recent FOMC meeting minutes indicated the December rate cut decision was closer than expected, introducing a hawkish nuance to 2026 expectations with markets pricing only two cuts. US Dollar Index showed bullish signs amid this outlook.",
+          "title": "S&P 500 Faces Moderate Reversal After Record Highs, But New Highs Likely",
+          "summary": "The S&P 500, up over 15% in 2025 with 39 all-time highs, underwent a textbook moderate reversal last week amid precious metals selloff, but remains resilient with potential for new highs above 6,940 or 7,000. US Tech 100 stays range-bound between 24,600 and 25,830.",
+          "source": "IG International; DailyForex",
+          "url": "https://www.ig.com/en/news-and-trade-ideas/weekly-market-navigator--5-jan-2026-260105"
+        },
+        {
+          "title": "FOMC Minutes Reveal Close Vote on December Rate Cut, Slight Hawkish Tilt",
+          "summary": "US FOMC meeting minutes indicated the recent rate cut decision was closer than expected, providing a hawkish tilt to future expectations, with CME FedWatch showing only two cuts priced in for next year. This supported modest USD Index gains last week.",
           "source": "DailyForex",
           "url": "https://www.dailyforex.com/forex-technical-analysis/2026/01/weekly-forex-forecast-04th-to-9th-january-2026/239310"
         },
         {
-          "title": "S&P 500 Faces Moderate Reversal After Record Highs",
-          "summary": "Following a 16% gain in 2025, the S&P 500 exhibited a textbook moderate reversal pattern last week, driven partly by precious metals selloff, with new highs still possible above 6,940.",
-          "source": "DailyForex",
-          "url": "https://www.dailyforex.com/forex-technical-analysis/2026/01/weekly-forex-forecast-04th-to-9th-january-2026/239310"
+          "title": "US Economy Signals Solid 2026 Start Ahead of Key December Jobs Data",
+          "summary": "Upcoming December nonfarm payrolls expected at +60k, unemployment at 4.5%, with recent low jobless claims and Q3 GDP at 4.3% y/y suggesting economic resilience; JOLTS and layoffs data also in focus for Fed policy clues.",
+          "source": "Yardeni QuickTakes",
+          "url": "https://www.yardeniquicktakes.com/economic-week-ahead-january-5-9/"
         },
         {
-          "title": "Fed Policy Seen as Wall Street's Key Risk for 2026 Over Tariffs",
-          "summary": "After strong 2025 gains (S&P 500 +16%, Dow +13%, Nasdaq +20%), analysts highlight Federal Reserve actions as the primary market risk in 2026 rather than tariffs.",
-          "source": "Nasdaq",
-          "url": "https://www.nasdaq.com/articles/wall-streets-ticking-time-bomb-2026-isnt-tariffs-its-fed"
+          "title": "Bank Nifty Breaks Out to New High with Strong Bullish Indicators",
+          "summary": "India's Bank Nifty surged 0.74% to a record 60,204 after breaking 59,800, closing above upper Bollinger Bands with RSI at 67.55 and bullish MACD crossover, indicating sustained strength in banking sector.",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-january-5-top-15-things-to-know-before-the-opening-bell-13755860.html"
         }
       ],
       "citations": [
-        "https://sergeytereshkin.com/publications/economic-events-and-corporate-reports-january-4-2026",
-        "https://www.timesleader.com/business/1728932/wall-street-edges-higher-in-a-wobbly-start-to-2026",
+        "https://www.ig.com/en/news-and-trade-ideas/weekly-market-navigator--5-jan-2026-260105",
+        "https://www.moneycontrol.com/news/business/markets/trade-setup-for-january-5-top-15-things-to-know-before-the-opening-bell-13755860.html",
         "https://www.dailyforex.com/forex-technical-analysis/2026/01/weekly-forex-forecast-04th-to-9th-january-2026/239310",
-        "https://www.youtube.com/watch?v=1P5t1wD9fjU",
-        "https://www.nasdaq.com/articles/wall-streets-ticking-time-bomb-2026-isnt-tariffs-its-fed",
-        "https://www.aol.com/articles/wall-streets-ticking-time-bomb-094100062.html",
-        "https://expatwealthatwork.com/blog/2026/01/04/is-the-january-barometer-a-truth-or-a-market-myth-in-2026/"
+        "https://www.yardeniquicktakes.com/economic-week-ahead-january-5-9/"
       ]
     },
     "crypto_news": {
@@ -316,63 +319,14 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
-      "items": [
-        {
-          "title": "Bitcoin Surges Above $91,000 Amid Geopolitical Tensions",
-          "summary": "Bitcoin rose above $91,000 on January 4, 2026, driven by Venezuela geopolitical tensions and $2.5B in whale/exchange buying activity. The cryptocurrency traded between $89,665 and $91,810 over the past 24 hours, up 1.70% as of 09:30 AM UTC.",
-          "source": "Binance Market Update / AInvest News",
-          "url": "https://www.binance.com/en-AE/square/post/01-04-2026-binance-market-update-2026-01-04-34625436859730"
-        },
-        {
-          "title": "Crypto Market Cap Exceeds $3 Trillion",
-          "summary": "The global cryptocurrency market cap reached $3.06 trillion, up 1.44% over the last day. Ethereum climbed above $3,150 while altcoins like Solana and XRP posted double-digit weekly gains.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en-AE/square/post/01-04-2026-binance-market-update-2026-01-04-34625436859730"
-        },
-        {
-          "title": "Memecoins Lead Market Rally with Significant Gains",
-          "summary": "BONK surged 31%, CVX jumped 27%, and RENDER climbed 20% as top gainers. Dogecoin and PEPE also posted gains of up to 25% as 2026 opened with a meme coin surge.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en-AE/square/post/01-04-2026-binance-market-update-2026-01-04-34625436859730"
-        },
-        {
-          "title": "XRP Jumps 8% Above $2 on SEC Sentiment Shift",
-          "summary": "XRP surged 8% above $2 as traders bet on a friendlier regulatory environment with the SEC. The altcoin was among the major gainers in the broader market rally.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en-AE/square/post/01-04-2026-binance-market-update-2026-01-04-34625436859730"
-        },
-        {
-          "title": "Solana Plans Major Upgrade with Alpenglow for Enhanced Consensus",
-          "summary": "Solana announced plans for a major upgrade called Alpenglow designed to enhance its consensus mechanism, marking a significant development for the blockchain platform.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en-AE/square/post/01-04-2026-binance-market-update-2026-01-04-34625436859730"
-        },
-        {
-          "title": "Turkmenistan Legalizes Crypto Mining and Exchanges",
-          "summary": "Turkmenistan has legalized cryptocurrency mining and exchanges to boost economic growth, representing a significant regulatory development in Central Asia.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en-AE/square/post/01-04-2026-binance-market-update-2026-01-04-34625436859730"
-        },
-        {
-          "title": "U.S. Cryptocurrency Spot ETF Trading Volume Surpasses $2 Trillion",
-          "summary": "U.S. cryptocurrency spot ETF trading volume has exceeded $2 trillion, reflecting growing institutional adoption and mainstream acceptance of digital assets.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en-AE/square/post/01-04-2026-binance-market-update-2026-01-04-34625436859730"
-        },
-        {
-          "title": "Neobanks to Fuel Ethereum's 2026 Growth",
-          "summary": "According to ether.fi CEO, neobanks are expected to drive Ethereum's growth throughout 2026, highlighting the platform's expanding role in financial services.",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/01/04/neobanks-will-fuel-ethereum-s-2026-growth-says-ether-fi-ceo"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.binance.com/en-AE/square/post/01-04-2026-binance-market-update-2026-01-04-34625436859730",
-        "https://www.ainvest.com/news/bitcoin-tops-91-000-17-years-satoshi-mined-genesis-block-2601/",
-        "https://www.nasdaq.com/articles/3-reasons-watch-xrp-2026",
-        "https://www.coindesk.com/tech/2026/01/04/neobanks-will-fuel-ethereum-s-2026-growth-says-ether-fi-ceo",
-        "https://zycrypto.com/bitcoin-ether-cardano-xrp-surge-after-steep-decline-on-new-years-day/"
+        "https://phemex.com/news/article/key-crypto-and-economic-events-scheduled-for-early-january-51256",
+        "https://www.mexc.co/en-NG/news/405237",
+        "https://www.ainvest.com/news/crypto-policy-shift-reshapes-global-markets-bitcoin-dynamics-2601/",
+        "https://www.youtube.com/watch?v=loUVe0FWXm0",
+        "https://www.youtube.com/watch?v=BIYOhQkOdko"
       ]
     },
     "ai_news": {
@@ -380,45 +334,26 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 2,
       "items": [
         {
-          "title": "AI Sector Undergoes Fundamental Realignment in 2026 as Reliability Concerns Mount",
-          "summary": "The artificial intelligence industry is shifting focus from expanding large models to optimizing existing ones through post-training techniques. A critical finding shows that advanced reasoning models like DeepSeek's R1 exhibit high hallucination rates on simple tasks, revealing a fundamental trade-off between capability and reliability that can no longer be ignored.",
-          "source": "FAF",
-          "url": "https://www.faf.ae/home/2026/1/4/the-intelligence-reckoning-artificial-intelligences-brutal-collision-with-reality-in-2026"
+          "title": "TRENDS Research Releases Study on AI Algorithm Transparency",
+          "summary": "TRENDS Research & Advisory published an analytical study on January 4, 2026, focusing on transparency and understanding algorithms in the age of artificial intelligence.",
+          "source": "TRENDS Research",
+          "url": "https://trendsresearch.org/news/trends-releases-analytical-study-on-transparency-and-understanding-algorithms-in-the-age-of-artificial-intelligence/"
         },
         {
-          "title": "Enterprise Focus Shifts from Chatbots to Autonomous AI Agents",
-          "summary": "Business buyers are moving away from conversational assistants toward autonomous workflow automation and AI agents capable of independent action and self-correction, recognizing these systems promise genuine productivity gains that chatbots have failed to deliver.",
-          "source": "FAF",
-          "url": "https://www.faf.ae/home/2026/1/4/the-intelligence-reckoning-artificial-intelligences-brutal-collision-with-reality-in-2026"
-        },
-        {
-          "title": "Quantum Computing and AI Integration Reaching Practical Maturity",
-          "summary": "Quantum processors coupled with AI-managed error correction are beginning to demonstrate practical advantages in financial risk optimization, drug discovery, and materials science—problem classes where quantum advantage has been theoretically plausible but is now becoming practically achievable.",
-          "source": "FAF",
-          "url": "https://www.faf.ae/home/2026/1/4/the-intelligence-reckoning-artificial-intelligences-brutal-collision-with-reality-in-2026"
-        },
-        {
-          "title": "Google DeepMind Advances World Models for Embodied AI and Robotics",
-          "summary": "Google is developing interactive world models and synthetic training environments to advance embodied AI applications including robots and self-driving cars, with researchers highlighting the potential for AI agents to experience accelerated training timelines in virtual simulations.",
-          "source": "BBC News",
-          "url": "https://archive.org/details/BBCNEWS_20260104_023000_AI_Decoded"
-        },
-        {
-          "title": "AI Safety Concerns Intensify Among Industry Leaders",
-          "summary": "AI pioneer Yoshua Bengio reports struggling with sleep due to concerns about the future of artificial intelligence, reflecting broader expert warnings about pending existential threats in the field.",
-          "source": "BBC News",
-          "url": "https://archive.org/details/BBCNEWS_20260104_023000_AI_Decoded"
+          "title": "Scientists Develop Periodic Table for Artificial Intelligence",
+          "summary": "Researchers have created a unifying mathematical framework resembling a periodic table to explain the success of multimodal AI systems.",
+          "source": "SciTechDaily",
+          "url": "https://scitechdaily.com/scientists-create-a-periodic-table-for-artificial-intelligence/"
         }
       ],
       "citations": [
         "https://www.faf.ae/home/2026/1/4/the-intelligence-reckoning-artificial-intelligences-brutal-collision-with-reality-in-2026",
-        "https://archive.org/details/BBCNEWS_20260104_023000_AI_Decoded",
-        "https://ruslanmv.com/news-and-trends/issues/trend-2026-01-04/",
-        "https://iabac.org/blog/what-artificial-intelligence-can-do",
-        "https://europeanbusinessmagazine.com/artificial-intelligence/us-to-extend-productivity-lead-on-back-of-ai-boom-say-economists/"
+        "https://www.nasdaq.com/articles/once-decade-investment-opportunity-3-best-ai-stocks-buy-january-2026",
+        "https://trendsresearch.org/news/trends-releases-analytical-study-on-transparency-and-understanding-algorithms-in-the-age-of-artificial-intelligence/",
+        "https://scitechdaily.com/scientists-create-a-periodic-table-for-artificial-intelligence/"
       ]
     },
     "gaming": {
@@ -426,13 +361,30 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 3,
+      "items": [
+        {
+          "title": "Animal Crossing New Horizons 3.0 Update Announced for Switch 2",
+          "summary": "A major 3.0 update for Animal Crossing: New Horizons, including a Switch 2 upgrade version, is set to release on January 15, 2026. Content creators are highlighting it as one of the most anticipated releases early in the year.",
+          "source": "EnglishSimmer (YouTube)",
+          "url": "https://www.youtube.com/watch?v=8MQcvne0MUA"
+        },
+        {
+          "title": "Starsand Island Farming Sim Launches February 1, 2026",
+          "summary": "Starsand Island, a farming and life simulation game with supernatural elements, is scheduled for release on February 1, 2026, gaining attention in anticipated 2026 game lists.",
+          "source": "EnglishSimmer (YouTube)",
+          "url": "https://www.youtube.com/watch?v=8MQcvne0MUA"
+        },
+        {
+          "title": "New Games Releasing This Week in Gaming: January 5, 2026",
+          "summary": "Checkpoint Gaming previews the latest game releases coming out during the week of January 5, 2026, covering immediate upcoming titles.",
+          "source": "Checkpoint Gaming",
+          "url": "https://checkpointgaming.net/features/2026/01/coming-out-in-gaming-this-week-january-5-2026/"
+        }
+      ],
       "citations": [
-        "https://ggservers.com/blog/10-most-anticipated-games-in-2026/",
-        "https://www.gadgetvoize.com/2026/01/04/why-2026-is-shaping-up-to-be-one-of-gamings-biggest-years-ever/",
-        "https://wolfsgamingblog.com/2026/01/04/not-the-best-games-of-2025-just-the-ones-that-mattered-to-me/",
-        "https://natalie.tf/2026/01/04/rundown-1-04-2026-the-most-confusing-name-in-gaming/"
+        "https://www.youtube.com/watch?v=8MQcvne0MUA",
+        "https://checkpointgaming.net/features/2026/01/coming-out-in-gaming-this-week-january-5-2026/"
       ]
     },
     "tech_news": {
@@ -443,40 +395,39 @@
       "count": 5,
       "items": [
         {
-          "title": "Tech Billionaires Cash Out $16 Billion in 2025 Amid Soaring Stocks",
-          "summary": "Tech billionaires sold $16 billion worth of shares in 2025 as stock prices reached record highs. This reflects significant profit-taking in the tech sector.",
-          "source": "DEV Community",
-          "url": "https://dev.to/atharvshinde2004/daily-tech-news-roundup-2026-01-04-378m"
+          "title": "Intel Launches Core Ultra Series 3 (Panther Lake) Processors at CES 2026",
+          "summary": "Intel unveiled its Core Ultra Series 3 processors built on the 18A manufacturing process, targeting premium AI PCs with over 50% performance gains, integrated NPUs, and improved efficiency.",
+          "source": "21K Tools",
+          "url": "https://21k.tools/blog/this-weeks-top-tech-stories-january-2026-edition/"
         },
         {
-          "title": "Meta Quest 3S VR Headset Discounted $50 with $50 Gift Card",
-          "summary": "Meta's Quest 3S, normally $299.99, is available for $249.99 and includes a $50 Amazon digital credit. The deal remains active post-holidays.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/853151/meta-quest-3s-apple-airtag-steam-winter-sale-deal"
+          "title": "Samsung Previews AI-Enhanced Micro LED TVs and 6K Odyssey Monitors at First Look Event",
+          "summary": "Samsung's January 4 event showcased Micro LED RGB TVs up to 115 inches, glasses-free 3D 6K Odyssey gaming monitors, and refreshed Bespoke AI appliances with smart home integration.",
+          "source": "21K Tools",
+          "url": "https://21k.tools/blog/this-weeks-top-tech-stories-january-2026-edition/"
         },
         {
-          "title": "Nvidia CEO Jensen Huang to Keynote CES 2026 on January 5",
-          "summary": "CES 2026 kicks off in Las Vegas with Nvidia CEO Jensen Huang's keynote, focusing on tech outlook including physical AI, robots, and self-driving cars. Wall Street anticipates announcements amid 2026 stock predictions.",
-          "source": "Yahoo Finance",
-          "url": "https://www.youtube.com/watch?v=HyVKZuVq6Rs"
+          "title": "Neuralink Announces High-Volume Brain Implant Production for 2026",
+          "summary": "Elon Musk stated Neuralink will scale to high-volume production of brain-computer interfaces in 2026, featuring fully automated surgeries to reach more patients after successful trials.",
+          "source": "21K Tools",
+          "url": "https://21k.tools/blog/this-weeks-top-tech-stories-january-2026-edition/"
         },
         {
-          "title": "Bitfinex Hacker Ilya Lichtenstein Released Early from Prison",
-          "summary": "Ilya Lichtenstein, convicted in the Bitfinex crypto exchange hack and money laundering, credits Trump for his early prison release. The news broke on January 3.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/01/03/bitfinex-hacker-ilya-lichtenstein-credits-trump-for-early-release-from-prison"
+          "title": "NVIDIA's Jensen Huang Delivers CES 2026 Keynote on Hardware Innovations",
+          "summary": "NVIDIA's January 5 CES keynote highlighted latest hardware advancements across gaming, content creation, autonomous vehicles, and healthcare, building on last year's Blackwell launch.",
+          "source": "21K Tools",
+          "url": "https://21k.tools/blog/this-weeks-top-tech-stories-january-2026-edition/"
         },
         {
-          "title": "Trader Profits Big Betting on Maduro's Capture via Polymarket",
-          "summary": "An account on prediction market Polymarket made suspicious large bets just before the US captured Venezuelan President Nicolás Maduro. Bets on removal by January 31 were as low as $0.07.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture"
+          "title": "AMD CEO Lisa Su Keynotes at CES 2026 on January 5",
+          "summary": "AMD Chair and CEO Dr. Lisa Su is scheduled for a 6:30 PM keynote at The Venetian, expected to feature major announcements amid CES media events.",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/what-not-to-miss-at-ces-2026-302651827.html"
         }
       ],
       "citations": [
-        "https://dev.to/atharvshinde2004/daily-tech-news-roundup-2026-01-04-378m",
-        "https://www.youtube.com/watch?v=HyVKZuVq6Rs",
-        "https://artificialintelligence-newstoday.com/this-week-in-ai-dec-29-2025-jan-4-2026-top-ai-news-and-breakthroughs/"
+        "https://21k.tools/blog/this-weeks-top-tech-stories-january-2026-edition/",
+        "https://www.prnewswire.com/news-releases/what-not-to-miss-at-ces-2026-302651827.html"
       ]
     }
   }
