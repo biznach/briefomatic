@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T12:08:48.801216+00:00",
-  "generated_at_human": "2026-01-07 12:08 UTC",
+  "generated_at": "2026-01-07T18:07:36.110261+00:00",
+  "generated_at_human": "2026-01-07 18:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,34 +8,100 @@
       "count": 25,
       "items": [
         {
-          "title": "Firefox extension to redirect x.com to xcancel.com",
-          "url": "https://addons.mozilla.org/en-US/firefox/addon/toxcancel/",
-          "score": 80,
+          "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
+          "url": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
+          "score": 295,
+          "comments": 204
+        },
+        {
+          "title": "LaTeX Coffee Stains [pdf] (2021)",
+          "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
+          "score": 169,
+          "comments": 36
+        },
+        {
+          "title": "Shipmap.org",
+          "url": "https://www.shipmap.org/",
+          "score": 153,
           "comments": 31
+        },
+        {
+          "title": "Health care data breach affects over 600k patients, Illinois agency says",
+          "url": "https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says",
+          "score": 38,
+          "comments": 15
+        },
+        {
+          "title": "A4 Paper Stories",
+          "url": "https://susam.net/a4-paper-stories.html",
+          "score": 188,
+          "comments": 87
+        },
+        {
+          "title": "The Case for Nushell (2023)",
+          "url": "https://www.sophiajt.com/case-for-nushell/",
+          "score": 30,
+          "comments": 9
+        },
+        {
+          "title": "Creators of Tailwind laid off 75% of their engineering team",
+          "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
+          "score": 281,
+          "comments": 145
+        },
+        {
+          "title": "Many Hells of WebDAV: Writing a Client/Server in Go",
+          "url": "https://candid.dev/blog/many-hells-of-webdav",
+          "score": 45,
+          "comments": 28
+        },
+        {
+          "title": "Meditation as Wakeful Relaxation: Unclenching Smooth Muscle",
+          "url": "https://psychotechnology.substack.com/p/meditation-as-wakeful-relaxation",
+          "score": 78,
+          "comments": 33
+        },
+        {
+          "title": "A tab hoarder's journey to sanity",
+          "url": "https://twitter.com/borisandcrispin/status/2008709479068794989",
+          "score": 4,
+          "comments": 0
+        },
+        {
+          "title": "Becoming a Centenarian",
+          "url": "https://www.newyorker.com/magazine/2025/12/22/becoming-a-centenarian",
+          "score": 18,
+          "comments": 1
+        },
+        {
+          "title": "BillG the Manager",
+          "url": "https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager",
+          "score": 22,
+          "comments": 3
+        },
+        {
+          "title": "“Stop Designing Languages. Write Libraries Instead” (2016)",
+          "url": "https://lbstanza.org/purpose_of_programming_languages.html",
+          "score": 189,
+          "comments": 165
+        },
+        {
+          "title": "Building voice agents with Nvidia open models",
+          "url": "https://www.daily.co/blog/building-voice-agents-with-nvidia-open-models/",
+          "score": 4,
+          "comments": 0
+        },
+        {
+          "title": "Show HN: I built a \"Do not disturb\" Device for my home office",
+          "url": "https://apoorv.page/blogs/over-engineered-dnd",
+          "score": 23,
+          "comments": 12
         },
         {
           "title": "Sergey Brin's Unretirement",
           "url": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
-          "score": 218,
-          "comments": 255
-        },
-        {
-          "title": "Formal Methods Only Solve Half My Problems",
-          "url": "https://brooker.co.za/blog/2022/06/02/formal.html",
-          "score": 17,
-          "comments": 3
-        },
-        {
-          "title": "Vector graphics on GPU",
-          "url": "https://gasiulis.name/vector-graphics-on-gpu/",
-          "score": 64,
-          "comments": 8
-        },
-        {
-          "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
-          "url": "https://github.com/rberg27/doom-coding",
-          "score": 451,
-          "comments": 327
+          "score": 318,
+          "comments": 391
         },
         {
           "title": "Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)",
@@ -44,118 +110,52 @@
           "comments": 0
         },
         {
-          "title": "The creator of Claude Code's Claude setup",
-          "url": "https://twitter.com/bcherny/status/2007179832300581177",
-          "score": 417,
-          "comments": 266
+          "title": "Quake Brutalist Jam III",
+          "url": "https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/",
+          "score": 113,
+          "comments": 14
+        },
+        {
+          "title": "Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years",
+          "url": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
+          "score": 66,
+          "comments": 28
+        },
+        {
+          "title": "Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery",
+          "url": "https://keelcode.dev/keeltest",
+          "score": 21,
+          "comments": 6
+        },
+        {
+          "title": "US Job Openings Decline to Lowest Level in More Than a Year",
+          "url": "https://www.bloomberg.com/news/articles/2026-01-07/us-job-openings-decline-to-lowest-level-in-more-than-a-year",
+          "score": 216,
+          "comments": 195
+        },
+        {
+          "title": "Show HN: Free and local browser tool for designing gear models for 3D printing",
+          "url": "https://gears.dmtrkovalenko.dev",
+          "score": 3,
+          "comments": 0
         },
         {
           "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
           "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
-          "score": 603,
-          "comments": 820
+          "score": 753,
+          "comments": 1098
         },
         {
-          "title": "Electronic nose for indoor mold detection and identification",
-          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
-          "score": 138,
-          "comments": 70
+          "title": "Vector graphics on GPU",
+          "url": "https://gasiulis.name/vector-graphics-on-gpu/",
+          "score": 129,
+          "comments": 29
         },
         {
-          "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
-          "url": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
-          "score": 262,
-          "comments": 79
-        },
-        {
-          "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
-          "url": "https://github.com/x011/smtp-tunnel-proxy",
-          "score": 74,
-          "comments": 18
-        },
-        {
-          "title": "On the slow death of scaling",
-          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
-          "score": 78,
-          "comments": 12
-        },
-        {
-          "title": "Investigating and fixing a nasty clone bug",
-          "url": "https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html",
-          "score": 11,
-          "comments": 0
-        },
-        {
-          "title": "Vietnam bans unskippable ads",
-          "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
-          "score": 1382,
-          "comments": 705
-        },
-        {
-          "title": "Oral microbiome sequencing after taking probiotics",
-          "url": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
-          "score": 157,
-          "comments": 64
-        },
-        {
-          "title": "I wanted a camera that doesn't exist, so I built it",
-          "url": "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7",
-          "score": 388,
-          "comments": 115
-        },
-        {
-          "title": "We recreated Steve Jobs's 1975 Atari horoscope program",
-          "url": "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/",
-          "score": 71,
-          "comments": 30
-        },
-        {
-          "title": "Calling All Hackers: How money works (2024)",
-          "url": "https://phrack.org/issues/71/17",
-          "score": 265,
-          "comments": 171
-        },
-        {
-          "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
-          "url": "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds",
-          "score": 114,
-          "comments": 62
-        },
-        {
-          "title": "The first new compass since 1936",
-          "url": "https://www.youtube.com/watch?v=eiDhbZ8-BZI",
-          "score": 3,
-          "comments": 2
-        },
-        {
-          "title": "What *is* code? (2015)",
-          "url": "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/",
-          "score": 42,
-          "comments": 15
-        },
-        {
-          "title": "Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery",
-          "url": "https://news.ycombinator.com/item?id=46515777",
-          "score": 69,
-          "comments": 17
-        },
-        {
-          "title": "Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration",
-          "url": "https://vaultsandbox.com/",
-          "score": 37,
-          "comments": 3
-        },
-        {
-          "title": "High-Performance DBMSs with io_uring: When and How to use it",
-          "url": "https://arxiv.org/abs/2512.04859",
-          "score": 144,
-          "comments": 38
-        },
-        {
-          "title": "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
-          "url": "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy",
-          "score": 126,
-          "comments": 111
+          "title": "Formal methods only solve half my problems",
+          "url": "https://brooker.co.za/blog/2022/06/02/formal.html",
+          "score": 60,
+          "comments": 23
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 92012,
-          "change_24h": -1.9,
-          "change_7d": 3.52,
-          "market_cap": 1838685598356
+          "price": 91196,
+          "change_24h": -0.66,
+          "change_7d": 4.19,
+          "market_cap": 1820789732191
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3213.44,
-          "change_24h": -0.81,
-          "change_7d": 7.28,
-          "market_cap": 388538029551
+          "price": 3148.18,
+          "change_24h": -2.03,
+          "change_7d": 5.97,
+          "market_cap": 380002934724
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 137.82,
-          "change_24h": -1.06,
-          "change_7d": 8.93,
-          "market_cap": 77764310082
+          "price": 135.34,
+          "change_24h": -1.45,
+          "change_7d": 8.47,
+          "market_cap": 76447254391
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.148607,
-          "change_24h": -1.57,
-          "change_7d": 20.96,
-          "market_cap": 25022847100
+          "price": 0.146781,
+          "change_24h": 1.33,
+          "change_7d": 24.48,
+          "market_cap": 24708011084
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.414323,
-          "change_24h": -1.95,
-          "change_7d": 18.42,
-          "market_cap": 15212880894
+          "price": 0.403053,
+          "change_24h": -0.52,
+          "change_7d": 20.9,
+          "market_cap": 14800204514
         }
       ]
     },
@@ -214,27 +214,7 @@
         {
           "name": "zkPass",
           "symbol": "ZKP",
-          "market_cap_rank": 883
-        },
-        {
-          "name": "Brevis",
-          "symbol": "BREV",
-          "market_cap_rank": 388
-        },
-        {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 118
-        },
-        {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 27
-        },
-        {
-          "name": "POL (ex-MATIC)",
-          "symbol": "POL",
-          "market_cap_rank": 81
+          "market_cap_rank": 770
         },
         {
           "name": "Bitcoin",
@@ -242,19 +222,39 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 218
+          "name": "Pepe",
+          "symbol": "PEPE",
+          "market_cap_rank": 50
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 29
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 120
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 6
+        },
+        {
+          "name": "Canton",
+          "symbol": "CC",
+          "market_cap_rank": 35
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 115
+          "market_cap_rank": 116
+        },
+        {
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 27
         },
         {
           "name": "XRP",
@@ -268,42 +268,50 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "US Stock Futures Mixed Ahead of Open; S&P 500 Down 0.1%, Dow Up 0.1%",
-          "summary": "U.S. futures showed mixed signals with S&P 500 contracts down 0.1% and Dow Jones futures up 0.1%, while European stocks were mixed, Stoxx Europe 600 up 0.1%, FTSE 100 down 0.3%. Asian markets closed mixed with Nikkei down 1.1% and Shanghai Composite up 0.1%.[1]",
-          "source": "Morningstar / Dow Jones Newswires",
-          "url": "https://www.morningstar.com/news/dow-jones/202601071437/us-futures-european-stocks-mixed"
+          "title": "Dow Jones Hits Record High at 49,462 as US Markets Climb",
+          "summary": "The Dow Jones Industrial Average rose about 1% to a fresh record of 49,462, while the S&P 500 gained 0.6% and Nasdaq Composite 0.7%, driven by tech shares and optimism on economic data. Early Wednesday trading saw S&P 500 and Dow set new intraday highs minutes after open.",
+          "source": "Share-Talk",
+          "url": "https://www.share-talk.com/what-happened-overnight-wednesday-7th-january-2026/"
         },
         {
-          "title": "S&P 500 Closes Up 0.62% on Tuesday; Wall Street Indices Higher",
-          "summary": "U.S. stocks rose Tuesday with the S&P 500 gaining 42.77 points or 0.62%, supported by broad market strength amid mixed economic signals. NASDAQ closed up 151 points at 23,547 with 60% of stocks rising.[3][4]",
-          "source": "Fully Informed / AIMS",
-          "url": "https://www.fullyinformed.com/stock-market-outlook-for-wed-jan-7-2026-higher/"
+          "title": "Asian Markets Mixed with Declines in Japan, Korea, China and Hong Kong",
+          "summary": "Nikkei 225 fell 0.9% to 52,041.97, Kospi dropped 0.5% to 4,503.23, Hang Seng lost 1% to 26,471.97, while Shanghai Composite rose 0.3% to 4,095.94 and S&P/ASX 200 gained 0.3%. Moves reflect caution amid global rate expectations and geopolitical risks.",
+          "source": "Share-Talk",
+          "url": "https://www.share-talk.com/what-happened-overnight-wednesday-7th-january-2026/"
         },
         {
-          "title": "Storage Stocks Surge: SanDisk +27.6%, Western Digital +16.8%, Seagate +14%",
-          "summary": "Storage sector rallied with SanDisk surging 27.56% on high bandwidth memory pricing tailwinds, Western Digital jumping 16.77%, and Seagate gaining 14% amid rotation into data infrastructure plays. Losers included SoFi -7.86% and AIG -7.48% on analyst downgrades.[2]",
-          "source": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/tech/nasdaq-wdc/western-digital/news/us-stock-market-today-sp-500-futures-edge-lower-as-growth-co"
+          "title": "US Markets Await Key Economic Data: ADP Employment, ISM Services PMI, JOLTs",
+          "summary": "Investors cautious ahead of ADP Employment Change, ISM Services PMI, and JOLTs Job Openings releases. US index futures largely flat, with Russell 2000 up 0.15% above 2,600 and Nasdaq 100 down 0.2%.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-7"
         },
         {
-          "title": "Germany Inflation at 1.8% Below ECB Target; US Services PMI Eases to 52.5",
-          "summary": "Germany's inflation slipped to 1.8%, under ECB's 2% target, lowering European bond yields, while US services PMI cooled to 52.5 and logistics index slowed, signaling potential moderation in growth momentum.[1][2]",
-          "source": "Morningstar / Simply Wall St",
-          "url": "https://www.morningstar.com/news/dow-jones/202601071437/us-futures-european-stocks-mixed"
+          "title": "Q4 Earnings Season Kicks Off with Constellation, Jefferies, Albertsons Reports",
+          "summary": "Earnings season begins today with reports from Constellation, Jefferies, and Albertsons. Markets show gains in healthcare, real estate, cyclicals, communication services, and industrials early Wednesday.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-7"
         },
         {
-          "title": "Oil Prices Fall: Brent -0.8% to $60.20, WTI -1.2% to $56.47",
-          "summary": "Commodities saw declines with Brent crude down 0.8% to $60.20 per barrel and WTI crude down 1.2% to $56.47, while European natural gas TTF rose 2.7% to 28.83 euros/MWh. Dollar Index edged up 0.1% to 96.03.[1]",
-          "source": "Morningstar / Dow Jones Newswires",
-          "url": "https://www.morningstar.com/news/dow-jones/202601071437/us-futures-european-stocks-mixed"
+          "title": "Brent Crude Eases on US Plans for Venezuelan Oil After Maduro Ousting",
+          "summary": "Brent crude declined as US expects to control 30-50 million barrels of sanctioned Venezuelan crude for market sale following Nicolás Maduro's ousting. WTI Crude down 0.81% to $56.66, natural gas up 2.69%.",
+          "source": "Share-Talk",
+          "url": "https://www.share-talk.com/what-happened-overnight-wednesday-7th-january-2026/"
+        },
+        {
+          "title": "Eurozone Inflation Slightly Below Estimates, EURUSD Rebounds",
+          "summary": "Eurozone inflation came in slightly below estimates, pushing EURUSD up 0.05% to around 1.169 after prior drop. Dollar index slipped 0.07% below 30-day EMA amid subdued FX volatility.",
+          "source": "XTB",
+          "url": "https://www.xtb.com/int/market-analysis/news-and-research/morning-wrap-07-01-2026"
         }
       ],
       "citations": [
-        "https://www.morningstar.com/news/dow-jones/202601071437/us-futures-european-stocks-mixed",
-        "https://simplywall.st/stocks/us/tech/nasdaq-wdc/western-digital/news/us-stock-market-today-sp-500-futures-edge-lower-as-growth-co",
+        "https://www.share-talk.com/what-happened-overnight-wednesday-7th-january-2026/",
+        "https://www.thestreet.com/latest-news/stock-market-today-jan-7",
+        "https://www.xtb.com/int/market-analysis/news-and-research/morning-wrap-07-01-2026",
+        "https://www.wiltonbulletin.com/news/world/article/asian-shares-trade-mixed-after-wall-street-hits-21280745.php",
         "https://www.fullyinformed.com/stock-market-outlook-for-wed-jan-7-2026-higher/",
         "https://aimsfx.com/2026/01/07/%F0%9F%97%9E%EF%B8%8F-market-recap-tue-06-jan-who-are-the-winners/"
       ]
@@ -313,30 +321,45 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Crypto Market Dips on Profit-Taking After Strong 2026 Start",
-          "summary": "The total crypto market capitalization slipped 0.8% to $3.27 trillion, with Bitcoin down 1.4% to $92,660. Altcoins saw steeper losses: Cardano fell 3.2% to $0.4118, Zcash declined 2.8% to $49.50, and Stellar dropped 4.7% to $0.2401, following profit-taking after early January gains.[1]",
-          "source": "crypto.news",
-          "url": "https://crypto.news/crypto-prices-today-january-7-btc-ada-xlm-zec-2026/"
+          "title": "Global Crypto Market Cap Drops 1.52% to $3.15T Amid Mixed Trading",
+          "summary": "Major cryptocurrencies traded mixed with Bitcoin down 1.59% to $91,987 after failing to break $94,500, while outperformers like BREV surged 604%. Ethereum held steady at $3,229 (+0.13%), but XRP fell 3.65% to $2.2573.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/01-07-2026-binance-market-update-crypto-market-trends-january-7-2026-34758147317186"
         },
         {
-          "title": "Bitcoin Faces Consolidation Amid Stable Leverage and Neutral Momentum",
-          "summary": "Analysts attribute the price pullback to profit-taking after Bitcoin's 7-8% climb from $88,000, with funding rates cooling and Bitcoin dominance below 59% signaling potential altcoin rotation. Fundstrat’s Tom Lee predicts a new all-time high by end of January.[1]",
-          "source": "crypto.news",
-          "url": "https://crypto.news/crypto-prices-today-january-7-btc-ada-xlm-zec-2026/"
+          "title": "Bitcoin Selloff Accelerates to $91,000 on Asia-Led Pressure",
+          "summary": "Bitcoin slid 3% over 24 hours to just above $91,000 after stalling below $94,500 during Asian trading, dragging altcoins and the CoinDesk 20 Index down nearly 4%. The rally halted mid-week amid broader market weakness.",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/01/07/crypto-markets-today-bitcoin-slides-as-asia-led-sell-off-hits-altcoins"
         },
         {
-          "title": "Bitcoin's 2025 Performance Raises 2026 Recovery Questions",
-          "summary": "Bitcoin fell about 5% in 2025 despite record highs earlier, driven by economic concerns and valuation worries, prompting analysis on its potential bounce back this year.[2]",
-          "source": "Nasdaq",
-          "url": "https://www.nasdaq.com/articles/can-bitcoin-bounce-back-2026-0"
+          "title": "Stanford Professor's Babylon Raises $15M for Bitcoin Collateral Protocol",
+          "summary": "Babylon, a decentralized protocol enabling Bitcoin collateralization without third-party custody, secured $15 million from a16z crypto. Founded by Stanford's David Tse, it aims to integrate with Aave in Q2 2026, competing with Coinbase and Tether.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/01/07/stanford-professor-raises-15-million-for-babylon/"
+        },
+        {
+          "title": "U.S. Senate Banking Committee Advances Cryptocurrency Regulation Bill",
+          "summary": "The Senate Banking Committee moved forward a key cryptocurrency regulation bill, marking a significant step in U.S. legislative efforts. This development highlights ongoing regulatory momentum amid market volatility.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/01-07-2026-binance-market-update-crypto-market-trends-january-7-2026-34758147317186"
+        },
+        {
+          "title": "Solana's Perpetual DEX Trading Volume Hits Record High in 2025",
+          "summary": "Solana achieved a record high in perpetual DEX trading volume for 2025, underscoring strong ecosystem growth despite a slight 0.09% price dip to $138.01. Perpetual contract funding rates showed minor improvement.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/01-07-2026-binance-market-update-crypto-market-trends-january-7-2026-34758147317186"
         }
       ],
       "citations": [
-        "https://crypto.news/crypto-prices-today-january-7-btc-ada-xlm-zec-2026/",
-        "https://www.nasdaq.com/articles/can-bitcoin-bounce-back-2026-0"
+        "https://www.binance.com/en/square/post/01-07-2026-binance-market-update-crypto-market-trends-january-7-2026-34758147317186",
+        "https://www.kitco.com/news/article/2026-01-07/bitcoin-january-7-daily-chart-alert-price-rally-stalls-mid-week",
+        "https://fortune.com/2026/01/07/stanford-professor-raises-15-million-for-babylon/",
+        "https://www.coindesk.com/markets/2026/01/07/crypto-markets-today-bitcoin-slides-as-asia-led-sell-off-hits-altcoins",
+        "https://www.coindesk.com/markets/2026/01/07/crypto-selloff-accelerates-sending-bitcoin-back-to-usd91-000"
       ]
     },
     "ai_news": {
@@ -344,56 +367,48 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "NVIDIA and Siemens Announce Industrial AI OS Partnership at CES 2026",
-          "summary": "NVIDIA and Siemens unveiled an Industrial AI OS featuring GPU-accelerated simulation tools promising 2× to 10× speed-ups, with a reference AI factory launching in 2026 at Siemens’ Erlangen site; partners include Foxconn and PepsiCo.",
-          "source": "eMagazine DirectIndustry",
-          "url": "https://emag.directindustry.com/2026/01/07/ces-2026-ai-nvidia-siemens-samsung-autonomous-industrial-innovation/"
+          "title": "Caterpillar Partners with NVIDIA for Physical AI and Robotics in Heavy Industry",
+          "summary": "Caterpillar announced a collaboration with NVIDIA at CES 2026 to integrate NVIDIA Jetson Thor for AI inference on construction and mining equipment, debuting the Cat AI Assistant for real-time insights and enabling autonomy features.[3][5]",
+          "source": "Caterpillar Investors / PRNewswire",
+          "url": "https://investors.caterpillar.com/news/news-details/2026/Caterpillar-Teams-With-NVIDIA-to-Revolutionize-Heavy-Industry-with-Physical-AI-and-Robotics/default.aspx"
         },
         {
-          "title": "ASUS Launches AI-Powered Copilot+ PCs at CES 2026",
-          "summary": "ASUS revealed new ProArt, Zenbook, Vivobook laptops, desktops, and the world’s first Snapdragon-powered AiO PC, featuring AMD Ryzen AI Max+ 395 processors capable of running 120B-parameter LLMs locally.",
-          "source": "AIT Authority",
+          "title": "AAEON Unveils BOXER-8742AI Edge AI System on NVIDIA Jetson T4000",
+          "summary": "At CES 2026, AAEON introduced the BOXER-8742AI, leveraging NVIDIA Blackwell architecture for 4x higher AI compute in fanless embedded systems ideal for smart factories, AMRs, and roadside units, with availability in Q2 2026.[4]",
+          "source": "Embedded Computing Design",
+          "url": "https://embeddedcomputing.com/technology/ai-machine-learning/ai-dev-tools-frameworks/ces-2026-aaeon-unveils-boxer-8742ai-built-on-nvidia-jetson-t4000"
+        },
+        {
+          "title": "ASUS Launches AI-Powered Copilot+ PCs Lineup at CES 2026",
+          "summary": "ASUS revealed new ProArt, Zenbook, Vivobook laptops, desktops, and the first Snapdragon-powered AiO PC with Copilot+ features, AMD Ryzen AI Max+ processors supporting 120B-parameter LLMs locally.[6]",
+          "source": "Aithority",
           "url": "https://aithority.com/machine-learning/asus-unveils-full-spectrum-ai-and-always-incredible-innovations-at-ces-2026/"
         },
         {
-          "title": "Nvidia CEO Jensen Huang Calls Robots 'AI Immigrants' to Solve Labor Shortages",
-          "summary": "At CES 2026, Huang argued robots will create jobs by addressing manufacturing labor shortages, emphasizing their role as 'AI immigrants' during a media session.",
-          "source": "Tech Xplore",
-          "url": "https://techxplore.com/news/2026-01-nvidia-ceo-robots-ai-immigrants.html"
+          "title": "Northeastern Researchers Develop RHYTHM AI for Predicting Human Movement",
+          "summary": "Northeastern University introduced RHYTHM, an LLM-based model using mobility data that outperforms competitors by 2.4-5% in accuracy, especially during irregular periods, with applications in disaster response.[2]",
+          "source": "Northeastern Global News",
+          "url": "https://news.northeastern.edu/2026/01/07/ai-prediction-human-movement/"
         },
         {
-          "title": "NVIDIA CEO Announces New Generation Processors in Full Production",
-          "summary": "Jensen Huang revealed at CES that NVIDIA's next-gen processors are in full production, signaling major AI hardware advancements for 2026.",
-          "source": "AI Magazine",
-          "url": "https://aimagazine.com/news/inside-jensen-huangs-next-ai-moves-as-nvidia-ceo"
-        },
-        {
-          "title": "Researchers Argue Quantum Computing Complements AI, Not Replaces It",
-          "summary": "Quantum computing and AI are complementary, with AI aiding quantum hardware optimization and quantum potentially accelerating AI subroutines like optimization; hype of replacement is dismissed.",
-          "source": "The Quantum Insider",
-          "url": "https://thequantuminsider.com/2026/01/07/quantum-computing-versus-ai-why-the-quantum-replaces-ai-hype-is-wrong-but-the-potential-of-quantum-ai-is-real/"
-        },
-        {
-          "title": "White House Sets FY27 R&D Priorities on AI and Quantum Innovation",
-          "summary": "The U.S. government formalizes AI and quantum as core to national research in health, energy, military, and industry, enabling predictive discovery and smart manufacturing.",
-          "source": "GovCon Wire",
-          "url": "https://www.govconwire.com/articles/chuck-brooks-govcon-expert-ai-quantum-innovation"
+          "title": "Agentic AI Predicted to Reach Consumer-Scale Adoption in 2026",
+          "summary": "A global survey indicates agentic AI will move from enterprise pilots to mass-market consumer adoption as early as 2026.[7]",
+          "source": "EE News Europe",
+          "url": "https://www.eenewseurope.com/en/agentic-ai-adoption-seen-reaching-consumer-scale-in-2026/"
         }
       ],
       "citations": [
-        "https://www.eenewseurope.com/en/agentic-ai-adoption-seen-reaching-consumer-scale-in-2026/",
-        "https://www.nasdaq.com/articles/2-unstoppable-artificial-intelligence-ai-stocks-buy-hand-over-fist-2026-and-1-avoid",
-        "https://www.insidehighered.com/opinion/columns/online-trending-now/2026/01/07/rise-agentic-ai-university-2026",
         "https://thequantuminsider.com/2026/01/07/quantum-computing-versus-ai-why-the-quantum-replaces-ai-hype-is-wrong-but-the-potential-of-quantum-ai-is-real/",
-        "https://emag.directindustry.com/2026/01/07/ces-2026-ai-nvidia-siemens-samsung-autonomous-industrial-innovation/",
+        "https://news.northeastern.edu/2026/01/07/ai-prediction-human-movement/",
+        "https://investors.caterpillar.com/news/news-details/2026/Caterpillar-Teams-With-NVIDIA-to-Revolutionize-Heavy-Industry-with-Physical-AI-and-Robotics/default.aspx",
+        "https://embeddedcomputing.com/technology/ai-machine-learning/ai-dev-tools-frameworks/ces-2026-aaeon-unveils-boxer-8742ai-built-on-nvidia-jetson-t4000",
+        "https://www.prnewswire.com/news-releases/caterpillar-teams-with-nvidia-to-revolutionize-heavy-industry-with-physical-ai-and-robotics-302655427.html",
         "https://aithority.com/machine-learning/asus-unveils-full-spectrum-ai-and-always-incredible-innovations-at-ces-2026/",
-        "https://www.govconwire.com/articles/chuck-brooks-govcon-expert-ai-quantum-innovation",
-        "https://techxplore.com/news/2026-01-nvidia-ceo-robots-ai-immigrants.html",
-        "https://www.edge-ai-vision.com/2026/01/edge-ai-and-vision-insights-january-7-2026-edition/",
-        "https://aimagazine.com/news/inside-jensen-huangs-next-ai-moves-as-nvidia-ceo"
+        "https://www.eenewseurope.com/en/agentic-ai-adoption-seen-reaching-consumer-scale-in-2026/",
+        "https://www.edge-ai-vision.com/2026/01/edge-ai-and-vision-insights-january-7-2026-edition/"
       ]
     },
     "gaming": {
@@ -404,42 +419,44 @@
       "count": 5,
       "items": [
         {
-          "title": "Xbox Game Pass Adds Multiple Surprise Titles on January 7 Including Atomfall and Little Nightmares Remaster",
-          "summary": "Xbox Game Pass launched several surprise games today, such as Atomfall, Lost in Random: The Eternal Die, Rematch, Warhammer 40,000: Space Marine – Master Crafted Edition, and Little Nightmares: Enhanced Edition. Additional titles like Final Fantasy, Star Wars Outlaws, and Resident Evil Village are slated for later in January.",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/news/xbox-game-pass-has-dropped-2-surprise-releases-for-january/"
+          "title": "Tatum Games and Glitch Announce Partnership to Boost Indie Game Discovery",
+          "summary": "Tatum Games and Glitch have partnered to redefine indie game growth by combining data analytics, marketing, and community-driven discovery. The collaboration provides developers with smarter exposure pathways and aligns games with engaged players.[4]",
+          "source": "EIN Presswire",
+          "url": "https://www.einpresswire.com/article/876262610/two-rising-forces-in-gaming-join-to-redefine-how-indie-games-grow"
         },
         {
-          "title": "Microsoft Game Pass January Wave Features Star Wars Outlaws and Resident Evil Village",
-          "summary": "Official Xbox announcement details January Game Pass additions including Atomfall on January 7, Final Fantasy on January 8, Star Wars Outlaws on January 13, and Resident Evil Village on January 20, available across cloud, console, PC, and handheld.",
-          "source": "Xbox News",
-          "url": "https://news.xbox.com/en-us/2026/01/06/xbox-game-pass-january-2026-wave-1/"
+          "title": "ustwo Games Shifts to 'PC-First' Studio After Monument Valley 3 Leaves Netflix",
+          "summary": "Monument Valley developer ustwo games is pivoting to a PC-first strategy following the unexpected removal of Monument Valley 3 from Netflix. The move seeks independence from platform strategy shifts by Netflix and Apple.[6]",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/monument-valley-dev-ustwo-becomes-pc-first-studio"
         },
         {
-          "title": "Rumor: Microsoft Plans Major Layoffs Impacting 11K-22K Employees Including Xbox Division",
-          "summary": "Reports from workers indicate Microsoft is eyeing significant January layoffs affecting Azure cloud, Xbox gaming, and global sales teams due to rising AI costs, though the company has not confirmed.",
-          "source": "NeoGAF",
-          "url": "https://www.neogaf.com/threads/microsoft-msft-eyes-major-january-layoffs-as-ai-costs-rise-11k-22k-to-go-azure-xbox-and-global-sales-impacted.1692014/"
+          "title": "NVIDIA Unveils G-Sync Pulsar and Gaming Tech Upgrades at CES 2026",
+          "summary": "At CES 2026 Day 1, NVIDIA announced G-Sync Pulsar to reduce motion blur for esports and gaming, plus 2nd Gen Super Resolution Transformer now available and Dynamic 6x Frame Generation coming in spring. Lenovo showcased gaming laptops and Razer revealed Project Madison immersion chair concept.[2]",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/big-tech/ces-2026-day-1-the-biggest-tech-news-and-gadgets-you-missed-from-the-first-official-day-of-the-show-144040174.html"
         },
         {
-          "title": "Threads Testing Chat-Based Basketball Game to Boost Engagement",
-          "summary": "Meta's Threads app is experimenting with a pixelated basketball mini-game in chats, allowing users to compete by swiping to score baskets, amid efforts to enhance direct messaging features and differentiate from competitors.",
-          "source": "MediaPost",
-          "url": "https://www.mediapost.com/publications/article/411808/"
+          "title": "Xbox Developer Direct Teased with Potential Fable, Forza, Gears, Halo Reveals",
+          "summary": "Reporter Jez Corden teases Xbox Developer Direct showcase featuring the 'four pillar franchises'—Fable, Forza Horizon 6, Gears of War: E-Day, Halo Campaign Evolved—plus a potential surprise. Playground Games confirmed to appear, setting tone for Xbox's 2026 lineup.[1]",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/01/xbox-reporter-teases-what-might-be-shown-at-developer-direct-including-a-potential-surprise"
         },
         {
-          "title": "Games Workshop Announces Warhammer Preview Show for January 16",
-          "summary": "Games Workshop scheduled a preview show on January 16 at 7:30PM GMT, promising new announcements for Age of Sigmar, Blood Bowl, Horus Heresy, and Warhammer 40,000.",
-          "source": "Goonhammer",
-          "url": "https://www.goonhammer.com/games-industry-news-roundup-january-6th-2026/"
+          "title": "Industry Outlook: Video Game 'Winter' Declared Over, Four Key Market Shifts for 2026",
+          "summary": "Games industry veteran Zoran Roso states the 'video game winter' is ending, highlighting four market shifts to watch in 2026 amid recovery and growth.[5]",
+          "source": "GamesMarkt",
+          "url": "https://www.gamesmarket.global/industry-outlook-the-video-game-winter-is-finally-over-now-what/"
         }
       ],
       "citations": [
-        "https://www.videogameschronicle.com/news/xbox-game-pass-has-dropped-2-surprise-releases-for-january/",
-        "https://news.xbox.com/en-us/2026/01/06/xbox-game-pass-january-2026-wave-1/",
-        "https://www.neogaf.com/threads/microsoft-msft-eyes-major-january-layoffs-as-ai-costs-rise-11k-22k-to-go-azure-xbox-and-global-sales-impacted.1692014/",
-        "https://www.mediapost.com/publications/article/411808/",
-        "https://www.goonhammer.com/games-industry-news-roundup-january-6th-2026/"
+        "https://www.purexbox.com/news/2026/01/xbox-reporter-teases-what-might-be-shown-at-developer-direct-including-a-potential-surprise",
+        "https://www.engadget.com/big-tech/ces-2026-day-1-the-biggest-tech-news-and-gadgets-you-missed-from-the-first-official-day-of-the-show-144040174.html",
+        "https://xboxera.com/2026/01/07/the-year-ahead-the-biggest-games-of-2026/2/",
+        "https://www.einpresswire.com/article/876262610/two-rising-forces-in-gaming-join-to-redefine-how-indie-games-grow",
+        "https://www.gamesmarket.global/industry-outlook-the-video-game-winter-is-finally-over-now-what/",
+        "https://www.gamedeveloper.com/business/monument-valley-dev-ustwo-becomes-pc-first-studio",
+        "https://www.youtube.com/watch?v=cpgDgHWPrlc"
       ]
     },
     "tech_news": {
@@ -447,58 +464,63 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 8,
       "items": [
         {
-          "title": "Intel Unveils Core Ultra Series 3 Processors at CES 2026",
-          "summary": "Intel announced the Core Ultra Series 3 processors, featuring up to 15% better performance per watt and 30% better chip density with Intel 18A process. The company is emphasizing U.S. investments and a new era of local computing capabilities.",
+          "title": "NVIDIA Unveils G-Sync Pulsar and DLSS 4.5 at CES 2026",
+          "summary": "NVIDIA announced G-Sync Pulsar, an advanced VRR technology for monitors, with first models from Acer, AOC, ASUS, and MSI launching January 7 featuring 27-inch 1440p IPS panels at 360Hz. DLSS 4.5 introduces improved Super Resolution and Dynamic Multi Frame Generation for enhanced gaming performance.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/big-tech/ces-2026-day-1-the-biggest-tech-news-and-gadgets-you-missed-from-the-first-official-day-of-the-show-144040174.html"
+        },
+        {
+          "title": "Qualcomm Reveals Snapdragon X2 Elite and X2 Plus Chips at CES",
+          "summary": "Qualcomm showcased the Snapdragon X2 Elite high-performance laptop chip and more affordable Snapdragon X2 Plus, promising better battery life and performance, with upcoming laptops from Lenovo, Asus, and Dell.",
           "source": "Tom's Guide",
           "url": "https://www.tomsguide.com/news/live/ces-2026-live-latest-news"
         },
         {
-          "title": "AMD Launches Ryzen AI Processors and Ryzen 7 9850X3D Gaming CPU",
-          "summary": "AMD revealed a new lineup of Ryzen AI processors for on-device acceleration in consumer laptops and the Ryzen 7 9850X3D cache-stacked gaming CPU targeting higher frame rates. CEO Lisa Su highlighted partnerships and data center chips during CES.",
-          "source": "MobileAppDaily",
-          "url": "https://www.mobileappdaily.com/news/ces-2026-day-1-announcements"
+          "title": "Intel Launches Core Ultra Series 3 Processors with Enhanced Efficiency",
+          "summary": "Intel introduced Core Ultra Series 3 chips offering up to 15% better performance per watt and 30% higher chip density, emphasizing U.S. manufacturing investments and Intel 18A process.",
+          "source": "Tom's Guide",
+          "url": "https://www.tomsguide.com/news/live/ces-2026-live-latest-news"
         },
         {
-          "title": "Qualcomm Showcases Snapdragon X2 Series Chips for Laptops",
-          "summary": "Qualcomm is demonstrating the Snapdragon X2 Elite and more affordable Snapdragon X2 Plus chips at CES 2026, promising improved battery life and performance for upcoming laptops from Lenovo, Asus, and Dell.",
+          "title": "Samsung Showcases Creaseless Foldable Screen and Galaxy Book6 Laptops",
+          "summary": "Samsung revealed a creaseless foldable display hinting at future devices like iPhone Fold and new Galaxy Book6 laptops powered by Intel tech aimed at competing with Apple.",
           "source": "TechRadar",
           "url": "https://www.techradar.com/news/live/ces-2026-live-all-the-latest-news-from-the-worlds-biggest-tech-show"
         },
         {
-          "title": "Hisense, TCL, and Philips Announce Dolby Vision 2 Support",
-          "summary": "The first TV brands supporting Dolby Vision 2, the next-generation HDR format, are Hisense, TCL, and Philips, with compatible models launching this year as revealed at CES 2026.",
+          "title": "Lenovo Announces ThinkBook Plus Gen 7 Auto Twist Laptop",
+          "summary": "Lenovo introduced the ThinkBook Plus Gen 7 Auto Twist with a motorized display that tracks users during calls using a 10MP webcam, Intel Core Ultra Series 3, up to 32GB RAM, starting at $1,649 in June.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/big-tech/ces-2026-day-1-the-biggest-tech-news-and-gadgets-you-missed-from-the-first-official-day-of-the-show-144040174.html"
+        },
+        {
+          "title": "Samsung Outlines Bespoke AI 2026 Home Appliances Vision",
+          "summary": "Samsung detailed its Bespoke AI appliances as 'Home Companions' connected via SmartThings, using Bixby, screens, and cameras for proactive user adaptation across appliances, TVs, and mobiles.",
+          "source": "Samsung Newsroom",
+          "url": "https://news.samsung.com/global/connected-comprehension-inside-samsungs-2026-ai-home"
+        },
+        {
+          "title": "Hisense, TCL, and Philips Confirm Dolby Vision 2 Support in 2026 TVs",
+          "summary": "The first TV brands supporting Dolby Vision 2, the next HDR format evolution, are Hisense, TCL, and Philips, announced at CES 2026 for upcoming models.",
           "source": "TechRadar",
           "url": "https://www.techradar.com/news/live/ces-2026-live-all-the-latest-news-from-the-worlds-biggest-tech-show"
         },
         {
-          "title": "HP Introduces EliteBoard G1a All-in-One Keyboard PC",
-          "summary": "HP unveiled the EliteBoard G1a, a slim 12mm-thick keyboard housing an AMD Ryzen AI 300 series chip, built-in speakers, dual mics, and a user-replaceable battery, showcased at CES 2026.",
+          "title": "Boston Dynamics Plans Atlas Humanoid Robot for Workforce in 2028",
+          "summary": "Boston Dynamics announced its Atlas humanoid robot will enter the workforce in 2028 following years of stress-test demonstrations.",
           "source": "TechRadar",
           "url": "https://www.techradar.com/news/live/ces-2026-live-all-the-latest-news-from-the-worlds-biggest-tech-show"
-        },
-        {
-          "title": "Samsung Reveals Galaxy Book 6 Powerhouse Laptop",
-          "summary": "Samsung announced the Galaxy Book 6 laptop with Intel's latest chip architecture, capable of up to 30 hours of video playback, highlighted among powerful computing machines at CES 2026.",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/news/live/ces-2026-live-all-the-latest-news-from-the-worlds-biggest-tech-show"
-        },
-        {
-          "title": "Lenovo Showcases Intuitive Laptops and AI-Powered Monitors at CES",
-          "summary": "Lenovo rolled out new intuitive laptops and monitors with assistance features during CES 2026, setting the stage for upcoming Snapdragon-powered devices.",
-          "source": "Cybernews",
-          "url": "https://cybernews.com/tech/ces-2026-live-breaking-news-major-reveals/"
         }
       ],
       "citations": [
+        "https://www.engadget.com/big-tech/ces-2026-day-1-the-biggest-tech-news-and-gadgets-you-missed-from-the-first-official-day-of-the-show-144040174.html",
         "https://www.tomsguide.com/news/live/ces-2026-live-latest-news",
-        "https://www.mobileappdaily.com/news/ces-2026-day-1-announcements",
-        "https://www.youtube.com/watch?v=Jt2GhsQa9iU",
         "https://www.techradar.com/news/live/ces-2026-live-all-the-latest-news-from-the-worlds-biggest-tech-show",
-        "https://cybernews.com/tech/ces-2026-live-breaking-news-major-reveals/",
-        "https://www.youtube.com/watch?v=JmEh_B-QeQw"
+        "https://news.samsung.com/global/connected-comprehension-inside-samsungs-2026-ai-home",
+        "https://www.youtube.com/watch?v=AoI_uEvNeIA"
       ]
     }
   }
