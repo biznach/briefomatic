@@ -1,25 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-01-08 06:07 UTC*
+*Generated: 2026-01-08 12:08 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The S&P 500 slipped 0.3% from its latest all-time high, while the Nasdaq composite rose 0.2%. Bitcoin trades around $91,000, pushing total crypto market capitalization back above $3 trillion. Major altcoins, such as Solana and BNB, have extended their early-2026 gains. The US Treasury yields fluctuated after mixed economic data, and the Federal Reserve is expected to hold rates at its next meeting.
+1. **Market Overview**: Global equities are mixed, with the Nikkei 225 dropping 1.6% due to China's export controls and tech weakness. The S&P 500 fell 0.3% from a record high, while the Dow Jones Industrial Average dropped 0.9%. The US dollar index inched up 0.1% as markets reassess the odds of near-term Fed rate cuts. Bitcoin slipped back toward $90K, with net outflows from US spot BTC ETFs reaching $480M.
 
-2. **Tech & AI**: Notable tech developments include the introduction of Project Patchouli, an open-source electromagnetic drawing tablet hardware, and the announcement that Chase will become the new issuer of the Apple Card. Additionally, there have been discussions on kernel bugs, biometric surveillance, and the importance of secure data handling.
+2. **Tech & AI**: Notable tech developments include the launch of Zhipu, a Chinese AI company, which surged 15% on its debut. SoftBank Group posted a 7.6% drop amid a broader pullback in AI and chip names. Google has reportedly edged ahead of OpenAI, with its market value reaching $3.89 trillion. Additionally, there are concerns about AI missing nearly one-third of breast cancers, according to a study.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, a mention of the virtual AmigaOS runtime and a MUD game called Aardwolf can be found.
+3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, Warner Bros. Discovery rejected a revised Paramount bid and backed Netflix's offer in a media deal battle.
 
 4. **Key Insights**:
-* The crypto market is showing signs of recovery, with Bitcoin trading around $91,000 and major altcoins extending their gains.
-* The US Federal Reserve is expected to hold rates at its next meeting, with traders assigning low odds to a January rate cut.
-* Biometric surveillance is becoming a growing concern, with companies like Wegmans facing backlash for their use of facial recognition technology.
-* Token unlocks for projects like Ondo, Sei, and Plume are scheduled for January, which may impact their respective ecosystems.
-* The sugar industry's influence on research and its impact on national heart disease focus has been a topic of discussion.
+* The global crypto market cap hovers around $3.07T, with majors trading mixed.
+* US equity futures edge lower after a prior session decline, with Alphabet standing out as a notable outperformer.
+* The US will ban large institutional investors from buying single-family homes, according to President Trump.
+* Oil slips to $60 as the US moves to import Venezuelan crude, reshaping expectations for global supply flows.
+* Defense stocks rally on Trump's spending plan, with BAE Systems and Leonardo gaining 5.8% and 4.4%, respectively.
 
-5. **Watch List**:
-* Bitcoin and major altcoin price movements
-* US Federal Reserve's interest rate decisions
-* Developments in biometric surveillance and data handling
-* Token unlocks for Ondo, Sei, Plume, and other projects
-* The impact of the sugar industry's influence on research and national health policies
+5. **Watch List**: Items to monitor in the coming days include:
+* The nonfarm payrolls report and weekly jobless claims for further policy signals from the Fed.
+* The impact of China's export controls on Japan and the global economy.
+* The development of the media deal battle between Warner Bros. Discovery, Netflix, and Paramount.
+* The performance of AI and chip stocks in Japan and globally.
+* The price movements of major cryptocurrencies, including Bitcoin and Ethereum.
