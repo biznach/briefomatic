@@ -1,25 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-01-08 12:08 UTC*
+*Generated: 2026-01-08 18:06 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: Global equities are mixed, with the Nikkei 225 dropping 1.6% due to China's export controls and tech weakness. The S&P 500 fell 0.3% from a record high, while the Dow Jones Industrial Average dropped 0.9%. The US dollar index inched up 0.1% as markets reassess the odds of near-term Fed rate cuts. Bitcoin slipped back toward $90K, with net outflows from US spot BTC ETFs reaching $480M.
+1. **Market Overview**: The S&P 500 is hovering near record highs, with defense stocks rallying on higher spending outlook. The Dow Jones and Nasdaq have slipped, while global equity markets have edged lower due to U.S. policy shifts and Venezuela tensions. Bitcoin has recovered above $90,000, with the total cryptocurrency market capitalization reaching $3 trillion.
 
-2. **Tech & AI**: Notable tech developments include the launch of Zhipu, a Chinese AI company, which surged 15% on its debut. SoftBank Group posted a 7.6% drop amid a broader pullback in AI and chip names. Google has reportedly edged ahead of OpenAI, with its market value reaching $3.89 trillion. Additionally, there are concerns about AI missing nearly one-third of breast cancers, according to a study.
+2. **Tech & AI**: Bose is open-sourcing its old smart speakers, while Project Patchouli is developing open-source electromagnetic drawing tablet hardware. ChatGPT Health has been introduced, and Chinese AI models have lagged behind the U.S. frontier by 7 months on average since 2023. Japan's Nikkei has been hit by a tech and AI pullback.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, Warner Bros. Discovery rejected a revised Paramount bid and backed Netflix's offer in a media deal battle.
+3. **Gaming & Entertainment**: No notable gaming news has been reported in the provided data.
 
 4. **Key Insights**:
-* The global crypto market cap hovers around $3.07T, with majors trading mixed.
-* US equity futures edge lower after a prior session decline, with Alphabet standing out as a notable outperformer.
-* The US will ban large institutional investors from buying single-family homes, according to President Trump.
-* Oil slips to $60 as the US moves to import Venezuelan crude, reshaping expectations for global supply flows.
-* Defense stocks rally on Trump's spending plan, with BAE Systems and Leonardo gaining 5.8% and 4.4%, respectively.
+* The S&P 500 is near record highs, driven by defense stocks and strong labor data.
+* Bitcoin has recovered above $90,000, with the total cryptocurrency market capitalization reaching $3 trillion.
+* The SEC is expected to issue exemptive relief for crypto securities trading in Q1 2026.
+* Chinese AI models have lagged behind the U.S. frontier by 7 months on average since 2023.
+* Global equity markets have edged lower due to U.S. policy shifts and Venezuela tensions.
 
-5. **Watch List**: Items to monitor in the coming days include:
-* The nonfarm payrolls report and weekly jobless claims for further policy signals from the Fed.
-* The impact of China's export controls on Japan and the global economy.
-* The development of the media deal battle between Warner Bros. Discovery, Netflix, and Paramount.
-* The performance of AI and chip stocks in Japan and globally.
-* The price movements of major cryptocurrencies, including Bitcoin and Ethereum.
+5. **Watch List**: 
+* U.S. index futures and global equity markets
+* Bitcoin and cryptocurrency market capitalization
+* SEC developments on crypto securities trading
+* Defense stocks and U.S. policy shifts
+* Venezuela tensions and their impact on global markets
