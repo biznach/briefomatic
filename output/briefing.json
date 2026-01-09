@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T18:06:48.982578+00:00",
-  "generated_at_human": "2026-01-08 18:06 UTC",
+  "generated_at": "2026-01-09T00:20:33.699442+00:00",
+  "generated_at_human": "2026-01-09 00:20 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "How to Code Claude Code in 200 Lines of Code",
+          "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+          "score": 252,
+          "comments": 132
+        },
+        {
+          "title": "Embassy: Modern embedded framework, using Rust and async",
+          "url": "https://github.com/embassy-rs/embassy",
+          "score": 43,
+          "comments": 10
+        },
+        {
+          "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
+          "url": "https://github.com/samuel-vitorino/sopro",
+          "score": 107,
+          "comments": 48
+        },
+        {
+          "title": "Iran Protest Map",
+          "url": "https://pouyaii.github.io/Iran/",
+          "score": 124,
+          "comments": 54
+        },
+        {
           "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
           "url": "https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source",
-          "score": 1140,
-          "comments": 185
+          "score": 2037,
+          "comments": 306
+        },
+        {
+          "title": "The Unreasonable Effectiveness of the Fourier Transform",
+          "url": "https://joshuawise.com/resources/ofdm/",
+          "score": 118,
+          "comments": 52
         },
         {
           "title": "The Jeff Dean Facts",
           "url": "https://github.com/LRitzdorf/TheJeffDeanFacts",
-          "score": 232,
-          "comments": 88
+          "score": 377,
+          "comments": 135
         },
         {
-          "title": "Iran Goes Into IPv6 Blackout",
-          "url": "https://radar.cloudflare.com/routing/ir",
-          "score": 81,
-          "comments": 17
+          "title": "Google AI Studio is now sponsoring Tailwind CSS",
+          "url": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
+          "score": 391,
+          "comments": 140
         },
         {
-          "title": "Lights and Shadows (2020)",
-          "url": "https://ciechanow.ski/lights-and-shadows/",
-          "score": 185,
-          "comments": 24
+          "title": "AI coding assistants are getting worse?",
+          "url": "https://spectrum.ieee.org/ai-coding-degrades",
+          "score": 194,
+          "comments": 295
         },
         {
-          "title": "I used Lego to design a farm for people who are blind – like me",
-          "url": "https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o",
-          "score": 43,
-          "comments": 3
+          "title": "Show HN: macOS menu bar app to track Claude usage in real time",
+          "url": "https://github.com/richhickson/claudecodeusage",
+          "score": 69,
+          "comments": 30
         },
         {
-          "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
-          "url": "https://patchouli.readthedocs.io/en/latest/",
-          "score": 380,
-          "comments": 41
+          "title": "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
+          "url": "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/",
+          "score": 72,
+          "comments": 18
         },
         {
-          "title": "Show HN: DeepDream for Video with Temporal Consistency",
-          "url": "https://github.com/jeremicna/deepdream-video-pytorch",
-          "score": 42,
-          "comments": 13
+          "title": "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi",
+          "url": "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/",
+          "score": 37,
+          "comments": 12
         },
         {
-          "title": "Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers",
-          "url": "https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer",
+          "title": "Mux (YC W16) is hiring a platform engineer that cares about (internal) DX",
+          "url": "https://www.mux.com/jobs",
           "score": 1,
           "comments": 0
         },
         {
-          "title": "A closer look at a BGP anomaly in Venezuela",
-          "url": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
-          "score": 310,
-          "comments": 158
+          "title": "Show HN: A geofence-based social network app 6 years in development",
+          "url": "https://www.localvideoapp.com",
+          "score": 25,
+          "comments": 10
         },
         {
-          "title": "Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space",
-          "url": "https://arxiv.org/abs/2512.24617",
-          "score": 10,
-          "comments": 1
+          "title": "Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes",
+          "url": "https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html",
+          "score": 56,
+          "comments": 12
         },
         {
-          "title": "Open Infrastructure Map",
-          "url": "https://openinframap.org",
-          "score": 329,
-          "comments": 79
-        },
-        {
-          "title": "Japanese electronics store pleads for old PCs amid ongoing hardware shortage",
-          "url": "https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet",
-          "score": 84,
-          "comments": 43
-        },
-        {
-          "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
-          "url": "https://pebblebed.com/blog/kernel-bugs",
-          "score": 255,
-          "comments": 128
-        },
-        {
-          "title": "Eat Real Food",
-          "url": "https://realfood.gov",
-          "score": 1061,
-          "comments": 1452
-        },
-        {
-          "title": "The Napoleon Technique: Postponing things to increase productivity",
-          "url": "https://effectiviology.com/napoleon/",
-          "score": 191,
-          "comments": 101
-        },
-        {
-          "title": "The price of fame? Mortality risk among famous singers",
-          "url": "https://jech.bmj.com/content/early/2025/11/30/jech-2025-224589",
-          "score": 36,
-          "comments": 30
-        },
-        {
-          "title": "Shipmap.org",
-          "url": "https://www.shipmap.org/",
-          "score": 736,
-          "comments": 112
-        },
-        {
-          "title": "ICE's Tool to Monitor Phones in Neighborhoods",
-          "url": "https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/",
-          "score": 133,
-          "comments": 81
-        },
-        {
-          "title": "Signals vs. Query-Based Compilers",
-          "url": "https://marvinh.dev/blog/signals-vs-query-based-compilers/",
-          "score": 13,
-          "comments": 1
+          "title": "Pole of Inaccessibility",
+          "url": "https://en.wikipedia.org/wiki/Pole_of_inaccessibility",
+          "score": 15,
+          "comments": 6
         },
         {
           "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
           "url": "https://sakana.ai/drq/",
-          "score": 13,
-          "comments": 1
+          "score": 86,
+          "comments": 7
         },
         {
-          "title": "Our Changing Planet, as Seen from Space",
-          "url": "https://e360.yale.edu/digest/nasa-satellite-images-2025",
-          "score": 39,
-          "comments": 0
+          "title": "PgX – Debug Postgres performance in the context of your application code",
+          "url": "https://docs.base14.io/blog/introducing-pgx/",
+          "score": 14,
+          "comments": 3
         },
         {
-          "title": "Chinese AI models have lagged the US frontier by 7 months on average since 2023",
-          "url": "https://epoch.ai/data-insights/us-vs-china-eci",
-          "score": 11,
-          "comments": 8
+          "title": "Lights and Shadows (2020)",
+          "url": "https://ciechanow.ski/lights-and-shadows/",
+          "score": 219,
+          "comments": 30
         },
         {
-          "title": "Go.sum is not a lockfile",
-          "url": "https://words.filippo.io/gosum/",
-          "score": 143,
-          "comments": 64
+          "title": "Support for the TSO memory model on Arm CPUs (2024)",
+          "url": "https://lwn.net/Articles/970907/",
+          "score": 19,
+          "comments": 14
         },
         {
-          "title": "Tailscale state file encryption no longer enabled by default",
-          "url": "https://tailscale.com/changelog",
-          "score": 336,
-          "comments": 131
+          "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
+          "url": "https://patchouli.readthedocs.io/en/latest/",
+          "score": 416,
+          "comments": 48
         },
         {
-          "title": "ChatGPT Health",
-          "url": "https://openai.com/index/introducing-chatgpt-health/",
-          "score": 400,
-          "comments": 575
+          "title": "I used Lego to design a farm for people who are blind – like me",
+          "url": "https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o",
+          "score": 95,
+          "comments": 33
+        },
+        {
+          "title": "A closer look at a BGP anomaly in Venezuela",
+          "url": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
+          "score": 369,
+          "comments": 200
+        },
+        {
+          "title": "IBM AI ('Bob') Downloads and Executes Malware",
+          "url": "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware",
+          "score": 223,
+          "comments": 105
+        },
+        {
+          "title": "Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots",
+          "url": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way",
+          "score": 20,
+          "comments": 6
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 91219,
-          "change_24h": 0.03,
-          "change_7d": 3.81,
-          "market_cap": 1822799569389
+          "price": 91007,
+          "change_24h": -0.06,
+          "change_7d": 2.57,
+          "market_cap": 1818721892292
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3126.12,
-          "change_24h": -0.7,
-          "change_7d": 4.64,
-          "market_cap": 377851949828
+          "price": 3105.3,
+          "change_24h": -1.6,
+          "change_7d": 3.59,
+          "market_cap": 375293663222
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 138.44,
-          "change_24h": 2.37,
-          "change_7d": 11.41,
-          "market_cap": 78095436029
+          "price": 138.41,
+          "change_24h": 1.71,
+          "change_7d": 9.21,
+          "market_cap": 78076021561
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.142837,
-          "change_24h": -2.65,
-          "change_7d": 15.03,
-          "market_cap": 24038213442
+          "price": 0.142065,
+          "change_24h": -2.8,
+          "change_7d": 12.13,
+          "market_cap": 23884182314
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.396289,
-          "change_24h": -1.73,
-          "change_7d": 13.93,
-          "market_cap": 14545748457
+          "price": 0.395906,
+          "change_24h": -1.16,
+          "change_7d": 11.12,
+          "market_cap": 14514022044
         }
       ]
     },
@@ -214,12 +214,32 @@
         {
           "name": "Zcash",
           "symbol": "ZEC",
-          "market_cap_rank": 27
+          "market_cap_rank": 26
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 219
         },
         {
           "name": "Brevis",
           "symbol": "BREV",
-          "market_cap_rank": 442
+          "market_cap_rank": 437
+        },
+        {
+          "name": "pippin",
+          "symbol": "PIPPIN",
+          "market_cap_rank": 189
+        },
+        {
+          "name": "Canton",
+          "symbol": "CC",
+          "market_cap_rank": 35
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 6
         },
         {
           "name": "Bitcoin",
@@ -227,39 +247,19 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 115
-        },
-        {
-          "name": "The White Whale",
-          "symbol": "WHITEWHALE",
-          "market_cap_rank": 422
-        },
-        {
-          "name": "Virtuals Protocol",
-          "symbol": "VIRTUAL",
-          "market_cap_rank": 121
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 118
-        },
-        {
-          "name": "Monero",
-          "symbol": "XMR",
-          "market_cap_rank": 22
-        },
-        {
           "name": "Bittensor",
           "symbol": "TAO",
-          "market_cap_rank": 49
+          "market_cap_rank": 50
         },
         {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 26
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 31
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         }
       ]
     },
@@ -268,62 +268,38 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 4,
       "items": [
         {
-          "title": "U.S. stocks drift near record highs as defense sector rallies",
-          "summary": "The S&P 500 traded about 0.1% lower in midday action, hovering near its all‑time high set earlier in the week, while the Dow Jones also slipped as broader Wall Street mostly moved sideways; defense stocks outperformed, extending recent gains.",
-          "source": "Pittsburgh Post-Gazette (AP market wrap)",
-          "url": "https://www.post-gazette.com/business/money/2026/01/08/stock-market-today-jan-8-2026/stories/202601080073"
+          "title": "US Stock Indexes Close Mixed on Thursday as Defense Stocks Rally",
+          "summary": "The S&P 500 rose less than 0.1%, the Dow gained 0.6%, and the Nasdaq fell 0.4% on January 8, 2026. Defense contractors including Northrop Grumman, Lockheed Martin, and L3Harris Technologies led gains following President Trump's announcement of plans to increase U.S. defense spending sharply.",
+          "source": "Barchart",
+          "url": "https://www.barchart.com/story/news/36957058/how-major-us-stock-indexes-fared-thursday-1-8-2026"
         },
         {
-          "title": "Global equity markets edge lower as investors digest U.S. policy shifts and Venezuela tensions",
-          "summary": "Global markets, including U.S. futures, European indexes, and major Asian benchmarks, traded slightly lower as investors weighed U.S. policy developments under President Trump and geopolitical moves by Venezuela, with defense shares in Europe bucking the trend and rising.",
-          "source": "Morningstar / Dow Jones Newswires",
-          "url": "https://www.morningstar.com/news/dow-jones/202601082104/global-markets-edge-lower-as-investors-weigh-venezuela-moves-trump-policy-shifts"
+          "title": "Energy and Industrial Stocks Drive Market as Traders Await Jobs Report",
+          "summary": "Energy stocks and industrials led major indices on January 8 amid geopolitical concerns over Iran's pipeline strikes and potential supply shocks. Traders remained cautious ahead of Friday's nonfarm payroll report, the first major macroeconomic data point of 2026.",
+          "source": "MarketPulse",
+          "url": "https://www.marketpulse.com/markets/market-wrap-jan-8-2026/"
         },
         {
-          "title": "U.S. index futures soften after prior session declines in Dow and S&P 500",
-          "summary": "U.S. S&P 500 futures slipped about 0.1% and Dow futures about 0.2% following a prior session in which the Dow fell roughly 0.9% from record levels and the S&P 500 also declined, while Nasdaq futures were marginally lower despite strength in select mega‑cap tech names.",
-          "source": "Morningstar / Dow Jones Newswires",
-          "url": "https://www.morningstar.com/news/dow-jones/202601082104/global-markets-edge-lower-as-investors-weigh-venezuela-moves-trump-policy-shifts"
+          "title": "S&P 500 Gains 1.1% Year-to-Date; Russell 2000 Outperforms with 4.9% Gain",
+          "summary": "Through January 8, 2026, the S&P 500 is up 1.1% for the year, the Dow has gained 2.5%, and the Russell 2000 index of smaller companies has surged 4.9%, indicating strong performance from smaller-cap equities.",
+          "source": "Barchart",
+          "url": "https://www.barchart.com/story/news/36957058/how-major-us-stock-indexes-fared-thursday-1-8-2026"
         },
         {
-          "title": "European and Asian stocks slip, with Japan’s Nikkei hit by tech and AI pullback",
-          "summary": "European markets opened mostly lower, tracking weaker U.S. and Asian sentiment, while Japan’s Nikkei 225 fell about 1.6% amid a sharp drop in AI and chip-related names such as SoftBank, and Hong Kong’s Hang Seng and China’s Shanghai Composite also posted modest declines.",
-          "source": "Morningstar / Dow Jones Newswires",
-          "url": "https://www.morningstar.com/news/dow-jones/202601082104/global-markets-edge-lower-as-investors-weigh-venezuela-moves-trump-policy-shifts"
-        },
-        {
-          "title": "Defense stocks rally in U.S. and Europe on higher spending outlook despite U.S. buyback concerns",
-          "summary": "Defense companies in Europe and the U.S. rallied as investors reacted to President Trump’s call for U.S. defense spending to reach around $1.5 trillion, with names like BAE Systems and Leonardo leading gains in Europe, even as U.S. defense stocks had retreated the prior day on proposed limits to share buybacks.",
-          "source": "Morningstar / Dow Jones Newswires",
-          "url": "https://www.morningstar.com/news/dow-jones/202601082104/global-markets-edge-lower-as-investors-weigh-venezuela-moves-trump-policy-shifts"
-        },
-        {
-          "title": "Alphabet gains push valuation near $3.9 trillion despite weaker Nasdaq futures",
-          "summary": "Alphabet shares rose about 2.4% in the prior U.S. session, lifting its market value to roughly $3.89 trillion and supporting the Nasdaq, even as Nasdaq 100 futures traded slightly down alongside broader market softness.",
-          "source": "Morningstar / Dow Jones Newswires",
-          "url": "https://www.morningstar.com/news/dow-jones/202601082104/global-markets-edge-lower-as-investors-weigh-venezuela-moves-trump-policy-shifts"
-        },
-        {
-          "title": "Dollar firms as traders scale back near-term Fed rate cut expectations ahead of jobs data",
-          "summary": "The U.S. dollar index ticked higher after midweek economic data gave markets little impetus to price an additional near-term Federal Reserve rate cut, with attention turning to weekly jobless claims and the upcoming nonfarm payrolls report as Fed Governor Stephen Miran prepares to speak.",
-          "source": "Morningstar / Dow Jones Newswires",
-          "url": "https://www.morningstar.com/news/dow-jones/202601082104/global-markets-edge-lower-as-investors-weigh-venezuela-moves-trump-policy-shifts"
-        },
-        {
-          "title": "S&P 500 hovers near record as investors weigh strong labor data against Fed rate-cut timing",
-          "summary": "After a recent pullback, the S&P 500 remained close to record territory, with traders watching robust U.S. labor indicators that could delay the first Fed rate cut of the year, keeping volatility subdued but capping further equity upside for now.",
-          "source": "Trading Economics / Market commentary",
+          "title": "S&P 500 Up 18.8% Year-Over-Year as Labor Market Data Looms",
+          "summary": "The S&P 500 closed at 6,923 points on January 8, up 18.8% compared to the same period last year and 1.2% over the past month. Investors are focused on upcoming weekly jobless claims and December employment reports for insights into Federal Reserve policy.",
+          "source": "Trading Economics",
           "url": "https://tradingeconomics.com/united-states/stock-market"
         }
       ],
       "citations": [
+        "https://www.barchart.com/story/news/36957058/how-major-us-stock-indexes-fared-thursday-1-8-2026",
         "https://tradingeconomics.com/united-states/stock-market",
-        "https://www.litefinance.org/blog/analysts-opinions/spx-forecast-price-prediction/sp-500-braces-for-earthquake-forecast-as-of-08012026/",
-        "https://www.morningstar.com/news/dow-jones/202601082104/global-markets-edge-lower-as-investors-weigh-venezuela-moves-trump-policy-shifts",
-        "https://www.post-gazette.com/business/money/2026/01/08/stock-market-today-jan-8-2026/stories/202601080073"
+        "https://www.marketpulse.com/markets/market-wrap-jan-8-2026/",
+        "https://www.nasdaq.com/articles/stock-market-news-jan-8-2026"
       ]
     },
     "crypto_news": {
@@ -331,58 +307,46 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 5,
       "items": [
         {
-          "title": "Bitcoin Recovers Above $90,000 as Crypto Market Cap Reaches $3 Trillion",
-          "summary": "Bitcoin has surpassed $90,000 following a volatile end to 2025, with the total cryptocurrency market capitalization climbing above $3 trillion. The recovery marks a significant rebound from December lows near $85,000, though prices remain below the August 2025 all-time high of approximately $126,000.",
-          "source": "Sergey Tereshkin",
-          "url": "https://sergeytereshkin.com/publications/cryptocurrency-news-january-8-2026-bitcoin-altcoins-key-trends"
-        },
-        {
-          "title": "Major Altcoins Show Mixed Performance; Solana Surges 15% in Early January",
-          "summary": "Leading altcoins displayed varied momentum, with Solana (SOL) surging approximately 15% to around $150, supported by payment sector integration and DeFi ecosystem revival. XRP trades near $2.20 following Ripple's landmark 2025 SEC court victory, while Binance Coin (BNB) remains above $800 despite legal pressures on the exchange.",
-          "source": "Sergey Tereshkin",
-          "url": "https://sergeytereshkin.com/publications/cryptocurrency-news-january-8-2026-bitcoin-altcoins-key-trends"
-        },
-        {
-          "title": "SEC Prepares 'Innovation Exemptions' for Crypto Securities Trading in Q1 2026",
-          "summary": "The SEC under Chair Paul Atkins is expected to issue exemptive relief as early as the first quarter of 2026, allowing brokerages and crypto platforms to offer tokenized stocks and bonds with instant settlement outside certain National Market System requirements.",
-          "source": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.com/news/td-cowen-rare-golden-window-for-crypto"
-        },
-        {
-          "title": "CLARITY Act Emerges as Centerpiece of 2026 Crypto Legislative Agenda",
-          "summary": "A proposed market-structure bill known as the CLARITY Act has become the focal point of congressional crypto efforts, addressing investor protection, custody standards, and anti-money laundering rules. However, Democratic opposition to ethics provisions barring government officials from owning crypto exchanges threatens passage.",
-          "source": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.com/news/td-cowen-rare-golden-window-for-crypto"
-        },
-        {
-          "title": "Florida Proposes New Bitcoin Reserve Bill Allowing Up to 10% State Crypto Investments",
-          "summary": "Florida has revived its push for a state bitcoin reserve with a new 2026 bill permitting state-managed cryptocurrency investments of up to 10%, following similar initiatives in Wyoming and New Hampshire.",
+          "title": "Bitcoin falls back below $90,000 as early‑January rally cools",
+          "summary": "Bitcoin slipped under the **$90,000** level after its strong New Year move, as traders priced in expectations for Federal Reserve rate cuts and digested sizable ETF outflows earlier in the week.",
           "source": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/01/08/florida-revives-push-for-bitcoin-reserve-with-new-2026-bill"
+          "url": "https://www.coindesk.com/markets/2026/01/08/bitcoin-ether-ease-after-early-january-pop-as-markets-price-fed-cuts"
         },
         {
-          "title": "XRP Whale Activity Reaches Three-Month High Amid Market Volatility",
-          "summary": "Large XRP transactions have reached their highest levels in three months, signaling potential increased volatility in the token's price movements.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/01-08-2026-binance-market-update-crypto-market-trends-january-8-2026-34802384115425"
+          "title": "Broader crypto market pulls back from highs; total cap around $3.1T",
+          "summary": "The overall crypto market turned red on Thursday, with most major tokens, including Ethereum, XRP, BNB, and Solana, slipping a bit over **1%** and total market capitalization easing to about **$3.1 trillion** after hitting early‑year highs.",
+          "source": "BanklessTimes",
+          "url": "https://www.banklesstimes.com/articles/2026/01/08/crypto-market-braces-for-two-key-news-event-on-friday-jan-9/"
         },
         {
-          "title": "Bitcoin Mining Difficulty Decreases 1.20% at Block Height 931,392",
-          "summary": "Bitcoin's mining difficulty has decreased by 1.20% at block height 931,392, potentially making mining more accessible and affecting network security dynamics.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/01-08-2026-binance-market-update-crypto-market-trends-january-8-2026-34802384115425"
+          "title": "Crypto traders eye U.S. Supreme Court ruling on Trump‑era tariffs",
+          "summary": "Markets are positioning for Friday’s U.S. Supreme Court decision on Donald Trump’s tariffs—an outcome that could unlock roughly **$880 billion** in potential tax refunds and influence inflation, rate‑cut expectations, and thereby crypto prices.",
+          "source": "BanklessTimes",
+          "url": "https://www.banklesstimes.com/articles/2026/01/08/crypto-market-braces-for-two-key-news-event-on-friday-jan-9/"
+        },
+        {
+          "title": "Crypto market awaits U.S. non‑farm payrolls for December",
+          "summary": "Investors are watching Friday’s U.S. jobs report, with consensus expecting about **55,000** new jobs versus **65,000** prior, data that could shape the Fed’s 2026 rate path and short‑term volatility in Bitcoin and major altcoins.",
+          "source": "BanklessTimes",
+          "url": "https://www.banklesstimes.com/articles/2026/01/08/crypto-market-braces-for-two-key-news-event-on-friday-jan-9/"
+        },
+        {
+          "title": "Bitcoin ETFs see heavy outflows earlier in week, pressuring prices",
+          "summary": "Spot Bitcoin ETFs registered roughly **$480 million** in outflows earlier this week, contributing to the pullback from recent highs and tempering the momentum of the New Year rally.",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/01/08/bitcoin-ether-ease-after-early-january-pop-as-markets-price-fed-cuts"
         }
       ],
       "citations": [
-        "https://sergeytereshkin.com/publications/cryptocurrency-news-january-8-2026-bitcoin-altcoins-key-trends",
-        "https://www.binance.com/en/square/post/01-08-2026-binance-market-update-crypto-market-trends-january-8-2026-34802384115425",
-        "https://bitcoinmagazine.com/news/td-cowen-rare-golden-window-for-crypto",
-        "https://www.youtube.com/watch?v=oJtdYCwHc_U",
+        "https://sergeytereshkin.com/publications/cryptocurrency-news-january-9-2026-bitcoin-above-90000-altcoins-growth-and-institutional-demand",
+        "https://www.banklesstimes.com/articles/2026/01/08/crypto-market-braces-for-two-key-news-event-on-friday-jan-9/",
+        "https://forex24.pro/bitcoin-forecast/bitcoin-forecast-and-btc-usd-analysis-for-january-9-2026/",
+        "https://www.youtube.com/watch?v=0e-DO26XMws",
         "https://www.coindesk.com/markets/2026/01/08/bitcoin-ether-ease-after-early-january-pop-as-markets-price-fed-cuts",
-        "https://www.coindesk.com/policy/2026/01/08/florida-revives-push-for-bitcoin-reserve-with-new-2026-bill"
+        "https://hubbis.com/news/hubbis-partners-with-independent-reserve-to-bring-you-weekly-crypto-news-and-market-trends-ibit-leads-renewed-etf-inflows-as-regulated-crypto-demand-broadens"
       ]
     },
     "ai_news": {
@@ -390,46 +354,61 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Benchling and Lilly TuneLab partner to open access to proprietary AI drug discovery models",
-          "summary": "Benchling announced a strategic collaboration with Eli Lilly’s TuneLab platform to let over 1,300 biotech customers run AI/ML prediction models for antibodies and small molecules directly within Benchling workflows, using models trained on decades of Lilly data representing more than $1 billion in R&D investment.[3][5]",
-          "source": "Benchling / PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/benchling-and-lilly-tunelab-partner-to-democratize-access-to-ai-models-for-scientists-everywhere-302655983.html"
+          "title": "Falcon-H1R 7B: Compact Reasoning Model Outperforms Larger Systems",
+          "summary": "Technology Innovation Institute (TII) unveiled Falcon-H1R, a 7-billion parameter AI model built on a Transformer-Mamba hybrid architecture that delivers performance comparable to systems seven times its size, offering improved efficiency for resource-constrained applications.",
+          "source": "AI Apps",
+          "url": "https://www.aiapps.com/blog/ai-news-january-2026-breakthroughs-launches-trends/"
         },
         {
-          "title": "BigHat Biosciences expands collaboration with Lilly to build generalizable antibody AI foundation models",
-          "summary": "BigHat Biosciences announced a new collaboration with Eli Lilly through the Lilly TuneLab platform to advance machine-learning-enabled biologics discovery, using BigHat’s Milliner platform to generate diverse, high-quality datasets for a generalizable antibody developability foundation model.[4]",
-          "source": "Business Wire",
-          "url": "https://www.biospace.com/press-releases/bighat-biosciences-partners-with-lilly-to-advance-machine-learning-enabled-biologics-discovery-through-lilly-tunelab"
+          "title": "NVIDIA Advances Physical AI with Alpamayo and Nemotron Speech ASR",
+          "summary": "NVIDIA released tools including Alpamayo for autonomous vehicle reasoning and Nemotron Speech ASR for faster real-time speech recognition, marking significant progress in physical AI applications.",
+          "source": "AI Apps",
+          "url": "https://www.aiapps.com/blog/ai-news-january-2026-breakthroughs-launches-trends/"
         },
         {
-          "title": "Accenture invests in Profitmind to scale agentic AI for retail decision optimization",
-          "summary": "Accenture disclosed an investment in Profitmind, whose platform uses a network of intelligent AI agents combining machine learning, generative AI, and agentic AI to link pricing, inventory, promotions, and assortment data and generate explainable recommendations for retailers.[6]",
-          "source": "Accenture Newsroom",
-          "url": "https://newsroom.accenture.com/news/2026/accenture-invests-in-profitmind-to-drive-agentic-ai-reinvention-in-retail-sector"
+          "title": "Bosch Commits €2.9 Billion to AI Investment Through 2027",
+          "summary": "Bosch announced a major investment in artificial intelligence focused on manufacturing quality, maintenance, supply chains, and edge-based perception systems to improve operational efficiency and reduce waste.",
+          "source": "Artificial Intelligence News",
+          "url": "https://www.artificialintelligence-news.com/news/bosch-e2-9-billion-ai-investment-and-shifting-manufacturing-priorities/"
         },
         {
-          "title": "Interview Kickstart launches advanced ML and agentic AI training program for software engineers",
-          "summary": "Interview Kickstart introduced a new Advanced Machine Learning and Agentic AI Program 2026 aimed at helping experienced software engineers transition into ML and AI engineering roles, reflecting growing demand for AI-focused talent as traditional software roles see slower growth due to automation and AI-assisted development.[2]",
-          "source": "GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/01/08/3215623/0/en/Interview-Kickstart-s-New-Advanced-Machine-Learning-and-Agentic-AI-Program-2026-Helps-Software-Engineers-Transition-To-Top-ML-and-AI-Roles.html"
+          "title": "Manulife Partners with Adaptive ML for Enterprise AI Platform",
+          "summary": "Manulife selected Adaptive ML to provide model fine-tuning technology using reinforcement learning for small language models, with planned applications in automating underwriting quotes and complex business processes.",
+          "source": "AI & Finance News",
+          "url": "https://dwealth.news/2026/01/ai-finance-news-for-the-week-ending-1-9-26/"
         },
         {
-          "title": "AI industry weekly highlights: autonomous agents, next-gen AI chips, and healthcare automation",
-          "summary": "A new AI Intelligence weekly briefing highlights regulatory scrutiny of major autonomous AI agent acquisitions, unveiling of next-generation AI computing architectures and embodied intelligence platforms at a major consumer tech expo, and advances in AI-powered medical imaging workflow automation, underscoring expanding applied and regulated AI use.[1]",
-          "source": "Digital Wealth News (AI Intelligence Weekly)",
-          "url": "https://dwealth.news/2026/01/ai-intelligence-weekly-top-10-1-8-26/"
+          "title": "UNIST Researchers Develop Method to Decode AI Black Box Models",
+          "summary": "A research team from UNIST created a novel approach to AI interpretability by translating training data into human-readable descriptions and developed Influence Scores for Texts (IFT) to identify the most relevant explanations for model learning.",
+          "source": "TechXplore",
+          "url": "https://techxplore.com/news/2026-01-decoding-black-ai-human-readable.html"
+        },
+        {
+          "title": "Agentic AI Market Projected to Grow from $5.2B to $200B by 2034",
+          "summary": "The AI industry is shifting toward smaller, task-focused models and agentic AI solutions, with the market expected to expand significantly as autonomous agents capable of executing complex multi-step tasks become mainstream.",
+          "source": "AI Apps",
+          "url": "https://www.aiapps.com/blog/ai-news-january-2026-breakthroughs-launches-trends/"
+        },
+        {
+          "title": "PitchBook Integrates Multiple AI Tools for Deal Sourcing and Research",
+          "summary": "PitchBook launched integrations with AI-powered tools including Rogo, Hebbia, Finster AI, Model ML, and Farsight, and debuted PitchBook Navigator, a generative AI tool for accelerating financial research with natural language search.",
+          "source": "AI & Finance News",
+          "url": "https://dwealth.news/2026/01/ai-finance-news-for-the-week-ending-1-9-26/"
         }
       ],
       "citations": [
-        "https://dwealth.news/2026/01/ai-intelligence-weekly-top-10-1-8-26/",
-        "https://www.globenewswire.com/news-release/2026/01/08/3215623/0/en/Interview-Kickstart-s-New-Advanced-Machine-Learning-and-Agentic-AI-Program-2026-Helps-Software-Engineers-Transition-To-Top-ML-and-AI-Roles.html",
-        "https://www.benchling.com/news/benchling-and-lilly-tunelab-partner-to-democratize-access-to-ai-models",
-        "https://www.biospace.com/press-releases/bighat-biosciences-partners-with-lilly-to-advance-machine-learning-enabled-biologics-discovery-through-lilly-tunelab",
-        "https://www.prnewswire.com/news-releases/benchling-and-lilly-tunelab-partner-to-democratize-access-to-ai-models-for-scientists-everywhere-302655983.html",
-        "https://newsroom.accenture.com/news/2026/accenture-invests-in-profitmind-to-drive-agentic-ai-reinvention-in-retail-sector"
+        "https://www.aiapps.com/blog/ai-news-january-2026-breakthroughs-launches-trends/",
+        "https://dwealth.news/2026/01/ai-finance-news-for-the-week-ending-1-9-26/",
+        "https://www.artificialintelligence-news.com/news/bosch-e2-9-billion-ai-investment-and-shifting-manufacturing-priorities/",
+        "https://techxplore.com/news/2026-01-decoding-black-ai-human-readable.html",
+        "https://www.computerweekly.com/news/366637095/Like-it-or-not-AI-will-transform-cyber-strategy-in-2026",
+        "https://www.manilatimes.net/2026/01/09/tmt-newswire/globenewswire/interview-kickstarts-new-advanced-machine-learning-and-agentic-ai-program-2026-helps-software-engineers-transition-to-top-ml-and-ai-roles/2255655",
+        "https://www.prnewswire.com/news-releases/bizclik-releases-the-january-2026-technology-portfolio-exploring-ethical-ai-sustainability-and-the-future-of-digital-infrastructure-302656328.html",
+        "https://www.emarketer.com/content/retail-leaders-see-ai-powered-recommendations-redefining-shopping-2026",
+        "https://www.inboundlogistics.com/articles/ai-in-supply-chain-management-how-useful-will-it-be-in-2026/"
       ]
     },
     "gaming": {
@@ -437,35 +416,45 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Xbox Developer Direct Announced for January 22",
-          "summary": "Xbox announced its first Developer Direct of 2026, scheduled for January 22 at 1 PM ET. The presentation will feature extended gameplay reveals for Fable and Forza Horizon 6 (set in Japan), plus Game Freak's action RPG Beast of Reincarnation.",
-          "source": "Xbox News",
-          "url": "https://news.xbox.com/en-us/2026/01/08/xbox-developer-direct-2026/"
+          "title": "Xbox Developer_Direct 2026 Showcase Date and Lineup Announced",
+          "summary": "Microsoft set the Xbox Developer_Direct 2026 showcase for January 22, confirming deep-dive presentations for Fable, Forza Horizon 6, and Game Freak’s Beast of Reincarnation, all targeting 2026 releases and including an inside look at the studios behind them.[1]",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/01/xbox-developer-direct-2026-showcase-gets-official-date-alongside-three-confirmed-games"
         },
         {
-          "title": "New Game Plus Showcase Debuts with 45 Games",
-          "summary": "The inaugural New Game Plus Showcase aired on January 8, 2026, featuring 45 upcoming titles including Crimson Desert, Atomic Heart 2, The Blood of Dawnwalker, and various indie games with gameplay footage and developer interviews.",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/new-game-plus-showcase-jan-2026"
+          "title": "Insider Teases Secret Fourth Game for Xbox Developer_Direct 2026",
+          "summary": "Industry insider shinobi602 and a report from Windows Central suggest a still-unannounced fourth title will appear at the Xbox Developer_Direct 2026 showcase, continuing the event’s tradition of surprise reveals, though details and specific candidates remain unconfirmed.[2]",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/01/industry-insider-teases-secret-fourth-game-for-the-xbox-developer-direct-showcase"
         },
         {
-          "title": "Xbox Game Pass January 2026 Wave 1 Adds Major Titles",
-          "summary": "Xbox Game Pass added several notable games in January 2026, including Star Wars Outlaws, Resident Evil Village, Final Fantasy (remastered), and Lost in Random: The Eternal Die.",
-          "source": "G2A News",
-          "url": "https://www.g2a.com/news/game-spotlights/coming-to-xbox-game-pass-january-2026-star-wars-outlaws-resident-evil-village-and-more/"
+          "title": "Sandbox VR Expands Canadian Footprint With New Vaughan Location",
+          "summary": "Location-based VR company Sandbox VR announced a new venue opening in Vaughan, Canada on January 16 as part of its continued Canadian expansion, underscoring ongoing investment and growth in the out‑of‑home virtual reality gaming sector.[3]",
+          "source": "PR Newswire via The Malaysian Reserve",
+          "url": "https://www.themalaysianreserve.com/2026/01/09/sandbox-vr-continues-canada-expansion-with-a-new-venue-in-vaughan-canada-on-january-16/"
+        },
+        {
+          "title": "Global Game Jam on Track to Surpass 500,000 Lifetime Participants in 2026",
+          "summary": "Organizers of the annual Global Game Jam expect the event to exceed 500,000 cumulative participants with this year’s edition, reflecting sustained global engagement from developers and hobbyists in one of the world’s largest game creation events.[4]",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/global-game-jam-to-surpass-500-000-lifetime-participants"
+        },
+        {
+          "title": "New Analysis Casts Doubt on Grand Theft Auto 6’s November 2026 Release Target",
+          "summary": "Although Grand Theft Auto 6 is officially slated for November 19, 2026, a report citing analysis from a well-known gaming journalist raises concerns that development timelines and industry headwinds could push the highly anticipated game beyond its current release date window.[5]",
+          "source": "Men’s Journal",
+          "url": "https://www.mensjournal.com/entertainment/grand-theft-auto-6-gets-concerning-release-date-update"
         }
       ],
       "citations": [
-        "https://xboxera.com/2026/01/08/xbox-dev-direct-announced-more-jan-8th-headlines/",
-        "https://en.as.com/meristation/news/xbox-announces-its-first-developer-drect-of-2026-date-time-and-games-f202601-n/?outputType=amp",
-        "https://www.theouterhaven.net/new-game-plus-showcase-airs-on-january-8-2026/",
-        "https://news.xbox.com/en-us/2026/01/08/xbox-developer-direct-2026/",
-        "https://www.g2a.com/news/game-spotlights/coming-to-xbox-game-pass-january-2026-star-wars-outlaws-resident-evil-village-and-more/",
-        "https://www.windowscentral.com/gaming/new-game-plus-showcase-jan-2026",
-        "https://www.gamespot.com/gallery/the-coolest-and-weirdest-gaming-tech-of-ces-2026/2900-7385/"
+        "https://www.purexbox.com/news/2026/01/xbox-developer-direct-2026-showcase-gets-official-date-alongside-three-confirmed-games",
+        "https://www.purexbox.com/news/2026/01/industry-insider-teases-secret-fourth-game-for-the-xbox-developer-direct-showcase",
+        "https://themalaysianreserve.com/2026/01/09/sandbox-vr-continues-canada-expansion-with-a-new-venue-in-vaughan-canada-on-january-16/",
+        "https://www.gamedeveloper.com/business/global-game-jam-to-surpass-500-000-lifetime-participants",
+        "https://www.mensjournal.com/entertainment/grand-theft-auto-6-gets-concerning-release-date-update"
       ]
     },
     "tech_news": {
@@ -473,12 +462,35 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 3,
+      "items": [
+        {
+          "title": "Major Tech Conference Kicks Off with Innovative Product Launches",
+          "summary": "A major tech conference began on January 8, 2026, featuring innovative product launches and industry insights from leading technology companies.",
+          "source": "Tech News",
+          "url": "https://styknews.info/novyny/sotsium/2017/09/08/na-verhovynshhyni-nagorodyly-lotchykiv-natsgvardiyi-foto"
+        },
+        {
+          "title": "Hong Kong Tech Firms Win Recognition at CES 2026",
+          "summary": "The largest-ever Hong Kong Tech Pavilion with 61 companies participated in CES 2026 (January 6-9), with three Hong Kong firms receiving CES Innovation Awards recognition, including Widemount Dynamics Tech for its Smart Firefighting Robot.",
+          "source": "ACN Newswire",
+          "url": "https://en.acnnewswire.com/press-release/english/104528/hong-kong-tech-firms-win-big-at-ces-2026-with-frontier-tech-innovations-to-draw-global-buyer-interest"
+        },
+        {
+          "title": "Google and Character Technologies Settle Chatbot Lawsuit",
+          "summary": "Google and Character Technologies have agreed to settle lawsuits from families in Florida, Colorado, New York, and Texas who alleged the company's chatbots harmed their children, with settlement terms still pending judicial approval.",
+          "source": "Click Orlando",
+          "url": "https://www.clickorlando.com/news/florida/2026/01/08/google-and-chatbot-maker-character-to-settle-lawsuit-alleging-chatbot-pushed-teen-to-suicide/"
+        }
+      ],
       "citations": [
-        "https://www.tomsguide.com/tech-events/best-of-ces-2026-awards-the-top-25-new-gadgets",
-        "https://www.morningstar.com/news/pr-newswire/20260108ln59278/us-drone-as-a-service-daas-market-is-poised-for-strong-growth-in-2026-as-technology-vastly-improves",
-        "https://www.acnnewswire.com/press-release/english/104507/iluvatar-corex-soars-by-31.54-in-trading-debut:-'genuine-leader'-of-domestic-ai-computing-power-chips-emerges"
+        "https://styknews.info/novyny/sotsium/2017/09/08/na-verhovynshhyni-nagorodyly-lotchykiv-natsgvardiyi-foto?y-news-24645037-2026-01-08-major-tech-conference-kicks-off-with-innovative-product-launches-and-industry-insights",
+        "https://www.news4jax.com/business/2026/01/08/worst-in-show-ces-products-include-ai-refrigerators-ai-companions-and-ai-doorbells/",
+        "https://en.acnnewswire.com/press-release/english/104528/hong-kong-tech-firms-win-big-at-ces-2026-with-frontier-tech-innovations-to-draw-global-buyer-interest",
+        "https://www.wsls.com/business/2026/01/08/deepseeks-ai-gains-traction-in-developing-nations-microsoft-report-says/",
+        "https://www.clickorlando.com/news/florida/2026/01/08/google-and-chatbot-maker-character-to-settle-lawsuit-alleging-chatbot-pushed-teen-to-suicide/",
+        "https://www.ncsha.org/blog/sec-establishes-additional-disclosures-for-municipal-securities/?y-news-24793374-2026-01-08-f1-technical-updates-comprehensive-insights-and-future-outlook",
+        "https://www.einpresswire.com/calendar/2026/01/08"
       ]
     }
   }

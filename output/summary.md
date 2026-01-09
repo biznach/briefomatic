@@ -1,25 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-01-08 18:06 UTC*
+*Generated: 2026-01-09 00:20 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The S&P 500 is hovering near record highs, with defense stocks rallying on higher spending outlook. The Dow Jones and Nasdaq have slipped, while global equity markets have edged lower due to U.S. policy shifts and Venezuela tensions. Bitcoin has recovered above $90,000, with the total cryptocurrency market capitalization reaching $3 trillion.
+1. **Market Overview**: The US stock market closed mixed on Thursday, with the S&P 500 rising less than 0.1% and the Dow gaining 0.6%, while the Nasdaq fell 0.4%. The crypto market pulled back from its highs, with Bitcoin slipping under $90,000 and the total market capitalization easing to around $3.1 trillion. Key indices such as the S&P 500 are up 1.1% year-to-date, with the Russell 2000 outperforming with a 4.9% gain.
 
-2. **Tech & AI**: Bose is open-sourcing its old smart speakers, while Project Patchouli is developing open-source electromagnetic drawing tablet hardware. ChatGPT Health has been introduced, and Chinese AI models have lagged behind the U.S. frontier by 7 months on average since 2023. Japan's Nikkei has been hit by a tech and AI pullback.
+2. **Tech & AI**: Notable developments include the release of Falcon-H1R, a compact 7-billion parameter AI model that outperforms larger systems, and NVIDIA's advancements in physical AI with tools like Alpamayo and Nemotron Speech ASR. Additionally, Bose is open-sourcing its old smart speakers, and Google AI Studio is now sponsoring Tailwind CSS. There are also concerns about AI coding assistants getting worse and IBM AI downloading and executing malware.
 
-3. **Gaming & Entertainment**: No notable gaming news has been reported in the provided data.
+3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
 
 4. **Key Insights**:
-* The S&P 500 is near record highs, driven by defense stocks and strong labor data.
-* Bitcoin has recovered above $90,000, with the total cryptocurrency market capitalization reaching $3 trillion.
-* The SEC is expected to issue exemptive relief for crypto securities trading in Q1 2026.
-* Chinese AI models have lagged behind the U.S. frontier by 7 months on average since 2023.
-* Global equity markets have edged lower due to U.S. policy shifts and Venezuela tensions.
+* The US stock market is awaiting the non-farm payroll report, which could influence Federal Reserve policy and crypto prices.
+* The crypto market is watching the US Supreme Court ruling on Trump-era tariffs, which could unlock potential tax refunds and influence inflation and rate-cut expectations.
+* Bitcoin ETFs have seen heavy outflows, contributing to the pullback from recent highs.
+* Compact AI models like Falcon-H1R are being developed to deliver improved efficiency for resource-constrained applications.
+* There are growing concerns about AI security, with instances of AI downloading and executing malware.
 
 5. **Watch List**: 
-* U.S. index futures and global equity markets
-* Bitcoin and cryptocurrency market capitalization
-* SEC developments on crypto securities trading
-* Defense stocks and U.S. policy shifts
-* Venezuela tensions and their impact on global markets
+* US non-farm payroll report
+* US Supreme Court ruling on Trump-era tariffs
+* Crypto market reaction to the ruling and payroll report
+* Development of compact AI models like Falcon-H1R
+* AI security concerns and potential vulnerabilities in AI systems.
