@@ -1,20 +1,20 @@
 # Daily Briefing
 
-*Generated: 2026-01-11 18:06 UTC*
+*Generated: 2026-01-12 00:21 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+Here is your executive briefing for January 12, 2026:
 
-1. **Market Overview**: Global stocks have ended the week at or near record highs, with the S&P 500 finishing at a record closing high of about 6,966 and the FTSE 100 closing at a new record high above 10,100. The US labor market has softened modestly, while equities have hit all-time highs. Bitcoin is trading flat around $90.7K, with the total crypto market cap holding near $3.1T.
+1. **Market Overview**: Global stocks are steady near record highs ahead of key US CPI and earnings season kickoff. The S&P 500 and Dow Jones Industrial Average are at or near all-time highs, with investors positioning cautiously ahead of this week's US CPI release and the start of Q4 earnings. Bitcoin is trading at $91,044, with a 0.64% increase in the last 24 hours, while Ethereum is at $3,120.22, with a 1.16% increase in the last 24 hours.
 
-2. **Tech & AI**: Notable tech developments include the release of Gentoo Linux 2025, a review of which has garnered significant attention. Additionally, there have been discussions around dumping Windows 11 for Linux, and the discovery of a large memory leak in Ghostty. AI industry insiders have launched a site to "poison" the data that feeds AI models, raising interesting questions about data quality and AI development.
+2. **Tech & AI**: Notable tech developments include the discussion on the struggle of resizing windows on macOS Tahoe, the emergence of self-hosting in 2026, and the development of a Claude Code competitor. Additionally, there are insights into Anthropic's Claude Opus 4.5 and the potential of dynamic signed distance fields (SDFs) in game engine development.
 
-3. **Gaming & Entertainment**: A notable gaming news item is the discovery of "Food JPEGs" in Super Smash Bros. and Kirby Air Riders, which has sparked interest among gamers and developers. There have also been discussions around the 50th birthday of the KIM-1 computer and the release of a new Markdown editor in Rust with native Mermaid diagram rendering.
+3. **Gaming & Entertainment**: Notable gaming news includes the creation of a game that runs on Windows, Linux, and in the browser as a single 13 KiB file, and the analysis of "Food JPEGs" in Super Smash Bros. and Kirby Air Riders.
 
 4. **Key Insights**:
-* The global stock market is at or near record highs, driven by tech leadership and strength in large-cap stocks.
-* The US labor market has softened modestly, which could influence the Federal Reserve's decision on interest rates.
-* Bitcoin and other cryptocurrencies are trading in a tight range, with mixed performance across major altcoins.
-* There is a growing interest in Linux and open-source software, with some users dumping Windows 11 for Linux.
-* AI development is becoming increasingly important, with a focus on data quality and potential biases in AI models.
+* The US CPI release and earnings season kickoff are expected to be major market movers in the coming week.
+* Inflation may surprise to the downside in 2026, supporting US equity earnings growth.
+* Strategists expect double-digit S&P 500 earnings-per-share growth in 2026 and 2027, driven by AI-driven productivity gains.
+* Morgan Stanley is favored ahead of Q4 results due to stronger dealmaking and IPO pipeline.
+* Capital One faces pressure amid proposed cap on US credit card interest rates.
 
-5. **Watch List**: Items to monitor in the coming days include the US CPI report, which could shape expectations for further Federal Reserve easing, and the start of the Q4 earnings season, which could influence equity markets. Additionally, the performance of major cryptocurrencies and the development of new technologies, such as AI and Linux, should be closely watched.
+5. **Watch List**: Items to monitor in the coming days include the US CPI release, earnings reports from major US banks, and central bank commentary, particularly from the Fed. Additionally, watch for developments in the self-hosting space, Anthropic's Claude Opus 4.5, and the potential impact of dynamic signed distance fields (SDFs) on game engine development.
