@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T12:08:54.666566+00:00",
-  "generated_at_human": "2026-01-12 12:08 UTC",
+  "generated_at": "2026-01-12T18:07:13.614513+00:00",
+  "generated_at_human": "2026-01-12 18:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+          "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+          "score": 183,
+          "comments": 76
+        },
+        {
+          "title": "LLVM: The bad parts",
+          "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
+          "score": 169,
+          "comments": 25
+        },
+        {
+          "title": "Date is out, Temporal is in",
+          "url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
+          "score": 121,
+          "comments": 36
+        },
+        {
+          "title": "Show HN: AI in SolidWorks",
+          "url": "https://www.trylad.com",
+          "score": 22,
+          "comments": 9
+        },
+        {
+          "title": "Floppy disks turn out to be the greatest TV remote for kids",
+          "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
+          "score": 311,
+          "comments": 185
+        },
+        {
+          "title": "Message Queues: A Simple Guide with Analogies",
+          "url": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
+          "score": 18,
+          "comments": 3
+        },
+        {
           "title": "The struggle of resizing windows on macOS Tahoe",
           "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-          "score": 1878,
-          "comments": 785
+          "score": 2387,
+          "comments": 1006
         },
         {
-          "title": "Lightpanda migrate DOM implementation to Zig",
-          "url": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
-          "score": 58,
-          "comments": 12
+          "title": "Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI",
+          "url": "https://news.ycombinator.com/item?id=46591170",
+          "score": 1,
+          "comments": 0
         },
         {
-          "title": "Fossil versus Git",
-          "url": "https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki",
-          "score": 26,
-          "comments": 15
+          "title": "Reproducing DeepSeek's MHC: When Residual Connections Explode",
+          "url": "https://taylorkolasinski.com/notes/mhc-reproduction/",
+          "score": 63,
+          "comments": 19
         },
         {
-          "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
-          "url": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
-          "score": 138,
-          "comments": 34
-        },
-        {
-          "title": "CLI agents make self-hosting on a home server easier and fun",
-          "url": "https://fulghum.io/self-hosting",
-          "score": 589,
-          "comments": 387
-        },
-        {
-          "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
-          "url": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
-          "score": 139,
-          "comments": 56
+          "title": "Launch a Debugging Terminal into GitHub Actions",
+          "url": "https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/",
+          "score": 92,
+          "comments": 26
         },
         {
           "title": "Ai, Japanese chimpanzee who counted and painted dies at 49",
           "url": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
-          "score": 28,
-          "comments": 15
+          "score": 120,
+          "comments": 42
         },
         {
-          "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
-          "url": "https://iczelia.net/posts/snake-polyglot/",
-          "score": 227,
-          "comments": 58
+          "title": "Personal thoughts/notes from working on Zootopia 2",
+          "url": "https://blog.yiningkarlli.com/2025/12/zootopia-2.html",
+          "score": 178,
+          "comments": 23
         },
         {
-          "title": "Show HN: DevicePrint – device fingerprinting without cookies",
-          "url": "https://news.ycombinator.com/item?id=46517654",
+          "title": "Lightpanda migrate DOM implementation to Zig",
+          "url": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
+          "score": 163,
+          "comments": 87
+        },
+        {
+          "title": "History's Attention Gap",
+          "url": "https://kidopoly.com/research/attention-gap/",
           "score": 7,
-          "comments": 11
+          "comments": 3
         },
         {
-          "title": "iCloud Photos Downloader",
-          "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
-          "score": 485,
-          "comments": 203
+          "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
+          "url": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
+          "score": 257,
+          "comments": 99
         },
         {
-          "title": "Conbini Wars – Map of Japanese convenience store ratios",
-          "url": "https://conbini.kikkia.dev/",
-          "score": 67,
-          "comments": 25
+          "title": "CLI agents make self-hosting on a home server easier and fun",
+          "url": "https://fulghum.io/self-hosting",
+          "score": 702,
+          "comments": 473
         },
         {
-          "title": "XMPP and Metadata",
-          "url": "https://blog.mathieui.net/xmpp-and-metadata.html",
-          "score": 24,
+          "title": "Building a 25 Gbit/s workstation for the SCION Association",
+          "url": "https://github.com/scionassociation/blog-25gbit-workstation",
+          "score": 8,
+          "comments": 0
+        },
+        {
+          "title": "Anthropic made a mistake in cutting off third-party clients",
+          "url": "https://archaeologist.dev/artifacts/anthropic",
+          "score": 81,
+          "comments": 81
+        },
+        {
+          "title": "Zen-C: Write like a high-level language, run like C",
+          "url": "https://github.com/z-libs/Zen-C",
+          "score": 89,
+          "comments": 64
+        },
+        {
+          "title": "Statement from Federal Reserve Chair",
+          "url": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm?mod=ANLink",
+          "score": 77,
           "comments": 1
         },
         {
-          "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
-          "url": "https://www.youtube.com/watch?v=il-TXbn5iMA",
-          "score": 343,
-          "comments": 48
+          "title": "Apple picks Google's Gemini to power Siri",
+          "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+          "score": 230,
+          "comments": 165
         },
         {
-          "title": "The next two years of software engineering",
-          "url": "https://addyosmani.com/blog/next-two-years/",
-          "score": 173,
-          "comments": 160
+          "title": "Computational complexity of schema-guided document extraction",
+          "url": "https://www.runpulse.com/blog/computational-complexity-of-schema",
+          "score": 6,
+          "comments": 1
         },
         {
-          "title": "FUSE is All You Need – Giving agents access to anything via filesystems",
-          "url": "https://jakobemmerling.de/posts/fuse-is-all-you-need/",
-          "score": 154,
-          "comments": 53
+          "title": "Show HN: Pane – An agent that edits spreadsheets",
+          "url": "https://paneapp.com",
+          "score": 10,
+          "comments": 4
         },
         {
-          "title": "Uncrossy",
-          "url": "https://uncrossy.com/",
-          "score": 91,
-          "comments": 27
+          "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
+          "url": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
+          "score": 217,
+          "comments": 97
         },
         {
-          "title": "Sampling at negative temperature",
-          "url": "https://cavendishlabs.org/blog/negative-temperature/",
-          "score": 176,
-          "comments": 52
-        },
-        {
-          "title": "Perfectly Replicating Coca Cola [video]",
-          "url": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
-          "score": 240,
-          "comments": 156
-        },
-        {
-          "title": "Insights into Claude Opus 4.5 from Pokémon",
-          "url": "https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon",
-          "score": 95,
-          "comments": 18
-        },
-        {
-          "title": "Ask HN: What are you working on? (January 2026)",
-          "url": "https://news.ycombinator.com/item?id=46577242",
-          "score": 206,
-          "comments": 656
-        },
-        {
-          "title": "Don't fall into the anti-AI hype",
-          "url": "https://antirez.com/news/158",
-          "score": 1052,
-          "comments": 1270
-        },
-        {
-          "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
-          "url": "https://www.bbc.com/news/articles/clyndv7zd20o",
-          "score": 127,
-          "comments": 103
-        },
-        {
-          "title": "Elo – A data expression language which compiles to JavaScript, Ruby, and SQL",
-          "url": "https://elo-lang.org/",
-          "score": 91,
-          "comments": 27
-        },
-        {
-          "title": "Gadget Exposed a Spy Camera [video]",
-          "url": "https://www.youtube.com/watch?v=1reman2waLs",
-          "score": 60,
-          "comments": 29
-        },
-        {
-          "title": "Garbage collection is contrarian",
-          "url": "https://trynova.dev/blog/garbage-collection-is-contrarian",
-          "score": 51,
-          "comments": 7
+          "title": "Computers that used to be human",
+          "url": "https://digitalseams.com/blog/computers-that-used-to-be-human",
+          "score": 9,
+          "comments": 2
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 90606,
-          "change_24h": -0.04,
-          "change_7d": -2.64,
-          "market_cap": 1808103490831
+          "price": 91410,
+          "change_24h": 0.67,
+          "change_7d": -2.43,
+          "market_cap": 1826259500990
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3113.66,
-          "change_24h": 0.35,
-          "change_7d": -2.06,
-          "market_cap": 375473795975
+          "price": 3099.2,
+          "change_24h": -0.62,
+          "change_7d": -3.6,
+          "market_cap": 374355707497
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 139.88,
-          "change_24h": 2.58,
-          "change_7d": 3.05,
-          "market_cap": 78963110737
+          "price": 141.69,
+          "change_24h": 1.78,
+          "change_7d": 3.88,
+          "market_cap": 80087603509
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.136467,
-          "change_24h": -2.21,
-          "change_7d": -7.22,
-          "market_cap": 22961306484
+          "price": 0.138067,
+          "change_24h": -0.23,
+          "change_7d": -8.27,
+          "market_cap": 23200733007
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.387206,
-          "change_24h": -1.09,
-          "change_7d": -2.67,
-          "market_cap": 14199328217
+          "price": 0.393558,
+          "change_24h": 0.1,
+          "change_7d": -4.67,
+          "market_cap": 14432923660
         }
       ]
     },
@@ -212,6 +212,11 @@
       "count": 10,
       "items": [
         {
+          "name": "Dolomite",
+          "symbol": "DOLO",
+          "market_cap_rank": 814
+        },
+        {
           "name": "Monero",
           "symbol": "XMR",
           "market_cap_rank": 18
@@ -219,32 +224,7 @@
         {
           "name": "Lighter",
           "symbol": "LIT",
-          "market_cap_rank": 140
-        },
-        {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 28
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
-          "name": "Canton",
-          "symbol": "CC",
-          "market_cap_rank": 33
-        },
-        {
-          "name": "Story",
-          "symbol": "IP",
-          "market_cap_rank": 109
+          "market_cap_rank": 143
         },
         {
           "name": "Pudgy Penguins",
@@ -252,14 +232,34 @@
           "market_cap_rank": 118
         },
         {
-          "name": "POL (ex-MATIC)",
-          "symbol": "POL",
-          "market_cap_rank": 67
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 28
         },
         {
-          "name": "The White Whale",
-          "symbol": "WHITEWHALE",
-          "market_cap_rank": 350
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 32
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "Story",
+          "symbol": "IP",
+          "market_cap_rank": 105
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 250
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 6
         }
       ]
     },
@@ -268,47 +268,59 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "US Stocks Hit Record Highs After Weaker Non-Farms Data",
-          "summary": "US equity markets closed at record levels on Friday with the Dow up 0.48% to 49,504, S&P 500 up 0.65% to 6,966, and Nasdaq up 0.81% to 23,671, driven by softer employment data reducing rate cut expectations. Fed rate cut odds for March fell to under 30% amid focus on upcoming inflation data.",
+          "title": "US Stocks Hit Record Highs After Mixed Jobs Report",
+          "summary": "The S&P 500 rose 0.65% to 6,966, Dow gained 0.48% to 49,504, and Nasdaq advanced 0.81% to 23,671 on Friday following weaker-than-expected non-farm payrolls, fueling rate cut speculation though probabilities declined for March. Small caps led weekly gains with Russell 2000 up 4.6%, while S&P 500 and Dow set historic highs.",
           "source": "IC Markets",
           "url": "https://www.icmarkets.com/blog/general-market-analysis-12-01-26/"
         },
         {
-          "title": "S&P 500 Falls 0.58% to 6926 on Cyclical Sector Weakness",
-          "summary": "The US500 index dropped 0.58% to 6926 points on January 12, weighed down by industrials, materials, and financials, while Nasdaq edged up 0.16% led by Alphabet's 2.5% gain. JOLTS data showed sharp drop in job openings, ADP hiring rebounded modestly, and ISM Services PMI beat expectations.",
+          "title": "S&P 500 Dips 0.43% to 6937 on January 12 Amid Cyclical Sector Weakness",
+          "summary": "The US500 fell 0.43% on January 12 as industrials, materials, and financials weighed on the market, though Nasdaq edged up 0.16% led by Alphabet's 2.5% rally. JOLTS data showed sharp drop in job openings, ADP private hiring rebounded modestly, and ISM Services PMI surprised higher.",
           "source": "Trading Economics",
           "url": "https://tradingeconomics.com/united-states/stock-market"
         },
         {
-          "title": "US Futures Decline as European Stocks Mixed Ahead of Open",
-          "summary": "S&P 500 futures fell 0.7% and Dow futures 0.5% on January 12 morning, with European Stoxx 600 down 0.2%; Asian markets rose with Hang Seng up 1.4% and Shanghai Composite up 1.1%. US 10-year Treasury yield rose to 4.196%, Brent crude dipped to $63.29.",
-          "source": "Morningstar / Dow Jones",
-          "url": "https://www.morningstar.com/news/dow-jones/202601121133/us-futures-fall-european-stocks-mixed"
+          "title": "Credit Card Stocks Slump After Trump Threatens Profit-Hitting Moves",
+          "summary": "Stocks of credit card companies dropped on January 12 following President Donald Trump's threats of actions that could reduce their profits.",
+          "source": "Post-Gazette",
+          "url": "https://www.post-gazette.com/business/money/2026/01/12/stock-market-today-jan-12-2026/stories/202601120042"
         },
         {
-          "title": "S&P 500 and Dow Set Historic Highs in Robust Weekly Gains",
-          "summary": "US equities surged last week with S&P 500 up 1.6%, Nasdaq 100 up 2.2%, and Russell 2000 up 4.6% in its best start since 2021; market breadth improved beyond mega-caps. Focus shifts to Q4 earnings and inflation data this week.",
-          "source": "IG",
-          "url": "https://www.ig.com/en/news-and-trade-ideas/weekly-market-navigator--12-jan-2026-260112"
-        },
-        {
-          "title": "Oil Surges and Gold Hits $4,510 on Geopolitical Tensions",
-          "summary": "Brent crude jumped 2.18% to $63.34 and WTI 2.35% to $59.12 amid Iran unrest, while gold rose 0.77% to $4,510.15 on haven demand; dollar index up 0.30% to 99.17 as rate cut bets ease.",
+          "title": "Fed Rate Cut Odds Fall to 5% for January Meeting After Jobs Data",
+          "summary": "Markets now price just 5% chance of a Fed rate cut this month and under 30% for March, down from over 40% last week, amid sticky inflation expectations ahead of key US data this week. US Dollar Index rose to 99.17 while 10-year Treasury yield held at 4.17%.",
           "source": "IC Markets",
           "url": "https://www.icmarkets.com/blog/general-market-analysis-12-01-26/"
+        },
+        {
+          "title": "Oil Surges and Gold Tops $4500 on Geopolitical Tensions",
+          "summary": "Brent crude jumped 2.18% to $63.34 and WTI rose 2.35% to $59.12 amid escalating unrest in Iran, while gold gained 0.77% to $4,510 on haven demand.",
+          "source": "IC Markets",
+          "url": "https://www.icmarkets.com/blog/general-market-analysis-12-01-26/"
+        },
+        {
+          "title": "Weekly Market Recap: Small Caps Lead, Tech Lags in Broad Rally",
+          "summary": "US equities notched robust weekly gains with S&P 500 up 1.6%, Nasdaq 100 +2.2%, and Russell 2000 surging 4.6%; strongest S&P sectors were consumer discretionary (+5.7%), materials (+4.7%), industrials (+2.5%). Dow nears 50,000 milestone.",
+          "source": "E-Trade",
+          "url": "https://us.etrade.com/knowledge/library/perspectives/daily-insights/jan12-market-recap"
+        },
+        {
+          "title": "China's Hang Seng Tests Breakout Amid Stabilisation Signs",
+          "summary": "Hang Seng declined 0.4% last week after early surge but holds at range upper boundary with constructive technicals; China Life rallied 9% on policy support hopes as southbound flows resume.",
+          "source": "IG",
+          "url": "https://www.ig.com/en/news-and-trade-ideas/weekly-market-navigator--12-jan-2026-260112"
         }
       ],
       "citations": [
         "https://www.ig.com/en/news-and-trade-ideas/weekly-market-navigator--12-jan-2026-260112",
+        "https://us.etrade.com/knowledge/library/perspectives/daily-insights/jan12-market-recap",
         "https://www.icmarkets.com/blog/general-market-analysis-12-01-26/",
         "https://tradingeconomics.com/united-states/stock-market",
         "https://www.investing.com/analysis/markets-enter-2026-with-breakouts-rotation-and-rising-risk-appetite-200673030",
-        "https://www.morningstar.com/news/dow-jones/202601121133/us-futures-fall-european-stocks-mixed",
-        "https://www.fpmarkets.com/blog/index-and-commodities-trading-week-beginning-12-01-2026/",
-        "https://www.fullyinformed.com/stock-market-outlook-for-mon-jan-12-2026-overbought-dips-likely-but-bullish/"
+        "https://verifiedinvesting.com/blogs/live-show-recap/my-trading-game-plan-revealed-01-12-2026-s-p-wedge-breakout-fed-probe-weakens-dollar-gold-soars",
+        "https://www.post-gazette.com/business/money/2026/01/12/stock-market-today-jan-12-2026/stories/202601120042"
       ]
     },
     "crypto_news": {
@@ -319,40 +331,41 @@
       "count": 5,
       "items": [
         {
-          "title": "Bitcoin Holds Above $92K as AI and DePIN Sectors Rally",
-          "summary": "Bitcoin traded firmly above $92,000, up 1.6% in the past 24 hours, while Ethereum gained 2.1% to over $3,150. AI-linked tokens and DePIN outperformed with double-digit gains in FET, TAO, and others amid sector rotation.",
-          "source": "CryptoNews",
-          "url": "https://cryptonews.com/news/bitcoin-holds-firm-above-92k-as-ai-depin-sectors-extend-rally/"
+          "title": "Bitcoin Tests $92,000 but Slips Back Amid Sideways Trading",
+          "summary": "Bitcoin briefly reached $92,000 during U.S. trading but fell back, trading around $92,381 after being near $90,300, down nearly 1% in the past 24 hours. It continues sideways between $84,000 and $94,500, needing to break $95,000 for a rally.",
+          "source": "ZebPay",
+          "url": "https://zebpay.com/blog/bitcoin-technical-analysis-report-12th-january-2026"
         },
         {
-          "title": "Grayscale Prepares Altcoin ETF Filings for BNB and HYPE",
-          "summary": "Grayscale has registered trusts for BNB and HYPE, signaling institutional interest in altcoins. This move boosts sentiment as retail focuses on AI tokens like 2DAI, which rallied 185% weekly.",
-          "source": "Tribune India",
-          "url": "https://www.tribuneindia.com/partner-exclusives/crypto-market-news-today-january-2026-grayscale-prepares-altcoin-etf-filings-as-deepsnitch-ai-launches-following-2dais-recent-weekly-rally/"
+          "title": "Analysts Predict Bitcoin Surge from Trump-Driven Dollar Debasement",
+          "summary": "Analysts forecast Bitcoin's price to soar in 2026 due to further U.S. dollar devaluation under Trump, positioning it as the top macro asset despite being down 30% from its $126,000 all-time high and trading at around $90,716-$91,000.",
+          "source": "DL News",
+          "url": "https://www.dlnews.com/articles/markets/bitcoin-price-to-surge-as-trump-runs-debasement-trade-into-overdrive/"
         },
         {
-          "title": "DeepSnitch AI Launches with Hype to Match 2DAI's 185% Weekly Gains",
-          "summary": "DeepSnitch AI presale gains traction with expectations of explosive post-launch growth due to staking supply shock and demand for security tools. Follows 2DAI's massive 185% rally in the past week.",
-          "source": "Tribune India",
-          "url": "https://www.tribuneindia.com/partner-exclusives/crypto-market-news-today-january-2026-grayscale-prepares-altcoin-etf-filings-as-deepsnitch-ai-launches-following-2dais-recent-weekly-rally/"
+          "title": "Crypto Miners with AI Exposure Lead Gains as Bitcoin Underperforms",
+          "summary": "Crypto miners like Hut 8, IREN, and Core Scientific rose 2%-4%, outperforming Bitcoin which declined nearly 1% amid rising traditional markets including Nasdaq up 1% and S&P 500 up 0.8%.",
+          "source": "ZebPay",
+          "url": "https://zebpay.com/blog/bitcoin-technical-analysis-report-12th-january-2026"
         },
         {
-          "title": "Major Cryptos Mixed; FXS Surges 29%, REZ and AMP Up 11% and 10%",
-          "summary": "Crypto market shows mixed trading among top coins, with outperformers FXS (+29%), REZ (+11%), and AMP (+10%) leading gains as of January 12, 2026.",
-          "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/34979331389721"
+          "title": "Ethereum Up 0.6% to $3,116; Major Cryptos Mixed with FXS Leading at +29%",
+          "summary": "Ethereum gained 0.6% over the past 24 hours to $3,116 while Bitcoin dipped 0.2%; outperformers include FXS (+29%), REZ (+11%), and AMP (+10%) amid mixed trading for top cryptocurrencies.",
+          "source": "DL News, Binance Square",
+          "url": "https://www.dlnews.com/articles/markets/bitcoin-price-to-surge-as-trump-runs-debasement-trade-into-overdrive/; https://www.binance.com/en/square/post/34979331389721"
         },
         {
-          "title": "Czech National Bank Purchases $1M in Bitcoin and Digital Assets",
-          "summary": "The Czech National Bank bought $1 million in bitcoin, stablecoins, and tokenized deposits to gain experience with blockchain assets amid diversification from USD reserves.",
-          "source": "International Banker",
-          "url": "https://internationalbanker.com/banking/will-central-banks-soon-begin-adding-bitcoin-to-their-reserves/"
+          "title": "Upcoming Crypto Senate Markups Previewed Amid Fed Investigations",
+          "summary": "Bloomberg previews planned crypto-related Senate markups in Washington Policy Pulse, alongside analysis of unlikely Justice Department subpoenas on Federal Reserve Chairman Jerome Powell and Trump's push for credit card interest caps.",
+          "source": "Bloomberg Podcasts",
+          "url": "https://www.youtube.com/watch?v=AvLuzrZnyx8"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=L72_cSXxG7o",
-        "https://www.tribuneindia.com/partner-exclusives/crypto-market-news-today-january-2026-grayscale-prepares-altcoin-etf-filings-as-deepsnitch-ai-launches-following-2dais-recent-weekly-rally/",
-        "https://internationalbanker.com/banking/will-central-banks-soon-begin-adding-bitcoin-to-their-reserves/",
+        "https://zebpay.com/blog/bitcoin-technical-analysis-report-12th-january-2026",
+        "https://veropatriot.iheart.com/featured/brian-mudd/content/2026-01-12-how-low-can-stocks-crypto-go-january-12th-2026/",
+        "https://www.dlnews.com/articles/markets/bitcoin-price-to-surge-as-trump-runs-debasement-trade-into-overdrive/",
+        "https://www.youtube.com/watch?v=AvLuzrZnyx8",
         "https://www.binance.com/en/square/post/34979331389721"
       ]
     },
@@ -361,42 +374,47 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "iMini AI Launches Precise Edit for Advanced Image Generation",
-          "summary": "iMini AI introduces Precise Edit, a next-generation AI image generator that allows direct editing of specific image areas without full regeneration, improving workflows for creators and marketers.",
-          "source": "Aithority",
-          "url": "https://aithority.com/machine-learning/imini-ai-uses-precise-edit-to-rethink-ai-image-generator-in-2026/"
+          "title": "NVIDIA and Eli Lilly Launch $1B AI Co-Innovation Lab for Drug Discovery",
+          "summary": "NVIDIA and Eli Lilly announced a first-of-its-kind AI co-innovation lab in the San Francisco Bay Area, investing up to $1 billion over five years to accelerate drug discovery using AI, robotics, and continuous learning systems connecting wet and dry labs.",
+          "source": "NVIDIA Newsroom",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-lilly-announce-co-innovation-ai-lab-to-reinvent-drug-discovery-in-the-age-of-ai"
         },
         {
-          "title": "BNL Researchers Develop PFITRE for AI-Powered 3D X-ray Tomography",
-          "summary": "Scientists at Brookhaven National Laboratory unveil PFITRE, a novel AI method combining convolutional neural networks with X-ray physics to reconstruct nanoscale 3D images from limited data and angles.",
+          "title": "Freenome Expands AI and Deep Learning with NVIDIA for Multi-Cancer Detection",
+          "summary": "Freenome is collaborating with NVIDIA to advance personalized multi-cancer detection through fragment-level deep learning models handling massive cfDNA datasets, improving early cancer signal identification from blood draws.",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/freenome-announces-expanded-artificial-intelligence-and-deep-learning-initiatives-accelerated-by-nvidia-to-advance-personalized-multi-cancer-detection-302658407.html"
+        },
+        {
+          "title": "BNL Develops Novel AI Method for 3D X-ray Tomography",
+          "summary": "Brookhaven National Laboratory introduced an AI-powered method using enhanced U-nets with residual dense blocks and dilated convolutions to reconstruct nanoscale 3D X-ray images from limited data and viewing angles, trained on synthetic datasets.",
           "source": "BNL Newsroom",
           "url": "https://www.bnl.gov/newsroom/news.php?a=222627"
         },
         {
-          "title": "Microsoft AI Leader Mustafa Suleyman Warns on AI Controllability",
-          "summary": "Mustafa Suleyman, Microsoft AI leader, cautions that distinguishing alignment from true controllability is critical, calling it the 'life-or-death red line' for AI development.",
-          "source": "AIBase",
-          "url": "https://news.aibase.com/news/24517"
+          "title": "Purdue Partners with Google Public Sector to Scale AI in Education",
+          "summary": "Purdue University and Google Public Sector announced a partnership to integrate Google Cloud's AI tools across the institution, advancing AI-enabled education, research, and operations for students and faculty.",
+          "source": "Purdue Newsroom",
+          "url": "https://www.purdue.edu/newsroom/2026/Q1/purdue-and-google-public-sector-partner-to-scale-ai-integration-and-accelerate-education-and-research-across-the-institution"
         },
         {
-          "title": "WTW Radar Announces Integration with Databricks for Data Sharing",
-          "summary": "WTW Radar integrates with Databricks to streamline and accelerate data sharing in AI-driven risk and analytics platforms.",
-          "source": "WTW",
-          "url": "https://www.wtwco.com/en-ie/news/2026/01/wtw-radar-integrates-with-databricks-to-simplify-and-fast-track-data-sharing"
+          "title": "Claude AI Advances with Code Plugins, Blender Integration, and More",
+          "summary": "Recent updates include Claude Code's 'ralph-research' plugin for self-improving AI experiments, seamless Blender 3D scene generation, and desktop features for local/cloud processing, highlighted in daily AI news.",
+          "source": "ziobuddalabs YouTube",
+          "url": "https://www.youtube.com/watch?v=AfybTE7IPbw"
         }
       ],
       "citations": [
         "https://ruslanmv.com/news-and-trends/issues/trend-2026-01-12/",
-        "https://johnrector.me/2026/01/12/strategic-analysis-key-ai-driven-transformations-in-2026/",
-        "https://www.moneycontrol.com/news/opinion/what-ai-still-cannot-do-the-limits-that-will-matter-most-in-2026-13768331.html/amp",
-        "https://aithority.com/machine-learning/imini-ai-uses-precise-edit-to-rethink-ai-image-generator-in-2026/",
+        "https://www.youtube.com/watch?v=AfybTE7IPbw",
+        "https://www.prnewswire.com/news-releases/freenome-announces-expanded-artificial-intelligence-and-deep-learning-initiatives-accelerated-by-nvidia-to-advance-personalized-multi-cancer-detection-302658407.html",
+        "https://nvidianews.nvidia.com/news/nvidia-and-lilly-announce-co-innovation-ai-lab-to-reinvent-drug-discovery-in-the-age-of-ai",
         "https://www.bnl.gov/newsroom/news.php?a=222627",
-        "https://mhk.com/resource/blog/ai-utilization-management-2026/",
-        "https://www.wtwco.com/en-ie/news/2026/01/wtw-radar-integrates-with-databricks-to-simplify-and-fast-track-data-sharing",
-        "https://news.aibase.com/news/24517"
+        "https://www.ayadata.ai/starting-2026-with-generative-ai-what-every-ceo-needs-to-know-this-quarter/",
+        "https://www.purdue.edu/newsroom/2026/Q1/purdue-and-google-public-sector-partner-to-scale-ai-integration-and-accelerate-education-and-research-across-the-institution"
       ]
     },
     "gaming": {
@@ -404,57 +422,54 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "New Divinity Promises Superior Character Creator to Baldur's Gate 3",
-          "summary": "Developers of the upcoming Divinity game tease an even more detailed character creator with more colors, options, control, and chaos than Baldur's Gate 3, potentially keeping players in the main menu for hours. The announcement highlights enhancements aimed at surpassing Larian's previous work.",
-          "source": "Gamepressure",
-          "url": "https://www.gamepressure.com/newsroom/news/2026/1/12/"
-        },
-        {
-          "title": "Assassin's Creed Director: Industry Giants Mistake in Hiring Too Many Employees",
-          "summary": "Former Assassin's Creed: Unity director criticizes large studios for overstaffing, arguing the future of gaming belongs to smaller teams following the film industry's model. He highlights this as the biggest mistake by industry giants.",
-          "source": "Gamepressure",
-          "url": "https://www.gamepressure.com/newsroom/news/2026/1/12/"
-        },
-        {
-          "title": "Larian CEO Reveals Baldur's Gate 3 Blocked from Nintendo Consoles",
-          "summary": "Larian Studios wanted to port Baldur's Gate 3 to Nintendo Switch 2, but the decision was not theirs to make. The CEO notes future projects like Divinity may have better chances on Nintendo platforms.",
-          "source": "Gamepressure",
-          "url": "https://www.gamepressure.com/newsroom/news/2026/1/12/"
-        },
-        {
-          "title": "Fallout TV Show Season 2 Boosts Game Players by 80% in December",
-          "summary": "The second season of Amazon Prime's Fallout TV series caused an 80% jump in players for Fallout 76 and other Fallout games during December. This surge underscores the impact of media adaptations on game engagement.",
-          "source": "The Game Business",
-          "url": "https://www.thegamebusiness.com/p/fortnite-76-players-jumped-80-in"
-        },
-        {
-          "title": "GameStop Closes Multiple Bucks County Stores Amid Nationwide Pullback",
-          "summary": "GameStop shutters four stores in Bucks County and nearby areas, including Quakertown, Richboro, Warminster, and Willow Grove, halving local locations as the retailer shifts from physical stores due to digital sales trends. Remaining stores include Levittown and Fairless Hill.",
-          "source": "North Penn Now",
-          "url": "https://northpennnow.com/news/2026/jan/12/game-over-gamestop-bucks-county-locations-close-as-retail-footprint-shrinks/"
-        },
-        {
-          "title": "The Legend of Heroes: Trails beyond the Horizon Leads Week 3 Releases",
-          "summary": "Nihon Falcom's latest JRPG, The Legend of Heroes: Trails beyond the Horizon, stands out as the biggest release for January 12-18, 2026, amid a light schedule favoring indie and mid-tier games. The week highlights a trend of quieter early-year launches giving smaller titles visibility.",
+          "title": "The Legend of Heroes: Trails beyond the Horizon Launches This Week",
+          "summary": "Nihon Falcom's latest JRPG entry in the long-running franchise is launching mid-week (January 15-16, 2026) with expanded narrative and refined combat systems. It's the most prominent release of the week for role-playing game enthusiasts.",
           "source": "DLCompare",
           "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-january-2026-week-3"
         },
         {
-          "title": "Five Overlooked Steam Releases Including Vital Shell and Dungeon Antiqua 2",
-          "summary": "PC Gamer spotlights recent Steam gems like Vital Shell (sci-fi shmup with Vampire Survivors-style leveling, Jan 8), Dungeon Antiqua 2 (8-bit JRPG sequel, Jan 8), and Blood Money: Lethal Eden (Jan 10) amid daily release overload.",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-12-2026/"
+          "title": "Hytale Gets Second Chance After Development Cancellation",
+          "summary": "Hypixel Studios' sandbox title with RPG dimensions is being revived and coming to PC this week, marking a rare recovery for a previously cancelled game.",
+          "source": "Massively OP",
+          "url": "https://massivelyop.com/2026/01/12/mmo-hype-train-hytale-gets-what-many-canned-games-never-do-a-second-chance/"
+        },
+        {
+          "title": "BrokenLore: UNFOLLOW Explores Digital Obsession Themes",
+          "summary": "A psychological horror game launching January 16 that examines online identity and social media anxiety through unsettling environments and narrative-driven gameplay.",
+          "source": "DLCompare",
+          "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-january-2026-week-3"
+        },
+        {
+          "title": "Early 2026 Sees Light AAA Release Schedule, Boosting Indie Visibility",
+          "summary": "The gaming industry is experiencing a notably slower start to 2026 with fewer blockbuster launches, creating opportunities for indie and mid-tier studios to gain attention and discovery.",
+          "source": "DLCompare",
+          "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-january-2026-week-3"
+        },
+        {
+          "title": "The Elder Scrolls Online Announces Cross-Platform Play",
+          "summary": "Zenimax Online Studios has officially announced cross-platform play between Xbox, PC, and PlayStation for The Elder Scrolls Online, though a release date has not yet been confirmed.",
+          "source": "Video Game World News",
+          "url": "https://www.youtube.com/watch?v=-tPEjPww30s"
+        },
+        {
+          "title": "Original Quake Optimized for Steam Deck and Xbox Handheld",
+          "summary": "The classic Quake game has been officially optimized for both Steam Deck and Xbox's portable console, expanding accessibility for retro FPS fans.",
+          "source": "Video Game World News",
+          "url": "https://www.youtube.com/watch?v=-tPEjPww30s"
         }
       ],
       "citations": [
         "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-january-2026-week-3",
         "https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-12-2026/",
-        "https://www.gamepressure.com/newsroom/news/2026/1/12/",
-        "https://www.thegamebusiness.com/p/fortnite-76-players-jumped-80-in",
-        "https://northpennnow.com/news/2026/jan/12/game-over-gamestop-bucks-county-locations-close-as-retail-footprint-shrinks/"
+        "https://www.screenhub.com.au/news/games/best-new-video-games-this-week-13-2690479/",
+        "https://www.youtube.com/watch?v=xTfct4nTNks",
+        "https://www.youtube.com/watch?v=-tPEjPww30s",
+        "https://massivelyop.com/2026/01/12/mmo-hype-train-hytale-gets-what-many-canned-games-never-do-a-second-chance/",
+        "https://news.instant-gaming.com/en/articles/17112-this-week-s-releases-from-january-12-to-18-2026",
+        "https://www.maono.com/blogs/news/top-upcoming-pc-games-of-january-2026-streaming-gear-guide"
       ]
     },
     "tech_news": {
@@ -462,31 +477,46 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Motional Targets 2026 Launch for Las Vegas Driverless Robotaxi Service",
-          "summary": "Autonomous vehicle company Motional announced plans to launch a driverless robotaxi service in Las Vegas before the end of 2026, marking a major milestone after restructuring and refocusing its operations around AI-driven technology.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/"
+          "title": "CES 2026 Shifts Focus From Consumer Gadgets to AI Infrastructure and Robotics",
+          "summary": "CES 2026 demonstrates a major industry shift away from consumer product reveals toward robotics, automation, and industrial infrastructure. The standout theme emphasizes practical deployment of robots and AI-enabled devices with real-world applications.",
+          "source": "Wall Street Journal (via Axios)",
+          "url": "https://techstartups.com/2026/01/12/top-tech-news-today-january-12-2026/"
         },
         {
-          "title": "XPENG Achieves Production Milestone and Launches Flagship Model",
-          "summary": "Chinese automaker XPENG announced a critical production milestone and unveiled its next-generation flagship vehicle model as part of its strategic evolution into a global technology leader.",
-          "source": "PR Newswire",
-          "url": "https://www.morningstar.com/news/pr-newswire/20260112cn60855/xpeng-charts-new-course-in-2026-flagship-launch-sales-momentum-and-ai-breakthrough-propel-global-technology-ambitions"
+          "title": "Motional Refocuses Robotaxi Strategy Around AI for 2026 Deployment",
+          "summary": "Autonomous vehicle startup Motional is centering its robotaxi strategy on AI to achieve scalable, cost-effective driverless deployment while meeting safety and regulatory requirements.",
+          "source": "TechStartups",
+          "url": "https://techstartups.com/2026/01/12/top-tech-news-today-january-12-2026/"
         },
         {
-          "title": "CES 2026 Showcases Innovative Consumer Gadgets",
-          "summary": "CES 2026 featured numerous unconventional tech products including Honor's Robot Phone with a motorized camera gimbal, Strutt's autonomous personal vehicle, and Tomorrow Doesn't Matter's foldable headphones that convert into a speaker.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/ces-2026-the-26-weirdest-gadgets-from-techs-biggest-show-this-year/articleshow/126482734.cms"
+          "title": "Patmos Data Company Purchases Kansas City Star Building for AI Campus Expansion",
+          "summary": "Patmos has purchased the former Kansas City Star building to expand its AI campus with co-working spaces, event venues, and tech hub facilities. The company is leveraging a loan program for AI infrastructure development.",
+          "source": "GovTech",
+          "url": "https://www.govtech.com/artificial-intelligence/data-company-buys-former-newspaper-building-for-ai-campus"
+        },
+        {
+          "title": "Purdue University and Google Public Sector Announce Strategic Partnership",
+          "summary": "Purdue University and Google Public Sector announced a strategic partnership on January 12 to scale AI integration and accelerate education and research initiatives across the institution.",
+          "source": "Purdue University",
+          "url": "https://www.purdue.edu/newsroom/2026/Q1/purdue-and-google-public-sector-partner-to-scale-ai-integration-and-accelerate-education-and-research-across-the-institution"
+        },
+        {
+          "title": "Retail Industry Increases IT Infrastructure Investment Amid Digital Transformation",
+          "summary": "Kyndryl's 2025 Retail Readiness Report shows 48% of retail leaders have upgraded IT infrastructure and increased investments by 33%, though technical debt remains a significant constraint for nearly a quarter of retailers.",
+          "source": "PRNewswire",
+          "url": "https://www.prnewswire.com/news-releases/ai-innovation-and-omnichannel-are-critical-to-retail-success-in-2026-302657835.html"
         }
       ],
       "citations": [
-        "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
-        "https://www.morningstar.com/news/pr-newswire/20260112cn60855/xpeng-charts-new-course-in-2026-flagship-launch-sales-momentum-and-ai-breakthrough-propel-global-technology-ambitions",
-        "https://timesofindia.indiatimes.com/technology/tech-news/ces-2026-the-26-weirdest-gadgets-from-techs-biggest-show-this-year/articleshow/126482734.cms"
+        "https://techstartups.com/2026/01/12/top-tech-news-today-january-12-2026/",
+        "https://www.govtech.com/artificial-intelligence/data-company-buys-former-newspaper-building-for-ai-campus",
+        "https://theautomateddaily.com/e/tech-news-for-jan-12-2026/",
+        "https://thequantuminsider.com/2026/01/12/cybersecurity-risks-2026-nordvpn/",
+        "https://www.purdue.edu/newsroom/2026/Q1/purdue-and-google-public-sector-partner-to-scale-ai-integration-and-accelerate-education-and-research-across-the-institution",
+        "https://www.prnewswire.com/news-releases/ai-innovation-and-omnichannel-are-critical-to-retail-success-in-2026-302657835.html"
       ]
     }
   }
