@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T00:17:41.239027+00:00",
-  "generated_at_human": "2026-01-13 00:17 UTC",
+  "generated_at": "2026-01-13T06:07:53.544831+00:00",
+  "generated_at_human": "2026-01-13 06:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -10,56 +10,110 @@
         {
           "title": "Cowork: Claude Code for the rest of your work",
           "url": "https://claude.com/blog/cowork-research-preview",
-          "score": 536,
-          "comments": 269
+          "score": 808,
+          "comments": 379
         },
         {
           "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
           "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-          "score": 451,
-          "comments": 188
+          "score": 543,
+          "comments": 223
         },
         {
-          "title": "Fabrice Bellard's TS Zip (2024)",
-          "url": "https://www.bellard.org/ts_zip/",
-          "score": 89,
-          "comments": 30
+          "title": "The Cray-1 Computer System (1977) [pdf]",
+          "url": "https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf",
+          "score": 68,
+          "comments": 35
         },
         {
           "title": "Postal Arbitrage",
           "url": "https://walzr.com/postal-arbitrage",
-          "score": 229,
-          "comments": 114
-        },
-        {
-          "title": "Unauthenticated remote code execution in OpenCode",
-          "url": "https://cy.md/opencode-rce/",
-          "score": 202,
-          "comments": 49
+          "score": 341,
+          "comments": 179
         },
         {
           "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
           "url": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
-          "score": 129,
-          "comments": 77
+          "score": 199,
+          "comments": 150
+        },
+        {
+          "title": "Floppy disks turn out to be the greatest TV remote for kids",
+          "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
+          "score": 547,
+          "comments": 320
+        },
+        {
+          "title": "Some ecologists fear their field is losing touch with nature",
+          "url": "https://www.nature.com/articles/d41586-025-04150-w",
+          "score": 84,
+          "comments": 37
+        },
+        {
+          "title": "Unauthenticated remote code execution in OpenCode",
+          "url": "https://cy.md/opencode-rce/",
+          "score": 282,
+          "comments": 86
+        },
+        {
+          "title": "HP Reveals Keyboard Computer with Ryzen AI Chip",
+          "url": "https://www.hp.com/us-en/desktops/business/eliteboard.html",
+          "score": 20,
+          "comments": 9
         },
         {
           "title": "Date is out, Temporal is in",
           "url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
-          "score": 292,
-          "comments": 92
+          "score": 352,
+          "comments": 133
+        },
+        {
+          "title": "Implementing a web server in a single printf() call (2014)",
+          "url": "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/",
+          "score": 16,
+          "comments": 2
+        },
+        {
+          "title": "Fabrice Bellard's TS Zip (2024)",
+          "url": "https://www.bellard.org/ts_zip/",
+          "score": 130,
+          "comments": 55
+        },
+        {
+          "title": "Text-Based Web Browsers",
+          "url": "https://cssence.com/2026/text-based-web-browsers/",
+          "score": 3,
+          "comments": 1
+        },
+        {
+          "title": "Provenance Is the New Version Control",
+          "url": "https://aicoding.leaflet.pub/3mcbiyal7jc2y",
+          "score": 11,
+          "comments": 9
         },
         {
           "title": "LLVM: The bad parts",
           "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
-          "score": 270,
-          "comments": 52
+          "score": 310,
+          "comments": 59
         },
         {
-          "title": "'I rarely get outside': scientists ditch fieldwork in the age of AI",
-          "url": "https://www.nature.com/articles/d41586-025-04150-w",
+          "title": "Apple picks Gemini to power Siri",
+          "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+          "score": 760,
+          "comments": 447
+        },
+        {
+          "title": "Show HN: AI in SolidWorks",
+          "url": "https://www.trylad.com",
+          "score": 144,
+          "comments": 78
+        },
+        {
+          "title": "A deep dive on agent sandboxes",
+          "url": "https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes",
           "score": 19,
-          "comments": 6
+          "comments": 3
         },
         {
           "title": "F2 (YC S25) Is Hiring",
@@ -68,94 +122,40 @@
           "comments": 0
         },
         {
-          "title": "Show HN: AI in SolidWorks",
-          "url": "https://www.trylad.com",
-          "score": 116,
-          "comments": 55
-        },
-        {
-          "title": "Floppy disks turn out to be the greatest TV remote for kids",
-          "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
-          "score": 473,
-          "comments": 282
-        },
-        {
-          "title": "Show HN: Agent-of-empires: OpenCode and Claude Code session manager",
-          "url": "https://github.com/njbrake/agent-of-empires",
-          "score": 51,
-          "comments": 13
-        },
-        {
-          "title": "Perlsecret – Perl secret operators and constants",
-          "url": "https://metacpan.org/dist/perlsecret/view/lib/perlsecret.pod",
-          "score": 49,
-          "comments": 10
-        },
-        {
-          "title": "What old tennis players teach us (2017)",
-          "url": "https://www.raphkoster.com/2017/09/22/31098/",
-          "score": 28,
-          "comments": 18
-        },
-        {
-          "title": "Message Queues: A Simple Guide with Analogies (2024)",
-          "url": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
-          "score": 70,
-          "comments": 21
-        },
-        {
-          "title": "Apple picks Google's Gemini to power Siri",
-          "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
-          "score": 609,
-          "comments": 338
-        },
-        {
-          "title": "GitHub: A case study in link maintenance and 404 pages (2013)",
-          "url": "https://chrismorgan.info/blog/github-links-case-study/",
-          "score": 9,
-          "comments": 2
+          "title": "Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir",
+          "url": "https://github.com/finbarr/yolobox",
+          "score": 71,
+          "comments": 54
         },
         {
           "title": "Anthropic made a mistake in cutting off third-party clients",
           "url": "https://archaeologist.dev/artifacts/anthropic",
-          "score": 200,
-          "comments": 170
+          "score": 258,
+          "comments": 186
         },
         {
-          "title": "Show HN: Fall asleep by watching JavaScript load",
-          "url": "https://github.com/sarusso/bedtime",
-          "score": 42,
-          "comments": 14
-        },
-        {
-          "title": "Ai, Japanese chimpanzee who counted and painted dies at 49",
-          "url": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
-          "score": 171,
-          "comments": 58
-        },
-        {
-          "title": "Non-Essential French Embassy Staff Have Left Iran",
-          "url": "https://www.barrons.com/news/non-essential-french-embassy-staff-have-left-iran-sources-d84d1f51",
-          "score": 24,
-          "comments": 8
-        },
-        {
-          "title": "Ansible battle tested hardening for Linux, SSH, Nginx, MySQL",
-          "url": "https://github.com/dev-sec/ansible-collection-hardening",
-          "score": 44,
-          "comments": 10
-        },
-        {
-          "title": "Building a 25 Gbit/s workstation for the SCION Association",
-          "url": "https://github.com/scionassociation/blog-25gbit-workstation",
-          "score": 62,
+          "title": "Show HN: Agent-of-empires: OpenCode and Claude Code session manager",
+          "url": "https://github.com/njbrake/agent-of-empires",
+          "score": 78,
           "comments": 23
         },
         {
-          "title": "Zen-C: Write like a high-level language, run like C",
-          "url": "https://github.com/z-libs/Zen-C",
-          "score": 148,
-          "comments": 90
+          "title": "Windows 8 Desktop Environment for Linux",
+          "url": "https://github.com/er-bharat/Win8DE",
+          "score": 169,
+          "comments": 155
+        },
+        {
+          "title": "Why BM25 queries with more terms can be faster (and other scaling surprises)",
+          "url": "https://turbopuffer.com/blog/bm25-latency-musings",
+          "score": 15,
+          "comments": 0
+        },
+        {
+          "title": "Message Queues: A Simple Guide with Analogies (2024)",
+          "url": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
+          "score": 89,
+          "comments": 25
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 91227,
-          "change_24h": 0.23,
-          "change_7d": -2.81,
-          "market_cap": 1822207936350
+          "price": 91750,
+          "change_24h": -0.28,
+          "change_7d": -1.94,
+          "market_cap": 1833769866409
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3097.59,
-          "change_24h": -0.72,
-          "change_7d": -4.41,
-          "market_cap": 373858358402
+          "price": 3123.07,
+          "change_24h": -1.12,
+          "change_7d": -2.96,
+          "market_cap": 377437492441
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 138.87,
-          "change_24h": -0.59,
-          "change_7d": 0.67,
-          "market_cap": 78486295612
+          "price": 139.85,
+          "change_24h": -2.1,
+          "change_7d": 0.19,
+          "market_cap": 79015028929
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.136569,
-          "change_24h": -0.86,
-          "change_7d": -10.02,
-          "market_cap": 22988559293
+          "price": 0.138831,
+          "change_24h": -1.24,
+          "change_7d": -8.62,
+          "market_cap": 23350972112
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.386152,
-          "change_24h": -0.66,
-          "change_7d": -8.85,
-          "market_cap": 14166291508
+          "price": 0.391746,
+          "change_24h": -1.6,
+          "change_7d": -7.91,
+          "market_cap": 14360308516
         }
       ]
     },
@@ -214,22 +214,42 @@
         {
           "name": "Monero",
           "symbol": "XMR",
-          "market_cap_rank": 16
+          "market_cap_rank": 15
+        },
+        {
+          "name": "Dash",
+          "symbol": "DASH",
+          "market_cap_rank": 144
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 118
         },
         {
           "name": "Lighter",
           "symbol": "LIT",
-          "market_cap_rank": 148
+          "market_cap_rank": 150
         },
         {
           "name": "Dolomite",
           "symbol": "DOLO",
-          "market_cap_rank": 879
+          "market_cap_rank": 914
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 32
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 249
+        },
+        {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 28
+        },
+        {
+          "name": "Pump.fun",
+          "symbol": "PUMP",
+          "market_cap_rank": 76
         },
         {
           "name": "Solana",
@@ -237,29 +257,9 @@
           "market_cap_rank": 6
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 119
-        },
-        {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 27
-        },
-        {
-          "name": "Quai Network",
-          "symbol": "QUAI",
-          "market_cap_rank": 572
-        },
-        {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 28
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 248
+          "name": "Horizen",
+          "symbol": "ZEN",
+          "market_cap_rank": 322
         }
       ]
     },
@@ -268,47 +268,51 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Chinese Markets Surge with A-Shares and Hang Seng Leading Gains",
-          "summary": "Shanghai Composite rose 1.09%, Shenzhen 1.75%, GEM 1.82%; Hang Seng up 1.44% to 26,608, Tech Index +3.1% on AI and tech momentum. Nasdaq China Golden Dragon Index surged 4.2% with Alibaba +10%, Bilibili +9%, XPeng +8%.[1]",
-          "source": "Jin10 Data",
-          "url": "https://news.futunn.com/en/post/67280924/jin10-data-global-financial-morning-briefing-january-13-2026"
+          "title": "US Stock Indices Show Mixed YTD Gains with Small Caps Leading",
+          "summary": "Russell 2000 up 5.7% YTD, Dow Jones +3.0%, NASDAQ 100 +1.8%, and S&P 500 +1.8% as of early January 2026, reflecting rotation from tech to cyclicals and small caps. S&P 500 closed flat at 6977 points recently amid ongoing market consolidation.",
+          "source": "Navellier",
+          "url": "https://navellier.com/1-13-26-as-the-first-week-in-january-goes-so-goes-the-year/"
         },
         {
-          "title": "US Indices Close Higher; Earnings Season Kicks Off with Bank Reports",
-          "summary": "Dow +0.17%, S&P 500 +0.16%, Nasdaq +0.26%; JPMorgan and Delta earnings due pre-market alongside December CPI data, expected to drive volatility. Focus on core inflation and corporate profits justifying high valuations.[1][4]",
-          "source": "Jin10 Data / Sergey Tereshkin",
-          "url": "https://news.futunn.com/en/post/67280924/jin10-data-global-financial-morning-briefing-january-13-2026"
-        },
-        {
-          "title": "US Markets Hit Record Highs in First Full Week of 2026",
-          "summary": "S&P 500 +1.6%, Nasdaq 100 +2.2%, Russell 2000 +4.6% for the week; Dow and S&P closed at historic highs with broadening rally beyond tech mega-caps. YTD: Russell +5.7%, Dow +3.0%, Nasdaq 100 +1.8%, S&P +1.8%.[2][3][5]",
-          "source": "IG / Navellier",
-          "url": "https://www.ig.com/en/news-and-trade-ideas/weekly-market-navigator--12-jan-2026-260112"
-        },
-        {
-          "title": "US CPI Data and Q4 Earnings Season Dominate Tuesday Agenda",
-          "summary": "December US CPI release at 16:30 MSK could spark volatility in dollar, yields, and equities; core inflation slowdown may boost stocks, high print risks Fed policy debate. JPMorgan, Delta reports to set tone for banks and transport.[4]",
+          "title": "US CPI Data and Bank Earnings Kick Off Major Market Movers Today",
+          "summary": "December US CPI release expected to drive volatility in dollar, bonds, and equities, with focus on core inflation and services prices. Earnings season starts with JPMorgan and Delta reports setting tone for financials and transport sectors.",
           "source": "Sergey Tereshkin",
           "url": "https://sergeytereshkin.com/publications/economic-events-and-corporate-reports-january-13-2026"
         },
         {
-          "title": "Hang Seng Tests Breakout Levels Amid Stabilizing China Flows",
-          "summary": "HSI down 0.4% last week after early surge but holds 26,000 support with constructive technicals; southbound flows resume, China Life +9% on policy bets. Potential retest of 27,200-27,300 resistance.[2]",
-          "source": "IG",
-          "url": "https://www.ig.com/en/news-and-trade-ideas/weekly-market-navigator--12-jan-2026-260112"
+          "title": "USD Weakens on Fed Independence Concerns Amid DOJ Probe into Powell",
+          "summary": "USD slipped 0.3% due to worries over Federal Reserve independence following US Department of Justice criminal investigation into Chair Powell. Former Chair Yellen called the probe 'extremely chilling,' potentially impacting Fed rate trajectory.",
+          "source": "Standard Chartered",
+          "url": "https://www.sc.com/sg/market-outlook/daily-navigator-13-1-2026/?mvog=1"
+        },
+        {
+          "title": "Gold Rally Continues on Geopolitical Tensions and Fed Worries",
+          "summary": "Gold gained nearly 2% amid safe-haven demand from US tariff threats on Iran business, Venezuela intervention, Greenland takeover talk, and Fed probe. Prices approach resistance at $4,727/oz despite stretched positioning.",
+          "source": "Standard Chartered",
+          "url": "https://www.sc.com/sg/market-outlook/daily-navigator-13-1-2026/?mvog=1"
+        },
+        {
+          "title": "Major US Bank Earnings Week Looms with Dow Bullish Trend Intact",
+          "summary": "JPMorgan reports Tuesday, followed by Bank of America, Citigroup, Wells Fargo Wednesday, and Morgan Stanley, Goldman Sachs Thursday. Capital rotation favors Dow (+3% YTD) and Russell 2000 ahead of results.",
+          "source": "OANDA",
+          "url": "https://www.oanda.com/sg-en/trade-tap-blog/analysis/technical/12012026-dow-jones-bank-earnings/"
+        },
+        {
+          "title": "US Stocks Mixed Last Week on Labor Data and Bank Pullback",
+          "summary": "S&P 500 eased 0.2%, Dow slid 0.8%, Nasdaq 100 gained 0.1% as JOLTS showed cooling job openings, ADP hiring rebounded modestly, and ISM Services beat expectations. Banks like JPMorgan and Bank of America fell over 2%.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/stock-market"
         }
       ],
       "citations": [
-        "https://news.futunn.com/en/post/67280924/jin10-data-global-financial-morning-briefing-january-13-2026",
-        "https://www.ig.com/en/news-and-trade-ideas/weekly-market-navigator--12-jan-2026-260112",
         "https://navellier.com/1-13-26-as-the-first-week-in-january-goes-so-goes-the-year/",
         "https://sergeytereshkin.com/publications/economic-events-and-corporate-reports-january-13-2026",
-        "https://www.investing.com/analysis/markets-week-ahead-key-bank-earnings-inflation-data-take-center-stage-200673065",
-        "https://navellier.com/1-13-26-the-new-year-brings-a-new-hunt-for-market-winners/",
-        "https://www.chathamfinancial.com/insights/big-investors-barred-from-buying-americas-homes-1-12-26"
+        "https://tradingeconomics.com/united-states/stock-market",
+        "https://www.sc.com/sg/market-outlook/daily-navigator-13-1-2026/?mvog=1",
+        "https://www.oanda.com/sg-en/trade-tap-blog/analysis/technical/12012026-dow-jones-bank-earnings/"
       ]
     },
     "crypto_news": {
@@ -316,60 +320,50 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "Bitcoin Trades Sideways Near $91,000 Amid Options Volatility Spike",
-          "summary": "Bitcoin's spot price remains stuck around $91,000 with low volume and weakening momentum, but options markets show spiking short-term implied volatility, signaling traders bracing for a sharp move and rising demand for downside protection.[6][7]",
-          "source": "AMBCrypto",
-          "url": "https://ambcrypto.com/bitcoin-options-flash-warning-as-traders-brace-for-sharp-move/"
+          "title": "Bitcoin Faces Bearish Correction Ahead of US CPI Data",
+          "summary": "Bitcoin is trading at $92,168 and expected to test support near $88,505 before potential recovery. The US December CPI report releasing today could significantly impact Fed rate expectations and crypto market sentiment.",
+          "source": "Forex24.pro / Phemex",
+          "url": "https://forex24.pro/bitcoin-forecast/bitcoin-forecast-and-btc-usd-analysis-for-january-13-2026/"
         },
         {
-          "title": "BTQ Technologies Launches Bitcoin Quantum Testnet",
-          "summary": "BTQ Technologies has launched the first quantum-safe Bitcoin testnet fork, replacing ECDSA with NIST-standardized ML-DSA to protect against quantum threats, highlighting risks to $650–750 billion in vulnerable BTC including Satoshi's holdings.[4]",
-          "source": "The Quantum Insider",
-          "url": "https://thequantuminsider.com/2026/01/12/btq-technologies-launches-bitcoin-quantum-testnet/"
+          "title": "Monero Reaches All-Time High Amid Privacy Coin Demand",
+          "summary": "Monero (XMR) surged 13.35% in 24 hours to $567.29, reaching a new all-time high as investors show renewed interest in privacy-focused cryptocurrencies amid market volatility.",
+          "source": "Phemex",
+          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-crypto-market-drops-sharply-ahead-of-us-cpi-btc-and-eth-lead-declines-jan-13-53038"
         },
         {
-          "title": "JPMorgan to Issue JPM Coin on Canton Network",
-          "summary": "JP Morgan announced it will launch its USD-backed stablecoin JPM Coin on the privacy-focused Canton Network, expanding from Base as part of plans for regulated, interoperable digital money across multiple blockchains.[2]",
+          "title": "JPMorgan Launches JPM Coin on Canton Network",
+          "summary": "JPMorgan announced it will issue its USD-backed stablecoin JPM Coin on the Canton Network, a privacy-focused blockchain, expanding its multi-blockchain stablecoin strategy.",
           "source": "Trakx",
           "url": "https://trakx.io/resources/weekly-update/crypto-consolidation-january-12-2026/"
         },
         {
-          "title": "Senate Delays Markup on Major Crypto Legislation",
-          "summary": "Senate Agriculture Chair John Boozman delayed a markup on key cryptocurrency legislation to allow bipartisan talks to continue, amid discussions on related probes in Senate Banking.[6]",
-          "source": "Politico",
-          "url": "https://www.politico.com/live-updates/2026/01/12/congress/boozman-delays-senate-ag-crypto-markup-00723101"
-        },
-        {
-          "title": "Crypto Markets Flat as Upcoming Macro Week Looms",
-          "summary": "Crypto prices consolidated with minimal movement, including a 0.7% dip in top10 index, ahead of a high-impact week of FOMC speeches, CPI, PPI, jobless claims, and Fed balance sheet data expected to drive volatility.[2][3][5]",
-          "source": "Trakx / Binance Square",
+          "title": "Crypto Market Enters Consolidation Mode",
+          "summary": "Digital assets moved into consolidation with the Top10 Crypto CTI declining 0.7% weekly. The AI CTI advanced 7% while the Meme CTI corrected 8% after the previous week's gains.",
+          "source": "Trakx",
           "url": "https://trakx.io/resources/weekly-update/crypto-consolidation-january-12-2026/"
         },
         {
-          "title": "Zcash Plunges 14% After Key Developer Team Quits",
-          "summary": "Privacy token Zcash dropped 14% following the exit of a major developer team over governance disputes.[2]",
-          "source": "Trakx / CoinDesk",
+          "title": "Zcash Falls 14% After Key Developer Team Departure",
+          "summary": "Privacy token Zcash dropped 14% following the departure of a key developer team over governance disagreements, raising concerns about the project's direction.",
+          "source": "Trakx (via CoinDesk)",
           "url": "https://trakx.io/resources/weekly-update/crypto-consolidation-january-12-2026/"
         },
         {
-          "title": "Morgan Stanley Files for Bitcoin and Solana ETFs",
-          "summary": "Wall Street firm Morgan Stanley has filed for Bitcoin and Solana ETFs, signaling growing institutional interest.[2]",
-          "source": "Trakx / Bitcoin.com",
-          "url": "https://trakx.io/resources/weekly-update/crypto-consolidation-january-12-2026/"
+          "title": "Major Upcoming Crypto Events This Week",
+          "summary": "Key events include BNB Chain's Fermi hard fork (Jan 14), Ravencoin's block reward halving (Jan 15), and Arbitrum's token unlock of 92.65 million tokens (Jan 16). Ondo's massive 1.94 billion token unlock is scheduled for Jan 18.",
+          "source": "Phemex",
+          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-crypto-market-drops-sharply-ahead-of-us-cpi-btc-and-eth-lead-declines-jan-13-53038"
         }
       ],
       "citations": [
         "https://forex24.pro/bitcoin-forecast/bitcoin-forecast-and-btc-usd-analysis-for-january-13-2026/",
         "https://trakx.io/resources/weekly-update/crypto-consolidation-january-12-2026/",
-        "https://www.binance.com/en/square/post/34984494446417",
-        "https://thequantuminsider.com/2026/01/12/btq-technologies-launches-bitcoin-quantum-testnet/",
-        "https://thedefiant.io/news/markets/crypto-markets-flat-metals-rally-jan-12-2026",
-        "https://www.politico.com/live-updates/2026/01/12/congress/boozman-delays-senate-ag-crypto-markup-00723101",
-        "https://ambcrypto.com/bitcoin-options-flash-warning-as-traders-brace-for-sharp-move/",
-        "https://99bitcoins.com/news/bitcoin-btc/bitcoin-price-stagnant-miners/"
+        "https://phemex.com/news/article/phemex-crypto-market-daily-crypto-market-drops-sharply-ahead-of-us-cpi-btc-and-eth-lead-declines-jan-13-53038",
+        "https://tickernews.co/bitcoins-2026-battle-from-record-highs-to-global-financial-risk/amp/"
       ]
     },
     "ai_news": {
@@ -377,55 +371,48 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Penn State Researchers Develop ZENN AI Framework for Complex Data Analysis",
-          "summary": "Penn State researchers introduced ZENN (Zentropy-Embedded Neural Networks), a new AI framework that adapts to variations in data quality from different instruments, with applications in Alzheimer's research and materials design. The study was featured in the Proceedings of the National Academy of Sciences.[1]",
+          "title": "Freenome Expands AI and Deep Learning Initiatives with NVIDIA for Multi-Cancer Detection",
+          "summary": "Freenome announced expanded AI and deep learning projects accelerated by NVIDIA, including a Fragment-level Deep Learning (FLDL) model to improve speed and accuracy in analyzing large cfDNA datasets from blood tests for personalized cancer screening.",
+          "source": "PR Newswire via Morningstar",
+          "url": "https://www.morningstar.com/news/pr-newswire/20260112sf60359/freenome-announces-expanded-artificial-intelligence-and-deep-learning-initiatives-accelerated-by-nvidia-to-advance-personalized-multi-cancer-detection"
+        },
+        {
+          "title": "Penn State Develops ZENN AI Framework to Handle Variable Data Quality in Research",
+          "summary": "Researchers at Penn State introduced ZENN (Zentropy-Embedded Neural Networks), a new AI approach that adapts to differences in data quality from various instruments, enhancing accuracy in fields like Alzheimer's research and materials design.",
           "source": "Mirage News",
           "url": "https://www.miragenews.com/ai-learns-to-decode-complex-research-data-1600682/"
         },
         {
-          "title": "Freenome Expands AI and Deep Learning with NVIDIA for Multi-Cancer Detection",
-          "summary": "Freenome announced expanded AI initiatives accelerated by NVIDIA, including a fragment-level deep learning model for analyzing large cfDNA datasets from blood draws to improve personalized cancer detection. The collaboration also explores AI tools for healthcare organizations using real-world data.[2]",
-          "source": "PR Newswire / Morningstar",
-          "url": "https://www.morningstar.com/news/pr-newswire/20260112sf60359/freenome-announces-expanded-artificial-intelligence-and-deep-learning-initiatives-accelerated-by-nvidia-to-advance-personalized-multi-cancer-detection"
-        },
-        {
-          "title": "Meta Announces 'Meta Compute' AI Infrastructure Initiative",
-          "summary": "Meta CEO Mark Zuckerberg unveiled 'Meta Compute,' a decade-long plan to build tens of gigawatts of AI infrastructure, backed by massive investments including $600 billion in U.S. data centers by 2028 and acquisitions like Scale AI. The initiative is led by former Google and Safe Superintelligence executives.[5]",
+          "title": "Meta Launches 'Meta Compute' AI Infrastructure Initiative for Massive Data Center Expansion",
+          "summary": "Meta CEO Mark Zuckerberg announced 'Meta Compute,' a decade-long plan to build tens of gigawatts of AI infrastructure, led by Santosh Janardhan and Daniel Gross, backed by billions in investments for superintelligence pursuits.",
           "source": "MediaPost",
           "url": "https://www.mediapost.com/publications/article/411960/"
         },
         {
-          "title": "OpenAI Acquires Healthcare Startup Torch for ChatGPT Health",
-          "summary": "OpenAI acquired Torch, a startup that unifies lab results, medications, and provider visit recordings, to enhance its ChatGPT Health platform with integrated healthcare data capabilities.[7]",
-          "source": "Fierce Healthcare",
-          "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-acquires-healthcare-startup-torch-build-out-chatgpt-health"
+          "title": "CES 2026 Highlights AI Shift from Hardware to Product Deployment and Global Scaling",
+          "summary": "At CES 2026, industry leaders discussed moving beyond AI hardware to focus on operations, software, monetization, and global adoption of AI-native products, as emphasized by Subotiz CEO Jeff Li.",
+          "source": "AIJourn via PR Newswire",
+          "url": "https://aijourn.com/ces-2026-sees-ai-industry-shift-focus-from-hardware-to-ai-product-deployment/"
         },
         {
-          "title": "WEF Survey: AI Drives Cybersecurity Changes, Security Checks Double in 2026",
-          "summary": "A World Economic Forum survey found 94% of respondents view AI as the top cybersecurity driver in 2026, with 64% now assessing AI tool risks before deployment—nearly double from last year—amid rising vulnerabilities.[4]",
-          "source": "The Register",
-          "url": "https://www.theregister.com/2026/01/12/ai_security_wef_survey/"
-        },
-        {
-          "title": "Plume Acquires Sweepr to Expand AI-Based Customer Care",
-          "summary": "Networking firm Plume acquired Ireland-based Sweepr, an AI startup serving Telus and Eir, to bolster AI-driven customer care capabilities.[9]",
-          "source": "Light Reading",
-          "url": "https://www.lightreading.com/ai-machine-learning/plume-scoops-up-sweepr"
+          "title": "China Aims to Mitigate AI Job Impacts While Building Talent Pipeline",
+          "summary": "China's AI core industry nears 600 billion yuan scale, with surging talent demand amid breakthroughs in large language models and AI integration into manufacturing, services, and biotech.",
+          "source": "Xinhua via SCIO",
+          "url": "http://english.scio.gov.cn/in-depth/2026-01/13/content_118276395.html"
         }
       ],
       "citations": [
-        "https://www.miragenews.com/ai-learns-to-decode-complex-research-data-1600682/",
         "https://www.morningstar.com/news/pr-newswire/20260112sf60359/freenome-announces-expanded-artificial-intelligence-and-deep-learning-initiatives-accelerated-by-nvidia-to-advance-personalized-multi-cancer-detection",
+        "https://www.miragenews.com/ai-learns-to-decode-complex-research-data-1600682/",
         "https://elearningindustry.com/biggest-ai-companies-leaders-shaping-the-future-of-artificial-intelligence",
-        "https://www.theregister.com/2026/01/12/ai_security_wef_survey/",
+        "https://aijourn.com/ces-2026-sees-ai-industry-shift-focus-from-hardware-to-ai-product-deployment/",
         "https://www.mediapost.com/publications/article/411960/",
+        "http://english.scio.gov.cn/in-depth/2026-01/13/content_118276395.html",
         "https://goodstrat.com/2026/01/12/10-ai-agents-every-business-leader-needs-to-steer-clear-of-in-2026-2026-01-13/",
-        "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-acquires-healthcare-startup-torch-build-out-chatgpt-health",
-        "https://www.nationalacademies.org/cdn/materials/a0cc2d0c-894a-4a62-a648-eeefb5af649e",
-        "https://www.lightreading.com/ai-machine-learning/plume-scoops-up-sweepr"
+        "https://www.edtechinnovationhub.com/news/team4tech-opens-applications-for-experience-ai-cohort-for-north-american-nonprofits"
       ]
     },
     "gaming": {
@@ -433,34 +420,46 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Hytale Launches in Early Access Today After Years of Development Delays",
-          "summary": "Hytale, the highly anticipated sandbox RPG from Hypixel Studios, enters Early Access on January 13, 2026, at times including 7:00 AM PT / 10:00 AM ET, with expectations of over 1 million players causing potential server queues. Developers urge pre-downloading the launcher to ease launch stress following the project's revival under a co-founder.[2][3][4]",
-          "source": "iGameMag, Vice, AS.com",
-          "url": "https://igamemag.com/hytale-release-date-january-13-2026-what-you-need-to-know/"
-        },
-        {
-          "title": "Magic Forge Tycoon Releases Today Kicking Off Light Week 3 Schedule",
-          "summary": "Magic Forge Tycoon, a strategy management sim, launches on January 13 as the first of several indie and mid-tier games this week, including JRPG The Legend of Heroes: Trails beyond the Horizon and horror title BrokenLore: UNFOLLOW on January 16. The early 2026 schedule highlights smaller studios amid a lack of AAA blockbusters.[1]",
+          "title": "Magic Forge Tycoon Launches Today in Early 2026 Release Wave",
+          "summary": "Magic Forge Tycoon, a strategy and management sim focused on building a magical crafting business, releases on January 13, 2026, kicking off a week of indie and mid-tier games including JRPG The Legend of Heroes: Trails beyond the Horizon and horror title BrokenLore: UNFOLLOW.",
           "source": "DLCompare",
           "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-january-2026-week-3"
         },
         {
-          "title": "Krafton Invests $68.5 Million in KPop Demon Hunters Music Producer",
-          "summary": "South Korean game publisher Krafton announces up to 100 billion won ($68.5 million) investment in The Black Label, soundtrack producer for the award-winning Netflix animated feature KPop Demon Hunters, which won two Golden Globes.[5]",
-          "source": "KED Global",
-          "url": "https://www.kedglobal.com/games/newsView/ked202601120005"
+          "title": "Star Wars Outlaws Joins Xbox Game Pass on January 13",
+          "summary": "Star Wars Outlaws arrives on Xbox Game Pass for Series X|S, PC, and Cloud on January 13, 2026, alongside other upcoming titles like My Little Pony: A Zephyr Heights Mystery on January 15.",
+          "source": "PureXbox",
+          "url": "https://www.purexbox.com/guides/xbox-game-pass-all-games-coming-soon-in-january-2026"
+        },
+        {
+          "title": "Hytale Enters Early Access on PC Today After Securing Funding",
+          "summary": "Long-awaited Minecraft-inspired game Hytale launches in early access on PC on January 13, 2026, following news that developer Hypixel Studios has secured funding for the next two years of development.",
+          "source": "Instant Gaming / GameRant",
+          "url": "https://news.instant-gaming.com/en/articles/17112-this-week-s-releases-from-january-12-to-18-2026"
+        },
+        {
+          "title": "The Sims 4 Receives Free Coach Collection Update January 13",
+          "summary": "The Coach Collection, featuring nine new Create a Sim items, Build Buy decor, and a new Gallery household, drops for free in The Sims 4 base game on January 13, 2026.",
+          "source": "EA",
+          "url": "https://www.ea.com/en/games/the-sims/the-sims-4/news/the-coach-collection"
+        },
+        {
+          "title": "Nintendo News Roundup: Animal Crossing Updates and Switch Changes",
+          "summary": "Recent Nintendo updates include Animal Crossing: New Horizons 3.0 on January 15, Tetris 99 crossover, Fire Emblem: Path of Radiance on Switch 2 Classics, and discontinuation of Switch Game Vouchers by January 31, 2026.",
+          "source": "NintendoFuse Podcast",
+          "url": "https://www.youtube.com/watch?v=WP77rzOB6tw"
         }
       ],
       "citations": [
         "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-january-2026-week-3",
-        "https://igamemag.com/hytale-release-date-january-13-2026-what-you-need-to-know/",
-        "https://www.vice.com/en/article/when-does-hytale-come-out-hytale-release-time-and-early-access-details/",
-        "https://en.as.com/meristation/news/hytales-second-life-begins-this-week-early-access-release-date-and-times-f202601-n/",
-        "https://www.kedglobal.com/games/newsView/ked202601120005",
-        "https://www.gameindustry.com/news-industry-happenings/why-hidden-object-adventure-games-are-making-a-comeback/"
+        "https://www.purexbox.com/guides/xbox-game-pass-all-games-coming-soon-in-january-2026",
+        "https://www.youtube.com/watch?v=WP77rzOB6tw",
+        "https://news.instant-gaming.com/en/articles/17112-this-week-s-releases-from-january-12-to-18-2026",
+        "https://gamerant.com/hytale-minecraft-funding-secured-development-update/",
+        "https://www.ea.com/en/games/the-sims/the-sims-4/news/the-coach-collection"
       ]
     },
     "tech_news": {
@@ -468,54 +467,45 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Wing Partners with Walmart for Nationwide Drone Delivery Expansion",
-          "summary": "Alphabet's Wing drone delivery service announced expansion to 150 more Walmart stores, reaching 40 million people starting in Houston on January 15, with Google CEO Sundar Pichai predicting a big year ahead as it challenges Amazon.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-predicts-big-year-for-wing-as-company-ties-up-with-walmart-to-take-on-amazon/articleshow/126489020.cms"
+          "title": "Canon Achieves World First in Inkjet-Based Wafer Planarization",
+          "summary": "Canon Inc. announced a breakthrough technology using inkjet methods to create dramatically smoother wafer surfaces, marking a world first in semiconductor manufacturing processes.",
+          "source": "Canon Global",
+          "url": "https://global.canon/en/news/2026/20260113-2.html"
         },
         {
-          "title": "Canon Showcases 156dB Dynamic Range SPAD Sensor Prototype at CES 2026",
-          "summary": "Canon's new SPAD sensor prototype offers unprecedented 156dB dynamic range, excelling in high-contrast and low-light scenarios, with potential future integration into consumer products.",
-          "source": "RedShark News",
-          "url": "https://www.redsharknews.com/ces-2026-highlights-8-products-and-tech-trends-that-stood-out?hs_amp=true"
+          "title": "Alphabet Reaches $4 Trillion Valuation Milestone",
+          "summary": "Google parent Alphabet Inc. became the fourth Big Tech company valued at $4 trillion, highlighting the sector's rapid growth amid market milestones.",
+          "source": "WDRB (AP)",
+          "url": "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-12-50-a-m-est/article_c78fc8fd-810b-54fc-a311-6e27e058eb2d.html"
         },
         {
-          "title": "Lenovo Unveils Legion Pro Rollable Gaming Laptop Concept",
-          "summary": "Lenovo's Legion Pro Rollable Concept expands from 16-inch to 24-inch display for esports, featuring a dual-motor tension-based design with minimal vibration.",
-          "source": "RedShark News",
-          "url": "https://www.redsharknews.com/ces-2026-highlights-8-products-and-tech-trends-that-stood-out?hs_amp=true"
+          "title": "Meta Appoints Dina Powell McCormick as President and Vice Chairman",
+          "summary": "Meta named former Trump adviser Dina Powell McCormick to the roles of president and vice chairman, signaling a high-profile leadership addition.",
+          "source": "WDRB (AP)",
+          "url": "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-12-50-a-m-est/article_c78fc8fd-810b-54fc-a311-6e27e058eb2d.html"
         },
         {
-          "title": "Samsung Launches 13-inch Color E-Paper Display at NRF 2026",
-          "summary": "Samsung introduced a compact 13-inch battery-powered Color E-Paper display for retail, offering low power consumption and high visibility for promotional uses in stores.",
-          "source": "Samsung News",
-          "url": "https://news.samsung.com/us/samsung-introduces-next-generation-retail-innovations-nrf-2026/"
+          "title": "Trump Demands Tech Giants Pay Full Cost of Data Center Electricity",
+          "summary": "President Trump stated that tech companies building data centers must cover their own electricity costs, amid rising power prices and infrastructure debates.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/world-news/tech-giants-must-bear-cost-of-data-centre-electricity-says-trump-126011300172_1.html"
         },
         {
-          "title": "ARM, Qualcomm, Samsung Confirm PC and Mobile Price Hikes for 2026",
-          "summary": "Major chipmakers ARM, Qualcomm, and Samsung announced price increases for PCs and mobile devices due to data centers monopolizing global RAM supplies.",
-          "source": "Fudzilla",
-          "url": "https://www.fudzilla.com/big-tech-confirms-big-price-hikes-in-2026/"
-        },
-        {
-          "title": "Hong Kong Showcases 61 Tech Companies at CES 2026",
-          "summary": "61 Hong Kong tech firms demonstrated products at CES 2026, highlighting the region's potential for global markets.",
-          "source": "Manila Times",
-          "url": "https://www.manilatimes.net/2026/01/13/tmt-newswire/media-outreach-newswire/hong-kong-tech-exhibits-immense-potential-at-ces-2026-with-61-tech-companies-ready-for-global-markets/2257568"
+          "title": "Tech Investors Eye Gains from Potential U.S. Takeover of Greenland",
+          "summary": "Discussions of a U.S. acquisition of Greenland under Trump are sparking investor interest in its rare earth minerals vital for smartphones, EVs, semiconductors, and defense tech.",
+          "source": "MacDailyNews",
+          "url": "https://macdailynews.com/2026/01/12/apple-and-big-tech-could-win-big-with-potential-american-takeover-of-greenland/"
         }
       ],
       "citations": [
-        "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-predicts-big-year-for-wing-as-company-ties-up-with-walmart-to-take-on-amazon/articleshow/126489020.cms",
-        "https://www.redsharknews.com/ces-2026-highlights-8-products-and-tech-trends-that-stood-out?hs_amp=true",
-        "https://news.samsung.com/us/samsung-introduces-next-generation-retail-innovations-nrf-2026/",
-        "https://www.mobotix.com/en/top-5-security-trends-2026",
-        "https://www.advisory.com/daily-briefing/2026/01/12/health-trends",
-        "https://www.latimes.com/business/story/2026-01-12/top-tech-titans-dominance-wanes-in-2025",
-        "https://fudzilla.com/big-tech-confirms-big-price-hikes-in-2026/",
-        "https://www.manilatimes.net/2026/01/13/tmt-newswire/media-outreach-newswire/hong-kong-tech-exhibits-immense-potential-at-ces-2026-with-61-tech-companies-ready-for-global-markets/2257568"
+        "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-12-50-a-m-est/article_c78fc8fd-810b-54fc-a311-6e27e058eb2d.html",
+        "https://www.business-standard.com/world-news/tech-giants-must-bear-cost-of-data-centre-electricity-says-trump-126011300172_1.html",
+        "https://global.canon/en/news/2026/20260113-2.html",
+        "https://digiday.com/podcasts/ces-2026-agentic-ai-hype-vs-media-buyers-pragmatism/",
+        "https://macdailynews.com/2026/01/12/apple-and-big-tech-could-win-big-with-potential-american-takeover-of-greenland/"
       ]
     }
   }
