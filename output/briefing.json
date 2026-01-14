@@ -1,163 +1,11 @@
 {
-  "generated_at": "2026-01-14T12:08:40.824255+00:00",
-  "generated_at_human": "2026-01-14 12:08 UTC",
+  "generated_at": "2026-01-14T18:07:48.051871+00:00",
+  "generated_at_human": "2026-01-14 18:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "category": "tech_ai_nerd",
-      "count": 25,
-      "items": [
-        {
-          "title": "There's a ridiculous amount of tech in a disposable vape",
-          "url": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
-          "score": 448,
-          "comments": 374
-        },
-        {
-          "title": "I Love You, Redis, but I'm Leaving You for SolidQueue",
-          "url": "https://www.simplethread.com/redis-solidqueue/",
-          "score": 79,
-          "comments": 33
-        },
-        {
-          "title": "1000 Blank White Cards",
-          "url": "https://en.wikipedia.org/wiki/1000_Blank_White_Cards",
-          "score": 196,
-          "comments": 34
-        },
-        {
-          "title": "ASCII Clouds",
-          "url": "https://caidan.dev/portfolio/ascii_clouds/",
-          "score": 218,
-          "comments": 38
-        },
-        {
-          "title": "Show HN: Tiny FOSS Compass and Navigation App (<2MB)",
-          "url": "https://github.com/CompassMB/MBCompass",
-          "score": 14,
-          "comments": 7
-        },
-        {
-          "title": "Coverage Cat (YC S22) Is Hiring a Fractional Operations Specialist",
-          "url": "https://www.coveragecat.com/careers/operations/fractional-operations-specialist",
-          "score": 1,
-          "comments": 0
-        },
-        {
-          "title": "Systematically generating tests that would have caught Anthropic's top‑K bug",
-          "url": "https://theorem.dev/blog/anthropic-bug-test/",
-          "score": 15,
-          "comments": 1
-        },
-        {
-          "title": "A 40-line fix eliminated a 400x performance gap",
-          "url": "https://questdb.com/blog/jvm-current-thread-user-time/",
-          "score": 283,
-          "comments": 59
-        },
-        {
-          "title": "Every GitHub object has two IDs",
-          "url": "https://www.greptile.com/blog/github-ids",
-          "score": 253,
-          "comments": 64
-        },
-        {
-          "title": "Putting the \"You\" in CPU (2023)",
-          "url": "https://cpu.land/",
-          "score": 51,
-          "comments": 5
-        },
-        {
-          "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
-          "url": "https://epstein.trynia.ai/",
-          "score": 108,
-          "comments": 39
-        },
-        {
-          "title": "No management needed: anti-patterns in early-stage engineering teams",
-          "url": "https://www.ablg.io/blog/no-management-needed",
-          "score": 211,
-          "comments": 223
-        },
-        {
-          "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
-          "url": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
-          "score": 244,
-          "comments": 51
-        },
-        {
-          "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
-          "url": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
-          "score": 114,
-          "comments": 35
-        },
-        {
-          "title": "The $LANG Programming Language",
-          "url": "https://news.ycombinator.com/item?id=46610557",
-          "score": 211,
-          "comments": 41
-        },
-        {
-          "title": "The Gleam Programming Language",
-          "url": "https://gleam.run/",
-          "score": 147,
-          "comments": 85
-        },
-        {
-          "title": "Show HN: 1D-Pong Game at 39C3",
-          "url": "https://github.com/ogermer/1d-pong",
-          "score": 36,
-          "comments": 9
-        },
-        {
-          "title": "Are two heads better than one?",
-          "url": "https://eieio.games/blog/two-heads-arent-better-than-one/",
-          "score": 173,
-          "comments": 55
-        },
-        {
-          "title": "Show HN: Seapie – a Python debugger where breakpoints drop into a REPL",
-          "url": "https://github.com/hirsimaki-markus/seapie",
-          "score": 5,
-          "comments": 4
-        },
-        {
-          "title": "The Emacs Widget Library: A Critique and Case Study",
-          "url": "https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library",
-          "score": 80,
-          "comments": 28
-        },
-        {
-          "title": "Show HN: The Tsonic Programming Language",
-          "url": "https://tsonic.org",
-          "score": 37,
-          "comments": 9
-        },
-        {
-          "title": "April 9, 1940 a Dish Best Served Cold",
-          "url": "https://todayinhistory.blog/2021/04/09/april-9-1940-a-dish-best-served-cold/",
-          "score": 46,
-          "comments": 5
-        },
-        {
-          "title": "Show HN: Cachekit – High performance caching policies library in Rust",
-          "url": "https://github.com/OxidizeLabs/cachekit",
-          "score": 39,
-          "comments": 7
-        },
-        {
-          "title": "The Stick in the Stream",
-          "url": "https://randsinrepose.com/archives/the-stick-in-the-stream/",
-          "score": 10,
-          "comments": 1
-        },
-        {
-          "title": "Handling secrets (somewhat) securely in shells",
-          "url": "https://linus.schreibt.jetzt/posts/shell-secrets.html",
-          "score": 71,
-          "comments": 37
-        }
-      ]
+      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/46619275.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
+      "items": []
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -167,42 +15,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 94850,
-          "change_24h": 3.24,
-          "change_7d": 3.22,
-          "market_cap": 1891306697151
+          "price": 97032,
+          "change_24h": 3.94,
+          "change_7d": 6.42,
+          "market_cap": 1936092130110
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3290.61,
-          "change_24h": 5.1,
-          "change_7d": 2.31,
-          "market_cap": 396124298392
+          "price": 3345.95,
+          "change_24h": 5.12,
+          "change_7d": 6.11,
+          "market_cap": 403162154996
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 143.74,
-          "change_24h": 1.46,
-          "change_7d": 4.54,
-          "market_cap": 81167709021
+          "price": 146.22,
+          "change_24h": 2.27,
+          "change_7d": 7.85,
+          "market_cap": 82610766985
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.146158,
-          "change_24h": 5.21,
-          "change_7d": -1.95,
-          "market_cap": 24559762413
+          "price": 0.148288,
+          "change_24h": 3.89,
+          "change_7d": 0.85,
+          "market_cap": 24916598105
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.414835,
-          "change_24h": 5.88,
-          "change_7d": 0.49,
-          "market_cap": 15219941588
+          "price": 0.416642,
+          "change_24h": 2.35,
+          "change_7d": 3.14,
+          "market_cap": 15298402444
         }
       ]
     },
@@ -214,26 +62,31 @@
         {
           "name": "Dash",
           "symbol": "DASH",
-          "market_cap_rank": 108
-        },
-        {
-          "name": "Berachain",
-          "symbol": "BERA",
-          "market_cap_rank": 396
+          "market_cap_rank": 100
         },
         {
           "name": "Monero",
           "symbol": "XMR",
-          "market_cap_rank": 14
+          "market_cap_rank": 13
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 116
+          "name": "Starknet",
+          "symbol": "STRK",
+          "market_cap_rank": 167
         },
         {
           "name": "Zcash",
           "symbol": "ZEC",
+          "market_cap_rank": 27
+        },
+        {
+          "name": "Berachain",
+          "symbol": "BERA",
+          "market_cap_rank": 424
+        },
+        {
+          "name": "Sui",
+          "symbol": "SUI",
           "market_cap_rank": 28
         },
         {
@@ -242,24 +95,19 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Aster",
-          "symbol": "ASTER",
-          "market_cap_rank": 63
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         },
         {
-          "name": "Pepe",
-          "symbol": "PEPE",
-          "market_cap_rank": 51
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 113
         },
         {
           "name": "Solana",
           "symbol": "SOL",
           "market_cap_rank": 6
-        },
-        {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 4
         }
       ]
     },
@@ -268,37 +116,45 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "US Consumer Inflation Stalls at 2.7% y/y, Core at 2.6% y/y Four-Year Low",
-          "summary": "December US CPI matched estimates at 2.7% y/y (0.3% m/m), with core inflation unchanged at 2.6% y/y (0.2% m/m), stabilizing at a four-year low. USD index rose 0.3% amid Fed independence concerns from DOJ probe into Chair Powell and upcoming Supreme Court tariff decision.",
-          "source": "Standard Chartered",
-          "url": "https://www.sc.com/sg/market-outlook/daily-navigator-14-1-2026/?mvog=1"
+          "title": "US Stock Markets Decline Amid Hotter PPI and Bank Earnings Pressure",
+          "summary": "Major indices fell on January 14, 2026: Dow down 0.5-0.8% to around 49,191, S&P 500 down 0.19-0.94% to 6,898-6,963, Nasdaq down 0.10-1.5% with tech stocks like Broadcom, Nvidia, and Oracle leading declines. Tech retreated after hotter-than-expected PPI data, while energy and defensive stocks gained.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-14-pivotal-supreme-court-decision-delayed-again-for-this-reason"
         },
         {
-          "title": "USD/JPY Surges Above 159, Japan Officials Warn of Intervention",
-          "summary": "USD/JPY hit highest since July 2024 above 159, boosting Japan's Topix index 2.4% to record high via weak yen aiding exporters. Japanese officials issue verbal warnings, with thin liquidity during US holidays as potential intervention window.",
-          "source": "Standard Chartered",
-          "url": "https://www.sc.com/sg/market-outlook/daily-navigator-14-1-2026/?mvog=1"
+          "title": "Bank Stocks Drag Dow Lower Despite Softer Core CPI Data",
+          "summary": "US equities retreated overnight with banks leading declines due to new credit card law proposals; Dow fell 0.80% to 49,191, S&P 500 slipped 0.19% to 6,963, Nasdaq eased 0.10% to 23,709. Treasury yields stable, DXY up 0.28% to 99.17.",
+          "source": "IC Markets",
+          "url": "https://www.icmarkets.com/blog/general-market-analysis-14-01-26/"
         },
         {
-          "title": "US Stock Indexes Decline: Dow -0.8%, S&P -13 pts to 6963, Nasdaq -24 pts",
-          "summary": "Dow shed 398 points (0.8%) to 49,191.99; S&P ended down 13 points at 6963 with 52% stocks rising, flat over two days; Nasdaq down 24 points. Outlook remains bullish with dips likely amid bank earnings.",
-          "source": "Fully Informed / AIMS",
-          "url": "https://www.fullyinformed.com/stock-market-outlook-for-wed-jan-14-2026-bullish-with-dips-likely-with-more-bank-earnings/"
+          "title": "Gold and Silver Futures Hit Record Highs Amid Market Volatility",
+          "summary": "Silver set a new all-time high near $92, gold neared records at $4,609.50 up 0.23%, while oil rallied with Brent up 2.43% to $65.42 and WTI up 2.69% to $61.10 on Iranian supply risks. Commodities mixed as stocks fell.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-14-pivotal-supreme-court-decision-delayed-again-for-this-reason"
         },
         {
-          "title": "USD Faces Downside Pressure, Eyes 98.6 Support; USD/CAD Risk from Oil Prices",
-          "summary": "USD under pressure from stabilizing inflation and Fed concerns, testing 100-day MA at 98.6. USD/CAD downside amid higher oil prices, with focus shifting to US producer inflation and retail sales.",
-          "source": "Standard Chartered",
-          "url": "https://www.sc.com/sg/market-outlook/daily-navigator-14-1-2026/?mvog=1"
+          "title": "Upcoming US Data and Fed Speakers in Focus After Mixed Economic Signals",
+          "summary": "Markets await PPI (exp +0.2%), Retail Sales (exp +0.5%), Existing Home Sales, and speeches from Fed officials including Miran, Bostic, Williams, Kashkari, and Paulson. Prior data showed softer Core CPI but resilient ISM Services PMI.",
+          "source": "IC Markets",
+          "url": "https://www.icmarkets.com/blog/general-market-analysis-14-01-26/"
+        },
+        {
+          "title": "Supreme Court Delays Key Decisions on Trump Tariffs and Voting Rights",
+          "summary": "US Supreme Court postponed rulings on Trump tariffs and Voting Rights Act cases, contributing to market uncertainty alongside hotter PPI report and tech selloff.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-14-pivotal-supreme-court-decision-delayed-again-for-this-reason"
         }
       ],
       "citations": [
-        "https://www.sc.com/sg/market-outlook/daily-navigator-14-1-2026/?mvog=1",
+        "https://www.thestreet.com/latest-news/stock-market-today-jan-14-pivotal-supreme-court-decision-delayed-again-for-this-reason",
+        "https://www.icmarkets.com/blog/general-market-analysis-14-01-26/",
+        "https://tradingeconomics.com/united-states/stock-market",
         "https://www.fullyinformed.com/stock-market-outlook-for-wed-jan-14-2026-bullish-with-dips-likely-with-more-bank-earnings/",
-        "https://aimsfx.com/2026/01/14/%F0%9F%97%9E%EF%B8%8F-market-recap-tue-13-jan-previous-session-update/"
+        "https://www.post-gazette.com/business/money/2026/01/14/stock-market-today-jan-14-2026/stories/202601140048"
       ]
     },
     "crypto_news": {
@@ -309,34 +165,35 @@
       "count": 4,
       "items": [
         {
-          "title": "Bitcoin Surges Past $95,000 Amid Broad Crypto Rally",
-          "summary": "Bitcoin traded above $95,500 and Ethereum held above $3,300 as markets reacted to cooling U.S. inflation data, rate-cut expectations, and regulatory progress, lifting total crypto market cap toward $3.25 trillion.[1][2]",
-          "source": "Binance Square",
+          "title": "Bitcoin Surges Past $95,000 Amid Cooling Inflation and CLARITY Act Progress",
+          "summary": "Bitcoin extended gains to trade above $95,500 on January 14, driven by cooling U.S. inflation data and advancing momentum behind the Digital Asset Market Clarity Act (CLARITY Act), which aims to clarify regulatory splits between the SEC and CFTC.",
+          "source": "Binance",
           "url": "https://www.binance.com/en/square/post/01-13-2026-crypto-news-today-why-bitcoin-and-altcoins-are-uptoday-january-14-35047993987753"
         },
         {
-          "title": "CLARITY Act Gains Momentum in U.S. Congress",
-          "summary": "Lawmakers advanced the Digital Asset Market Clarity Act of 2025, aimed at clarifying regulatory roles between the SEC and CFTC, boosting crypto market sentiment and supporting price gains.[1]",
-          "source": "Binance Square",
+          "title": "Ethereum Holds Above $3,300 as Total Crypto Market Cap Approaches $3.25 Trillion",
+          "summary": "Major altcoins extended their gains alongside Bitcoin, with Ethereum maintaining levels above $3,300 and the total cryptocurrency market capitalization rising toward $3.25 trillion.",
+          "source": "Binance",
           "url": "https://www.binance.com/en/square/post/01-13-2026-crypto-news-today-why-bitcoin-and-altcoins-are-uptoday-january-14-35047993987753"
         },
         {
-          "title": "Kalshi Launches Ecosystem Hub with Solana and Base",
-          "summary": "U.S.-regulated prediction market exchange Kalshi debuted KalshiEco Hub in partnership with Solana and Coinbase-backed Base, offering grants and support for builders while enabling native SOL and USDC deposits.[2]",
-          "source": "MEXC",
-          "url": "https://www.mexc.com/news/472475"
+          "title": "Institutional Money Returns to Crypto Markets as January Momentum Builds",
+          "summary": "Cryptocurrency markets are experiencing a strategic reset in 2026 with institutional capital returning steadily, increased trading volumes, and accelerating stablecoin inflows, marking Bitcoin's first push past $90,000 since the 2021 cycle.",
+          "source": "24-7 Press Release",
+          "url": "https://www.24-7pressrelease.com/press-release/530614/cryptos-2026-reset-why-januarys-early-momentum-matters-more-than-you-think"
         },
         {
-          "title": "Crypto Markets Rebound with 3-8% Gains Across Sectors",
-          "summary": "Most crypto sectors posted gains of 3% to 8% over the past 24 hours as risk appetite improved, driven by positive macro and regulatory signals.[3]",
-          "source": "CryptoRank",
-          "url": "https://cryptorank.io/news/feed/9f99b-live-crypto-news-today-latest-updates-for-jan-14-2026"
+          "title": "Crypto Rally Extends for Second Consecutive Day Following Holiday Lull",
+          "summary": "Cryptocurrency markets continued their positive momentum on January 14, marking the second straight day of gains after a relatively flat holiday season.",
+          "source": "The Defiant",
+          "url": "https://thedefiant.io/news/markets/bitcoin-nears-usd97k-in-broad-crypto-rally-jan-14-2026"
         }
       ],
       "citations": [
         "https://www.binance.com/en/square/post/01-13-2026-crypto-news-today-why-bitcoin-and-altcoins-are-uptoday-january-14-35047993987753",
-        "https://www.mexc.com/news/472475",
-        "https://cryptorank.io/news/feed/9f99b-live-crypto-news-today-latest-updates-for-jan-14-2026"
+        "https://www.24-7pressrelease.com/press-release/530614/cryptos-2026-reset-why-januarys-early-momentum-matters-more-than-you-think",
+        "https://thedefiant.io/news/markets/bitcoin-nears-usd97k-in-broad-crypto-rally-jan-14-2026",
+        "https://www.youtube.com/watch?v=4PbEbUBk0OU"
       ]
     },
     "ai_news": {
@@ -344,40 +201,45 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "U.S. Army Launches New AI/ML Officer Career Pathway",
-          "summary": "The U.S. Army has introduced the 49B AI/ML Officer specialization for officers, with the first group selected via the Volunteer Transfer Incentive Program starting January 2026. This initiative aims to build in-house experts for integrating AI and ML in battlefield decision-making, logistics, and autonomous systems.",
-          "source": "US Federal News Bureau / CDO Magazine",
-          "url": "https://www.cdomagazine.tech/us-federal-news-bureau/us-army-introduces-new-ai-ml-career-opportunities-for-officers"
-        },
-        {
-          "title": "Machine Learning Model Identifies Country-Specific Cancer Survival Drivers",
-          "summary": "Researchers developed an AI model analyzing data from 185 countries to pinpoint key factors like health systems and radiotherapy access affecting cancer mortality-to-incidence ratios. The model uses SHAP explanations to provide actionable insights for global policymakers.",
+          "title": "Scientists Demonstrate First-Time Use of AI for Genetic Circuit Design and Prediction",
+          "summary": "Researchers at Houston have successfully used AI and machine learning to analyze and predict the function of untested genetic circuits, marking the first time ML models have been applied at this scale. The CLASSIC platform tested vast numbers of complete circuits and found ML models to be more accurate than traditional physics-based approaches.",
           "source": "EurekAlert",
-          "url": "https://www.eurekalert.org/news-releases/1112143"
+          "url": "https://www.eurekalert.org/news-releases/1112521"
         },
         {
-          "title": "Floating Fleet AI Hires Optimization Expert Norbert Lingaya",
-          "summary": "Floating Fleet AI, a provider of AI solutions for private aviation, added Norbert Lingaya, an expert in operations research, to enhance its planning and scheduling optimization capabilities for complex aviation challenges.",
-          "source": "Aithority",
-          "url": "https://aithority.com/machine-learning/floating-fleet-ai-expands-technical-leadership-and-innovation-with-optimization-veteran-norbert-lingaya/"
+          "title": "AI Adoption Among Scientists Creates Winners and Laggards in Natural Sciences",
+          "summary": "A Nature study analyzing 41 million papers found that scientists using AI publish three times more papers and receive five times more citations than non-adopters. However, the research also reveals that AI-driven work concentrates on crowded problems, potentially narrowing overall scientific exploration.",
+          "source": "Science Magazine",
+          "url": "https://www.science.org/content/article/ai-has-supercharged-scientists-may-have-shrunk-science"
         },
         {
-          "title": "Wasabi Technologies Raises $70M for AI Storage Infrastructure",
-          "summary": "Cloud storage provider Wasabi secured $70 million in equity funding, totaling over $600 million raised, to advance AI infrastructure and storage solutions.",
-          "source": "Hyperight",
-          "url": "https://hyperight.com/wasabi-70m-equity-funding-ai-infrastructure/"
+          "title": "Data Quality Emerges as Critical Challenge for AI Implementation in 2026",
+          "summary": "Industry surveys reveal that 44% of companies cite data quality as their biggest concern for 2026, with only 35% having clean, centralized data for AI agents. Poor data quality has caused 52% of AI projects to fail in financial services.",
+          "source": "CIO.com",
+          "url": "https://www.cio.com/article/4113707/when-it-comes-to-ai-not-all-data-is-created-equal.html"
+        },
+        {
+          "title": "AI Becomes Operational Necessity for Anti-Money Laundering Compliance",
+          "summary": "Banks are rapidly adopting AI for AML systems to address limitations of legacy rule-based approaches, which generate 90-95% false positives. AI-driven transaction monitoring and anomaly detection are transforming compliance operations across financial institutions.",
+          "source": "FinTech Global",
+          "url": "https://fintech.global/2026/01/14/why-ai-is-becoming-essential-for-aml-in-2026/"
+        },
+        {
+          "title": "Trump Executive Order on AI Generates Mixed Reactions from Medical Device Manufacturers",
+          "summary": "A new executive order on artificial intelligence has prompted both praise and confusion among medical device manufacturers regarding regulatory implications and implementation requirements.",
+          "source": "AAMI",
+          "url": "https://aami.org/news/federal-ai-executive-order-impact-medical-device-manufacturers/"
         }
       ],
       "citations": [
-        "https://www.cdomagazine.tech/us-federal-news-bureau/us-army-introduces-new-ai-ml-career-opportunities-for-officers",
-        "https://www.eurekalert.org/news-releases/1112143",
+        "https://www.eurekalert.org/news-releases/1112521",
+        "https://fintech.global/2026/01/14/why-ai-is-becoming-essential-for-aml-in-2026/",
+        "https://www.science.org/content/article/ai-has-supercharged-scientists-may-have-shrunk-science",
         "https://www.cio.com/article/4113707/when-it-comes-to-ai-not-all-data-is-created-equal.html",
-        "https://aithority.com/machine-learning/floating-fleet-ai-expands-technical-leadership-and-innovation-with-optimization-veteran-norbert-lingaya/",
-        "https://www.globalbroadcastindustry.news/ai-at-ise-2026-push-beyond-boundaries/",
-        "https://hyperight.com/wasabi-70m-equity-funding-ai-infrastructure/"
+        "https://aami.org/news/federal-ai-executive-order-impact-medical-device-manufacturers/"
       ]
     },
     "gaming": {
@@ -388,28 +250,30 @@
       "count": 3,
       "items": [
         {
-          "title": "Meta Lays Off 1,500 in Reality Labs, Closes Multiple VR Game Studios",
-          "summary": "Meta is cutting 10% of its Reality Labs staff, around 1,500 jobs, and closing first-party VR studios including Armature Studios, Sanzaru Games, Twisted Pixel, and Within, which developed games like Deadpool VR and Asgard's Wrath 2. A company-wide meeting is scheduled for January 14, 2026, to discuss the changes.",
+          "title": "Meta Cuts 10% of Reality Labs Staff, Closes Major VR Game Studios",
+          "summary": "Meta is laying off approximately 1,500 employees from its Reality Labs division and closing first-party game development studios including Armature Studios, Sanzaru Games, Twisted Pixel, and Within. The closures affect development of popular VR titles like Deadpool VR, Asgard's Wrath 2, and Resident Evil 4 VR.",
           "source": "Android Central",
           "url": "https://www.androidcentral.com/gaming/virtual-reality/reality-labs-january-2026-rumored-cuts"
         },
         {
-          "title": "Ubisoft Lays Off Staff at Abu Dhabi Studio",
-          "summary": "Ubisoft has cut several roles at its Abu Dhabi studio over the past month, following recent studio closures amid ongoing industry challenges.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-ubisoft-laying-off-staff-at-abu-dhabi-studio"
+          "title": "Nintendo, Sony, and Microsoft Update Shared Player Safety Principles",
+          "summary": "The three major gaming console manufacturers announced updated shared commitments to player safety, reflecting new technological innovations and collaborative approaches to protect players, especially children, across their platforms.",
+          "source": "Xbox News",
+          "url": "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/"
         },
         {
-          "title": "IGT Expands Andy Hendrickson's Role to Chief Product & Technology Officer",
-          "summary": "International Game Technology (IGT) has promoted Andy Hendrickson to Chief Product & Technology Officer, expanding his executive responsibilities within the company.",
-          "source": "Asia Gaming Brief",
-          "url": "https://agbrief.com/news/usa/14/01/2026/igt-expands-andy-hendricksons-role-to-chief-product-technology-officer/"
+          "title": "Rockstar Games Launches Official Mod Marketplace",
+          "summary": "Following its 2023 acquisition of Cfx.re, Rockstar Games has launched the Cfx Marketplace, offering free and paid mods for GTA V and Red Dead Redemption 2.",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/rockstar-launches-an-official-mod-marketplace"
         }
       ],
       "citations": [
         "https://www.androidcentral.com/gaming/virtual-reality/reality-labs-january-2026-rumored-cuts",
-        "https://www.gamedeveloper.com/business/report-ubisoft-laying-off-staff-at-abu-dhabi-studio",
-        "https://agbrief.com/news/usa/14/01/2026/igt-expands-andy-hendricksons-role-to-chief-product-technology-officer/"
+        "https://www.globenewswire.com/news-release/2026/01/14/3218807/28124/en/Global-Gaming-Controllers-Market-2026-2036-Recent-Developments-Product-Launches-Strategic-Initiatives-Market-Dynamics.html",
+        "https://www.gamedeveloper.com/business/rockstar-launches-an-official-mod-marketplace",
+        "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/",
+        "https://www.licenseglobal.com/video-games/beyond-games-the-transmedia-takeover"
       ]
     },
     "tech_news": {
@@ -417,35 +281,21 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 1,
       "items": [
         {
-          "title": "Polygon Labs Acquires Coinme and Sequence for $250 Million",
-          "summary": "Polygon Labs, a blockchain developer, bought cash-to-crypto firm Coinme and wallet infrastructure company Sequence for $250 million to bolster competition with Stripe in crypto payments.",
-          "source": "Fortune",
-          "url": "https://fortune.com"
-        },
-        {
-          "title": "LAUNCH Acquires JMC Aviation to Create Global Aviation Tech Leader",
-          "summary": "LAUNCH Technical Workforce Solutions acquired JMC Aviation, combining U.S. leadership with international presence to offer expanded technical services in aerospace, MRO, and workforce solutions worldwide.",
-          "source": "AVM Magazine",
-          "url": "https://avm-mag.com/launch-announces-acquisition-of-jmc-aviation-jeff-martin-to-lead-combined-organization-as-ceo-2"
-        },
-        {
-          "title": "TEI Partners with Paren for Advanced EV Charging Data Analytics",
-          "summary": "The Transportation Energy Institute partnered exclusively with EV charging data platform Paren to provide market insights, performance benchmarking, and analytics for charging operators, retailers, and OEMs.",
-          "source": "NACS Convenience",
-          "url": "https://www.convenience.org/Media/Daily/2026/January/13/5-TEI-Partners-With-Paren_Tech"
+          "title": "Wolfspeed Achieves Industry-First 300mm Silicon Carbide Wafer Production",
+          "summary": "Wolfspeed announced successful production of a 300mm (12-inch) single-crystal silicon carbide (SiC) wafer, marking a major semiconductor manufacturing milestone. The achievement is backed by the company's extensive SiC intellectual property portfolio of over 2,300 patents.",
+          "source": "Marklines",
+          "url": "https://www.marklines.com/en/news/338649"
         }
       ],
       "citations": [
-        "https://fortune.com",
-        "https://www.marklines.com/en/news/338683",
-        "https://www.fiercehealthcare.com",
-        "https://www.convenience.org/Media/Daily/2026/January/13/5-TEI-Partners-With-Paren_Tech",
-        "https://avm-mag.com/launch-announces-acquisition-of-jmc-aviation-jeff-martin-to-lead-combined-organization-as-ceo-2",
-        "https://www.thedailystar.net/news/alphabet-hits-4tn-valuation-ai-refocus-lifts-sentiment-4080406",
-        "https://huntsvillebusinessjournal.com/news/2026/01/14/uah-ece-researcher-dr-emil-jovanov-chosen-a-fellow-of-the-national-academy-of-inventors/"
+        "https://www.convenience.org/Media/Daily/2026/January/14/4-Paytronix-AI-Continue-Shape-2026-Trends_Research",
+        "https://www.fiercebiotech.com",
+        "https://www.marklines.com/en/news/338649",
+        "https://www.prnewswire.com/il/news-releases/israeli-based-leading-fashion-technology-company-mysize-inc-expands-strategic-focus-on-apac-amid-growing-demand-for-ai-driven-fashion-technology-and-overstock-management-solutions-302661155.html",
+        "https://www.morningstar.com/news/pr-newswire/20260114ln63206/israeli-based-leading-fashion-technology-company-mysize-inc-expands-strategic-focus-on-apac-amid-growing-demand-for-ai-driven-fashion-technology-and-overstock-management-solutions"
       ]
     }
   }
