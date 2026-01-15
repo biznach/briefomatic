@@ -1,11 +1,163 @@
 {
-  "generated_at": "2026-01-14T18:07:48.051871+00:00",
-  "generated_at_human": "2026-01-14 18:07 UTC",
+  "generated_at": "2026-01-15T00:19:43.834448+00:00",
+  "generated_at_human": "2026-01-15 00:19 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/46619275.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-      "items": []
+      "category": "tech_ai_nerd",
+      "count": 25,
+      "items": [
+        {
+          "title": "Claude Cowork Exfiltrates Files",
+          "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+          "score": 354,
+          "comments": 159
+        },
+        {
+          "title": "Scaling long-running autonomous coding",
+          "url": "https://cursor.com/blog/scaling-agents",
+          "score": 73,
+          "comments": 39
+        },
+        {
+          "title": "The State of OpenSSL for pyca/cryptography",
+          "url": "https://cryptography.io/en/latest/statements/state-of-openssl/",
+          "score": 49,
+          "comments": 5
+        },
+        {
+          "title": "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
+          "url": "https://webtiles.kicya.net/",
+          "score": 99,
+          "comments": 13
+        },
+        {
+          "title": "Ask HN: Share your personal website",
+          "url": "https://news.ycombinator.com/item?id=46618714",
+          "score": 358,
+          "comments": 1184
+        },
+        {
+          "title": "Sun Position Calculator",
+          "url": "https://drajmarsh.bitbucket.io/earthsun.html",
+          "score": 47,
+          "comments": 10
+        },
+        {
+          "title": "Generate QR Codes with Pure SQL in PostgreSQL",
+          "url": "https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/",
+          "score": 21,
+          "comments": 0
+        },
+        {
+          "title": "Why some clothes shrink in the wash and how to unshrink them",
+          "url": "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/",
+          "score": 410,
+          "comments": 230
+        },
+        {
+          "title": "Roam 50GB is now Roam 100GB",
+          "url": "https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d",
+          "score": 236,
+          "comments": 264
+        },
+        {
+          "title": "ChromaDB Explorer",
+          "url": "https://www.chroma-explorer.com/",
+          "score": 11,
+          "comments": 0
+        },
+        {
+          "title": "SparkFun Officially Dropping AdaFruit due to CoC Violation",
+          "url": "https://www.sparkfun.com/official-response",
+          "score": 357,
+          "comments": 362
+        },
+        {
+          "title": "Find a pub that needs you",
+          "url": "https://www.ismypubfucked.com/",
+          "score": 199,
+          "comments": 154
+        },
+        {
+          "title": "Native ZFS VDEV for Object Storage (OpenZFS Summit)",
+          "url": "https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html",
+          "score": 72,
+          "comments": 15
+        },
+        {
+          "title": "Show HN: Webctl – Browser automation for agents based on CLI instead of MCP",
+          "url": "https://github.com/cosinusalpha/webctl",
+          "score": 56,
+          "comments": 15
+        },
+        {
+          "title": "I hate GitHub Actions with passion",
+          "url": "https://xlii.space/eng/i-hate-github-actions-with-passion/",
+          "score": 396,
+          "comments": 289
+        },
+        {
+          "title": "EU-US relationship is 'disintegrating,' says Germany's vice chancellor",
+          "url": "https://www.politico.eu/article/europe-us-germany-vice-chancellor-lars-klingbeil-donald-trump/",
+          "score": 29,
+          "comments": 3
+        },
+        {
+          "title": "Rubik's Cube in Prolog – Order",
+          "url": "https://medium.com/@kenichisasagawa/i-am-preparing-material-for-a-prolog-book-af7580acfee7",
+          "score": 6,
+          "comments": 0
+        },
+        {
+          "title": "Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales",
+          "url": "https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/",
+          "score": 388,
+          "comments": 531
+        },
+        {
+          "title": "The hunt for a stolen Jackson Pollock",
+          "url": "https://www.washingtonpost.com/entertainment/art/interactive/2026/jackson-pollock-theft-isaacs-family/",
+          "score": 10,
+          "comments": 0
+        },
+        {
+          "title": "Ask HN: How do you safely give LLMs SSH/DB access?",
+          "url": "https://news.ycombinator.com/item?id=46620990",
+          "score": 44,
+          "comments": 73
+        },
+        {
+          "title": "Ski map artist James Niehues, the 'Monet of the mountains' (2021)",
+          "url": "https://adventure.com/ski-map-artist-james-niehues/",
+          "score": 107,
+          "comments": 12
+        },
+        {
+          "title": "Every country should set 16 as the minimum age for social media accounts",
+          "url": "https://www.afterbabel.com/p/why-every-country-should-set-16",
+          "score": 113,
+          "comments": 161
+        },
+        {
+          "title": "GitHub should charge everyone $1 more per month to fund open source",
+          "url": "https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html",
+          "score": 203,
+          "comments": 187
+        },
+        {
+          "title": "Is Rust faster than C?",
+          "url": "https://steveklabnik.com/writing/is-rust-faster-than-c/",
+          "score": 205,
+          "comments": 241
+        },
+        {
+          "title": "So, you’ve hit an age gate. What now?",
+          "url": "https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now",
+          "score": 282,
+          "comments": 228
+        }
+      ]
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -15,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 97032,
-          "change_24h": 3.94,
-          "change_7d": 6.42,
-          "market_cap": 1936092130110
+          "price": 96918,
+          "change_24h": 1.55,
+          "change_7d": 6.18,
+          "market_cap": 1936557581272
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3345.95,
-          "change_24h": 5.12,
-          "change_7d": 6.11,
-          "market_cap": 403162154996
+          "price": 3345.64,
+          "change_24h": 0.51,
+          "change_7d": 5.69,
+          "market_cap": 403923863725
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 146.22,
-          "change_24h": 2.27,
-          "change_7d": 7.85,
-          "market_cap": 82610766985
+          "price": 146.21,
+          "change_24h": 0.58,
+          "change_7d": 7.3,
+          "market_cap": 82654531592
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.148288,
-          "change_24h": 3.89,
-          "change_7d": 0.85,
-          "market_cap": 24916598105
+          "price": 0.146955,
+          "change_24h": -0.98,
+          "change_7d": 0.48,
+          "market_cap": 24741220177
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.416642,
-          "change_24h": 2.35,
-          "change_7d": 3.14,
-          "market_cap": 15298402444
+          "price": 0.413571,
+          "change_24h": -1.9,
+          "change_7d": 2.99,
+          "market_cap": 15203411645
         }
       ]
     },
@@ -60,19 +212,19 @@
       "count": 10,
       "items": [
         {
-          "name": "Dash",
-          "symbol": "DASH",
-          "market_cap_rank": 100
-        },
-        {
           "name": "Monero",
           "symbol": "XMR",
-          "market_cap_rank": 13
+          "market_cap_rank": 14
         },
         {
-          "name": "Starknet",
-          "symbol": "STRK",
-          "market_cap_rank": 167
+          "name": "Dash",
+          "symbol": "DASH",
+          "market_cap_rank": 104
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 114
         },
         {
           "name": "Zcash",
@@ -80,14 +232,9 @@
           "market_cap_rank": 27
         },
         {
-          "name": "Berachain",
-          "symbol": "BERA",
-          "market_cap_rank": 424
-        },
-        {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 28
+          "name": "Internet Computer",
+          "symbol": "ICP",
+          "market_cap_rank": 54
         },
         {
           "name": "Bitcoin",
@@ -95,19 +242,24 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "River",
+          "symbol": "RIVER",
+          "market_cap_rank": 174
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 113
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 152
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 6
+          "name": "Pepe",
+          "symbol": "PEPE",
+          "market_cap_rank": 53
+        },
+        {
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 65
         }
       ]
     },
@@ -119,42 +271,43 @@
       "count": 5,
       "items": [
         {
-          "title": "US Stock Markets Decline Amid Hotter PPI and Bank Earnings Pressure",
-          "summary": "Major indices fell on January 14, 2026: Dow down 0.5-0.8% to around 49,191, S&P 500 down 0.19-0.94% to 6,898-6,963, Nasdaq down 0.10-1.5% with tech stocks like Broadcom, Nvidia, and Oracle leading declines. Tech retreated after hotter-than-expected PPI data, while energy and defensive stocks gained.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-14-pivotal-supreme-court-decision-delayed-again-for-this-reason"
+          "title": "US Stocks Mixed as S&P 500 Eases 0.2% from Records, Dow Down 0.8%",
+          "summary": "Wall Street closed lower with the S&P 500 at 6,963.74 (down 0.2%), Dow at 49,191.99 (off 0.8%), and Nasdaq at 23,709.87 (down 0.1%) on January 14, amid softer core inflation and Fed independence headlines. Investors eye upcoming PPI, retail sales, and earnings for rate clues.",
+          "source": "Saxo Bank",
+          "url": "https://www.home.saxo/content/articles/macro/market-quick-take---14-january-2026-14012026"
         },
         {
-          "title": "Bank Stocks Drag Dow Lower Despite Softer Core CPI Data",
-          "summary": "US equities retreated overnight with banks leading declines due to new credit card law proposals; Dow fell 0.80% to 49,191, S&P 500 slipped 0.19% to 6,963, Nasdaq eased 0.10% to 23,709. Treasury yields stable, DXY up 0.28% to 99.17.",
-          "source": "IC Markets",
-          "url": "https://www.icmarkets.com/blog/general-market-analysis-14-01-26/"
+          "title": "S&P 500 Falls 0.5% to 6,926 in First Back-to-Back Losses of 2026",
+          "summary": "Major indices saw further declines with S&P 500 down 0.5% to 6,926, Dow off 0.09% to 49,149, and Nasdaq slumping 1% to 23,471, pressured by bank earnings misses from Citigroup and Wells Fargo. Tech stocks weakened on reports of China banning Nvidia's H200 AI chips.",
+          "source": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/stocks-see-first-back-to-back-losses-of-2026-stock-market-today"
         },
         {
-          "title": "Gold and Silver Futures Hit Record Highs Amid Market Volatility",
-          "summary": "Silver set a new all-time high near $92, gold neared records at $4,609.50 up 0.23%, while oil rallied with Brent up 2.43% to $65.42 and WTI up 2.69% to $61.10 on Iranian supply risks. Commodities mixed as stocks fell.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-14-pivotal-supreme-court-decision-delayed-again-for-this-reason"
+          "title": "US500 Drops 0.50% to 6929 on January 14 Amid Cooling Labor Data",
+          "summary": "The US500 index fell 0.50% to 6929 points, weighed by cyclical sectors like industrials and financials, while Nasdaq edged up 0.16% on Alphabet's 2.5% rally. JOLTS showed sharp drop in job openings, ADP reported modest hiring rebound, and ISM Services PMI beat expectations.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/stock-market"
         },
         {
-          "title": "Upcoming US Data and Fed Speakers in Focus After Mixed Economic Signals",
-          "summary": "Markets await PPI (exp +0.2%), Retail Sales (exp +0.5%), Existing Home Sales, and speeches from Fed officials including Miran, Bostic, Williams, Kashkari, and Paulson. Prior data showed softer Core CPI but resilient ISM Services PMI.",
-          "source": "IC Markets",
-          "url": "https://www.icmarkets.com/blog/general-market-analysis-14-01-26/"
+          "title": "Asia Stocks Higher Led by Nikkei Jump of 3.1%, US Economic Optimism Falls",
+          "summary": "Japan's Nikkei 225 surged 3.1% to 53,549.16 and Topix up 2.4%, Hang Seng added 0.7%, while Shanghai slipped 0.7%; US Economic Optimism Index dropped to 47.2 below forecast. VIX rose to 15.98 amid caution ahead of US PPI and retail sales data.",
+          "source": "Saxo Bank",
+          "url": "https://www.home.saxo/content/articles/macro/market-quick-take---14-january-2026-14012026"
         },
         {
-          "title": "Supreme Court Delays Key Decisions on Trump Tariffs and Voting Rights",
-          "summary": "US Supreme Court postponed rulings on Trump tariffs and Voting Rights Act cases, contributing to market uncertainty alongside hotter PPI report and tech selloff.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-14-pivotal-supreme-court-decision-delayed-again-for-this-reason"
+          "title": "Bank Earnings Weigh on Financials: Citigroup Down 3.4%, Wells Fargo 5.2%",
+          "summary": "Citigroup and Wells Fargo shares sold off post-earnings, contributing to Dow declines, while oil prices rose 1.4% with WTI at $62.02. Broader market rotation into small caps noted earlier in week with Russell 2000 up 3%.",
+          "source": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/stocks-see-first-back-to-back-losses-of-2026-stock-market-today"
         }
       ],
       "citations": [
-        "https://www.thestreet.com/latest-news/stock-market-today-jan-14-pivotal-supreme-court-decision-delayed-again-for-this-reason",
-        "https://www.icmarkets.com/blog/general-market-analysis-14-01-26/",
+        "https://polymarket.com/event/spx-up-or-down-on-january-15-2026",
+        "https://www.home.saxo/content/articles/macro/market-quick-take---14-january-2026-14012026",
+        "https://jfswa.com/insights/market-overview-january-2026-investment-outlook/",
         "https://tradingeconomics.com/united-states/stock-market",
-        "https://www.fullyinformed.com/stock-market-outlook-for-wed-jan-14-2026-bullish-with-dips-likely-with-more-bank-earnings/",
-        "https://www.post-gazette.com/business/money/2026/01/14/stock-market-today-jan-14-2026/stories/202601140048"
+        "https://www.youtube.com/watch?v=E078211incI",
+        "https://www.kiplinger.com/investing/stocks/stocks-see-first-back-to-back-losses-of-2026-stock-market-today"
       ]
     },
     "crypto_news": {
@@ -162,38 +315,52 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Bitcoin Surges Past $95,000 Amid Cooling Inflation and CLARITY Act Progress",
-          "summary": "Bitcoin extended gains to trade above $95,500 on January 14, driven by cooling U.S. inflation data and advancing momentum behind the Digital Asset Market Clarity Act (CLARITY Act), which aims to clarify regulatory splits between the SEC and CFTC.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/01-13-2026-crypto-news-today-why-bitcoin-and-altcoins-are-uptoday-january-14-35047993987753"
+          "title": "Bitcoin Crosses $97,000 for First Time Since November",
+          "summary": "Bitcoin surged past the $97,000 level, trading around $96,896, with forecasts predicting a potential test of support at $94,305 followed by growth toward $106,445 amid a bullish channel.",
+          "source": "CNBC Crypto World / forex24.pro",
+          "url": "https://www.youtube.com/watch?v=XbqhCO7qbu4"
         },
         {
-          "title": "Ethereum Holds Above $3,300 as Total Crypto Market Cap Approaches $3.25 Trillion",
-          "summary": "Major altcoins extended their gains alongside Bitcoin, with Ethereum maintaining levels above $3,300 and the total cryptocurrency market capitalization rising toward $3.25 trillion.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/01-13-2026-crypto-news-today-why-bitcoin-and-altcoins-are-uptoday-january-14-35047993987753"
+          "title": "Bitcoin Forecast Predicts Correction to $94,305 Before Rally to $106,445",
+          "summary": "BTC/USD analysis indicates short-term bearish correction testing support near 94,305, with upward rebound expected if support holds, targeting above 106,445; breakdown below 86,205 could lead to 78,045.",
+          "source": "forex24.pro",
+          "url": "https://forex24.pro/bitcoin-forecast/bitcoin-forecast-and-btc-usd-analysis-for-january-15-2026/"
         },
         {
-          "title": "Institutional Money Returns to Crypto Markets as January Momentum Builds",
-          "summary": "Cryptocurrency markets are experiencing a strategic reset in 2026 with institutional capital returning steadily, increased trading volumes, and accelerating stablecoin inflows, marking Bitcoin's first push past $90,000 since the 2021 cycle.",
-          "source": "24-7 Press Release",
-          "url": "https://www.24-7pressrelease.com/press-release/530614/cryptos-2026-reset-why-januarys-early-momentum-matters-more-than-you-think"
+          "title": "Coinbase Withdraws Support for Clarity Act Over Unfavorable Amendments",
+          "summary": "Coinbase CEO Brian Armstrong stated the company cannot back the amended Clarity Act ahead of January 15 Senate markup, calling it worse than status quo, while pledging to fight for better regulations.",
+          "source": "coinpedia.org",
+          "url": "https://coinpedia.org/news/crypto-leaders-gets-dividend-on-clarity-act-ahead-of-thursdays-markup/"
         },
         {
-          "title": "Crypto Rally Extends for Second Consecutive Day Following Holiday Lull",
-          "summary": "Cryptocurrency markets continued their positive momentum on January 14, marking the second straight day of gains after a relatively flat holiday season.",
-          "source": "The Defiant",
-          "url": "https://thedefiant.io/news/markets/bitcoin-nears-usd97k-in-broad-crypto-rally-jan-14-2026"
+          "title": "Ripple and Coin Center Back Clarity Act Despite Coinbase Opposition",
+          "summary": "Ripple Labs CEO Brad Garlinghouse and Coin Center's Peter Van Valkenburgh support the Clarity Act, viewing it as a win for crypto, DeFi, and developers ahead of Senate Banking Committee markup.",
+          "source": "coinpedia.org / Bitcoin Magazine",
+          "url": "https://coinpedia.org/news/crypto-leaders-gets-dividend-on-clarity-act-ahead-of-thursdays-markup/"
+        },
+        {
+          "title": "Senate Republicans Release CLARITY Act Fact Sheets Ahead of Markup",
+          "summary": "Senate Banking Committee released fact sheets framing the Digital Asset Market CLARITY Act as providing regulatory clarity, protecting developers and self-custody, while targeting centralized intermediaries; markup set for January 15.",
+          "source": "Bitcoin Magazine",
+          "url": "https://bitcoinmagazine.com/news/senate-release-clarity-act-fact-sheets"
+        },
+        {
+          "title": "Clarity Act in Focus for Bitcoin, Ethereum, Solana as Senate Action Looms",
+          "summary": "The Clarity Act could classify Ethereum as a commodity, offering clearer guidance for Bitcoin, Ethereum, and Solana developers and investors ahead of Senate markup.",
+          "source": "NBC Palm Springs",
+          "url": "https://www.nbcpalmsprings.com/2026/01/14/clarity-act-watch-list-bitcoin-ethereum-and-solana-in-focus-as-senate-action-looms"
         }
       ],
       "citations": [
-        "https://www.binance.com/en/square/post/01-13-2026-crypto-news-today-why-bitcoin-and-altcoins-are-uptoday-january-14-35047993987753",
-        "https://www.24-7pressrelease.com/press-release/530614/cryptos-2026-reset-why-januarys-early-momentum-matters-more-than-you-think",
-        "https://thedefiant.io/news/markets/bitcoin-nears-usd97k-in-broad-crypto-rally-jan-14-2026",
-        "https://www.youtube.com/watch?v=4PbEbUBk0OU"
+        "https://forex24.pro/bitcoin-forecast/bitcoin-forecast-and-btc-usd-analysis-for-january-15-2026/",
+        "https://coinpedia.org/news/crypto-leaders-gets-dividend-on-clarity-act-ahead-of-thursdays-markup/",
+        "https://www.youtube.com/watch?v=XbqhCO7qbu4",
+        "https://www.nbcpalmsprings.com/2026/01/14/clarity-act-watch-list-bitcoin-ethereum-and-solana-in-focus-as-senate-action-looms",
+        "https://bitcoinmagazine.com/news/senate-release-clarity-act-fact-sheets",
+        "https://www.vitallaw.com/news/blockchain-senate-banking-releases-new-draft-of-crypto-market-structure-bill/sld01c2603b27096f4c1d905fb49e0abd1dcc"
       ]
     },
     "ai_news": {
@@ -204,42 +371,43 @@
       "count": 5,
       "items": [
         {
-          "title": "Scientists Demonstrate First-Time Use of AI for Genetic Circuit Design and Prediction",
-          "summary": "Researchers at Houston have successfully used AI and machine learning to analyze and predict the function of untested genetic circuits, marking the first time ML models have been applied at this scale. The CLASSIC platform tested vast numbers of complete circuits and found ML models to be more accurate than traditional physics-based approaches.",
-          "source": "EurekAlert",
-          "url": "https://www.eurekalert.org/news-releases/1112521"
+          "title": "California Investigates xAI Over Deepfake Pornography Complaints",
+          "summary": "California's Attorney General is probing Elon Musk's xAI after complaints about its AI image tool generating sexual content, potentially violating new deepfake laws like AB 621 effective recently. Experts highlight risks including child exploitation and lack of transparency in xAI's systems.",
+          "source": "The Markup",
+          "url": "https://themarkup.org/artificial-intelligence/2026/01/14/california-investigates-elon-musks-ai-company-after-avalanche-of-complaints-about-sexual-content"
         },
         {
-          "title": "AI Adoption Among Scientists Creates Winners and Laggards in Natural Sciences",
-          "summary": "A Nature study analyzing 41 million papers found that scientists using AI publish three times more papers and receive five times more citations than non-adopters. However, the research also reveals that AI-driven work concentrates on crowded problems, potentially narrowing overall scientific exploration.",
-          "source": "Science Magazine",
-          "url": "https://www.science.org/content/article/ai-has-supercharged-scientists-may-have-shrunk-science"
+          "title": "Experts Warn Data Guidelines Ignore AI Training, Hindering Competition",
+          "summary": "New digital markets and data protection guidelines fail to address AI training data use, risking unfair advantages for dominant firms and barriers for competitors, according to University of Exeter researchers.",
+          "source": "TechXplore",
+          "url": "https://techxplore.com/news/2026-01-digital-guidelines-silence-ai-effective.html"
         },
         {
-          "title": "Data Quality Emerges as Critical Challenge for AI Implementation in 2026",
-          "summary": "Industry surveys reveal that 44% of companies cite data quality as their biggest concern for 2026, with only 35% having clean, centralized data for AI agents. Poor data quality has caused 52% of AI projects to fail in financial services.",
-          "source": "CIO.com",
-          "url": "https://www.cio.com/article/4113707/when-it-comes-to-ai-not-all-data-is-created-equal.html"
+          "title": "Safe Pro to Showcase Patented AI Demining Tech at Ukraine Conference",
+          "summary": "Safe Pro Group announced it will present its AI-powered SPOTD platform for detecting explosives via drone imagery at a Kyiv conference on January 15, supporting Ukraine's reconstruction efforts.",
+          "source": "Safe Pro Group",
+          "url": "https://safeprogroup.com/safe-pro-selected-to-present-its-patent-ai-demining-technology-in-support-of-ukraines-reconstruction-at-the-society-of-american-military-engineers-kyiv-conference/"
         },
         {
-          "title": "AI Becomes Operational Necessity for Anti-Money Laundering Compliance",
-          "summary": "Banks are rapidly adopting AI for AML systems to address limitations of legacy rule-based approaches, which generate 90-95% false positives. AI-driven transaction monitoring and anomaly detection are transforming compliance operations across financial institutions.",
-          "source": "FinTech Global",
-          "url": "https://fintech.global/2026/01/14/why-ai-is-becoming-essential-for-aml-in-2026/"
+          "title": "Trump Signs Executive Order for Minimalist National AI Policy",
+          "summary": "On December 11, 2025, President Trump issued an order to maintain U.S. AI dominance via a low-burden framework, including an AI Litigation Task Force to challenge conflicting state laws amid rapid state AI legislation.",
+          "source": "The National Law Review",
+          "url": "https://natlawreview.com/article/artificial-intelligence-legislative-update"
         },
         {
-          "title": "Trump Executive Order on AI Generates Mixed Reactions from Medical Device Manufacturers",
-          "summary": "A new executive order on artificial intelligence has prompted both praise and confusion among medical device manufacturers regarding regulatory implications and implementation requirements.",
-          "source": "AAMI",
-          "url": "https://aami.org/news/federal-ai-executive-order-impact-medical-device-manufacturers/"
+          "title": "Microsoft Research Explores AI for Scientific Discovery and Health",
+          "summary": "Microsoft's 'On Second Thought' series launches January 15, discussing AI's role in reshaping healthcare and enabling Nobel-scale breakthroughs by helping scientists think differently across chemistry, biology, and physics.",
+          "source": "Microsoft Research",
+          "url": "https://www.microsoft.com/en-us/research/story/on-second-thought/"
         }
       ],
       "citations": [
-        "https://www.eurekalert.org/news-releases/1112521",
-        "https://fintech.global/2026/01/14/why-ai-is-becoming-essential-for-aml-in-2026/",
-        "https://www.science.org/content/article/ai-has-supercharged-scientists-may-have-shrunk-science",
-        "https://www.cio.com/article/4113707/when-it-comes-to-ai-not-all-data-is-created-equal.html",
-        "https://aami.org/news/federal-ai-executive-order-impact-medical-device-manufacturers/"
+        "https://malonecenter.jhu.edu/ai-decoder-unlocking-cancers-hidden-patterns/",
+        "https://www.microsoft.com/en-us/research/story/on-second-thought/",
+        "https://natlawreview.com/article/artificial-intelligence-legislative-update",
+        "https://techxplore.com/news/2026-01-digital-guidelines-silence-ai-effective.html",
+        "https://themarkup.org/artificial-intelligence/2026/01/14/california-investigates-elon-musks-ai-company-after-avalanche-of-complaints-about-sexual-content",
+        "https://safeprogroup.com/safe-pro-selected-to-present-its-patent-ai-demining-technology-in-support-of-ukraines-reconstruction-at-the-society-of-american-military-engineers-kyiv-conference/"
       ]
     },
     "gaming": {
@@ -247,33 +415,48 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Meta Cuts 10% of Reality Labs Staff, Closes Major VR Game Studios",
-          "summary": "Meta is laying off approximately 1,500 employees from its Reality Labs division and closing first-party game development studios including Armature Studios, Sanzaru Games, Twisted Pixel, and Within. The closures affect development of popular VR titles like Deadpool VR, Asgard's Wrath 2, and Resident Evil 4 VR.",
-          "source": "Android Central",
-          "url": "https://www.androidcentral.com/gaming/virtual-reality/reality-labs-january-2026-rumored-cuts"
+          "title": "Meta Shuts Down Twisted Pixel, Sanzaru Games, and Armature Studio",
+          "summary": "Meta has closed three VR game studios—Twisted Pixel, Sanzaru Games, and Armature Studio—as part of major job cuts in its Reality Labs division, shifting focus to wearables and third-party developers.",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/2026/01/14/meta-closes-twisted-pixel-sanzaru-games-and-armature-studio"
         },
         {
-          "title": "Nintendo, Sony, and Microsoft Update Shared Player Safety Principles",
-          "summary": "The three major gaming console manufacturers announced updated shared commitments to player safety, reflecting new technological innovations and collaborative approaches to protect players, especially children, across their platforms.",
-          "source": "Xbox News",
-          "url": "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/"
+          "title": "PlayStation Plus Extra and Premium January 2026 Games Leaked",
+          "summary": "A reliable leaker has revealed the upcoming PS Plus Extra and Premium games for January 2026, set to arrive on January 20, with Resident Evil titles highlighted; official announcement expected soon.",
+          "source": "Military.com / GameRant",
+          "url": "https://www.military.com/off-duty/games/playstation-plus-extra-and-premium-games-january-2026-leak-online.html"
         },
         {
-          "title": "Rockstar Games Launches Official Mod Marketplace",
-          "summary": "Following its 2023 acquisition of Cfx.re, Rockstar Games has launched the Cfx Marketplace, offering free and paid mods for GTA V and Red Dead Redemption 2.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/rockstar-launches-an-official-mod-marketplace"
+          "title": "Arcade Archives Bomb Jack Twin Launches Today",
+          "summary": "HAMSTER Corporation releases Arcade Archives Bomb Jack Twin on Switch and PS4, and Arcade Archives 2 version on Switch 2, PS5, and Xbox Series X|S, priced at $7.99 and $9.99 respectively.",
+          "source": "Netto's GameRoom / HAMSTER",
+          "url": "https://www.nettosgameroom.com/2026/01/arcade-archives-bomb-jack-twin-launches.html"
+        },
+        {
+          "title": "Solo Dev Game Craftlings Releases Today",
+          "summary": "Ariano GAMES launches its 90s-inspired strategy game Craftlings on January 15, 2026, featuring gather, deliver, build, and fight mechanics.",
+          "source": "GamesPress",
+          "url": "https://www.gamespress.com/Gather-Deliver-Build-And-Fight---90s-Inspired-Strategy-Game-Craftlings"
+        },
+        {
+          "title": "Light & Wonder Pays $127.5M to Settle Slot Machine Patent Lawsuit",
+          "summary": "Light & Wonder settles a patent infringement suit with Aristocrat Technologies for $127.5M, agreeing to retire two slot games globally after a former employee's misuse of proprietary math.",
+          "source": "The Nevada Independent",
+          "url": "https://thenevadaindependent.com/article/gaming-industry-innovator-worries-casino-operators-arent-taking-risks"
         }
       ],
       "citations": [
-        "https://www.androidcentral.com/gaming/virtual-reality/reality-labs-january-2026-rumored-cuts",
-        "https://www.globenewswire.com/news-release/2026/01/14/3218807/28124/en/Global-Gaming-Controllers-Market-2026-2036-Recent-Developments-Product-Launches-Strategic-Initiatives-Market-Dynamics.html",
-        "https://www.gamedeveloper.com/business/rockstar-launches-an-official-mod-marketplace",
-        "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/",
-        "https://www.licenseglobal.com/video-games/beyond-games-the-transmedia-takeover"
+        "https://www.military.com/off-duty/games/playstation-plus-extra-and-premium-games-january-2026-leak-online.html",
+        "https://gameinformer.com/2026/01/14/meta-closes-twisted-pixel-sanzaru-games-and-armature-studio",
+        "https://www.metacritic.com/pictures/winter-2026-game-preview-resident-evil-requiem-code-vein-2-nioh-3/",
+        "https://www.nettosgameroom.com/2026/01/arcade-archives-bomb-jack-twin-launches.html",
+        "https://www.gamespress.com/Gather-Deliver-Build-And-Fight---90s-Inspired-Strategy-Game-Craftlings",
+        "https://www.hamster.co.jp/en/release/6292/",
+        "https://thenevadaindependent.com/article/gaming-industry-innovator-worries-casino-operators-arent-taking-risks",
+        "https://www.mediapost.com/publications/article/412013/squarespace-returns-to-super-bowl.html?edition=141245"
       ]
     },
     "tech_news": {
@@ -281,21 +464,38 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 1,
+      "count": 4,
       "items": [
         {
-          "title": "Wolfspeed Achieves Industry-First 300mm Silicon Carbide Wafer Production",
-          "summary": "Wolfspeed announced successful production of a 300mm (12-inch) single-crystal silicon carbide (SiC) wafer, marking a major semiconductor manufacturing milestone. The achievement is backed by the company's extensive SiC intellectual property portfolio of over 2,300 patents.",
-          "source": "Marklines",
-          "url": "https://www.marklines.com/en/news/338649"
+          "title": "Verizon Suffers Major Outage Across the U.S.",
+          "summary": "Verizon is experiencing a significant network outage affecting users on SOS mode nationwide. The disruption was reported on January 14, 2026.",
+          "source": "Fortune",
+          "url": "https://fortune.com/section/big-tech/page/43/"
+        },
+        {
+          "title": "Big Tech Data Centers Face Growing Community Opposition",
+          "summary": "Tech giants like Microsoft, Google, Amazon, and Meta encounter stiff resistance to billion-dollar data center projects due to local concerns over power, zoning, and environmental impact. Between April and June, 20 proposals worth $98 billion were blocked or delayed in 11 states.",
+          "source": "Associated Press",
+          "url": "https://www.akronlegalnews.com/editorial/37738"
+        },
+        {
+          "title": "Highway 1 Along Big Sur Reopens After Closure",
+          "summary": "The iconic Highway 1 along Big Sur in California has reopened, marking a success in infrastructure recovery efforts.",
+          "source": "Fortune",
+          "url": "https://fortune.com/section/big-tech/page/43/"
+        },
+        {
+          "title": "Meta Overhauls Performance Reviews to Reward Output Over Effort",
+          "summary": "Meta is shifting its employee performance evaluation system to prioritize results rather than effort, adopting approaches similar to Amazon and X.",
+          "source": "Fortune",
+          "url": "https://fortune.com/section/big-tech/page/43/"
         }
       ],
       "citations": [
-        "https://www.convenience.org/Media/Daily/2026/January/14/4-Paytronix-AI-Continue-Shape-2026-Trends_Research",
-        "https://www.fiercebiotech.com",
-        "https://www.marklines.com/en/news/338649",
-        "https://www.prnewswire.com/il/news-releases/israeli-based-leading-fashion-technology-company-mysize-inc-expands-strategic-focus-on-apac-amid-growing-demand-for-ai-driven-fashion-technology-and-overstock-management-solutions-302661155.html",
-        "https://www.morningstar.com/news/pr-newswire/20260114ln63206/israeli-based-leading-fashion-technology-company-mysize-inc-expands-strategic-focus-on-apac-amid-growing-demand-for-ai-driven-fashion-technology-and-overstock-management-solutions"
+        "https://techstartups.com/2026/01/14/top-tech-news-today-january-14-2026/",
+        "https://fortune.com/section/big-tech/page/43/",
+        "https://www.aol.com/finance/2026-biggest-ai-trends-return-190004557.html",
+        "https://www.akronlegalnews.com/editorial/37738"
       ]
     }
   }
