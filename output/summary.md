@@ -1,26 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-01-16 00:20 UTC*
+*Generated: 2026-01-16 06:07 UTC*
 
-**Market Overview**
-Major US stock indexes rallied on tech strength and economic data, with the S&P 500 rising 0.3% to 6,944.47, the Dow gaining 0.6% to 49,442.44, and the Nasdaq climbing 0.2% to 23,530.02. The crypto market saw significant movements, with Bitcoin surpassing $97,000 and US spot Bitcoin ETFs recording $1.7 billion in inflows over three days. Oil prices eased on Iran tensions, supporting market recovery.
+1. **Market Overview**: The cryptocurrency market saw significant movements, with Bitcoin's price surging past $97,000, forcing $700 million in short liquidations. Ethereum's price also increased, with nearly $3 billion in Bitcoin and Ethereum options expiring on January 16. The macro market news was limited, but major indexes closed higher in Thursday's trading.
 
-**Tech & AI**
-Notable tech developments include Apple fighting for TSMC capacity as Nvidia takes center stage, and the introduction of Pocket TTS, a high-quality text-to-speech system. Additionally, AWS announced its European Sovereign Cloud, and there were significant discussions around the use of Bayesian methodology in clinical trials and the development of JuiceFS, a distributed POSIX file system built on top of Redis and S3.
+2. **Tech & AI**: Notable tech developments include Apple fighting for TSMC capacity as Nvidia takes center stage, and the introduction of Pocket TTS, a high-quality text-to-speech system. In AI, OpenAI invested in Merge Labs' non-invasive brain-computer interface, and researchers used AI-driven virtual screening to identify potential CDK9 inhibitors for cancer treatment. The World Economic Forum added 23 new lighthouses and launched the AI-powered Lumina platform for industrial transformation.
 
-**Gaming & Entertainment**
-No significant gaming news was reported in the provided data.
+3. **Gaming & Entertainment**: There were no significant gaming news in the provided data.
 
-**Key Insights**
-* The US stock market is experiencing a rally driven by tech strength and positive economic reports.
-* Bitcoin and other cryptocurrencies are seeing significant price movements and investment inflows.
-* Tech companies are making notable announcements, including Apple's fight for TSMC capacity and AWS's European Sovereign Cloud.
-* Artificial intelligence and machine learning are advancing with new model releases and research breakthroughs.
-* The use of Bayesian methodology in clinical trials is being discussed, highlighting the importance of data-driven approaches in healthcare.
+4. **Key Insights**:
+* Bitcoin's price surge led to significant short liquidations, indicating a potential shift in market sentiment.
+* The development of non-invasive brain-computer interfaces could revolutionize human-AI interaction.
+* AI-driven virtual screening is accelerating drug discovery, reducing time and costs in the process.
+* The World Economic Forum's recognition of 23 new lighthouses highlights the importance of AI-integrated industrial transformation.
+* Indonesia has emerged as one of the world's top 10 crypto markets, driven by retail adoption and regulatory shifts.
 
-**Watch List**
-* US stock market indexes, particularly the S&P 500, Dow, and Nasdaq.
-* Bitcoin and other major cryptocurrencies, including Ethereum, Solana, and Cardano.
-* Tech companies, such as Apple, Nvidia, and AWS, for further announcements and developments.
-* Artificial intelligence and machine learning advancements, including new model releases and research breakthroughs.
-* Economic reports and data, including job openings, private-sector hiring, and ISM Services PMI.
+5. **Watch List**: 
+* Bitcoin and Ethereum price movements
+* Development of non-invasive brain-computer interfaces
+* AI-driven drug discovery and its potential impact on the pharmaceutical industry
+* The World Economic Forum's Lumina platform and its effects on industrial transformation
+* Indonesia's growing crypto market and its potential for further adoption

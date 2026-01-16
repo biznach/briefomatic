@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T00:20:50.774080+00:00",
-  "generated_at_human": "2026-01-16 00:20 UTC",
+  "generated_at": "2026-01-16T06:07:13.534352+00:00",
+  "generated_at_human": "2026-01-16 06:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,76 +8,142 @@
       "count": 25,
       "items": [
         {
+          "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
+          "url": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
+          "score": 131,
+          "comments": 7
+        },
+        {
+          "title": "The Myth of the ThinkPad",
+          "url": "https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/",
+          "score": 32,
+          "comments": 30
+        },
+        {
           "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
           "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
-          "score": 517,
-          "comments": 323
+          "score": 627,
+          "comments": 378
         },
         {
           "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
           "url": "https://kyutai.org/blog/2026-01-13-pocket-tts",
-          "score": 112,
-          "comments": 19
+          "score": 299,
+          "comments": 58
         },
         {
-          "title": "AWS European Sovereign Cloud",
-          "url": "https://aws.eu/",
-          "score": 41,
-          "comments": 27
+          "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
+          "url": "https://briarproject.org/manual/fa/",
+          "score": 226,
+          "comments": 98
         },
         {
           "title": "Inside The Internet Archive's Infrastructure",
           "url": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
-          "score": 218,
-          "comments": 47
+          "score": 304,
+          "comments": 72
+        },
+        {
+          "title": "Everything you need to know about act() in React tests",
+          "url": "https://howtotestfrontend.com/resources/react-act-function-everything-you-need-to-know",
+          "score": 12,
+          "comments": 0
+        },
+        {
+          "title": "Boeing knew of flaw in part linked to UPS plane crash, NTSB report says",
+          "url": "https://www.bbc.com/news/articles/cly56w0p9e1o",
+          "score": 67,
+          "comments": 28
         },
         {
           "title": "Linux boxes via SSH: suspended when disconected",
           "url": "https://shellbox.dev/",
-          "score": 88,
-          "comments": 55
+          "score": 153,
+          "comments": 96
         },
         {
-          "title": "CVEs affecting the Svelte ecosystem",
-          "url": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
-          "score": 131,
-          "comments": 25
-        },
-        {
-          "title": "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
-          "url": "https://github.com/juicedata/juicefs",
-          "score": 93,
-          "comments": 53
-        },
-        {
-          "title": "Go-legacy-winxp: Compile Golang 1.24 code for Windows XP",
-          "url": "https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat",
-          "score": 54,
-          "comments": 13
+          "title": "Photos capture the breathtaking scale of China's wind and solar buildout",
+          "url": "https://e360.yale.edu/digest/china-renewable-photo-essay",
+          "score": 616,
+          "comments": 461
         },
         {
           "title": "Ask HN: How can we solve the loneliness epidemic?",
           "url": "https://news.ycombinator.com/item?id=46635345",
-          "score": 329,
-          "comments": 612
-        },
-        {
-          "title": "Data is the only moat",
-          "url": "https://frontierai.substack.com/p/data-is-your-only-moat",
-          "score": 53,
-          "comments": 12
-        },
-        {
-          "title": "Claude is good at assembling blocks, but still falls apart at creating them",
-          "url": "https://www.approachwithalacrity.com/claude-ne/",
-          "score": 137,
-          "comments": 111
+          "score": 497,
+          "comments": 803
         },
         {
           "title": "My Gripes with Prolog",
           "url": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
-          "score": 4,
-          "comments": 0
+          "score": 59,
+          "comments": 39
+        },
+        {
+          "title": "All 23-Bit Still Lifes Are Glider Constructible",
+          "url": "https://mvr.github.io/posts/xs23.html",
+          "score": 40,
+          "comments": 5
+        },
+        {
+          "title": "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
+          "url": "https://github.com/juicedata/juicefs",
+          "score": 134,
+          "comments": 71
+        },
+        {
+          "title": "Data is the only moat",
+          "url": "https://frontierai.substack.com/p/data-is-your-only-moat",
+          "score": 115,
+          "comments": 26
+        },
+        {
+          "title": "Claude is good at assembling blocks, but still falls apart at creating them",
+          "url": "https://www.approachwithalacrity.com/claude-ne/",
+          "score": 210,
+          "comments": 155
+        },
+        {
+          "title": "Show HN: Gambit, an open-source agent harness for building reliable AI agents",
+          "url": "https://github.com/bolt-foundry/gambit",
+          "score": 62,
+          "comments": 12
+        },
+        {
+          "title": "Go-legacy-winxp: Compile Golang 1.24 code for Windows XP",
+          "url": "https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat",
+          "score": 95,
+          "comments": 38
+        },
+        {
+          "title": "Show HN: OpenWork – An open-source alternative to Claude Cowork",
+          "url": "https://github.com/different-ai/openwork",
+          "score": 164,
+          "comments": 32
+        },
+        {
+          "title": "First impressions of Claude Cowork",
+          "url": "https://simonw.substack.com/p/first-impressions-of-claude-cowork",
+          "score": 171,
+          "comments": 98
+        },
+        {
+          "title": "CVEs affecting the Svelte ecosystem",
+          "url": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
+          "score": 148,
+          "comments": 27
+        },
+        {
+          "title": "Show HN: Reversing YouTube’s “Most Replayed” Graph",
+          "url": "https://priyavr.at/blog/reversing-most-replayed/",
+          "score": 27,
+          "comments": 9
+        },
+        {
+          "title": "SETI Home Flags 100 Signals After Sorting 12B Others",
+          "url": "https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/",
+          "score": 65,
+          "comments": 25
         },
         {
           "title": "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
@@ -86,76 +152,10 @@
           "comments": 0
         },
         {
-          "title": "Show HN: OpenWork – an open-source alternative to Claude Cowork",
-          "url": "https://github.com/different-ai/openwork",
-          "score": 110,
-          "comments": 23
-        },
-        {
-          "title": "Photos capture the breathtaking scale of China's wind and solar buildout",
-          "url": "https://e360.yale.edu/digest/china-renewable-photo-essay",
-          "score": 463,
-          "comments": 363
-        },
-        {
-          "title": "Why senior engineers let bad projects fail",
-          "url": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
-          "score": 71,
-          "comments": 70
-        },
-        {
-          "title": "Remails: A European Mail Transfer Agent",
-          "url": "https://tweedegolf.nl/en/blog/197/remails",
-          "score": 18,
-          "comments": 2
-        },
-        {
-          "title": "First impressions of Claude Cowork",
-          "url": "https://simonw.substack.com/p/first-impressions-of-claude-cowork",
-          "score": 119,
-          "comments": 69
-        },
-        {
-          "title": "Use of Bayesian methodology in clinical trials of drug and biological products [pdf]",
-          "url": "https://www.fda.gov/media/190505/download",
-          "score": 32,
-          "comments": 10
-        },
-        {
-          "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
-          "url": "https://briarproject.org/manual/fa/",
-          "score": 54,
-          "comments": 10
-        },
-        {
-          "title": "A Unique Performance Optimization for a 3D Geometry Language",
-          "url": "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/",
-          "score": 19,
-          "comments": 2
-        },
-        {
-          "title": "What a Programmer Does (1967)[pdf]",
-          "url": "http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf",
-          "score": 8,
-          "comments": 2
-        },
-        {
-          "title": "Show HN: Control Claude permissions using a cloud-based decision table UI",
-          "url": "https://github.com/rulebricks/claude-code-guardrails",
-          "score": 9,
-          "comments": 1
-        },
-        {
-          "title": "Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console",
-          "url": "https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild",
-          "score": 79,
-          "comments": 14
-        },
-        {
-          "title": "Found: Medieval Cargo Ship – Largest Vessel of Its Kind Ever",
-          "url": "https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-unearthed-a-massive-medieval-cargo-ship-thats-the-largest-vessel-of-its-kind-ever-found-180987984/",
-          "score": 113,
-          "comments": 26
+          "title": "The five orders of ignorance (2000)",
+          "url": "https://cacm.acm.org/opinion/the-five-orders-of-ignorance/",
+          "score": 17,
+          "comments": 5
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 95724,
-          "change_24h": -1.15,
-          "change_7d": 5.02,
-          "market_cap": 1910558403346
+          "price": 95735,
+          "change_24h": -0.73,
+          "change_7d": 5.3,
+          "market_cap": 1910313881455
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3319.9,
-          "change_24h": -0.67,
-          "change_7d": 6.95,
-          "market_cap": 400388955175
+          "price": 3307.59,
+          "change_24h": -0.22,
+          "change_7d": 6.26,
+          "market_cap": 399303768964
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 142.53,
-          "change_24h": -2.5,
-          "change_7d": 3.1,
-          "market_cap": 80500688775
+          "price": 143.15,
+          "change_24h": -0.99,
+          "change_7d": 2.53,
+          "market_cap": 80928345587
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.140011,
-          "change_24h": -4.76,
-          "change_7d": -1.61,
-          "market_cap": 23547232894
+          "price": 0.14003,
+          "change_24h": -2.56,
+          "change_7d": -1.54,
+          "market_cap": 23556855209
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.393645,
-          "change_24h": -4.8,
-          "change_7d": -0.62,
-          "market_cap": 14456637050
+          "price": 0.392929,
+          "change_24h": -2.46,
+          "change_7d": -0.65,
+          "market_cap": 14443962893
         }
       ]
     },
@@ -212,24 +212,34 @@
       "count": 10,
       "items": [
         {
-          "name": "KAITO",
-          "symbol": "KAITO",
-          "market_cap_rank": 365
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Owlto Finance",
+          "symbol": "OWL",
+          "market_cap_rank": 892
         },
         {
           "name": "Dash",
           "symbol": "DASH",
-          "market_cap_rank": 101
+          "market_cap_rank": 92
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 121
+          "name": "River",
+          "symbol": "RIVER",
+          "market_cap_rank": 132
+        },
+        {
+          "name": "KAITO",
+          "symbol": "KAITO",
+          "market_cap_rank": 380
+        },
+        {
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 164
+        },
+        {
+          "name": "Fogo",
+          "symbol": "FOGO",
+          "market_cap_rank": 339
         },
         {
           "name": "Monero",
@@ -237,19 +247,9 @@
           "market_cap_rank": 14
         },
         {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 163
-        },
-        {
-          "name": "Fogo",
-          "symbol": "FOGO",
-          "market_cap_rank": 310
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 31
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 120
         },
         {
           "name": "Solana",
@@ -257,9 +257,9 @@
           "market_cap_rank": 6
         },
         {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 5
+          "name": "Shiba Inu",
+          "symbol": "SHIB",
+          "market_cap_rank": 34
         }
       ]
     },
@@ -268,39 +268,14 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "Major US Stock Indexes Rally on Tech Strength and Economic Data",
-          "summary": "The S&P 500 rose 0.3% to 6,944.47, the Dow gained 0.6% to 49,442.44, and the Nasdaq climbed 0.2% to 23,530.02 on Thursday. The rally was driven by strong earnings from Taiwan Semiconductor Manufacturing Co. and positive economic reports, though cyclical sectors like industrials and financials faced headwinds.",
-          "source": "Barchart",
-          "url": "https://www.barchart.com/story/news/37070681/how-major-us-stock-indexes-fared-thursday-1-15-2026"
-        },
-        {
-          "title": "Oil Prices Ease on Iran Tensions, Supporting Market Recovery",
-          "summary": "Oil prices declined sharply on hopes for calming tensions in Iran, helping to stabilize the broader market after a two-day losing streak. The S&P 500 edged back toward the all-time high it set on Monday.",
-          "source": "Barchart",
-          "url": "https://www.barchart.com/story/news/37070681/how-major-us-stock-indexes-fared-thursday-1-15-2026"
-        },
-        {
-          "title": "Labor Market Shows Mixed Signals with Job Openings Decline",
-          "summary": "JOLTS data revealed a sharp drop in job openings, signaling cooling labor demand, while ADP reported a modest rebound in private-sector hiring and the ISM Services PMI surprised to the upside, reinforcing views of a slowing yet resilient economy.",
-          "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/united-states/stock-market"
-        },
-        {
-          "title": "Tech Stocks Lead Gains; Banks Decline on Economic Concerns",
-          "summary": "Nvidia and Alphabet rallied, with Alphabet gaining 2.5%, while JPMorgan Chase and Bank of America fell more than 2% amid broader pullback in financial stocks. Energy stocks showed mixed performance with refiners advancing on Venezuelan crude flows.",
-          "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/united-states/stock-market"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.barchart.com/story/news/37070681/how-major-us-stock-indexes-fared-thursday-1-15-2026",
+        "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-january-16-2026-rbl-bank-upl-stocks-to-buy-today/articleshow/126544498.cms",
         "https://polymarket.com/event/spx-up-or-down-on-january-16-2026",
-        "https://tradingeconomics.com/united-states/stock-market",
         "https://nbcpalmsprings.com/2026/01/15/wall-street-rallies-as-major-indexes-close-higher-in-thursday-trading",
-        "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-slip-s-and-p-500-struggles-despite-strong-bank"
+        "https://macnicolasset.com/the-weekly-beacon-january-16-2026/",
+        "https://economics.bmo.com/publications/detail/d730831e-53ea-43a5-80ed-c536d458d773/"
       ]
     },
     "crypto_news": {
@@ -311,50 +286,48 @@
       "count": 6,
       "items": [
         {
-          "title": "US Spot Bitcoin ETFs Record $1.7 Billion Inflows in 3 Days as BTC Surpasses $97K",
-          "summary": "US spot Bitcoin ETFs saw $1.7 billion in inflows over the last three days, reversing prior outflows and driving Bitcoin's price above $97,000 from recent $88,000 lows. This surge aligns with ongoing US crypto regulatory bill discussions despite Senate delays.[1]",
-          "source": "99Bitcoins",
-          "url": "https://99bitcoins.com/news/altcoins/crypto-news-today-15-january-2026-bitcoin-etfs-absorb-1-7-billion-in-just-3-days-as-btc-hits-96k/"
+          "title": "$3 Billion Bitcoin and Ethereum Options Expiry Tests Market Rally",
+          "summary": "Nearly $3 billion in Bitcoin ($2.4B) and Ethereum ($437M) options expire on January 16, with Bitcoin's put-to-call ratio at 1.26 indicating defensive positioning despite its breakout above $95,000.",
+          "source": "BeInCrypto",
+          "url": "https://beincrypto.com/bitcoin-ethereum-options-expiry-2026-2/"
         },
         {
-          "title": "Senate Banking Committee Postpones Crypto Market Structure Hearing",
-          "summary": "The Senate Banking Committee delayed a hearing on crypto market structure legislation amid industry pushback, contributing to slides in major cryptocurrencies. The Senate Agricultural Committee also postponed its bill release and hearing.[3][6]",
-          "source": "CNBC Crypto World",
-          "url": "https://www.youtube.com/watch?v=fMrRd_6PV2c"
+          "title": "Bitcoin Rally Triggers $700M in Short Liquidations",
+          "summary": "Bitcoin surged past $97,000 on Wednesday, forcing $700 million in short liquidations and resetting trader expectations, amid optimism for Fed rate cuts and potential CLARITY Act passage.",
+          "source": "Gemini",
+          "url": "https://www.gemini.com/blog/bitcoins-rally-forces-usd700m-in-short-liquidations-market-structure-bill"
         },
         {
-          "title": "iShares Issues 880,000 Additional Bitcoin ETP Securities on London Stock Exchange",
-          "summary": "iShares Digital Assets AG issued 880,000 Bitcoin ETP securities priced at $9.66 each, set for trading on the London Stock Exchange's Main Market starting January 16, 2026. Each security represents a decreasing cryptoasset entitlement of 0.0001 Bitcoin.[4]",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/company-news/ishares-digital-assets-ag-issues-880000-bitcoin-etp-securities-93CH-4450263"
+          "title": "US Senate Delays CLARITY Act Markup Amid Controversies",
+          "summary": "The Senate Banking Committee postponed discussion of the Digital Asset Market Clarity Act due to debates over stablecoin yields, DeFi liability, and SEC/CFTC oversight; Coinbase CEO withdraws support and ex-SEC accountant warns of risks.",
+          "source": "Yahoo Finance / Gemini / Thomson Reuters",
+          "url": "https://www.youtube.com/watch?v=hxVLwDaNChc"
         },
         {
-          "title": "Bitcoin Fails to Hold Above $97K as Crypto Markets Flatten",
-          "summary": "Bitcoin cooled from its rally above $97,000 with crypto markets mostly flat despite sustained ETF inflows, as analysts describe it as a transitional phase.[5]",
-          "source": "The Defiant",
-          "url": "https://thedefiant.io/news/markets/bitcoin-below-usd97k-crypto-market-update-jan-15-2026"
+          "title": "Tether Freezes $182M in USDT on Law Enforcement Request",
+          "summary": "Tether froze approximately $182 million in USDT across five Tron addresses at law enforcement's request, marking one of its largest single-day actions.",
+          "source": "Gemini",
+          "url": "https://www.gemini.com/blog/bitcoins-rally-forces-usd700m-in-short-liquidations-market-structure-bill"
         },
         {
-          "title": "Democrats Criticize SEC's Dismissal of Major Crypto Cases Including Binance",
-          "summary": "A Democratic letter highlights the SEC's dismissal of key crypto cases like Binance without justification, raising concerns over investor risks and ties to figures like Trump and CZ.[2]",
-          "source": "House Financial Services Committee Democrats",
-          "url": "https://democrats-financialservices.house.gov/uploadedfiles/01.14.2026_ltr_sec_rfcryptoe.pdf"
+          "title": "Indonesia Ranks as Top 10 Global Crypto Market",
+          "summary": "Indonesia has become one of the world's top 10 crypto markets due to retail adoption, on-chain activity, and 2025 regulatory shift placing crypto under OJK financial supervision as digital instruments.",
+          "source": "Business Insider",
+          "url": "https://markets.businessinsider.com/news/stocks/indonesia-emerges-as-one-of-the-world-s-top-crypto-markets-report-says-1035718654"
         },
         {
-          "title": "SEC Chair Predicts US Financial Markets Fully On-Chain in 2 Years",
-          "summary": "SEC Chair Paul Atkins forecasted that US financial markets will move fully on-chain within a couple of years, as stated in a December Fox Business interview.[7]",
-          "source": "CoinMarketCal",
-          "url": "http://coinmarketcal.com/en/news/sec-chair-predicts-2-year-timeline-to-put-us-fully-on-chain-but-the-real-12-6-trillion-opportunity-isnt-equities"
+          "title": "World Liberty Financial Launches USD1 Stablecoin Lending Platform",
+          "summary": "World Liberty Financial launched a lending platform on Dolomite for its USD1 stablecoin, allowing users to lend/borrow with crypto collateral, boosting WLF and DOLO tokens.",
+          "source": "Gemini",
+          "url": "https://www.gemini.com/blog/bitcoins-rally-forces-usd700m-in-short-liquidations-market-structure-bill"
         }
       ],
       "citations": [
-        "https://99bitcoins.com/news/altcoins/crypto-news-today-15-january-2026-bitcoin-etfs-absorb-1-7-billion-in-just-3-days-as-btc-hits-96k/",
-        "https://democrats-financialservices.house.gov/uploadedfiles/01.14.2026_ltr_sec_rfcryptoe.pdf",
-        "https://www.youtube.com/watch?v=fMrRd_6PV2c",
-        "https://www.investing.com/news/company-news/ishares-digital-assets-ag-issues-880000-bitcoin-etp-securities-93CH-4450263",
-        "https://thedefiant.io/news/markets/bitcoin-below-usd97k-crypto-market-update-jan-15-2026",
-        "http://lowenstein.com/news-insights/newsletters/crypto-brief-january-15-2026",
-        "https://coinmarketcal.com/en/news/sec-chair-predicts-2-year-timeline-to-put-us-fully-on-chain-but-the-real-12-6-trillion-opportunity-isnt-equities"
+        "https://beincrypto.com/bitcoin-ethereum-options-expiry-2026-2/",
+        "https://www.youtube.com/watch?v=hxVLwDaNChc",
+        "https://www.gemini.com/blog/bitcoins-rally-forces-usd700m-in-short-liquidations-market-structure-bill",
+        "https://tax.thomsonreuters.com/news/ex-sec-chief-accountant-warns-senate-crypto-bill-could-trigger-next-ftx/",
+        "https://markets.businessinsider.com/news/stocks/indonesia-emerges-as-one-of-the-world-s-top-crypto-markets-report-says-1035718654"
       ]
     },
     "ai_news": {
@@ -365,50 +338,51 @@
       "count": 6,
       "items": [
         {
-          "title": "Meta Acquires Manus for $2B at CES 2026",
-          "summary": "Meta announced a $2 billion acquisition of Manus at CES 2026, highlighting the shift toward physical AI and robotics. The event also featured discussions on AI infrastructure constraints and the rise of inference-focused LPUs.",
-          "source": "Sidecar.ai",
-          "url": "https://sidecar.ai/blog/the-physical-ai-moment-dispatches-from-ces-2026-sidecar-sync-episode-117"
+          "title": "Machine Learning Accelerates Discovery of Novel CDK9 Inhibitors for Cancer Treatment",
+          "summary": "Researchers used AI-driven virtual screening to identify 14 potential CDK9 inhibitors, narrowing to one promising candidate with cytotoxic effects in cancer cell lines. The approach reduced time and costs in drug discovery, as published in Biomolecules.",
+          "source": "ASCO Post",
+          "url": "https://ascopost.com/news/january-2026/machine-learning-approach-accelerates-discovery-of-novel-cdk9-inhibitors/"
         },
         {
-          "title": "Groq Secures $20B Licensing Deal with Nvidia for LPUs",
-          "summary": "Groq revealed a $20 billion licensing deal with Nvidia at CES 2026 to advance LPUs, promising 5-20x faster inference and separating training from inference workloads for better AI performance.",
-          "source": "Sidecar.ai",
-          "url": "https://sidecar.ai/blog/the-physical-ai-moment-dispatches-from-ces-2026-sidecar-sync-episode-117"
-        },
-        {
-          "title": "World Economic Forum Launches Lumina AI Platform for Industry",
-          "summary": "The WEF added 23 new sites to its Global Lighthouse Network and launched Lumina, an AI-powered platform for industrial transformation, emphasizing AI with IoT and sustainability for 16% better performance.",
+          "title": "World Economic Forum Adds 23 New Lighthouses and Launches AI-Powered Lumina Platform",
+          "summary": "The Global Lighthouse Network recognized 23 new sites excelling in AI-integrated industrial transformation, focusing on productivity, sustainability, and resilience. Lumina, a new AI platform, analyzes data showing 94% of successful transformations combine AI with IoT and other tech.",
           "source": "World Economic Forum",
           "url": "https://www.weforum.org/press/2026/01/global-lighthouse-network-recognizes-23-new-sites-launches-ai-platform-for-industrial-transformation-89a7334dcb/"
         },
         {
-          "title": "Income Lab Releases AI Scribe for Retirement Planning",
-          "summary": "Income Lab launched AI Scribe, which transcribes Zoom client meetings to automatically generate or update retirement plans, freeing advisors from manual data entry.",
-          "source": "Dwealth News",
-          "url": "https://dwealth.news/2026/01/ai-finance-news-for-the-week-ending-1-16-26/"
+          "title": "OpenAI Invests in Merge Labs' Non-Invasive Brain-Computer Interface",
+          "summary": "OpenAI co-funded seed round for Merge Labs, co-founded by Sam Altman, developing biology-AI-device BCIs for seamless human-AI interaction without implants. The investment highlights BCIs as a key frontier for natural technology control.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/2026/01/16/openai_merge_labs_brain_interface_investment/"
         },
         {
-          "title": "martini.ai Updates Credit Research Assistant with Financials Integration",
-          "summary": "martini.ai enhanced its AI credit research assistant to analyze uploaded financial statements using knowledge graphs and graph attention networks for real-time insights on 3.5 million companies.",
-          "source": "Dwealth News",
-          "url": "https://dwealth.news/2026/01/ai-finance-news-for-the-week-ending-1-16-26/"
+          "title": "Kaggle Launches Community Benchmarks for Custom AI Model Evaluations",
+          "summary": "Google-owned Kaggle introduced Community Benchmarks, enabling users to create and share custom metrics for AI models, enhancing collaboration and real-world performance assessment in software development.",
+          "source": "Coaio",
+          "url": "https://coaio.com/news/2026/01/ai-revolutionizing-software-development-overcoming-challenges-and-innovations-in-2026/"
         },
         {
-          "title": "Brookings Report Warns of AI 'Brainrot' in Students",
-          "summary": "A Brookings study highlights AI causing cognitive decline in students through over-reliance, leading to reduced critical thinking, reading skills, and idea originality, termed a 'great unwiring'.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/01/15/ai-brainrot-students-brookings-study-cheating-high-school-fast-food/"
+          "title": "AI Algorithm Accurately Distinguishes Alpha Thalassemia Subtypes from Blood Tests",
+          "summary": "A new AI model effectively differentiates alpha thalassemia subtypes using routine blood data, advancing rapid diagnostics in hematology.",
+          "source": "LabMedica",
+          "url": "https://www.labmedica.com/hematology/articles/294807835/ai-algorithm-effectively-distinguishes-alpha-thalassemia-subtypes.html"
+        },
+        {
+          "title": "Enchanted Rock Appoints VP to Drive AI-Powered Data Center Growth",
+          "summary": "Enchanted Rock hired Regis Malloy as SVP of Data Centers to support hyperscale and AI-driven expansion, leveraging machine learning for infrastructure.",
+          "source": "PTC.org",
+          "url": "https://www.ptc.org/2026/01/enchanted-rock-appoints-regis-malloy-senior-vice-president-of-data-centers-to-support-hyperscale-and-ai-driven-growth/"
         }
       ],
       "citations": [
-        "https://sidecar.ai/blog/the-physical-ai-moment-dispatches-from-ces-2026-sidecar-sync-episode-117",
-        "https://dwealth.news/2026/01/ai-finance-news-for-the-week-ending-1-16-26/",
+        "https://ascopost.com/news/january-2026/machine-learning-approach-accelerates-discovery-of-novel-cdk9-inhibitors/",
         "https://www.weforum.org/press/2026/01/global-lighthouse-network-recognizes-23-new-sites-launches-ai-platform-for-industrial-transformation-89a7334dcb/",
-        "https://www.jamasoftware.com/blog/2026-predictions-for-aeco-ai-digital-twins-and-the-path-to-sustainable-transformation/",
-        "https://fortune.com/2026/01/15/ai-brainrot-students-brookings-study-cheating-high-school-fast-food/",
+        "https://coaio.com/news/2026/01/ai-revolutionizing-software-development-overcoming-challenges-and-innovations-in-2026/",
+        "https://www.labmedica.com/hematology/articles/294807835/ai-algorithm-effectively-distinguishes-alpha-thalassemia-subtypes.html",
+        "https://www.theregister.com/2026/01/16/openai_merge_labs_brain_interface_investment/",
+        "https://news.mit.edu/2026/samsara-helps-companies-physical-operations-run-more-intelligently-0116",
         "https://www.aol.com/articles/ai-infiltrate-industrial-workforce-2026-100000421.html",
-        "https://www.christopherspenn.com/2026/01/how-ai-will-change-everything-in-2026-the-research-breaking-through-now/"
+        "https://www.ptc.org/2026/01/enchanted-rock-appoints-regis-malloy-senior-vice-president-of-data-centers-to-support-hyperscale-and-ai-driven-growth/"
       ]
     },
     "gaming": {
@@ -419,64 +393,63 @@
       "count": 8,
       "items": [
         {
-          "title": "Video Game Industry M&A Hits Record $161 Billion in 2025",
-          "summary": "Mergers and acquisitions in the video game industry reached a record $161 billion, driven by deals like the Public Investment Fund's $55 billion acquisition of Electronic Arts, Netflix's likely purchase of Warner Bros., and Scopely's buyout of Niantic. Drake Star predicts continued activity in 2026 with private equity and potential IPOs like Discord.[1]",
-          "source": "Video Games Industry Memo",
-          "url": "https://www.videogamesindustrymemo.com/p/why-tim-sweeney-is-wrong-about-grok"
+          "title": "Neurable and HyperX Brain-Tracking Gaming Headset Wins Top Honors at CES 2026",
+          "summary": "Neurable and HyperX's collaborative gaming headset with noninvasive brain-computer interface technology received recognition in Tom's Guide's 'Best of CES 2026' and TechRadar's 'Best Headset' for optimizing player focus and performance.",
+          "source": "Business Wire",
+          "url": "https://www.businesswire.com/newsroom/industry/entertainment/electronic-games"
         },
         {
-          "title": "Meta Cuts Over 1,000 Jobs and Closes VR Game Studios",
-          "summary": "Meta has laid off more than 1,000 employees as part of a major restructuring in its Reality Labs division, including the closure of VR game studios.[3]",
-          "source": "Noobfeed",
-          "url": "https://www.noobfeed.com/news/meta-cuts-1000-jobs-closes-vr-game-studios"
-        },
-        {
-          "title": "Ubisoft Lays Off 55 Jobs at Massive Entertainment and Stockholm Studios",
-          "summary": "Ubisoft announced 55 job cuts at Massive Entertainment and Ubisoft Stockholm, unrelated to performance, following voluntary redundancies and the closure of its unionized Halifax studio.[1][6]",
-          "source": "Video Games Industry Memo / Game Developer",
-          "url": "https://www.videogamesindustrymemo.com/p/why-tim-sweeney-is-wrong-about-grok"
-        },
-        {
-          "title": "Game Developers Choice Awards 2026 Nominees Announced",
-          "summary": "Nominees for the 2026 Game Developers Choice Awards have been revealed, with Clair Obscur: Expedition 33 leading the nominations.[7]",
-          "source": "Screenhub",
-          "url": "https://www.screenhub.com.au/news/games/game-developers-choice-awards-2026-nominees-2690915/"
-        },
-        {
-          "title": "Edmonton Video Game Testers Ratify First Union Contract",
-          "summary": "Video game testers in Edmonton have ratified their first collective agreement, including wage increases, leaves of absence, and health benefits.[9]",
-          "source": "Alberta Worker",
-          "url": "https://albertaworker.ca/news/edmonton-video-game-testers-ratify-first-contract/"
-        },
-        {
-          "title": "Cineverse and GameStop Partner to Promote 'Return to Silent Hill' Film",
-          "summary": "Cineverse teamed up with GameStop for in-store promotions and giveaways to hype the January 23 theatrical release of the 'Silent Hill 2' adaptation film.[4]",
-          "source": "MediaPost",
-          "url": "https://www.mediapost.com/publications/article/412076/cineverse-gamestop-promote-return-to-silent-hill.html"
-        },
-        {
-          "title": "Discord Potential IPO Signals Gaming Industry Growth",
-          "summary": "Analysts view Discord's possible IPO as a major validation for the gaming sector's venture appeal and potential for large-scale public offerings.[5]",
+          "title": "Nintendo Plans to Produce Up to 25 Million Switch 2 Units by March 2026",
+          "summary": "Nintendo has reportedly instructed suppliers to manufacture up to 25 million units of the Switch 2 to be ready for market by March 2026.",
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/what-discord-s-potential-ipo-means-for-its-business-and-the-video-game-industry"
+          "url": "https://www.gamedeveloper.com/console/report-nintendo-to-produce-up-to-25-million-switch-2-units-by-march-2026"
         },
         {
-          "title": "AGDQ 2026 Raises $2.44 Million for Prevent Cancer Foundation",
-          "summary": "Awesome Games Done Quick event from January 6-10 raised $2.44 million for charity through speedrunning feats like blindfolded Majora's Mask and Guitar Hero Resident Evil.[1]",
-          "source": "Video Games Industry Memo",
-          "url": "https://www.videogamesindustrymemo.com/p/why-tim-sweeney-is-wrong-about-grok"
+          "title": "Meta Lays Off Staff at Batman: Arkham Shadow Developer Camouflaj",
+          "summary": "Meta has laid off employees at Camouflaj, the studio behind Batman: Arkham Shadow, as part of broader workforce reductions.",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/latest-news"
+        },
+        {
+          "title": "Ubisoft Confirms Layoffs at Abu Dhabi Studio",
+          "summary": "Ubisoft has confirmed layoffs at its Abu Dhabi studio amid ongoing industry challenges.",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/latest-news"
+        },
+        {
+          "title": "Microsoft, Sony, and Nintendo Issue Joint Update on Player Safety Commitment",
+          "summary": "Microsoft, Sony, and Nintendo provided a joint update reaffirming their commitment to player safety initiatives.",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/latest-news"
+        },
+        {
+          "title": "ARC Raiders Passes 12.4 Million Units Sold Milestone",
+          "summary": "Nexon's ARC Raiders from Embark Studios has sold over 12.4 million units with 960,000 concurrent players ten weeks post-launch on October 30, 2025.",
+          "source": "Business Wire",
+          "url": "https://www.businesswire.com/newsroom/industry/entertainment/electronic-games"
+        },
+        {
+          "title": "Rockstar Games Launches Official Mod Marketplace",
+          "summary": "Rockstar Games has introduced an official marketplace for mods, enabling creators to monetize their work.",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/latest-news"
+        },
+        {
+          "title": "Fired Rockstar Workers Denied Interim Pay and Visas in Tribunal Hearing",
+          "summary": "Former Rockstar Games employees were denied requests for interim pay and work visas at a preliminary employment tribunal hearing.",
+          "source": "This Week in Video Games",
+          "url": "https://thisweekinvideogames.com/news/"
         }
       ],
       "citations": [
-        "https://www.videogamesindustrymemo.com/p/why-tim-sweeney-is-wrong-about-grok",
-        "https://www.tomsguide.com/ai/one-major-aaa-release-will-be-built-with-ai-generated-assets-as-a-core-selling-point-and-succeed-chatgpts-bold-2026-gaming-predictions",
-        "https://www.noobfeed.com/news/meta-cuts-1000-jobs-closes-vr-game-studios",
-        "https://www.mediapost.com/publications/article/412076/cineverse-gamestop-promote-return-to-silent-hill.html",
-        "https://www.gamedeveloper.com/business/what-discord-s-potential-ipo-means-for-its-business-and-the-video-game-industry",
-        "https://www.gamedeveloper.com/business/-it-had-nothing-to-offer-halifax-union-calls-out-ubisoft-after-first-talks-following-studio-closure",
-        "https://www.screenhub.com.au/news/games/game-developers-choice-awards-2026-nominees-2690915/",
-        "https://ixbt.games/en/news/2026/01/15/eksperty-obieiasnili-pocemu-globalnyi-deficit-i-rost-cen-na-pamiat-tak-silno-udarili-po-akciiam-nintendo.html",
-        "https://albertaworker.ca/news/edmonton-video-game-testers-ratify-first-contract/"
+        "https://www.videogameschronicle.com/category/news/",
+        "https://www.businesswire.com/newsroom/industry/entertainment/electronic-games",
+        "https://www.thegamer.com",
+        "https://escharts.com/top-games",
+        "https://www.gamedeveloper.com/latest-news",
+        "https://www.gamedeveloper.com/console/report-nintendo-to-produce-up-to-25-million-switch-2-units-by-march-2026",
+        "https://thisweekinvideogames.com/news/",
+        "https://www.eventsforgamers.com/page/2/"
       ]
     },
     "tech_news": {
@@ -487,40 +460,43 @@
       "count": 5,
       "items": [
         {
-          "title": "TSMC Boosts 2026 Capital Spending to $56 Billion Amid Strong AI Demand",
-          "summary": "TSMC announced it will increase capital spending by at least 25% to as much as $56 billion in 2026 and forecast faster-than-expected revenue growth, reviving confidence in AI demand and lifting technology stocks and Europe's Stoxx 600 to a record.",
-          "source": "Bloomberg Television",
-          "url": "https://www.youtube.com/watch?v=PxEaFXz60iw"
-        },
-        {
-          "title": "US Imposes 25% Tariff on Nvidia's H200 AI Chips Exported to China",
-          "summary": "The Trump administration formalized a 25% tariff on Nvidia's H200 semiconductors headed to China, balancing competition for US chip industry jobs while allowing sales to approved commercial customers vetted by the Department of Commerce.",
+          "title": "US Imposes 25% Tariff on Nvidia's H200 AI Chips to China",
+          "summary": "The Trump administration formalized a 25% tariff on Nvidia's H200 semiconductors destined for China, while allowing sales to approved commercial customers vetted by the Department of Commerce. Nvidia had been considering ramping up production due to strong early orders from Chinese companies.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/"
         },
         {
-          "title": "Nvidia Showcases Rubin Architecture and Autonomous Vehicle Model at CES 2026",
-          "summary": "At CES 2026, Nvidia revealed its Rubin architecture for powerful chips and an AI model for autonomous vehicles, highlighting major hardware advancements alongside other robotics developments.",
-          "source": "Tech Scope News",
-          "url": "https://www.youtube.com/watch?v=kon8oeioRG0"
+          "title": "TSMC Predicts 25% Increase in Capital Expenditures",
+          "summary": "Taiwan Semiconductor Manufacturing Company announced a 25% bump in capital expenditures for the year, reigniting investor interest in chip stocks and boosting semiconductor equipment manufacturers like Applied Materials and KLA.",
+          "source": "Bloomberg Television",
+          "url": "https://www.youtube.com/watch?v=uwuRlLQsBAs"
         },
         {
-          "title": "Boston Dynamics and Google Partner on Atlas Humanoid Robots at CES 2026",
-          "summary": "CES 2026 featured a partnership between Boston Dynamics and Google on Atlas humanoid robots, marking a significant push in robotics technology.",
-          "source": "Tech Scope News",
-          "url": "https://www.youtube.com/watch?v=kon8oeioRG0"
+          "title": "Canon Maintains Top 10 U.S. Patent Ranking for 42 Years",
+          "summary": "Canon ranked seventh in the U.S. patent rankings for 2025, continuing its 42-year streak of maintaining a position in the top 10 patent holders.",
+          "source": "Canon",
+          "url": "https://global.canon/en/news/2026/20260116-2.html"
         },
         {
-          "title": "Lego Makes CES Debut with Launch of Smart Bricks",
-          "summary": "Lego appeared at CES 2026 for the first time, launching Smart Bricks as part of innovative tech product introductions.",
-          "source": "Tech Scope News",
-          "url": "https://www.youtube.com/watch?v=kon8oeioRG0"
+          "title": "NTT Releases IOWN Technology Report on Quantum and Optical Computing",
+          "summary": "NTT published its latest IOWN Technology Report focusing on optical-quantum computing trajectories, next-generation data centers, and space industry applications including stratospheric HAPS technology.",
+          "source": "NTT",
+          "url": "https://group.ntt/en/topics/2026/01/16/iown_tech_report.html"
+        },
+        {
+          "title": "Major Cybersecurity Incidents: Nissan, ASML, and Japanese Manufacturers Targeted",
+          "summary": "Nissan Motor Corporation suffered a ransomware attack by Everest Ransomware resulting in the theft of 900 gigabytes of sensitive data including blueprints and financial records. Additionally, ASML reported a significant data leak of approximately 154 databases, and Japanese manufacturer Sugawara Laboratories was compromised by Qilin Ransomware.",
+          "source": "CYFIRMA",
+          "url": "https://www.cyfirma.com/news/weekly-intelligence-report-16-january-2026/"
         }
       ],
       "citations": [
         "https://www.youtube.com/watch?v=kon8oeioRG0",
-        "https://www.youtube.com/watch?v=PxEaFXz60iw",
-        "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/"
+        "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/",
+        "https://www.cyfirma.com/news/weekly-intelligence-report-16-january-2026/",
+        "https://group.ntt/en/topics/2026/01/16/iown_tech_report.html",
+        "https://www.youtube.com/watch?v=uwuRlLQsBAs",
+        "https://global.canon/en/news/2026/20260116-2.html"
       ]
     }
   }
