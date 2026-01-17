@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T18:07:20.830144+00:00",
-  "generated_at_human": "2026-01-16 18:07 UTC",
+  "generated_at": "2026-01-17T00:19:31.551284+00:00",
+  "generated_at_human": "2026-01-17 00:19 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,124 @@
       "count": 25,
       "items": [
         {
+          "title": "Left in the cold: Study finds most renters shut out of energy-saving upgrades",
+          "url": "https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades",
+          "score": 27,
+          "comments": 13
+        },
+        {
+          "title": "East Germany balloon escape",
+          "url": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+          "score": 243,
+          "comments": 78
+        },
+        {
           "title": "Cloudflare acquires Astro",
           "url": "https://astro.build/blog/joining-cloudflare/",
-          "score": 403,
-          "comments": 219
+          "score": 675,
+          "comments": 321
+        },
+        {
+          "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
+          "url": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
+          "score": 51,
+          "comments": 25
+        },
+        {
+          "title": "LLM Structured Outputs Handbook",
+          "url": "https://nanonets.com/cookbooks/structured-llm-outputs",
+          "score": 63,
+          "comments": 14
         },
         {
           "title": "6-Day and IP Address Certificates Are Generally Available",
           "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
-          "score": 150,
-          "comments": 61
+          "score": 313,
+          "comments": 194
+        },
+        {
+          "title": "Cursor's latest “browser experiment” implied success without evidence",
+          "url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
+          "score": 357,
+          "comments": 157
         },
         {
           "title": "Michelangelo's first painting, created when he was 12 or 13",
           "url": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
-          "score": 171,
-          "comments": 106
+          "score": 286,
+          "comments": 154
         },
         {
           "title": "Just the Browser",
           "url": "https://justthebrowser.com/",
-          "score": 345,
-          "comments": 177
+          "score": 470,
+          "comments": 235
         },
         {
-          "title": "Launch HN: Indy (YC S21) – A support app designed for ADHD brains",
-          "url": "https://www.shimmer.care/indy-redirect",
-          "score": 29,
-          "comments": 32
+          "title": "HTTP RateLimit Headers",
+          "url": "https://dotat.at/@/2026-01-13-http-ratelimit.html",
+          "score": 20,
+          "comments": 6
         },
         {
           "title": "Lock-Picking Robot",
           "url": "https://github.com/etinaude/Lock-Picking-Robot",
-          "score": 131,
-          "comments": 56
+          "score": 243,
+          "comments": 114
         },
         {
-          "title": "Canada slashes 100% tariffs on Chinese EVs to 6%",
-          "url": "https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/",
-          "score": 172,
-          "comments": 152
+          "title": "Reading across books with Claude Code",
+          "url": "https://pieterma.es/syntopic-reading-claude/",
+          "score": 49,
+          "comments": 17
+        },
+        {
+          "title": "An Ode to the Return of Wysiwyg",
+          "url": "https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/",
+          "score": 7,
+          "comments": 5
+        },
+        {
+          "title": "Patching the Wii News Channel to serve local news (2025)",
+          "url": "https://raulnegron.me/2025/wii-news-pr/",
+          "score": 35,
+          "comments": 7
+        },
+        {
+          "title": "STFU",
+          "url": "https://github.com/Pankajtanwarbanna/stfu",
+          "score": 595,
+          "comments": 414
+        },
+        {
+          "title": "Slop is everywhere for those with eyes to see",
+          "url": "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/",
+          "score": 158,
+          "comments": 87
+        },
+        {
+          "title": "Why DuckDB is my first choice for data processing",
+          "url": "https://www.robinlinacre.com/recommend_duckdb/",
+          "score": 197,
+          "comments": 72
+        },
+        {
+          "title": "Launch HN: Indy (YC S21) – A support app designed for ADHD brains",
+          "url": "https://www.shimmer.care/indy-redirect",
+          "score": 63,
+          "comments": 73
+        },
+        {
+          "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
+          "url": "https://dl.acm.org/doi/10.1145/3780063.3780066",
+          "score": 103,
+          "comments": 134
+        },
+        {
+          "title": "Elasticsearch was never a database",
+          "url": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database",
+          "score": 92,
+          "comments": 73
         },
         {
           "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
@@ -56,106 +134,28 @@
           "comments": 0
         },
         {
-          "title": "Can You Disable Spotlight and Siri in macOS Tahoe?",
-          "url": "https://eclecticlight.co/2026/01/16/can-you-disable-spotlight-and-siri-in-macos-tahoe/",
-          "score": 43,
-          "comments": 26
-        },
-        {
-          "title": "STFU",
-          "url": "https://github.com/Pankajtanwarbanna/stfu",
-          "score": 32,
-          "comments": 2
-        },
-        {
-          "title": "Dell UltraSharp 52 Thunderbolt Hub Monitor",
-          "url": "https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories",
-          "score": 8,
-          "comments": 2
-        },
-        {
-          "title": "Read_once(), Write_once(), but Not for Rust",
-          "url": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
-          "score": 59,
-          "comments": 17
-        },
-        {
-          "title": "psc: The ps utility, with an eBPF twist and container context",
-          "url": "https://github.com/loresuso/psc",
-          "score": 50,
-          "comments": 17
+          "title": "CLI's completion should know what options you've typed",
+          "url": "https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion",
+          "score": 11,
+          "comments": 4
         },
         {
           "title": "Show HN: 1Code – Open-source Cursor-like UI for Claude Code",
           "url": "https://github.com/21st-dev/1code",
-          "score": 13,
-          "comments": 1
+          "score": 48,
+          "comments": 25
         },
         {
-          "title": "Training my smartwatch to track intelligence",
-          "url": "https://dmvaldman.github.io/rooklift/",
-          "score": 97,
-          "comments": 39
+          "title": "We Gave Our Browser Agent a 3MB Data Warehouse",
+          "url": "https://100x.bot/a/we-gave-our-browser-agent-a-3mb-data-warehouse",
+          "score": 22,
+          "comments": 3
         },
         {
-          "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
-          "url": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
-          "score": 365,
-          "comments": 46
-        },
-        {
-          "title": "Why DuckDB is my first choice for data processing",
-          "url": "https://www.robinlinacre.com/recommend_duckdb/",
-          "score": 80,
-          "comments": 31
-        },
-        {
-          "title": "List of individual trees",
-          "url": "https://en.wikipedia.org/wiki/List_of_individual_trees",
-          "score": 290,
-          "comments": 101
-        },
-        {
-          "title": "Interactive eBPF",
-          "url": "https://ebpf.party/",
-          "score": 157,
-          "comments": 7
-        },
-        {
-          "title": "Elasticsearch Was Never a Database",
-          "url": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database",
-          "score": 6,
-          "comments": 12
-        },
-        {
-          "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
-          "url": "https://kyutai.org/blog/2026-01-13-pocket-tts",
-          "score": 575,
-          "comments": 136
-        },
-        {
-          "title": "Show HN: mdto.page – Turn Markdown into a shareable webpage instantly",
-          "url": "https://mdto.page",
-          "score": 27,
-          "comments": 16
-        },
-        {
-          "title": "Exasol Personal – Democratizing Big Data Analytics",
-          "url": "https://www.exasol.com/blog/introducing-exasol-personal/",
-          "score": 6,
-          "comments": 2
-        },
-        {
-          "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
-          "url": "https://briarproject.org/manual/fa/",
-          "score": 523,
-          "comments": 325
-        },
-        {
-          "title": "The spectrum of isolation: From bare metal to WebAssembly",
-          "url": "https://buildsoftwaresystems.com/post/guide-to-execution-environments/",
-          "score": 74,
-          "comments": 24
+          "title": "Read_once(), Write_once(), but Not for Rust",
+          "url": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
+          "score": 104,
+          "comments": 32
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 95074,
-          "change_24h": -1.27,
-          "change_7d": 3.89,
-          "market_cap": 1898963159324
+          "price": 95494,
+          "change_24h": -0.22,
+          "change_7d": 5.52,
+          "market_cap": 1907575941431
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3283.12,
-          "change_24h": -0.38,
-          "change_7d": 4.9,
-          "market_cap": 396257521041
+          "price": 3292.24,
+          "change_24h": -0.79,
+          "change_7d": 6.78,
+          "market_cap": 397306125151
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 143.11,
-          "change_24h": 0.33,
-          "change_7d": 2.48,
-          "market_cap": 80887634886
+          "price": 144.67,
+          "change_24h": 1.55,
+          "change_7d": 6.5,
+          "market_cap": 81814675314
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.137019,
-          "change_24h": -2.89,
-          "change_7d": -4.42,
-          "market_cap": 23052912024
+          "price": 0.138091,
+          "change_24h": -1.34,
+          "change_7d": -1.71,
+          "market_cap": 23227006727
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.386389,
-          "change_24h": -2.52,
-          "change_7d": -3.66,
-          "market_cap": 14191146034
+          "price": 0.396532,
+          "change_24h": 0.75,
+          "change_7d": 1.49,
+          "market_cap": 14574727047
         }
       ]
     },
@@ -212,54 +212,54 @@
       "count": 10,
       "items": [
         {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 166
+          "name": "DUSK",
+          "symbol": "DUSK",
+          "market_cap_rank": 677
         },
         {
-          "name": "Dash",
-          "symbol": "DASH",
-          "market_cap_rank": 93
-        },
-        {
-          "name": "Owlto Finance",
-          "symbol": "OWL",
-          "market_cap_rank": 856
+          "name": "Meteora",
+          "symbol": "MET",
+          "market_cap_rank": 340
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 120
+          "market_cap_rank": 117
         },
         {
-          "name": "Monero",
-          "symbol": "XMR",
-          "market_cap_rank": 14
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 6
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 30
-        },
-        {
-          "name": "KAITO",
-          "symbol": "KAITO",
-          "market_cap_rank": 377
+          "name": "Owlto Finance",
+          "symbol": "OWL",
+          "market_cap_rank": 850
         },
         {
           "name": "Fogo",
           "symbol": "FOGO",
-          "market_cap_rank": 358
+          "market_cap_rank": 353
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Dash",
+          "symbol": "DASH",
+          "market_cap_rank": 97
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 27
+          "name": "Monero",
+          "symbol": "XMR",
+          "market_cap_rank": 18
+        },
+        {
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 164
+        },
+        {
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 5
         }
       ]
     },
@@ -271,41 +271,40 @@
       "count": 5,
       "items": [
         {
-          "title": "US Stocks Climb on Tech Optimism with Dow Up 0.6%",
-          "summary": "Wall Street rebounded led by technology stocks after TSMC forecasted robust growth into 2026. The Dow Jones rose 0.60% to 49,442, S&P 500 added 0.26% to 6,944, and Nasdaq gained 0.25% to 23,530.",
-          "source": "IC Markets",
-          "url": "https://www.icmarkets.com/blog/general-market-analysis-16-01-26/"
-        },
-        {
-          "title": "S&P 500 Inches Up 0.09% to 6951 Amid Mixed Labor Data",
-          "summary": "The US500 rose 0.09% to 6951, with Nasdaq up 0.16% driven by Alphabet's 2.5% rally. JOLTS showed sharp drop in job openings signaling cooling labor demand, offset by ADP private hiring rebound and upside ISM Services PMI.",
-          "source": "Trading Economics",
+          "title": "US Stock Indexes Dip Slightly Near Records Amid Mixed Economic Data",
+          "summary": "The S&P 500 fell 0.06-0.1% to 6940 points, Dow dropped 0.2% to around 49,359, and Nasdaq edged up 0.16% on January 16, 2026. JOLTS showed sharp drop in job openings signaling cooling labor demand, ADP reported modest private hiring rebound, and ISM Services PMI beat expectations.[1][2]",
+          "source": "Trading Economics / LA Times",
           "url": "https://tradingeconomics.com/united-states/stock-market"
         },
         {
-          "title": "Resilient Labor Markets Reduce Fed Rate Cut Expectations",
-          "summary": "US labor data showed positive signs with continuing claims dropping to 1.88 million, supporting full employment but tempering expectations for additional Fed rate cuts this year amid ticking up bond yields.",
-          "source": "Wealth Enhancement Group",
-          "url": "https://www.wealthenhancement.com/blog/7-market-movers-january-16-2026"
+          "title": "Banks Weigh on Dow as JPMorgan and Bank of America Fall Over 2%",
+          "summary": "JPMorgan Chase and Bank of America declined more than 2%, dragging the Dow, while regional bank PNC rose 3.8% after beating Q4 targets but Regions Financial fell 2.6% on missed forecasts. Tech stocks like Alphabet (+2.5%) and NVIDIA (+1%) supported Nasdaq gains.[1][2]",
+          "source": "Trading Economics / LA Times",
+          "url": "https://tradingeconomics.com/united-states/stock-market"
         },
         {
-          "title": "Earnings Season Kicks Off with Focus on S&P 500 Growth",
-          "summary": "Major banks reported mixed results to start 2026 earnings, with S&P 500 companies expected to boost earnings 15%; upcoming reports from Netflix, Intel, and Magnificent 7 could drive market direction amid high valuations.",
-          "source": "IC Markets",
-          "url": "https://www.icmarkets.com/blog/general-market-analysis-16-01-26/"
+          "title": "Semiconductor Strength with Broadcom Up 2.5% and Micron Soaring 7.8%",
+          "summary": "Big tech and semiconductors led market moves, with Broadcom rising 2.5% and Micron Technology jumping 7.8%, offsetting losses in cyclical sectors like industrials, materials, and financials. Russell 2000 small caps gained 0.1%.[2]",
+          "source": "LA Times",
+          "url": "https://www.latimes.com/business/story/2026-01-16/stocks-edge-bit-below-their-latest-records-on-wall-street"
         },
         {
-          "title": "Stocks Waver Near Records with Dow Down 0.1%",
-          "summary": "Wall Street stocks fluctuated near record highs, with S&P 500 mostly unchanged and Dow Jones falling 37 points or 0.1% midday, reflecting mixed sector performances.",
-          "source": "The Columbian",
-          "url": "https://www.columbian.com/news/2026/jan/16/stocks-waver-on-wall-street-and-remain-near-records/"
+          "title": "Treasury Yields Rise as 10-Year Hits 4.23% and 2-Year at 3.60%",
+          "summary": "The 10-year Treasury yield increased to 4.23% from 4.17%, and the 2-year yield rose to 3.60% from 3.57%, reflecting expectations around Federal Reserve policy. Gold prices fell 0.6% but remain up over 5% in January.[2]",
+          "source": "LA Times",
+          "url": "https://www.latimes.com/business/story/2026-01-16/stocks-edge-bit-below-their-latest-records-on-wall-street"
+        },
+        {
+          "title": "Energy Stocks Mixed on Venezuelan Crude Flows and Softer Prices",
+          "summary": "Valero and Marathon Petroleum advanced on reports of renewed Venezuelan crude flows benefiting Gulf Coast refiners, while Chevron lagged amid declining crude prices.[1]",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/stock-market"
         }
       ],
       "citations": [
-        "https://www.icmarkets.com/blog/general-market-analysis-16-01-26/",
-        "https://www.wealthenhancement.com/blog/7-market-movers-january-16-2026",
         "https://tradingeconomics.com/united-states/stock-market",
-        "https://www.columbian.com/news/2026/jan/16/stocks-waver-on-wall-street-and-remain-near-records/"
+        "https://www.latimes.com/business/story/2026-01-16/stocks-edge-bit-below-their-latest-records-on-wall-street",
+        "https://fnarena.com/index.php/2026/01/17/the-market-in-numbers-17-jan-2026/"
       ]
     },
     "crypto_news": {
@@ -313,64 +312,58 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 7,
       "items": [
         {
-          "title": "Global Crypto Market Cap Declines to $3.22T Amid Mixed Trading",
-          "summary": "The cryptocurrency market cap fell 1.48% over the past 24 hours to $3.22T, with Bitcoin trading at $95,727 (down 1.06%) and most major cryptocurrencies showing mixed performance. Market outperformers included GLMR (up 23%), DASH (up 18%), and MET (up 16%).",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/01-16-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-16-2026-35156278432881"
+          "title": "Bitcoin Surges Above $97,000 in First Major 2026 Rally",
+          "summary": "Bitcoin hit a high over $97,000 and Ethereum neared $3,400 amid the first significant crypto rally of 2026, with Solana peaking at $148. Crypto ETF inflows reached $1.2 billion in the last five trading days, signaling strong institutional accumulation.",
+          "source": "Mitrade",
+          "url": "https://www.mitrade.com/insights/crypto-analysis/bitcoin/cryptopolitan-BTCUSD-202601161522"
         },
         {
-          "title": "U.S. Senate Unveils Long-Awaited Crypto Regulatory Framework Bill",
-          "summary": "U.S. senators introduced draft legislation to create a comprehensive regulatory framework for cryptocurrency, clarifying financial regulators' jurisdiction over the sector. The bill addresses stablecoin regulations and decentralized finance oversight, with the Senate Banking Committee scheduled to debate it on Thursday.",
-          "source": "Insurance Journal",
-          "url": "https://www.insurancejournal.com/news/national/2026/01/16/854586.htm"
+          "title": "Spot Bitcoin ETFs See $1.7 Billion Inflows in Three Days",
+          "summary": "Confirmed inflows into spot Bitcoin ETFs exceeded $1.7 billion from January 13-15, 2026, potentially signaling a super cycle toward $100,000 according to analysts.",
+          "source": "Brave New Coin",
+          "url": "https://bravenewcoin.com/insights/bitcoin-btc-price-prediction-do-1-68b-etf-inflows-signal-a-bitcoin-super-cycle-toward-100k"
         },
         {
-          "title": "Belgium's KBC Group to Launch Bitcoin and Ethereum Trading Services",
-          "summary": "Belgium's major banking group KBC announced plans to launch Bitcoin and Ethereum trading services, marking institutional adoption of cryptocurrency trading platforms.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/01-16-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-16-2026-35156278432881"
+          "title": "Senate Delays Vote on CLARITY Act After Industry Split",
+          "summary": "The Senate Banking Committee delayed a markup vote on the Digital Asset Market Clarity Act of 2025 after Coinbase CEO Brian Armstrong withdrew support, amid mixed reactions from crypto leaders aiming to clarify SEC-CFTC oversight.",
+          "source": "DL News",
+          "url": "https://www.dlnews.com/articles/markets/xrp-firm-to-go-public-as-crypto-ipos-line-up-in-2026/"
         },
         {
-          "title": "CME Group Expands Crypto Derivatives with Cardano, Chainlink, and Stellar Futures",
-          "summary": "CME Group announced the launch of futures contracts for Cardano, Chainlink, and Stellar, expanding regulated cryptocurrency derivatives offerings for institutional investors.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/01-16-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-16-2026-35156278432881"
+          "title": "XRP On-Chain Activity Hits 180-Day High at 1.45M Transactions",
+          "summary": "XRP Ledger recorded 1.45 million daily transactions on January 13, the highest in six months, driven by payments, tokenized assets, and DeFi, though price lingers at $2.10 with analysts predicting a potential breakout.",
+          "source": "247 Wall St",
+          "url": "https://247wallst.com/investing/2026/01/16/xrp-on-chain-activity-hits-180-day-high-at-1-45m-transactions-but-price-sits-at-2-10/"
         },
         {
-          "title": "X Bans InfoFi 'Post-to-Earn' Apps, Triggering Sector-Wide Selloff",
-          "summary": "X's ban on InfoFi 'Post-to-Earn' applications triggered a sector-wide selloff, with KAITO dropping 20% in response to the platform's policy change.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/01-16-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-16-2026-35156278432881"
+          "title": "XRP Treasury Firm Evernorth Plans Nasdaq IPO in 2026",
+          "summary": "Evernorth, holding 388 million XRP tokens, will go public on Nasdaq, joining Kraken, Consensys, and Ledger in a wave of crypto IPOs expected in 2026 amid growing Wall Street adoption of blockchain.",
+          "source": "DL News",
+          "url": "https://www.dlnews.com/articles/markets/xrp-firm-to-go-public-as-crypto-ipos-line-up-in-2026/"
         },
         {
-          "title": "Ethereum Activity Doubles as New Users Flood Network",
-          "summary": "Ethereum experienced a significant surge in network activity with new users flooding the platform, according to Glassnode data analysis.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/01-16-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-16-2026-35156278432881"
+          "title": "CME to Launch 24/7 Crypto Futures for Cardano, Chainlink, Stellar",
+          "summary": "CME plans 24/7 crypto futures and options trading starting early 2026, including Cardano, Chainlink, and Stellar, pending regulatory approval, legitimizing derivatives for institutional traders.",
+          "source": "CoinMarketCal",
+          "url": "https://coinmarketcal.com/en/news/crypto-futures-legitimized-by-cme-with-cardano-chainlink-and-stellar-addition-but-retail-traders-face-a-massive-catch"
         },
         {
-          "title": "Jefferies Removes Bitcoin from Asia Portfolio Over Quantum Computing Concerns",
-          "summary": "Investment bank Jefferies removed Bitcoin from its Asia-focused portfolio, citing long-term risks from quantum computing advances that could undermine Bitcoin's cryptographic security. The move signals institutional recalibration of quantum technology progress.",
-          "source": "The Quantum Insider",
-          "url": "https://thequantuminsider.com/2026/01/16/is-quantum-moving-faster-than-markets-expected-bitcoin-rebalance-suggests-changed-in-quantum-computing-risk-perception/"
-        },
-        {
-          "title": "Moldova Moves to Regulate Crypto Under EU-Style MiCA Framework",
-          "summary": "Moldova announced plans to implement cryptocurrency regulation aligned with the EU's Markets in Crypto-Assets (MiCA) framework by 2026, strengthening regulatory oversight in the region.",
-          "source": "Binance Market Update",
-          "url": "https://www.binance.com/en/square/post/01-16-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-16-2026-35156278432881"
+          "title": "Crypto Scams Reach Record $14B in 2025 Fueled by AI",
+          "summary": "Illicit crypto addresses received at least $14 billion in 2025, up sharply due to AI-enhanced scams averaging $3.2 million per operation, with Chainalysis projecting over $17 billion as data finalizes.",
+          "source": "Investment Executive",
+          "url": "https://www.investmentexecutive.com/uncategorized/hey-grok-supercharge-my-crypto-scam/"
         }
       ],
       "citations": [
-        "https://www.binance.com/en/square/post/01-16-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-16-2026-35156278432881",
-        "https://www.ainvest.com/news/crypto-today-january-16-2026-2601/",
-        "https://www.kitco.com/news/article/2026-01-16/bitcoin-january-16-daily-chart-alert-corrective-price-pullback",
-        "https://thedefiant.io/news/markets/bitcoin-below-usd95k-crypto-market-update-jan-16-2026",
-        "https://www.insurancejournal.com/news/national/2026/01/16/854586.htm",
-        "https://thequantuminsider.com/2026/01/16/is-quantum-moving-faster-than-markets-expected-bitcoin-rebalance-suggests-changed-in-quantum-computing-risk-perception/"
+        "https://www.mitrade.com/insights/crypto-analysis/bitcoin/cryptopolitan-BTCUSD-202601161522",
+        "https://247wallst.com/investing/2026/01/16/xrp-on-chain-activity-hits-180-day-high-at-1-45m-transactions-but-price-sits-at-2-10/",
+        "https://bravenewcoin.com/insights/bitcoin-btc-price-prediction-do-1-68b-etf-inflows-signal-a-bitcoin-super-cycle-toward-100k",
+        "https://www.dlnews.com/articles/markets/xrp-firm-to-go-public-as-crypto-ipos-line-up-in-2026/",
+        "https://coinmarketcal.com/en/news/crypto-futures-legitimized-by-cme-with-cardano-chainlink-and-stellar-addition-but-retail-traders-face-a-massive-catch",
+        "https://www.investmentexecutive.com/uncategorized/hey-grok-supercharge-my-crypto-scam/"
       ]
     },
     "ai_news": {
@@ -378,77 +371,35 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 3,
       "items": [
         {
-          "title": "Cast AI Reaches Unicorn Status with Cloud Cost Optimization for AI Workloads",
-          "summary": "Cast AI achieved unicorn valuation following a new funding round, fueled by demand for its platform that automates cloud cost optimization for Kubernetes and AI workloads by right-sizing clusters and scheduling jobs.",
-          "source": "Solutions Review",
-          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-january-16-updates-from-camunda-ibm-nutanix-more/"
+          "title": "Gartner Forecasts Global AI Spending to Reach $2.52 Trillion in 2026",
+          "summary": "Gartner predicts worldwide AI spending will hit $2.52 trillion in 2026, a 44% year-over-year increase, driven by AI infrastructure and optimized servers, though ROI remains elusive amid the 'Trough of Disillusionment'. AI models and platforms for data science are expected to grow rapidly from 2025 levels.",
+          "source": "ARNnet / IT-Online",
+          "url": "https://www.arnnet.com.au/article/4117720/ai-spend-to-reach-us2-5t-but-roi-remains-elusive-says-gartner.html"
         },
         {
-          "title": "Clari Labs Research: 87% of Enterprises Missed Revenue Targets Despite AI Investments",
-          "summary": "New research from Clari Labs reveals 87% of enterprises missed major revenue targets in 2025 due to fragmented data and siloed systems, despite heavy AI spending on forecasting tools.",
-          "source": "Solutions Review",
-          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-january-16-updates-from-camunda-ibm-nutanix-more/"
+          "title": "Wikimedia Foundation Adds Six AI Companies as Enterprise Partners",
+          "summary": "On its 25th birthday, Wikimedia signed Ecosia, Microsoft, Mistral AI, Perplexity, Pleias, and ProRata as enterprise partners, granting them preferential API access to Wikipedia content to support responsible AI development.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/2026/01/16/wikimedia_25_ai_partner_access/"
         },
         {
-          "title": "Cognizant Report: AI Could Unlock $4.5 Trillion in U.S. Labor Productivity",
-          "summary": "Cognizant's 'New Work, New World 2026' report estimates AI could add up to $4.5 trillion annually to U.S. labor productivity, but requires reskilling and responsible implementation to avoid inequality.",
-          "source": "Solutions Review",
-          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-january-16-updates-from-camunda-ibm-nutanix-more/"
-        },
-        {
-          "title": "EMA and FDA Release Joint Principles for AI in Medicine Development",
-          "summary": "The European Medicines Agency and U.S. FDA jointly outlined ten principles for good AI practices across the medicines lifecycle, from research to safety monitoring.",
-          "source": "CGSPAM Daily Digest",
-          "url": "https://www.cgspam.org/daily-digest-on-ai-and-emerging-technologies-16-january-2026/"
-        },
-        {
-          "title": "IBM Launches Sovereign Core Software for AI-Ready Digital Sovereignty",
-          "summary": "IBM introduced Sovereign Core, the first AI-ready sovereign-enabled software allowing enterprises and governments to build and manage self-controlled AI environments amid rising regulatory demands.",
-          "source": "CGSPAM Daily Digest",
-          "url": "https://www.cgspam.org/daily-digest-on-ai-and-emerging-technologies-16-january-2026/"
-        },
-        {
-          "title": "UK AI Security Institute Releases Frontier AI Trends Report",
-          "summary": "The UK AI Security Institute published its Frontier AI Trends Report, highlighting key developments in advanced AI systems.",
-          "source": "Stephen Turner Weekly Recap",
-          "url": "https://blog.stephenturner.us/p/weekly-recap-january-16-2026?action=share"
-        },
-        {
-          "title": "Anthropic Advances Claude for Healthcare and Life Sciences",
-          "summary": "Anthropic announced advancements in Claude AI tailored for healthcare and life sciences research applications.",
-          "source": "Stephen Turner Weekly Recap",
-          "url": "https://blog.stephenturner.us/p/weekly-recap-january-16-2026?action=share"
-        },
-        {
-          "title": "OpenAI Introduces ChatGPT Health",
-          "summary": "OpenAI launched ChatGPT Health, a new tool designed for health and life sciences research.",
-          "source": "Stephen Turner Weekly Recap",
-          "url": "https://blog.stephenturner.us/p/weekly-recap-january-16-2026?action=share"
-        },
-        {
-          "title": "Teradata Completes 150+ Enterprise AI Engagements in 2025",
-          "summary": "Teradata reported over 150 AI customer engagements in 2025 across sectors like finance and healthcare, using its AI platform for applications including AML models and medical imaging.",
-          "source": "Solutions Review",
-          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-january-16-updates-from-camunda-ibm-nutanix-more/"
-        },
-        {
-          "title": "Contactless AI Sensor Detects Irregular Heart Rhythms",
-          "summary": "Scientists developed a radar-like sensor using radio waves and AI to detect atrial fibrillation without body contact, published in Nature Communications.",
-          "source": "CGSPAM Daily Digest",
-          "url": "https://www.cgspam.org/daily-digest-on-ai-and-emerging-technologies-16-january-2026/"
+          "title": "Data Management Trends for 2026: AI-Driven Shift to Lakehouses and Vector Support",
+          "summary": "In 2026, data management evolves with AI, favoring lakehouses like Unity Catalog for unified analytics and ML, native vector embeddings for RAG, and Apache Iceberg as the open table standard, moving away from monolithic warehouses.",
+          "source": "CIO",
+          "url": "https://www.cio.com/article/4117488/whats-in-and-whats-out-data-management-in-2026-has-a-new-attitude.html"
         }
       ],
       "citations": [
-        "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-january-16-updates-from-camunda-ibm-nutanix-more/",
-        "https://blog.stephenturner.us/p/weekly-recap-january-16-2026?action=share",
-        "https://www.cgspam.org/daily-digest-on-ai-and-emerging-technologies-16-january-2026/",
-        "https://press.asus.com/blog/what-is-computer-vision-ai/",
-        "https://qubitronlabs.com/blog/what-is-ai-and-machine-learning-complete-beginner-guide",
-        "https://europeanbusinessmagazine.com/business/ai-startups-to-watch-in-2026-the-companies-reshaping-industries-through-artificial-intelligence/",
-        "https://uwaterloo.ca/daily-bulletin/2026-01-16"
+        "https://www.arnnet.com.au/article/4117720/ai-spend-to-reach-us2-5t-but-roi-remains-elusive-says-gartner.html",
+        "https://it-online.co.za/2026/01/16/global-ai-spend-could-pass-25trn-in-2026/",
+        "https://economictimes.com/news/international/us/tech-word-of-the-day-machine-learning-the-ai-technology-that-learns-and-makes-life-smarter/articleshow/126584532.cms",
+        "https://www.cio.com/article/4117488/whats-in-and-whats-out-data-management-in-2026-has-a-new-attitude.html",
+        "https://www.theregister.com/2026/01/16/wikimedia_25_ai_partner_access/",
+        "https://nadzweb.com/2026/01/ais-expanding-universe-from-linux-distros-to-legal-battles-and-beyond/",
+        "https://www.nasdaq.com/articles/artificial-intelligence-stock-terrific-bargain-buy-2026-hint-its-not-micron"
       ]
     },
     "gaming": {
@@ -456,64 +407,47 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 5,
       "items": [
         {
-          "title": "Arcade Archives Series Hits 500 Titles with Space Invaders Release",
-          "summary": "HAMSTER Corporation's Arcade Archives reached its 500th title with Space Invaders on December 25, 2025, emphasizing preservation of arcade classics through detailed recreations, authentic sounds, and new modes like Caravan on Xbox and other platforms.[1]",
-          "source": "Xbox News",
-          "url": "https://news.xbox.com/en-us/2026/01/16/arcade-archives-500-space-invaders/"
+          "title": "Amazon's New World: Aeternum Delisted, Shutdown Scheduled for January 31, 2027",
+          "summary": "Amazon's MMORPG New World: Aeternum was delisted on January 15, 2026, with the game set to go offline completely on January 31, 2027. The Rust director has offered $25 million to acquire and keep the game alive.",
+          "source": "This Week in Video Games",
+          "url": "https://thisweekinvideogames.com/news/"
         },
         {
-          "title": "Arc Raiders Sells 12 Million Copies in Under Three Months",
-          "summary": "The game Arc Raiders has achieved massive commercial success, selling 12 million copies shortly after launch, highlighting strong player demand amid industry challenges.[2]",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/arc-raiders-hits-12-million-sales-a-wild-rebuttal-from-bobby-kotick-and-a-deluge-of-layoffs-patch-notes-36"
+          "title": "Krafton Announces 26 Games in Development, Pursuing 'Big Franchise IP'",
+          "summary": "South Korean gaming company Krafton revealed it has 26 games in progress, with 12 titles scheduled to launch within two years including Subnautica 2 and Palworld Mobile. The company is focusing on creating sustainable franchise IPs that extend beyond single games.",
+          "source": "WN Hub",
+          "url": "https://wnhub.io/news/other/item-49822"
         },
         {
-          "title": "KRAFTON Restructures for Stronger Game Development Pipeline",
-          "summary": "KRAFTON announced a strategic shift on January 16, 2026, to boost first-party production, adopt early-validation models, scale franchises, and formalize India publishing via KIGI for long-term growth.[3]",
-          "source": "TaxTMI",
-          "url": "https://www.taxtmi.com/news?id=67555"
+          "title": "Ubisoft Reaffirms Commitment to The Division Franchise",
+          "summary": "Ubisoft confirmed its ongoing commitment to The Division 2, The Division 2 Survivors, The Division Resurgence, and The Division 3, with new content including The Gaming Brigade arm patch and backpack.",
+          "source": "The Gaming Brigade",
+          "url": "https://www.youtube.com/watch?v=3SEyQwO9Ip8"
         },
         {
-          "title": "Italy Launches Investigations into Activision Blizzard Over In-Game Purchases",
-          "summary": "Italy's competition regulator is probing Microsoft-owned Activision Blizzard for misleading sales practices in Diablo Immortal and Call of Duty Mobile, targeting addictive designs, poor parental controls, and privacy issues affecting minors.[4]",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/"
+          "title": "Nearly 80% of Japanese Game Developers Report Income Increases",
+          "summary": "According to a CESA survey of 339 Japanese game developers, 79.5% reported annual income increases in 2025, with 19.5% seeing gains exceeding 20%. Only 6.8% reported income declines.",
+          "source": "Automaton Media",
+          "url": "https://automaton-media.com/en/news/almost-80-of-japanese-game-developers-say-their-annual-income-has-increased-in-the-past-year-according-to-cedec-survey-report/"
         },
         {
-          "title": "Meta Closes Three VR Studios in Latest Layoffs",
-          "summary": "Meta shut down multiple VR studios as part of broader Reality Labs layoffs, impacting around 10% of employees in its gaming divisions.[2]",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/arc-raiders-hits-12-million-sales-a-wild-rebuttal-from-bobby-kotick-and-a-deluge-of-layoffs-patch-notes-36"
-        },
-        {
-          "title": "Ubisoft Faces Layoffs and Union Complaints After Halifax Studio Closure",
-          "summary": "Ubisoft continues layoffs with 55 staff cuts at Massive and Stockholm studios; unions file complaints over the Halifax closure, criticizing lack of support for affected workers.[2]",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/arc-raiders-hits-12-million-sales-a-wild-rebuttal-from-bobby-kotick-and-a-deluge-of-layoffs-patch-notes-36"
-        },
-        {
-          "title": "Pokemon Legends Z-A Mega Dimension DLC Released with Mixed Reception",
-          "summary": "The Mega Dimension DLC for Pokemon Legends Z-A launched two months post-release, adding new Mega Evolutions and story content but criticized for heavy RNG elements frustrating completionists.[5]",
-          "source": "Game Industry News",
-          "url": "https://www.gameindustry.com/editorials/save-state/save-state-enjoys-mega-dimension-dlc-until-rng-crashes-the-pokemon-party/"
-        },
-        {
-          "title": "Bobby Kotick Claims Lawsuit Aimed to Aid Embracer Group",
-          "summary": "Former Activision CEO Bobby Kotick rebutted a lawsuit opposing the Microsoft deal, alleging it secretly benefited Embracer Group, which denies involvement.[2]",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/arc-raiders-hits-12-million-sales-a-wild-rebuttal-from-bobby-kotick-and-a-deluge-of-layoffs-patch-notes-36"
+          "title": "Toge Productions Celebrates 17th Anniversary with New Game Announcements",
+          "summary": "Toge Productions held its 17th Anniversary Direct event on January 15, 2026, announcing new titles including Moses & Plato: Last Train to Clawville and Undusted: Letters from the Past.",
+          "source": "Gamer Social Club",
+          "url": "https://gamersocialclub.ca/2026/01/15/toge-productions-17th-anniversary-direct-everything-announced/"
         }
       ],
       "citations": [
-        "https://news.xbox.com/en-us/2026/01/16/arcade-archives-500-space-invaders/",
-        "https://www.gamedeveloper.com/business/arc-raiders-hits-12-million-sales-a-wild-rebuttal-from-bobby-kotick-and-a-deluge-of-layoffs-patch-notes-36",
-        "https://www.taxtmi.com/news?id=67555",
-        "https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/",
-        "https://www.gameindustry.com/editorials/save-state/save-state-enjoys-mega-dimension-dlc-until-rng-crashes-the-pokemon-party/",
-        "https://tagn.wordpress.com/2026/01/16/"
+        "https://tagn.wordpress.com/2026/01/16/new-world-finds-its-destiny-revealed-a-shut-down-date-of-january-31-2027/",
+        "https://wnhub.io/news/other/item-49822",
+        "https://www.youtube.com/watch?v=3SEyQwO9Ip8",
+        "https://gamersocialclub.ca/2026/01/15/toge-productions-17th-anniversary-direct-everything-announced/",
+        "https://thisweekinvideogames.com/news/",
+        "https://news.instant-gaming.com/en/articles/17232-facepunch-studios-rust-coo-wants-to-buy-new-world-for-25-million",
+        "https://automaton-media.com/en/news/almost-80-of-japanese-game-developers-say-their-annual-income-has-increased-in-the-past-year-according-to-cedec-survey-report/"
       ]
     },
     "tech_news": {
@@ -521,38 +455,45 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Trump Pushes Emergency Electricity Auction to Make Tech Firms Pay for Surging Power Costs",
-          "summary": "President Trump is advocating for an emergency wholesale electricity auction to compel tech companies to fund new power plants amid rising demand. US equity futures are rising on tech enthusiasm, with memory chip makers SanDisk and Micron gaining in pre-market trading following TSMC's upbeat outlook.",
-          "source": "Bloomberg Television",
-          "url": "https://www.youtube.com/watch?v=M1Fy4IWFK7c"
+          "title": "Trump Pushes Big Tech to Fund New Power Plants for Data Centers",
+          "summary": "President Trump proposes compelling technology companies to finance new power infrastructure to support data centers, potentially funding $50 billion in investments amid rising energy demands. Microsoft and others are increasing electricity investments in response.",
+          "source": "Bloomberg Surveillance",
+          "url": "https://www.youtube.com/watch?v=8YQGvietLjU"
         },
         {
-          "title": "Trump Calls for Temporary 10% Cap on Credit Card Interest Rates",
-          "summary": "US President Donald Trump has called for a temporary 10% cap on credit card interest rates as part of fintech policy developments. This is highlighted among the top fintech stories of the week.",
-          "source": "Fintech Futures",
-          "url": "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-16-january-2026"
+          "title": "White House Calls 25% Tariff on Nvidia AI Chips 'Phase One' Action",
+          "summary": "A White House official states the US Commerce Department's 25% national security tariff on high-end semiconductors, including Nvidia's H200 chips for export to China under strict conditions, is only the initial step with potential for higher tariffs up to 100%. Further measures depend on talks with trade partners.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-trump-announced-25-cut-on-nvidias-ai-chips-white-house-official-says-it-is-only-phase-one-action/articleshow/126588202.cms"
         },
         {
-          "title": "US Bancorp to Acquire BTIG in Deal Worth Up to $1 Billion",
-          "summary": "US Bancorp announced plans to acquire BTIG in a deal valued at up to $1 billion, marking a significant fintech acquisition. The move is part of key weekly developments in the sector.",
-          "source": "Fintech Futures",
-          "url": "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-16-january-2026"
+          "title": "Hardware Firms Face Rising Memory Chip Costs Amid Strong Demand",
+          "summary": "Hardware companies are hit by increasing memory chip prices due to high demand driven by semiconductor needs, with stocks like SanDisk up 5.5% and Micron in the high teens in premarket trading. TSMC highlighted ongoing demand pressures.",
+          "source": "Bloomberg Surveillance",
+          "url": "https://www.youtube.com/watch?v=8YQGvietLjU"
         },
         {
-          "title": "Rain Reaches $1.95 Billion Valuation with $250 Million Series C Funding",
-          "summary": "Fintech firm Rain has achieved a $1.95 billion valuation after raising $250 million in a Series C round. This funding underscores growing investment in fintech platforms.",
-          "source": "Fintech Futures",
-          "url": "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-16-january-2026"
+          "title": "Starlink Plans 2026 IPO as Milestone for Satellite Internet",
+          "summary": "Tech experts view Starlink's planned initial public offering in 2026 as a significant milestone advancing the satellite internet industry.",
+          "source": "Manila Times",
+          "url": "https://www.manilatimes.net/2026/01/17/tmt-newswire/globenewswire/tech-expert-examines-starlinks-planned-2026-ipo-as-a-milestone-for-the-satellite-internet-industry/2260520"
+        },
+        {
+          "title": "US FTC to Scrutinize Big Tech's 'Acqui-Hire' Talent Deals",
+          "summary": "The US Federal Trade Commission, led by Chairman Andrew Ferguson, is examining big tech firms' practice of hiring startup talent and licensing technology without full acquisitions to avoid antitrust reviews. Recent examples include Nvidia with Groq, Microsoft, Meta, and Amazon deals.",
+          "source": "The Star",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/01/17/us-ftc-to-scrutinize-big-tech039s-talent-acquisition-deals-bloomberg-news-reports"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=M1Fy4IWFK7c",
-        "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-16-january-2026",
-        "https://fticommunications.com/fti-consulting-news-bytes-16-january-2026/?topic_origin=telecom-media-technology",
-        "https://technologymagazine.com/news/this-weeks-top-5-stories-in-technology-16-01-2026"
+        "https://www.youtube.com/watch?v=8YQGvietLjU",
+        "https://timesofindia.indiatimes.com/technology/tech-news/days-after-trump-announced-25-cut-on-nvidias-ai-chips-white-house-official-says-it-is-only-phase-one-action/articleshow/126588202.cms",
+        "https://simplywall.st/stocks/us/media/nasdaq-ttd/trade-desk/news/exploring-high-growth-tech-stocks-in-the-us-january-2026",
+        "https://www.manilatimes.net/2026/01/17/tmt-newswire/globenewswire/tech-expert-examines-starlinks-planned-2026-ipo-as-a-milestone-for-the-satellite-internet-industry/2260520",
+        "https://www.thestar.com.my/tech/tech-news/2026/01/17/us-ftc-to-scrutinize-big-tech039s-talent-acquisition-deals-bloomberg-news-reports"
       ]
     }
   }
