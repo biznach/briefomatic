@@ -1,24 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-01-18 06:06 UTC*
+*Generated: 2026-01-18 12:08 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+1. **Market Overview**: The S&P 500 ended the week flat, down 0.14% at 6,940, while the Dow Jones gained slightly, up 87 points to 49,359. The Nasdaq ended the week down 145 points at 25,529. Bitcoin traded sideways, currently at $95,188, with the global crypto market cap dipping 0.32% to $3.22T. Ethereum traded at $3,322, up 0.80%. 
 
-1. **Market Overview**: The S&P 500 closed flat, while the Russell 2000 gained 2% for the week, indicating a rotation from technology into cyclical sectors. The 10-year Treasury yield climbed to 4.23%, and gold prices fell 0.6% but remain up 5% for January. Bitcoin's price dropped 0.09% in the last 24 hours, while Ethereum's price increased 0.78%.
+2. **Tech & AI**: Nvidia has been named the top AI pick for 2026 by Wolfe Research, with ASML receiving a significant price target boost. A new zero-knowledge proof protocol for Bitcoin has been unveiled by a Stanford professor. jQuery 4 has been released, and there are notable developments in AI, including the use of ChatGPT 5.2 Pro to solve Erdos 281.
 
-2. **Tech & AI**: NVIDIA released the Alpamayo platform for Mercedes-Benz's Level 4 autonomous driving and unveiled the Vera Rubin superchip with 50 petaflops inference at CES 2026. ChatGPT 5.2 Pro solved Erdos 281, and Claude is being used to accelerate scientific research and discovery. A new programming language, Kip, based on Turkish grammatical cases, has been introduced.
-
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, a tiny RTS resource mini-game called Speed Miners has been showcased on Hacker News.
+3. **Gaming & Entertainment**: There is a notable mention of playing chess via Slack DMs or SMS using an ASCII board, but no major gaming news.
 
 4. **Key Insights**:
-* The market is showing signs of rotation from technology into cyclical sectors, with small caps leading the charge.
-* NVIDIA's releases of Alpamayo and Vera Rubin superchip indicate significant advancements in autonomous driving and AI capabilities.
-* Bitcoin's price movement and the establishment of a U.S. Bitcoin Strategic Reserve face legal hurdles, highlighting the complexities of cryptocurrency regulation.
-* The use of AI models like ChatGPT and Claude in various applications, such as solving complex problems and accelerating research, demonstrates their growing potential.
+* The US inflation data showed overall CPI up 0.3% in December, matching forecasts, with annual inflation hitting 2.7% as predicted.
+* Ethereum's staking validator exit queue has reached zero, signaling improved network confidence.
+* Bitcoin options open interest has surpassed futures, reaching $74.1 billion compared to $65.22 billion in futures.
+* Nvidia is expected to be a leading AI stock for 2026, with ASML receiving a significant price target increase.
+* Solana network experiences increased active addresses and transactions, alongside major stablecoin inflows.
 
 5. **Watch List**: 
-* Market movements and sector rotation
-* NVIDIA's advancements in autonomous driving and AI
-* Bitcoin's price and regulatory developments
-* The growth and applications of AI models like ChatGPT and Claude
-* The development of new programming languages like Kip and their potential impact on the tech industry.
+* US lawmakers' key crypto regulation hearings and votes scheduled for January 2026.
+* Bitcoin and Ethereum price movements.
+* Nvidia and ASML stock performance.
+* Solana network activity and stablecoin inflows.
+* Upcoming macroeconomic and stock market news, including major index movements and Fed/central bank news.
