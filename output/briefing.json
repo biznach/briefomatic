@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T06:08:37.068029+00:00",
-  "generated_at_human": "2026-01-20 06:08 UTC",
+  "generated_at": "2026-01-20T12:09:20.639737+00:00",
+  "generated_at_human": "2026-01-20 12:09 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Linux kernel framework for PCIe device emulation, in userspace",
+          "url": "https://github.com/cakehonolulu/pciem",
+          "score": 65,
+          "comments": 14
+        },
+        {
           "title": "Level S4 solar radiation event",
           "url": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
-          "score": 343,
-          "comments": 118
+          "score": 473,
+          "comments": 158
+        },
+        {
+          "title": "Increasing the performance of WebAssembly Text Format parser by 350%",
+          "url": "https://blog.gplane.win/posts/improve-wat-parser-perf.html",
+          "score": 38,
+          "comments": 18
+        },
+        {
+          "title": "King – man + woman is queen; but why? (2017)",
+          "url": "https://p.migdal.pl/blog/2017/01/king-man-woman-queen-why/",
+          "score": 34,
+          "comments": 31
+        },
+        {
+          "title": "The Overcomplexity of the Shadcn Radio Button",
+          "url": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
+          "score": 317,
+          "comments": 156
+        },
+        {
+          "title": "Channel3 (YC S25) Is Hiring",
+          "url": "https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer",
+          "score": 1,
+          "comments": 0
+        },
+        {
+          "title": "String theory can now describe a universe that has dark energy?",
+          "url": "https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/",
+          "score": 31,
+          "comments": 16
         },
         {
           "title": "Reticulum, a secure and anonymous mesh networking stack",
           "url": "https://github.com/markqvist/Reticulum",
-          "score": 119,
-          "comments": 19
-        },
-        {
-          "title": "Opening the AWS European Sovereign Cloud",
-          "url": "https://aws.amazon.com/blogs/aws/opening-the-aws-european-sovereign-cloud/",
-          "score": 44,
-          "comments": 42
-        },
-        {
-          "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
-          "url": "https://github.com/jordanhubbard/nanolang",
-          "score": 121,
-          "comments": 79
-        },
-        {
-          "title": "What came first: the CNAME or the A record?",
-          "url": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
-          "score": 328,
-          "comments": 113
-        },
-        {
-          "title": "Understanding ZFS Scrubs and Data Integrity",
-          "url": "https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/",
-          "score": 28,
-          "comments": 6
-        },
-        {
-          "title": "Nova Launcher added Facebook and Google Ads tracking",
-          "url": "https://lemdro.id/post/lemdro.id/35049920",
-          "score": 164,
-          "comments": 69
-        },
-        {
-          "title": "Scaling long-running autonomous coding",
-          "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
-          "score": 64,
-          "comments": 23
-        },
-        {
-          "title": "Show HN: Artificial Ivy in the Browser",
-          "url": "https://da.nmcardle.com/grow",
-          "score": 27,
-          "comments": 1
-        },
-        {
-          "title": "Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars",
-          "url": "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html",
-          "score": 225,
-          "comments": 247
-        },
-        {
-          "title": "3D printing my laptop ergonomic setup",
-          "url": "https://www.ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/",
-          "score": 7,
-          "comments": 0
-        },
-        {
-          "title": "Chatbot Psychosis",
-          "url": "https://en.wikipedia.org/wiki/Chatbot_psychosis",
-          "score": 20,
-          "comments": 1
-        },
-        {
-          "title": "Kahan on the 8087 and designing Intel's floating point (2016) [video]",
-          "url": "https://www.youtube.com/watch?v=L-QVgbdt_qg",
-          "score": 11,
-          "comments": 0
-        },
-        {
-          "title": "F-16 Falcon Strike",
-          "url": "https://webchrono.pl/F16FalconStrike/index.html",
-          "score": 68,
-          "comments": 5
-        },
-        {
-          "title": "British redcoat's lost memoir reveals realities of life as a disabled veteran",
-          "url": "https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html",
-          "score": 64,
-          "comments": 51
-        },
-        {
-          "title": "Legal Structures for Latin American Startups (2021)",
-          "url": "https://latamlist.com/legal-structures-for-latin-american-startups/",
-          "score": 20,
-          "comments": 3
-        },
-        {
-          "title": "Show HN: Munimet.ro – ML-based status page for the local subways in SF",
-          "url": "https://munimet.ro/",
-          "score": 10,
-          "comments": 0
-        },
-        {
-          "title": "Use Social Media Mindfully",
-          "url": "https://danielleheberling.xyz/blog/mindful-social-media/",
-          "score": 61,
-          "comments": 36
+          "score": 230,
+          "comments": 47
         },
         {
           "title": "x86 prefixes and escape opcodes flowchart",
           "url": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
-          "score": 8,
-          "comments": 1
+          "score": 71,
+          "comments": 20
         },
         {
-          "title": "The assistant axis: situating and stabilizing the character of LLMs",
-          "url": "https://www.anthropic.com/research/assistant-axis",
-          "score": 73,
-          "comments": 12
+          "title": "Apple testing new App Store design that blurs the line between ads and results",
+          "url": "https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/",
+          "score": 416,
+          "comments": 329
         },
         {
-          "title": "From Nevada to Kansas by Glider",
-          "url": "https://www.weglide.org/flight/978820",
-          "score": 132,
-          "comments": 38
+          "title": "What came first: the CNAME or the A record?",
+          "url": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
+          "score": 381,
+          "comments": 133
         },
         {
-          "title": "How we made Python's packaging library 3x faster",
-          "url": "https://iscinumpy.dev/post/packaging-faster/",
-          "score": 59,
-          "comments": 6
+          "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
+          "url": "https://github.com/jordanhubbard/nanolang",
+          "score": 168,
+          "comments": 127
         },
         {
-          "title": "Show HN: An interactive physics simulator with 1000’s of balls, in your terminal",
-          "url": "https://github.com/minimaxir/ballin",
-          "score": 52,
-          "comments": 10
+          "title": "Scaling long-running autonomous coding",
+          "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
+          "score": 111,
+          "comments": 42
         },
         {
           "title": "The coming industrialisation of exploit generation with LLMs",
           "url": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
-          "score": 110,
-          "comments": 83
+          "score": 163,
+          "comments": 116
         },
         {
-          "title": "X For You Feed Algorithm",
-          "url": "https://github.com/xai-org/x-algorithm",
-          "score": 60,
-          "comments": 31
+          "title": "Notes on Apple's Nano Texture (2025)",
+          "url": "https://jon.bo/posts/nano-texture/",
+          "score": 196,
+          "comments": 106
+        },
+        {
+          "title": "Giving university exams in the age of chatbots",
+          "url": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
+          "score": 119,
+          "comments": 77
+        },
+        {
+          "title": "3D printing my laptop ergonomic setup",
+          "url": "https://www.ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/",
+          "score": 80,
+          "comments": 18
+        },
+        {
+          "title": "Nova Launcher added Facebook and Google Ads tracking",
+          "url": "https://lemdro.id/post/lemdro.id/35049920",
+          "score": 280,
+          "comments": 119
+        },
+        {
+          "title": "Kahan on the 8087 and designing Intel's floating point (2016) [video]",
+          "url": "https://www.youtube.com/watch?v=L-QVgbdt_qg",
+          "score": 31,
+          "comments": 0
+        },
+        {
+          "title": "British redcoat's lost memoir reveals realities of life as a disabled veteran",
+          "url": "https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html",
+          "score": 91,
+          "comments": 86
+        },
+        {
+          "title": "How to be a good conference talk audience member (2022)",
+          "url": "https://www.mooreds.com/wordpress/archives/3522",
+          "score": 3,
+          "comments": 0
+        },
+        {
+          "title": "Prediction markets are ushering in a world in which news becomes about gambling",
+          "url": "https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/",
+          "score": 306,
+          "comments": 316
+        },
+        {
+          "title": "Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars",
+          "url": "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html",
+          "score": 339,
+          "comments": 425
+        },
+        {
+          "title": "Understanding ZFS Scrubs and Data Integrity",
+          "url": "https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/",
+          "score": 56,
+          "comments": 27
+        },
+        {
+          "title": "The assistant axis: situating and stabilizing the character of LLMs",
+          "url": "https://www.anthropic.com/research/assistant-axis",
+          "score": 101,
+          "comments": 14
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 91508,
-          "change_24h": -1.04,
-          "change_7d": 0.13,
-          "market_cap": 1828889623956
+          "price": 91151,
+          "change_24h": -1.98,
+          "change_7d": -0.91,
+          "market_cap": 1820831750915
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 3166.7,
-          "change_24h": -0.97,
-          "change_7d": 1.5,
-          "market_cap": 382492837944
+          "price": 3109.78,
+          "change_24h": -3.51,
+          "change_7d": -0.64,
+          "market_cap": 374937828237
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 132.79,
-          "change_24h": -0.37,
-          "change_7d": -4.35,
-          "market_cap": 75223775224
+          "price": 128.92,
+          "change_24h": -3.69,
+          "change_7d": -9.1,
+          "market_cap": 72817506443
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.127847,
-          "change_24h": 0.61,
-          "change_7d": -7.08,
-          "market_cap": 21542889065
+          "price": 0.125299,
+          "change_24h": -1.76,
+          "change_7d": -10.01,
+          "market_cap": 21094370750
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.367145,
-          "change_24h": 0.89,
-          "change_7d": -5.35,
-          "market_cap": 13515713384
+          "price": 0.35801,
+          "change_24h": -2.68,
+          "change_7d": -8.45,
+          "market_cap": 13146248316
         }
       ]
     },
@@ -212,24 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "The Sandbox",
-          "symbol": "SAND",
-          "market_cap_rank": 187
-        },
-        {
-          "name": "Monero",
-          "symbol": "XMR",
-          "market_cap_rank": 17
-        },
-        {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 172
-        },
-        {
-          "name": "Axie Infinity",
-          "symbol": "AXS",
-          "market_cap_rank": 206
+          "name": "Elsa",
+          "symbol": "ELSA",
+          "market_cap_rank": 960
         },
         {
           "name": "Bitcoin",
@@ -237,9 +222,19 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Oasis",
-          "symbol": "ROSE",
-          "market_cap_rank": 363
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 178
+        },
+        {
+          "name": "The Sandbox",
+          "symbol": "SAND",
+          "market_cap_rank": 183
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 134
         },
         {
           "name": "Solana",
@@ -247,19 +242,24 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 131
+          "name": "Axie Infinity",
+          "symbol": "AXS",
+          "market_cap_rank": 204
         },
         {
-          "name": "Cardano",
-          "symbol": "ADA",
-          "market_cap_rank": 12
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 29
         },
         {
-          "name": "PAX Gold",
-          "symbol": "PAXG",
-          "market_cap_rank": 62
+          "name": "Monero",
+          "symbol": "XMR",
+          "market_cap_rank": 18
+        },
+        {
+          "name": "DeAgentAI",
+          "symbol": "AIA",
+          "market_cap_rank": 947
         }
       ]
     },
@@ -268,48 +268,61 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Kotak Bank Reports Negative Monthly Returns Amid Market Stability",
-          "summary": "Kotak Bank is trading at Rs 429.50 with daily gains of 0.61% and weekly returns of 0.82%, though the stock has reported negative returns for the month. The bank exhibits a six-month beta of 0.9076, indicating relative stability in performance.",
+          "title": "US Major Indices Hit Record Highs on Friday",
+          "summary": "The Dow Jones closed above 47,000 for the first time, up 1%, while S&P 500 rose 0.8% and Nasdaq gained 1.2%, driven by cooler inflation data and US-China trade optimism ahead of Fed decisions and tech earnings.",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/markets/indices/ideas/"
+        },
+        {
+          "title": "US-China Trade Negotiators Reach Framework Deal",
+          "summary": "US and Chinese officials agreed on a trade framework over the weekend, paving the way for a Trump-Xi meeting in South Korea, boosting market sentiment amid record stock highs.",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/markets/indices/ideas/"
+        },
+        {
+          "title": "Fed Chair Powell's Remarks in Focus This Week",
+          "summary": "Markets await Jerome Powell's comments on monetary policy amid record highs, strong sentiment, and challenges from government shutdown impacting job data.",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/markets/indices/ideas/"
+        },
+        {
+          "title": "Peter Brandt Predicts Bitcoin Drop to $58K-$62K",
+          "summary": "Veteran trader Peter Brandt forecasts a 33-37% Bitcoin correction to $58,000–$62,000 based on a rising wedge pattern, amid bearish signals.",
+          "source": "MEXC",
+          "url": "https://www.mexc.co/en-PH/news/513812"
+        },
+        {
+          "title": "Ethereum Faces Heavy Liquidations Amid Risk-Off Mood",
+          "summary": "Ethereum saw $27.09 million in liquidations as crypto markets struggled, with retail sentiment turning bearish; other coins like Solana and Dogecoin also hit by liquidations.",
+          "source": "Stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-heavy-flush-in-liquidation-overtakes-bitcoin/cmUu7SnR49x"
+        },
+        {
+          "title": "Kotak Bank Stock Shows Modest Gains",
+          "summary": "Kotak Bank's shares traded at Rs 429.50, up 0.61% daily and 0.82% weekly, despite negative monthly returns.",
           "source": "Economic Times",
           "url": "https://economictimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-updates-20-jan-2026/liveblog/126747196.cms"
         },
         {
-          "title": "US Dollar Index (DXY) Declines Slightly to 99.109",
-          "summary": "The US Dollar Index stood at approximately 99.109 as of January 19, 2026, down slightly for the day, reflecting modest weakness in the dollar.",
-          "source": "TradingView/FXOPEN",
-          "url": "https://www.tradingview.com/symbols/FXOPEN-DXY/ideas/?sort=recent&video=yes"
-        },
-        {
-          "title": "Cryptocurrency Markets Face Risk-Off Pressure with Ethereum Leading Liquidations",
-          "summary": "Ethereum-led crypto liquidations overtook Bitcoin as macro headwinds pressured the market. Solana fell 0.2% to $133.48, XRP rose 0.3% to $1.97, BNB gained 0.6% to $928.60, and ADA rose 0.3% to $0.366, with retail sentiment turning increasingly bearish.",
-          "source": "StockTwits",
-          "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-heavy-flush-in-liquidation-overtakes-bitcoin/cmUu7SnR49x"
-        },
-        {
-          "title": "Goldman Sachs Predicts Unprecedented IPO 'Mega-Cycle' in 2026",
-          "summary": "Goldman Sachs investment banking co-head Kim Posnett forecasts an IPO mega-cycle with unprecedented deal volume and sizes, driven by major private tech companies with Fortune 500-scale valuations entering public markets. The 10 largest private tech companies are now valued at $3 trillion, up from $300 billion in 2018.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/01/19/kim-posnett-interview-goldman-sachs-outlook-2026-ipo-mergers-davos-world-economic-forum/"
-        },
-        {
-          "title": "Global M&A Market Transitions to Bold Growth Phase",
-          "summary": "The global M&A market achieved $5.1 trillion in volume during 2025, representing 44% year-over-year growth, signaling a transition from recovery to a more aggressive deal-making environment in 2026.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/01/19/kim-posnett-interview-goldman-sachs-outlook-2026-ipo-mergers-davos-world-economic-forum/"
+          "title": "Fiserv Stock Declines 0.73%",
+          "summary": "Fiserv closed at 66.29 on January 19, down 0.73% with volume of 8.29 million shares.",
+          "source": "Fiserv Investors",
+          "url": "https://investors.fiserv.com/stock-info/historical-data"
         }
       ],
       "citations": [
+        "https://www.tradingview.com/markets/indices/ideas/",
+        "https://www.tickmill.com/blog/usousd-h4-bullish-bounce-off-20th-january-2026",
+        "https://www.tradingview.com/symbols/NASDAQ-NDX/ideas/?sort=recent&video=yes",
         "https://economictimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-updates-20-jan-2026/liveblog/126747196.cms",
-        "https://www.tradingview.com/ideas/",
-        "https://www.tradingview.com/symbols/FXOPEN-DXY/ideas/?sort=recent&video=yes",
-        "https://fortune.com/2026/01/19/kim-posnett-interview-goldman-sachs-outlook-2026-ipo-mergers-davos-world-economic-forum/",
+        "https://www.mexc.co/en-PH/news/513812",
+        "https://www.youtube.com/watch?v=Q_a5pxlvBgY",
         "https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-heavy-flush-in-liquidation-overtakes-bitcoin/cmUu7SnR49x",
         "https://www.newsnow.co.uk/h/Business+&+Finance/Markets/Stock+Market",
-        "https://www.nasdaq.com/market-activity/etf/qqq/historical",
-        "https://www.spglobal.com/en/research-insights/events/featured"
+        "https://investors.fiserv.com/stock-info/historical-data"
       ]
     },
     "crypto_news": {
@@ -317,52 +330,70 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 9,
       "items": [
         {
-          "title": "Bitcoin Faces Short-Term Bearish Pressure, Forecast to Test 93,865 Resistance Before Potential Decline to 88,405",
-          "summary": "BTC/USD is trading at 93,036 within a descending channel, with moving averages signaling a bearish trend and sellers in control. Analysts predict a correction testing resistance near 93,865 followed by a drop below 88,405 unless it breaks 95,505.",
-          "source": "Forex24.pro",
-          "url": "https://forex24.pro/bitcoin-forecast/bitcoin-forecast-and-btc-usd-analysis-for-january-20-2026/"
+          "title": "Bitcoin Drops 2.6% to $90,600 Amid Trade Tensions and Macro Uncertainty",
+          "summary": "Bitcoin fell 2.6% in the past 24 hours to a low of $90,600, erasing recent gains due to international trade pressures from Trump tariffs and rising gold prices as a safe haven. Ether declined 0.8% to $3,183, while XRP rose slightly 0.2% to $1.96; Crypto Fear & Greed Index dropped to 32 (Fear).[1][2][4][6]",
+          "source": "KuCoin, CryptoRank, MEXC, CryptoPotato",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-january-20-2026"
         },
         {
-          "title": "XRP Surges 20% in First Week of January, Emerges as Top Altcoin to Watch for 2026",
-          "summary": "Ripple's XRP token rose over 20% during the first week of January, briefly nearing the top ranks behind Tether and showing strong upward momentum. Analysts highlight it as a breakout contender over Bitcoin and Ether for the 2026 rally.",
-          "source": "Altcoin Buzz",
-          "url": "https://www.youtube.com/watch?v=slD2kV6nWyA"
+          "title": "NYSE Develops Tokenized U.S. Equities Platform for 24/7 Trading",
+          "summary": "The New York Stock Exchange is building a tokenized platform for U.S. equities with 24/7 operations, instant settlement, dollar-denominated orders, and stablecoin transfers, marking a step toward hybrid finance.",
+          "source": "KuCoin",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-january-20-2026"
         },
         {
-          "title": "Analyst Forecasts 55% Bitcoin Surge in 2026 Despite Warnings on Crypto Treasuries",
-          "summary": "Standard Chartered's Geoffrey Kendrick predicts Bitcoin could rise 55% this year to around $150,000, driven by spot ETFs and pro-crypto policies under Trump, though buying by digital asset treasury firms is likely over. BTC recently hit $97,538 on Jan. 15 before easing to $93,216 amid tariff threats.",
-          "source": "The Street",
-          "url": "https://www.thestreet.com/crypto/trading/analyst-predicts-55-bitcoin-surge-issues-warning-on-crypto-treasuries"
+          "title": "Magic Eden Allocates 15% Revenue to ME Token Buybacks from February",
+          "summary": "Magic Eden will direct 15% of revenue starting February 1 to buy back ME tokens and fund ecosystem development, estimating $20,000 monthly buybacks based on current revenue.",
+          "source": "KuCoin",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-january-20-2026"
         },
         {
-          "title": "$2.17B Inflows into Crypto Led by Bitcoin's $1.55B, But Geopolitics Cause Sudden Reversal",
-          "summary": "Crypto saw $2.17 billion in inflows dominated by Bitcoin, fueled by early-week optimism, but gains reversed due to Greenland tensions, Trump tariff threats on Europe, and shifting US Fed expectations.",
-          "source": "CryptoPotato",
-          "url": "https://cryptopotato.com/2-17b-floods-into-crypto-as-bitcoin-dominates-but-geopolitics-trigger-a-sudden-reversal/"
+          "title": "PancakeSwap Reduces CAKE Max Supply from 450M to 400M",
+          "summary": "PancakeSwap community passed a proposal to cut CAKE's maximum supply from 450 million to 400 million tokens.",
+          "source": "KuCoin",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-january-20-2026"
         },
         {
-          "title": "Debate Rages: Is Bitcoin Entering a Bear Market After 36% Drop from Peak?",
-          "summary": "Bitcoin has fallen 36% from its recent high, sparking bear market talk on social media, with traders analyzing if January 20 marks a turning point amid ongoing volatility.",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/newsbtc:39bd7218b094b:0-is-bitcoin-really-in-a-bear-market-why-january-20-matters/"
+          "title": "Bermuda Partners with Coinbase and Circle for On-Chain Economy Pilot",
+          "summary": "Bermuda is collaborating with Coinbase and Circle to launch a fully on-chain national economy pilot.",
+          "source": "KuCoin",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-january-20-2026"
         },
         {
-          "title": "Starknet Hosts Bitcoin Open-Source Talk on Public Infrastructure and Grants",
-          "summary": "Starknet team will host a live discussion at 5 PM UTC with HRF, OpenSats, and StarkWare on Bitcoin's public infrastructure, 2025 grants, and cultural threats.",
-          "source": "CoinMarketCal",
-          "url": "https://coinmarketcal.com/en/event/bitcoin-open-source-talk-314130"
+          "title": "CoinShares Reports $2.17B Net Inflows into Digital Assets Last Week",
+          "summary": "Digital asset investment products saw net inflows of $2.17 billion last week, indicating strong institutional interest.",
+          "source": "KuCoin",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-january-20-2026"
+        },
+        {
+          "title": "Ethereum Hits Record 2.89 Million Daily Transactions",
+          "summary": "Ethereum's daily transaction count reached a new high of 2.89 million.",
+          "source": "KuCoin",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-january-20-2026"
+        },
+        {
+          "title": "ZRO Token Unlock: 6.36% of Supply Worth $44.5M Released",
+          "summary": "LayerZero's ZRO token unlock event released 6.36% of circulating supply, valued at approximately $44.5 million.",
+          "source": "KuCoin",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-january-20-2026"
+        },
+        {
+          "title": "Crypto Perpetuals Surge in Popularity for 2026 Trading",
+          "summary": "Crypto perpetual futures are gaining momentum as a key instrument in early 2026, offering high liquidity and 24/7 access amid maturing markets.",
+          "source": "Business Insider",
+          "url": "https://markets.businessinsider.com/news/stocks/crypto-perpetuals-gain-momentum-as-traders-set-the-tone-for-2026-1035726766"
         }
       ],
       "citations": [
-        "https://forex24.pro/bitcoin-forecast/bitcoin-forecast-and-btc-usd-analysis-for-january-20-2026/",
-        "https://www.youtube.com/watch?v=slD2kV6nWyA",
-        "https://www.thestreet.com/crypto/trading/analyst-predicts-55-bitcoin-surge-issues-warning-on-crypto-treasuries",
-        "https://cryptopotato.com/2-17b-floods-into-crypto-as-bitcoin-dominates-but-geopolitics-trigger-a-sudden-reversal/",
-        "https://www.tradingview.com/news/newsbtc:39bd7218b094b:0-is-bitcoin-really-in-a-bear-market-why-january-20-matters/",
-        "https://coinmarketcal.com/en/event/bitcoin-open-source-talk-314130"
+        "https://www.kucoin.com/news/articles/crypto-daily-market-report-january-20-2026",
+        "https://cryptorank.io/news/feed/a4af5-live-crypto-news-today-latest-updates-for-jan-20-2026",
+        "https://beincrypto.com/january-may-be-an-ideal-phase-to-buy-btc/",
+        "https://www.mexc.co/news/515469",
+        "https://markets.businessinsider.com/news/stocks/crypto-perpetuals-gain-momentum-as-traders-set-the-tone-for-2026-1035726766",
+        "https://cryptopotato.com/why-is-the-bitcoin-price-down-today-january-20th-2026/"
       ]
     },
     "ai_news": {
@@ -370,49 +401,18 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
-      "items": [
-        {
-          "title": "NVIDIA Unveils Vera Rubin AI Platform",
-          "summary": "NVIDIA announced its new Vera Rubin AI platform in January 2026, integrating advanced GPU, CPU, DPU, and networking silicon to accelerate deep learning training and inference with higher performance and efficiency.",
-          "source": "SNS Insider",
-          "url": "https://www.globenewswire.com/news-release/2026/01/19/3221082/0/en/Deep-Learning-Chipset-Market-Size-to-Grow-USD-202-79-Billion-by-2035-Report-by-SNS-Insider.html"
-        },
-        {
-          "title": "MoST: New Open-Source Multimodal LLM for Speech and Text",
-          "summary": "Researchers introduced MoST (Mixture of Speech and Text), the first fully open-source speech-text LLM using Modality-Aware Mixture of Experts (MAMoE), outperforming comparable models on ASR, TTS, and spoken QA benchmarks.",
-          "source": "Quantum Zeitgeist",
-          "url": "https://quantumzeitgeist.com/ai-most-advances-multimodal-seamlessly-mixing/"
-        },
-        {
-          "title": "MCML Researchers Contribute 9 Papers to AAAI 2026",
-          "summary": "MCML announced 9 accepted papers (6 main track, 3 workshops) to AAAI 2026, covering topics like adversarial unlearning for multimodal LLMs, uncertainty quantification, and brain-like thinking in LLMs.",
-          "source": "MCML.ai",
-          "url": "https://mcml.ai/news/2026-01-19-papers-aaai2026/"
-        },
-        {
-          "title": "2026 Corporate AI Outlook Study Released",
-          "summary": "AI Leaders Council released its 2026 Corporate AI Outlook Study, showing organizations prioritizing workforce productivity and efficiency, with most in early AI deployment phases; preview webcast on January 20.",
-          "source": "AI Journ",
-          "url": "https://aijourn.com/2026-corporate-ai-outlook-study-available/"
-        },
-        {
-          "title": "AI Detects Rise in Global Floating Algae",
-          "summary": "Scientists used a deep-learning model trained on 1.2 million satellite images to discover increasing floating algae across global oceans over 20 years.",
-          "source": "University of South Florida",
-          "url": "https://www.usf.edu/marine-science/news/2026/scientists-harness-ai-to-discover-a-rise-in-floating-algae-across-the-global-ocean.aspx"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://mcml.ai/news/2026-01-19-papers-aaai2026/",
-        "https://quantumzeitgeist.com/ai-most-advances-multimodal-seamlessly-mixing/",
-        "https://aijourn.com/2026-corporate-ai-outlook-study-available/",
-        "https://www.worldcertification.org/how-apple-intelligence-is-transforming-on-device-computing/",
-        "https://www.globenewswire.com/news-release/2026/01/19/3221082/0/en/Deep-Learning-Chipset-Market-Size-to-Grow-USD-202-79-Billion-by-2035-Report-by-SNS-Insider.html",
-        "https://www.einpresswire.com/article/884454222/the-ai-in-space-exploration-market-is-projected-to-grow-to-usd-23-52-billion-by-2030-expanding-at-a-cagr-of-31-8",
-        "https://www.usf.edu/marine-science/news/2026/scientists-harness-ai-to-discover-a-rise-in-floating-algae-across-the-global-ocean.aspx",
-        "https://www.drugtargetreview.com/article/192243/2026-the-year-ai-stops-being-optional-in-drug-discovery/",
-        "https://ittech-news.com/beyond-the-call-earning-customer-loyalty-in-the-ai-era-2/"
+        "https://ai-weekly.ai/newsletter-01-20-2026/",
+        "https://www.clinicaltrialsarena.com/comment/2026-the-time-for-ai-to-really-deliver/",
+        "https://www.computerworld.com/article/4115102/enterprise-mobility-2026-genai-and-autonomy-take-center-stage.html",
+        "https://www.informationweek.com/machine-learning-ai/focused-language-models-a-solution-for-genai-s-infamous-hallucinations",
+        "https://www.arcweb.com/blog/aveva-introduces-ai-capabilities-across-unified-engineering-solution",
+        "https://aithority.com/machine-learning/edgeai-launches-technical-whitepaper-detailing-a-next-generation-decentralized-data-architecture-for-edge-ai/",
+        "https://thequantuminsider.com/2026/01/20/tensor-ai-solutions-supports-dlr-project-for-quantum-enabled-materials-simulation/",
+        "https://www.imd.org/ibyimd/artificial-intelligence/how-national-security-within-global-ecosystems-offers-a-model-for-the-commercial-ai-world/",
+        "https://cybersecurityasia.net/security-must-unite-to-secure-the-ai-factory/"
       ]
     },
     "gaming": {
@@ -420,59 +420,53 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "MIO: Memories in Orbit Launches on January 20",
-          "summary": "The sci-fi Metroidvania adventure MIO: Memories in Orbit, featuring exploration in a labyrinthine spaceship with pastel environments, releases today on multiple platforms. A demo is available, drawing comparisons to narrative-driven indies like Journey.",
+          "title": "MIO: Memories in Orbit and Blightstone Launch Today",
+          "summary": "Two highly anticipated titles released on January 20, 2026. MIO: Memories in Orbit is a narrative-driven adventure emphasizing exploration and storytelling, while Blightstone delivers fast-paced action with roguelike elements and procedural dungeon generation.",
           "source": "DLCompare",
           "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-january-2026-week-4"
         },
         {
-          "title": "Blightstone Releases with Roguelike Action Today",
-          "summary": "Blightstone, a fast-paced action RPG with randomized dungeons, challenging combat, and character upgrades, launches on January 20 alongside other titles.",
-          "source": "DLCompare",
-          "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-january-2026-week-4"
+          "title": "Strategos Strategic War Game Enters Early Access",
+          "summary": "Strategos, a strategic war game allowing players to simulate large-scale battles, launched in early access on PC on January 20, 2026.",
+          "source": "Instant Gaming",
+          "url": "https://news.instant-gaming.com/en/articles/17273-this-week-s-releases-from-january-19-to-25-2026"
         },
         {
-          "title": "Loan Shark Psychological Horror Hits PS5 Today",
-          "summary": "Indie developer Studio Ortica announces Loan Shark, an atmospheric psychological horror experience, is releasing on PlayStation 5 on January 20.",
-          "source": "GamesPress",
-          "url": "https://www.gamespress.com/Studio-Ortica-Dark-Product-Announce-Loan-Shark-Is-Coming-to-PlayStatio"
-        },
-        {
-          "title": "Rainbow Six Siege Y10S4.2 Patch Deploys January 20",
-          "summary": "Ubisoft releases patch notes for Rainbow Six Siege Year 10 Season 4.2 on January 20, including buffs to Thorn, Mozzie (adding Super Shorty shotgun), and Echo (increasing Yokai drones to 3), plus bug fixes.",
-          "source": "Ubisoft",
-          "url": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/news-updates/3HSeMj81P0CL3m0N8FS5tK/y10s42-patch-notes"
-        },
-        {
-          "title": "Xbox, PlayStation, and Nintendo Reaffirm Player Safety Commitment",
-          "summary": "Xbox President Sarah Bond announces an updated cross-platform safety framework with PlayStation and Nintendo, evolving the 2020 agreement to enhance inclusivity and address online risks.",
+          "title": "Xbox, PlayStation, and Nintendo Reaffirm Cross-Platform Safety Framework",
+          "summary": "The three major console manufacturers renewed their commitment to player safety and online security, evolving a joint framework originally launched in 2020 to address emerging technologies and player behavior changes.",
           "source": "EdTech Innovation Hub",
           "url": "https://www.edtechinnovationhub.com/news/xbox-playstation-and-nintendo-reaffirm-shared-safety-principles-across-gaming-platforms"
         },
         {
-          "title": "Nintendo of America President Devon Pritchard Debuts at NY Game Awards",
-          "summary": "New Nintendo of America president Devon Pritchard, succeeding retired Doug Bowser, introduces herself via video at The New York Game Awards, sparking fan discussions on her leadership.",
-          "source": "My Nintendo News",
-          "url": "https://mynintendonews.com/2026/01/19/new-nintendo-of-america-president-introduces-herself-at-new-york-game-awards/"
+          "title": "Microsoft Prepares Ad-Supported Xbox Cloud Gaming Tier",
+          "summary": "Microsoft is developing an ad-supported Xbox Cloud Gaming plan for non-Game Pass subscribers, featuring two-minute pre-roll video ads and currently undergoing internal testing with employees.",
+          "source": "MediaPost",
+          "url": "https://www.mediapost.com/publications/article/412150/"
         },
         {
-          "title": "Strategos Enters Early Access on PC Today",
-          "summary": "Strategic war game Strategos, allowing simulation of large-scale battles, launches in early access on PC on January 20.",
-          "source": "Instant Gaming",
-          "url": "https://news.instant-gaming.com/en/articles/17273-this-week-s-releases-from-january-19-to-25-2026"
+          "title": "Konami's Money in the Bank Slot Series Ranks No. 1 in New Casino Games",
+          "summary": "Konami Gaming's Money in the Bank casino slot series achieved the top ranking for new core video reel games according to industry performance reports, featuring innovative 'shake the bank' and 'break the bank' mechanics.",
+          "source": "Konami Gaming",
+          "url": "https://www.konamigaming.com/corporate-information/news/news-details/2026/01/20/konami-gaming-s-money-in-the-bank--slot-series-ranked-no.-1-top-indexing-new-games---core-(video-reel)"
+        },
+        {
+          "title": "AI Asset Creation Becoming Standard in Video Game Development",
+          "summary": "The use of AI to create video game assets is increasingly common in 2026, particularly for concept art and placeholder textures.",
+          "source": "Esports Insider",
+          "url": "https://esportsinsider.com/ai-video-game-art-impact"
         }
       ],
       "citations": [
         "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-january-2026-week-4",
-        "https://us.gamesplanet.com/community/news_updates/414269-release-overview-new-games-and-sales-of-the-week",
+        "https://nikopartners.com/niko-partners-2026-predictions/",
+        "https://www.konamigaming.com/corporate-information/news/news-details/2026/01/20/konami-gaming-s-money-in-the-bank--slot-series-ranked-no.-1-top-indexing-new-games---core-(video-reel)",
         "https://www.edtechinnovationhub.com/news/xbox-playstation-and-nintendo-reaffirm-shared-safety-principles-across-gaming-platforms",
-        "https://www.gamespress.com/Studio-Ortica-Dark-Product-Announce-Loan-Shark-Is-Coming-to-PlayStatio",
-        "https://mynintendonews.com/2026/01/19/new-nintendo-of-america-president-introduces-herself-at-new-york-game-awards/",
+        "https://www.mediapost.com/publications/article/412150/",
         "https://news.instant-gaming.com/en/articles/17273-this-week-s-releases-from-january-19-to-25-2026",
-        "https://www.ubisoft.com/en-us/game/rainbow-six/siege/news-updates/3HSeMj81P0CL3m0N8FS5tK/y10s42-patch-notes"
+        "https://esportsinsider.com/ai-video-game-art-impact"
       ]
     },
     "tech_news": {
@@ -480,30 +474,15 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 2,
-      "items": [
-        {
-          "title": "Canadian Government Invests $90M in Mangrove Lithium's Cleantech for Battery-Grade Lithium Production",
-          "summary": "The federal government is providing up to US$65 million to Mangrove Lithium in Delta, Canada, to advance electrochemical technology for producing battery-grade lithium with lower waste and carbon footprint. The funding supports a larger commercial facility to produce lithium hydroxide for 500,000 electric vehicles annually.",
-          "source": "Surrey Now-Leader",
-          "url": "https://surreynowleader.com/2026/01/19/feds-invest-90m-in-delta-cleantech-company-to-boost-domestic-supply-chain/"
-        },
-        {
-          "title": "European Trenchless Rehabilitation Technology Companies Announce Strategic Partnership",
-          "summary": "Leading European firms in trenchless rehab technology have joined forces to enhance innovation and market presence in underground infrastructure solutions.",
-          "source": "Trenchless Technology",
-          "url": "https://trenchlesstechnology.com/european-trenchless-rehab-technology-companies-join-forces/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
         "https://www.youtube.com/watch?v=scWOG5fa_7o",
         "https://digitalmara.com/news/top-ai-events-worldwide-in-2026/",
-        "https://www.indexbox.io/blog/andreessen-horowitz-commits-billions-to-ai-infrastructure-in-major-sector-bet/",
+        "https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/",
         "https://fortune.com/2026/01/19/pinterest-ceo-the-napster-phase-of-ai-needs-to-end-bill-ready/",
-        "https://surreynowleader.com/2026/01/19/feds-invest-90m-in-delta-cleantech-company-to-boost-domestic-supply-chain/",
         "https://fortune.com/article/what-are-the-jobs-most-exposed-to-ai-microsoft-research/",
-        "https://www.cgtn.com/sci-tech.html",
-        "https://trenchlesstechnology.com/european-trenchless-rehab-technology-companies-join-forces/"
+        "https://www.global-agriculture.com/global-agriculture/government-unveils-biggest-overhaul-to-water-in-a-generation/"
       ]
     }
   }
