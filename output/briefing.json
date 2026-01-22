@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T18:15:53.978842+00:00",
-  "generated_at_human": "2026-01-21 18:15 UTC",
+  "generated_at": "2026-01-22T00:21:50.061630+00:00",
+  "generated_at_human": "2026-01-22 00:21 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
+          "url": "https://github.com/freedomofpress/dangerzone",
+          "score": 21,
+          "comments": 5
+        },
+        {
           "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
           "url": "https://github.com/ChartGPU/ChartGPU",
-          "score": 257,
-          "comments": 91
+          "score": 475,
+          "comments": 142
         },
         {
-          "title": "SmartOS",
-          "url": "https://docs.smartos.org/",
+          "title": "Claude's new constitution",
+          "url": "https://www.anthropic.com/news/claude-new-constitution",
+          "score": 267,
+          "comments": 251
+        },
+        {
+          "title": "Golfing APL/K in 90 Lines of Python",
+          "url": "https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python",
+          "score": 38,
+          "comments": 7
+        },
+        {
+          "title": "Skip is now free and open source",
+          "url": "https://skip.dev/blog/skip-is-free/",
+          "score": 254,
+          "comments": 97
+        },
+        {
+          "title": "Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby",
+          "url": "https://www.ratatui-ruby.dev/",
+          "score": 40,
+          "comments": 4
+        },
+        {
+          "title": "Letting Claude play text adventures",
+          "url": "https://borretti.me/article/letting-claude-play-text-adventures",
+          "score": 65,
+          "comments": 23
+        },
+        {
+          "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
+          "url": "https://github.com/soegaard/webracket",
+          "score": 84,
+          "comments": 20
+        },
+        {
+          "title": "Challenges in join optimization",
+          "url": "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect",
+          "score": 36,
+          "comments": 8
+        },
+        {
+          "title": "Show HN: Rails UI",
+          "url": "https://railsui.com/",
           "score": 95,
-          "comments": 33
-        },
-        {
-          "title": "illumos",
-          "url": "https://illumos.org/",
-          "score": 24,
-          "comments": 1
-        },
-        {
-          "title": "PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts",
-          "url": "https://www.yyzkevin.com/picopcmcia/",
-          "score": 42,
-          "comments": 9
+          "comments": 62
         },
         {
           "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
           "url": "https://blog.kagi.com/waiting-dawn-search",
-          "score": 34,
-          "comments": 8
+          "score": 205,
+          "comments": 130
         },
         {
-          "title": "Skip Is Now Free and Open Source",
-          "url": "https://skip.dev/blog/skip-is-free/",
-          "score": 72,
-          "comments": 11
-        },
-        {
-          "title": "JPEG XL Demo Page",
-          "url": "https://tildeweb.nl/~michiel/jxl/",
-          "score": 68,
-          "comments": 46
-        },
-        {
-          "title": "Autonomous (YC F25) is hiring – AI-native financial advisor at 0% advisory fees",
-          "url": "https://atg.science/",
+          "title": "Jerry (YC S17) Is Hiring",
+          "url": "https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace",
           "score": 1,
           "comments": 0
         },
         {
-          "title": "Nested Code Fences in Markdown",
-          "url": "https://susam.net/nested-code-fences.html",
-          "score": 127,
-          "comments": 30
+          "title": "Stevey's Birthday Blog",
+          "url": "https://steve-yegge.medium.com/steveys-birthday-blog-34f437139cb5",
+          "score": 13,
+          "comments": 3
         },
         {
-          "title": "Swedish Alecta has sold off an estimated $8B of US Treasury Bonds",
-          "url": "https://www.di.se/nyheter/di-avslojar-alecta-har-dumpat-amerikanska-statspapper/",
-          "score": 66,
-          "comments": 32
+          "title": "TrustTunnel: AdGuard VPN protocol goes open-source",
+          "url": "https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html",
+          "score": 45,
+          "comments": 10
+        },
+        {
+          "title": "Mystery of the Head Activator",
+          "url": "https://www.asimov.press/p/head-activator",
+          "score": 12,
+          "comments": 1
+        },
+        {
+          "title": "Three types of LLM workloads and how to serve them",
+          "url": "https://modal.com/llm-almanac/workloads",
+          "score": 28,
+          "comments": 1
+        },
+        {
+          "title": "An explanation of cheating in Doom2 Deathmatch (1999)",
+          "url": "https://www.doom2.net/doom2/cheating.html",
+          "score": 15,
+          "comments": 1
+        },
+        {
+          "title": "Setting Up a Cluster of Tiny PCs for Parallel Computing",
+          "url": "https://www.kenkoonwong.com/blog/parallel-computing/",
+          "score": 23,
+          "comments": 9
+        },
+        {
+          "title": "SIMD programming in pure Rust",
+          "url": "https://kerkour.com/introduction-rust-simd",
+          "score": 43,
+          "comments": 14
+        },
+        {
+          "title": "Tell HN: 2 years building a kids audio app as a solo dev – lessons learned",
+          "url": "https://news.ycombinator.com/item?id=46705676",
+          "score": 27,
+          "comments": 24
         },
         {
           "title": "Can you slim macOS down?",
           "url": "https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/",
-          "score": 58,
-          "comments": 79
+          "score": 161,
+          "comments": 200
         },
         {
-          "title": "Anthropic's original take home assignment open sourced",
-          "url": "https://github.com/anthropics/original_performance_takehome",
-          "score": 565,
-          "comments": 279
+          "title": "Nested code fences in Markdown",
+          "url": "https://susam.net/nested-code-fences.html",
+          "score": 181,
+          "comments": 61
         },
         {
-          "title": "EU–INC – A new pan-European legal entity",
-          "url": "https://www.eu-inc.org/",
-          "score": 590,
-          "comments": 554
+          "title": "Scientists find a way to regrow cartilage in mice and human tissue samples",
+          "url": "https://www.sciencedaily.com/releases/2026/01/260120000333.htm",
+          "score": 242,
+          "comments": 65
         },
         {
-          "title": "RTS for Agents",
-          "url": "https://www.getagentcraft.com/",
-          "score": 73,
-          "comments": 29
+          "title": "Slouching Towards Bethlehem – Joan Didion (1967)",
+          "url": "https://www.saturdayeveningpost.com/2017/06/didion/",
+          "score": 51,
+          "comments": 4
         },
         {
-          "title": "TPM on Embedded Systems: Pitfalls and Caveats to Watch Out For",
-          "url": "https://sigma-star.at/blog/2026/01/tpm-on-embedded-systems-pitfalls-and-caveats/",
-          "score": 23,
-          "comments": 21
-        },
-        {
-          "title": "What Is a PC Compatible?",
-          "url": "https://codon.org.uk/~mjg59/blog/p/what-is-a-pc-compatible/",
-          "score": 76,
-          "comments": 27
-        },
-        {
-          "title": "EmuDevz: A game about developing emulators",
-          "url": "https://afska.github.io/emudevz/",
-          "score": 150,
-          "comments": 34
-        },
-        {
-          "title": "Show HN: See the carbon impact of your cloud as you code",
-          "url": "https://dashboard.infracost.io/",
-          "score": 19,
-          "comments": 1
-        },
-        {
-          "title": "Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets",
-          "url": "https://github.com/borenstein/yolo-cage",
-          "score": 26,
-          "comments": 47
-        },
-        {
-          "title": "Without benchmarking LLMs, you're likely overpaying",
-          "url": "https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying",
-          "score": 82,
-          "comments": 49
-        },
-        {
-          "title": "Ireland wants to give its cops spyware, ability to crack encrypted messages",
-          "url": "https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/",
-          "score": 145,
-          "comments": 57
-        },
-        {
-          "title": "An Unfolding Scientific Revolution in Cosmology",
-          "url": "https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/",
-          "score": 22,
-          "comments": 5
-        },
-        {
-          "title": "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
-          "url": "https://elliotarledge.com/blog/batmobile",
-          "score": 69,
-          "comments": 10
-        },
-        {
-          "title": "Tell HN: Bending Spoons laid off almost everybody at Vimeo yesterday",
-          "url": "https://news.ycombinator.com/item?id=46707699",
-          "score": 167,
-          "comments": 95
-        },
-        {
-          "title": "Beowulf's opening \"What\" is no interjection",
-          "url": "https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk",
-          "score": 12,
-          "comments": 6
+          "title": "Open source server code for the BitCraft MMORPG",
+          "url": "https://github.com/clockworklabs/BitCraftPublic",
+          "score": 27,
+          "comments": 9
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 87873,
-          "change_24h": -2.14,
-          "change_7d": -9.36,
-          "market_cap": 1755703460656
+          "price": 89666,
+          "change_24h": 1.56,
+          "change_7d": -7.48,
+          "market_cap": 1790718416966
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2904.55,
-          "change_24h": -3.25,
-          "change_7d": -13.77,
-          "market_cap": 350701973182
+          "price": 2993.83,
+          "change_24h": 2.36,
+          "change_7d": -10.67,
+          "market_cap": 361281584197
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 126.96,
-          "change_24h": -0.2,
-          "change_7d": -13.73,
-          "market_cap": 71781845158
+          "price": 129.74,
+          "change_24h": 3.06,
+          "change_7d": -11.55,
+          "market_cap": 73367580330
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.122585,
-          "change_24h": -1.12,
-          "change_7d": -18.2,
-          "market_cap": 20620653002
+          "price": 0.126765,
+          "change_24h": 2.75,
+          "change_7d": -13.6,
+          "market_cap": 21350020695
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.350917,
-          "change_24h": -0.37,
-          "change_7d": -16.65,
-          "market_cap": 12896397654
+          "price": 0.366746,
+          "change_24h": 4.48,
+          "change_7d": -11.13,
+          "market_cap": 13475537830
         }
       ]
     },
@@ -214,22 +214,12 @@
         {
           "name": "Seeker",
           "symbol": "SKR",
-          "market_cap_rank": 518
+          "market_cap_rank": 388
         },
         {
           "name": "ETHGas",
           "symbol": "GWEI",
-          "market_cap_rank": 658
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 137
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "market_cap_rank": 698
         },
         {
           "name": "River",
@@ -237,29 +227,39 @@
           "market_cap_rank": 105
         },
         {
-          "name": "Ondo",
-          "symbol": "ONDO",
-          "market_cap_rank": 67
-        },
-        {
-          "name": "Oasis",
-          "symbol": "ROSE",
-          "market_cap_rank": 328
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Axie Infinity",
           "symbol": "AXS",
-          "market_cap_rank": 187
+          "market_cap_rank": 178
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 135
+        },
+        {
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 164
+        },
+        {
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 5
+        },
+        {
+          "name": "Tether Gold",
+          "symbol": "XAUT",
+          "market_cap_rank": 51
         },
         {
           "name": "Solana",
           "symbol": "SOL",
           "market_cap_rank": 7
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 33
         }
       ]
     },
@@ -268,57 +268,61 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 8,
       "items": [
         {
-          "title": "US Stock Markets Plunge on Greenland Tariff Threats",
-          "summary": "Major US equity indices fell sharply on January 21, 2026, with the Nasdaq dropping 2.39% to 22,954, the S&P 500 falling 2.06% to 6,796, and the Dow declining 1.76% to 48,488. Over 70% of US stocks declined as investors reacted to President Trump's tariff threats related to Greenland.",
-          "source": "Saxo Bank / IC Markets",
-          "url": "https://www.home.saxo/content/articles/macro/market-quick-take---21-january-2026-21012026"
+          "title": "US Stocks Rally on Eased Trump-Greenland Tensions",
+          "summary": "US stock indexes rebounded strongly with the Dow Jones up 588 points (1.2%) to 49,077, S&P 500 up 1.2% to 6,875, and Nasdaq up 1.2% to 23,224, recovering half of prior losses after Trump softened rhetoric on Greenland at Davos.",
+          "source": "MarketPulse",
+          "url": "https://www.marketpulse.com/markets/us-stocks-bounce-as-trump-lands-in-davos-wef/"
         },
         {
-          "title": "Global Risk-Off Trading Spreads to Asia-Pacific Markets",
-          "summary": "Japan and Hong Kong equity markets ended lower amid broader risk-off sentiment, with SoftBank slipping 3.3% and Tokyo Electron falling 2.6% as higher yields weighed on technology stocks. The Hang Seng eased 0.3% to 26,488.",
-          "source": "Saxo Bank",
-          "url": "https://www.home.saxo/content/articles/macro/market-quick-take---21-january-2026-21012026"
+          "title": "S&P 500 Nears Record High After Trump Davos Speech",
+          "summary": "The S&P 500 rallied 78.76 points to 6,875.62 following Trump's de-escalation on Greenland dispute, pulling closer to its all-time high; Dow jumped 588.64 points while Nasdaq gained 270.50.",
+          "source": "News4JAX",
+          "url": "https://www.news4jax.com/business/2026/01/21/us-futures-edge-higher-and-gold-hits-another-record-as-markets-swoon-over-greenland-dispute/"
         },
         {
-          "title": "Volatility Spikes Above 20 as Market Stress Signals Elevate",
-          "summary": "The VIX surged above 20 as investors adopted defensive positioning. Short-dated stress signals remain elevated, with near-term volatility rising faster than longer-dated measures, indicating continued sensitivity to policy headlines.",
-          "source": "Saxo Bank",
-          "url": "https://www.home.saxo/content/articles/macro/market-quick-take---21-january-2026-21012026"
+          "title": "Netflix Shares Drop Despite Profit Beat on Subscriber Concerns",
+          "summary": "Netflix stock fell 2.2% despite stronger-than-expected profits, as investors focused on slowing subscriber growth and lower-than-expected current quarter profit forecast.",
+          "source": "News4JAX",
+          "url": "https://www.news4jax.com/business/2026/01/21/us-futures-edge-higher-and-gold-hits-another-record-as-markets-swoon-over-greenland-dispute/"
         },
         {
-          "title": "Gold Hits Record High Amid Safe-Haven Demand",
-          "summary": "Gold rallied 1.98% to a fresh record high of $4,763.43 per ounce as investors sought safety. Brent crude rose 1.53% to $64.92 and WTI crude gained 1.51% to $60.34 amid renewed tariff concerns.",
-          "source": "IC Markets",
-          "url": "https://www.icmarkets.com/blog/general-market-analysis-21-01-26/"
+          "title": "Kraft Heinz Plunges on Berkshire Hathaway Sell Warning",
+          "summary": "Kraft Heinz shares sank 5.7% after Berkshire Hathaway signaled potential sale of its 325 million shares, following a prior $3.76 billion write-down and board resignations.",
+          "source": "News4JAX",
+          "url": "https://www.news4jax.com/business/2026/01/21/us-futures-edge-higher-and-gold-hits-another-record-as-markets-swoon-over-greenland-dispute/"
         },
         {
-          "title": "US Dollar Weakens on US-Europe Confrontation",
-          "summary": "The US dollar came under significant pressure as the 'sell America' trade gathered momentum, with the DXY falling 0.83% to 98.57. Treasury yields rose despite dollar weakness, reflecting diverging market dynamics.",
-          "source": "IC Markets",
-          "url": "https://www.icmarkets.com/blog/general-market-analysis-21-01-26/"
+          "title": "Gold Hits Record High Amid Market Volatility",
+          "summary": "Gold surged to another record as markets reacted to Greenland tensions easing, while natural gas rose 20%; Treasury yields eased in response to stock recovery.",
+          "source": "News4JAX",
+          "url": "https://www.news4jax.com/business/2026/01/21/us-futures-edge-higher-and-gold-hits-another-record-as-markets-swoon-over-greenland-dispute/"
         },
         {
-          "title": "Major Earnings Reports Expected: Johnson & Johnson, Charles Schwab, Prologis",
-          "summary": "Key Q4 earnings reports are scheduled, with health care giant Johnson & Johnson, brokerage Charles Schwab, and REIT Prologis among major companies reporting. Regional banks are also reporting in premarket and aftermarket sessions.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-21-trump-travels-to-switzerland-amid-greenland-exchange"
+          "title": "Dow Jones Tests Key Technical Levels Post-Rebound",
+          "summary": "Dow Jones broke out above 49,000 momentum pivot but stalled at 200-MA (48,978); remaining above 48,700 supports rebound chances ahead of PCE/GDP data.",
+          "source": "MarketPulse",
+          "url": "https://www.marketpulse.com/markets/us-stocks-bounce-as-trump-lands-in-davos-wef/"
         },
         {
-          "title": "Supreme Court Tariff Decision and Davos Summit Await Market Attention",
-          "summary": "Investors are awaiting the Supreme Court's decision on Trump's tariffs and developments from the Davos summit in Switzerland, where US leaders and ECB President Christine Lagarde are expected to speak.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/latest-news/stock-market-today-jan-21-trump-travels-to-switzerland-amid-greenland-exchange"
+          "title": "Nasdaq Remains Bearish in Descending Sequence",
+          "summary": "Nasdaq failed to hold above 25,000 pivotal support, with correction retracing morning rally; mid-term outlook stays bearish for tech-heavy index.",
+          "source": "MarketPulse",
+          "url": "https://www.marketpulse.com/markets/us-stocks-bounce-as-trump-lands-in-davos-wef/"
+        },
+        {
+          "title": "S&P 500 Tests Critical Support at 6,830-6,850",
+          "summary": "S&P 500 approaches key session support zone of 6,830-6,850; rebound from here could improve prospects amid ongoing uncertainty.",
+          "source": "MarketPulse",
+          "url": "https://www.marketpulse.com/markets/us-stocks-bounce-as-trump-lands-in-davos-wef/"
         }
       ],
       "citations": [
-        "https://www.home.saxo/content/articles/macro/market-quick-take---21-january-2026-21012026",
-        "https://www.icmarkets.com/blog/general-market-analysis-21-01-26/",
-        "https://www.thestreet.com/latest-news/stock-market-today-jan-21-trump-travels-to-switzerland-amid-greenland-exchange",
-        "https://www.fullyinformed.com/stock-market-outlook-for-wed-jan-21-2026-macd-down-signal-confirmed/",
-        "https://verifiedinvesting.com/blogs/live-show-recap/my-trading-game-plan-revealed-01-21-2026-tariffs-and-rising-yields-fuel-market-volatility-nasdaq-breaks-down"
+        "https://www.marketpulse.com/markets/us-stocks-bounce-as-trump-lands-in-davos-wef/",
+        "https://www.news4jax.com/business/2026/01/21/us-futures-edge-higher-and-gold-hits-another-record-as-markets-swoon-over-greenland-dispute/",
+        "https://sterlingcapital.com/cdn/Weekly-Market-Update-01-20-2026.pdf"
       ]
     },
     "crypto_news": {
@@ -326,55 +330,38 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 4,
       "items": [
         {
-          "title": "Bitcoin Trades Between $87,896 and $91,443 as Market Cap Drops 2.24% to $3.07T",
-          "summary": "Bitcoin fluctuated between $87,896 and $91,443 over the past 24 hours, currently at $89,409 down 1.80%, while the global crypto market cap fell 2.24% to $3.07T. Major coins like ETH (-4.11%) and BNB (-4.31%) also declined amid mixed trading.",
-          "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/01-21-2026-binance-market-update-2026-01-21-35377462440786"
+          "title": "Nasdaq Predicts Bitcoin Could Soar 117% to $200,000 in 2026",
+          "summary": "Analysts forecast Bitcoin reaching $200,000 this year despite recent 26% drop from $126,000 all-time high, with some predicting up to $250,000. Wall Street predictions from last year failed to materialize as Bitcoin ended 2025 with losses below $100,000.",
+          "source": "Nasdaq",
+          "url": "https://www.nasdaq.com/articles/prediction-cryptocurrency-could-soar-117-2026"
         },
         {
-          "title": "Crypto Selloff Continues: Bitcoin Below $89K, Ethereum at $2,920, XRP Seventh Down Day",
-          "summary": "The market extended losses with Bitcoin dropping to $88,626 (-9.6% from Jan 17 peak), Ethereum to $2,920, and XRP at $1.89 after seven straight declines. Analysts attribute the fall to macro risk-off moves and technical weakness.",
-          "source": "Finance Magnates",
-          "url": "https://www.financemagnates.com/trending/why-crypto-is-going-down-today-xrp-bitcoin-ethereum-and-dogecoin-prices-fall-as-17b-gets-rekt/"
+          "title": "Columbia Professor Calls NYSE Tokenization Plan 'Vaporware'",
+          "summary": "The New York Stock Exchange's blockchain-based tokenized securities platform lacks critical details on blockchains, stablecoins, jurisdictions, and DeFi integration, criticized as preserving intermediaries rather than innovating.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/01/21/the-nyses-big-tokenization-plan-is-vaporware-dressed-up-as-innovation/"
         },
         {
-          "title": "Dogecoin Falls for Eighth Straight Day to $0.1254 Amid Broader Market Decline",
-          "summary": "Dogecoin dropped 0.7% on Wednesday to $0.1254, marking its eighth consecutive decline with only one green session since January 6. Technicals point to potential further drops to $0.12065 or lower if support breaks.",
-          "source": "Finance Magnates",
-          "url": "https://www.financemagnates.com/trending/why-crypto-is-going-down-today-xrp-bitcoin-ethereum-and-dogecoin-prices-fall-as-17b-gets-rekt/"
+          "title": "Op-Ed: Delaying Crypto Regulation Is a Policy Mistake",
+          "summary": "Unresolved issues like custody rules, platform supervision, disclosures, and SEC-CFTC jurisdiction persist post-FTX failures; rules should be set now before market leverage rebuilds.",
+          "source": "RealClearMarkets",
+          "url": "https://www.realclearmarkets.com/articles/2026/01/22/why_waiting_to_regulate_crypto_is_a_policy_mistake_1159831.html"
         },
         {
-          "title": "Bitcoin Bears in Control per Daily Chart Analysis",
-          "summary": "February bitcoin futures held steady after Tuesday losses, with technical analyst Jim Wyckoff noting bears firmly in control on the daily chart. This reflects ongoing downward pressure in early Wednesday trading.",
-          "source": "Kitco News",
-          "url": "https://www.kitco.com/news/article/2026-01-21/bitcoin-january-21-daily-chart-alert-bears-control"
-        },
-        {
-          "title": "U.S. Treasury to Include Seized Bitcoin in Digital Asset Reserves",
-          "summary": "The U.S. Treasury plans to incorporate seized Bitcoin into digital asset reserves, marking a significant policy shift. This development highlights growing institutional integration of cryptocurrencies.",
-          "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/01-21-2026-binance-market-update-2026-01-21-35377462440786"
-        },
-        {
-          "title": "Delaware Life Insurance Integrates Bitcoin Index into Annuity Products",
-          "summary": "Delaware Life Insurance has added a Bitcoin index to its annuity products, providing retail investors exposure to BTC through traditional insurance. This move signals mainstream adoption in financial products.",
-          "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/01-21-2026-binance-market-update-2026-01-21-35377462440786"
-        },
-        {
-          "title": "Memecoin Trading Volume Spikes to $5.6B Before Cooling",
-          "summary": "Memecoin trading volume briefly hit $5.6B amid profit-taking, with analysts noting cooling momentum. This surge reflects speculative activity despite broader market downturn.",
-          "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/01-21-2026-binance-market-update-2026-01-21-35377462440786"
+          "title": "Major Crypto Policy Week in DC Targets $17.52B US Market",
+          "summary": "Crypto companies push policy in Washington amid projections of global market growth from $5.74 billion in 2024 to $17.52 billion.",
+          "source": "Streetwise Reports",
+          "url": "https://www.streetwisereports.com/article/2026/01/21/big-week-for-crypto-policy-hits-dc-as-cos-go-after-massive-us-17-52b-market.html"
         }
       ],
       "citations": [
-        "https://www.binance.com/en/square/post/01-21-2026-binance-market-update-2026-01-21-35377462440786",
-        "https://www.financemagnates.com/trending/why-crypto-is-going-down-today-xrp-bitcoin-ethereum-and-dogecoin-prices-fall-as-17b-gets-rekt/",
-        "https://www.kitco.com/news/article/2026-01-21/bitcoin-january-21-daily-chart-alert-bears-control"
+        "https://www.nasdaq.com/articles/prediction-cryptocurrency-could-soar-117-2026",
+        "https://fortune.com/2026/01/21/the-nyses-big-tokenization-plan-is-vaporware-dressed-up-as-innovation/",
+        "https://www.realclearmarkets.com/articles/2026/01/22/why_waiting_to_regulate_crypto_is_a_policy_mistake_1159831.html",
+        "https://www.streetwisereports.com/article/2026/01/21/big-week-for-crypto-policy-hits-dc-as-cos-go-after-massive-us-17-52b-market.html"
       ]
     },
     "ai_news": {
@@ -382,54 +369,41 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "NETL Launches ClaiMM, First Digital Platform for CMM Community",
-          "summary": "The National Energy Technology Laboratory has launched ClaiMM, a digital collaboration platform integrating advanced AI and machine learning for the CMM (Carbon Management and Measurement) community.",
-          "source": "NETL",
-          "url": "https://netl.doe.gov/node/15200"
+          "title": "Tech CEOs at Davos Discuss AI's Impact on Future Jobs",
+          "summary": "Leaders including Jensen Huang, Satya Nadella, and Marc Benioff gathered at the World Economic Forum to debate AI's employment implications. Forrester research estimates AI could displace 10.4 million US jobs by 2030, while tech executives emphasize emerging opportunities in trade skills and datacenter operations.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/2026/01/22/future_ai_jobs_tech_bigshots/"
         },
         {
-          "title": "Human Brain Processes Language Similarly to Advanced AI Models",
-          "summary": "Researchers from Hebrew University, Google Research, and Princeton University discovered that the human brain understands spoken language through a stepwise process that closely mirrors how AI language models like GPT operate, with brain activity patterns matching AI layer structures.",
-          "source": "Science Daily / Nature Communications",
-          "url": "https://www.sciencedaily.com/releases/2026/01/260120000308.htm"
+          "title": "Mila and Inovia Capital Launch Venture Scientist Fund for AI Startups",
+          "summary": "Canada's premier AI research institute Mila and leading investor Inovia Capital announced a new early-stage venture capital fund to commercialize frontier AI research. The initiative aims to bridge Canada's gap between its 10% share of global AI research talent and less than 2% of AI venture capital investment.",
+          "source": "Mila – Quebec Artificial Intelligence Institute",
+          "url": "https://mila.quebec/en/news/mila-and-inovia-capital-are-partnering-to-launch-the-venture-scientist-fund-propelling-canadas"
         },
         {
-          "title": "AI Models Surpass Average Human Creativity in Large-Scale Study",
-          "summary": "A study led by Université de Montréal researchers comparing 100,000 humans with leading generative AI models found that some AI systems like GPT-4 now exceed average human creativity, though the most creative individuals still outperform all AI systems.",
-          "source": "Scientific Reports / Université de Montréal",
-          "url": "https://nouvelles.umontreal.ca/en/article/2026/01/20/creative-talent-has-ai-knocked-humans-out"
+          "title": "Anthropic Invests $1.5M in Python Software Foundation for AI Security",
+          "summary": "Anthropic committed $1.5 million to the Python Software Foundation to enhance security in CPython and the Python Package Index. The investment will fund automated security systems and malware detection tools, addressing critical infrastructure for AI and machine learning development.",
+          "source": "Reversing Labs",
+          "url": "https://www.reversinglabs.com/blog/anthropic-python-investment"
         },
         {
-          "title": "AI-Enabled Approaches Transform Lung Disease Diagnosis and Management",
-          "summary": "Healthcare institutions are deploying AI models for lung disease diagnosis, including systems like Mayo's Asthma Guidance and Prediction System (A-GPS), which reduces clinical decision-making time by 70% and identifies at-risk patients as young as 3 years old.",
-          "source": "Chest Physician",
-          "url": "https://www.chestphysician.org/ai-enabled-approaches-poised-to-transform-diagnosis-management-of-lung-diseases/"
-        },
-        {
-          "title": "Siwei Lyu Named Director of University at Buffalo's AI Institute",
-          "summary": "Deepfake forensics expert Siwei Lyu has been appointed director of UB's Institute for Artificial Intelligence and Data Science, leading over 500 AI-infused projects across the university's 200+ faculty members.",
-          "source": "University at Buffalo",
-          "url": "https://www.buffalo.edu/ubnow/stories/2026/01/lyu-director-iad.html"
-        },
-        {
-          "title": "Machine Learning Accelerates Small-Molecule Drug Discovery",
-          "summary": "Recent advances combining tandem mass spectrometry, high-throughput screening, and machine learning are enabling rapid identification of novel compounds, with AI-driven interpretation now predicting molecular structures in milliseconds.",
-          "source": "University of Waterloo",
-          "url": "https://uwaterloo.ca/daily-bulletin/2026-01-21"
+          "title": "Microsoft Reports $88 Billion AI Investment Spending",
+          "summary": "Microsoft disclosed it spent $88 billion on AI-related investments in its 2025 fiscal year and plans to increase spending further in 2026, underscoring major tech companies' commitment to AI infrastructure and development.",
+          "source": "TechXplore",
+          "url": "https://techxplore.com/news/2026-01-microsoft-ceo-ai-big-tech.html"
         }
       ],
       "citations": [
-        "https://netl.doe.gov/node/15200",
-        "https://www.sciencedaily.com/releases/2026/01/260120000308.htm",
-        "https://www.chestphysician.org/ai-enabled-approaches-poised-to-transform-diagnosis-management-of-lung-diseases/",
-        "https://nouvelles.umontreal.ca/en/article/2026/01/20/creative-talent-has-ai-knocked-humans-out",
-        "https://www.buffalo.edu/ubnow/stories/2026/01/lyu-director-iad.html",
+        "https://hbr.org/topic/subject/ai-and-machine-learning",
+        "https://www.theregister.com/2026/01/22/future_ai_jobs_tech_bigshots/",
         "https://uwaterloo.ca/daily-bulletin/2026-01-21",
-        "https://blog.7ai.com/the-rise-of-the-chief-innovation-security-officer-the-top-30-for-2026",
-        "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Artificial_intelligence_in_manufacturing_rocket_parts"
+        "https://mila.quebec/en/news/mila-and-inovia-capital-are-partnering-to-launch-the-venture-scientist-fund-propelling-canadas",
+        "https://www.reversinglabs.com/blog/anthropic-python-investment",
+        "https://techxplore.com/news/2026-01-microsoft-ceo-ai-big-tech.html",
+        "https://www.bankinfosecurity.com/coder-builds-malware-in-week-ai-help-a-30576"
       ]
     },
     "gaming": {
@@ -437,53 +411,27 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 2,
       "items": [
         {
-          "title": "Xbox Developer Direct Showcase Set for January 22 with Beast of Reincarnation, Forza Horizon 6, and Fable",
-          "summary": "Xbox's fourth Developer Direct showcase is scheduled for January 22, featuring Game Freak's Beast of Reincarnation, Forza Horizon 6, and Fable from Playground Games, with expectations for surprise announcements.",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-developer-directs-one-more-thing-matters-more-than-ever-in-2026/"
+          "title": "Xbox Developer Direct Scheduled for January 22 with Major Game Reveals",
+          "summary": "Microsoft's Xbox Developer Direct 2026 airs today at 1:00 PM ET, featuring first gameplay looks at Fable, the official reveal of Forza Horizon 6 from Playground Games, and Game Freak's Beast of Reincarnation, a post-apocalyptic action RPG. Rumors suggest a surprise fourth game announcement, continuing the event's tradition of unexpected reveals.[1][2][3][4]",
+          "source": "Allkeyshop, Vice, Gamespot, Screenrant",
+          "url": "https://www.allkeyshop.com/blog/xbox-developer-direct-january-22-news-l"
         },
         {
-          "title": "World of Warcraft Midnight Pre-Expansion Patch Goes Live",
-          "summary": "Blizzard released the pre-expansion patch for WoW Midnight, introducing new features including a Demon Hunter Devourer specialization, Void Elf Demon Hunters, UI updates, PvP Training Grounds, and housing systems.",
-          "source": "The Ancient Gaming Noob",
-          "url": "https://tagn.wordpress.com/2026/01/21/"
-        },
-        {
-          "title": "Netflix Prioritizes Cloud-Based TV Games in 2026",
-          "summary": "Netflix co-CEO Greg Peters announced that the streamer's video game division will focus on bringing cloud-based titles to television screens as a major priority for 2026.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/netflix-boss-says-cloud-based-tv-games-are-a-big-priority-in-2026"
-        },
-        {
-          "title": "New York Times Launches First Multiplayer Game, Expands Gaming Portfolio",
-          "summary": "The New York Times released its first 2-player game as part of its expanding games division, which includes the popular Wordle (played 4.2 billion times last year) and other human-crafted puzzle games.",
-          "source": "CityNews Halifax",
-          "url": "https://halifax.citynews.ca/2026/01/21/this-just-in-from-the-new-york-times-its-first-2-player-game-and-an-evolving-business-model/"
-        },
-        {
-          "title": "Mobile Apps Surpass Games in Consumer Spending for First Time, Driven by AI Adoption",
-          "summary": "In 2025, consumers spent more on mobile apps than games, with AI app publishers like OpenAI and DeepSeek accounting for nearly 50% of global downloads, up from 21% in 2024.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/"
-        },
-        {
-          "title": "Hytale Reveals End-Game Ore Mithril Mining Mechanics",
-          "summary": "Hytale developers announced details about the game's elusive end-game ore, mithril, which will have more complex mining mechanics compared to other ores in the game.",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/hytales-elusive-end-game-ore-mithril-wont-be-as-simple-to-mine-as-the-others/"
+          "title": "Final Fantasy VII Remake Intergrade Launches on Nintendo Switch 2",
+          "summary": "Square Enix releases Final Fantasy VII Remake Intergrade on Nintendo Switch 2 today, January 22, 2026, earning high praise for its stunning visuals, consistent performance, and status as a gold standard port for the platform. The action RPG delivers the acclaimed story and gameplay from its original 2020 launch, now optimized for handheld play.[5]",
+          "source": "Nintendowire",
+          "url": "https://nintendowire.com/news/2026/01/21/reviews-final-fantasy-vii-remake-intergrade-nintendo-switch-2/"
         }
       ],
       "citations": [
+        "https://www.allkeyshop.com/blog/xbox-developer-direct-january-22-news-l",
+        "https://www.vice.com/en/article/where-and-when-to-watch-january-xbox-developer-direct/",
         "https://www.gamespot.com/articles/xbox-developer-directs-one-more-thing-matters-more-than-ever-in-2026/1100-6537542/",
-        "https://tagn.wordpress.com/2026/01/21/",
-        "https://www.gamedeveloper.com/business/netflix-boss-says-cloud-based-tv-games-are-a-big-priority-in-2026",
-        "https://www.twobirds.com/en/insights/2026/the-future-of-play-key-trends-in-the-games-industry-for-2026",
-        "https://halifax.citynews.ca/2026/01/21/this-just-in-from-the-new-york-times-its-first-2-player-game-and-an-evolving-business-model/",
-        "https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/",
-        "https://www.pcgamer.com/games/survival-crafting/hytales-elusive-end-game-ore-mithril-wont-be-as-simple-to-mine-as-the-others/"
+        "https://screenrant.com/xbox-developer-direct-january-2026-start-time-games-date/",
+        "https://nintendowire.com/news/2026/01/21/reviews-final-fantasy-vii-remake-intergrade-nintendo-switch-2/"
       ]
     },
     "tech_news": {
@@ -491,13 +439,29 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 2,
+      "items": [
+        {
+          "title": "Amazon Launches Largest Retail Store in Chicago Suburbs",
+          "summary": "Amazon opened its largest-ever retail store with a footprint larger than many Big Box stores in the Chicago suburbs, marking a significant expansion of its physical retail presence.",
+          "source": "Dow Jones Newswires",
+          "url": "https://www.morningstar.com/news/dow-jones/2026012110359/tech-up-but-not-by-much-on-ai-skepticism-tech-roundup"
+        },
+        {
+          "title": "Teledyne Technologies Reports Earnings Beat",
+          "summary": "Teledyne Technologies, a maker of electronic instruments, reported quarterly earnings that exceeded Wall Street estimates, driving shares higher.",
+          "source": "Dow Jones Newswires",
+          "url": "https://www.morningstar.com/news/dow-jones/2026012110359/tech-up-but-not-by-much-on-ai-skepticism-tech-roundup"
+        }
+      ],
       "citations": [
-        "https://www.foxbusiness.com/technology/nvidia-ceo-says-ai-boom-fueling-largest-infrastructure-buildout-history",
-        "https://www.computing.co.uk/news/2026/ai/big-tech-leaders-opine-on-the-future-of-ai",
-        "https://uwaterloo.ca/daily-bulletin/2026-01-21",
-        "https://openai.com/index/how-countries-can-end-the-capability-overhang/"
+        "https://techstartups.com/2026/01/21/top-tech-news-today-january-21-2026/",
+        "https://www.caixinglobal.com/2026-01-22/nvidias-jensen-huang-says-ai-is-triggering-the-largest-infrastructure-boom-in-history-102406552.html",
+        "https://economictimes.com/news/new-updates/youtube-ceo-neal-mohan-2026-plan-ai-content-deepfakes-safety/articleshow/127010372.cms",
+        "https://www.morningstar.com/news/dow-jones/2026012110359/tech-up-but-not-by-much-on-ai-skepticism-tech-roundup",
+        "https://techxplore.com/news/2026-01-microsoft-ceo-ai-big-tech.html",
+        "https://battlefordsnow.com/2026/01/21/experts-warn-canada-risks-losing-top-researchers-in-global-war-for-ai-talent/",
+        "https://www.euractiv.com/news/rise-of-ai-summaries-risks-weakening-news-brands-warns-reuters-institute/"
       ]
     }
   }

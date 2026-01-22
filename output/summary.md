@@ -1,26 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-01-21 18:15 UTC*
+*Generated: 2026-01-22 00:21 UTC*
 
-**Market Overview**
-The US stock market experienced a significant decline, with the Nasdaq dropping 2.39% to 22,954, the S&P 500 falling 2.06% to 6,796, and the Dow declining 1.76% to 48,488, due to President Trump's tariff threats related to Greenland. The crypto market also saw a decline, with Bitcoin trading between $87,896 and $91,443, and the global crypto market cap falling 2.24% to $3.07T. Gold reached a record high of $4,763.43 per ounce as investors sought safety.
+Here is your executive briefing for January 22, 2026:
 
-**Tech & AI**
-Notable tech developments include the release of ChartGPU, a WebGPU-powered charting library, and the open-sourcing of Anthropic's original take-home assignment. Additionally, there have been advancements in AI-native financial advisors, such as Autonomous, and significant discussions around the integration of AI in various industries.
+1. **Market Overview**: The US stock market rallied strongly, with the Dow Jones up 588 points (1.2%) to 49,077, and the S&P 500 up 1.2% to 6,875, recovering half of prior losses after eased tensions. The Nasdaq also rose 1.2% to 23,224. In the crypto market, Bitcoin's price increased by 1.56% in the last 24 hours, while Ethereum's price rose by 2.36%. Gold hit a record high amid market volatility.
 
-**Gaming & Entertainment**
-EmuDevz, a game about developing emulators, has been released, and there have been discussions around the concept of "PC Compatible" and its implications for the gaming industry.
+2. **Tech & AI**: Tech CEOs at Davos discussed AI's impact on future jobs, emphasizing both displacement and emerging opportunities. Other notable developments include the release of ChartGPU, a WebGPU-powered charting library, and the announcement of Claude's new constitution. Additionally, there have been advancements in areas like SIMD programming in Rust and WebRacket, a subset of Racket that compiles to WebAssembly.
 
-**Key Insights**
-* The US stock market is experiencing significant volatility due to tariff threats and geopolitical tensions.
-* The crypto market is also declining, with Bitcoin and other major coins experiencing losses.
-* Gold is reaching record highs as investors seek safe-haven assets.
-* There are significant advancements in AI and tech, with potential applications in various industries.
-* The gaming industry is seeing new developments, including the release of EmuDevz and discussions around "PC Compatible".
+3. **Gaming & Entertainment**: The open-source server code for the BitCraft MMORPG has been released, and there have been discussions about cheating in Doom2 Deathmatch. However, these developments are relatively niche and may not have a significant impact on the broader market.
 
-**Watch List**
-* US stock market and crypto market movements
-* Developments in AI and tech, particularly in the financial and gaming industries
-* Gold prices and safe-haven asset movements
-* Tariff threats and geopolitical tensions
-* Earnings reports from major companies, including Johnson & Johnson, Charles Schwab, and Prologis.
+4. **Key Insights**:
+* The easing of tensions has led to a strong rally in the US stock market, but it's essential to monitor the situation closely.
+* AI is expected to have a significant impact on future jobs, with both displacement and emerging opportunities.
+* The crypto market is experiencing significant price movements, with Bitcoin and Ethereum rising in the last 24 hours.
+* Gold has hit a record high amid market volatility, indicating a potential safe-haven asset.
+* Regulatory discussions around crypto are ongoing, with some experts calling for clearer rules and others criticizing existing plans as "vaporware".
+
+5. **Watch List**: 
+* US stock market: Monitor the Dow Jones, S&P 500, and Nasdaq for continued volatility and potential impacts from geopolitical events.
+* Crypto market: Keep an eye on Bitcoin, Ethereum, and other major cryptocurrencies for significant price movements and regulatory developments.
+* AI and job market: Follow the discussion around AI's impact on employment and the potential for emerging opportunities.
+* Gold and other safe-haven assets: Watch for continued price movements and potential implications for the broader market.
+* Regulatory developments: Monitor updates on crypto regulation and potential impacts on the market.
