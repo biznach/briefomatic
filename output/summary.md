@@ -1,25 +1,26 @@
 # Daily Briefing
 
-*Generated: 2026-01-22 18:07 UTC*
+*Generated: 2026-01-23 00:21 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+**Market Overview**
+The US major indices closed higher, with the Dow Jones rising 0.6%, S&P 500 gaining 0.55%, and Nasdaq Composite increasing 0.9%. The crypto market experienced a pullback, with Bitcoin retreating from near $97,924 to around $87,000 before recovering modestly. Ethereum hit a record 2.9M daily transactions despite fee stability.
 
-1. **Market Overview**: The US stock market rallied 1.2% as tariff tensions eased, with the Dow Jones Industrial Average rising to 49,077.23, S&P 500 gaining to 6,875.62, and Nasdaq Composite adding to 23,224.82. The cryptocurrency market capitalization increased by 1.5% to $3.13 trillion, with Bitcoin rising 0.7% to $89,853 and Ethereum gaining 0.7% to $2,986.
+**Tech & AI**
+GPTZero found 100 new hallucinations in NeurIPS 2025 accepted papers. Qwen3-TTS family is now open-sourced, allowing for voice design, clone, and generation. Anthropic released its Economic Index report for January 2026. Composing APIs and CLIs in the LLM era is a growing topic of discussion.
 
-2. **Tech & AI**: Notable tech developments include the open-sourcing of Qwen3-TTS Family for voice design, clone, and generation, and the launch of Sweep, an open-weights 1.5B model for next-edit autocomplete. Additionally, there are concerns about the accumulation of cognitive debt when using AI assistants, as discussed in the paper "Your brain on ChatGPT".
+**Gaming & Entertainment**
+No notable gaming news was found in the provided data.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, it's worth mentioning that the entertainment industry is impacted by the easing of tariff tensions and the overall market sentiment.
+**Key Insights**
+* The S&P 500 valuations have reached dot-com era levels, with a price-to-sales ratio near 41, sparking concerns over a potential 2026 crash.
+* Bitcoin experienced a sharp pullback from near $97,924, but crypto derivatives markets remained orderly with significantly lower leverage.
+* Ethereum activity surged in January, breaking a record of 2.9 million daily transactions.
+* The NYSE announced plans to create a platform for tokenized US stocks and ETFs, pending regulatory approval.
+* Strategy acquired $2.13B in Bitcoin in a major weekly purchase.
 
-4. **Key Insights**:
-* The easing of tariff tensions has improved market sentiment, leading to a rally in the US stock market.
-* The cryptocurrency market is experiencing a reversal in top coins, with 87 of the top 100 coins appreciating.
-* AI-related developments, such as the open-sourcing of Qwen3-TTS Family and the launch of Sweep, are gaining attention.
-* The accumulation of cognitive debt when using AI assistants is a growing concern.
-* European countries are investing in renewable energy, with wind and solar overtaking fossil fuels.
-
-5. **Watch List**:
-* US stock market indices, such as the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite.
-* Cryptocurrency prices, particularly Bitcoin and Ethereum.
-* AI-related developments and their potential impact on the market.
-* Tariff tensions and their effect on global trade.
-* Renewable energy investments and their potential to disrupt traditional energy sources.
+**Watch List**
+* S&P 500 valuations and potential crash risks
+* Bitcoin and Ethereum price movements
+* NYSE tokenized stocks and ETFs platform development
+* Regulatory updates on the CLARITY Act
+* Qwen3-TTS family and its applications in voice design and generation
