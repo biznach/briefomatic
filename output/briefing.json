@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T00:23:07.567395+00:00",
-  "generated_at_human": "2026-01-25 00:23 UTC",
+  "generated_at": "2026-01-25T06:07:15.681831+00:00",
+  "generated_at_human": "2026-01-25 06:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,76 +8,124 @@
       "count": 25,
       "items": [
         {
+          "title": "nvidia-smi hangs indefinitely after ~66 days",
+          "url": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+          "score": 113,
+          "comments": 19
+        },
+        {
           "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
           "url": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
-          "score": 358,
-          "comments": 220
+          "score": 467,
+          "comments": 290
+        },
+        {
+          "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+          "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+          "score": 244,
+          "comments": 203
+        },
+        {
+          "title": "Palantir has no place in UK public services",
+          "url": "https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/",
+          "score": 80,
+          "comments": 17
+        },
+        {
+          "title": "Two Weeks Until Tapeout",
+          "url": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
+          "score": 73,
+          "comments": 2
+        },
+        {
+          "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
+          "url": "https://arxiv.org/abs/2601.05047",
+          "score": 25,
+          "comments": 1
+        },
+        {
+          "title": "The Responsibility of Intellectuals (1967)",
+          "url": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
+          "score": 35,
+          "comments": 17
+        },
+        {
+          "title": "A Lament for Aperture",
+          "url": "https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/",
+          "score": 20,
+          "comments": 4
+        },
+        {
+          "title": "Show HN: VM-curator – a TUI alternative to libvirt and virt-manager",
+          "url": "https://github.com/mroboff/vm-curator",
+          "score": 14,
+          "comments": 2
+        },
+        {
+          "title": "We X-Rayed a Suspicious FTDI USB Cable",
+          "url": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
+          "score": 114,
+          "comments": 43
         },
         {
           "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
           "url": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
-          "score": 107,
-          "comments": 33
+          "score": 153,
+          "comments": 50
         },
         {
-          "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
-          "url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
-          "score": 112,
-          "comments": 57
+          "title": "What Ralph Wiggum loops are missing",
+          "url": "https://xr0am.substack.com/p/what-ralph-wiggum-loops-are-missing",
+          "score": 3,
+          "comments": 0
         },
         {
-          "title": "Europe wants to end its dangerous reliance on US internet technology",
-          "url": "https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042",
-          "score": 72,
-          "comments": 26
-        },
-        {
-          "title": "Memory layout in Zig with formulas",
-          "url": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
-          "score": 68,
-          "comments": 17
-        },
-        {
-          "title": "Doing gigabit Ethernet over my British phone wires",
-          "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
-          "score": 412,
-          "comments": 234
+          "title": "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs",
+          "score": 73,
+          "comments": 21
         },
         {
           "title": "Claude Code's new hidden feature: Swarms",
           "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
-          "score": 267,
-          "comments": 199
+          "score": 360,
+          "comments": 243
         },
         {
-          "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
-          "url": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
-          "score": 93,
-          "comments": 12
+          "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
+          "url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
+          "score": 149,
+          "comments": 77
         },
         {
-          "title": "I added a Bluesky comment section to my blog",
-          "url": "https://micahcantor.com/blog/bluesky-comment-section.html",
-          "score": 191,
-          "comments": 68
+          "title": "TikTok is officially US-owned for American users, here's what's changing",
+          "url": "https://9to5mac.com/2026/01/23/tiktok-is-officially-us-owned-for-american-users-heres-whats-changing/",
+          "score": 24,
+          "comments": 25
         },
         {
-          "title": "Ask HN: Gmail spam filtering suddenly marking everything as spam?",
-          "url": "https://news.ycombinator.com/item?id=46744807",
-          "score": 117,
-          "comments": 82
+          "title": "Typography on Pencils (2023)",
+          "url": "https://www.presentandcorrect.com/blogs/blog/typography-on-pencils-1-5",
+          "score": 37,
+          "comments": 2
         },
         {
-          "title": "Agent orchestration for the timid",
-          "url": "https://substack.com/inbox/post/185649875",
-          "score": 60,
-          "comments": 10
+          "title": "The Temporal Consistency Challenge in Video Restoration",
+          "url": "https://blog.videowatermarkremove.com/the-temporal-consistency-challenge-from-optical-flow-to-spatiotemporal-ai-in-video-restoration",
+          "score": 10,
+          "comments": 0
         },
         {
-          "title": "How I estimate work",
-          "url": "https://www.seangoedecke.com/how-i-estimate-work/",
-          "score": 381,
-          "comments": 236
+          "title": "Draig, a Welsh Programming Language",
+          "url": "https://raku.land/zef:l10n/L10N::CY",
+          "score": 25,
+          "comments": 19
+        },
+        {
+          "title": "Memory layout in Zig with formulas",
+          "url": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
+          "score": 91,
+          "comments": 23
         },
         {
           "title": "First Design Engineer Hire – Build Games at Gym Class (YC W22)",
@@ -86,76 +134,28 @@
           "comments": 0
         },
         {
-          "title": "JSON-render: LLM-based JSON-to-UI tool",
-          "url": "https://json-render.dev/",
-          "score": 53,
-          "comments": 11
+          "title": "Ask HN: Gmail spam filtering suddenly marking everything as spam?",
+          "url": "https://news.ycombinator.com/item?id=46744807",
+          "score": 163,
+          "comments": 102
         },
         {
           "title": "Small Kafka: Tansu and SQLite on a free t3.micro",
           "url": "https://blog.tansu.io/articles/broker-aws-free-tier",
-          "score": 52,
-          "comments": 4
+          "score": 72,
+          "comments": 10
         },
         {
-          "title": "I don't write code anymore – I sculpt it",
-          "url": "https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/",
-          "score": 8,
-          "comments": 0
+          "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
+          "url": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
+          "score": 182,
+          "comments": 58
         },
         {
-          "title": "Shared Claude: A website controlled by the public",
-          "url": "https://sharedclaude.com/",
-          "score": 34,
-          "comments": 13
-        },
-        {
-          "title": "Understanding Rust Closures",
-          "url": "https://antoine.vandecreme.net/blog/rust-closures/",
-          "score": 30,
-          "comments": 9
-        },
-        {
-          "title": "Maze Algorithms (2017)",
-          "url": "http://www.jamisbuck.org/mazes/",
-          "score": 83,
-          "comments": 24
-        },
-        {
-          "title": "High-bandwidth flash progress and future",
-          "url": "https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/",
-          "score": 3,
-          "comments": 0
-        },
-        {
-          "title": "Microservices for the Benefits, Not the Hustle (2023)",
-          "url": "https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3",
-          "score": 23,
-          "comments": 30
-        },
-        {
-          "title": "The Kept and the Killed (2022)",
-          "url": "https://publicdomainreview.org/essay/the-kept-and-the-killed/",
-          "score": 25,
-          "comments": 3
-        },
-        {
-          "title": "The Concatative Language XY",
-          "url": "http://www.nsl.com/k/xy/xy.txt",
+          "title": "Show HN: Semantic search engine for Studio Ghibli movie",
+          "url": "https://ghibli-search.anini.workers.dev/",
           "score": 35,
           "comments": 9
-        },
-        {
-          "title": "KAOS – The Kubernetes Agent Orchestration System",
-          "url": "https://github.com/axsaucedo/kaos",
-          "score": 8,
-          "comments": 3
-        },
-        {
-          "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
-          "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
-          "score": 412,
-          "comments": 270
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 89137,
-          "change_24h": -0.33,
-          "change_7d": -6.31,
-          "market_cap": 1780727908538
+          "price": 88756,
+          "change_24h": -0.94,
+          "change_7d": -6.7,
+          "market_cap": 1775394085314
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2951.0,
-          "change_24h": -0.01,
-          "change_7d": -10.63,
-          "market_cap": 356119264848
+          "price": 2939.39,
+          "change_24h": -0.53,
+          "change_7d": -11.32,
+          "market_cap": 355193235064
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 127.13,
-          "change_24h": -0.13,
-          "change_7d": -11.55,
-          "market_cap": 71955467061
+          "price": 126.68,
+          "change_24h": -0.67,
+          "change_7d": -11.27,
+          "market_cap": 71704582412
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.124008,
-          "change_24h": -0.29,
-          "change_7d": -9.98,
-          "market_cap": 20892722161
+          "price": 0.123179,
+          "change_24h": -0.94,
+          "change_7d": -10.35,
+          "market_cap": 20749585952
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.357584,
-          "change_24h": -0.57,
-          "change_7d": -9.77,
-          "market_cap": 13154995096
+          "price": 0.356131,
+          "change_24h": -0.99,
+          "change_7d": -9.88,
+          "market_cap": 13097239836
         }
       ]
     },
@@ -214,27 +214,32 @@
         {
           "name": "Nietzschean Penguin",
           "symbol": "PENGUIN",
-          "market_cap_rank": 351
+          "market_cap_rank": 386
+        },
+        {
+          "name": "Rain",
+          "symbol": "RAIN",
+          "market_cap_rank": 45
         },
         {
           "name": "Enso",
           "symbol": "ENSO",
-          "market_cap_rank": 781
+          "market_cap_rank": 728
+        },
+        {
+          "name": "Axie Infinity",
+          "symbol": "AXS",
+          "market_cap_rank": 177
         },
         {
           "name": "Somnia",
           "symbol": "SOMI",
-          "market_cap_rank": 634
+          "market_cap_rank": 618
         },
         {
-          "name": "River",
-          "symbol": "RIVER",
-          "market_cap_rank": 88
-        },
-        {
-          "name": "Seeker",
-          "symbol": "SKR",
-          "market_cap_rank": 311
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "PAX Gold",
@@ -242,24 +247,19 @@
           "market_cap_rank": 57
         },
         {
-          "name": "Linea",
-          "symbol": "LINEA",
-          "market_cap_rank": 396
-        },
-        {
-          "name": "Axie Infinity",
-          "symbol": "AXS",
-          "market_cap_rank": 164
-        },
-        {
-          "name": "Kaia",
-          "symbol": "KAIA",
-          "market_cap_rank": 142
+          "name": "Seeker",
+          "symbol": "SKR",
+          "market_cap_rank": 322
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
           "market_cap_rank": 137
+        },
+        {
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 5
         }
       ]
     },
@@ -268,45 +268,50 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "US Stock Markets End Week with Modest Losses Amid Volatility and Sector Rotation",
-          "summary": "Major US indexes closed the week of January 24, 2026 with small declines: S&P 500 -0.4%, Dow Jones -0.5%, Nasdaq -0.1%, Russell 2000 -0.3%, and S&P MidCap 400 -0.6%. The week featured sharp rotations, with energy and materials outperforming while tech and industrials faced pressure.",
-          "source": "Options Oracle / STL.News",
+          "title": "US Stock Markets End Week Lower with Major Indexes Posting Small Declines",
+          "summary": "The S&P 500 fell 0.4%, Dow Jones Industrial Average dropped 0.5%, Nasdaq Composite declined 0.1%, Russell 2000 lost 0.3%, and S&P MidCap 400 shed 0.6% as of Friday's close on January 24, 2026. Markets showed volatility with defensive sectors like energy and materials outperforming amid elevated yields and uncertainty.",
+          "source": "Options Oracle Substack",
           "url": "https://optionsoracle.substack.com/p/weekly-market-recap-saturday-january-cad"
         },
         {
-          "title": "Bank of America Warns of Major Stock Market Rotation Away from Tech Megacaps",
-          "summary": "Bank of America predicts a significant rotation in market leadership, with emerging markets and international stocks favored over traditional tech-dominated positions. Energy (XLE) is up 10.02% YTD while Technology (XLK) lags at 0.78% YTD through January 23, 2026.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/economy/bank-of-america-delivers-blunt-stock-market-warning-investors-cant-ignore"
+          "title": "Weekly Market Recap Highlights Sector Rotation and Volatility Spike",
+          "summary": "Friday saw sharp intraday swings with VIX jumping nearly 30%, tech and mega-caps leading downside, while energy, materials, and defensives held up; earlier relief came from Trump comments delaying February tariffs and steady inflation data.",
+          "source": "Options Oracle Substack",
+          "url": "https://optionsoracle.substack.com/p/weekly-market-recap-saturday-january-cad"
         },
         {
-          "title": "Russell 2000 Small-Cap Index Posts Historic Outperformance Streak",
-          "summary": "The Russell 2000 outperformed the S&P 500 for 14 consecutive trading sessions through January 23, 2026—the longest streak since May 1996—with seven record closing highs already achieved in 2026. Small-cap stocks have rallied since early November as value and cyclical stocks regain favor.",
-          "source": "MarketWatch/Morningstar",
+          "title": "STL.News Reports US Markets Pause Amid Defensive Shift and Sector Hesitation",
+          "summary": "All major US indexes closed the week modestly lower, with Dow underperforming due to financial and industrial weakness; Nasdaq outperformed on select tech gains, but investors rotated to defensives amid rate policy uncertainty.",
+          "source": "STL.News",
+          "url": "https://www.stl.news/us-stock-markets-end-week-lower-jan-24-2026/"
+        },
+        {
+          "title": "Natural Gas Futures Surge 62.6% in Record Three-Day Gain to $5.05",
+          "summary": "Front-month Nymex natural gas prices rocketed higher, catching speculators off guard after heavy net short positions; energy sector strength noted in broader market recaps.",
+          "source": "Morningstar / MarketWatch",
           "url": "https://www.morningstar.com/news/marketwatch/20260124141/these-4-charts-capture-the-whirlwind-action-in-global-markets-so-far-this-year"
         },
         {
-          "title": "Natural Gas Futures Surge 62.6% in Three Days on Record Move",
-          "summary": "Front-month natural gas futures (NGG26) jumped to $5.05 per million BTU in a three-day surge representing the largest three-day percentage gain on record, catching heavily net-short speculators off guard.",
-          "source": "MarketWatch/Morningstar",
+          "title": "Russell 2000 Small Caps Outperform S&P 500 for 14 Straight Sessions",
+          "summary": "Small-cap Russell 2000 has beaten S&P 500 for longest streak since 1996, hitting seven record highs in 2026 amid value and cyclical rotation; contrasts with large-cap tech volatility.",
+          "source": "Morningstar / MarketWatch",
           "url": "https://www.morningstar.com/news/marketwatch/20260124141/these-4-charts-capture-the-whirlwind-action-in-global-markets-so-far-this-year"
         },
         {
-          "title": "Stock Market Flashing Inflation Warning Signal in Early 2026",
-          "summary": "Market movements in the first few weeks of 2026 are signaling potential inflation concerns that could lead to a challenging year for investors.",
-          "source": "AOL",
-          "url": "https://www.aol.com/articles/stock-market-flashing-signal-inflation-103002672.html"
+          "title": "Japanese 40-Year Bond Yields Spike Above 4% in Historic Jump",
+          "summary": "Yields crossed 4% for first time with 29.7 basis point surge, largest one-day move since April, signaling global bond market turbulence.",
+          "source": "Morningstar / MarketWatch",
+          "url": "https://www.morningstar.com/news/marketwatch/20260124141/these-4-charts-capture-the-whirlwind-action-in-global-markets-so-far-this-year"
         }
       ],
       "citations": [
         "https://optionsoracle.substack.com/p/weekly-market-recap-saturday-january-cad",
         "https://www.stl.news/us-stock-markets-end-week-lower-jan-24-2026/",
-        "https://www.thestreet.com/economy/bank-of-america-delivers-blunt-stock-market-warning-investors-cant-ignore",
         "https://www.morningstar.com/news/marketwatch/20260124141/these-4-charts-capture-the-whirlwind-action-in-global-markets-so-far-this-year",
-        "https://www.aol.com/articles/stock-market-flashing-signal-inflation-103002672.html"
+        "https://www.investing.com/indices/us-spx-500-historical-data"
       ]
     },
     "crypto_news": {
@@ -317,42 +322,41 @@
       "count": 5,
       "items": [
         {
-          "title": "David Sacks Confirms CLARITY Act January 2026 Senate Markup",
-          "summary": "David Sacks confirmed the CLARITY Act (Digital Asset Market Clarity Act) is headed for Senate committee markup in January 2026, potentially ending SEC-CFTC jurisdictional disputes and enabling banks to fully enter crypto. Bitcoin and Ethereum rallied 10-20%, with altcoins like SOL, ADA, and AVAX outperforming as regulatory fears lift.[1]",
-          "source": "MEXC Blog",
-          "url": "https://blog.mexc.com/news/david-sacks-confirms-clarity-act-january-2026-markup-banks-will-fully-enter-crypto/"
+          "title": "XRP Falls 4.29% Weekly Amid Crypto Bill Delays and ETF Outflows",
+          "summary": "XRP declined 4.29% for the week ending January 25 as US Senate committees delayed progress on the Market Structure Bill. The token closed at $1.9136 on January 24, down from a January 6 high of $2.4151, reflecting investor sensitivity to regulatory developments.",
+          "source": "FX Empire",
+          "url": "https://www.fxempire.com/forecasts/article/xrp-news-today-etf-outflows-hit-xrp-as-crypto-bill-delays-bite-1574847"
         },
         {
-          "title": "Senate Agriculture Committee Releases Digital Commodity Exchange Act Draft",
-          "summary": "Galaxy Research's Alex Thorn announced a key Senate hearing on January 27 for the Digital Commodity Exchange Act draft, granting CFTC authority over spot crypto markets and set to merge with Banking Committee legislation for comprehensive market structure rules.[2]",
-          "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/01-24-2026-upcoming-senate-hearing-to-address-key-cryptocurrency-market-legislation-35522273833586"
+          "title": "Bitcoin Drops Below $89,000 USDT",
+          "summary": "Bitcoin fell below the $89,000 level, trading at $88,974.83 USDT on January 25 at 03:30 AM UTC, representing a 1.04% decline.",
+          "source": "Binance",
+          "url": "https://www.binance.com/en-BH/square/post/35543357624545"
         },
         {
-          "title": "$1.33B Outflows from Bitcoin ETFs Signal Institutional Retreat",
-          "summary": "Bitcoin ETFs saw $1.33B in exits, Ethereum ETFs $611M outflows, and XRP's spot ETF its first negative weekly netflow of $40.6M, amid capital shifting to precious metals despite rising global liquidity.[5]",
-          "source": "AMBCrypto",
-          "url": "https://ambcrypto.com/1-33b-exits-bitcoin-etfs-are-investors-done-with-risk-assets/"
+          "title": "Ethereum Mainnet Activity Surges but Shows Signs of Artificial Inflation",
+          "summary": "Ethereum's daily active addresses approached 1 million in January and briefly reached 1.3 million on January 16, driven by lower transaction fees. However, security researchers warn that address poisoning attacks are inflating the data, with attackers sending tiny stablecoin amounts to create fake addresses.",
+          "source": "CoinDesk/Token Terminal",
+          "url": "https://www.rootdata.com/news/518528"
         },
         {
-          "title": "XRP Eyes $3.84 All-Time High in 2026 with CLARITY Act and ETF Catalysts",
-          "summary": "Analysts outline four catalysts for XRP to reclaim its $3.84 ATH: CLARITY Act passage classifying it as a commodity, strong ETF inflows potentially locking 2.6B XRP, Ripple's RLUSD stablecoin growth, and sustained Bitcoin bullishness.[4]",
-          "source": "247 Wall St.",
-          "url": "https://247wallst.com/investing/2026/01/24/can-xrp-reclaim-3-84-all-time-high-in-2026-analysts-say-these-4-catalysts-must-align/"
+          "title": "South Korea Prepares Major Cryptocurrency Regulation Overhaul",
+          "summary": "South Korea's Financial Intelligence Unit is forming a task force to modernize anti-money-laundering rules for crypto, with a policy proposal expected by mid-2026. The changes would require sender and recipient information for all transfers, eliminating the current $700 threshold.",
+          "source": "The Cool Down",
+          "url": "https://www.thecooldown.com/green-business/south-korea-cryptocurrency-regulations-overhaul/"
         },
         {
-          "title": "Casterman Founder: 2026 Critical Turning Point for Crypto Infrastructure",
-          "summary": "Casterman founder André Casterman states 2026 marks a shift to building regulated financial infrastructure like tokenization, CBDCs, and stablecoins, with banks investing heavily post-legislation clarity.[3]",
-          "source": "RootData",
-          "url": "https://www.rootdata.com/news/518638"
+          "title": "Davos 2026 Highlights Crypto's Geopolitical Significance",
+          "summary": "The World Economic Forum's Davos 2026 event featured significant discussions on cryptocurrency within broader geopolitical and political contexts, demonstrating crypto's growing importance in global affairs.",
+          "source": "Brave New Coin",
+          "url": "https://bravenewcoin.com/insights/crypto-takeaways-from-davos-2026-where-politics-money-and-musk-collide"
         }
       ],
       "citations": [
-        "https://blog.mexc.com/news/david-sacks-confirms-clarity-act-january-2026-markup-banks-will-fully-enter-crypto/",
-        "https://www.binance.com/en/square/post/01-24-2026-upcoming-senate-hearing-to-address-key-cryptocurrency-market-legislation-35522273833586",
-        "https://www.rootdata.com/news/518638",
-        "https://247wallst.com/investing/2026/01/24/can-xrp-reclaim-3-84-all-time-high-in-2026-analysts-say-these-4-catalysts-must-align/",
-        "https://ambcrypto.com/1-33b-exits-bitcoin-etfs-are-investors-done-with-risk-assets/",
+        "https://www.fxempire.com/forecasts/article/xrp-news-today-etf-outflows-hit-xrp-as-crypto-bill-delays-bite-1574847",
+        "https://www.rootdata.com/news/518528",
+        "https://www.thecooldown.com/green-business/south-korea-cryptocurrency-regulations-overhaul/",
+        "https://www.binance.com/en-BH/square/post/35543357624545",
         "https://bravenewcoin.com/insights/crypto-takeaways-from-davos-2026-where-politics-money-and-musk-collide"
       ]
     },
@@ -365,10 +369,10 @@
       "items": [],
       "citations": [
         "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+        "https://www.jamaicaobserver.com/2026/01/25/ais-threat-labour/",
         "https://www.futureventures.ca/insights/ai-risks-and-opportunities-for-corporations-an-in-depth-guide",
-        "https://www.eff.org/deeplinks/2026/01/search-engines-ai-and-long-fight-over-fair-use",
-        "https://www.sasktoday.ca/agriculture/machine-learning-and-ai-the-future-of-drought-monitoring-in-canada-11756340",
-        "https://www.weforum.org/stories/emerging-technologies/"
+        "https://www.newindianexpress.com/good-news/2026/Jan/25/wings-of-fire-to-fly-high-in-ai",
+        "https://www.indiatoday.in/education-today/featurephilia/story/will-skills-not-degrees-decide-who-stays-employable-in-the-ai-era-2857222-2026-01-25"
       ]
     },
     "gaming": {
@@ -376,41 +380,36 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Over 20 Games Announced for Xbox Release Next Week (Jan 26-30)",
-          "summary": "Upcoming Xbox releases include Highguard on January 26, a PvP raid shooter from Apex Legends creators; Our Adventurer Guild and Speedball on January 27; Drop Duchy on January 28; and Code Vein 2 on January 29. Xbox Game Pass adds five new titles, including Warhammer 40,000: Space Marine 2.",
+          "title": "20+ Games Coming to Xbox Next Week (January 26-30)",
+          "summary": "Xbox is releasing over 20 games in the coming week, including five new Xbox Game Pass titles. Notable releases include Code Vein 2 and free-to-play shooter Highguard.",
           "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/features/these-20plus-games-are-coming-to-xbox-next-week-january-26-30"
+          "url": "https://www.purexbox.com"
         },
         {
-          "title": "New Free Games Roundup for Weekend of January 24-25, 2026",
-          "summary": "Comprehensive list of new free-to-keep games and free-to-play titles available this weekend across PC, Xbox, PlayStation, and mobile platforms.",
-          "source": "GG.deals",
-          "url": "https://gg.deals/freebie/new-free-games-this-weekend-january-24-25-2026-your-comprehensive-roundup/"
-        },
-        {
-          "title": "Xbox Staff Share Weekend Gaming Plans After Busy Week",
-          "summary": "Xbox writers discuss playing Resident Evil 4 DLC, Test Drive Unlimited Solar Crown, Fable series, Rhythm Doctor, Star Wars Outlaws, and Death Stranding Director's Cut, inspired by recent Game Pass additions and Microsoft's Developer Direct.",
+          "title": "Xbox Exec Explains Day-One PS5 Release Strategy",
+          "summary": "An Xbox executive discussed why some first-party games launch simultaneously on PS5 while others don't, citing development realities and team size. Fable is confirmed for day-one PS5 release, while Forza Horizon 6 won't arrive on PlayStation until later in 2026.",
           "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-january-24-25"
+          "url": "https://www.purexbox.com/news/2026/01/xbox-exec-explains-why-some-games-are-day-one-for-ps5-and-others-arent"
         },
         {
-          "title": "Strategicon Announces Orccon 2026 Pre-Registration Starts January 24",
-          "summary": "Pre-registration for Orccon 2026 gaming convention opens today at noon PST, following sold-out room blocks announced earlier.",
-          "source": "Strategicon",
-          "url": "https://www.strategicon.net"
+          "title": "Undertale Available at 75% Discount on Steam",
+          "summary": "The highly-rated indie game Undertale is currently discounted to $2.49 on Steam, representing a 75% reduction from its regular price.",
+          "source": "GG.Deals",
+          "url": "https://gg.deals/deal/this-undertale-steam-discount-drops-the-indie-great-to-just-249/"
         }
       ],
       "citations": [
-        "https://www.purexbox.com/features/these-20plus-games-are-coming-to-xbox-next-week-january-26-30",
-        "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-january-24-25",
+        "https://www.purexbox.com",
+        "https://www.purexbox.com/news/2026/01/xbox-exec-explains-why-some-games-are-day-one-for-ps5-and-others-arent",
+        "https://boards.4chan.org/vg/thread/555055019",
         "https://gg.deals/freebie/new-free-games-this-weekend-january-24-25-2026-your-comprehensive-roundup/",
-        "https://www.purplerow.com/this-week-in-purple/79265/this-week-in-purple-rockies-festivus-for-the-rest-of-us",
         "https://www.youtube.com/watch?v=nKtAp6G6Jac",
         "https://www.interlochenpublicradio.org/show/music-by-request/2026-01-24/music-by-request-january-24-25-2026",
-        "https://www.strategicon.net"
+        "https://www.youtube.com/user/NBA",
+        "https://gg.deals/deal/this-undertale-steam-discount-drops-the-indie-great-to-just-249/"
       ]
     },
     "tech_news": {
@@ -418,41 +417,12 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "DiDi and GAC Aion Launch Next-Generation Robotaxi R2",
-          "summary": "DiDi Autonomous Driving and Guangzhou Automobile Group's Aion officially delivered their new-generation robotaxi, the R2, equipped with advanced systems to process 360-degree environmental data in real time. The vehicles have secured road test licenses for Guangzhou.",
-          "source": "City News Service",
-          "url": "https://www.citynewsservice.cn/articles/weekend-buzz-24-25-january-2026-zmz8p8wm"
-        },
-        {
-          "title": "Blockchain Security Research Advances Smart Device Protection",
-          "summary": "Researchers have identified ways blockchain could significantly enhance smart device security, though data sharing limitations have previously hindered adoption of the technology.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/news/"
-        },
-        {
-          "title": "Astronomers Reveal Detailed Radio Image of Milky Way",
-          "summary": "A groundbreaking new radio image provides unprecedented detail of the Milky Way galaxy using low-frequency radio wavelengths to map its structure.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/news/"
-        },
-        {
-          "title": "Keyera Completes $5.15 Billion Acquisition of Canadian NGL Business",
-          "summary": "Keyera is set to become a national-scale natural gas liquids company in 2026 following its acquisition of Plains All American Pipeline LP's Canadian NGL business, positioning strategically important energy infrastructure under Canadian ownership.",
-          "source": "Motley Fool Canada",
-          "url": "https://www.fool.ca/2026/01/24/got-1000-2-pipeline-stocks-to-buy-and-hold-forever/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.citynewsservice.cn/articles/weekend-buzz-24-25-january-2026-zmz8p8wm",
-        "https://www.sciencedaily.com/news/",
-        "https://www.globalgoodnews.com",
-        "https://www.fool.ca/2026/01/24/got-1000-2-pipeline-stocks-to-buy-and-hold-forever/",
+        "https://en.wikipedia.org/wiki/Portal:Current_events",
         "https://anchorchange.substack.com/p/your-strategic-calendar-for-2026",
-        "https://www.denvergazette.com/2026/01/24/trump-threatens-canada-with-a-100-tariff-over-its-china-trade-deal-and-escalates-feud-with-carney/",
-        "https://www.mining.com/web/mining-stocks-on-cusp-of-supercycle-as-ai-boom-stokes-metals/"
+        "https://www.denvergazette.com/2026/01/24/trump-threatens-canada-with-a-100-tariff-over-its-china-trade-deal-and-escalates-feud-with-carney/"
       ]
     }
   }
