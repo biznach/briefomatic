@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:06:46.479832+00:00",
-  "generated_at_human": "2026-01-25 18:06 UTC",
+  "generated_at": "2026-01-26T00:22:34.965241+00:00",
+  "generated_at_human": "2026-01-26 00:22 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "First, make me care",
+          "url": "https://gwern.net/blog/2026/make-me-care",
+          "score": 264,
+          "comments": 93
+        },
+        {
           "title": "A macOS app that blurs your screen when you slouch",
           "url": "https://github.com/tldev/posturr",
-          "score": 201,
-          "comments": 82
+          "score": 441,
+          "comments": 156
         },
         {
-          "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
-          "url": "https://www.diljitpr.net/blog-post-postgresql-dlq",
-          "score": 48,
-          "comments": 13
+          "title": "Case study: Creative math – How AI fakes proofs",
+          "url": "https://tomaszmachnik.pl/case-study-math-en.html",
+          "score": 15,
+          "comments": 5
         },
         {
-          "title": "ICE Using Palantir Tool That Feeds on Medicaid Data",
-          "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-          "score": 74,
-          "comments": 6
+          "title": "Show HN: A small programming language where everything is a value",
+          "url": "https://github.com/Jcparkyn/herd",
+          "score": 16,
+          "comments": 0
         },
         {
-          "title": "A flawed paper in Management Science has been cited more than 6,000 times",
-          "url": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
-          "score": 475,
-          "comments": 249
+          "title": "Oneplus phone update introduces hardware anti-rollback",
+          "url": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
+          "score": 315,
+          "comments": 136
+        },
+        {
+          "title": "Spanish track was fractured before high-speed train disaster, report finds",
+          "url": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
+          "score": 119,
+          "comments": 103
+        },
+        {
+          "title": "I was right about ATProto key management",
+          "url": "https://notes.nora.codes/atproto-again/",
+          "score": 99,
+          "comments": 56
         },
         {
           "title": "Doom has been ported to an earbud",
           "url": "https://doombuds.com",
-          "score": 167,
-          "comments": 46
+          "score": 320,
+          "comments": 102
+        },
+        {
+          "title": "The behavioral cost of personalized pricing",
+          "url": "https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing",
+          "score": 43,
+          "comments": 19
+        },
+        {
+          "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+          "url": "https://www.diljitpr.net/blog-post-postgresql-dlq",
+          "score": 152,
+          "comments": 48
+        },
+        {
+          "title": "A flawed paper in management science has been cited more than 6k times",
+          "url": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
+          "score": 607,
+          "comments": 322
+        },
+        {
+          "title": "The '3.5% rule': How a small minority can change the world (2019)",
+          "url": "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world",
+          "score": 140,
+          "comments": 113
+        },
+        {
+          "title": "Bitwise conversion of doubles using only FP multiplication and addition (2020)",
+          "url": "https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/",
+          "score": 13,
+          "comments": 0
+        },
+        {
+          "title": "Show HN: An interactive map of US lighthouses and navigational aids",
+          "url": "https://www.lighthouses.app/",
+          "score": 17,
+          "comments": 4
         },
         {
           "title": "Web-based image editor modeled after Deluxe Paint",
           "url": "https://github.com/steffest/DPaint-js",
-          "score": 73,
-          "comments": 6
+          "score": 167,
+          "comments": 15
         },
         {
-          "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
-          "url": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
-          "score": 458,
-          "comments": 451
+          "title": "Infinite pancakes, anyone?",
+          "url": "https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html",
+          "score": 14,
+          "comments": 3
+        },
+        {
+          "title": "Ask HN: How do you keep system context from rotting over time?",
+          "url": "https://news.ycombinator.com/item?id=46693985",
+          "score": 25,
+          "comments": 26
+        },
+        {
+          "title": "ICE using Palantir tool that feeds on Medicaid data",
+          "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+          "score": 813,
+          "comments": 466
         },
         {
           "title": "Introduction to PostgreSQL Indexes",
           "url": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
-          "score": 198,
-          "comments": 11
+          "score": 280,
+          "comments": 14
+        },
+        {
+          "title": "Optimizing GPU Programs from Java Using Babylon and Hat",
+          "url": "https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul",
+          "score": 21,
+          "comments": 2
         },
         {
           "title": "Show HN: Bonsplit – Tabs and splits for native macOS apps",
           "url": "https://bonsplit.alasdairmonk.com",
-          "score": 125,
-          "comments": 17
-        },
-        {
-          "title": "World’s most powerful literary critic is on TikTok",
-          "url": "https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok",
-          "score": 4,
-          "comments": 2
-        },
-        {
-          "title": "ANN v3: 200ms p99 query latency over 100B vectors",
-          "url": "https://turbopuffer.com/blog/ann-v3",
-          "score": 71,
-          "comments": 20
-        },
-        {
-          "title": "Show HN: TUI for managing XDG default applications",
-          "url": "https://github.com/mitjafelicijan/xdgctl",
-          "score": 68,
-          "comments": 21
+          "score": 193,
+          "comments": 26
         },
         {
           "title": "Show HN: Netfence – Like Envoy for eBPF Filters",
           "url": "https://github.com/danthegoodman1/netfence",
-          "score": 20,
-          "comments": 1
-        },
-        {
-          "title": "Jurassic Park - Tablet device on Nedry's desk? (2012)",
-          "url": "https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/",
-          "score": 109,
-          "comments": 39
-        },
-        {
-          "title": "Nango (YC W23, Dev Infrastructure) Is Hiring Remotely",
-          "url": "https://jobs.ashbyhq.com/Nango",
-          "score": 1,
-          "comments": 0
-        },
-        {
-          "title": "Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux",
-          "url": "https://www.phoronix.com/news/Wine-Staging-11.1",
-          "score": 68,
-          "comments": 4
-        },
-        {
-          "title": "Social Dynamics at Arm's Length",
-          "url": "https://www.jenn.site/social-truths-at-arms-length/",
-          "score": 6,
-          "comments": 0
-        },
-        {
-          "title": "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
-          "url": "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/",
-          "score": 115,
-          "comments": 53
-        },
-        {
-          "title": "The Rebirth of Pennsylvania's Infamous Burning Town",
-          "url": "https://www.atlasobscura.com/articles/centralia-pennsylvania-rebirth",
-          "score": 44,
-          "comments": 19
-        },
-        {
-          "title": "Bridging the Gap Between PLECS and SPICE",
-          "url": "https://erickschulz.dev/posts/plecs-spice/",
-          "score": 20,
+          "score": 38,
           "comments": 6
         },
         {
-          "title": "A Lament for Aperture",
-          "url": "https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/",
-          "score": 186,
-          "comments": 48
+          "title": "LED lighting undermines visual performance unless supplemented by wider spectra",
+          "url": "https://www.nature.com/articles/s41598-026-35389-6",
+          "score": 48,
+          "comments": 21
         },
         {
-          "title": "BU-808: How to Prolong Lithium-based Batteries (2023)",
-          "url": "https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/",
-          "score": 54,
-          "comments": 25
+          "title": "Hackable personal news reader in bash pipes",
+          "url": "https://github.com/haron/news.sh",
+          "score": 16,
+          "comments": 5
         },
         {
-          "title": "Sony Data Discman",
-          "url": "https://huguesjohnson.com/random/sony-ebook/",
-          "score": 64,
-          "comments": 9
-        },
-        {
-          "title": "Back to Bellevue",
-          "url": "https://theamericanscholar.org/back-to-bellevue/",
-          "score": 9,
-          "comments": 0
-        },
-        {
-          "title": "FAA institutes nationwide drone no-fly zones around ICE operations",
-          "url": "https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs",
-          "score": 91,
-          "comments": 55
+          "title": "Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions",
+          "url": "https://github.com/Use-Tusk/fence",
+          "score": 59,
+          "comments": 14
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 87768,
-          "change_24h": -1.65,
-          "change_7d": -7.74,
-          "market_cap": 1752852895794
+          "price": 86968,
+          "change_24h": -2.4,
+          "change_7d": -7.12,
+          "market_cap": 1729625211880
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2878.68,
-          "change_24h": -2.73,
-          "change_7d": -13.62,
-          "market_cap": 347562048727
+          "price": 2833.47,
+          "change_24h": -4.0,
+          "change_7d": -13.66,
+          "market_cap": 339530607746
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 121.99,
-          "change_24h": -3.97,
-          "change_7d": -14.1,
-          "market_cap": 69097827885
+          "price": 119.42,
+          "change_24h": -5.99,
+          "change_7d": -13.49,
+          "market_cap": 67553739745
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.120512,
-          "change_24h": -2.74,
-          "change_7d": -11.85,
-          "market_cap": 20330819951
+          "price": 0.120072,
+          "change_24h": -3.08,
+          "change_7d": -12.75,
+          "market_cap": 20091130639
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.341196,
-          "change_24h": -4.7,
-          "change_7d": -12.84,
-          "market_cap": 12583791343
+          "price": 0.341322,
+          "change_24h": -4.48,
+          "change_7d": -9.26,
+          "market_cap": 12457344089
         }
       ]
     },
@@ -214,32 +214,12 @@
         {
           "name": "Caldera",
           "symbol": "ERA",
-          "market_cap_rank": 784
-        },
-        {
-          "name": "Seeker",
-          "symbol": "SKR",
-          "market_cap_rank": 366
-        },
-        {
-          "name": "Rain",
-          "symbol": "RAIN",
-          "market_cap_rank": 45
-        },
-        {
-          "name": "Nietzschean Penguin",
-          "symbol": "PENGUIN",
-          "market_cap_rank": 477
+          "market_cap_rank": 805
         },
         {
           "name": "River",
           "symbol": "RIVER",
-          "market_cap_rank": 77
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "market_cap_rank": 76
         },
         {
           "name": "Bitcoin",
@@ -252,14 +232,34 @@
           "market_cap_rank": 56
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 138
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
         },
         {
-          "name": "Monero",
-          "symbol": "XMR",
-          "market_cap_rank": 21
+          "name": "Seeker",
+          "symbol": "SKR",
+          "market_cap_rank": 368
+        },
+        {
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 5
+        },
+        {
+          "name": "Nietzschean Penguin",
+          "symbol": "PENGUIN",
+          "market_cap_rank": 472
+        },
+        {
+          "name": "Axie Infinity",
+          "symbol": "AXS",
+          "market_cap_rank": 197
+        },
+        {
+          "name": "Beam",
+          "symbol": "BEAM",
+          "market_cap_rank": 337
         }
       ]
     },
@@ -271,48 +271,51 @@
       "count": 6,
       "items": [
         {
-          "title": "Trump's Greenland Acquisition Threats Trigger US Stock Sell-Off",
-          "summary": "US equities declined sharply with the S&P 500 down 1.2% midday after Donald Trump's statements on acquiring Greenland and escalated tariff threats against European nations. Wall Street saw opening bell sell-offs, marking the worst S&P 500 session since October 2025 on January 20.",
-          "source": "Share Talk",
-          "url": "https://www.share-talk.com/share-talk-weekly-stock-market-news-review-sunday-25th-january-2026/"
+          "title": "US Stock Indexes Mixed in Early 2026 Trading",
+          "summary": "The Dow Jones fell 0.6% to 49,098.71 while the Nasdaq rose 0.3% to 23,501.24; S&P 500 up 1% year-to-date amid high valuations above 22 times earnings and focus on AI investment returns.",
+          "source": "Economic Times",
+          "url": "https://economictimes.com/news/international/us/us-stock-market-outlook-sp-500-dow-jones-nasdaq-trade-will-be-driven-by-these-pivotal-factors-details-here/articleshow/127491280.cms"
         },
         {
-          "title": "UK Inflation Rises Unexpectedly in December, FTSE Slides on Weak Labour Data",
-          "summary": "UK headline inflation rose more than expected due to higher cigarette prices and airfares, while FTSE 100 fell 0.8% to 10,116.14 amid weak labour market data.",
-          "source": "Share Talk",
-          "url": "https://www.share-talk.com/share-talk-weekly-stock-market-news-review-sunday-25th-january-2026/"
+          "title": "S&P 500 Consolidates Near All-Time Highs Around 7,000",
+          "summary": "S&P 500 tests resistance at 6,980-7,000 after late-2025 rally, with support at 6,805-6,836; market awaits catalysts like Fed policy amid bullish momentum since May 2025.",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/can-sp-500-bull-run-continue-2026"
         },
         {
-          "title": "Major Indexes End Week Lower Ahead of Fed Meeting and Tech Earnings",
-          "summary": "Dow Jones fell 0.5%, S&P 500 down 0.4%, and Nasdaq Composite off 0.1% for the week ending January 23, marking the second consecutive down week. Investors await Fed announcements and earnings from Microsoft, Meta, Tesla, and Apple this week.",
-          "source": "Morningstar / MarketWatch",
-          "url": "https://www.morningstar.com/news/marketwatch/20260125132/heres-what-investors-want-even-more-than-a-fed-interest-rate-cut-this-week"
+          "title": "Stock Market Signals Warn of Surging Inflation in 2026",
+          "summary": "Rotation to value stocks, small-caps, and energy/materials (up 9% YTD) echoes pre-2022 inflation trends; JPMorgan sees no Fed cuts in 2026, possible hike in 2027 despite market expectations.",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/markets/emerging-markets/26/01/50118000/stock-market-indicators-warn-of-surging-inflation-in-2026"
         },
         {
-          "title": "Semiconductor Equipment Stocks Surge Double-Digits in 2026 YTD",
-          "summary": "Every stock in the S&P 500 semiconductor equipment group is up double-digits YTD, led by Lam Research (+33.4%), Applied Materials (+26.6%), and KLA (+25.1%), boosted by TSMC's capex announcement and AI trends.",
-          "source": "Finviz",
-          "url": "https://finviz.com/news/286283/every-stock-in-this-index-group-is-up-double-digits-in-2026"
+          "title": "Fed Rate Decision Looms on January 28",
+          "summary": "FOMC expected to hold rates at 3.75%; markets focus on Powell's guidance on inflation, labor, and rate path amid upcoming data like Durable Goods Orders on Jan 26 and Core PPI on Jan 30.",
+          "source": "MQL5",
+          "url": "https://www.mql5.com/en/blogs/post/767022"
         },
         {
-          "title": "Indian Markets Volatile on Global Trade Tensions and Adani Declines",
-          "summary": "Sensex and Nifty50 slid nearly 1% on January 23 amid US tariff threats and Adani Group declines from US SEC headlines, though they rallied earlier on diplomatic shifts.",
-          "source": "Boston Institute of Analytics",
-          "url": "https://bostoninstituteofanalytics.org/blog/week-in-finance-market-volatility-geopolitical-risks-davos-dialogue-and-what-it-means-for-your-finance-skill-set-week-3-18-24-january-2026/"
+          "title": "US Final GDP Beats Expectations at 4.4%",
+          "summary": "Q4 GDP revised higher to 4.4% annualized vs. 4.3% expected, but had limited market impact as Russell 2000 rose strongly in January while S&P 500 traded sideways.",
+          "source": "DailyForex",
+          "url": "https://www.dailyforex.com/forex-technical-analysis/2026/01/weekly-forex-forecast-25th-to-30th-january-2026/240203"
         },
         {
-          "title": "Gold Prices Hit $4,970/oz Amid Geopolitical Uncertainty",
-          "summary": "Spot gold rose to $4,970 per ounce on Thursday evening as safe-haven demand increased due to US threats over Greenland and tariff escalations.",
-          "source": "Share Talk",
-          "url": "https://www.share-talk.com/share-talk-weekly-stock-market-news-review-sunday-25th-january-2026/"
+          "title": "Multiple Companies Announce Reverse Stock Splits for Nasdaq Compliance",
+          "summary": "C3is (1-for-20), 22nd Century (1-for-15), and another firm execute reverse splits effective January 26 to meet minimum bid price requirements.",
+          "source": "TipRanks",
+          "url": "https://www.tipranks.com/news/upcoming-stock-splits-this-week-january-26-to-january-30-stay-invested"
         }
       ],
       "citations": [
-        "https://www.share-talk.com/share-talk-weekly-stock-market-news-review-sunday-25th-january-2026/",
-        "https://finviz.com/news/286283/every-stock-in-this-index-group-is-up-double-digits-in-2026",
-        "https://www.morningstar.com/news/marketwatch/20260125132/heres-what-investors-want-even-more-than-a-fed-interest-rate-cut-this-week",
-        "https://bostoninstituteofanalytics.org/blog/week-in-finance-market-volatility-geopolitical-risks-davos-dialogue-and-what-it-means-for-your-finance-skill-set-week-3-18-24-january-2026/",
-        "https://ca.investing.com/news/stock-market-news/here-are-the-top-four-bluechip-stocks-to-buy-in-2026-according-to-warrenai-4417613"
+        "https://economictimes.com/news/international/us/us-stock-market-outlook-sp-500-dow-jones-nasdaq-trade-will-be-driven-by-these-pivotal-factors-details-here/articleshow/127491280.cms",
+        "https://www.businesstimes.com.sg/companies-markets/can-sp-500-bull-run-continue-2026",
+        "https://www.mql5.com/en/blogs/post/767022",
+        "https://www.benzinga.com/markets/emerging-markets/26/01/50118000/stock-market-indicators-warn-of-surging-inflation-in-2026",
+        "https://www.dailyforex.com/forex-technical-analysis/2026/01/weekly-forex-forecast-25th-to-30th-january-2026/240203",
+        "https://www.tipranks.com/news/upcoming-stock-splits-this-week-january-26-to-january-30-stay-invested",
+        "https://www.morningstar.com/news/dow-jones/20260125710/week-ahead-for-fx-bonds-fed-rate-decision-in-focus",
+        "https://www.mosaicassetco.com/p/the-market-mosaic-12526"
       ]
     },
     "crypto_news": {
@@ -320,50 +323,47 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Global Crypto Market Cap Drops 1.07% to $2.99T Amid Broad Declines",
-          "summary": "The total cryptocurrency market capitalization fell 1.07% over the last 24 hours to $2.99T, with Bitcoin trading down 1.30% at $88,455 after fluctuating between $88,136 and $89,676. Major coins like Ethereum (-0.87%), BNB (-1.33%), and XRP (-1.29%) also declined, while outperformers included NOM (+115%), ZKC (+70%), and ENSO (+69%).",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/01-25-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-25-2026-35554409470689"
+          "title": "Bitcoin Falls Below $88,000 USD with 1.59% 24-Hour Decline",
+          "summary": "BTC/USDT dropped to $87,970, marking a 1.59% decline over the past 24 hours according to Gate market data. Earlier reports noted BTC briefly breaking through $88,000 before falling back.",
+          "source": "RootData / ChainCatcher",
+          "url": "https://www.rootdata.com/news/519391"
         },
         {
-          "title": "Brazil's Central Bank Releases Guidelines for Crypto Businesses",
-          "summary": "Brazil's Central Bank has issued new guidelines for cryptocurrency businesses, marking a step toward regulated operations in the country.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/01-25-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-25-2026-35554409470689"
+          "title": "Ethereum Drops Below $2,900, Erasing 16% of January Gains as Whales Accumulate",
+          "summary": "ETH slipped below $3,000 and further to under $2,900, entering volatile consolidation after a 16% drop in January 2026 gains. Whale accumulation and a bullish pennant pattern on the monthly timeframe suggest potential breakout if support holds.",
+          "source": "ChainCatcher / AMBCrypto",
+          "url": "https://ambcrypto.com/ethereum-whales-accumulate-as-eth-drops-16-breakout-only-if/"
         },
         {
-          "title": "U.S. Senate Bill Proposes CFTC Oversight of Spot Crypto Markets",
-          "summary": "A new U.S. Senate bill aims to place spot cryptocurrency markets under the oversight of the Commodity Futures Trading Commission (CFTC), with an upcoming hearing to address key legislation.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/01-25-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-25-2026-35554409470689"
+          "title": "BlockDAG Presale Nears January 26 Closure with Over $441M Raised and 50x ROI Promised",
+          "summary": "BlockDAG (BDAG) has raised over $441 million in its presale, with 3.5 billion tokens left at $0.003 before the January 26, 2026 cutoff, promising a fixed 50x return to $0.05 listing on February 16. The project highlights its hybrid DAG+PoW tech, 1,400 TPS, and institutional backing amid high demand.",
+          "source": "MEXC / AInvest / Live Bitcoin News",
+          "url": "https://www.mexc.co/news/555810"
         },
         {
-          "title": "Oklahoma Bill Proposes Bitcoin Payments for State Employees and Businesses",
-          "summary": "Legislation in Oklahoma seeks to allow Bitcoin payments for state employees and businesses, promoting crypto adoption at the state level.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/01-25-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-25-2026-35554409470689"
+          "title": "Binance Founder CZ Discusses Prison, Pardon, and 2026 Bitcoin Super Cycle at Davos",
+          "summary": "Post-prison and after a pardon from President Trump, CZ Zhao shared reflections on Binance, industry regulation, and predicted a Bitcoin super cycle in 2026 during a Davos interview. He emphasized crypto's four-year cycles and U.S. policy impacts.",
+          "source": "CNBC Squawk Pod",
+          "url": "https://www.youtube.com/watch?v=-P_JxHFZkJc"
         },
         {
-          "title": "Crypto Dispensers Sets New Standard for Regulated Cash-to-Bitcoin Infrastructure",
-          "summary": "Crypto Dispensers, under Virtual Assets, Inc., highlighted its compliant cash-to-Bitcoin platform amid past legal challenges related to a prior entity, emphasizing ongoing operations and partnerships with banks and retail chains.",
-          "source": "Business Insider",
-          "url": "https://markets.businessinsider.com/news/currencies/crypto-dispensers-under-virtual-assets-inc-sets-new-standard-for-regulated-cash-to-bitcoin-infrastructure-1035743574"
-        },
-        {
-          "title": "Analysts Predict Bitcoin Could Double to $200K, Ethereum and XRP to Skyrocket in 2026",
-          "summary": "Experts forecast Bitcoin reaching $200,000 due to institutional adoption, Ethereum benefiting from DeFi and RWA tokenization, and XRP potentially hitting $8 amid Ripple strategies.",
-          "source": "Nasdaq",
-          "url": "https://www.nasdaq.com/articles/these-3-cryptocurrencies-could-skyrocket-2026"
+          "title": "ZachXBT Links $40M U.S. Government Crypto Theft Suspect to CMDSS CEO's Son",
+          "summary": "Investigator ZachXBT identified the suspect in a $40 million on-chain asset theft from the U.S. government as potentially the son of CMDSS CEO, with the hacker reportedly flaunting stolen wealth.",
+          "source": "ChainCatcher",
+          "url": "https://www.rootdata.com/news/519391"
         }
       ],
       "citations": [
-        "https://www.binance.com/en/square/post/01-25-2026-binance-market-update-top-crypto-bitcoin-ethereum-and-altcoin-news-january-25-2026-35554409470689",
-        "https://www.nasdaq.com/articles/these-3-cryptocurrencies-could-skyrocket-2026",
-        "https://markets.businessinsider.com/news/currencies/crypto-dispensers-under-virtual-assets-inc-sets-new-standard-for-regulated-cash-to-bitcoin-infrastructure-1035743574",
-        "https://www.aol.com/articles/3-cryptocurrencies-could-skyrocket-2026-073300577.html"
+        "https://www.mexc.co/news/555810",
+        "https://www.ainvest.com/news/blockdag-dominates-2026-presale-landscape-act-2601/",
+        "https://www.mexc.com/news/550846",
+        "https://www.rootdata.com/news/519391",
+        "https://www.youtube.com/watch?v=-P_JxHFZkJc",
+        "https://ambcrypto.com/ethereum-whales-accumulate-as-eth-drops-16-breakout-only-if/",
+        "https://coinmarketcal.com/en/news/bitcoin-trades-bleed-cash-during-these-toxic-hours-because-market-depth-is-a-total-illusion-right-now"
       ]
     },
     "ai_news": {
@@ -374,44 +374,45 @@
       "count": 5,
       "items": [
         {
-          "title": "ISTA Secures €5 Million Donation from Garrett Camp for Trustworthy AI Research",
-          "summary": "The Institute of Science and Technology Austria (ISTA) received a €5 million donation from Garrett Camp to advance research in reliable, sustainable, and causal AI, including work on AlphaFold3 integration and privacy-preserving language models by researchers like Christoph Lampert, Dan Alistarh, and Francesco Locatello.",
-          "source": "Quantum Zeitgeist",
-          "url": "https://quantumzeitgeist.com/ista-ai-research-garrett-camp-ai-funding/"
-        },
-        {
-          "title": "Study Shows AI Matches Average Human Creativity, Lags Behind Top Humans",
-          "summary": "A large-scale study from Université de Montréal compared leading LLMs like GPT-4, Claude, and Gemini against 100,000 humans on creativity tasks, finding AI now outperforms average human levels but falls short of the most creative individuals; published January 21, 2026.",
-          "source": "ScienceDaily",
-          "url": "http://www.sciencedaily.com/releases/2026/01/260125083356.htm"
+          "title": "HKU Researchers Unveil ClairS-TO and Clair3-RNA for Advanced Cancer Genomics",
+          "summary": "University of Hong Kong engineers have developed two deep-learning algorithms, ClairS-TO and Clair3-RNA, enhancing genetic mutation detection in tumor-only samples and long-read RNA sequencing for precision medicine. The tools, published in Nature Communications, improve accuracy in cancer diagnosis and genomic research.[1]",
+          "source": "Mirage News",
+          "url": "https://www.miragenews.com/ai-tools-revolutionize-cancer-diagnosis-genomic-1607422/"
         },
         {
           "title": "Northeastern University Launches London AI Tech Hub with IBM Collaboration",
-          "summary": "Northeastern's new London campus hub focuses on next-gen AI hardware with IBM, AI misbehavior detection in LLMs like ChatGPT, neuromorphic and quantum computing, and efficient LLM accelerators funded by ERC and UK ARIA.",
-          "source": "Northeastern News",
+          "summary": "Northeastern's new London campus hub focuses on next-gen AI hardware with IBM, AI misbehavior detection in LLMs like ChatGPT, neuromorphic and quantum computing, and efficient LLM accelerators funded by UK ARIA.[2]",
+          "source": "Northeastern Global News",
           "url": "https://news.northeastern.edu/2026/01/25/ai-communications-tech-hub-london/"
         },
         {
-          "title": "AI Lacrosse Coach Platform Launches for 24/7 Player Development",
-          "summary": "AILacrosseCoach.com debuted a generative AI platform offering instant tactical analysis, positional training, and recruiting insights for lacrosse players ahead of the 2026 season, with a pilot for youth programs.",
-          "source": "Beauregard News",
-          "url": "https://smb.beauregardnews.com/article/AI-Lacrosse-Coach-Launches-to-Revolutionize-Player-Development-with-the-Worlds-First-247-AI-Virtual-Machine-Learning-AI-Coach?storyId=6975cfac97562a0002bea6cc"
+          "title": "Grab Acquires Chinese AI Robotics Startup Infermove for Delivery Automation",
+          "summary": "Southeast Asian superapp Grab has acquired Infermove to boost AI-driven robotics for first- and last-mile delivery, using imitation and reinforcement learning from rider data to navigate complex environments.[3]",
+          "source": "BusinessWorld",
+          "url": "https://www.bworldonline.com/sparkup/2026/01/26/726134/grab-acquires-chinese-ai-robotics-startup-infermove/"
         },
         {
-          "title": "Dynamic Risk Deploys AI for Fleet Safety with Machine Vision",
-          "summary": "Dynamic Risk introduced an AI solution combining machine vision and cloud cameras for enhanced fleet safety monitoring, announced January 25, 2026.",
-          "source": "Safety+Health Magazine",
-          "url": "https://www.safetyandhealthmagazine.com/topics/1562-ai-solutions"
+          "title": "LangChain Introduces Insights Agents for Scaling AI Agent Behavior Analysis",
+          "summary": "LangChain launches 'insights agents' tooling to trace, diagnose, and analyze AI agent behavior beyond standard metrics, critical for reliable scaling of agents in knowledge work.[4]",
+          "source": "GAI Insights",
+          "url": "https://gaiinsights.substack.com/p/the-future-of-enterprise-software"
+        },
+        {
+          "title": "Indian Navy Deploys AI-ML Systems in First Operational Use on INS Surat",
+          "summary": "INS Surat, India's first AI-integrated warship, successfully tested AI tools for surveillance, threat assessment, and decision-making during Operation Sindoor, paving way for predictive maintenance and training.[6]",
+          "source": "Sunday Guardian",
+          "url": "https://sundayguardianlive.com/news/ai-ml-gives-new-operational-edge-to-indian-navy-166326/"
         }
       ],
       "citations": [
-        "https://quantumzeitgeist.com/ista-ai-research-garrett-camp-ai-funding/",
-        "http://www.sciencedaily.com/releases/2026/01/260125083356.htm",
+        "https://www.miragenews.com/ai-tools-revolutionize-cancer-diagnosis-genomic-1607422/",
         "https://news.northeastern.edu/2026/01/25/ai-communications-tech-hub-london/",
-        "https://www.safetyandhealthmagazine.com/topics/1562-ai-solutions",
-        "https://www.databank.com/resources/blogs/exploring-ai-use-cases-in-the-data-center-industry/",
-        "https://smb.beauregardnews.com/article/AI-Lacrosse-Coach-Launches-to-Revolutionize-Player-Development-with-the-Worlds-First-247-AI-Virtual-Machine-Learning-AI-Coach?storyId=6975cfac97562a0002bea6cc",
-        "https://www.hifa.org/dgroups-rss/joint-statement-responsible-use-artificial-intelligence-evidence-synthesis"
+        "https://www.bworldonline.com/sparkup/2026/01/26/726134/grab-acquires-chinese-ai-robotics-startup-infermove/",
+        "https://gaiinsights.substack.com/p/the-future-of-enterprise-software",
+        "https://www.thenationalnews.com/arts-culture/film-tv/2026/01/25/mercy-director-ai-is-learning-from-us-at-our-worst-we-must-show-it-our-best/",
+        "https://sundayguardianlive.com/news/ai-ml-gives-new-operational-edge-to-indian-navy-166326/",
+        "https://nadzweb.com/2026/01/ais-double-edged-sword-from-davos-boasting-to-data-integrity-nightmares/",
+        "https://dailypioneer.com/news/ai-the-human-brain-and-the-environmental-cost-of-convenience"
       ]
     },
     "gaming": {
@@ -422,44 +423,42 @@
       "count": 5,
       "items": [
         {
-          "title": "Six New Demos Added to Xbox in 2026, Including Major Titles",
-          "summary": "Xbox has released six new game demos so far in 2026, with major additions including Yakuza Kiwami 3 & Dark Tides, Code Vein 2, and Dragon Quest VII Reimagined. Some demos allow progress to carry over to the full game.",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/01/six-new-demos-have-been-added-to-xbox-in-2026-so-far-including-three-major-ones"
+          "title": "Bandai Namco Announces New Dragon Ball Game Project 'AGE 1000' for 2027",
+          "summary": "Bandai Namco revealed a new Dragon Ball game titled 'AGE 1000' in development for about 6-7 years with heavy involvement from Akira Toriyama, featuring a never-before-seen world and characters, set for release in 2027. Additional details will be shared at Dragon Ball Games Battle Hour 2026 in April, alongside new DLC announcements for DRAGON BALL: Sparking! ZERO including 'Mission 100' mode launching January 26.",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/01/bandai-namco-announces-new-dragon-ball-game-project-age-1000"
         },
         {
-          "title": "20+ Games Coming to Xbox Next Week (January 26-30)",
-          "summary": "Xbox is releasing over 20 games in the coming week, with highlights including Code Vein 2 and free-to-play shooter Highguard, plus five new Xbox Game Pass titles.",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news"
+          "title": "Epic Games and Google Sign $800 Million Six-Year Unreal Engine Deal",
+          "summary": "Epic Games and Google have entered a reported $800 million six-year agreement for Unreal Engine and related services, including joint marketing efforts, as part of Epic's growth plans without special treatment for the Epic Game Store.",
+          "source": "Gaming Hardcore",
+          "url": "https://www.youtube.com/watch?v=eZ-kzHw4P6k"
         },
         {
-          "title": "10 Games Joining Xbox Game Pass (January 21 - February 3)",
-          "summary": "Microsoft announced 10 new titles for Xbox Game Pass through early February, including major additions like Space Marine 2, Death Stranding, and Ninja Gaiden Ragebound.",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news"
+          "title": "Garena Unveils 2026 Free Fire Esports Roadmap",
+          "summary": "Garena announced its 2026 esports roadmap for Free Fire, outlining plans for competitive events and developments in the battle royale title's esports scene.",
+          "source": "Gaming Hardcore",
+          "url": "https://www.youtube.com/watch?v=eZ-kzHw4P6k"
         },
         {
-          "title": "Fallout 1 and 2 Free for Prime Gaming Subscribers",
-          "summary": "Prime Gaming subscribers can claim Fallout 1 and Fallout 2 for free until January 26.",
-          "source": "GG.deals",
-          "url": "https://gg.deals/subscription-news/two-fallout-games-are-free-until-tomorrow-for-prime-gaming-subscribers/"
+          "title": "Multiple Game Launches and Updates: Duet Night Abyss, Arknights Endfield, Snowbreak 3.5, Wuthering Waves 3.1",
+          "summary": "Recent gaming updates include launches and major patches for Duet Night Abyss, Arknights Endfield, Snowbreak Containment Zone version 3.5, and Wuthering Waves version 3.1, with a full release schedule for titles from January 26-29.",
+          "source": "Gaming Hardcore",
+          "url": "https://www.youtube.com/watch?v=eZ-kzHw4P6k"
         },
         {
-          "title": "LA Kings Defeat St. Louis Blues 5-4 in Shootout",
-          "summary": "The Los Angeles Kings earned consecutive victories with a 5-4 shootout win over the St. Louis Blues on January 24, with Trevor Moore scoring a crucial goal in his return from injury.",
-          "source": "NHL.com",
-          "url": "https://www.nhl.com/kings/news/1-24-26-final-kings-5-blues-4-so"
+          "title": "New Emulation Hardware from Anbernic, TRIMUI, and Mangmi",
+          "summary": "Anbernic introduced the RG01 alongside new emulation devices from TRIMUI and Mangmi, highlighting advancements in portable retro gaming hardware.",
+          "source": "Gaming Hardcore",
+          "url": "https://www.youtube.com/watch?v=eZ-kzHw4P6k"
         }
       ],
       "citations": [
-        "https://www.purexbox.com/news",
-        "https://www.purexbox.com/news/2026/01/six-new-demos-have-been-added-to-xbox-in-2026-so-far-including-three-major-ones",
-        "https://gg.deals/subscription-news/two-fallout-games-are-free-until-tomorrow-for-prime-gaming-subscribers/",
-        "http://www.espn.com/video/archive",
-        "https://www.nhl.com/kings/news/1-24-26-final-kings-5-blues-4-so",
-        "https://www.nhl.com/kings/video/lak-at-stl-recap-6388267385112",
-        "https://gg.deals/deal/the-50-best-steam-deals-of-this-week-january-19-25/"
+        "https://www.youtube.com/watch?v=eZ-kzHw4P6k",
+        "https://www.nintendolife.com/news/2026/01/bandai-namco-announces-new-dragon-ball-game-project-age-1000",
+        "https://www.mediapost.com/publications/article/412286/hyundai-makes-everyday-epic-with-palisade-creati.html?edition=141357",
+        "https://hebontheweb.blog/2026/01/25/trivia-plans-week-of-january-26-2026/",
+        "https://www.crunchyroll.com/news/latest/2026/1/25/new-dragon-ball-game-project-age-1000-revealed-for-2027"
       ]
     },
     "tech_news": {
@@ -467,27 +466,41 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 4,
       "items": [
         {
-          "title": "Toyota Recalls 162,000 Pickup Trucks Over Faulty Multimedia Displays",
-          "summary": "Toyota announced a recall of about 162,000 pickup trucks in the United States due to multimedia displays that could compromise driver safety.",
-          "source": "ABC News",
-          "url": "https://abcnews.go.com/Technology"
+          "title": "CrowdStrike and Nord Security Announce SMB Cybersecurity Partnership",
+          "summary": "CrowdStrike and Nord Security have launched a strategic partnership combining CrowdStrike’s Falcon platform with Nord’s secure access and credential management to bolster cybersecurity for small-to-medium businesses amid rising threats.",
+          "source": "Channel Impact",
+          "url": "https://www.channel-impact.com/monday-morning-impact-january-26/"
         },
         {
-          "title": "The Sun Releases Largest Solar Particle Event Towards Earth Since 2003",
-          "summary": "The Sun has unleashed the largest solar particle event directed at Earth since the 2003 Halloween solar storms, marking a significant space weather development.",
-          "source": "Wikipedia Current Events / CNN",
-          "url": "https://en.wikipedia.org/wiki/Portal:Current_events"
+          "title": "Netskope Releases 2026 Cloud and Threat Report Highlighting Cybersecurity Trends",
+          "summary": "Netskope unveiled its 2026 Cloud and Threat Report, analyzing key cybersecurity trends from the prior year and previewing enterprise risks, noting a threefold rise in SaaS genAI app usage and doubled incidents of sensitive data exposure.",
+          "source": "Channel Impact",
+          "url": "https://www.channel-impact.com/monday-morning-impact-january-26/"
+        },
+        {
+          "title": "Cloudflare’s 2026 App Innovation Report Reveals Modernization Gap",
+          "summary": "Cloudflare published its 2026 App Innovation Report based on a survey of 2,351 APAC leaders, finding that modernized applications make companies three times more likely to achieve AI returns, with 93% citing software updates as key to boosting capabilities.",
+          "source": "CDO Trends",
+          "url": "https://www.cdotrends.com/story/4867/modernization-gap-nobodys-talking-about"
+        },
+        {
+          "title": "CompTIA Reports U.S. Tech Hiring Remains Flat in December",
+          "summary": "CompTIA analysis of U.S. Bureau of Labor Statistics data shows technology employment stayed neutral in December, with tech companies cutting 1,461 positions across technical and non-technical roles.",
+          "source": "Channel Impact",
+          "url": "https://www.channel-impact.com/monday-morning-impact-january-26/"
         }
       ],
       "citations": [
-        "https://www.einpresswire.com/calendar/2026/01/25",
-        "https://abcnews.go.com/Technology",
-        "https://en.wikipedia.org/wiki/Portal:Current_events",
-        "https://www.globalgoodnews.com",
-        "https://www.fool.ca/2026/01/25/1-mid-cap-stock-will-stand-head-and-shoulders-above-the-energy-giants-in-2026/"
+        "https://siliconangle.com/2026/01/25/enterprise-technology-predictions-whats-coming-2026/",
+        "https://www.channel-impact.com/monday-morning-impact-january-26/",
+        "https://www.morningstar.com/news/marketwatch/20260125143/these-5-tech-stocks-could-be-big-winners-this-earnings-season",
+        "https://dataconnectors.substack.com/p/dc-top-articles-posted-week-of-january-0b5",
+        "https://www.cdotrends.com/story/4867/modernization-gap-nobodys-talking-about",
+        "https://www.bbh.com/us/en/insights/blog/mind-on-the-markets/Drivers-for-the-Week-of-January-26-2026.html",
+        "https://www.techbuzz.ai/newsletters/signalpulse-88d9-post_6e26a9af-fc04-4734-95c0-0776c497dc6e"
       ]
     }
   }
