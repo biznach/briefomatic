@@ -1,28 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-01-27 00:22 UTC*
+*Generated: 2026-01-27 06:08 UTC*
 
-**Market Overview**
-The US stock market rallied ahead of the FOMC meeting, with the Dow Jones rising 0.68%, S&P 500 up 0.63%, and Nasdaq 100 gaining 0.59%. Gold surged past $5,000 per ounce for the first time amid geopolitical tensions. The US dollar fell more than 3% since Friday following speculation over potential yen-buying intervention. In the crypto market, the global market cap dropped 1.11% to $2.99T, with Bitcoin down 0.73% and major coins like ETH and SOL also declining.
+Here is a concise executive briefing based on the provided raw news and market data:
 
-**Tech & AI**
-Notable tech developments include Apple introducing a new AirTag with longer range and improved findability, and Intel's stock falling 17% on weak AI chip guidance. Additionally, Tesla's share price rose 4% after CEO Elon Musk announced full self-driving approval is expected in Europe and China by February. ChatGPT containers can now run bash, pip/npm install packages, and download files. There is also speculation about an AI code review bubble.
+1. **Market Overview**: The US stock market rose on January 27, with the S&P 500 gaining 0.37% and the Dow Jones adding 0.4%. The crypto market saw significant movements, with Bitcoin facing selling pressure and Binance experiencing large weekly outflows. The global market is eyeing the upcoming Fed meeting, with odds favoring steady rates but a possible 25bp cut.
 
-**Gaming & Entertainment**
-No significant gaming news was reported in the provided data.
+2. **Tech & AI**: Notable tech developments include Apple's introduction of a new AirTag with longer range and improved findability, and ChatGPT's ability to run bash, pip/npm install packages, and download files. In AI news, NTT DATA released its Technology Foresight Report 2026, highlighting six key AI trends, including human-orchestrated autonomy and embodied agency with emotions.
 
-**Key Insights**
-* The US stock market is experiencing a rally ahead of the FOMC meeting, driven by tech strength and safe-haven demand.
-* Gold has surged past $5,000 per ounce for the first time amid geopolitical tensions.
-* The crypto market has experienced a decline in market cap, with Bitcoin and major coins like ETH and SOL down.
-* Notable tech developments include advancements in AI, autonomous vehicles, and smartphone technology.
-* Regulatory news in the crypto space includes the rescheduling of a joint event on crypto regulatory harmonization and Japan's plans to legalize crypto ETFs by 2028.
+3. **Gaming & Entertainment**: Television is celebrating its 100th anniversary, and there are notable developments in the gaming industry, including the launch of TetrisBench, which reached a 66% win rate on Tetris against Opus. Additionally, startup ZBD raised $40 million to develop crypto-based payment models for video games.
 
-**Watch List**
-* FOMC meeting and policy decision
-* Federal Reserve Chair announcement
-* Earnings reports from major tech companies
-* Crypto regulatory developments, including the CFTC and SEC joint event
-* Gold and silver prices amid ongoing geopolitical tensions
-* Bitcoin and crypto market movements
-* Advancements in AI, autonomous vehicles, and smartphone technology
+4. **Key Insights**:
+* The crypto market is experiencing significant volatility, with Bitcoin facing selling pressure and Binance seeing large weekly outflows.
+* The upcoming Fed meeting is likely to have a significant impact on the global market, with odds favoring steady rates but a possible 25bp cut.
+* AI trends are shifting towards human-orchestrated autonomy and embodied agency with emotions, emphasizing mass intelligence and business strategies for AI adaptation.
+* The gaming industry is exploring new payment models, including crypto-based payments, which could potentially disrupt traditional payment systems.
+* Regulatory uncertainty in the crypto space continues, with the Clarity Act stalled in Senate sub-committees due to disputes over stablecoin yield rules.
+
+5. **Watch List**: 
+* Fed meeting and potential rate cut
+* Crypto market volatility and regulatory developments
+* AI trends and breakthroughs, particularly in human-orchestrated autonomy and embodied agency
+* Gaming industry developments, including crypto-based payment models
+* Apple's new AirTag and its potential impact on the tech industry
