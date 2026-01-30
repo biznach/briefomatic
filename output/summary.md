@@ -1,26 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-01-30 06:17 UTC*
+*Generated: 2026-01-30 12:11 UTC*
 
-**Market Overview**
-Major US stock indexes were mixed on Thursday, with the S&P 500 falling 0.1% to 6,969.01, while the Dow rose 0.1% to 49,071.56. The Nasdaq dropped 0.7% to 23,685.12. In the crypto market, Bitcoin plunged below $82,000, down about 30% from its October 2025 all-time high, with the total crypto market cap falling 6% to $2.8 trillion. Ethereum and Solana also saw significant declines.
+Here is your executive briefing for January 30, 2026:
 
-**Tech & AI**
-Notable tech and AI developments include the release of Grid, a free, local-first, browser-based 3D printing/CNC/laser slicer, and Project Genie, an experiment with infinite, interactive worlds by Google DeepMind. Additionally, Apple acquired Israeli audio AI startup Q.ai, and researchers developed new light-emitting artificial neurons enabling scalable 3D AI networks.
+1. **Market Overview**: Major U.S. indices finished mixed after Microsoft's disappointing earnings, with the S&P 500 falling 0.1%, the Dow rising 0.1%, and the Nasdaq declining 0.7%. The crypto market experienced a sharp sell-off, with $1.68 billion in liquidations and Bitcoin dropping to $83K. Key cryptocurrencies such as Ethereum, Solana, and Dogecoin also saw significant declines.
 
-**Gaming & Entertainment**
-The PlayStation 2 Recompilation Project has been making waves, with many considering it "absolutely incredible." This project aims to recompile and preserve classic PlayStation 2 games, making them playable on modern hardware.
+2. **Tech & AI**: Researchers developed new light-emitting artificial neurons, enabling scalable 3D AI neural networks. The global AI chip market is projected to reach $118 billion by 2030, driven by AI adoption in various industries. CIOs are shifting their AI agenda toward financial responsibility and regulation, prioritizing compliance and redesigning software engineering with AI agents.
 
-**Key Insights**
-* The crypto market is experiencing a significant selloff, with Bitcoin and other major cryptocurrencies seeing substantial declines.
-* The US stock market is volatile, with major indexes seeing mixed movements amid tech earnings and AI valuation concerns.
-* AI research and development are advancing rapidly, with breakthroughs in areas like artificial neurons and audio processing.
-* Regulatory signals are bullish for crypto, with the SEC and CFTC chairs signaling growth and pension fund access.
-* Insurers are expected to boost AI investment in 2026, with 90% planning to increase their investment, according to Accenture.
+3. **Gaming & Entertainment**: GOG announced that Linux is the "next major frontier" for gaming, as it works on a native client. Netflix Animation Studios joined the Blender Development Fund as a corporate patron, and the PlayStation 2 Recompilation Project was highlighted as a notable gaming development.
 
-**Watch List**
-* Bitcoin and crypto market movements
-* US stock market indexes, particularly the S&P 500 and Nasdaq
-* AI and machine learning developments, including new model releases and research breakthroughs
-* Regulatory updates on crypto and AI
-* Earnings reports from major tech companies, including Microsoft and Meta Platforms
+4. **Key Insights**:
+* The crypto market is experiencing significant volatility, with $1.68 billion in liquidations and major price movements.
+* AI adoption is driving growth in the AI chip market, with a projected value of $118 billion by 2030.
+* CIOs are prioritizing financial responsibility and regulation in their AI agendas, amid market corrections and enforcement of the AI Act.
+* Tech earnings are driving market volatility, with Microsoft's disappointing earnings and Meta's strong performance.
+* The development of new AI technologies, such as light-emitting artificial neurons, is enabling advancements in AI hardware and neural networks.
+
+5. **Watch List**: 
+* Bitcoin and Ethereum price movements, as $8.8 billion in options expire on January 30, 2026.
+* The announcement of the next Federal Reserve Chair and its potential impact on crypto markets.
+* The development of new AI technologies and their potential applications in various industries.
+* The growth of the AI chip market and its key players.
+* The performance of major tech companies, including Microsoft, Meta, and Apple, and their impact on the market.
