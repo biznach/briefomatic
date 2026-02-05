@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T00:25:51.208021+00:00",
-  "generated_at_human": "2026-02-05 00:25 UTC",
+  "generated_at": "2026-02-05T06:22:11.610845+00:00",
+  "generated_at_human": "2026-02-05 06:22 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "When internal hostnames are leaked to the clown",
+          "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+          "score": 56,
+          "comments": 15
+        },
+        {
           "title": "Voxtral Transcribe 2",
           "url": "https://mistral.ai/news/voxtral-transcribe-2",
-          "score": 679,
-          "comments": 167
+          "score": 829,
+          "comments": 206
         },
         {
-          "title": "As Rocks May Think",
-          "url": "https://evjang.com/2026/02/04/rocks.html",
-          "score": 30,
-          "comments": 7
+          "title": "Postgres Postmaster does not scale",
+          "url": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
+          "score": 68,
+          "comments": 22
         },
         {
-          "title": "Claude Code: connect to a local model when your quota runs out",
-          "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-          "score": 163,
-          "comments": 69
+          "title": "A few CPU hardware bugs",
+          "url": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
+          "score": 19,
+          "comments": 3
         },
         {
-          "title": "Claude Code for Infrastructure",
-          "url": "https://www.fluid.sh/",
-          "score": 122,
-          "comments": 102
-        },
-        {
-          "title": "Remarkable Pro Colors",
-          "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
-          "score": 44,
-          "comments": 17
-        },
-        {
-          "title": "AI is killing B2B SaaS",
-          "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
-          "score": 193,
-          "comments": 328
-        },
-        {
-          "title": "Building a 24-bit arcade CRT display adapter from scratch",
-          "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-          "score": 109,
-          "comments": 29
+          "title": "ICE seeks industry input on ad tech location data for investigative use",
+          "url": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
+          "score": 88,
+          "comments": 20
         },
         {
           "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
           "url": "https://sqldef.github.io/",
-          "score": 23,
-          "comments": 4
+          "score": 120,
+          "comments": 31
         },
         {
-          "title": "Tractor",
-          "url": "https://incoherency.co.uk/blog/stories/tractor.html",
-          "score": 137,
-          "comments": 45
+          "title": "Claude Code: connect to a local model when your quota runs out",
+          "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+          "score": 245,
+          "comments": 125
+        },
+        {
+          "title": "OpenClaw is what Apple intelligence should have been",
+          "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+          "score": 255,
+          "comments": 233
+        },
+        {
+          "title": "Why S7 Scheme? (2020)",
+          "url": "https://iainctduncan.github.io/scheme-for-max-docs/s7.html",
+          "score": 10,
+          "comments": 3
+        },
+        {
+          "title": "AI is killing B2B SaaS",
+          "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
+          "score": 302,
+          "comments": 454
+        },
+        {
+          "title": "Claude Code for Infrastructure",
+          "url": "https://www.fluid.sh/",
+          "score": 192,
+          "comments": 143
+        },
+        {
+          "title": "A case study in PDF forensics: The Epstein PDFs",
+          "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
+          "score": 268,
+          "comments": 148
+        },
+        {
+          "title": "Remarkable Pro Colors",
+          "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
+          "score": 90,
+          "comments": 32
+        },
+        {
+          "title": "Building a 24-bit arcade CRT display adapter from scratch",
+          "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+          "score": 147,
+          "comments": 42
         },
         {
           "title": "Microsoft's Copilot chatbot is running into problems",
           "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
-          "score": 89,
-          "comments": 122
+          "score": 180,
+          "comments": 205
         },
         {
-          "title": "A real-world benchmark for AI code review",
-          "url": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
-          "score": 32,
-          "comments": 13
+          "title": "Listen to Understand",
+          "url": "https://talk.bradwoods.io/blog/listen-to-understand/",
+          "score": 28,
+          "comments": 3
         },
         {
-          "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
-          "url": "https://arxiv.org/abs/2602.00294",
-          "score": 144,
-          "comments": 79
-        },
-        {
-          "title": "A sane but bull case on Clawdbot / OpenClaw",
-          "url": "https://brandon.wang/2026/clawdbot",
-          "score": 234,
-          "comments": 375
-        },
-        {
-          "title": "RS-SDK: Drive RuneScape with Claude Code",
-          "url": "https://github.com/MaxBittker/rs-sdk",
-          "score": 91,
-          "comments": 34
-        },
-        {
-          "title": "Data Poems",
-          "url": "https://dr.eamer.dev/datavis/poems/",
-          "score": 18,
-          "comments": 4
-        },
-        {
-          "title": "Arcan-A12: Weaving a Different Web",
-          "url": "https://www.divergent-desktop.org/blog/2026/01/26/a12web/",
-          "score": 45,
-          "comments": 14
-        },
-        {
-          "title": "Coding Agent VMs on NixOS with Microvm.nix",
-          "url": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
-          "score": 78,
-          "comments": 37
-        },
-        {
-          "title": "The Codex app illustrates the shift left of IDEs and coding GUIs",
-          "url": "https://www.benshoemaker.us/writing/codex-app-launch/",
-          "score": 54,
-          "comments": 115
-        },
-        {
-          "title": "Claude is a space to think",
-          "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-          "score": 337,
-          "comments": 180
-        },
-        {
-          "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
-          "url": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
-          "score": 68,
-          "comments": 57
-        },
-        {
-          "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
-          "url": "https://www.runconverge.com/careers/product-engineer",
-          "score": 1,
+          "title": "Wirth's Revenge",
+          "url": "https://jmoiron.net/blog/wirths-revenge/",
+          "score": 5,
           "comments": 0
         },
         {
-          "title": "Tell HN: Another round of Zendesk email spam",
-          "url": "https://news.ycombinator.com/item?id=46890418",
-          "score": 66,
-          "comments": 24
+          "title": "An interactive version of Byrne's The Elements of Euclid (1847)",
+          "url": "https://c82.net/euclid/",
+          "score": 11,
+          "comments": 1
         },
         {
-          "title": "Litestream Writable VFS",
-          "url": "https://fly.io/blog/litestream-writable-vfs/",
-          "score": 16,
-          "comments": 13
+          "title": "Child prodigies rarely become elite performers",
+          "url": "https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers",
+          "score": 91,
+          "comments": 71
         },
         {
-          "title": "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
-          "url": "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management",
-          "score": 25,
-          "comments": 14
+          "title": "Why more companies are recognizing the benefits of keeping older employees",
+          "url": "https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/",
+          "score": 91,
+          "comments": 32
         },
         {
           "title": "The Great Unwind",
           "url": "https://occupywallst.com/yen",
-          "score": 222,
-          "comments": 168
+          "score": 231,
+          "comments": 185
+        },
+        {
+          "title": "Lily Programming Language",
+          "url": "https://lily-lang.org",
+          "score": 30,
+          "comments": 23
+        },
+        {
+          "title": "Tractor",
+          "url": "https://incoherency.co.uk/blog/stories/tractor.html",
+          "score": 167,
+          "comments": 52
+        },
+        {
+          "title": "Sam Altman Responds to Anthropic Ad Campaign",
+          "url": "https://twitter.com/i/status/2019139174339928189",
+          "score": 53,
+          "comments": 31
+        },
+        {
+          "title": "How not to securely erase a NVME drive (2022)",
+          "url": "https://peterbabic.dev/blog/how-not-to-securely-erase-nvme-drive/",
+          "score": 43,
+          "comments": 32
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 72962,
-          "change_24h": -3.79,
-          "change_7d": -18.18,
-          "market_cap": 1451632446018
+          "price": 70381,
+          "change_24h": -7.87,
+          "change_7d": -20.07,
+          "market_cap": 1408430053717
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2151.19,
-          "change_24h": -4.14,
-          "change_7d": -28.45,
-          "market_cap": 257572109869
+          "price": 2081.19,
+          "change_24h": -8.22,
+          "change_7d": -29.36,
+          "market_cap": 252021339632
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 92.01,
-          "change_24h": -5.63,
-          "change_7d": -26.69,
-          "market_cap": 52114189357
+          "price": 89.97,
+          "change_24h": -7.51,
+          "change_7d": -26.93,
+          "market_cap": 51085178602
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.103475,
-          "change_24h": -2.3,
-          "change_7d": -17.44,
-          "market_cap": 17433630895
+          "price": 0.101227,
+          "change_24h": -6.29,
+          "change_7d": -16.81,
+          "market_cap": 17129410174
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.286018,
-          "change_24h": -2.15,
-          "change_7d": -20.05,
-          "market_cap": 10491494853
+          "price": 0.280723,
+          "change_24h": -6.04,
+          "change_7d": -19.78,
+          "market_cap": 10341415180
         }
       ]
     },
@@ -212,14 +212,14 @@
       "count": 10,
       "items": [
         {
-          "name": "Checkmate",
-          "symbol": "CHECK",
-          "market_cap_rank": 858
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Checkmate",
+          "symbol": "CHECK",
+          "market_cap_rank": 842
         },
         {
           "name": "Hyperliquid",
@@ -227,14 +227,19 @@
           "market_cap_rank": 15
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Linea",
+          "symbol": "LINEA",
+          "market_cap_rank": 365
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 108
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 5
         },
         {
           "name": "Ethereum",
@@ -242,24 +247,19 @@
           "market_cap_rank": 2
         },
         {
-          "name": "Zama",
-          "symbol": "ZAMA",
-          "market_cap_rank": 406
-        },
-        {
-          "name": "Ondo",
-          "symbol": "ONDO",
-          "market_cap_rank": 61
-        },
-        {
           "name": "Sui",
           "symbol": "SUI",
-          "market_cap_rank": 27
+          "market_cap_rank": 26
         },
         {
           "name": "River",
           "symbol": "RIVER",
-          "market_cap_rank": 152
+          "market_cap_rank": 153
+        },
+        {
+          "name": "Zama",
+          "symbol": "ZAMA",
+          "market_cap_rank": 419
         }
       ]
     },
@@ -271,40 +271,39 @@
       "count": 5,
       "items": [
         {
-          "title": "US Stock Market Mixed as Tech Sell-Off Continues",
-          "summary": "The S&P 500 hovered near flatline while the Nasdaq slipped 0.3% on February 4, 2026, as concerns over AI-driven disruption extended the tech sector weakness. The Dow gained 280 points, with energy, consumer staples, and health leading gains.",
-          "source": "Trading Economics / NYSE",
-          "url": "https://tradingeconomics.com/united-states/stock-market"
+          "title": "Indian Sensex Slips Over 350 Points as Markets Pause Amid RBI Rate Decision Wait",
+          "summary": "BSE Sensex fell over 350 points and Nifty traded in a narrow range on Wednesday, pausing after a rally from the India-US trade deal, as investors await RBI interest rate decision on Friday. Asian markets dropped, with MSCI Asia ex-Japan down 1.8% and Nikkei falling 1%.",
+          "source": "Economic Times",
+          "url": "https://economictimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-itc-hotels-tata-capitals-share-price-05-february-2026/liveblog/127921873.cms"
         },
         {
-          "title": "AMD Stock Plunges Despite Beating Earnings Expectations",
-          "summary": "AMD shares fell approximately 15% in early trading on February 4 despite beating earnings estimates and providing above-guidance forecasts, triggering broad weakness in the semiconductor sector with the ICE Semi index down roughly 5%.",
-          "source": "NYSE",
-          "url": "https://www.nyse.com/index"
+          "title": "US Stock Market Trades at 5% Discount to Fair Value, Growth and Small-Caps Attractive",
+          "summary": "As of January 29, 2026, the US equity market is at a 5% discount to Morningstar's fair value estimates, with growth stocks and small-caps especially attractive amid fair value increases in commodities and late-cycle tech. Technology sector deepened to 16% discount while consumer defensive rose to 17% premium.",
+          "source": "Morningstar",
+          "url": "https://www.morningstar.com.au/markets/us-stock-market-outlook-where-we-see-investing-opportunities-february"
         },
         {
-          "title": "Major Tech Earnings Expected: Alphabet and Amazon on Deck",
-          "summary": "Alphabet and Amazon are scheduled to report earnings on February 4-5, 2026, following a volatile week for the technology sector amid renewed concerns about AI-driven market disruption.",
-          "source": "NYSE",
-          "url": "https://www.nyse.com/index"
+          "title": "S&P 500 Software Sector Erases $830 Billion in Value Amid Six-Session Decline",
+          "summary": "S&P 500 software and services index fell another 0.73% on Wednesday after a 4% rout on Tuesday, marking six straight declines and wiping out $830 billion since January 28 due to high valuations and rotation out of tech.",
+          "source": "Economic Times",
+          "url": "https://economictimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-itc-hotels-tata-capitals-share-price-05-february-2026/liveblog/127921873.cms"
         },
         {
-          "title": "Treasury Market Reacts to Refunding Schedule",
-          "summary": "Long-end Treasury yields rose approximately 2 basis points following the release of the detailed Treasury refunding schedule on February 4, as markets assess potential duration increases.",
-          "source": "NYSE",
-          "url": "https://www.nyse.com/index"
+          "title": "Mixed Global Futures Signals: S&P 500 Up, Hang Seng Down Ahead of Asian Open",
+          "summary": "S&P 500 futures rose 0.3%, Japan's Topix up 0.4%, but Hang Seng futures fell 1.2%, Australia's ASX 200 down 0.2%, and Euro Stoxx 50 futures off 0.1%, reflecting cautious sentiment.",
+          "source": "Economic Times",
+          "url": "https://economictimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-itc-hotels-tata-capitals-share-price-05-february-2026/liveblog/127921873.cms"
         },
         {
-          "title": "Key Economic Data Scheduled for Next Week",
-          "summary": "The BLS will publish the delayed JOLTS report on February 11 at 10 AM EST, followed by the January employment report and CPI data on February 11 and 13, respectively.",
-          "source": "NYSE",
-          "url": "https://www.nyse.com/index"
+          "title": "Bank of Japan Bond Yield Spike Triggers Global Volatility, US Stocks Dip 2% Then Recover",
+          "summary": "Mid-January spike in Japanese government bond yields caused risk-off sentiment, sending US stocks down 2%, but apparent intervention calmed markets; expected higher volatility in 2026.",
+          "source": "Morningstar",
+          "url": "https://www.morningstar.com.au/markets/us-stock-market-outlook-where-we-see-investing-opportunities-february"
         }
       ],
       "citations": [
-        "https://tradingeconomics.com/united-states/stock-market",
-        "https://www.nyse.com/index",
-        "https://www.investing.com/indices/us-30-historical-data"
+        "https://economictimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-itc-hotels-tata-capitals-share-price-05-february-2026/liveblog/127921873.cms",
+        "https://www.morningstar.com.au/markets/us-stock-market-outlook-where-we-see-investing-opportunities-february"
       ]
     },
     "crypto_news": {
@@ -315,37 +314,34 @@
       "count": 4,
       "items": [
         {
-          "title": "Bitcoin Plunges to $73,320 Amid Market Volatility",
-          "summary": "Bitcoin declined approximately 3.6% on February 4, 2026, trading around $73,320 as the broader cryptocurrency market experienced significant losses following recent liquidation cascades.",
-          "source": "AI Agents Directory",
-          "url": "https://aiagentsdirectory.com/blog/bitcoin-and-crypto-markets-tumble-on-february-4-key-factors-behind-the-decline"
+          "title": "Crypto Market Loses $500 Billion in Week as Bitcoin Plummets 20%",
+          "summary": "The cryptocurrency market shed nearly $500 billion in value over the past week, with Bitcoin falling approximately 20% and Ethereum declining 29.32%. The global crypto market capitalization dropped 6.47% to $2.42 trillion, driven by geopolitical tensions and cautious buyer sentiment despite the U.S. government ending its partial shutdown.",
+          "source": "Economic Times",
+          "url": "https://economictimes.com/markets/cryptocurrency/crypto-market-wipes-out-500-billion-in-a-week-as-bitcoin-drops-7-in-a-day/articleshow/127924957.cms"
         },
         {
-          "title": "Crypto Market Crash Wipes $111 Billion in Market Cap",
-          "summary": "A liquidation cascade on February 1st triggered a brutal market correction, with Bitcoin tumbling to the $76,000 range and altcoins experiencing double-digit losses amid US-Iran geopolitical tensions.",
-          "source": "MEXC Blog",
-          "url": "https://blog.mexc.com/news/best-cryptos-to-buy-during-market-crash/"
+          "title": "Bitcoin Hits 14-Month Low Near $72,000 Amid Safe-Haven Narrative Collapse",
+          "summary": "Bitcoin tumbled to levels unseen since 2024, briefly dropping below $72,000 before recovering slightly. The decline has raised questions about Bitcoin's role as 'digital gold' and safe-haven asset, particularly as rising geopolitical tensions have failed to support the cryptocurrency's price.",
+          "source": "The Daily Upside",
+          "url": "https://www.thedailyupside.com/technology/blockchain/bitcoin-slides-to-14-month-low-as-safe-haven-story-hits-a-snag/"
         },
         {
-          "title": "Binance Thailand Lists SENT Trading Pairs",
-          "summary": "Binance TH announced the addition of SENT/USDC and SENT/USDT trading pairs effective February 5, 2026, with deposits and withdrawals beginning at 11:00 AM UTC+7.",
-          "source": "Binance Thailand",
-          "url": "https://www.binance.th/en/announcement/new-cryptocurrency-listing%7Cdelisting/186b1d16480242c3b5035d54fca92514"
+          "title": "Regulatory Impasse: Clarity Act Stalls as Banks and Crypto Companies Clash Over Stablecoin Rules",
+          "summary": "The Clarity Act, a major crypto regulatory framework, has hit an impasse following a failed White House meeting. Disagreements between banks and crypto companies over stablecoin interest rewards led Coinbase to withdraw support, escalating tensions between Wall Street and the crypto industry.",
+          "source": "The Daily Upside",
+          "url": "https://www.thedailyupside.com/technology/blockchain/bitcoin-slides-to-14-month-low-as-safe-haven-story-hits-a-snag/"
         },
         {
-          "title": "Stablecoin Market Bifurcates Into Regulated and Offshore Tiers",
-          "summary": "The stablecoin market is structurally splitting between regulated, onshore stablecoins for institutional use and offshore liquidity routes optimized for speed and cross-border operations.",
-          "source": "FinTech Weekly",
-          "url": "https://www.fintechweekly.com/news/stablecoin-predictions-2026-payments-infrastructure-regulation"
+          "title": "Stifel Analysts Warn Bitcoin Could Fall to $38,000 if Headwinds Persist",
+          "summary": "Wall Street analysts predict Bitcoin could trade as low as $38,000 during the current cycle if multiple negative factors continue. The cryptocurrency briefly broke below $73,000 this week, signaling potential for further downside.",
+          "source": "CNBC-TV18",
+          "url": "https://www.cnbctv18.com/market/cryptocurrency/crypto-winter-how-long-it-will-last-and-the-next-downside-bitcoin-level-to-watch-19842773.htm"
         }
       ],
       "citations": [
-        "https://www.mexc.co/news/635653",
-        "https://blog.mexc.com/news/best-cryptos-to-buy-during-market-crash/",
-        "https://www.binance.th/en/announcement/new-cryptocurrency-listing%7Cdelisting/186b1d16480242c3b5035d54fca92514",
-        "https://www.fintechweekly.com/news/stablecoin-predictions-2026-payments-infrastructure-regulation",
-        "https://aiagentsdirectory.com/blog/bitcoin-and-crypto-markets-tumble-on-february-4-key-factors-behind-the-decline",
-        "https://www.youtube.com/watch?v=K52Ev_G1YwQ"
+        "https://economictimes.com/markets/cryptocurrency/crypto-market-wipes-out-500-billion-in-a-week-as-bitcoin-drops-7-in-a-day/articleshow/127924957.cms",
+        "https://www.thedailyupside.com/technology/blockchain/bitcoin-slides-to-14-month-low-as-safe-haven-story-hits-a-snag/",
+        "https://www.cnbctv18.com/market/cryptocurrency/crypto-winter-how-long-it-will-last-and-the-next-downside-bitcoin-level-to-watch-19842773.htm"
       ]
     },
     "ai_news": {
@@ -353,50 +349,81 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
-      "citations": []
+      "count": 3,
+      "items": [
+        {
+          "title": "Expert Intelligence Secures $5.8M Seed Funding for AI Lab Automation",
+          "summary": "AI startup Expert Intelligence raised $5.8 million in seed funding led by Sierra Ventures to automate regulated laboratory workflows in drug development using its Limited Sample Model, which interprets large datasets with chemist-level accuracy while complying with FDA guidelines.",
+          "source": "Evrimagaci",
+          "url": "https://evrimagaci.org/gpt/ai-startups-and-tech-giants-announce-major-moves-526919"
+        },
+        {
+          "title": "UN Secretary-General Proposes 40-Member Independent AI Scientific Panel",
+          "summary": "UN Secretary-General submitted a list of 40 global experts to the General Assembly for the new Independent International Scientific Panel on AI, aimed at closing knowledge gaps, assessing impacts, and informing governance amid rapid AI advancements.",
+          "source": "United Nations",
+          "url": "https://www.un.org/sg/en/content/highlight/2026-02-04.html"
+        },
+        {
+          "title": "Multiple AI Startups and Tech Giants Announce Funding, Products, and Expansions",
+          "summary": "On February 4, 2026, AI companies including those in enterprise governance, hardware, and physical security revealed new funding rounds, product lines, and strategic moves, highlighting the industry's acceleration toward autonomous workplace integration.",
+          "source": "Evrimagaci",
+          "url": "https://evrimagaci.org/gpt/ai-startups-and-tech-giants-announce-major-moves-526919"
+        }
+      ],
+      "citations": [
+        "https://aihub.org/2026/02/04/forthcoming-machine-learning-and-ai-seminars-february-2026-edition/",
+        "https://evrimagaci.org/gpt/ai-startups-and-tech-giants-announce-major-moves-526919",
+        "https://news.mit.edu/topic/artificial-intelligence2",
+        "https://www.un.org/sg/en/content/highlight/2026-02-04.html",
+        "https://www.youtube.com/watch?v=UkSRtm7TqBA",
+        "https://www.supplypro.ca/features/ai-meets-the-physical-world/"
+      ]
     },
     "gaming": {
       "source": "perplexity",
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Overwatch 2026 Spotlight Reveals New Heroes and Season 1 Launch",
-          "summary": "Blizzard's Overwatch team showcased 2026 plans including new heroes like Jetpack Cat (available for trial February 5th) and Miranda, new story content, gameplay improvements, and Season 1 starting February 10th. Gameplay footage of Jetpack Cat on Midtown was highlighted.",
-          "source": "PlayOverwatch / GameReactor",
-          "url": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
+          "title": "Nintendo Announces First Direct Partner Showcase of 2026 for February 5",
+          "summary": "Nintendo has scheduled its first Direct of the year, a 30-minute Partner Showcase focusing on third-party games for Switch and Switch 2, airing at 9AM ET / 2PM GMT / 6AM PT. Expect updates on titles like The Duskbloods, Elden Ring, and Resident Evil Requiem.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/gaming/nintendo/nintendos-first-direct-showcase-of-2026-is-scheduled-for-february-5-141931154.html"
         },
         {
-          "title": "Nintendo Announces First Direct of 2026: Partner Showcase on February 5th",
-          "summary": "Nintendo revealed a Partner Showcase Direct scheduled for February 5th, sparking predictions for Switch 2 exclusives like Orbitals, Monster Hunter Wilds port, and third-party titles such as Star Wars Outlaws and Assassin's Creed Shadows. Leaks and demos for games like Adventures of Elliot and Olivia are anticipated.",
-          "source": "GVG / Kit & Krysta",
-          "url": "https://www.youtube.com/watch?v=runSPQo3he8"
+          "title": "Nintendo Direct Partner Showcase Confirmed for February 5, 2026",
+          "summary": "The event will highlight upcoming third-party titles for Nintendo Switch and Switch 2, streaming live on YouTube and Nintendo apps with no first-party Nintendo games expected.",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/02/nintendo-direct-partner-showcase-announced-for-tomorrow-5th-february-2026"
         },
         {
-          "title": "Nintendo Holiday Sales Exceed Expectations, Raising Switch 2 Launch Concerns",
-          "summary": "Nintendo's strong holiday performance means fewer big system-seller games soon, with no major 2026 titles until at least February's potential Direct, now rumored as a partner showcase only.",
-          "source": "Arlo",
-          "url": "https://www.youtube.com/watch?v=JdkkcAGvGQM"
+          "title": "Deus Ex Remaster Delayed from February 5 Release",
+          "summary": "The remaster of the original Deus Ex, planned for February 5, has been postponed to an unspecified date, amid a packed February release calendar.",
+          "source": "G2A",
+          "url": "https://www.g2a.com/news/features/all-major-video-game-releases-in-february-2026-full-calendar-by-date-biggest-highlights/"
         },
         {
-          "title": "Pokémon Presence at Super Bowl and Potential Gen 10 Teases",
-          "summary": "Discussions highlight Pokémon at the Super Bowl event alongside rumors of new Gen 10 Pokémon forms, starter hints, and Nintendo stock movements tied to upcoming announcements.",
-          "source": "Giant Bomb",
-          "url": "https://www.youtube.com/watch?v=SrbVGogM4g8"
+          "title": "Dragon Quest 7 Reimagined Releases Today on Multiple Platforms",
+          "summary": "Dragon Quest 7 Reimagined launches on February 5 for Nintendo Switch, Nintendo Switch 2, and PlayStation 5, kicking off key February releases.",
+          "source": "G2A",
+          "url": "https://www.g2a.com/news/features/all-major-video-game-releases-in-february-2026-full-calendar-by-date-biggest-highlights/"
+        },
+        {
+          "title": "Nintendo Direct: Partner Showcase Set for February 5 at 6AM PT",
+          "summary": "Nintendo's partner-focused presentation will showcase third-party games for Switch platforms, airing tomorrow with global timings announced.",
+          "source": "4 Scarrs Gaming",
+          "url": "https://www.4scarrsgaming.com/2026/02/nintendo-direct-partner-showcase-february-5-2026.html"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=runSPQo3he8",
-        "https://www.youtube.com/watch?v=N8Sgnn72e9Y",
-        "https://www.youtube.com/watch?v=cINpg9dyBMk",
-        "https://www.youtube.com/watch?v=JdkkcAGvGQM",
-        "https://www.youtube.com/watch?v=SrbVGogM4g8",
-        "https://www.gamereactor.eu/video/783043/Overwatch+Gameplay+-+Jetpack+Cat+on+Midtown/",
-        "https://www.nhl.com/mapleleafs/video/tor-at-edm-recap-6388746137112"
+        "https://www.g2a.com/news/features/all-major-video-game-releases-in-february-2026-full-calendar-by-date-biggest-highlights/",
+        "https://www.engadget.com/gaming/nintendo/nintendos-first-direct-showcase-of-2026-is-scheduled-for-february-5-141931154.html",
+        "https://www.nintendolife.com/news/2026/02/nintendo-direct-partner-showcase-announced-for-tomorrow-5th-february-2026",
+        "https://www.4scarrsgaming.com/2026/02/nintendo-direct-partner-showcase-february-5-2026.html",
+        "https://www.gamespot.com/articles/nintendo-direct-confirmed-for-february-5-and-its-a-partner-showcase/1100-6537912/",
+        "https://gamespace.com/featured/february-2026-finally-jumpstarts-the-year-with-amazing-releases/"
       ]
     },
     "tech_news": {
@@ -404,59 +431,12 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 7,
-      "items": [
-        {
-          "title": "United Airlines Pauses Operations for Major Reservation System Upgrade",
-          "summary": "United Airlines canceled 600 domestic flights on February 4, 2026, for a cloud-based AWS infrastructure upgrade from 2:30 am to 6:00 am EDT, affecting bookings and check-ins. The move aims to improve long-term efficiency despite short-term disruptions.",
-          "source": "Travel and Tour World",
-          "url": "https://www.travelandtourworld.com/news/article/united-airlines-to-pause-operations-for-major-technology-upgrade-on-february-2026-affecting-six-hundred-flights-and-domestic-travel/"
-        },
-        {
-          "title": "Lunar Energy Raises $232M for Grid-Supporting Home Batteries",
-          "summary": "Lunar Energy secured $232 million in funding, bringing total investment over $500 million, to deploy residential batteries forming a distributed power plant to stabilize the grid.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com"
-        },
-        {
-          "title": "Positron Raises $230M Series B to Challenge Nvidia's AI Chips",
-          "summary": "Positron secured $230 million in Series B funding from investors including Qatar Investment Authority to develop alternative AI chips amid surging demand beyond Nvidia.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com"
-        },
-        {
-          "title": "Massive Chinese Data Breach Spills 8.7 Billion Records",
-          "summary": "A major data breach in China allegedly exposed 8.7 billion records, with over 40,000 WordPress sites affected, raising significant cybersecurity concerns.",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/news/archive"
-        },
-        {
-          "title": "Raspberry Pi Prices Hit Record High Due to RAM Surge",
-          "summary": "The latest Raspberry Pi model features an unprecedented RAM increase, pushing prices to their highest ever and potentially pricing it out of reach for schools and hobbyists.",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/news/archive"
-        },
-        {
-          "title": "Microsoft Ends Some OneDrive and SharePoint Standalone Plans",
-          "summary": "Microsoft is discontinuing certain popular standalone OneDrive and SharePoint plans deemed unprofitable, impacting users of these services.",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/news/archive"
-        },
-        {
-          "title": "China Bans Concealed Car Door Handles Over Safety Issues",
-          "summary": "China prohibited concealed car door handles citing safety risks, targeting designs like Tesla's that have been linked to accidents.",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/news/archive"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "https://techcrunch.com",
-        "https://www.techradar.com/news/archive",
-        "https://fortune.com/section/big-tech/",
-        "https://www.travelandtourworld.com/news/article/united-airlines-to-pause-operations-for-major-technology-upgrade-on-february-2026-affecting-six-hundred-flights-and-domestic-travel/",
-        "https://www.foxnews.com/video/6388772238112",
-        "https://www.politico.com/tech-news-updates-analysis"
+        "https://www.thejakartapost.com/business/2026/02/05/google-goes-from-laggard-to-leader-as-it-pulls-ahead-of-openai-with-stellar-ai-growth.html",
+        "https://www.commbank.com.au/articles/newsroom/2026/02/tech-stocks-drop-again-on-wall-st.html",
+        "https://www.timesleaderonline.com/news/business/2026/02/more-drops-for-technology-stocks-weigh-on-wall-street/"
       ]
     }
   }
