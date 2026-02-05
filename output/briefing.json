@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T18:17:28.415568+00:00",
-  "generated_at_human": "2026-02-04 18:17 UTC",
+  "generated_at": "2026-02-05T00:25:51.208021+00:00",
+  "generated_at_human": "2026-02-05 00:25 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -10,50 +10,122 @@
         {
           "title": "Voxtral Transcribe 2",
           "url": "https://mistral.ai/news/voxtral-transcribe-2",
-          "score": 248,
+          "score": 679,
+          "comments": 167
+        },
+        {
+          "title": "As Rocks May Think",
+          "url": "https://evjang.com/2026/02/04/rocks.html",
+          "score": 30,
+          "comments": 7
+        },
+        {
+          "title": "Claude Code: connect to a local model when your quota runs out",
+          "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+          "score": 163,
           "comments": 69
         },
         {
-          "title": "The Great Unwind",
-          "url": "https://occupywallst.com/yen",
-          "score": 18,
-          "comments": 1
+          "title": "Claude Code for Infrastructure",
+          "url": "https://www.fluid.sh/",
+          "score": 122,
+          "comments": 102
         },
         {
-          "title": "Study: emotional support from social media found to reduce anxiety",
-          "url": "https://news.uark.edu/articles/80669/emotional-support-from-social-media-found-to-reduce-anxiety",
-          "score": 25,
-          "comments": 15
-        },
-        {
-          "title": "In Tehran",
-          "url": "https://www.lrb.co.uk/blog/2026/january/in-tehran",
+          "title": "Remarkable Pro Colors",
+          "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
           "score": 44,
-          "comments": 31
+          "comments": 17
         },
         {
-          "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
-          "url": "https://arxiv.org/abs/2602.00294",
-          "score": 100,
-          "comments": 52
-        },
-        {
-          "title": "Tractor",
-          "url": "https://incoherency.co.uk/blog/stories/tractor.html",
-          "score": 59,
-          "comments": 19
+          "title": "AI is killing B2B SaaS",
+          "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
+          "score": 193,
+          "comments": 328
         },
         {
           "title": "Building a 24-bit arcade CRT display adapter from scratch",
           "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-          "score": 8,
-          "comments": 0
+          "score": 109,
+          "comments": 29
+        },
+        {
+          "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+          "url": "https://sqldef.github.io/",
+          "score": 23,
+          "comments": 4
+        },
+        {
+          "title": "Tractor",
+          "url": "https://incoherency.co.uk/blog/stories/tractor.html",
+          "score": 137,
+          "comments": 45
+        },
+        {
+          "title": "Microsoft's Copilot chatbot is running into problems",
+          "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
+          "score": 89,
+          "comments": 122
+        },
+        {
+          "title": "A real-world benchmark for AI code review",
+          "url": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
+          "score": 32,
+          "comments": 13
+        },
+        {
+          "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
+          "url": "https://arxiv.org/abs/2602.00294",
+          "score": 144,
+          "comments": 79
         },
         {
           "title": "A sane but bull case on Clawdbot / OpenClaw",
           "url": "https://brandon.wang/2026/clawdbot",
-          "score": 164,
-          "comments": 281
+          "score": 234,
+          "comments": 375
+        },
+        {
+          "title": "RS-SDK: Drive RuneScape with Claude Code",
+          "url": "https://github.com/MaxBittker/rs-sdk",
+          "score": 91,
+          "comments": 34
+        },
+        {
+          "title": "Data Poems",
+          "url": "https://dr.eamer.dev/datavis/poems/",
+          "score": 18,
+          "comments": 4
+        },
+        {
+          "title": "Arcan-A12: Weaving a Different Web",
+          "url": "https://www.divergent-desktop.org/blog/2026/01/26/a12web/",
+          "score": 45,
+          "comments": 14
+        },
+        {
+          "title": "Coding Agent VMs on NixOS with Microvm.nix",
+          "url": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
+          "score": 78,
+          "comments": 37
+        },
+        {
+          "title": "The Codex app illustrates the shift left of IDEs and coding GUIs",
+          "url": "https://www.benshoemaker.us/writing/codex-app-launch/",
+          "score": 54,
+          "comments": 115
+        },
+        {
+          "title": "Claude is a space to think",
+          "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+          "score": 337,
+          "comments": 180
+        },
+        {
+          "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
+          "url": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
+          "score": 68,
+          "comments": 57
         },
         {
           "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
@@ -62,100 +134,28 @@
           "comments": 0
         },
         {
-          "title": "Procedures for Repair of Potholes in Asphalt-Surfaced Pavements",
-          "url": "https://highways.dot.gov/media/7941",
-          "score": 31,
-          "comments": 26
+          "title": "Tell HN: Another round of Zendesk email spam",
+          "url": "https://news.ycombinator.com/item?id=46890418",
+          "score": 66,
+          "comments": 24
         },
         {
-          "title": "A case study in PDF forensics: The Epstein PDFs",
-          "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
-          "score": 154,
-          "comments": 66
-        },
-        {
-          "title": "French streamer unbanked by Qonto after criticizing Palantir and Peter Thiel",
-          "url": "https://twitter.com/Ced_haurus/status/2018716889191498172",
-          "score": 84,
-          "comments": 16
-        },
-        {
-          "title": "Coding Agent VMs on NixOS with Microvm.nix",
-          "url": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
-          "score": 47,
-          "comments": 15
-        },
-        {
-          "title": "RS-SDK: Drive RuneScape with Claude Code",
-          "url": "https://github.com/MaxBittker/rs-sdk",
-          "score": 10,
-          "comments": 3
-        },
-        {
-          "title": "Lessons learned shipping 500 units of my first hardware product",
-          "url": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
-          "score": 766,
-          "comments": 365
-        },
-        {
-          "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
-          "url": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
-          "score": 137,
-          "comments": 58
-        },
-        {
-          "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
-          "url": "https://github.com/bethington/ghidra-mcp",
-          "score": 224,
-          "comments": 55
-        },
-        {
-          "title": "Old Insurance Maps – Georeferencing Sanborn Fire Insurance Maps on Modern Maps",
-          "url": "https://oldinsurancemaps.net/",
-          "score": 56,
+          "title": "Litestream Writable VFS",
+          "url": "https://fly.io/blog/litestream-writable-vfs/",
+          "score": 16,
           "comments": 13
         },
         {
-          "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
-          "url": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
-          "score": 401,
-          "comments": 330
+          "title": "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
+          "url": "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management",
+          "score": 25,
+          "comments": 14
         },
         {
-          "title": "The Voxel Is a Cutting-Edge Theater Experiment",
-          "url": "https://bmoreart.com/2024/09/the-voxel-is-a-cutting-edge-theater-experiment.html",
-          "score": 12,
-          "comments": 2
-        },
-        {
-          "title": "Claude Is a Space to Think",
-          "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-          "score": 78,
-          "comments": 26
-        },
-        {
-          "title": "Show HN: SymDerive – A functional, stateless symbolic math library",
-          "url": "https://news.ycombinator.com/item?id=46842711",
-          "score": 3,
-          "comments": 0
-        },
-        {
-          "title": "Intel will start making GPUs",
-          "url": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
-          "score": 16,
-          "comments": 23
-        },
-        {
-          "title": "Brazilian Micro-SaaS Map",
-          "url": "https://saas-map.ssr.trapiche.cloud/",
-          "score": 75,
-          "comments": 3
-        },
-        {
-          "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
-          "url": "https://github.com/puemos/craftplan",
-          "score": 496,
-          "comments": 151
+          "title": "The Great Unwind",
+          "url": "https://occupywallst.com/yen",
+          "score": 222,
+          "comments": 168
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 72630,
-          "change_24h": -2.72,
-          "change_7d": -18.93,
-          "market_cap": 1452179773340
+          "price": 72962,
+          "change_24h": -3.79,
+          "change_7d": -18.18,
+          "market_cap": 1451632446018
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2080.59,
-          "change_24h": -4.01,
-          "change_7d": -30.68,
-          "market_cap": 255455187086
+          "price": 2151.19,
+          "change_24h": -4.14,
+          "change_7d": -28.45,
+          "market_cap": 257572109869
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 90.69,
-          "change_24h": -8.11,
-          "change_7d": -27.92,
-          "market_cap": 51509646456
+          "price": 92.01,
+          "change_24h": -5.63,
+          "change_7d": -26.69,
+          "market_cap": 52114189357
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.101816,
-          "change_24h": -1.98,
-          "change_7d": -18.62,
-          "market_cap": 17269605721
+          "price": 0.103475,
+          "change_24h": -2.3,
+          "change_7d": -17.44,
+          "market_cap": 17433630895
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.282635,
-          "change_24h": -1.55,
-          "change_7d": -20.74,
-          "market_cap": 10466985122
+          "price": 0.286018,
+          "change_24h": -2.15,
+          "change_7d": -20.05,
+          "market_cap": 10491494853
         }
       ]
     },
@@ -212,9 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Checkmate",
+          "symbol": "CHECK",
+          "market_cap_rank": 858
         },
         {
           "name": "Solana",
@@ -227,9 +227,9 @@
           "market_cap_rank": 15
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Pudgy Penguins",
@@ -237,14 +237,14 @@
           "market_cap_rank": 108
         },
         {
-          "name": "Zama",
-          "symbol": "ZAMA",
-          "market_cap_rank": 397
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         },
         {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 28
+          "name": "Zama",
+          "symbol": "ZAMA",
+          "market_cap_rank": 406
         },
         {
           "name": "Ondo",
@@ -252,14 +252,14 @@
           "market_cap_rank": 61
         },
         {
-          "name": "Chainlink",
-          "symbol": "LINK",
-          "market_cap_rank": 20
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 27
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 186
+          "name": "River",
+          "symbol": "RIVER",
+          "market_cap_rank": 152
         }
       ]
     },
@@ -268,38 +268,43 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "US Stock Markets Decline on February 4, 2026",
-          "summary": "The Dow Jones fell 0.3% to 49,240.99, Nasdaq dropped 1.4% to 23,255.19, and S&P 500 slid 0.8% to 6,917.81 amid tech and healthcare sector worries, profit-taking, and rising VIX to 18.00. Technology, communication services, and health care sectors led declines, while energy surged 3.3%.",
-          "source": "Finviz",
-          "url": "https://finviz.com/news/299546/stock-market-news-for-feb-4-2026"
-        },
-        {
-          "title": "S&P 500 Continues Downward Trend to 6915",
-          "summary": "The US500 index fell 0.05% to 6915 on February 4 after a 1.12% drop to 6898 on February 3, reflecting ongoing market caution despite year-over-year gains of 14.25%. Trading volume rose above average with more decliners on S&P 500.",
-          "source": "Trading Economics",
+          "title": "US Stock Market Mixed as Tech Sell-Off Continues",
+          "summary": "The S&P 500 hovered near flatline while the Nasdaq slipped 0.3% on February 4, 2026, as concerns over AI-driven disruption extended the tech sector weakness. The Dow gained 280 points, with energy, consumer staples, and health leading gains.",
+          "source": "Trading Economics / NYSE",
           "url": "https://tradingeconomics.com/united-states/stock-market"
         },
         {
-          "title": "Market Sentiment Shifts on Strong US Jobs Data",
-          "summary": "US non-farm payrolls increased significantly, sparking speculation of potential Fed interest rate hikes; equities showed mixed risk-on tone amid inflation concerns. Currency pairs reacted with EUR/USD at 1.0900 on German data and USD/JPY at 145.50 on Treasury yields.",
-          "source": "FXLeaders",
-          "url": "https://www.fxleaders.com/news/2026/02/04/market-sentiment-pulse-a-brief-update-on-whats-moving-markets-and-why-february-4-2026-2/"
+          "title": "AMD Stock Plunges Despite Beating Earnings Expectations",
+          "summary": "AMD shares fell approximately 15% in early trading on February 4 despite beating earnings estimates and providing above-guidance forecasts, triggering broad weakness in the semiconductor sector with the ICE Semi index down roughly 5%.",
+          "source": "NYSE",
+          "url": "https://www.nyse.com/index"
         },
         {
-          "title": "Bank of England Holds Rates Amid Inflation Worries",
-          "summary": "The BoE maintained interest rates, but signaled potential future hikes due to inflation, contributing to GBP/USD volatility near 1.2500. Overall sentiment mixed with slight risk-on shift but central bank policy concerns persisting.",
-          "source": "FXLeaders",
-          "url": "https://www.fxleaders.com/news/2026/02/04/market-sentiment-pulse-a-brief-update-on-whats-moving-markets-and-why-february-4-2026-2/"
+          "title": "Major Tech Earnings Expected: Alphabet and Amazon on Deck",
+          "summary": "Alphabet and Amazon are scheduled to report earnings on February 4-5, 2026, following a volatile week for the technology sector amid renewed concerns about AI-driven market disruption.",
+          "source": "NYSE",
+          "url": "https://www.nyse.com/index"
+        },
+        {
+          "title": "Treasury Market Reacts to Refunding Schedule",
+          "summary": "Long-end Treasury yields rose approximately 2 basis points following the release of the detailed Treasury refunding schedule on February 4, as markets assess potential duration increases.",
+          "source": "NYSE",
+          "url": "https://www.nyse.com/index"
+        },
+        {
+          "title": "Key Economic Data Scheduled for Next Week",
+          "summary": "The BLS will publish the delayed JOLTS report on February 11 at 10 AM EST, followed by the January employment report and CPI data on February 11 and 13, respectively.",
+          "source": "NYSE",
+          "url": "https://www.nyse.com/index"
         }
       ],
       "citations": [
-        "https://finviz.com/news/299546/stock-market-news-for-feb-4-2026",
         "https://tradingeconomics.com/united-states/stock-market",
-        "https://www.youtube.com/watch?v=HU1FqAY4ym0",
-        "https://www.fxleaders.com/news/2026/02/04/market-sentiment-pulse-a-brief-update-on-whats-moving-markets-and-why-february-4-2026-2/"
+        "https://www.nyse.com/index",
+        "https://www.investing.com/indices/us-30-historical-data"
       ]
     },
     "crypto_news": {
@@ -310,35 +315,37 @@
       "count": 4,
       "items": [
         {
-          "title": "Bitcoin Falls 13-14% in Early 2026, Testing Key Support Levels",
-          "summary": "Bitcoin has declined approximately 13-14% so far in 2026, falling below the $70,000 support level that analysts consider critical. The drop has raised concerns about potential further downside, with some analysts warning of a possible decline to $56,000-$57,000 if support breaks.",
-          "source": "Bloomberg Crypto / Yahoo Finance",
-          "url": "https://www.youtube.com/watch?v=edJFS6vK1LQ"
+          "title": "Bitcoin Plunges to $73,320 Amid Market Volatility",
+          "summary": "Bitcoin declined approximately 3.6% on February 4, 2026, trading around $73,320 as the broader cryptocurrency market experienced significant losses following recent liquidation cascades.",
+          "source": "AI Agents Directory",
+          "url": "https://aiagentsdirectory.com/blog/bitcoin-and-crypto-markets-tumble-on-february-4-key-factors-behind-the-decline"
         },
         {
-          "title": "Trump Coin Reaches $15 Billion Market Value Amid Memecoin Surge",
-          "summary": "President Trump's memecoin has surged to a market value of $15 billion as Trump leverages the memecoin economy to energize supporters and monetize attention. This reflects a broader shift in crypto market energy toward memecoins and away from traditional tokens.",
-          "source": "Bloomberg Crypto",
-          "url": "https://www.youtube.com/watch?v=edJFS6vK1LQ"
+          "title": "Crypto Market Crash Wipes $111 Billion in Market Cap",
+          "summary": "A liquidation cascade on February 1st triggered a brutal market correction, with Bitcoin tumbling to the $76,000 range and altcoins experiencing double-digit losses amid US-Iran geopolitical tensions.",
+          "source": "MEXC Blog",
+          "url": "https://blog.mexc.com/news/best-cryptos-to-buy-during-market-crash/"
         },
         {
-          "title": "Stablecoin Volume Explodes in January 2026",
-          "summary": "Stablecoin trading volume surged dramatically in the first month of 2026, signaling a shift toward digital assets that don't correlate with cryptocurrency price movements. This trend reflects growing interest in blockchain infrastructure independent of token valuations.",
-          "source": "Bloomberg Crypto",
-          "url": "https://www.youtube.com/watch?v=edJFS6vK1LQ"
+          "title": "Binance Thailand Lists SENT Trading Pairs",
+          "summary": "Binance TH announced the addition of SENT/USDC and SENT/USDT trading pairs effective February 5, 2026, with deposits and withdrawals beginning at 11:00 AM UTC+7.",
+          "source": "Binance Thailand",
+          "url": "https://www.binance.th/en/announcement/new-cryptocurrency-listing%7Cdelisting/186b1d16480242c3b5035d54fca92514"
         },
         {
-          "title": "Trump Administration Signals Support for Crypto Market Structure Bill",
-          "summary": "President Trump's administration has indicated strong support for passing a crypto market structure bill, with Coinbase's chief legal officer confirming the White House is fully engaged on crypto policy. This regulatory development could provide clarity for the industry.",
-          "source": "Fox Business / Coinbase",
-          "url": "https://www.youtube.com/watch?v=iGTA-9-49JI"
+          "title": "Stablecoin Market Bifurcates Into Regulated and Offshore Tiers",
+          "summary": "The stablecoin market is structurally splitting between regulated, onshore stablecoins for institutional use and offshore liquidity routes optimized for speed and cross-border operations.",
+          "source": "FinTech Weekly",
+          "url": "https://www.fintechweekly.com/news/stablecoin-predictions-2026-payments-infrastructure-regulation"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=edJFS6vK1LQ",
-        "https://www.youtube.com/watch?v=iGTA-9-49JI",
-        "https://www.youtube.com/watch?v=ZCNrQV1ol84",
-        "https://www.youtube.com/watch?v=GoZFVkZU9Zc"
+        "https://www.mexc.co/news/635653",
+        "https://blog.mexc.com/news/best-cryptos-to-buy-during-market-crash/",
+        "https://www.binance.th/en/announcement/new-cryptocurrency-listing%7Cdelisting/186b1d16480242c3b5035d54fca92514",
+        "https://www.fintechweekly.com/news/stablecoin-predictions-2026-payments-infrastructure-regulation",
+        "https://aiagentsdirectory.com/blog/bitcoin-and-crypto-markets-tumble-on-february-4-key-factors-behind-the-decline",
+        "https://www.youtube.com/watch?v=K52Ev_G1YwQ"
       ]
     },
     "ai_news": {
@@ -346,57 +353,9 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
-      "items": [
-        {
-          "title": "BullFrog AI Announces New Precision AI Capability for Pharma",
-          "summary": "BullFrog AI revealed a forthcoming scenario-based decision engine for pharmaceutical portfolio strategy and clinical trial design, set to launch March 25, enhancing their bfPREP and bfLEAP platforms with robust AI recommendations.[1]",
-          "source": "BullFrog AI Investor Relations",
-          "url": "https://ir.bullfrogai.com/news-events/press-releases/detail/79/bullfrog-ai-to-unveil-new-precision-ai-capability"
-        },
-        {
-          "title": "Apple Integrates AI Agents into Xcode",
-          "summary": "Apple has embedded AI agents into Xcode, marking a significant advancement in developer tools.[6]",
-          "source": "Aloa.co",
-          "url": "https://aloa.co/ai/resources/byte-sized/february-4-2026"
-        },
-        {
-          "title": "OpenAI Reshuffles Safety Leadership",
-          "summary": "OpenAI has restructured its safety leadership amid ongoing developments in AI governance.[6]",
-          "source": "Aloa.co",
-          "url": "https://aloa.co/ai/resources/byte-sized/february-4-2026"
-        },
-        {
-          "title": "Intel Enters GPU Arms Race",
-          "summary": "Intel is jumping into the GPU market to compete in AI hardware, boosting its position in high-performance computing.[6]",
-          "source": "Aloa.co",
-          "url": "https://aloa.co/ai/resources/byte-sized/february-4-2026"
-        },
-        {
-          "title": "Rise of AI Agents Trend Emerges",
-          "summary": "Analysis of recent news highlights the rise of AI agents orchestrating work and play, with implications for manufacturing, healthcare, and more, based on 700 articles.[3]",
-          "source": "Ruslanmv.com",
-          "url": "https://ruslanmv.com/news-and-trends/issues/trend-2026-02-04/"
-        },
-        {
-          "title": "Web Summit Qatar: AI and Robotics Startups Raise $205M",
-          "summary": "Startups at Web Summit Qatar secured $205M in funding, with AI and machine learning leading at $125M, underscoring investor focus on AI and robotics innovations.[7]",
-          "source": "Euronews",
-          "url": "https://www.euronews.com/next/2026/02/04/web-summit-qatar-startups-raise-205m-as-ai-and-robotics-shape-the-future-of-tech"
-        }
-      ],
-      "citations": [
-        "https://ir.bullfrogai.com/news-events/press-releases/detail/79/bullfrog-ai-to-unveil-new-precision-ai-capability",
-        "https://aihub.org/2026/02/04/forthcoming-machine-learning-and-ai-seminars-february-2026-edition/",
-        "https://ruslanmv.com/news-and-trends/issues/trend-2026-02-04/",
-        "https://www.einpresswire.com/article/888907828/drivers-of-the-personal-artificial-intelligence-ai-assistant-market-from-2026-to-2030-regional-and-size-analysis",
-        "https://tech.einnews.com/pr_news/888907125/the-artificial-intelligence-ai-chip-market-is-projected-to-grow-to-2-68-billion-by-2030-expanding-at-a-cagr-of-21-9",
-        "https://aloa.co/ai/resources/byte-sized/february-4-2026",
-        "https://www.euronews.com/next/2026/02/04/web-summit-qatar-startups-raise-205m-as-ai-and-robotics-shape-the-future-of-tech",
-        "https://www.edge-ai-vision.com/2026/02/edge-ai-and-vision-insights-february-4-2026-edition/",
-        "https://www.wisconsin.edu/news/archive/uw-students-use-ai-to-solve-real-world-business-challenges-in-multi-university-partnership/",
-        "https://medtrade.com/news/medtrade-show-news/notable-systems-for-the-ai-curious/"
-      ]
+      "count": 0,
+      "items": [],
+      "citations": []
     },
     "gaming": {
       "source": "perplexity",
@@ -406,38 +365,38 @@
       "count": 4,
       "items": [
         {
-          "title": "Project Genie Causes Major Stock Market Decline for Gaming Companies",
-          "summary": "Google's Project Genie AI tool, which generates playable worlds from simple prompts, has triggered significant stock market losses among video game companies. Unity's shares fell 35% in a single day, while Nintendo, CD Projekt, and Take-Two also experienced declines, sparking industry debate about AI's impact on game developers.",
-          "source": "Softonic",
-          "url": "https://en.softonic.com/articles/project-genie-the-ai-that-promises-to-make-video-games-has-caused-the-stock-market-to-explode-against-video-games"
+          "title": "Overwatch 2026 Spotlight Reveals New Heroes and Season 1 Launch",
+          "summary": "Blizzard's Overwatch team showcased 2026 plans including new heroes like Jetpack Cat (available for trial February 5th) and Miranda, new story content, gameplay improvements, and Season 1 starting February 10th. Gameplay footage of Jetpack Cat on Midtown was highlighted.",
+          "source": "PlayOverwatch / GameReactor",
+          "url": "https://www.youtube.com/watch?v=N8Sgnn72e9Y"
         },
         {
-          "title": "Take-Two President Defends Creative Process Against AI World Builders",
-          "summary": "Take-Two Interactive's president stated that Google's Project Genie 'is not a game engine' and cannot replace the creative process in game development, emphasizing that many elements beyond world creation are essential to making games.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/-genie-is-not-a-game-engine-take-two-president-says-google-s-world-model-cannot-replace-creative-process"
+          "title": "Nintendo Announces First Direct of 2026: Partner Showcase on February 5th",
+          "summary": "Nintendo revealed a Partner Showcase Direct scheduled for February 5th, sparking predictions for Switch 2 exclusives like Orbitals, Monster Hunter Wilds port, and third-party titles such as Star Wars Outlaws and Assassin's Creed Shadows. Leaks and demos for games like Adventures of Elliot and Olivia are anticipated.",
+          "source": "GVG / Kit & Krysta",
+          "url": "https://www.youtube.com/watch?v=runSPQo3he8"
         },
         {
-          "title": "Xbox Game Pass February 2026 Lineup Announced",
-          "summary": "Xbox Game Pass is adding several notable titles in February 2026, including Avatar: Frontiers of Pandora, Avowed, and Starsand Island, continuing the service's focus on genre diversity.",
-          "source": "ScreenHub",
-          "url": "https://www.screenhub.com.au/news/games/xbox-game-pass-february-2026-2692313/"
+          "title": "Nintendo Holiday Sales Exceed Expectations, Raising Switch 2 Launch Concerns",
+          "summary": "Nintendo's strong holiday performance means fewer big system-seller games soon, with no major 2026 titles until at least February's potential Direct, now rumored as a partner showcase only.",
+          "source": "Arlo",
+          "url": "https://www.youtube.com/watch?v=JdkkcAGvGQM"
         },
         {
-          "title": "Sony Patents AI System for Personalized Gamer Podcasts",
-          "summary": "Sony has patented a new AI system designed to generate unique, personalized podcasts of gaming news targeted at gamers, utilizing recognizable character voices.",
-          "source": "ScreenHub",
-          "url": "https://www.screenhub.com.au/news/industry-news/sony-ai-generated-podcasts-2692381/"
+          "title": "Pokémon Presence at Super Bowl and Potential Gen 10 Teases",
+          "summary": "Discussions highlight Pokémon at the Super Bowl event alongside rumors of new Gen 10 Pokémon forms, starter hints, and Nintendo stock movements tied to upcoming announcements.",
+          "source": "Giant Bomb",
+          "url": "https://www.youtube.com/watch?v=SrbVGogM4g8"
         }
       ],
       "citations": [
-        "https://www.screenhub.com.au/news/games/xbox-game-pass-february-2026-2692313/",
-        "https://en.softonic.com/articles/project-genie-the-ai-that-promises-to-make-video-games-has-caused-the-stock-market-to-explode-against-video-games",
-        "https://www.gamedeveloper.com/business/take-two-interactive-delivers-outstanding-quarter-after-gta-beats-forecasts",
-        "https://www.gamespot.com/news/",
-        "https://en.gamegpu.com/news/igry/xbox-game-pass-v-fevrale-2026-goda-popolnitsya-krupnymi-rpg-i-novymi-relizami",
-        "https://www.gamedeveloper.com/business/-genie-is-not-a-game-engine-take-two-president-says-google-s-world-model-cannot-replace-creative-process",
-        "https://www.screenhub.com.au/news/industry-news/sony-ai-generated-podcasts-2692381/"
+        "https://www.youtube.com/watch?v=runSPQo3he8",
+        "https://www.youtube.com/watch?v=N8Sgnn72e9Y",
+        "https://www.youtube.com/watch?v=cINpg9dyBMk",
+        "https://www.youtube.com/watch?v=JdkkcAGvGQM",
+        "https://www.youtube.com/watch?v=SrbVGogM4g8",
+        "https://www.gamereactor.eu/video/783043/Overwatch+Gameplay+-+Jetpack+Cat+on+Midtown/",
+        "https://www.nhl.com/mapleleafs/video/tor-at-edm-recap-6388746137112"
       ]
     },
     "tech_news": {
@@ -445,32 +404,59 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 7,
       "items": [
         {
-          "title": "KKR and Singtel Consortium Acquires STT GDC for $5.2 Billion",
-          "summary": "A consortium led by KKR and Singtel has agreed to buy STT GDC, a major data center provider, in a $5.2 billion deal. This acquisition highlights ongoing consolidation in the data center infrastructure sector amid rising demand.",
-          "source": "Bloomberg",
-          "url": "https://www.youtube.com/watch?v=nKxgW0kI8U8"
+          "title": "United Airlines Pauses Operations for Major Reservation System Upgrade",
+          "summary": "United Airlines canceled 600 domestic flights on February 4, 2026, for a cloud-based AWS infrastructure upgrade from 2:30 am to 6:00 am EDT, affecting bookings and check-ins. The move aims to improve long-term efficiency despite short-term disruptions.",
+          "source": "Travel and Tour World",
+          "url": "https://www.travelandtourworld.com/news/article/united-airlines-to-pause-operations-for-major-technology-upgrade-on-february-2026-affecting-six-hundred-flights-and-domestic-travel/"
         },
         {
-          "title": "EU Proposes Critical Minerals Partnership with US to Counter China",
-          "summary": "The European Union plans to offer the United States a partnership on critical minerals to reduce dependence on China. This move aims to secure supply chains for essential tech manufacturing materials.",
-          "source": "Bloomberg",
-          "url": "https://www.youtube.com/watch?v=nKxgW0kI8U8"
+          "title": "Lunar Energy Raises $232M for Grid-Supporting Home Batteries",
+          "summary": "Lunar Energy secured $232 million in funding, bringing total investment over $500 million, to deploy residential batteries forming a distributed power plant to stabilize the grid.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com"
         },
         {
-          "title": "Supermicro Shares Surge 11% on Strong Server Sales Demand",
-          "summary": "Supermicro Computer's stock rose 11% in premarket trading due to robust sales of servers used in data centers. The company benefits from continued infrastructure buildout despite broader tech sector pressures.",
-          "source": "Bloomberg Television",
-          "url": "https://www.youtube.com/watch?v=mweV88rMNhE"
+          "title": "Positron Raises $230M Series B to Challenge Nvidia's AI Chips",
+          "summary": "Positron secured $230 million in Series B funding from investors including Qatar Investment Authority to develop alternative AI chips amid surging demand beyond Nvidia.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com"
+        },
+        {
+          "title": "Massive Chinese Data Breach Spills 8.7 Billion Records",
+          "summary": "A major data breach in China allegedly exposed 8.7 billion records, with over 40,000 WordPress sites affected, raising significant cybersecurity concerns.",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/news/archive"
+        },
+        {
+          "title": "Raspberry Pi Prices Hit Record High Due to RAM Surge",
+          "summary": "The latest Raspberry Pi model features an unprecedented RAM increase, pushing prices to their highest ever and potentially pricing it out of reach for schools and hobbyists.",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/news/archive"
+        },
+        {
+          "title": "Microsoft Ends Some OneDrive and SharePoint Standalone Plans",
+          "summary": "Microsoft is discontinuing certain popular standalone OneDrive and SharePoint plans deemed unprofitable, impacting users of these services.",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/news/archive"
+        },
+        {
+          "title": "China Bans Concealed Car Door Handles Over Safety Issues",
+          "summary": "China prohibited concealed car door handles citing safety risks, targeting designs like Tesla's that have been linked to accidents.",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/news/archive"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=mweV88rMNhE",
-        "https://www.youtube.com/watch?v=nKxgW0kI8U8",
-        "https://www.youtube.com/watch?v=QDO2vKMUMLI",
-        "https://www.cbsnews.com/video/tech-executive-explains-how-ai-agents-can-complete-tasks-but-warns-against-too-much-access/"
+        "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "https://techcrunch.com",
+        "https://www.techradar.com/news/archive",
+        "https://fortune.com/section/big-tech/",
+        "https://www.travelandtourworld.com/news/article/united-airlines-to-pause-operations-for-major-technology-upgrade-on-february-2026-affecting-six-hundred-flights-and-domestic-travel/",
+        "https://www.foxnews.com/video/6388772238112",
+        "https://www.politico.com/tech-news-updates-analysis"
       ]
     }
   }
