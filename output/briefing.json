@@ -1,163 +1,11 @@
 {
-  "generated_at": "2026-02-06T18:16:33.666294+00:00",
-  "generated_at_human": "2026-02-06 18:16 UTC",
+  "generated_at": "2026-02-07T00:24:50.419410+00:00",
+  "generated_at_human": "2026-02-07 00:24 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "category": "tech_ai_nerd",
-      "count": 25,
-      "items": [
-        {
-          "title": "The Waymo World Model: A New Frontier for Autonomous Driving Simulation",
-          "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-          "score": 202,
-          "comments": 93
-        },
-        {
-          "title": "Microsoft open-sources LiteBox, a security-focused library OS",
-          "url": "https://github.com/microsoft/litebox",
-          "score": 162,
-          "comments": 81
-        },
-        {
-          "title": "Bits About Money: Fraud Investigation Is Believing Your Lying Eyes",
-          "url": "https://www.bitsaboutmoney.com/archive/fraud-investigation/",
-          "score": 20,
-          "comments": 8
-        },
-        {
-          "title": "Understanding Neural Network, Visually",
-          "url": "https://visualrambling.space/neural-network/",
-          "score": 83,
-          "comments": 11
-        },
-        {
-          "title": "Sheldon Brown's Bicycle Technical Info",
-          "url": "https://www.sheldonbrown.com/",
-          "score": 57,
-          "comments": 16
-        },
-        {
-          "title": "I now assume that all ads on Apple news are scams",
-          "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-          "score": 684,
-          "comments": 306
-        },
-        {
-          "title": "TikTok's 'Addictive Design' Found to Be Illegal in Europe",
-          "url": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
-          "score": 426,
-          "comments": 305
-        },
-        {
-          "title": "The Monad Called Free",
-          "url": "http://blog.sigfpe.com/2014/04/the-monad-called-free.html",
-          "score": 29,
-          "comments": 6
-        },
-        {
-          "title": "Hackers (1995) Animated Experience",
-          "url": "https://hackers-1995.vercel.app/",
-          "score": 188,
-          "comments": 112
-        },
-        {
-          "title": "Invention of DNA \"Page Numbers\" Opens Up Possibilities for the Bioeconomy",
-          "url": "https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang",
-          "score": 103,
-          "comments": 64
-        },
-        {
-          "title": "A new bill in New York would require disclaimers on AI-generated news content",
-          "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-          "score": 398,
-          "comments": 150
-        },
-        {
-          "title": "My AI Adoption Journey",
-          "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
-          "score": 806,
-          "comments": 319
-        },
-        {
-          "title": "Things Unix can do atomically (2010)",
-          "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
-          "score": 213,
-          "comments": 82
-        },
-        {
-          "title": "Animated Engines",
-          "url": "https://animatedengines.com/",
-          "score": 33,
-          "comments": 2
-        },
-        {
-          "title": "The overlooked evolution of the humble car door handle",
-          "url": "https://newatlas.com/automotive/evolution-car-door-handle/",
-          "score": 8,
-          "comments": 8
-        },
-        {
-          "title": "DNS Explained – How Domain Names Get Resolved",
-          "url": "https://www.bhusalmanish.com.np/blog/posts/dns-explained.html",
-          "score": 89,
-          "comments": 25
-        },
-        {
-          "title": "Systems Thinking",
-          "url": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
-          "score": 212,
-          "comments": 101
-        },
-        {
-          "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
-          "url": "https://www.anthropic.com/engineering/building-c-compiler",
-          "score": 651,
-          "comments": 647
-        },
-        {
-          "title": "Stay Away from My Trash",
-          "url": "https://tldraw.dev/blog/stay-away-from-my-trash",
-          "score": 119,
-          "comments": 46
-        },
-        {
-          "title": "Nixie-clock using neon lamps as logic elements (2007)",
-          "url": "https://www.pa3fwm.nl/projects/neonclock/",
-          "score": 39,
-          "comments": 6
-        },
-        {
-          "title": "Claude Opus 4.6",
-          "url": "https://www.anthropic.com/news/claude-opus-4-6",
-          "score": 2205,
-          "comments": 955
-        },
-        {
-          "title": "Solving Shrinkwrap: New Experimental Technique",
-          "url": "https://kizu.dev/shrinkwrap-solution/",
-          "score": 27,
-          "comments": 2
-        },
-        {
-          "title": "Plasma Effect (2016)",
-          "url": "https://www.4rknova.com/blog/2016/11/01/plasma",
-          "score": 73,
-          "comments": 13
-        },
-        {
-          "title": "Recreating Epstein PDFs from raw encoded attachments",
-          "url": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
-          "score": 465,
-          "comments": 173
-        },
-        {
-          "title": "LLMs could be, but shouldn't be compilers",
-          "url": "https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/",
-          "score": 89,
-          "comments": 93
-        }
-      ]
+      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/46916609.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
+      "items": []
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -167,42 +15,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 69996,
-          "change_24h": 6.48,
-          "change_7d": -15.54,
-          "market_cap": 1399120369628
+          "price": 70321,
+          "change_24h": 16.7,
+          "change_7d": -16.31,
+          "market_cap": 1403154810736
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2046.6,
-          "change_24h": 5.12,
-          "change_7d": -24.48,
-          "market_cap": 247021725498
+          "price": 2053.93,
+          "change_24h": 16.92,
+          "change_7d": -24.01,
+          "market_cap": 247511455219
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 85.89,
-          "change_24h": 4.17,
-          "change_7d": -26.33,
-          "market_cap": 48783790798
+          "price": 86.79,
+          "change_24h": 20.97,
+          "change_7d": -26.05,
+          "market_cap": 49220868182
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.098879,
-          "change_24h": 7.97,
-          "change_7d": -14.9,
-          "market_cap": 16679877280
+          "price": 0.098088,
+          "change_24h": 18.02,
+          "change_7d": -15.21,
+          "market_cap": 16509217592
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.276906,
-          "change_24h": 7.08,
-          "change_7d": -14.88,
-          "market_cap": 10192270776
+          "price": 0.27513,
+          "change_24h": 19.15,
+          "change_7d": -14.13,
+          "market_cap": 10112041561
         }
       ]
     },
@@ -217,14 +65,19 @@
           "market_cap_rank": 1
         },
         {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 4
-        },
-        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 109
+          "market_cap_rank": 108
+        },
+        {
+          "name": "Berachain",
+          "symbol": "BERA",
+          "market_cap_rank": 262
+        },
+        {
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 28
         },
         {
           "name": "Hyperliquid",
@@ -237,14 +90,14 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 28
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 5
         },
         {
           "name": "Seeker",
           "symbol": "SKR",
-          "market_cap_rank": 211
+          "market_cap_rank": 212
         },
         {
           "name": "Ethereum",
@@ -252,14 +105,9 @@
           "market_cap_rank": 2
         },
         {
-          "name": "SPX6900",
-          "symbol": "SPX",
-          "market_cap_rank": 142
-        },
-        {
-          "name": "Aave",
-          "symbol": "AAVE",
-          "market_cap_rank": 44
+          "name": "Worldcoin",
+          "symbol": "WLD",
+          "market_cap_rank": 62
         }
       ]
     },
@@ -268,60 +116,31 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 3,
       "items": [
         {
-          "title": "US Stock Market Sell-Off Driven by Tech Losses and Risk Appetite Decline",
-          "summary": "The S&P 500 and Nasdaq fell 1.2% and 1.4% respectively as investors rotated out of tech stocks, precious metals, and crypto assets amid concerns over AI capital expenditure overspending, labor market anxiety, and Fed policy uncertainty.",
-          "source": "SP Angel",
-          "url": "https://www.share-talk.com/sp-angel-todays-market-view-friday-6th-february-2026/"
+          "title": "US Stock Markets Close Sharply Lower on Feb 6 Amid AI Spending and Labor Concerns",
+          "summary": "The Dow Jones fell 1.2% to 48,908.72, Nasdaq dropped 1.6% to 22,540.59, and S&P 500 declined 1.2% to 6,798.4, with tech and discretionary sectors hit hardest due to fears over AI capital spending and weak labor market signals. The VIX surged 16.8% to 21.77 as decliners outnumbered advancers.",
+          "source": "Finviz",
+          "url": "https://finviz.com/news/302936/stock-market-news-for-feb-6-2026"
         },
         {
-          "title": "US Jobless Claims Surge More Than Expected",
-          "summary": "Initial jobless claims rose significantly beyond market expectations, adding to concerns about the health of the US labor market and contributing to the broader risk-off sentiment in markets.",
-          "source": "TMBThanachart",
-          "url": "https://www.ttbbank.com/en/analytics/economic-finance/daily-market-insight/20260206-ttb-analytics-daily-market-insight"
+          "title": "US Stocks Rebound Intraday on Feb 6 After Early Selloff, Tech Sector Leads Recovery",
+          "summary": "Major indices including Dow Jones, Nasdaq, and S&P 500 staged widespread rebounds during Feb 6 trading, with Nasdaq up 3.37% from lows and Dow outperforming amid reduced anxiety ahead of NFP data. Markets eye dovish Fed cut odds at 15% for March.",
+          "source": "MarketPulse",
+          "url": "https://www.marketpulse.com/markets/us-stocks-rebound-after-terrible-session/"
         },
         {
-          "title": "ECB Maintains Rates Unchanged at First 2026 Meeting",
-          "summary": "The European Central Bank kept interest rates unchanged at its first policy meeting of 2026, while eurozone inflation fell to its lowest level in more than a year.",
-          "source": "TMBThanachart",
-          "url": "https://www.ttbbank.com/en/analytics/economic-finance/daily-market-insight/20260206-ttb-analytics-daily-market-insight"
-        },
-        {
-          "title": "Major Index Declines Across Global Markets",
-          "summary": "The Dow Jones fell 1.20% to 48,909, Hong Kong's Hang Seng dropped 1.21% to 26,560, and the Shanghai Composite declined 0.25% to 4,066, while the Nikkei 225 gained 0.81% to 54,254.",
-          "source": "SP Angel",
-          "url": "https://www.share-talk.com/sp-angel-todays-market-view-friday-6th-february-2026/"
-        },
-        {
-          "title": "Bitcoin Treasury Company Shares Plummet Amid Crypto Liquidations",
-          "summary": "Shares in Strategy, the largest bitcoin Treasury Company, dropped 17% in a single day and are down 32% year-to-date as leveraged position liquidations add to selling pressure in crypto assets.",
-          "source": "SP Angel",
-          "url": "https://www.share-talk.com/sp-angel-todays-market-view-friday-6th-february-2026/"
-        },
-        {
-          "title": "Mining Stocks Decline Sharply on Risk-Off Sentiment",
-          "summary": "Major mining companies experienced significant losses, with BHP down 3.1% overnight and 3.5% weekly, Freeport-McMoRan falling 4.3% overnight and 9.1% weekly, and Vale declining 4.4% overnight.",
-          "source": "SP Angel",
-          "url": "https://www.share-talk.com/sp-angel-todays-market-view-friday-6th-february-2026/"
-        },
-        {
-          "title": "US Treasury Yields Decline Amid Flight to Safety",
-          "summary": "The 10-year US Treasury yield fell to 4.20% as investors rotated into US debt, while the 2-year yield traded around 3.5%, reflecting reduced risk appetite and expectations of potential Fed policy shifts.",
-          "source": "SP Angel",
-          "url": "https://www.share-talk.com/sp-angel-todays-market-view-friday-6th-february-2026/"
-        },
-        {
-          "title": "Dollar Firms as Investors Seek Safe Haven Assets",
-          "summary": "The US Dollar Index strengthened to 97.86 as investors shunned riskier assets ahead of central bank decisions, with the dollar gaining support despite concerns about US economic health.",
-          "source": "TMBThanachart",
-          "url": "https://www.ttbbank.com/en/analytics/economic-finance/daily-market-insight/20260206-ttb-analytics-daily-market-insight"
+          "title": "Hawkish Fed Chair Comments Weigh on US Equities in Latest Session",
+          "summary": "US equities ended down 0.09% influenced by hawkish Fed chair remarks and a metals sector reset, despite supportive ISM data and strong earnings providing brief lifts.",
+          "source": "Scotia Wealth Management",
+          "url": "https://enrichedthinking.scotiawealthmanagement.com/2026/02/06/market-watch-119/"
         }
       ],
       "citations": [
-        "https://www.share-talk.com/sp-angel-todays-market-view-friday-6th-february-2026/",
-        "https://www.ttbbank.com/en/analytics/economic-finance/daily-market-insight/20260206-ttb-analytics-daily-market-insight"
+        "https://finviz.com/news/302936/stock-market-news-for-feb-6-2026",
+        "https://www.marketpulse.com/markets/us-stocks-rebound-after-terrible-session/",
+        "https://enrichedthinking.scotiawealthmanagement.com/2026/02/06/market-watch-119/"
       ]
     },
     "crypto_news": {
@@ -332,28 +151,28 @@
       "count": 3,
       "items": [
         {
-          "title": "Bitcoin Crashes to $60K Amid Whale and ETF Selloffs",
-          "summary": "Bitcoin experienced a sharp decline, dropping from over $90K two weeks ago to around $60K-$65K, with whales and spot BTC ETFs recording massive outflows including the second and third largest since inception on Jan 19 and 26, followed by large outflows on Feb 4. The price ticked up 5% to $65.9K briefly but continued falling amid market-wide panic.",
+          "title": "Bitcoin Rebounds to $70,000 After Touching $60,000 Low, Boosting Financial Stocks",
+          "summary": "Cryptocurrencies rebounded sharply with Bitcoin surging from an overnight low of $60,000 to around $70,000 by week's end, driving gains in financial stocks including Coinbase and Robinhood. The recovery followed a midweek slump amid fading fears over private-credit investments.",
+          "source": "Morningstar (Dow Jones Newswires)",
+          "url": "https://www.morningstar.com/news/dow-jones/202602069945/financials-up-as-crypto-rebounds-private-credit-fears-fade-financials-roundup"
+        },
+        {
+          "title": "Crypto Market Crash Wipes Out Billions, Erasing Post-Trump Election Gains",
+          "summary": "Bitcoin plunged nearly 50% from its October highs to a low of just over $60,000 amid a market rout, the deepest decline since 2022, fueled by concerns over risky assets and impacting public companies like MicroStrategy. The crash highlights crypto's volatility despite growing political influence under President Trump.",
+          "source": "Politico",
+          "url": "https://www.politico.com/news/2026/02/06/trump-crypto-market-00768669"
+        },
+        {
+          "title": "Bitcoin's $15,000 Crash Linked to Hong Kong Hedge Funds' Leveraged Bets Imploding",
+          "summary": "A massive Bitcoin drop of nearly $15,000 in 24 hours is attributed to the liquidation of high-leverage call options on BlackRock's IBIT ETF by Hong Kong hedge funds, creating a perfect storm of forced selling. Bitcoin has since recovered to around $70,000, with theories awaiting regulatory confirmation.",
           "source": "Fortune",
-          "url": "https://fortune.com/2026/02/06/bitcoin-price-whales-etf-baling-out-ubs-crypto-is-not-an-asset/"
-        },
-        {
-          "title": "Bitcoin Suffers Unreal Crash to $60K in Freefall",
-          "summary": "Bitcoin plummeted to around $60K in an 'unreal crash,' with nobody buying the falling knife, as discussed in live morning analysis amid enormous market drops across all assets. Indicators suggest potential for further lows despite brief rebounds.",
-          "source": "Crypto for EveryOne (YouTube)",
-          "url": "https://www.youtube.com/watch?v=Nw37ZEJJkPU"
-        },
-        {
-          "title": "Bitcoin Down 10% to $65K in Stunning Fall from Grace",
-          "summary": "Bitcoin fell about 10% to $65K per coin, down from above $90K just two-three weeks prior, amid a tech selloff and indiscriminate market selling, with prices deteriorating below $64K in a freefall. Volatility tied to broader market pressures including AI advancements and software sector declines.",
-          "source": "Bloomberg Television (YouTube)",
-          "url": "https://www.youtube.com/watch?v=_MRIQSnbs6M"
+          "url": "https://fortune.com/2026/02/06/what-caused-the-massive-bitcoin-crash-clues-point-to-a-blow-up-at-hong-kong-hedge-funds/"
         }
       ],
       "citations": [
-        "https://fortune.com/2026/02/06/bitcoin-price-whales-etf-baling-out-ubs-crypto-is-not-an-asset/",
-        "https://www.youtube.com/watch?v=Nw37ZEJJkPU",
-        "https://www.youtube.com/watch?v=_MRIQSnbs6M"
+        "https://www.morningstar.com/news/dow-jones/202602069945/financials-up-as-crypto-rebounds-private-credit-fears-fade-financials-roundup",
+        "https://www.politico.com/news/2026/02/06/trump-crypto-market-00768669",
+        "https://fortune.com/2026/02/06/what-caused-the-massive-bitcoin-crash-clues-point-to-a-blow-up-at-hong-kong-hedge-funds/"
       ]
     },
     "ai_news": {
@@ -361,54 +180,48 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Claude AI Discovers 500 High-Severity Software Vulnerabilities",
-          "summary": "Anthropic's Claude AI has identified 500 high-severity software vulnerabilities, with human verification underway before reporting to developers. The discovery demonstrates AI language models' capability to identify novel vulnerabilities at scale, potentially exceeding expert human researchers.",
-          "source": "InfoWorld",
-          "url": "https://www.infoworld.com/article/4128894/claude-ai-finds-500-high-severity-software-vulnerabilities-2.html"
+          "title": "OpenAI Announces Major Breakthrough in Multimodal AI Reasoning",
+          "summary": "OpenAI has launched a new model capable of seamlessly processing text, images, audio, and video simultaneously, achieving human-like understanding and a 40% improvement in multi-step reasoning tasks compared to previous models.",
+          "source": "AI News Daily Update",
+          "url": "https://www.youtube.com/watch?v=-t13U0SbsFM"
         },
         {
-          "title": "EZMedTech.ai Wins 2026 Global Recognition Award for Healthcare Scheduling Innovation",
-          "summary": "EZMedTech.ai received a 2026 Global Recognition Award for its AI-powered healthcare scheduling platform that uses predictive AI, reinforcement learning, and natural language processing to reduce patient no-shows. The medical scheduling AI market is projected to grow from $262.42 million in 2026 to $2.44 billion by 2035.",
-          "source": "Business Insider",
-          "url": "https://markets.businessinsider.com/news/stocks/ezmedtech-ai-wins-a-2026-global-recognition-award-for-ai-powered-healthcare-scheduling-innovation-1035796306"
+          "title": "Cerebras Raises $1 Billion Series H at $23 Billion Valuation",
+          "summary": "Cerebras Systems secured $1 billion in funding to scale its wafer-scale AI technology, highlighting significant investment in advanced AI hardware amid growing industry demand.",
+          "source": "Solutions Review",
+          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/"
         },
         {
-          "title": "Moltbook AI Agent Social Network Reaches 1.6 Million Registered Agents Amid Security Concerns",
-          "summary": "Moltbook, a social network built for AI agents, has grown to over 1.6 million registered agents, though security researchers discovered vulnerabilities including unauthorized database access. The platform represents growing accessibility to agentic AI for public experimentation.",
-          "source": "Los Angeles Times",
-          "url": "https://www.latimes.com/business/story/2026-02-06/moltbook-social-media-for-bots-takes-off-sparking-concern-skepticism"
+          "title": "Snowflake and OpenAI Forge $200 Million Partnership for Cortex AI",
+          "summary": "Snowflake partnered with OpenAI in a multi-year, $200 million deal to make models like GPT-5.2 natively available in Snowflake Cortex AI, enabling 12,600+ customers to build context-aware AI agents on governed data.",
+          "source": "Solutions Review",
+          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/"
         },
         {
-          "title": "Generative AI Advances in Decision Intelligence with Multimodal Capabilities",
-          "summary": "By early 2026, generative AI has evolved from basic text summarization to sophisticated systems that craft scenario narratives and synthesize heterogeneous data sources. Multimodal AI models show 40% improvements in cross-modal reasoning compared to 2024 models.",
-          "source": "CIO.com",
-          "url": "https://www.cio.com/article/4128177/the-rise-of-genai-in-decision-intelligence-trends-and-tools-for-2026-and-beyond.html"
-        },
-        {
-          "title": "Canada Announces $2.8M in AI Funding for Northern Economic Development",
-          "summary": "The Canadian government announced over $2.8 million in AI funding to advance economic growth and digital literacy in northern regions, including projects for Inuit-led economic development and Arctic sensor data standardization.",
-          "source": "Government of Canada",
-          "url": "https://www.canada.ca/en/northern-economic-development/news/2026/02/minister-chartrand-announces-over-28m-in-ai-to-advance-economic-growth-and-digital-literacy.html"
-        },
-        {
-          "title": "Researchers Demonstrate AI Systems Can Govern Themselves Within Safety Constraints",
-          "summary": "New research shows that AI systems can perform bounded self-modification of coordination protocols while maintaining strict safety limits and formal constraints. The study demonstrates technical feasibility of governed protocol modification using current AI models.",
+          "title": "Humanoid.ai Launches KinetIQ AI Framework for Robot Fleets",
+          "summary": "Humanoid.ai introduced KinetIQ, a cross-timescale AI system for orchestrating humanoid and wheeled robot fleets in industrial and home settings, featuring agentic task allocation and omni-modal reasoning.",
           "source": "Quantum Zeitgeist",
-          "url": "https://quantumzeitgeist.com/ai-systems-learn-govern-themselves-while-staying/"
+          "url": "https://quantumzeitgeist.com/humanoid-kinetiq-ai-industrial-robotics/"
+        },
+        {
+          "title": "NVIDIA Announces Rubin Platform with Vera Rubin R100 Architecture",
+          "summary": "NVIDIA revealed the Rubin platform, set for H2 2026 production, featuring Vera CPU and HBM4 memory for a 10x reduction in AI inference cost-per-token, alongside Spectrum-X networking advancements.",
+          "source": "Chronicle Journal Markets",
+          "url": "http://markets.chroniclejournal.com/chroniclejournal/article/finterra-2026-2-6-the-2026-nvidia-deep-dive-resilience-in-the-age-of-ai-rationalization"
         }
       ],
       "citations": [
+        "https://www.youtube.com/watch?v=-t13U0SbsFM",
+        "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/",
+        "https://quantumzeitgeist.com/humanoid-kinetiq-ai-industrial-robotics/",
         "https://www.cio.com/article/4128177/the-rise-of-genai-in-decision-intelligence-trends-and-tools-for-2026-and-beyond.html",
-        "https://markets.businessinsider.com/news/stocks/ezmedtech-ai-wins-a-2026-global-recognition-award-for-ai-powered-healthcare-scheduling-innovation-1035796306",
-        "https://quantumzeitgeist.com/ai-systems-learn-govern-themselves-while-staying/",
-        "https://www.canada.ca/en/northern-economic-development/news/2026/02/minister-chartrand-announces-over-28m-in-ai-to-advance-economic-growth-and-digital-literacy.html",
-        "https://www.infoworld.com/article/4128894/claude-ai-finds-500-high-severity-software-vulnerabilities-2.html",
-        "https://www.latimes.com/business/story/2026-02-06/moltbook-social-media-for-bots-takes-off-sparking-concern-skepticism",
-        "https://halifax.citynews.ca/2026/02/06/security-concerns-and-skepticism-are-bursting-the-bubble-of-moltbook-the-viral-ai-social-forum/",
-        "https://mindmatters.ai/2026/02/consciousness-a-computer-or-a-magnifying-glass/"
+        "https://www.umiacs.umd.edu/news-events/news/machine-learning-theorist-tackles-limits-ai-algorithms-umiacs",
+        "http://markets.chroniclejournal.com/chroniclejournal/article/finterra-2026-2-6-the-2026-nvidia-deep-dive-resilience-in-the-age-of-ai-rationalization",
+        "https://www.carahsoft.com/news/carahsoft-and-partners-showcase-cyber-devsecops-and-aiml-solutions-at-west-2026",
+        "https://www.hoganlovells.com/en/publications/insights-from-ces-2026"
       ]
     },
     "gaming": {
@@ -416,51 +229,57 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 7,
       "items": [
         {
-          "title": "Nintendo Direct Partner Showcase Reveals Switch 2 Game Lineup",
-          "summary": "Nintendo's February 2026 Partner Showcase announced numerous titles for Switch 2, including Orbitals (Summer 2026 exclusive), Hollow Knight Switch 2 Edition (available now), PGA Tour 2K25 (February 6), and ports like Fallout 4 Anniversary Edition (February 24) and Indiana Jones and the Great Circle (May 12). Switch 2 is confirmed launching February 6, 2026.",
-          "source": "AllKeyShop",
-          "url": "https://www.allkeyshop.com/blog/everything-announced-at-nintendo-direct-partner-showcase-february-2026-news-n/"
+          "title": "Nintendo Direct Partner Showcase Reveals New Games and Demos",
+          "summary": "The February 5th Nintendo Direct Partner Showcase announced demos for Monster Hunter Stories 3: Twisted Reflection and PRAGMATA, plus global reveals of Kyoto Xanadu and Paranormasight: The Mermaid’s Curse for Switch and Switch 2.",
+          "source": "Game8",
+          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-feb-1-to-feb-7"
         },
         {
-          "title": "Ubisoft's Might & Magic Fates Launches on Immutable",
-          "summary": "Ubisoft's Might & Magic Fates is now live on mobile and PC via Immutable blockchain platform. This marks a notable blockchain gaming release highlighted in the weekly roundup.",
-          "source": "Blockchain Gaming World",
-          "url": "https://www.youtube.com/watch?v=NiWTGx0lXVw"
+          "title": "Dragon Quest 7 Reimagined, Nioh 3, and Other Major Games Release This Week",
+          "summary": "Highly anticipated releases this week include Dragon Quest 7 Reimagined, Nioh 3, Cairn, MY HERO ACADEMIA: All’s Justice, and PUBG: Blindspot.",
+          "source": "Game8",
+          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-feb-1-to-feb-7"
         },
         {
-          "title": "GOAT Gaming Shuts Down as Wearemighty Pivots to AI Tools",
-          "summary": "GOAT Gaming is shutting down while Wearemighty shifts focus to developing games using AI tools. The closure was noted in the latest blockchain gaming news roundup.",
-          "source": "Blockchain Gaming World",
-          "url": "https://www.youtube.com/watch?v=NiWTGx0lXVw"
-        },
-        {
-          "title": "Nexpace Integrates Verse8 AI into MapleStory Universe",
-          "summary": "Nexpace is integrating generative AI game-making technology Verse8 into MapleStory Universe. This development highlights growing AI synergies in blockchain gaming.",
-          "source": "Blockchain Gaming World",
-          "url": "https://www.youtube.com/watch?v=NiWTGx0lXVw"
-        },
-        {
-          "title": "Nintendo President Warns of Memory Shortage Impact",
-          "summary": "Nintendo's president stated that an ongoing memory shortage may pressure profitability, especially amid Switch 2 preparations. The company is focusing on global profitability amid potential supply issues.",
+          "title": "Ustwo Games Announces Layoffs for 'PC-First' Strategy Pivot",
+          "summary": "Ustwo Games is making layoffs to shift focus to a 'PC-first' development strategy.",
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/nintendo-president-says-an-ongoing-memory-shortage-may-put-pressure-on-profitability-"
+          "url": "https://www.gamedeveloper.com/production"
         },
         {
-          "title": "Marshawn Lynch Partners with PHȲND to Challenge Gaming Gatekeepers",
-          "summary": "NFL star Marshawn Lynch announced a partnership with PHȲND ahead of the big game, aiming to tackle video gaming's gatekeepers. The move seeks to promote accessibility in the industry.",
-          "source": "Business Insider Markets",
-          "url": "https://markets.businessinsider.com/news/stocks/marshawn-lynch-gets-ph-nd-ahead-of-the-big-game-tackles-video-gaming-s-gatekeepers-1035795540"
+          "title": "Ares Interactive Secures $70 Million Investment",
+          "summary": "Mobile studio Ares Interactive has secured a $70 million investment to support its development efforts.",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production"
+        },
+        {
+          "title": "Take-Two Reports Strong Quarter as GTA Exceeds Forecasts",
+          "summary": "Take-Two Interactive delivered an 'outstanding' quarter with GTA sales beating forecasts; president also dismissed Google's Genie as not a game engine replacement.",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production"
+        },
+        {
+          "title": "Microsoft Exploring Early Stages of Xbox Game Pass Expansion",
+          "summary": "Microsoft is reportedly in the early stages of further expanding Xbox Game Pass following last year's overhaul with new tiers and perks.",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/02/report-microsoft-is-in-the-early-stages-of-expanding-xbox-game-pass"
+        },
+        {
+          "title": "Mario Tennis Fever Set for February 12 Release",
+          "summary": "Nintendo's Mario Tennis Fever launches on February 12, emphasizing exaggerated, character-driven arcade sports gameplay.",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/arts-culture/pop-culture/2026/02/06/mario-tennis-fever-nintendo-video-game/"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=NiWTGx0lXVw",
-        "https://www.allkeyshop.com/blog/everything-announced-at-nintendo-direct-partner-showcase-february-2026-news-n/",
-        "https://observer.ug/lifestyle-entertainment/why-2026-poised-to-exceed-every-gaming-expectation/",
-        "https://markets.businessinsider.com/news/stocks/marshawn-lynch-gets-ph-nd-ahead-of-the-big-game-tackles-video-gaming-s-gatekeepers-1035795540",
-        "https://www.gamedeveloper.com/business/nintendo-president-says-an-ongoing-memory-shortage-may-put-pressure-on-profitability-"
+        "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-feb-1-to-feb-7",
+        "https://www.gamedeveloper.com/production",
+        "https://www.purexbox.com/news/2026/02/report-microsoft-is-in-the-early-stages-of-expanding-xbox-game-pass",
+        "https://mobidictum.com/mobile-gaming-marketing-trends-2026/",
+        "https://www.thenationalnews.com/arts-culture/pop-culture/2026/02/06/mario-tennis-fever-nintendo-video-game/"
       ]
     },
     "tech_news": {
@@ -468,55 +287,35 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 4,
       "items": [
         {
           "title": "Memory shortages hit smartphone chip demand, impacting Qualcomm and Arm",
           "summary": "A global memory chip shortage is reducing smartphone production, leading to weaker orders for Qualcomm and lower royalty revenue expectations for Arm due to softer processor shipments.",
+          "source": "TechStartups (citing Reuters)",
+          "url": "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
+        },
+        {
+          "title": "Nvidia delays RTX 50-series Super refresh due to AI chip priorities and RAM constraints",
+          "summary": "Nvidia is postponing its RTX 50-series Super graphics card refresh to prioritize AI hardware amid ongoing memory shortages affecting both gaming and data center products.",
+          "source": "TechStartups (citing The Verge)",
+          "url": "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
+        },
+        {
+          "title": "Samsung teases Galaxy S26 camera upgrades ahead of February launch",
+          "summary": "Samsung has released teasers highlighting improved zoom and low-light video capabilities for the upcoming Galaxy S26 series, positioning computational imaging as a key upgrade feature.",
           "source": "TechStartups",
           "url": "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
         },
         {
-          "title": "Amazon announces $200B capex plan, sparking market selloff",
-          "summary": "Amazon plans to invest around $200 billion in capital expenditures including data centers and chips, surprising investors and contributing to a broader tech stock selloff amid high spending by Big Tech firms.",
+          "title": "Huawei announces Feb. 26 global launch event in Madrid for new consumer hardware",
+          "summary": "Huawei is hosting its first Global Innovative Product launch of 2026 on February 26 in Madrid, teasing multiple new devices despite ongoing geopolitical and market challenges.",
           "source": "TechStartups",
           "url": "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
-        },
-        {
-          "title": "Nvidia delays RTX 50-series Super refresh due to memory constraints",
-          "summary": "Nvidia is postponing its RTX 50-series Super GPU refresh to prioritize other hardware amid ongoing industry memory shortages affecting both gaming and data center products.",
-          "source": "TechStartups",
-          "url": "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
-        },
-        {
-          "title": "Samsung teases Galaxy S26 camera upgrades ahead of launch",
-          "summary": "Samsung has released teasers highlighting improved zoom and low-light video capabilities for the upcoming Galaxy S26 series, emphasizing computational imaging in smartphones.",
-          "source": "TechStartups",
-          "url": "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
-        },
-        {
-          "title": "Huawei announces Feb. 26 global launch event for new consumer hardware",
-          "summary": "Huawei is hosting its first Global Innovative Product launch on February 26 in Madrid, teasing multiple new consumer devices despite ongoing geopolitical challenges.",
-          "source": "TechStartups",
-          "url": "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
-        },
-        {
-          "title": "PayPal appoints HP CEO Enrique Lores as new leader",
-          "summary": "PayPal has named Enrique Lores, former CEO of HP, as its new CEO in a significant leadership change for the fintech company.",
-          "source": "Fintech Futures",
-          "url": "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-6-february-2026"
-        },
-        {
-          "title": "Santander acquires Webster Bank for $12.2bn to expand in US",
-          "summary": "Santander is strengthening its US presence through a $12.2 billion acquisition of Webster Bank, marking a major deal in banking expansion.",
-          "source": "Fintech Futures",
-          "url": "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-6-february-2026"
         }
       ],
       "citations": [
-        "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/",
-        "https://www.youtube.com/watch?v=VIDSYv5Ydfs",
-        "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-6-february-2026"
+        "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
       ]
     }
   }
