@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T12:08:56.527714+00:00",
-  "generated_at_human": "2026-02-07 12:08 UTC",
+  "generated_at": "2026-02-07T18:07:55.032403+00:00",
+  "generated_at_human": "2026-02-07 18:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "Start all of your commands with a comma",
+          "title": "France's homegrown open source online office suite",
+          "url": "https://github.com/suitenumerique",
+          "score": 479,
+          "comments": 225
+        },
+        {
+          "title": "British drivers over 70 to face eye tests every three years",
+          "url": "https://www.bbc.com/news/articles/c205nxy0p31o",
+          "score": 164,
+          "comments": 142
+        },
+        {
+          "title": "Start all of your commands with a comma (2009)",
           "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-          "score": 143,
-          "comments": 42
+          "score": 450,
+          "comments": 161
+        },
+        {
+          "title": "Leisure Suit Larry's Al Lowe on model trains, funny deaths and Disney",
+          "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
+          "score": 34,
+          "comments": 2
+        },
+        {
+          "title": "Software Factories and the Agentic Moment",
+          "url": "https://factory.strongdm.ai/",
+          "score": 34,
+          "comments": 30
+        },
+        {
+          "title": "Hoot: Scheme on WebAssembly",
+          "url": "https://www.spritely.institute/hoot/",
+          "score": 94,
+          "comments": 17
         },
         {
           "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
           "url": "https://openciv3.org/",
-          "score": 668,
-          "comments": 202
+          "score": 784,
+          "comments": 241
+        },
+        {
+          "title": "First Proof",
+          "url": "https://arxiv.org/abs/2602.05192",
+          "score": 43,
+          "comments": 28
+        },
+        {
+          "title": "Stories from 25 Years of Software Development",
+          "url": "https://susam.net/twenty-five-years-of-computing.html",
+          "score": 36,
+          "comments": 4
+        },
+        {
+          "title": "StrongDM's AI team build serious software without even looking at the code",
+          "url": "https://simonwillison.net/2026/Feb/7/software-factory/",
+          "score": 28,
+          "comments": 28
+        },
+        {
+          "title": "Reinforcement Learning from Human Feedback",
+          "url": "https://arxiv.org/abs/2504.12501",
+          "score": 59,
+          "comments": 3
         },
         {
           "title": "The Waymo World Model",
           "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-          "score": 949,
-          "comments": 552
+          "score": 1035,
+          "comments": 586
         },
         {
-          "title": "How we made geo joins 400× faster with H3 indexes",
-          "url": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
-          "score": 122,
-          "comments": 33
+          "title": "Coding agents have replaced every framework I used",
+          "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
+          "score": 180,
+          "comments": 258
         },
         {
-          "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
-          "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
-          "score": 55,
-          "comments": 2
-        },
-        {
-          "title": "Jeffrey Snover: \"Welcome to the Room\"",
-          "url": "https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/",
-          "score": 17,
-          "comments": 19
-        },
-        {
-          "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-          "url": "https://github.com/valdanylchuk/breezydemo",
-          "score": 229,
-          "comments": 25
+          "title": "A Fresh Look at IBM 3270 Information Display System",
+          "url": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
+          "score": 27,
+          "comments": 5
         },
         {
           "title": "Vocal Guide – belt sing without killing yourself",
           "url": "https://jesperordrup.github.io/vocal-guide/",
-          "score": 28,
-          "comments": 16
+          "score": 172,
+          "comments": 65
+        },
+        {
+          "title": "Vinklu Turns Forgotten Plot in Bucharest into Tiny Coffee Shop",
+          "url": "https://design-milk.com/vinklu-turns-forgotten-plot-in-bucharest-into-tiny-coffee-shop/",
+          "score": 10,
+          "comments": 0
+        },
+        {
+          "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
+          "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
+          "score": 107,
+          "comments": 27
+        },
+        {
+          "title": "72M Points of Interest",
+          "url": "https://tech.marksblogg.com/overture-places-pois.html",
+          "score": 16,
+          "comments": 0
+        },
+        {
+          "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+          "url": "https://github.com/valdanylchuk/breezydemo",
+          "score": 266,
+          "comments": 33
+        },
+        {
+          "title": "Making geo joins faster with H3 indexes",
+          "url": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
+          "score": 152,
+          "comments": 45
         },
         {
           "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
           "url": "https://github.com/pydantic/monty",
-          "score": 223,
-          "comments": 118
+          "score": 279,
+          "comments": 148
         },
         {
-          "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-          "url": "https://vecti.com",
-          "score": 331,
-          "comments": 143
+          "title": "What Is Stoicism?",
+          "url": "https://stoacentral.com/guides/what-is-stoicism",
+          "score": 8,
+          "comments": 3
+        },
+        {
+          "title": "Ga68, a GNU Algol 68 Compiler",
+          "url": "https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/",
+          "score": 37,
+          "comments": 12
         },
         {
           "title": "Hackers (1995) Animated Experience",
           "url": "https://hackers-1995.vercel.app/",
-          "score": 494,
-          "comments": 243
+          "score": 547,
+          "comments": 264
         },
         {
           "title": "Sheldon Brown's Bicycle Technical Info",
           "url": "https://www.sheldonbrown.com/",
-          "score": 381,
-          "comments": 95
-        },
-        {
-          "title": "Microsoft open-sources LiteBox, a security-focused library OS",
-          "url": "https://github.com/microsoft/litebox",
-          "score": 359,
-          "comments": 181
-        },
-        {
-          "title": "Show HN: If you lose your memory, how to regain access to your computer?",
-          "url": "https://eljojo.github.io/rememory/",
-          "score": 288,
-          "comments": 169
-        },
-        {
-          "title": "An Update on Heroku",
-          "url": "https://www.heroku.com/blog/an-update-on-heroku/",
-          "score": 412,
-          "comments": 278
-        },
-        {
-          "title": "PC Floppy Copy Protection: Vault Prolok",
-          "url": "https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html",
-          "score": 63,
-          "comments": 6
-        },
-        {
-          "title": "Was Benoit Mandelbrot a hedgehog or a fox?",
-          "url": "https://arxiv.org/abs/2602.01122",
-          "score": 19,
-          "comments": 5
-        },
-        {
-          "title": "Dark Alley Mathematics",
-          "url": "https://blog.szczepan.org/blog/three-points/",
-          "score": 90,
-          "comments": 21
-        },
-        {
-          "title": "How to effectively write quality code with AI",
-          "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
-          "score": 256,
-          "comments": 196
-        },
-        {
-          "title": "Delimited Continuations vs. Lwt for Threads",
-          "url": "https://mirageos.org/blog/delimcc-vs-lwt",
-          "score": 32,
-          "comments": 3
-        },
-        {
-          "title": "What Is Ruliology?",
-          "url": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
-          "score": 44,
-          "comments": 42
-        },
-        {
-          "title": "Where did all the starships go?",
-          "url": "https://www.datawrapper.de/blog/science-fiction-decline",
-          "score": 12,
-          "comments": 6
-        },
-        {
-          "title": "Introducing the Developer Knowledge API and MCP Server",
-          "url": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
-          "score": 59,
-          "comments": 25
-        },
-        {
-          "title": "Female Asian Elephant Calf Born at the Smithsonian National Zoo",
-          "url": "https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440",
-          "score": 33,
-          "comments": 12
-        },
-        {
-          "title": "I now assume that all ads on Apple news are scams",
-          "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-          "score": 1066,
-          "comments": 446
+          "score": 421,
+          "comments": 110
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 68443,
-          "change_24h": 3.31,
-          "change_7d": -17.35,
-          "market_cap": 1360503292351
+          "price": 69184,
+          "change_24h": -1.86,
+          "change_7d": -13.8,
+          "market_cap": 1382006394916
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2035.34,
-          "change_24h": 5.87,
-          "change_7d": -22.78,
-          "market_cap": 244033085010
+          "price": 2068.15,
+          "change_24h": 0.59,
+          "change_7d": -14.09,
+          "market_cap": 248668499060
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 85.16,
-          "change_24h": 5.05,
-          "change_7d": -26.52,
-          "market_cap": 48166038191
+          "price": 87.58,
+          "change_24h": 1.09,
+          "change_7d": -15.12,
+          "market_cap": 49621677352
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.095671,
-          "change_24h": 2.59,
-          "change_7d": -14.32,
-          "market_cap": 16090956190
+          "price": 0.09816,
+          "change_24h": -1.2,
+          "change_7d": -3.62,
+          "market_cap": 16518534005
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.268327,
-          "change_24h": 2.96,
-          "change_7d": -13.33,
-          "market_cap": 9823415266
+          "price": 0.274452,
+          "change_24h": -1.31,
+          "change_7d": -3.46,
+          "market_cap": 10078602467
         }
       ]
     },
@@ -217,6 +217,11 @@
           "market_cap_rank": 1
         },
         {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 108
+        },
+        {
           "name": "Ethereum",
           "symbol": "ETH",
           "market_cap_rank": 2
@@ -227,24 +232,9 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 28
-        },
-        {
           "name": "Hyperliquid",
           "symbol": "HYPE",
           "market_cap_rank": 15
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 47
-        },
-        {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 109
         },
         {
           "name": "XRP",
@@ -252,14 +242,24 @@
           "market_cap_rank": 5
         },
         {
-          "name": "Berachain",
-          "symbol": "BERA",
-          "market_cap_rank": 282
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 59
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
+          "name": "Sui",
+          "symbol": "SUI",
           "market_cap_rank": 27
+        },
+        {
+          "name": "Arbitrum",
+          "symbol": "ARB",
+          "market_cap_rank": 84
+        },
+        {
+          "name": "Seeker",
+          "symbol": "SKR",
+          "market_cap_rank": 231
         }
       ]
     },
@@ -268,21 +268,43 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 1,
+      "count": 5,
       "items": [
         {
-          "title": "Raw response",
-          "summary": "[{\"title\":\"US Stocks Surge on Feb 6, Dow Tops 50,000 for First Time\",\"summary\":\"Major US indexes rebounded strongly on Friday, February 6, 2026: Dow Jones rose 2.5% (1,206 points) to 50,115.67, S&P 500 gained 2% to 6,932.30, Nasdaq up 2.2% to 23,031.21, and Russell 2000 climbed 3.6%. The rally was driven by tech recovery, AI capex hopes, and improved consumer sentiment, though weekly losses persisted for S&P and Nasdaq.\",\"source\":\"Barchart\",\"url\":\"https://www.barchart.com/story/news/79531/how-ma",
-          "source": "perplexity",
-          "url": ""
+          "title": "Dow Jones Crosses 50,000 for First Time as Market Rebounds",
+          "summary": "The Dow Jones Industrial Average surged 1,206.95 points (2.5%) to 50,115.67 on February 6, 2026, marking its historic crossing of the 50,000 threshold. The rally was driven by technology stock recovery and Bitcoin stabilization above $70,000.",
+          "source": "Barchart",
+          "url": "https://www.barchart.com/story/news/79531/how-major-us-stock-indexes-fared-friday-2-6-2026"
+        },
+        {
+          "title": "S&P 500 Posts Best Day Since May with 2% Gain",
+          "summary": "The S&P 500 jumped 133.90 points (2%) to 6,932.30 on February 6, driven by chip company gains on AI spending expectations and improved U.S. consumer sentiment readings.",
+          "source": "Barchart",
+          "url": "https://www.barchart.com/story/news/79531/how-major-us-stock-indexes-fared-friday-2-6-2026"
+        },
+        {
+          "title": "Nasdaq Composite Rallies 2.2% as Tech Stocks Recover",
+          "summary": "The Nasdaq composite rose 490.63 points (2.2%) to 23,031.21 on February 6, rebounding from earlier week losses as technology stocks recovered and investors repositioned.",
+          "source": "Barchart",
+          "url": "https://www.barchart.com/story/news/79531/how-major-us-stock-indexes-fared-friday-2-6-2026"
+        },
+        {
+          "title": "Treasury Yields Hit Multi-Month Lows Amid Fed Rate Cut Expectations",
+          "summary": "U.S. Treasury yields fell to their lowest levels in months following weaker-than-expected labor market data, with markets increasingly confident the Federal Reserve will cut rates twice in 2026, with the first cut anticipated in summer.",
+          "source": "WATrust",
+          "url": "https://www.watrust.com/articles/week-in-review-february-06-2026"
+        },
+        {
+          "title": "S&P 500 Earnings Growth Beats Expectations at 13.0%",
+          "summary": "The blended earnings growth rate for S&P 500 companies rose to 13.0% during the week, exceeding quarter-end growth expectations of 8.3%.",
+          "source": "WATrust",
+          "url": "https://www.watrust.com/articles/week-in-review-february-06-2026"
         }
       ],
       "citations": [
-        "https://www.indexbox.io/blog/us-stocks-rebound-on-feb-6-2026-led-by-tech-capex-and-nvidia-surge/",
-        "https://finviz.com/news/302936/stock-market-news-for-feb-6-2026",
+        "https://www.indexbox.io/blog/market-rebounds-on-february-6-2026-as-dow-crosses-50000-and-tech-stocks-bounce/",
         "https://www.barchart.com/story/news/79531/how-major-us-stock-indexes-fared-friday-2-6-2026",
-        "https://www.watrust.com/articles/week-in-review-february-06-2026",
-        "https://enrichedthinking.scotiawealthmanagement.com/2026/02/06/market-watch-119/"
+        "https://www.watrust.com/articles/week-in-review-february-06-2026"
       ]
     },
     "crypto_news": {
@@ -290,31 +312,17 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 1,
       "items": [
         {
-          "title": "Hyperliquid (HYPE) Surges 30% in Early 2026 Amid Market Downturn",
-          "summary": "Hyperliquid has risen over 30% this year despite Bitcoin and Ethereum dropping more than 15%, driven by trading in crypto perpetual futures. New 'outcome contracts' for its platform could propel it 80% higher in 2026.",
-          "source": "Nasdaq",
-          "url": "https://www.nasdaq.com/articles/prediction-cryptocurrency-could-soar-80-2026"
-        },
-        {
-          "title": "Crypto Market Cap Falls Below $2.4 Trillion After Two-Week Downturn",
-          "summary": "The total cryptocurrency market capitalization dropped below $2.4 trillion on February 7 following a downturn over the past two weeks. Stablecoin market cap remains high amid the decline.",
+          "title": "Cryptocurrency Market Cap Falls Below $2.4 Trillion Amid Two-Week Downturn",
+          "summary": "The total cryptocurrency market capitalization dropped below $2.4 trillion following a downturn over the past two weeks. Stablecoin market cap remains high despite the broader market decline.",
           "source": "Binance Square",
           "url": "https://www.binance.com/en/square/post/289056457527505"
-        },
-        {
-          "title": "Ethereum Reclaims $2,000 as Market Recovers $100 Billion to $2.4 Trillion",
-          "summary": "Ethereum has reclaimed the $2,000 level while Bitcoin's recovery stalled at $72,000. The total crypto market cap rose over $100 billion from its recent multi-year low to $2.4 trillion.",
-          "source": "CryptoPotato",
-          "url": "https://cryptopotato.com/ethereum-reclaims-2k-level-bitcoin-recovery-halted-at-72k-weekend-watch/"
         }
       ],
       "citations": [
-        "https://www.nasdaq.com/articles/prediction-cryptocurrency-could-soar-80-2026",
-        "https://www.binance.com/en/square/post/289056457527505",
-        "https://cryptopotato.com/ethereum-reclaims-2k-level-bitcoin-recovery-halted-at-72k-weekend-watch/"
+        "https://www.binance.com/en/square/post/289056457527505"
       ]
     },
     "ai_news": {
@@ -322,46 +330,50 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "OpenAI Announces Major Breakthrough in Multimodal AI Reasoning",
-          "summary": "OpenAI has released a new model capable of seamlessly processing text, images, audio, and video simultaneously, achieving human-like understanding and a 40% improvement in multi-step reasoning tasks compared to previous models.",
-          "source": "AI News Daily Update",
-          "url": "https://www.youtube.com/watch?v=-t13U0SbsFM"
+          "title": "Cerebras Systems Raises $1 Billion Series H at $23 Billion Valuation",
+          "summary": "Cerebras Systems closed a $1 billion Series H funding round led by Tiger Global, achieving a $23 billion post-money valuation to scale its wafer-scale AI infrastructure for on-prem and cloud deployments.",
+          "source": "Solutions Review",
+          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/"
         },
         {
-          "title": "AI-Powered Systems Achieve 95% Accuracy in Early-Stage Cancer Detection",
-          "summary": "AI diagnostic systems in healthcare are now detecting early-stage cancers with 95% accuracy, revolutionizing diagnostics as highlighted in the latest AI news.",
-          "source": "AI News Daily Update",
-          "url": "https://www.youtube.com/watch?v=-t13U0SbsFM"
+          "title": "Positron AI Secures $230 Million Series B Funding at Over $1 Billion Valuation",
+          "summary": "Positron AI raised $230 million in Series B funding to advance its energy-efficient inference hardware, including the Atlas server and upcoming Asimov chip, claiming up to 5x better efficiency than Nvidia's Rubin GPU.",
+          "source": "Solutions Review",
+          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/"
         },
         {
-          "title": "New Reinforcement Learning Framework RLFKV Reduces Hallucinations in Financial AI",
-          "summary": "Researchers from Ant Group developed RLFKV, a reinforcement learning method that verifies financial data at the atomic level, improving accuracy and faithfulness in RAG systems without human annotations.",
-          "source": "Quantum Zeitgeist",
-          "url": "https://quantumzeitgeist.com/ai-learns-verify-financial-data-cutting/"
+          "title": "Kong Unveils AI Connectivity Vision and Roadmap",
+          "summary": "Kong introduced its AI Connectivity roadmap, featuring Kong Konnect and AI Gateway for governing and scaling AI across APIs, models, and agent communications, including new tools like KAi agentic API assistant.",
+          "source": "Solutions Review",
+          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/"
         },
         {
-          "title": "Generative AI Advances in Decision Intelligence with Multimodal Models",
-          "summary": "Early 2026 sees widespread adoption of multimodal generative AI models offering 40% improvements in cross-modal reasoning, enhancing scenario exploration and decision-making in complex workflows.",
-          "source": "CIO.com",
-          "url": "https://www.cio.com/article/4128177/the-rise-of-genai-in-decision-intelligence-trends-and-tools-for-2026-and-beyond.html"
+          "title": "Google Urges Post-Quantum Cryptography Adoption for AI and Cybersecurity",
+          "summary": "Google called on governments and industry to prepare for quantum-era cybersecurity by adopting post-quantum cryptography, emphasizing its integration into AI systems and warning against global standards fragmentation.",
+          "source": "The Quantum Insider",
+          "url": "https://thequantuminsider.com/2026/02/06/google-calls-on-governments-and-industry-to-prepare-now-for-quantum-era-cybersecurity/"
         },
         {
-          "title": "Initiatives to Reduce AI Bias by Addressing Wikipedia Representation Gaps",
-          "summary": "Efforts like WikiProjects on women in art, architecture, and marginalized communities aim to counter AI biases stemming from Wikipedia's societal knowledge gaps, crucial as AI increasingly relies on open-access data.",
-          "source": "Wikimedia Diff",
-          "url": "https://diff.wikimedia.org/2026/02/07/reducing-ai-bias-by-reducing-wiki-bias/"
+          "title": "Broadcom Predicted to Lead AI Chip Market in 2026 with Custom ASICs",
+          "summary": "Analysts predict Broadcom will become a market leader alongside Nvidia by 2026 through custom AI ASICs for hyperscalers, expecting AI semiconductor revenue to double year-over-year in Q1.",
+          "source": "Nasdaq",
+          "url": "https://www.nasdaq.com/articles/prediction-artificial-intelligence-ai-stock-could-become-market-leader-2026"
+        },
+        {
+          "title": "Insight Jam Launches Mesh Lab for AI-Era Work and Learning Frameworks",
+          "summary": "Insight Jam launched Mesh Lab, a year-long series of expert discussions to re-architect human capabilities in work, education, and leadership amid AI integration.",
+          "source": "Solutions Review",
+          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=-t13U0SbsFM",
-        "https://www.cio.com/article/4128177/the-rise-of-genai-in-decision-intelligence-trends-and-tools-for-2026-and-beyond.html",
-        "https://quantumzeitgeist.com/ai-learns-verify-financial-data-cutting/",
-        "https://diff.wikimedia.org/2026/02/07/reducing-ai-bias-by-reducing-wiki-bias/",
-        "https://inairspace.com/blogs/learn-with-inair/ai-meaining-and-its-real-impact-on-your-everyday-life",
-        "https://python.plainenglish.io/top-7-breakthrough-ai-technologies-to-watch-in-2026-11cecf79077f"
+        "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/",
+        "https://ruslanmv.com/news-and-trends/issues/trend-2026-02-07/",
+        "https://www.nasdaq.com/articles/prediction-artificial-intelligence-ai-stock-could-become-market-leader-2026",
+        "https://thequantuminsider.com/2026/02/06/google-calls-on-governments-and-industry-to-prepare-now-for-quantum-era-cybersecurity/"
       ]
     },
     "gaming": {
@@ -369,65 +381,45 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 5,
       "items": [
         {
-          "title": "Nintendo President Warns Memory Shortage May Impact Profitability",
-          "summary": "Nintendo's president has stated that a long-term memory shortage could put pressure on the company's profitability, raising concerns about hardware production and supply chain challenges.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com"
+          "title": "Xbox and PlayStation Unveil Strong 2026 Lineups Outpacing Nintendo",
+          "summary": "Xbox features major titles like Fable, Halo, Gears of War, and Forza, while PlayStation announces Marvel’s Wolverine, Marathon, Saros, and Marvel Tokon: Fighting Souls. Nintendo faces pressure with a lighter schedule for the Switch 2's second year.",
+          "source": "ComicBook.com",
+          "url": "https://comicbook.com/gaming/feature/xbox-and-playstations-2026-lineup-is-leaving-nintendo-in-the-dust/"
         },
         {
-          "title": "Ustwo Games Pivots to PC-First Strategy with Layoffs",
-          "summary": "Ustwo Games has announced layoffs as part of a strategic shift toward a PC-first development approach, signaling a change in the studio's platform priorities.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com"
+          "title": "New Turn-Based RPGs Released This Week Including Dragon Quest VII Remake",
+          "summary": "Square Enix's Dragon Quest VII Reimagined launched February 5 on multiple platforms, alongside The Bell Echoes in Early Access, Dead Grid full release, and Monster Train 2 DLC Destiny of the Railforged.",
+          "source": "TurnBasedLovers",
+          "url": "https://turnbasedlovers.com/news/new-turn-based-rpgs-to-play-february-07-2026/"
         },
         {
-          "title": "Scopely Confirms Use of Generative AI in Star Trek Fleet Command Advertising",
-          "summary": "Scopely has confirmed it utilized generative AI technology to create advertisements for its mobile game Star Trek Fleet Command, highlighting growing AI adoption in game marketing.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com"
+          "title": "Top Chinese VR Game Machine Manufacturers Lead 2026 Arcade Innovations",
+          "summary": "EPARK, UNIS, and Andamiro top Chinese VR arcade manufacturers pioneering immersive tech for family entertainment centers with advanced simulators and coin-operated games.",
+          "source": "EIN Presswire",
+          "url": "https://www.einpresswire.com/article/890251327/chinese-top-3-vr-game-machine-manufacturers-in-2026-pioneering-the-future-of-virtual-gaming-with-cutting-edge-technology"
         },
         {
-          "title": "Blizzard Workers Ratify Union Contract",
-          "summary": "Blizzard Entertainment workers have successfully ratified a union contract, marking a significant labor development in the gaming industry.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com"
+          "title": "Nintendo Direct Highlights Multiplatform Shift as Hardware Sales Decline",
+          "summary": "Recent Nintendo Direct showcases normalized multiplatform publishing trends amid sliding hardware sales, discussed in Xbox Expansion Pass podcast.",
+          "source": "Xbox Expansion Pass (YouTube)",
+          "url": "https://www.youtube.com/watch?v=f4izzyQjtiE"
         },
         {
-          "title": "Roblox Forecasts Strong 2026 Bookings Above Wall Street Expectations",
-          "summary": "Roblox has forecast fiscal 2026 bookings above analyst expectations, signaling continued strong growth in player spending and platform engagement.",
-          "source": "Manila Times",
-          "url": "https://www.manilatimes.net/2026/02/07/business/foreign-business/roblox-forecasts-strong-annual-bookings-as-gaming-platform-momentum-grows-shares-jump/2273327"
-        },
-        {
-          "title": "Amazon Prime Gaming Announces February 2026 Free Games",
-          "summary": "Amazon has announced eight free games for Prime Gaming subscribers in February 2026, including titles available on GOG and Epic Games Store, plus new GameNight multiplayer features.",
-          "source": "MeriStation",
-          "url": "https://en.as.com/meristation/news/amazon-prime-free-games-for-february-2026-announced-f202602-n/"
-        },
-        {
-          "title": "Safe In Our World Launches 2026 Charity Bundle with 22 Games",
-          "summary": "Safe In Our World has launched its 2026 charity bundle featuring 22 hit titles from developers including Landfall and Noodlecake, supporting mental health initiatives in gaming.",
-          "source": "Christ Centered Gamer",
-          "url": "https://www.christcenteredgamer.com/phpBB3/viewtopic.php?p=607552"
-        },
-        {
-          "title": "Microsoft Reportedly Expanding Xbox Game Pass in Early Development Stages",
-          "summary": "Microsoft is in the early stages of expanding its Xbox Game Pass subscription service following last year's overhaul of tiers, pricing, and perks.",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/02/report-microsoft-is-in-the-early-stages-of-expanding-xbox-game-pass"
+          "title": "Cannibal Halfling Gaming Weekend RPG News Update",
+          "summary": "Weekly RPG roundup covers top sellers, industry developments, and key news from the past week on February 7.",
+          "source": "Cannibal Halfling Gaming",
+          "url": "https://cannibalhalflinggaming.com/2026/02/07/"
         }
       ],
       "citations": [
-        "https://www.gamedeveloper.com",
-        "https://en.as.com/meristation/news/amazon-prime-free-games-for-february-2026-announced-f202602-n/",
-        "https://www.youtube.com/watch?v=86TZVDweAcI",
-        "https://www.purexbox.com/news/2026/02/report-microsoft-is-in-the-early-stages-of-expanding-xbox-game-pass",
-        "https://www.christcenteredgamer.com/phpBB3/viewtopic.php?p=607552",
-        "https://www.manilatimes.net/2026/02/07/business/foreign-business/roblox-forecasts-strong-annual-bookings-as-gaming-platform-momentum-grows-shares-jump/2273327",
-        "https://www.post-gazette.com/news/politics-state/2026/02/07/pennsylvania-shapiro-farry-williams-skill-games/stories/202602060082"
+        "https://comicbook.com/gaming/feature/xbox-and-playstations-2026-lineup-is-leaving-nintendo-in-the-dust/",
+        "https://turnbasedlovers.com/news/new-turn-based-rpgs-to-play-february-07-2026/",
+        "https://www.einpresswire.com/article/890251327/chinese-top-3-vr-game-machine-manufacturers-in-2026-pioneering-the-future-of-virtual-gaming-with-cutting-edge-technology",
+        "https://www.youtube.com/watch?v=f4izzyQjtiE",
+        "https://cannibalhalflinggaming.com/2026/02/07/"
       ]
     },
     "tech_news": {
@@ -438,8 +430,8 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.latimes.com/business/story/2026-02-06/tech-titans-to-splurge-650-billion-this-year-on-ai-race",
-        "https://economictimes.com/markets/us-stocks/news/wall-street-week-ahead-tech-stock-shakeout-clouds-market-ahead-of-economic-data-deluge/articleshow/128018863.cms"
+        "https://www.morningstar.com/news/marketwatch/20260207123/tech-stocks-have-been-shaky-but-these-20-2",
+        "https://mlq.ai/news/big-techs-650-700-billion-ai-infrastructure-push-reshapes-cash-flow-dynamics/"
       ]
     }
   }
