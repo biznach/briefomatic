@@ -1,11 +1,163 @@
 {
-  "generated_at": "2026-02-07T00:24:50.419410+00:00",
-  "generated_at_human": "2026-02-07 00:24 UTC",
+  "generated_at": "2026-02-07T06:14:23.201444+00:00",
+  "generated_at_human": "2026-02-07 06:14 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/46916609.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-      "items": []
+      "category": "tech_ai_nerd",
+      "count": 25,
+      "items": [
+        {
+          "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+          "url": "https://openciv3.org/",
+          "score": 499,
+          "comments": 139
+        },
+        {
+          "title": "The Waymo World Model",
+          "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
+          "score": 839,
+          "comments": 503
+        },
+        {
+          "title": "How we made geo joins 400× faster with H3 indexes",
+          "url": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
+          "score": 53,
+          "comments": 10
+        },
+        {
+          "title": "A century of hair samples proves leaded gas ban worked",
+          "url": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
+          "score": 111,
+          "comments": 18
+        },
+        {
+          "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+          "url": "https://github.com/pydantic/monty",
+          "score": 164,
+          "comments": 76
+        },
+        {
+          "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+          "url": "https://github.com/valdanylchuk/breezydemo",
+          "score": 166,
+          "comments": 18
+        },
+        {
+          "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+          "url": "https://vecti.com",
+          "score": 280,
+          "comments": 127
+        },
+        {
+          "title": "Dark Alley Mathematics",
+          "url": "https://blog.szczepan.org/blog/three-points/",
+          "score": 59,
+          "comments": 10
+        },
+        {
+          "title": "Microsoft open-sources LiteBox, a security-focused library OS",
+          "url": "https://github.com/microsoft/litebox",
+          "score": 339,
+          "comments": 163
+        },
+        {
+          "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+          "url": "https://eljojo.github.io/rememory/",
+          "score": 224,
+          "comments": 139
+        },
+        {
+          "title": "Sheldon Brown's Bicycle Technical Info",
+          "url": "https://www.sheldonbrown.com/",
+          "score": 332,
+          "comments": 89
+        },
+        {
+          "title": "Hackers (1995) Animated Experience",
+          "url": "https://hackers-1995.vercel.app/",
+          "score": 421,
+          "comments": 221
+        },
+        {
+          "title": "PC Floppy Copy Protection: Vault Prolok",
+          "url": "https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html",
+          "score": 34,
+          "comments": 2
+        },
+        {
+          "title": "Show HN: ARM64 Android Dev Kit",
+          "url": "https://github.com/denuoweb/ARM64-ADK",
+          "score": 11,
+          "comments": 0
+        },
+        {
+          "title": "An Update on Heroku",
+          "url": "https://www.heroku.com/blog/an-update-on-heroku/",
+          "score": 360,
+          "comments": 249
+        },
+        {
+          "title": "Female Asian Elephant Calf Born at the Smithsonian National Zoo",
+          "url": "https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440",
+          "score": 15,
+          "comments": 2
+        },
+        {
+          "title": "Delimited Continuations vs. Lwt for Threads",
+          "url": "https://mirageos.org/blog/delimcc-vs-lwt",
+          "score": 9,
+          "comments": 1
+        },
+        {
+          "title": "Show HN: R3forth, a ColorForth-inspired language with a tiny VM",
+          "url": "https://github.com/phreda4/r3",
+          "score": 59,
+          "comments": 9
+        },
+        {
+          "title": "How to effectively write quality code with AI",
+          "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+          "score": 209,
+          "comments": 156
+        },
+        {
+          "title": "Introducing the Developer Knowledge API and MCP Server",
+          "url": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
+          "score": 33,
+          "comments": 8
+        },
+        {
+          "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
+          "url": "https://infisical.com/blog/devops-to-solutions-engineering",
+          "score": 123,
+          "comments": 51
+        },
+        {
+          "title": "Learning from context is harder than we thought",
+          "url": "https://hy.tencent.com/research/100025?langVersion=en",
+          "score": 159,
+          "comments": 80
+        },
+        {
+          "title": "Understanding Neural Network, Visually",
+          "url": "https://visualrambling.space/neural-network/",
+          "score": 257,
+          "comments": 33
+        },
+        {
+          "title": "I now assume that all ads on Apple news are scams",
+          "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
+          "score": 1013,
+          "comments": 422
+        },
+        {
+          "title": "FORTH? Really!?",
+          "url": "https://rescrv.net/w/2026/02/06/associative",
+          "score": 51,
+          "comments": 17
+        }
+      ]
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -15,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 70321,
-          "change_24h": 16.7,
-          "change_7d": -16.31,
-          "market_cap": 1403154810736
+          "price": 70022,
+          "change_24h": 5.86,
+          "change_7d": -16.5,
+          "market_cap": 1401196424811
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2053.93,
-          "change_24h": 16.92,
-          "change_7d": -24.01,
-          "market_cap": 247511455219
+          "price": 2080.61,
+          "change_24h": 6.91,
+          "change_7d": -22.77,
+          "market_cap": 251209500517
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 86.79,
-          "change_24h": 20.97,
-          "change_7d": -26.05,
-          "market_cap": 49220868182
+          "price": 87.91,
+          "change_24h": 8.48,
+          "change_7d": -25.76,
+          "market_cap": 49875980666
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.098088,
-          "change_24h": 18.02,
-          "change_7d": -15.21,
-          "market_cap": 16509217592
+          "price": 0.098557,
+          "change_24h": 5.91,
+          "change_7d": -13.91,
+          "market_cap": 16566914907
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.27513,
-          "change_24h": 19.15,
-          "change_7d": -14.13,
-          "market_cap": 10112041561
+          "price": 0.2746,
+          "change_24h": 6.33,
+          "change_7d": -12.81,
+          "market_cap": 10103230386
         }
       ]
     },
@@ -65,21 +217,6 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 108
-        },
-        {
-          "name": "Berachain",
-          "symbol": "BERA",
-          "market_cap_rank": 262
-        },
-        {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 28
-        },
-        {
           "name": "Hyperliquid",
           "symbol": "HYPE",
           "market_cap_rank": 15
@@ -90,24 +227,39 @@
           "market_cap_rank": 7
         },
         {
+          "name": "Zama",
+          "symbol": "ZAMA",
+          "market_cap_rank": 371
+        },
+        {
           "name": "XRP",
           "symbol": "XRP",
           "market_cap_rank": 5
         },
         {
-          "name": "Seeker",
-          "symbol": "SKR",
-          "market_cap_rank": 212
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 48
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Ronin",
+          "symbol": "RON",
+          "market_cap_rank": 337
         },
         {
-          "name": "Worldcoin",
-          "symbol": "WLD",
-          "market_cap_rank": 62
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 58
+        },
+        {
+          "name": "Canton",
+          "symbol": "CC",
+          "market_cap_rank": 17
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 108
         }
       ]
     },
@@ -116,31 +268,43 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "US Stock Markets Close Sharply Lower on Feb 6 Amid AI Spending and Labor Concerns",
-          "summary": "The Dow Jones fell 1.2% to 48,908.72, Nasdaq dropped 1.6% to 22,540.59, and S&P 500 declined 1.2% to 6,798.4, with tech and discretionary sectors hit hardest due to fears over AI capital spending and weak labor market signals. The VIX surged 16.8% to 21.77 as decliners outnumbered advancers.",
-          "source": "Finviz",
-          "url": "https://finviz.com/news/302936/stock-market-news-for-feb-6-2026"
+          "title": "US Stock Markets Surge on Friday with Dow Topping 50,000",
+          "summary": "The Dow Jones Industrial Average soared 1,206.95 points or 2.5% to 50,115.67, marking its first close above 50,000, while the S&P 500 rose 2% to 6,932.30 and Nasdaq gained 2.2% to 23,031.21, driven by tech recovery and positive consumer sentiment.",
+          "source": "Barchart",
+          "url": "https://www.barchart.com/story/news/79531/how-major-us-stock-indexes-fared-friday-2-6-2026"
         },
         {
-          "title": "US Stocks Rebound Intraday on Feb 6 After Early Selloff, Tech Sector Leads Recovery",
-          "summary": "Major indices including Dow Jones, Nasdaq, and S&P 500 staged widespread rebounds during Feb 6 trading, with Nasdaq up 3.37% from lows and Dow outperforming amid reduced anxiety ahead of NFP data. Markets eye dovish Fed cut odds at 15% for March.",
-          "source": "MarketPulse",
-          "url": "https://www.marketpulse.com/markets/us-stocks-rebound-after-terrible-session/"
+          "title": "Weekly Performance Mixed as S&P 500 Dips Slightly, Dow Leads Gains",
+          "summary": "For the week ending February 6, the Dow rose 2.5%, Russell 2000 up 2.2%, while S&P 500 fell 0.1% and Nasdaq dropped 1.8%, amid heightened volatility entering February.",
+          "source": "Barchart",
+          "url": "https://www.barchart.com/story/news/79531/how-major-us-stock-indexes-fared-friday-2-6-2026"
         },
         {
-          "title": "Hawkish Fed Chair Comments Weigh on US Equities in Latest Session",
-          "summary": "US equities ended down 0.09% influenced by hawkish Fed chair remarks and a metals sector reset, despite supportive ISM data and strong earnings providing brief lifts.",
-          "source": "Scotia Wealth Management",
-          "url": "https://enrichedthinking.scotiawealthmanagement.com/2026/02/06/market-watch-119/"
+          "title": "Treasuries Rally on Weak Labor Data, Boosting Fed Easing Expectations",
+          "summary": "US Treasuries rallied sharply this week, pushing yields to multi-month lows after weaker labor market data including rising job-cut announcements and unemployment claims, fueling expectations for further Federal Reserve policy easing.",
+          "source": "Washington Trust Bank",
+          "url": "https://www.watrust.com/articles/week-in-review-february-06-2026"
+        },
+        {
+          "title": "US Stocks Rebound from AI Disruption Concerns, Tech Shares Lead",
+          "summary": "US equities rebounded Friday as easing worries over AI-driven disruption lifted tech stocks, with S&P 500 up nearly 2%, Nasdaq advancing 2.2%, and chip stocks like Nvidia gaining on AI spending hopes.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/stock-market"
+        },
+        {
+          "title": "January Jobs Report Delayed to February 11 Due to Government Shutdown",
+          "summary": "The Bureau of Labor Statistics' January employment report, originally due Friday, is postponed to Wednesday, February 11, following a brief government shutdown that impacted data release.",
+          "source": "Washington Trust Bank",
+          "url": "https://www.watrust.com/articles/week-in-review-february-06-2026"
         }
       ],
       "citations": [
-        "https://finviz.com/news/302936/stock-market-news-for-feb-6-2026",
-        "https://www.marketpulse.com/markets/us-stocks-rebound-after-terrible-session/",
-        "https://enrichedthinking.scotiawealthmanagement.com/2026/02/06/market-watch-119/"
+        "https://www.barchart.com/story/news/79531/how-major-us-stock-indexes-fared-friday-2-6-2026",
+        "https://tradingeconomics.com/united-states/stock-market",
+        "https://www.watrust.com/articles/week-in-review-february-06-2026"
       ]
     },
     "crypto_news": {
@@ -148,31 +312,24 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 2,
       "items": [
         {
-          "title": "Bitcoin Rebounds to $70,000 After Touching $60,000 Low, Boosting Financial Stocks",
-          "summary": "Cryptocurrencies rebounded sharply with Bitcoin surging from an overnight low of $60,000 to around $70,000 by week's end, driving gains in financial stocks including Coinbase and Robinhood. The recovery followed a midweek slump amid fading fears over private-credit investments.",
-          "source": "Morningstar (Dow Jones Newswires)",
-          "url": "https://www.morningstar.com/news/dow-jones/202602069945/financials-up-as-crypto-rebounds-private-credit-fears-fade-financials-roundup"
-        },
-        {
-          "title": "Crypto Market Crash Wipes Out Billions, Erasing Post-Trump Election Gains",
-          "summary": "Bitcoin plunged nearly 50% from its October highs to a low of just over $60,000 amid a market rout, the deepest decline since 2022, fueled by concerns over risky assets and impacting public companies like MicroStrategy. The crash highlights crypto's volatility despite growing political influence under President Trump.",
+          "title": "'It sucks': Crypto gets a rude awakening to kick off Trump's second term",
+          "summary": "Bitcoin has plunged nearly 50% from its October high, wiping out all gains since Trump's election and bottoming out at just over $60,000 on Thursday amid broader market concerns. The rout has led to crumbling stock prices for crypto-holding firms like Strategy and drawn political jabs from rivals like Gavin Newsom.",
           "source": "Politico",
           "url": "https://www.politico.com/news/2026/02/06/trump-crypto-market-00768669"
         },
         {
-          "title": "Bitcoin's $15,000 Crash Linked to Hong Kong Hedge Funds' Leveraged Bets Imploding",
-          "summary": "A massive Bitcoin drop of nearly $15,000 in 24 hours is attributed to the liquidation of high-leverage call options on BlackRock's IBIT ETF by Hong Kong hedge funds, creating a perfect storm of forced selling. Bitcoin has since recovered to around $70,000, with theories awaiting regulatory confirmation.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/02/06/what-caused-the-massive-bitcoin-crash-clues-point-to-a-blow-up-at-hong-kong-hedge-funds/"
+          "title": "Bitcoin Fear and Greed Index Hits Rare Low",
+          "summary": "The Bitcoin Fear and Greed Index has reached a rare low on February 7, 2026, similar to past instances that preceded temporary price rebounds, suggesting a potential pattern for monitoring.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/288957548463138"
         }
       ],
       "citations": [
-        "https://www.morningstar.com/news/dow-jones/202602069945/financials-up-as-crypto-rebounds-private-credit-fears-fade-financials-roundup",
         "https://www.politico.com/news/2026/02/06/trump-crypto-market-00768669",
-        "https://fortune.com/2026/02/06/what-caused-the-massive-bitcoin-crash-clues-point-to-a-blow-up-at-hong-kong-hedge-funds/"
+        "https://www.binance.com/en/square/post/288957548463138"
       ]
     },
     "ai_news": {
@@ -180,48 +337,53 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "OpenAI Announces Major Breakthrough in Multimodal AI Reasoning",
-          "summary": "OpenAI has launched a new model capable of seamlessly processing text, images, audio, and video simultaneously, achieving human-like understanding and a 40% improvement in multi-step reasoning tasks compared to previous models.",
-          "source": "AI News Daily Update",
+          "title": "Cerebras Systems Raises $1 Billion Series H at $23 Billion Valuation",
+          "summary": "Cerebras Systems closed a $1 billion Series H funding round led by Tiger Global to scale its wafer-scale AI infrastructure for large AI workloads in on-prem and cloud deployments.[1]",
+          "source": "Solutions Review",
+          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/"
+        },
+        {
+          "title": "Positron AI Secures $230 Million Series B Funding",
+          "summary": "Positron AI raised $230 million at over $1 billion valuation to develop energy-efficient inference hardware, claiming up to 5x more tokens per watt than Nvidia’s Rubin GPU using Arm-based architecture.[1]",
+          "source": "Solutions Review",
+          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/"
+        },
+        {
+          "title": "OpenAI Announces Breakthrough in Multimodal Reasoning",
+          "summary": "OpenAI unveiled a new model that processes text, images, audio, and video simultaneously with human-like understanding, showing 40% improvement in multi-step reasoning tasks.[2]",
+          "source": "AI News Daily Update (YouTube)",
           "url": "https://www.youtube.com/watch?v=-t13U0SbsFM"
         },
         {
-          "title": "Cerebras Raises $1 Billion Series H at $23 Billion Valuation",
-          "summary": "Cerebras Systems secured $1 billion in funding to scale its wafer-scale AI technology, highlighting significant investment in advanced AI hardware amid growing industry demand.",
-          "source": "Solutions Review",
-          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/"
-        },
-        {
-          "title": "Snowflake and OpenAI Forge $200 Million Partnership for Cortex AI",
-          "summary": "Snowflake partnered with OpenAI in a multi-year, $200 million deal to make models like GPT-5.2 natively available in Snowflake Cortex AI, enabling 12,600+ customers to build context-aware AI agents on governed data.",
-          "source": "Solutions Review",
-          "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/"
-        },
-        {
-          "title": "Humanoid.ai Launches KinetIQ AI Framework for Robot Fleets",
-          "summary": "Humanoid.ai introduced KinetIQ, a cross-timescale AI system for orchestrating humanoid and wheeled robot fleets in industrial and home settings, featuring agentic task allocation and omni-modal reasoning.",
+          "title": "LOGDIFF: New Framework for Logical Control in Diffusion Models",
+          "summary": "Researchers introduced LOGDIFF, enabling diffusion models to generate images and proteins matching complex logical requirements via exact Boolean calculus for precise compositional guidance.[3]",
           "source": "Quantum Zeitgeist",
-          "url": "https://quantumzeitgeist.com/humanoid-kinetiq-ai-industrial-robotics/"
+          "url": "https://quantumzeitgeist.com/ai-image-generation-now-obeys-complex/"
         },
         {
-          "title": "NVIDIA Announces Rubin Platform with Vera Rubin R100 Architecture",
-          "summary": "NVIDIA revealed the Rubin platform, set for H2 2026 production, featuring Vera CPU and HBM4 memory for a 10x reduction in AI inference cost-per-token, alongside Spectrum-X networking advancements.",
+          "title": "NVIDIA Details Rubin Platform for 2026 AI Inference",
+          "summary": "NVIDIA's Rubin (R100) architecture, slated for H2 2026 production, promises 10x reduction in cost-per-token for AI inference with Vera CPU and HBM4 memory, alongside Spectrum-X networking.[5]",
           "source": "Chronicle Journal Markets",
           "url": "http://markets.chroniclejournal.com/chroniclejournal/article/finterra-2026-2-6-the-2026-nvidia-deep-dive-resilience-in-the-age-of-ai-rationalization"
+        },
+        {
+          "title": "AI Model Diagnoses Neurological Diseases from Brain MRIs in Seconds",
+          "summary": "A new AI model analyzes brain MRI images in seconds to diagnose neurological diseases and triage urgent cases, advancing precision neuroimaging.[6]",
+          "source": "Inside Precision Medicine",
+          "url": "https://www.insideprecisionmedicine.com/topics/precision-medicine/ai-that-reads-brain-mris-in-seconds-could-transform-neurologic-care/"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=-t13U0SbsFM",
         "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-february-6-updates-from-openai-cerebras-systems-opsera-more/",
-        "https://quantumzeitgeist.com/humanoid-kinetiq-ai-industrial-robotics/",
+        "https://www.youtube.com/watch?v=-t13U0SbsFM",
+        "https://quantumzeitgeist.com/ai-image-generation-now-obeys-complex/",
         "https://www.cio.com/article/4128177/the-rise-of-genai-in-decision-intelligence-trends-and-tools-for-2026-and-beyond.html",
-        "https://www.umiacs.umd.edu/news-events/news/machine-learning-theorist-tackles-limits-ai-algorithms-umiacs",
         "http://markets.chroniclejournal.com/chroniclejournal/article/finterra-2026-2-6-the-2026-nvidia-deep-dive-resilience-in-the-age-of-ai-rationalization",
-        "https://www.carahsoft.com/news/carahsoft-and-partners-showcase-cyber-devsecops-and-aiml-solutions-at-west-2026",
-        "https://www.hoganlovells.com/en/publications/insights-from-ces-2026"
+        "https://www.insideprecisionmedicine.com/topics/precision-medicine/ai-that-reads-brain-mris-in-seconds-could-transform-neurologic-care/",
+        "https://diff.wikimedia.org/2026/02/07/reducing-ai-bias-by-reducing-wiki-bias/"
       ]
     },
     "gaming": {
@@ -229,57 +391,65 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 8,
       "items": [
         {
-          "title": "Nintendo Direct Partner Showcase Reveals New Games and Demos",
-          "summary": "The February 5th Nintendo Direct Partner Showcase announced demos for Monster Hunter Stories 3: Twisted Reflection and PRAGMATA, plus global reveals of Kyoto Xanadu and Paranormasight: The Mermaid’s Curse for Switch and Switch 2.",
+          "title": "Baldur's Gate 3 Adaptation Announced with Craig Mazin as Writer and Producer",
+          "summary": "Baldur's Gate 3 is being adapted into a television series, with The Last of Us showrunner Craig Mazin set to write, produce, and run the project.",
+          "source": "Aftermath",
+          "url": "https://aftermath.site/video-game-news-february-2026-2/"
+        },
+        {
+          "title": "Ubisoft Cancels Assassin's Creed League Multiplayer Title",
+          "summary": "Ubisoft has cancelled Assassin's Creed League, a planned multiplayer game that was originally pitched as an expansion for Assassin's Creed Shadows. A small team will continue exploring how the concept can integrate with future AC titles.",
+          "source": "Aftermath",
+          "url": "https://aftermath.site/video-game-news-february-2026-2/"
+        },
+        {
+          "title": "Nvidia RTX 50-series Super and RTX 60-series Cards Delayed Due to RAM Shortage",
+          "summary": "Nvidia has delayed both the RTX 50-series Super refresh and RTX 60-series graphics cards due to a global RAM shortage, as the company prioritizes AI projects over gaming hardware.",
+          "source": "Aftermath",
+          "url": "https://aftermath.site/video-game-news-february-2026-2/"
+        },
+        {
+          "title": "Star Trek Fleet Command Caught Using AI-Generated Marketing Content",
+          "summary": "Publisher Scopely's Star Trek Fleet Command has been caught using AI-generated content in its marketing campaigns, with the publisher showing little concern about the controversy.",
+          "source": "Aftermath",
+          "url": "https://aftermath.site/video-game-news-february-2026-2/"
+        },
+        {
+          "title": "Nintendo Direct Partner Showcase Reveals Switch 2 Lineup",
+          "summary": "The February 5th Nintendo Direct Partner Showcase announced numerous games for Switch and Switch 2, including Monster Hunter Stories 3: Twisted Reflection, Paranormasight: The Mermaid's Curse, and ports of major titles like Final Fantasy 7 Rebirth and Fallout 4: Anniversary Edition.",
           "source": "Game8",
           "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-feb-1-to-feb-7"
         },
         {
-          "title": "Dragon Quest 7 Reimagined, Nioh 3, and Other Major Games Release This Week",
-          "summary": "Highly anticipated releases this week include Dragon Quest 7 Reimagined, Nioh 3, Cairn, MY HERO ACADEMIA: All’s Justice, and PUBG: Blindspot.",
-          "source": "Game8",
-          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-feb-1-to-feb-7"
+          "title": "Mario Tennis Fever Releases February 12",
+          "summary": "Nintendo's Mario Tennis Fever launches on February 12, continuing the series' tradition of arcade-style, character-driven sports gameplay with exaggerated mechanics and familiar Nintendo characters.",
+          "source": "The National News",
+          "url": "https://www.thenationalnews.com/arts-culture/pop-culture/2026/02/06/mario-tennis-fever-nintendo-video-game/"
         },
         {
-          "title": "Ustwo Games Announces Layoffs for 'PC-First' Strategy Pivot",
-          "summary": "Ustwo Games is making layoffs to shift focus to a 'PC-first' development strategy.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production"
+          "title": "Roblox Forecasts Strong Fiscal 2026 Bookings Above Expectations",
+          "summary": "Roblox has forecast fiscal 2026 bookings above Wall Street expectations, signaling continued strong growth in player spending and engagement on the gaming platform.",
+          "source": "Manila Times",
+          "url": "https://www.manilatimes.net/2026/02/07/business/foreign-business/roblox-forecasts-strong-annual-bookings-as-gaming-platform-momentum-grows-shares-jump/2273327"
         },
         {
-          "title": "Ares Interactive Secures $70 Million Investment",
-          "summary": "Mobile studio Ares Interactive has secured a $70 million investment to support its development efforts.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production"
-        },
-        {
-          "title": "Take-Two Reports Strong Quarter as GTA Exceeds Forecasts",
-          "summary": "Take-Two Interactive delivered an 'outstanding' quarter with GTA sales beating forecasts; president also dismissed Google's Genie as not a game engine replacement.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production"
-        },
-        {
-          "title": "Microsoft Exploring Early Stages of Xbox Game Pass Expansion",
-          "summary": "Microsoft is reportedly in the early stages of further expanding Xbox Game Pass following last year's overhaul with new tiers and perks.",
+          "title": "Microsoft Reportedly Expanding Xbox Game Pass in Early Stages",
+          "summary": "Microsoft is in the early stages of expanding its Xbox Game Pass subscription service, following last year's overhaul of tiers, pricing, and perks.",
           "source": "Pure Xbox",
           "url": "https://www.purexbox.com/news/2026/02/report-microsoft-is-in-the-early-stages-of-expanding-xbox-game-pass"
-        },
-        {
-          "title": "Mario Tennis Fever Set for February 12 Release",
-          "summary": "Nintendo's Mario Tennis Fever launches on February 12, emphasizing exaggerated, character-driven arcade sports gameplay.",
-          "source": "The National",
-          "url": "https://www.thenationalnews.com/arts-culture/pop-culture/2026/02/06/mario-tennis-fever-nintendo-video-game/"
         }
       ],
       "citations": [
+        "https://aftermath.site/video-game-news-february-2026-2/",
         "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-feb-1-to-feb-7",
-        "https://www.gamedeveloper.com/production",
+        "https://www.allkeyshop.com/blog/everything-announced-at-nintendo-direct-partner-showcase-february-2026-news-n/",
         "https://www.purexbox.com/news/2026/02/report-microsoft-is-in-the-early-stages-of-expanding-xbox-game-pass",
-        "https://mobidictum.com/mobile-gaming-marketing-trends-2026/",
-        "https://www.thenationalnews.com/arts-culture/pop-culture/2026/02/06/mario-tennis-fever-nintendo-video-game/"
+        "https://www.manilatimes.net/2026/02/07/business/foreign-business/roblox-forecasts-strong-annual-bookings-as-gaming-platform-momentum-grows-shares-jump/2273327",
+        "https://www.thenationalnews.com/arts-culture/pop-culture/2026/02/06/mario-tennis-fever-nintendo-video-game/",
+        "https://markets.businessinsider.com/news/stocks/marshawn-lynch-gets-ph-nd-ahead-of-the-big-game-tackles-video-gaming-s-gatekeepers-1035795540"
       ]
     },
     "tech_news": {
@@ -287,35 +457,17 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 1,
       "items": [
         {
-          "title": "Memory shortages hit smartphone chip demand, impacting Qualcomm and Arm",
-          "summary": "A global memory chip shortage is reducing smartphone production, leading to weaker orders for Qualcomm and lower royalty revenue expectations for Arm due to softer processor shipments.",
-          "source": "TechStartups (citing Reuters)",
-          "url": "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
-        },
-        {
-          "title": "Nvidia delays RTX 50-series Super refresh due to AI chip priorities and RAM constraints",
-          "summary": "Nvidia is postponing its RTX 50-series Super graphics card refresh to prioritize AI hardware amid ongoing memory shortages affecting both gaming and data center products.",
-          "source": "TechStartups (citing The Verge)",
-          "url": "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
-        },
-        {
-          "title": "Samsung teases Galaxy S26 camera upgrades ahead of February launch",
-          "summary": "Samsung has released teasers highlighting improved zoom and low-light video capabilities for the upcoming Galaxy S26 series, positioning computational imaging as a key upgrade feature.",
-          "source": "TechStartups",
-          "url": "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
-        },
-        {
-          "title": "Huawei announces Feb. 26 global launch event in Madrid for new consumer hardware",
-          "summary": "Huawei is hosting its first Global Innovative Product launch of 2026 on February 26 in Madrid, teasing multiple new devices despite ongoing geopolitical and market challenges.",
-          "source": "TechStartups",
-          "url": "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
+          "title": "Amazon Announces $200 Billion Capex Plan Amid Tech Sector Selloff",
+          "summary": "Amazon revealed plans for $200 billion in capital expenditures this year, contributing to a combined $650 billion forecast from four major US tech companies. This announcement exacerbated a bruising week for tech stocks, including a $1 trillion software selloff and sharp declines in big tech shares despite solid revenue growth.",
+          "source": "Bloomberg Television",
+          "url": "https://www.youtube.com/watch?v=KKorbv_oIYY"
         }
       ],
       "citations": [
-        "https://techstartups.com/2026/02/06/top-tech-news-today-february-6-2026/"
+        "https://www.youtube.com/watch?v=KKorbv_oIYY"
       ]
     }
   }
