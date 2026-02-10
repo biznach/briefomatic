@@ -1,11 +1,163 @@
 {
-  "generated_at": "2026-02-10T00:30:57.271044+00:00",
-  "generated_at_human": "2026-02-10 00:30 UTC",
+  "generated_at": "2026-02-10T06:27:30.055667+00:00",
+  "generated_at_human": "2026-02-10 06:27 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/46945235.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-      "items": []
+      "category": "tech_ai_nerd",
+      "count": 25,
+      "items": [
+        {
+          "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+          "url": "https://arxiv.org/abs/2512.20798",
+          "score": 145,
+          "comments": 78
+        },
+        {
+          "title": "Discord will require a face scan or ID for full access next month",
+          "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+          "score": 1486,
+          "comments": 1449
+        },
+        {
+          "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+          "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+          "score": 109,
+          "comments": 14
+        },
+        {
+          "title": "Why is the sky blue?",
+          "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
+          "score": 492,
+          "comments": 174
+        },
+        {
+          "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+          "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+          "score": 453,
+          "comments": 153
+        },
+        {
+          "title": "Is particle physics dead, dying, or just hard?",
+          "url": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
+          "score": 75,
+          "comments": 121
+        },
+        {
+          "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+          "url": "https://github.com/antirez/voxtral.c",
+          "score": 44,
+          "comments": 3
+        },
+        {
+          "title": "Hard-braking events as indicators of road segment crash risk",
+          "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+          "score": 249,
+          "comments": 371
+        },
+        {
+          "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
+          "url": "https://www.chainlift.io/liftkit",
+          "score": 121,
+          "comments": 74
+        },
+        {
+          "title": "America has a tungsten problem",
+          "url": "https://www.noleary.com/blog/posts/1",
+          "score": 152,
+          "comments": 148
+        },
+        {
+          "title": "Luce: First Electric Ferrari",
+          "url": "https://www.ferrari.com/en-US/auto/ferrari-luce",
+          "score": 137,
+          "comments": 132
+        },
+        {
+          "title": "Sandboxels",
+          "url": "https://neal.fun/sandboxels/",
+          "score": 233,
+          "comments": 30
+        },
+        {
+          "title": "History of UHF Television: TV Above Channel 13 (2024)",
+          "url": "https://uhfhistory.com/",
+          "score": 10,
+          "comments": 0
+        },
+        {
+          "title": "Discord Alternatives, Ranked",
+          "url": "https://taggart-tech.com/discord-alternatives/",
+          "score": 96,
+          "comments": 26
+        },
+        {
+          "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
+          "url": "https://blog.prosody.im/2026-letsencrypt-changes/",
+          "score": 96,
+          "comments": 90
+        },
+        {
+          "title": "Eight more months of agents",
+          "url": "https://crawshaw.io/blog/eight-more-months-of-agents",
+          "score": 90,
+          "comments": 74
+        },
+        {
+          "title": "Stop using icons in data tables",
+          "url": "https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d",
+          "score": 94,
+          "comments": 36
+        },
+        {
+          "title": "Generative Pen-Trained Transformer",
+          "url": "https://theodore.net/projects/Polargraph/",
+          "score": 30,
+          "comments": 0
+        },
+        {
+          "title": "UEFI Bindings for JavaScript",
+          "url": "https://codeberg.org/smnx/promethee",
+          "score": 209,
+          "comments": 106
+        },
+        {
+          "title": "Game Theory Patterns at Work (2016)",
+          "url": "https://daeus.blog/2026/01/18/game-theory-patterns-at-work/",
+          "score": 65,
+          "comments": 4
+        },
+        {
+          "title": "What functional programmers get wrong about systems",
+          "url": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
+          "score": 160,
+          "comments": 105
+        },
+        {
+          "title": "LLMs as Language Compilers: Lessons from Fortran for the Future of Coding",
+          "url": "https://cyber-omelette.com/posts/the-abstraction-rises.html",
+          "score": 36,
+          "comments": 8
+        },
+        {
+          "title": "Everyone’s building “async agents,” but almost no one can define them",
+          "url": "https://www.omnara.com/blog/what-is-an-async-agent-really",
+          "score": 43,
+          "comments": 31
+        },
+        {
+          "title": "Thoughts on Generating C",
+          "url": "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c",
+          "score": 213,
+          "comments": 67
+        },
+        {
+          "title": "Another GitHub outage in the same day",
+          "url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
+          "score": 306,
+          "comments": 218
+        }
+      ]
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -15,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 69940,
-          "change_24h": -0.7,
-          "change_7d": -11.09,
-          "market_cap": 1396787089436
+          "price": 69116,
+          "change_24h": -1.78,
+          "change_7d": -12.21,
+          "market_cap": 1381708738543
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2102.54,
-          "change_24h": 0.81,
-          "change_7d": -10.47,
-          "market_cap": 253622604800
+          "price": 2040.0,
+          "change_24h": -1.62,
+          "change_7d": -12.92,
+          "market_cap": 246255214584
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 86.53,
-          "change_24h": -0.54,
-          "change_7d": -17.14,
-          "market_cap": 49122510578
+          "price": 85.51,
+          "change_24h": -0.87,
+          "change_7d": -18.26,
+          "market_cap": 48657355132
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.096107,
-          "change_24h": -0.25,
-          "change_7d": -10.87,
-          "market_cap": 16211668897
+          "price": 0.09446,
+          "change_24h": -0.65,
+          "change_7d": -12.46,
+          "market_cap": 15932630427
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.26953,
-          "change_24h": -0.0,
-          "change_7d": -9.79,
-          "market_cap": 9917295852
+          "price": 0.265222,
+          "change_24h": -1.62,
+          "change_7d": -11.04,
+          "market_cap": 9759093878
         }
       ]
     },
@@ -60,29 +212,24 @@
       "count": 10,
       "items": [
         {
-          "name": "zkPass",
-          "symbol": "ZKP",
-          "market_cap_rank": 647
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 109
-        },
-        {
-          "name": "Axie Infinity",
-          "symbol": "AXS",
-          "market_cap_rank": 153
-        },
-        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "LayerZero",
+          "symbol": "ZRO",
+          "market_cap_rank": 110
+        },
+        {
+          "name": "River",
+          "symbol": "RIVER",
+          "market_cap_rank": 132
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 111
         },
         {
           "name": "Hyperliquid",
@@ -92,22 +239,27 @@
         {
           "name": "BankrCoin",
           "symbol": "BNKR",
-          "market_cap_rank": 307
+          "market_cap_rank": 281
         },
         {
-          "name": "Chainlink",
-          "symbol": "LINK",
-          "market_cap_rank": 18
+          "name": "FIGHT",
+          "symbol": "FIGHT",
+          "market_cap_rank": 884
         },
         {
-          "name": "Aster",
-          "symbol": "ASTER",
-          "market_cap_rank": 53
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 52
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 4
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         }
       ]
     },
@@ -116,55 +268,48 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "Dow Jones Breaks 50,000 Milestone as Markets Rebound",
-          "summary": "The Dow Jones Industrial Average surpassed 50,000 for the first time on Friday, February 6, driven by a rebound in technology and chip stocks following a volatile week. The index closed the Monday session flat at 50,135.87, while the S&P 500 rose 0.5% to 6,964.82 and the Nasdaq gained 0.9% to 23,238.67.",
-          "source": "MarketPulse, LA Times",
-          "url": "https://www.marketpulse.com/markets/market-wrap-feb-9-2026/"
-        },
-        {
-          "title": "Tech Stocks Lead Recovery in 'Debasement Trade' Session",
-          "summary": "Technology stocks, commodities, and major currencies rebounded Monday as markets benefited from a US Dollar sell-off. Nvidia rose 2.4%, Broadcom gained 3.3%, and the Nasdaq led US indexes for the first time since January 28, signaling mean-reversion flows ahead of key economic data.",
-          "source": "MarketPulse, LA Times",
-          "url": "https://www.marketpulse.com/markets/market-wrap-feb-9-2026/"
-        },
-        {
-          "title": "Gold Reaches $5,100 Amid Safe-Haven Demand",
-          "summary": "Gold rebounded to $5,100 ahead of key economic data releases, supported by safe-haven bids and recent Chinese gold accumulation. The bullion must push above this level to maintain momentum.",
+          "title": "US Equities Rebalance with Debasement Trade Flows; Dow Holds Above 50,000",
+          "summary": "US markets saw a rebound driven by tech stocks like Oracle, Microsoft, Palantir, and Nvidia amid a US dollar sell-off, with the Dow Jones closing flat at 50,156.86 while Nasdaq led gains for the first time since January 28. Markets remain cautious ahead of Tuesday's Retail Sales and Employment Cost Index data influencing Fed expectations.",
           "source": "MarketPulse",
           "url": "https://www.marketpulse.com/markets/market-wrap-feb-9-2026/"
         },
         {
-          "title": "Retail Sales and Employment Cost Index Set as Key Risk Events",
-          "summary": "US markets face critical economic data Tuesday with Retail Sales and Employment Cost Index releases, both crucial for inflation-growth dynamics and Fed expectations. Hawkish Fed voters Hammack and Logan could amplify market reactions to the data.",
+          "title": "US Indices Close Mixed; Dow Up Slightly, Nasdaq and S&P 500 Dip",
+          "summary": "Dow Jones rose 0.04% to 50,156.86, Nasdaq fell 0.28% to 23,214.50, and S&P 500 declined 0.13% to 6,974.25 in a session marked by rebalancing and position closures before key US economic data.",
+          "source": "ScanX Trade",
+          "url": "https://scanx.trade/stock-market-news/markets/trade-setup-for-today-key-trends-shaping-the-market-on-february-10-2026/32240124"
+        },
+        {
+          "title": "Asian Markets Rise; Nikkei Surges 2.77% as GIFT Nifty Signals Flat Open",
+          "summary": "Nikkei 225 jumped 2.77% to 57,926.07 and Hang Seng gained 0.60% to 27,188.00, while GIFT Nifty at 25,981.50 points to a flat to positive Indian market open amid mixed global cues.",
+          "source": "ScanX Trade",
+          "url": "https://scanx.trade/stock-market-news/markets/trade-setup-for-today-key-trends-shaping-the-market-on-february-10-2026/32240124"
+        },
+        {
+          "title": "Commodities Mixed with Gold at $5,048 and Crude Oil Down",
+          "summary": "Gold declined 0.62% to $5,048.10 and silver fell 1.38% to $81.10, while crude oil dipped 0.28% to $64.18; earlier gold hit $5,100 amid safe-haven demand and Chinese accumulation data.",
+          "source": "ScanX Trade / MarketPulse",
+          "url": "https://scanx.trade/stock-market-news/markets/trade-setup-for-today-key-trends-shaping-the-market-on-february-10-2026/32240124"
+        },
+        {
+          "title": "Markets Eye Key Data: US Retail Sales, Employment Cost Index, and Fed Speakers",
+          "summary": "Tuesday's US Retail Sales and Employment Cost Index are critical for inflation and Fed outlook, with hawkish speakers Hammack and Logan potentially amplifying reactions; China CPI/PPI also in focus for deflation signals.",
           "source": "MarketPulse",
           "url": "https://www.marketpulse.com/markets/market-wrap-feb-9-2026/"
         },
         {
-          "title": "Hims & Hers Plunges 16% Following Novo Nordisk Lawsuit",
-          "summary": "Hims & Hers stock sank 16% after Novo Nordisk filed a lawsuit alleging unlawful sales of weight-loss treatment copies. The action follows FDA restrictions on ingredients needed to replicate popular weight-loss medications.",
-          "source": "LA Times",
-          "url": "https://www.latimes.com/business/story/2026-02-09/stocks-drift-higher-as-gold-silver-bitcoin-stabilize"
-        },
-        {
-          "title": "Transocean to Acquire Valaris in $5.8 Billion All-Stock Deal",
-          "summary": "Offshore drilling company Transocean announced plans to acquire Valaris in an all-stock transaction valued at $5.8 billion. Valaris shares leaped 34.3% on the announcement, while Transocean reversed early losses to rise 5.9%.",
-          "source": "LA Times",
-          "url": "https://www.latimes.com/business/story/2026-02-09/stocks-drift-higher-as-gold-silver-bitcoin-stabilize"
-        },
-        {
-          "title": "Kroger Climbs 3.9% After Naming Former Walmart Executive as CEO",
-          "summary": "Kroger stock rose 3.9% following the grocer's announcement of a new chief executive from Walmart, signaling investor confidence in the leadership transition.",
-          "source": "LA Times",
-          "url": "https://www.latimes.com/business/story/2026-02-09/stocks-drift-higher-as-gold-silver-bitcoin-stabilize"
+          "title": "Indian Companies Escorts Kubota and Grasim Industries Announce Q3 Results",
+          "summary": "Key Indian firms Escorts Kubota and Grasim Industries are set to release Q3 earnings, with FII/FPI net buying and USD/INR at 90.70 influencing market direction amid global cues.",
+          "source": "ScanX Trade",
+          "url": "https://scanx.trade/stock-market-news/markets/trade-setup-for-today-key-trends-shaping-the-market-on-february-10-2026/32240124"
         }
       ],
       "citations": [
         "https://www.marketpulse.com/markets/market-wrap-feb-9-2026/",
-        "https://www.latimes.com/business/story/2026-02-09/stocks-drift-higher-as-gold-silver-bitcoin-stabilize",
-        "https://navellier.com/2-10-26-at-dow-50k-will-we-fear-big-numbers-again/"
+        "https://scanx.trade/stock-market-news/markets/trade-setup-for-today-key-trends-shaping-the-market-on-february-10-2026/32240124"
       ]
     },
     "crypto_news": {
@@ -172,52 +317,47 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Bitcoin Rebounds Above $65,000 After Largest Weekly Drop Since 2022",
-          "summary": "Bitcoin climbed back above $65,000 on Friday despite a nearly 14% weekly decline, the worst since November 2022, amid broader market volatility and a $2 trillion loss from the crypto market's October peak. Ether also recovered 4% to $1,921 after hitting a 10-month low.",
-          "source": "Journal Record",
-          "url": "https://journalrecord.com/2026/02/09/bitcoin-rebounds-65000-largest-weekly-drop-2022/"
-        },
-        {
-          "title": "Vitalik Buterin Questions Role of Ethereum Layer 2s, Suggests Pivot to Value-Added Services",
-          "summary": "Ethereum co-founder Vitalik Buterin reevaluated the rollup-centric roadmap, noting L2s have decentralized slower than the base layer, and urged them to focus on privacy, fast confirmations, or non-financial uses beyond scaling.",
-          "source": "Trakx",
-          "url": "https://trakx.io/resources/weekly-update/crypto-carnage-on-surging-ai-fears-february-9-2026/"
-        },
-        {
-          "title": "White House Stablecoin Meeting on Feb. 10 Could Advance CLARITY Act",
-          "summary": "A confirmed White House meeting on stablecoin policy today may resolve disputes over USDC rewards and unfreeze the CLARITY Act, a key crypto market-structure bill stalled in the Senate.",
+          "title": "White House Stablecoin Meeting Could Advance CLARITY Act",
+          "summary": "A White House meeting scheduled for February 10 on stablecoin policy may resolve disputes over stablecoin rewards and push forward the stalled CLARITY Act, a key crypto market-structure bill facing Senate hurdles.",
           "source": "CryptoSlate",
           "url": "https://cryptoslate.com/white-house-meeting-can-unfreeze-the-clarity-act-this-week-but-crypto-rewards-liklely-to-be-the-price/"
         },
         {
-          "title": "Bitcoin Trades Near $68,000 After 46% Drawdown from All-Time High",
-          "summary": "Bitcoin hovers around $68,400 following a 50% drop from October 2025 highs, breaking below its 365-day moving average for the first time since 2022, signaling major bearish momentum amid Fed rates and geopolitical tensions.",
-          "source": "Phemex",
-          "url": "https://phemex.com/blogs/bitcoin-price-analysis-weekly-outlook-feb-10-16-2026"
+          "title": "BlackRock-Linked Crypto Wallets See $3.6 Billion Outflow",
+          "summary": "Crypto wallets tied to BlackRock recorded $3.6 billion in net outflows from February 6-9, primarily in Bitcoin ($3.39B) and Ethereum ($239M), amid market stress and Bitcoin testing $60,000 support.",
+          "source": "Gotrade News / Finbold",
+          "url": "https://www.heygotrade.com/en/news/blackrocks-36b-crypto-outflow-signal-of-market-stress/"
         },
         {
-          "title": "Mirae Asset in Talks to Acquire South Korea's Korbit Exchange for $97.5 Million",
-          "summary": "Mirae Asset Financial Group is negotiating to buy Korbit, South Korea's fourth-largest crypto exchange, in a deal worth up to 140 billion won ($97.5 million).",
-          "source": "KED Global",
-          "url": "https://www.kedglobal.com/cryptocurrencies/newsView/ked202602090002"
+          "title": "Bitcoin Slips Below $70,000 Amid Rangebound Trading",
+          "summary": "Bitcoin traded 2.2% lower at $69,393 early Tuesday, failing to hold gains after rebounding from $60,000 lows, as investors await U.S. CPI data and potential hawkish Fed policy shifts.",
+          "source": "Investing.com",
+          "url": "https://ca.investing.com/news/cryptocurrency-news/bitcoin-price-today-slips-below-70k-in-rangebound-trade-key-us-data-loom-4448391"
         },
         {
-          "title": "Crypto Market Suffers Record Losses on AI Fears and Extreme Fear Sentiment",
-          "summary": "Bitcoin saw a record one-day $200 billion market cap wipeout last Thursday, with sentiment hitting FTX-era lows at a Greed and Fear index of 9; crypto treasuries deeply underwater as prices dive.",
-          "source": "Trakx",
-          "url": "https://trakx.io/resources/weekly-update/crypto-carnage-on-surging-ai-fears-february-9-2026/"
+          "title": "Bithumb Exchange Accidentally Sends $44 Billion in Bitcoin",
+          "summary": "South Korean exchange Bithumb erroneously credited users with 620,000 BTC ($44B) during a promo event on Friday, recovering 99.7% after a sell-off; regulators call for stricter oversight.",
+          "source": "Investing.com",
+          "url": "https://ca.investing.com/news/cryptocurrency-news/bitcoin-price-today-slips-below-70k-in-rangebound-trade-key-us-data-loom-4448391"
+        },
+        {
+          "title": "Bitcoin Briefly Surpasses $70,000 USDT",
+          "summary": "Bitcoin crossed above 70,000 USDT early February 10, trading at 70,116 USDT per Binance data, amid volatile price action.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/289974224377841"
         }
       ],
       "citations": [
-        "https://trakx.io/resources/weekly-update/crypto-carnage-on-surging-ai-fears-february-9-2026/",
-        "https://phemex.com/blogs/bitcoin-price-analysis-weekly-outlook-feb-10-16-2026",
         "https://cryptoslate.com/white-house-meeting-can-unfreeze-the-clarity-act-this-week-but-crypto-rewards-liklely-to-be-the-price/",
-        "https://journalrecord.com/2026/02/09/bitcoin-rebounds-65000-largest-weekly-drop-2022/",
-        "https://www.kedglobal.com/cryptocurrencies/newsView/ked202602090002",
-        "https://www.realclearmarkets.com/articles/2026/02/10/bitcoins_slide_isnt_a_market_panic_its_a_legitimacy_test_1163477.html"
+        "https://www.heygotrade.com/en/news/blackrocks-36b-crypto-outflow-signal-of-market-stress/",
+        "https://ca.investing.com/news/cryptocurrency-news/bitcoin-price-today-slips-below-70k-in-rangebound-trade-key-us-data-loom-4448391",
+        "https://www.youtube.com/watch?v=-IykdrlOKhE",
+        "https://www.youtube.com/watch?v=tYwrzJDN2wM",
+        "https://www.binance.com/en/square/post/289974224377841",
+        "https://www.japantimes.co.jp/commentary/2026/02/10/world/coming-crypto-apocalypse/"
       ]
     },
     "ai_news": {
@@ -225,51 +365,46 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "The Great AI Squeeze: Hyperscalers Face Massive Capex Pressures",
-          "summary": "Alphabet, Microsoft, and Amazon are signaling record capital expenditures for AI infrastructure, with Alphabet forecasting up to $185 billion in 2026 capex. Rising memory chip costs are creating supply chain pressures across the broader hardware industry.",
-          "source": "Interactive Brokers",
-          "url": "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/the-great-ai-squeeze-high-costs-take-center-stage-in-hyperscalers-earnings-reports/"
+          "title": "University of Michigan Unveils Prima AI for Rapid Brain MRI Analysis",
+          "summary": "Researchers at the University of Michigan developed Prima, an AI system that analyzes brain MRI scans in seconds with 97.5% accuracy, outperforming other models and prioritizing urgent cases. Published in Nature Biomedical Engineering, it could transform healthcare diagnostics amid rising MRI demand.",
+          "source": "Michigan Medicine - University of Michigan",
+          "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm"
         },
         {
-          "title": "Python 3.15 Shows JIT Compiler Speed Gains; PyTorch 2.10 Released",
-          "summary": "Python 3.15 alphas demonstrated JIT compiler performance improvements of 7-8% on some platforms, while PyTorch 2.10 landed with over 4,160 commits and significant performance enhancements including combo-kernels horizontal fusion and variable length attention support.",
-          "source": "Real Python",
-          "url": "https://realpython.com/python-news-february-2026/"
+          "title": "NTT DATA Acquires Zero&One to Boost AI and Cloud Services in MENA",
+          "summary": "NTT DATA acquired Zero&One, the first AWS Premier Tier Partner in the Middle East and North Africa, enhancing its AI, machine learning, cloud-native services, and data analytics capabilities. The move targets rapid growth in the regional cloud market.",
+          "source": "NTT DATA",
+          "url": "https://www.nttdata.com/global/en/news/press-release/2026/february/021000"
         },
         {
-          "title": "GitHub Copilot SDK Now in Technical Preview",
-          "summary": "GitHub announced the Copilot SDK in technical preview, enabling developers to embed agentic AI capabilities directly into applications with support for Python, Node.js, Go, and .NET.",
-          "source": "Real Python",
-          "url": "https://realpython.com/python-news-february-2026/"
+          "title": "Hybrid Quantum-AI Algorithm Achieves Sub-Exponential Speedup for Enzyme Optimization",
+          "summary": "Researchers demonstrated a hybrid quantum-classical algorithm using QUBO models and AI that reduces errors in enzyme fermentation optimization to 0.78%, offering O(n^2) complexity far better than brute-force methods. Detailed in arXiv preprint, it accelerates complex biological problem-solving.",
+          "source": "Quantum Zeitgeist",
+          "url": "https://quantumzeitgeist.com/quantum-computing-ai-combine-accelerate-complex-problem-solving/"
         },
         {
-          "title": "AI-Driven Cooling Fluid Research Advances Heat Transfer Technology",
-          "summary": "Researchers published findings on diamond-based nanofluids optimized with machine learning, demonstrating significantly improved heat transfer efficiency for microelectronics and renewable energy systems through AI-integrated computational frameworks.",
-          "source": "Mirage News",
-          "url": "https://www.miragenews.com/ai-drives-next-gen-cooling-fluid-design-for-tech-1616540/"
+          "title": "AI News: Multimodal Models Advance, On-Device AI Explodes, Major Investments Announced",
+          "summary": "Daily update highlights breakthroughs in multimodal AI processing text, images, video, and audio; rising on-device AI, open-source tools, and $200B investments in infrastructure. Trends include healthcare disease detection, 300% manufacturing efficiency gains, and AI ethics debates.",
+          "source": "AI News Daily Update",
+          "url": "https://www.youtube.com/watch?v=f4wxp8_zijg"
         },
         {
-          "title": "AI's Labor Market Impact Remains Limited Despite Targeted Job Cuts",
-          "summary": "Goldman Sachs reports that AI's overall impact on employment remains limited, though specific occupations like marketing, graphic design, customer service, and tech roles face disruption as companies implement AI-driven organizational changes.",
-          "source": "Akron Legal News",
-          "url": "https://www.akronlegalnews.com/editorial/37880"
-        },
-        {
-          "title": "Darveen Showcases Edge AI and Industrial Computing Solutions",
-          "summary": "Industrial computing leader Darveen will demonstrate AI-driven edge intelligence solutions at embedded world 2026, featuring 14th Gen Intel Core computers with GPU support and ARM-based industrial panel PCs for deep learning and machine vision applications.",
-          "source": "Darveen",
-          "url": "https://www.darveen.com/darveen-drives-industrial-resilience-and-edge-intelligence-at-embedded-world-2026/"
+          "title": "Harvard Business Review: AI Intensifies Work Rather Than Reducing It",
+          "summary": "New research shows AI tools like document drafting and code debugging do not lessen workloads but intensify them, challenging promises of freeing time for high-value tasks amid low employee adoption.",
+          "source": "Harvard Business Review",
+          "url": "https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it"
         }
       ],
       "citations": [
-        "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/the-great-ai-squeeze-high-costs-take-center-stage-in-hyperscalers-earnings-reports/",
-        "https://realpython.com/python-news-february-2026/",
-        "https://www.akronlegalnews.com/editorial/37880",
-        "https://www.miragenews.com/ai-drives-next-gen-cooling-fluid-design-for-tech-1616540/",
-        "https://www.darveen.com/darveen-drives-industrial-resilience-and-edge-intelligence-at-embedded-world-2026/"
+        "https://www.youtube.com/watch?v=f4wxp8_zijg",
+        "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
+        "https://quantumzeitgeist.com/quantum-computing-ai-combine-accelerate-complex-problem-solving/",
+        "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/next-ai-ml-stig-lecture-9-feb-2026/",
+        "https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it",
+        "https://www.nttdata.com/global/en/news/press-release/2026/february/021000"
       ]
     },
     "gaming": {
@@ -277,34 +412,46 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Overwatch Drops the '2' and Launches Reign of Talon with 10 New Heroes",
-          "summary": "Blizzard has retired the '2' from Overwatch, rebranding it as a single continuously evolving platform rather than a sequel. The Reign of Talon Season 1 launches with 10 new heroes, faster development cycles, and a commitment to handcrafted content over AI-generated material.",
-          "source": "God is a Geek",
-          "url": "https://godisageek.com/2026/02/overwatch-2026-drops-2-reign-of-talon-launch-feb-10/"
+          "title": "CyberConnect2 Announces 30th Anniversary Game Project Reveal on February 16",
+          "summary": "CyberConnect2 will unveil a completely new video game title as the culmination of its technology, strength, and courage on Monday, February 16, 2026.",
+          "source": "My Nintendo News",
+          "url": "https://mynintendonews.com/2026/02/09/cyberconnect2-announcing-30th-anniversary-project-16th-february/"
         },
         {
-          "title": "Crisol: Theater of Idols Releases on Multiple Platforms",
-          "summary": "Crisol: Theater of Idols, a first-person action horror game set in a nightmarish environment, launches on PS5, Xbox Series X|S, and PC.",
-          "source": "Instant Gaming",
+          "title": "PlayStation State of Play Scheduled for February 12 with Over 60 Minutes of Announcements",
+          "summary": "Sony's State of Play livestream on Thursday, February 12 at 2 PM PT / 5 PM ET will feature news, gameplay updates, and announcements from third-party, indie, and PlayStation Studios games for PS5.",
+          "source": "GameSpot / Game8",
+          "url": "https://www.youtube.com/watch?v=PXM3qwmCZsc"
+        },
+        {
+          "title": "Crisol: Theater of Idols Releases Today on PS5, Xbox Series X|S, and PC",
+          "summary": "The first-person action horror game set in a nightmarish version of Mexico launches on February 10, 2026, across multiple platforms.",
+          "source": "Instant Gaming News",
           "url": "https://news.instant-gaming.com/en/articles/17770-this-week-s-releases-from-february-9-to-15-2026"
         },
         {
-          "title": "Sony Announces Extended State of Play Showcase",
-          "summary": "Sony is hosting its first games showcase of 2026 this week, running for more than an hour—one of the longest State of Play events to date.",
-          "source": "Neowin",
-          "url": "https://www.neowin.net/news/sonys-february-state-of-play-showcase-will-run-for-more-than-an-hour/"
+          "title": "Xsolla to Showcase New Direct-to-Consumer Brand for Developers at DICE Summit 2026",
+          "summary": "Xsolla announces a new brand at DICE Summit 2026 to empower developers with tools to launch, grow, and succeed in direct-to-consumer models.",
+          "source": "Games Press",
+          "url": "https://www.gamespress.com/en-US/XSOLLA-TO-SHOWCASE-NEW-BRAND-WITH-ALL-THE-THINGS-FOR-DEVELOPERS-TO-GO-"
+        },
+        {
+          "title": "Take-Two Praises Netflix Partnership as Red Dead Redemption Nears Milestone",
+          "summary": "Take-Two highlights its Netflix collaboration amid recent financial results, with Roblox also raising its full-year revenue forecast to $6-6.2 billion.",
+          "source": "The Game Business",
+          "url": "https://www.thegamebusiness.com/p/take-two-hails-netflix-as-red-dead"
         }
       ],
       "citations": [
-        "https://godisageek.com/2026/02/overwatch-2026-drops-2-reign-of-talon-launch-feb-10/",
+        "https://mynintendonews.com/2026/02/09/cyberconnect2-announcing-30th-anniversary-project-16th-february/",
         "https://www.thegamebusiness.com/p/take-two-hails-netflix-as-red-dead",
+        "https://www.youtube.com/watch?v=PXM3qwmCZsc",
+        "https://game8.co/articles/latest/playstation-state-of-play-february-2026-everything-announced",
         "https://news.instant-gaming.com/en/articles/17770-this-week-s-releases-from-february-9-to-15-2026",
-        "https://www.neowin.net/news/sonys-february-state-of-play-showcase-will-run-for-more-than-an-hour/",
-        "https://www.gamespress.com/en-US/XSOLLA-TO-SHOWCASE-NEW-BRAND-WITH-ALL-THE-THINGS-FOR-DEVELOPERS-TO-GO-",
-        "https://gamerant.com/game/name-that-game-2026-02-10/"
+        "https://www.gamespress.com/en-US/XSOLLA-TO-SHOWCASE-NEW-BRAND-WITH-ALL-THE-THINGS-FOR-DEVELOPERS-TO-GO-"
       ]
     },
     "tech_news": {
@@ -312,11 +459,39 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 4,
+      "items": [
+        {
+          "title": "Alphabet Launches $20 Billion Global Bond Offering Including Historic 100-Year Bond",
+          "summary": "Alphabet is conducting a major global bond spree to raise $20 billion to fund its massive AI spending plans, including pitching investors in Switzerland and the UK. The offering includes tech's first 100-year bond since the dot-com era.",
+          "source": "Bloomberg",
+          "url": "https://www.youtube.com/watch?v=BzomuKO-aGA"
+        },
+        {
+          "title": "S&P 500 and Nasdaq Rally as Tech Stocks Rebound Ahead of Earnings",
+          "summary": "The S&P 500 edged closer to record highs while the Nasdaq Composite posted strong gains, with technology stocks leading the advance. The Dow Jones Industrial Average also achieved a new all-time high.",
+          "source": "Bloomberg/Whalesbook",
+          "url": "https://www.youtube.com/watch?v=W3Ik6LKcHHc"
+        },
+        {
+          "title": "Global Markets Extend Gains on Tech Optimism; Asian Bourses Rally",
+          "summary": "Japan's Nikkei 225 surged to fresh record levels following Prime Minister Sanae Takaichi's landslide election victory, while South Korea's Kospi and India's indices also traded higher on market-friendly sentiment.",
+          "source": "Whalesbook",
+          "url": "https://www.whalesbook.com/news/English/Stock-Investment-Ideas/AI-Surge-Fuels-Tech-Rally-Silver-Shines-Amid-Mixed-Economic-Signals/698a903e757d40c781847dce"
+        },
+        {
+          "title": "2026 IPO Market Shows Strong Enthusiasm for Tech Companies",
+          "summary": "The IPO market is experiencing renewed enthusiasm in 2026, with multiple technology companies preparing to go public amid broader market optimism.",
+          "source": "Yahoo Finance",
+          "url": "https://www.youtube.com/watch?v=6A5Dl-XnFBA"
+        }
+      ],
       "citations": [
-        "https://www.youtube.com/watch?v=L2rkXjd1WgM",
-        "https://www.fool.ca/2026/02/09/1-magnificent-canadian-tech-stock-down-60-a-decades-long-hold/"
+        "https://www.youtube.com/watch?v=BzomuKO-aGA",
+        "https://simplywall.st/stocks/ca/software/cse-act/aduro-clean-technologies-shares/news/high-growth-tech-stocks-to-watch-in-february-2026-2/amp",
+        "https://www.youtube.com/watch?v=W3Ik6LKcHHc",
+        "https://www.whalesbook.com/news/English/Stock-Investment-Ideas/AI-Surge-Fuels-Tech-Rally-Silver-Shines-Amid-Mixed-Economic-Signals/698a903e757d40c781847dce",
+        "https://www.youtube.com/watch?v=6A5Dl-XnFBA"
       ]
     }
   }
