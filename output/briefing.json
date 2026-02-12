@@ -1,163 +1,11 @@
 {
-  "generated_at": "2026-02-11T18:22:09.023443+00:00",
-  "generated_at_human": "2026-02-11 18:22 UTC",
+  "generated_at": "2026-02-12T00:25:21.326364+00:00",
+  "generated_at_human": "2026-02-12 00:25 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "category": "tech_ai_nerd",
-      "count": 25,
-      "items": [
-        {
-          "title": "Toyota Fluorite: \"console-grade\" Flutter game engine",
-          "url": "https://fluorite.game/",
-          "score": 86,
-          "comments": 37
-        },
-        {
-          "title": "GLM-5: From Vibe Coding to Agentic Engineering",
-          "url": "https://z.ai/blog/glm-5",
-          "score": 151,
-          "comments": 80
-        },
-        {
-          "title": "GLM-OCR: Accurate × Fast × Comprehensive",
-          "url": "https://github.com/zai-org/GLM-OCR",
-          "score": 120,
-          "comments": 45
-        },
-        {
-          "title": "WiFi Could Become an Invisible Mass Surveillance System",
-          "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
-          "score": 149,
-          "comments": 73
-        },
-        {
-          "title": "It's all a blur",
-          "url": "https://lcamtuf.substack.com/p/its-all-a-blur",
-          "score": 271,
-          "comments": 57
-        },
-        {
-          "title": "A shortage of tenors",
-          "url": "https://www.economist.com/culture/2026/02/09/the-world-is-suffering-from-a-shortage-of-tenors",
-          "score": 24,
-          "comments": 8
-        },
-        {
-          "title": "It's not finance, it's your pensions",
-          "url": "https://theloop.ecpr.eu/its-not-finance-its-your-pensions/",
-          "score": 11,
-          "comments": 9
-        },
-        {
-          "title": "Show HN: AI agents play SimCity through a REST API",
-          "url": "https://hallucinatingsplines.com",
-          "score": 113,
-          "comments": 35
-        },
-        {
-          "title": "FAA halts all flights at El Paso airport for 10 days",
-          "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
-          "score": 229,
-          "comments": 415
-        },
-        {
-          "title": "Why Vampires Live Forever",
-          "url": "https://machielreyneke.com/blog/vampires-longevity/",
-          "score": 150,
-          "comments": 52
-        },
-        {
-          "title": "We rendered and embedded one million CAD files",
-          "url": "https://cad-search-three.vercel.app/",
-          "score": 5,
-          "comments": 5
-        },
-        {
-          "title": "Rome is studded with cannon balls (2022)",
-          "url": "https://essenceofrome.com/rome-is-studded-with-cannon-balls",
-          "score": 70,
-          "comments": 6
-        },
-        {
-          "title": "Exposure Simulator",
-          "url": "http://www.andersenimages.com/tutorials/exposure-simulator/",
-          "score": 93,
-          "comments": 36
-        },
-        {
-          "title": "Should your developer company go open source?",
-          "url": "https://extremefoundership.substack.com/p/should-your-developer-company-go",
-          "score": 5,
-          "comments": 2
-        },
-        {
-          "title": "AI-First Company Memos",
-          "url": "https://the-ai-native.company/",
-          "score": 76,
-          "comments": 120
-        },
-        {
-          "title": "Show HN: Renovate – The Kubernetes-Native Way",
-          "url": "https://github.com/mogenius/renovate-operator",
-          "score": 27,
-          "comments": 13
-        },
-        {
-          "title": "The Day the Telnet Died",
-          "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
-          "score": 458,
-          "comments": 337
-        },
-        {
-          "title": "Lessons you will learn living in a snowy place",
-          "url": "https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/",
-          "score": 242,
-          "comments": 230
-        },
-        {
-          "title": "Railway (PaaS) global outage",
-          "url": "https://status.railway.com",
-          "score": 64,
-          "comments": 53
-        },
-        {
-          "title": "Communities are not fungible",
-          "url": "https://www.joanwestenberg.com/communities-are-not-fungible/",
-          "score": 153,
-          "comments": 71
-        },
-        {
-          "title": "The Feynman Lectures on Physics (1961-1964)",
-          "url": "https://www.feynmanlectures.caltech.edu/",
-          "score": 437,
-          "comments": 113
-        },
-        {
-          "title": "Windows Notepad App Remote Code Execution Vulnerability",
-          "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-          "score": 647,
-          "comments": 404
-        },
-        {
-          "title": "Chrome extensions spying on users' browsing data",
-          "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
-          "score": 388,
-          "comments": 161
-        },
-        {
-          "title": "Ask HN: Why are electronics still so unrecyclable?",
-          "url": "https://news.ycombinator.com/item?id=46975933",
-          "score": 35,
-          "comments": 62
-        },
-        {
-          "title": "CoLoop (YC S21) Is Hiring Ex Technical Founders in London",
-          "url": "https://www.workatastartup.com/jobs/90016",
-          "score": 1,
-          "comments": 0
-        }
-      ]
+      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Read timed out. (read timeout=5)",
+      "items": []
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -167,42 +15,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 66697,
-          "change_24h": -4.05,
-          "change_7d": -7.87,
-          "market_cap": 1322608417803
+          "price": 67312,
+          "change_24h": -2.37,
+          "change_7d": -7.82,
+          "market_cap": 1345077803835
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1931.82,
-          "change_24h": -4.77,
-          "change_7d": -9.15,
-          "market_cap": 231265510989
+          "price": 1949.66,
+          "change_24h": -3.7,
+          "change_7d": -9.04,
+          "market_cap": 235196961710
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 79.06,
-          "change_24h": -6.34,
-          "change_7d": -13.19,
-          "market_cap": 44697654151
+          "price": 79.63,
+          "change_24h": -4.27,
+          "change_7d": -13.51,
+          "market_cap": 45216729931
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.09044,
-          "change_24h": -3.43,
-          "change_7d": -11.77,
-          "market_cap": 15158911143
+          "price": 0.091374,
+          "change_24h": -1.46,
+          "change_7d": -12.05,
+          "market_cap": 15417284833
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.256458,
-          "change_24h": -2.45,
-          "change_7d": -10.05,
-          "market_cap": 9374373491
+          "price": 0.257284,
+          "change_24h": -1.9,
+          "change_7d": -9.33,
+          "market_cap": 9466418232
         }
       ]
     },
@@ -212,14 +60,9 @@
       "count": 10,
       "items": [
         {
-          "name": "LayerZero",
-          "symbol": "ZRO",
-          "market_cap_rank": 96
-        },
-        {
-          "name": "Uniswap",
-          "symbol": "UNI",
-          "market_cap_rank": 38
+          "name": "Berachain",
+          "symbol": "BERA",
+          "market_cap_rank": 172
         },
         {
           "name": "Bitcoin",
@@ -227,19 +70,24 @@
           "market_cap_rank": 1
         },
         {
+          "name": "LayerZero",
+          "symbol": "ZRO",
+          "market_cap_rank": 105
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 53
+        },
+        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
           "market_cap_rank": 114
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
-        },
-        {
-          "name": "Aster",
-          "symbol": "ASTER",
-          "market_cap_rank": 43
+          "name": "Uniswap",
+          "symbol": "UNI",
+          "market_cap_rank": 38
         },
         {
           "name": "Solana",
@@ -247,19 +95,19 @@
           "market_cap_rank": 7
         },
         {
-          "name": "pippin",
-          "symbol": "PIPPIN",
-          "market_cap_rank": 99
-        },
-        {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 4
-        },
-        {
           "name": "Ethereum",
           "symbol": "ETH",
           "market_cap_rank": 2
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 16
+        },
+        {
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 58
         }
       ]
     },
@@ -268,30 +116,50 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 6,
       "items": [
         {
-          "title": "Dow Hits New Record Close Above 50,000 Amid Flat Session",
-          "summary": "The Dow Jones rose 0.10% to a record 50,188.14 on February 10, while Nasdaq fell 0.59% and S&P 500 treaded water after unchanged December retail sales data. Markets showed low volatility with mean-reversion ahead of key NFP jobs report expected below 100K.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/latest-news/stock-market-today-feb-10-stocks-are-flat-after-retail-sales-are-unchanged-in-december"
+          "title": "US Stocks Settle Mixed as Stronger Payrolls Reduce Fed Rate Cut Odds",
+          "summary": "Major US indexes closed mixed on Wednesday: S&P 500 unchanged at a 2-week high, Dow down 0.13%, Nasdaq 100 up 0.29%. Stronger-than-expected January payrolls raised 10-year T-note yield to 4.17% and cut March FOMC rate cut chances to 6% from 23%.[3]",
+          "source": "Barchart.com",
+          "url": "https://www.barchart.com/story/news/167217/stocks-settle-mixed-as-fed-rate-cut-chances-slip"
         },
         {
-          "title": "Retail Sales Unchanged, Raising Doubts Ahead of NFP",
-          "summary": "U.S. retail sales were flat in December, contributing to a calm, low-volatility session as traders position for Thursday's crucial nonfarm payrolls release with consensus at 70K and below 100K expected. A weak print could accelerate rate cut pricing, while a strong beat above 140K would reduce it.",
-          "source": "MarketPulse",
-          "url": "https://www.marketpulse.com/markets/market-wrap-feb-10-2026/"
+          "title": "Nifty 50 Gains 0.07% Extending Rally, Eyes 26,000 Breakout",
+          "summary": "India's Nifty 50 closed up 0.07% on February 11 in range-bound trade, marking four straight days of gains with higher highs/lows pattern. Support at 25,780; needs close above 26,000 for record high push amid bullish indicators.[1]",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-february-12-top-15-things-to-know-before-the-opening-bell-2-13824071.html"
         },
         {
-          "title": "Spotify Surges 15.5% on Strong Earnings; S&P Global Drops 7%",
-          "summary": "Spotify led earnings reactions with a 15.5% gain after strong results, joined by double-digit moves in DataDog, while S&P Global fell 7% on weak guidance and Xylem dropped 9%. Coca-Cola dipped 2% despite in-line forecasts, with AstraZeneca highlighting weight-loss drug plans.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/latest-news/stock-market-today-feb-10-stocks-are-flat-after-retail-sales-are-unchanged-in-december"
+          "title": "Bank Nifty Holds Strength Near Upper Bollinger Bands Despite Consolidation",
+          "summary": "Bank Nifty traded range-bound with a small bullish candle, sustaining above prior gap and near upper Bollinger Bands. Momentum indicators show buy signals with RSI at 60.68, indicating underlying strength.[1]",
+          "source": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-february-12-top-15-things-to-know-before-the-opening-bell-2-13824071.html"
+        },
+        {
+          "title": "Chip Stocks Lead Gains: Micron Surges Over 10% in Nasdaq Advance",
+          "summary": "Micron Technology rose more than 10%, NXP Semiconductors and Microchip Technology up over 5%, boosting Nasdaq 100 amid AI infrastructure strength. This supported broader market despite mixed session.[3]",
+          "source": "Barchart.com",
+          "url": "https://www.barchart.com/story/news/167217/stocks-settle-mixed-as-fed-rate-cut-chances-slip"
+        },
+        {
+          "title": "Key Earnings Reports Due February 12 Including Airbnb, Coinbase, Applied Materials",
+          "summary": "Companies reporting earnings on February 12, 2026 include Airbnb (ABNB), Coinbase (COIN), Applied Materials (AMAT), Arista Networks (ANET), and others like Dexcom and American Electric Power.[3]",
+          "source": "Barchart.com",
+          "url": "https://www.barchart.com/story/news/167217/stocks-settle-mixed-as-fed-rate-cut-chances-slip"
+        },
+        {
+          "title": "Indian Markets Eye Flat-to-Positive Open; Gift Nifty Up 0.13%, VIX Eases",
+          "summary": "Gift Nifty signals mild positive start for Indian indices amid mixed European cues; India VIX down 1.05% to 11.5475. FIIs net buyers recently with DII support limiting downside.[4]",
+          "source": "5paisa",
+          "url": "https://www.5paisa.com/blog/sensex-nifty-stock-market-live-updates-february-12-2026"
         }
       ],
       "citations": [
-        "https://www.thestreet.com/latest-news/stock-market-today-feb-10-stocks-are-flat-after-retail-sales-are-unchanged-in-december",
-        "https://www.marketpulse.com/markets/market-wrap-feb-10-2026/"
+        "https://www.moneycontrol.com/news/business/markets/trade-setup-for-february-12-top-15-things-to-know-before-the-opening-bell-2-13824071.html",
+        "https://polymarket.com/event/dji-up-or-down-on-february-12-2026",
+        "https://www.barchart.com/story/news/167217/stocks-settle-mixed-as-fed-rate-cut-chances-slip",
+        "https://www.5paisa.com/blog/sensex-nifty-stock-market-live-updates-february-12-2026"
       ]
     },
     "crypto_news": {
@@ -299,50 +167,46 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Bitcoin Drops 3% to $66,000 Amid Bearish Momentum",
-          "summary": "Bitcoin fell nearly 3% on February 11, 2026, testing $66,000 and breaking below the 200-week EMA at $68,000 for the first time since the recent rally, with analysts warning of weak buyer momentum to reclaim $69,000.[1][2]",
-          "source": "Finance Magnates",
-          "url": "https://www.financemagnates.com/trending/why-crypto-is-falling-today-bitcoin-price-tests-66k-while-xrp-dogecoin-and-ethereum-drop/"
+          "title": "Hong Kong Allows Bitcoin and Ether as Margin Collateral",
+          "summary": "Hong Kong's Securities and Futures Commission plans to permit Bitcoin and Ethereum as collateral for margin financing, alongside new rules for perpetual contracts and market-making on licensed platforms. The policy was unveiled at the Consensus 2026 conference on February 11.",
+          "source": "Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-02-12/hong-kong-to-allow-bitcoin-ether-as-margin-collateral-in-crypto-push-102413763.html"
         },
         {
-          "title": "Ethereum Declines 3.5% to $1,950, Downside Breakout Anticipated",
-          "summary": "Ethereum dropped 3.5% to $1,950, remaining trapped in a consolidation range with resistance at $2,100 and support at $1,800; analysts expect a bearish breakout toward $1,400 or even $1,000.[1]",
-          "source": "Finance Magnates",
-          "url": "https://www.financemagnates.com/trending/why-crypto-is-falling-today-bitcoin-price-tests-66k-while-xrp-dogecoin-and-ethereum-drop/"
+          "title": "BlockFills Halts Client Withdrawals Amid Bitcoin Downturn",
+          "summary": "Chicago-based crypto liquidity provider BlockFills suspended client deposits and withdrawals due to a Bitcoin price downturn, following a 20% market drop last week. The halt is temporary, with trading still available.",
+          "source": "Sharecafe",
+          "url": "https://www.sharecafe.com.au/2026/02/12/blockfills-halts-withdrawals-amid-crypto-downturn/"
         },
         {
-          "title": "XRP and Dogecoin Follow Broader Crypto Sell-Off",
-          "summary": "XRP fell 2% to $1.37 and Dogecoin dropped 3% to $0.09, marking the fifth down session for DOGE, as cryptocurrencies declined for the third straight day.[1]",
-          "source": "Finance Magnates",
-          "url": "https://www.financemagnates.com/trending/why-crypto-is-falling-today-bitcoin-price-tests-66k-while-xrp-dogecoin-and-ethereum-drop/"
+          "title": "Coinbase Earnings Preview Amid Bitcoin Selloff Concerns",
+          "summary": "Coinbase is set to report earnings on February 12 with expected EPS of $1.15 on $1.96B revenue, facing worries from a Bitcoin selloff, JP Morgan downgrade, and weak trading volumes. Implied volatility suggests a potential 17% stock move.",
+          "source": "tastylive",
+          "url": "https://www.tastylive.com/news-insights/coinbase-earnings-preview---bitcoin-selloff-brews-worry"
         },
         {
-          "title": "Bears in Control of Bitcoin Market per Daily Chart Analysis",
-          "summary": "Bitcoin futures weakened on February 11, 2026, with bears dominating amid a persistent downtrend, pausing after recent volatility.[3]",
-          "source": "Kitco News",
-          "url": "https://www.kitco.com/news/article/2026-02-11/bitcoin-february-11-daily-chart-alert-bears-control-amid-price-downtrend"
+          "title": "Bitcoin Activity in Nancy Guthrie Ransom Case",
+          "summary": "Bitcoin was reportedly sent to a wallet linked to a ransom note in the disappearance of Nancy Guthrie, mother of 'Today' show host Savannah Guthrie. A new note demanded 1 BTC (~$70,000) for kidnapper information.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/"
         },
         {
-          "title": "Layer Z0 Announces Layer 1 Blockchain with 2M TPS",
-          "summary": "Layer Z0 revealed its own Layer 1 blockchain leveraging Layer 0 infrastructure, promising up to 2 million transactions per second, in partnership with Ark Invest and Cathie Wood.[4]",
-          "source": "YouTube (CPT Crypto)",
-          "url": "https://www.youtube.com/watch?v=1ENcXtcglmw"
-        },
-        {
-          "title": "US Banks and White House Meeting Impact Crypto Prices",
-          "summary": "A White House meeting between crypto sector and banks yesterday contributed to Bitcoin's decline today, amid broader market weakness linked to US unemployment and inflation data.[4]",
-          "source": "YouTube (CPT Crypto)",
-          "url": "https://www.youtube.com/watch?v=1ENcXtcglmw"
+          "title": "iShares Bitcoin ETP Issues 660,000 New Securities",
+          "summary": "iShares Bitcoin ETP issued 660,000 new securities, set to begin trading on the London Stock Exchange main market on February 12, 2026.",
+          "source": "RootData",
+          "url": "http://www.rootdata.com/news/543161"
         }
       ],
       "citations": [
-        "https://www.financemagnates.com/trending/why-crypto-is-falling-today-bitcoin-price-tests-66k-while-xrp-dogecoin-and-ethereum-drop/",
-        "https://www.binance.com/en/square/post/02-11-2026-bitcoin-news-today-bitcoin-slides-3-as-analyst-warns-bulls-lack-momentum-to-reclaim-69k-290473386075426",
-        "https://www.kitco.com/news/article/2026-02-11/bitcoin-february-11-daily-chart-alert-bears-control-amid-price-downtrend",
-        "https://www.youtube.com/watch?v=1ENcXtcglmw"
+        "https://www.caixinglobal.com/2026-02-12/hong-kong-to-allow-bitcoin-ether-as-margin-collateral-in-crypto-push-102413763.html",
+        "https://www.sharecafe.com.au/2026/02/12/blockfills-halts-withdrawals-amid-crypto-downturn/",
+        "https://www.tastylive.com/news-insights/coinbase-earnings-preview---bitcoin-selloff-brews-worry",
+        "https://economictimes.com/news/international/uae/cryptocurrency-in-2026-how-dubais-regulatory-model-is-shaping-safer-crypto-investing/articleshow/128190412.cms",
+        "https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/",
+        "http://www.rootdata.com/news/543161"
       ]
     },
     "ai_news": {
@@ -350,35 +214,52 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 6,
       "items": [
         {
-          "title": "New AI Sensor 'Sniffs' Out Spectral Targets",
-          "summary": "Berkeley Lab has developed a first-of-its-kind AI-enhanced sensor that can identify target objects in real-time by analyzing spectral images. The sensor improves speed, resolution, and power efficiency of existing spectral machine vision technologies by more than two orders of magnitude.",
-          "source": "Berkeley Lab",
-          "url": "https://newscenter.lbl.gov/2026/02/11/new-ai-sensor-sniffs-out-spectral-targets/"
+          "title": "Elon Musk's xAI Faces Internal Turmoil Amid Major Funding Rounds",
+          "summary": "xAI is dealing with significant internal changes, while investors pour funds into multimodal AI capable of world models. Other developments include India's deepfake removal mandate effective February 20, Boston Dynamics CEO stepping down, and Cloudflare's AI-driven sales surge.",
+          "source": "AI Academy YouTube",
+          "url": "https://www.youtube.com/watch?v=3cOf_mi9QRY"
         },
         {
-          "title": "Red Hat Unifies AI and Tactical Edge Deployment for UK MOD",
-          "summary": "The UK Ministry of Defence has selected Red Hat to architect a unified AI and hybrid cloud backbone across its entire estate, marking a significant enterprise AI deployment.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com"
+          "title": "Transformer-Based AI Achieves Highly Accurate Battery Health Diagnostics",
+          "summary": "Researchers at UNIST developed a configuration-agnostic AI model using transformers that identifies key health indicators for lithium-ion batteries, reducing prediction error to 1.90×10⁻² from 6.31×10⁻². The model promises applications in EVs, energy storage, and recycling.",
+          "source": "TechXplore",
+          "url": "https://techxplore.com/news/2026-02-gen-ai-accurate-battery-diagnostics.html"
         },
         {
-          "title": "Chinese AI Models Dominating Open-Source as Western Labs Step Back",
-          "summary": "Chinese AI models like Qwen2 now dominate 175,000 exposed systems globally as Western labs face regulatory pressure, revealing a shift in open-source AI development landscape.",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com"
+          "title": "University of Bayreuth AI Method Speeds Up Liquid Simulations",
+          "summary": "A new neural network learns the universal density functional of liquids, enabling accurate prediction of chemical potentials without direct training. This physics-informed AI accelerates simulations for soft matter systems.",
+          "source": "Phys.org",
+          "url": "https://phys.org/news/2026-02-ai-method-liquid-simulations-fundamental.html"
+        },
+        {
+          "title": "Geo Week 2026 Highlights AI for US Infrastructure Management",
+          "summary": "Geo Week conference on February 16-18 will showcase AI-powered geospatial analytics for predictive infrastructure maintenance, including asset inventory and bridge failure prediction amid America's $1 trillion aging infrastructure crisis.",
+          "source": "Autonomy Global",
+          "url": "https://www.autonomyglobal.co/geo-week-examines-how-ai-is-tackling-americas-trillion-dollar-aging-infrastructure-crisis/"
+        },
+        {
+          "title": "AI Magazine Features Thales CAIO on Frugal AI and Quantum Computing",
+          "summary": "Latest AI Magazine issue spotlights Ajay Chakravarthy, CAIO at Thales, discussing frugal AI, quantum computing, and human-machine teaming.",
+          "source": "Manila Times",
+          "url": "https://www.manilatimes.net/2026/02/12/tmt-newswire/globenewswire/ai-magazines-latest-issue-features-ajay-chakravarthy-caio-at-thales-on-frugal-ai-quantum-computng-and-human-machine-teaming/2276493"
+        },
+        {
+          "title": "Reports Emerge of Botched Surgeries as AI Enters Operating Rooms",
+          "summary": "As AI integrates into surgical procedures, incidents of botched surgeries and misidentified body parts are being reported, raising concerns over reliability.",
+          "source": "BusinessWorld",
+          "url": "https://www.bworldonline.com/technology/2026/02/12/729899/as-ai-enters-the-operating-room-reports-arise-of-botched-surgeries-and-misidentified-body-parts/?amp"
         }
       ],
       "citations": [
-        "https://newscenter.lbl.gov/2026/02/11/new-ai-sensor-sniffs-out-spectral-targets/",
-        "https://www.artificialintelligence-news.com",
-        "https://www.marketbeat.com/instant-alerts/best-artificial-intelligence-stocks-to-consider-february-11th-2026-02-11/",
-        "https://quantumzeitgeist.com/ai-now-builds-realistic-worlds-simple/",
-        "https://www.roboticstomorrow.com/news/2026/02/11/geo-week-examines-how-ai-is-tackling-americas-trillion-dollar-aging-infrastructure-crisis/26134/",
-        "https://www.davidworlock.com/2026/02/notation-open-source-ai-meets-a-closing-door/",
-        "https://record.umich.edu/articles/look-to-leadership-why-human-centered-ai-is-a-necessity/"
+        "https://www.youtube.com/watch?v=3cOf_mi9QRY",
+        "https://techxplore.com/news/2026-02-gen-ai-accurate-battery-diagnostics.html",
+        "https://phys.org/news/2026-02-ai-method-liquid-simulations-fundamental.html",
+        "https://www.autonomyglobal.co/geo-week-examines-how-ai-is-tackling-americas-trillion-dollar-aging-infrastructure-crisis/",
+        "https://www.manilatimes.net/2026/02/12/tmt-newswire/globenewswire/ai-magazines-latest-issue-features-ajay-chakravarthy-caio-at-thales-on-frugal-ai-quantum-computng-and-human-machine-teaming/2276493",
+        "https://www.bworldonline.com/technology/2026/02/12/729899/as-ai-enters-the-operating-room-reports-arise-of-botched-surgeries-and-misidentified-body-parts/?amp"
       ]
     },
     "gaming": {
@@ -386,66 +267,38 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 4,
       "items": [
         {
-          "title": "Intrepid Studios Shuts Down, Halting Ashes of Creation Development",
-          "summary": "Ashes of Creation developer Intrepid Studios has shut down, marking a significant setback for the long-in-development MMORPG. The closure was reported on February 10, 2026.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com"
+          "title": "PlayStation State of Play Scheduled for February 12 with Major Game Reveals",
+          "summary": "Sony announced a PlayStation State of Play livestream on Thursday, February 12, 2026, at 2:00 P.M. PT / 5:00 P.M. ET, featuring over 60 minutes of reveals and updates. Expected highlights include a potential release date for Marvel’s Wolverine and updates on Marathon, Control Resonant, Phantom Blade Zero, and Sonic Racing: CrossWorlds.",
+          "source": "Game8",
+          "url": "https://game8.co/articles/latest/playstation-state-of-play-february-2026-everything-announced"
         },
         {
-          "title": "Krafton Reports Record Annual Revenue and Teases AI for Humanoid Robots",
-          "summary": "Krafton announced record annual revenue on February 10, 2026, while highlighting its AI technology's potential to develop humanoid robots. The company continues to expand in gaming and emerging tech.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com"
+          "title": "1200 Ubisoft Workers Strike Over Restructuring",
+          "summary": "Approximately 1200 Ubisoft employees, primarily in France and Milan, are striking from February 10 to 12, 2026, in response to recent company restructuring.",
+          "source": "NeoGAF",
+          "url": "https://www.neogaf.com/threads/1-200-ubisoft-workers-strike-in-response-to-recent-restructuring.1693317/"
         },
         {
-          "title": "Control Surpasses 5 Million Sales and 20 Million Players Milestone",
-          "summary": "Remedy's Control has achieved over 5 million sales and attracted 20 million players total, as revealed on February 10, 2026. The studio also appointed a former EA executive as new CEO.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com"
+          "title": "Circana Forecasts 3% Rise in U.S. Video Game Spending to $62.8B in 2026",
+          "summary": "Analyst firm Circana projects U.S. video game industry spending will increase 3% to $62.8 billion in 2026, exceeding the previous record of $61.7 billion from 2021.",
+          "source": "TipRanks",
+          "url": "https://www.tipranks.com/news/the-fly/circana-projects-u-s-video-game-industry-spending-to-rise-3-to-62-8b-in-2026-thefly"
         },
         {
-          "title": "Sony Confirms State of Play for February 12, 2026 with Potential Big Reveals",
-          "summary": "PlayStation has officially confirmed a State of Play event on February 12, 2026, with expectations for game announcements including possible Capcom titles and PlayStation Plus updates. Rumors suggest Devil May Cry 6 reveal.",
-          "source": "YouTube - Raptor React",
-          "url": "https://www.youtube.com/watch?v=3swPRWlgPYQ"
-        },
-        {
-          "title": "Subnautica 2 Tops Steam Wishlists for 2026 with 3.8 Million",
-          "summary": "Subnautica 2 leads 2026 Steam wishlists with 3.8 million, followed by Forza Horizon 6 at 2.6 million. The survival game is highly anticipated among upcoming releases.",
-          "source": "Instant Gaming News",
-          "url": "https://news.instant-gaming.com/en/articles/17835-subnautica-2-is-the-most-wishlisted-game-of-2026-on-steam"
-        },
-        {
-          "title": "Marathon Reveals Release Date, Pricing, Voice Cast, and System Requirements",
-          "summary": "Bungie's extraction shooter Marathon announced its release date, pricing, stacked voice cast, and recommended PC requirements in updates from the past day. Sales on Steam surged post-reveal.",
-          "source": "GameSpot",
-          "url": "https://www.gamedeveloper.com/news/"
-        },
-        {
-          "title": "Türkiye Development Fund Invests in Mobile Developer Ace Games",
-          "summary": "Türkiye's Development Fund invested in Istanbul-based Ace Games through its Technology and Innovation Fund, supporting mobile game development. This marks a new gaming-focused investment.",
-          "source": "Mobidictum",
-          "url": "https://mobidictum.com/turkiye-development-fund-invests-ace-games/"
-        },
-        {
-          "title": "PS Plus Extra Games for February 2026 Leak Online",
-          "summary": "Trusted leaker Billbil-kun revealed three PS Plus Extra games for February 2026, with one being a major addition. Details emerged in recent gaming news digests.",
-          "source": "Twin Galaxies",
-          "url": "https://www.twingalaxies.com/newsDetails/6445"
+          "title": "PS Plus Extra and Premium Game Catalog Additions Announced for February 2026",
+          "summary": "PlayStation Plus Extra and Premium subscribers have new Game Catalog titles available for February 2026.",
+          "source": "Allkeyshop",
+          "url": "https://www.allkeyshop.com/blog/ps-plus-extra-and-premium-free-games-for-february-2026-news-n"
         }
       ],
       "citations": [
-        "https://www.gamedeveloper.com",
-        "https://www.youtube.com/watch?v=3swPRWlgPYQ",
-        "https://www.youtube.com/watch?v=qNs0mJGNuqM",
-        "https://www.twingalaxies.com/newsDetails/6445",
-        "https://news.instant-gaming.com/en/articles/17835-subnautica-2-is-the-most-wishlisted-game-of-2026-on-steam",
-        "https://www.gamespot.com/news/",
-        "https://www.ddo.com/news/ddo-downtime-021126",
-        "https://mobidictum.com/turkiye-development-fund-invests-ace-games/"
+        "https://game8.co/articles/latest/playstation-state-of-play-february-2026-everything-announced",
+        "https://www.neogaf.com/threads/1-200-ubisoft-workers-strike-in-response-to-recent-restructuring.1693317/",
+        "https://www.tipranks.com/news/the-fly/circana-projects-u-s-video-game-industry-spending-to-rise-3-to-62-8b-in-2026-thefly",
+        "https://www.allkeyshop.com/blog/ps-plus-extra-and-premium-free-games-for-february-2026-news-n"
       ]
     },
     "tech_news": {
@@ -453,38 +306,32 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Cisco Launches AI Networking Chip to Challenge Nvidia and Broadcom",
-          "summary": "Cisco unveiled a new AI networking chip designed to speed data movement inside large AI clusters, positioning itself against entrenched players like Nvidia and Broadcom in the data-center networking space.",
-          "source": "Tech Startups",
-          "url": "https://techstartups.com/2026/02/11/top-tech-news-today-february-11-2026/"
+          "title": "Microsoft Plans Data Center Redesign with High-Temperature Superconductors",
+          "summary": "Microsoft announced plans to rewire its data centers using high-temperature superconductors (HTS) to reduce power consumption, space needs, and backlash over energy demands. The initiative includes HTS cables inside and outside data centers, following a partnership with President Trump to control electricity costs.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/facing-ban-and-backlash-microsoft-plans-to-rewire-data-centres-and-on-the-way-solve-every-american-technology-companys-big-ai-problem/articleshow/128214571.cms"
         },
         {
-          "title": "Microsoft Tests Superconducting Power Lines for Data Centers",
-          "summary": "Microsoft is exploring high-temperature superconducting power cables for data centers to deliver electricity with a smaller physical footprint, addressing bottlenecks in grid infrastructure as data centers scale faster than power grids can be upgraded.",
-          "source": "Tech Startups",
-          "url": "https://techstartups.com/2026/02/11/top-tech-news-today-february-11-2026/"
+          "title": "Marushika Technology Limited Opens IPO for Data Center and Cybersecurity Solutions",
+          "summary": "Marushika Technology, a provider of data center cybersecurity and IT infrastructure for government and PSU clients, launched its IPO on February 12, 2026. Proceeds will strengthen its balance sheet and support growth amid India's digital transformation.",
+          "source": "The Tribune India",
+          "url": "https://www.tribuneindia.com/news/business/marushika-technology-limited-a-key-player-in-data-centre-cybersecurity-solution-for-b2g-psu-opens-its-ipo-on-12th-february-2026/"
         },
         {
-          "title": "IBM Unveils Two New Quantum Supercomputers",
-          "summary": "IBM announced two new quantum supercomputers as quantum technology transitions from experimental breakthroughs to practical applications, with Denmark also planning to develop a powerful commercial quantum computer.",
-          "source": "The Quantum Insider",
-          "url": "https://thequantuminsider.com/2026/02/11/five-ways-quantum-technology-could-shape-everyday-life/"
-        },
-        {
-          "title": "Tech Stocks Decline Amid AI Investment Concerns",
-          "summary": "Tech stocks led US markets lower as investors express concerns that massive AI investments by major technology companies may not generate returns in the near term.",
-          "source": "TEAM Asset Management",
-          "url": "https://www.teamassetmanagement.com/news-and-reports/post/big-techs-ai-spend-fuels-bubble-concerns"
+          "title": "Tyler Technologies Schedules Q4 2025 Earnings Call and Announces $1 Billion Share Repurchase",
+          "summary": "Tyler Technologies, a leader in government technology software, will hold its Q4 2025 earnings conference call on February 12, 2026, and announced a $1 billion share repurchase plan. The company also plans to acquire For The Record.",
+          "source": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20260211734961/en/Tyler-Technologies-Reports-Fourth-Quarter-2025-Results"
         }
       ],
       "citations": [
-        "https://techstartups.com/2026/02/11/top-tech-news-today-february-11-2026/",
-        "https://www.youtube.com/watch?v=W6ThwtrNuwE",
-        "https://thequantuminsider.com/2026/02/11/five-ways-quantum-technology-could-shape-everyday-life/",
-        "https://www.teamassetmanagement.com/news-and-reports/post/big-techs-ai-spend-fuels-bubble-concerns"
+        "https://timesofindia.indiatimes.com/technology/tech-news/facing-ban-and-backlash-microsoft-plans-to-rewire-data-centres-and-on-the-way-solve-every-american-technology-companys-big-ai-problem/articleshow/128214571.cms",
+        "https://www.tribuneindia.com/news/business/marushika-technology-limited-a-key-player-in-data-centre-cybersecurity-solution-for-b2g-psu-opens-its-ipo-on-12th-february-2026/",
+        "https://www.businesswire.com/news/home/20260211734961/en/Tyler-Technologies-Reports-Fourth-Quarter-2025-Results",
+        "https://www.aol.com/articles/something-big-happening-ai-most-142200458.html"
       ]
     }
   }
