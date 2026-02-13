@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T12:12:21.890784+00:00",
-  "generated_at_human": "2026-02-13 12:12 UTC",
+  "generated_at": "2026-02-13T18:14:38.074553+00:00",
+  "generated_at_human": "2026-02-13 18:14 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "MinIO repository is no longer maintained",
-          "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
-          "score": 225,
-          "comments": 130
+          "title": "Monosketch",
+          "url": "https://monosketch.io/",
+          "score": 451,
+          "comments": 94
+        },
+        {
+          "title": "Dario Amodei – \"We are near the end of the exponential\"",
+          "url": "https://www.dwarkesh.com/p/dario-amodei-2",
+          "score": 14,
+          "comments": 5
+        },
+        {
+          "title": "Zed editor switching graphics lib from blade to wgpu",
+          "url": "https://github.com/zed-industries/zed/pull/46758",
+          "score": 218,
+          "comments": 178
+        },
+        {
+          "title": "Apple, fix my keyboard before the timer ends or I'm leaving iPhone",
+          "url": "https://ios-countdown.win/",
+          "score": 473,
+          "comments": 278
+        },
+        {
+          "title": "Open Source Is Not About You (2018)",
+          "url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
+          "score": 127,
+          "comments": 72
+        },
+        {
+          "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
+          "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+          "score": 83,
+          "comments": 33
+        },
+        {
+          "title": "Sandwich Bill of Materials",
+          "url": "https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html",
+          "score": 31,
+          "comments": 2
+        },
+        {
+          "title": "Green’s Dictionary of Slang - Five hundred years of the vulgar tongue",
+          "url": "https://greensdictofslang.com/",
+          "score": 61,
+          "comments": 11
+        },
+        {
+          "title": "Faster Than Dijkstra?",
+          "url": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
+          "score": 51,
+          "comments": 22
         },
         {
           "title": "Resizing windows on macOS Tahoe – the saga continues",
           "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
-          "score": 609,
-          "comments": 270
+          "score": 770,
+          "comments": 399
         },
         {
           "title": "MMAcevedo aka Lena by qntm",
           "url": "https://qntm.org/mmacevedo",
-          "score": 113,
-          "comments": 58
+          "score": 241,
+          "comments": 133
+        },
+        {
+          "title": "An open replacement for the IBM 3174 Establishment Controller",
+          "url": "https://github.com/lowobservable/oec",
+          "score": 14,
+          "comments": 3
         },
         {
           "title": "GPT‑5.3‑Codex‑Spark",
           "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-          "score": 762,
-          "comments": 315
+          "score": 839,
+          "comments": 368
+        },
+        {
+          "title": "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
+          "url": "https://github.com/nearai/ironclaw",
+          "score": 8,
+          "comments": 2
         },
         {
           "title": "Gemini 3 Deep Think",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-          "score": 892,
-          "comments": 577
+          "score": 986,
+          "comments": 648
         },
         {
-          "title": "GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC",
-          "url": "https://www.workatastartup.com/companies/govdash",
+          "title": "Implementing Auto Tiling with Just 5 Tiles",
+          "url": "https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html",
+          "score": 52,
+          "comments": 9
+        },
+        {
+          "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
+          "url": "http://qualify.gauntletAI.com",
           "score": 1,
           "comments": 0
         },
         {
+          "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
+          "url": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/",
+          "score": 44,
+          "comments": 29
+        },
+        {
           "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
           "url": "https://news.ycombinator.com/item?id=46996490",
-          "score": 282,
-          "comments": 12
-        },
-        {
-          "title": "An AI agent published a hit piece on me",
-          "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-          "score": 1893,
-          "comments": 760
-        },
-        {
-          "title": "We interfaced single-threaded C++ with multi-threaded Rust",
-          "url": "https://antithesis.com/blog/2026/rust_cpp/",
-          "score": 39,
-          "comments": 2
-        },
-        {
-          "title": "AWS Adds support for nested virtualization",
-          "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
-          "score": 213,
-          "comments": 77
-        },
-        {
-          "title": "Polis: Open-source platform for large-scale civic deliberation",
-          "url": "https://pol.is/home2",
-          "score": 272,
-          "comments": 102
-        },
-        {
-          "title": "Ring owners are returning their cameras",
-          "url": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
-          "score": 186,
-          "comments": 129
-        },
-        {
-          "title": "Particle Lenia",
-          "url": "https://znah.net/lenia/",
-          "score": 14,
-          "comments": 0
-        },
-        {
-          "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
-          "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-          "score": 700,
-          "comments": 259
-        },
-        {
-          "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
-          "url": "https://skipthe.tips/",
-          "score": 364,
-          "comments": 276
-        },
-        {
-          "title": "My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood",
-          "url": "https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/",
-          "score": 145,
-          "comments": 44
+          "score": 428,
+          "comments": 21
         },
         {
           "title": "Advanced Aerial Robotics Made Simple",
           "url": "https://www.drehmflight.com",
-          "score": 10,
-          "comments": 0
+          "score": 73,
+          "comments": 9
         },
         {
-          "title": "Ruby Newbie Is Joining the Ruby Users Forum",
-          "url": "https://www.rubyforum.org/tag/getting-started",
-          "score": 30,
-          "comments": 3
+          "title": "MinIO repository is no longer maintained",
+          "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+          "score": 401,
+          "comments": 282
         },
         {
-          "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
-          "url": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
-          "score": 220,
-          "comments": 240
+          "title": "Cache Monet",
+          "url": "https://cachemonet.com",
+          "score": 104,
+          "comments": 33
         },
         {
-          "title": "Israel used weapons in Gaza that made Palestinians evaporate",
-          "url": "https://www.aljazeera.com/features/2026/2/10/israel-used-weapons-in-gaza-that-made-thousands-of-palestinians-evaporate",
-          "score": 7,
-          "comments": 1
+          "title": "An AI agent published a hit piece on me",
+          "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+          "score": 2151,
+          "comments": 878
         },
         {
-          "title": "Japan's Dododo Land, the most irritating place on Earth",
-          "url": "https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/",
-          "score": 79,
-          "comments": 27
+          "title": "We interfaced single-threaded C++ with multi-threaded Rust",
+          "url": "https://antithesis.com/blog/2026/rust_cpp/",
+          "score": 86,
+          "comments": 8
         },
         {
-          "title": "Major European payment processor can't send email to Google Workspace users",
-          "url": "https://atha.io/blog/2026-02-12-viva",
-          "score": 540,
-          "comments": 374
-        },
-        {
-          "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
-          "url": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
-          "score": 430,
-          "comments": 226
-        },
-        {
-          "title": "Apache Arrow is 10 years old",
-          "url": "https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/",
-          "score": 232,
-          "comments": 65
-        },
-        {
-          "title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
-          "url": "https://news.ycombinator.com/item?id=46991591",
-          "score": 123,
-          "comments": 137
+          "title": "Apocalypse no: how almost everything we thought we knew about the Maya is wrong",
+          "url": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
+          "score": 53,
+          "comments": 21
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 66980,
-          "change_24h": -1.43,
-          "change_7d": 1.71,
-          "market_cap": 1341077762671
+          "price": 69092,
+          "change_24h": 5.31,
+          "change_7d": -1.12,
+          "market_cap": 1381822824458
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1954.68,
-          "change_24h": -1.51,
-          "change_7d": 1.62,
-          "market_cap": 236237529902
+          "price": 2055.96,
+          "change_24h": 7.38,
+          "change_7d": 1.06,
+          "market_cap": 248197716808
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 79.95,
-          "change_24h": -2.03,
-          "change_7d": -1.01,
-          "market_cap": 45549408441
+          "price": 84.62,
+          "change_24h": 8.2,
+          "change_7d": -2.42,
+          "market_cap": 47877647659
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.093457,
-          "change_24h": -0.21,
-          "change_7d": -0.04,
-          "market_cap": 15833329329
+          "price": 0.096054,
+          "change_24h": 4.6,
+          "change_7d": -3.42,
+          "market_cap": 16210063323
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.262748,
-          "change_24h": -1.25,
-          "change_7d": 0.54,
-          "market_cap": 9702059455
+          "price": 0.271461,
+          "change_24h": 4.24,
+          "change_7d": -2.69,
+          "market_cap": 10002625514
         }
       ]
     },
@@ -212,24 +212,19 @@
       "count": 10,
       "items": [
         {
-          "name": "Espresso",
-          "symbol": "ESP",
-          "market_cap_rank": 608
-        },
-        {
-          "name": "MANTRA",
-          "symbol": "OM",
-          "market_cap_rank": 369
-        },
-        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "Aztec",
-          "symbol": "AZTEC",
-          "market_cap_rank": 371
+          "name": "Espresso",
+          "symbol": "ESP",
+          "market_cap_rank": 621
+        },
+        {
+          "name": "pippin",
+          "symbol": "PIPPIN",
+          "market_cap_rank": 90
         },
         {
           "name": "Solana",
@@ -237,29 +232,34 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 158
+          "name": "Aztec",
+          "symbol": "AZTEC",
+          "market_cap_rank": 310
         },
         {
-          "name": "Berachain",
-          "symbol": "BERA",
-          "market_cap_rank": 217
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 110
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 50
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 154
+        },
+        {
+          "name": "MANTRA",
+          "symbol": "OM",
+          "market_cap_rank": 344
         },
         {
           "name": "LayerZero",
           "symbol": "ZRO",
-          "market_cap_rank": 117
-        },
-        {
-          "name": "Aster",
-          "symbol": "ASTER",
-          "market_cap_rank": 43
-        },
-        {
-          "name": "Canton",
-          "symbol": "CC",
-          "market_cap_rank": 20
+          "market_cap_rank": 114
         }
       ]
     },
@@ -268,37 +268,55 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 7,
       "items": [
         {
-          "title": "Wall Street Indexes Plunge on Thursday Amid Tech Selloff and AI Worries",
-          "summary": "The Dow Jones fell 1.3% (669 points), S&P 500 dropped 1.6% (109 points) for a third straight day, Nasdaq shed 2% (469 points), and Russell 2000 slid 2%, driven by fears of AI disruption hitting tech and transport stocks. Defensive sectors like consumer staples and utilities led gains, with Walmart up 3.8%.",
-          "source": "CommSec Morning Report (YouTube)",
-          "url": "https://www.youtube.com/watch?v=5gNX9lT_kbg"
+          "title": "Major Stock Market Divergence: Dow Up 1.5%, Nasdaq 100 Down Over 3%",
+          "summary": "The Dow Jones index gained nearly 1.5% while the tech-heavy Nasdaq 100 declined over 3%, reflecting a significant divergence between blue-chip value stocks and growth stocks. The S&P 500 is slightly negative year-to-date, down around 1.5%.",
+          "source": "Wealth Enhancement",
+          "url": "https://www.wealthenhancement.com/blog/7-market-movers-february-13-2026"
         },
         {
-          "title": "Global Selloff on Friday the 13th as AI Fears Grip Markets",
-          "summary": "S&P 500 futures flat after 1.57% Thursday decline; Nasdaq down 2% led by tech; Asia markets tumbled with Nikkei 225 -1.21%, CSI 300 -1.25%; gold dipped below $5,000/oz and Bitcoin fell to $66.8K amid broad risk-off sentiment. Europe and UK markets flat to slightly up in early trading.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/02/13/stocks-friday-the-13th-global-selloff-gold-ai-fear-markets/"
+          "title": "AI Disruption Concerns Drive Tech Volatility; Cisco Drops 12%",
+          "summary": "Technology stocks experienced significant volatility driven by AI-disruption fears, with Cisco dropping 12% on margin pressure and the Nasdaq recording its fifth decline of more than 1% in ten days. Software ETFs fell 2% as investors reassess AI's impact across sectors.",
+          "source": "Wealth Enhancement",
+          "url": "https://www.wealthenhancement.com/blog/7-market-movers-february-13-2026"
         },
         {
-          "title": "Tech Selloff Deepens Ahead of Key US CPI Data Release",
-          "summary": "Markets lower with Nasdaq 100 down over 1.5%, laggards including Apple, Applovin, and Cisco; focus on upcoming January CPI expected to show core inflation at slowest pace since early 2021, following strong jobs data. Oil down 2.7% below $63, gold off 2.8%, 10-year yields rising.",
-          "source": "Bloomberg Television (YouTube)",
-          "url": "https://www.youtube.com/watch?v=HuXwEUI-B_Q"
+          "title": "January CPI Report Released; Core Inflation Expected to Decelerate to 2.5%",
+          "summary": "The January CPI data was released as a major market catalyst, with consensus expectations pointing to core inflation decelerating to 2.5% year-on-year from 2.7% previously. Treasury yields fell ahead of the report, with the 10-year dropping to about 4.1%.",
+          "source": "CaixaBank Research",
+          "url": "https://www.caixabankresearch.com/en/publications/financial-markets-daily-report/13-february-2026"
         },
         {
-          "title": "Tech Giants Slide on AI Disruption Concerns; Chip Stocks Hit Hard",
-          "summary": "Apple and Amazon fell 5% and 2.2%; Dell -9.1%; Intel and AMD over -3% each; Philadelphia semiconductor index -2.5%; investors rotate to defensives like Coca-Cola (+0.5%). Bitcoin selloff deepened amid broader market reversal.",
-          "source": "CommSec Morning Report (YouTube)",
-          "url": "https://www.youtube.com/watch?v=5gNX9lT_kbg"
+          "title": "Fed Rate Cut Expectations Shift: July Cut Fully Priced In, March Cut Unlikely",
+          "summary": "Markets currently see little chance of a March rate cut, but a July rate cut is fully priced in. The softer inflation data supports the case for mid-year rate cuts and may help stabilize yields and support growth stocks.",
+          "source": "Wealth Enhancement",
+          "url": "https://www.wealthenhancement.com/blog/7-market-movers-february-13-2026"
+        },
+        {
+          "title": "Emerging Markets Outperform; MSCI Index Up 11% Year-to-Date",
+          "summary": "International markets continue to outperform US equities, with the MSCI Emerging Markets Index up more than 11% year-to-date, partially influenced by a softer US Dollar.",
+          "source": "Wealth Enhancement",
+          "url": "https://www.wealthenhancement.com/blog/7-market-movers-february-13-2026"
+        },
+        {
+          "title": "Oil Prices Fall on Trump's Iran Diplomatic Negotiations Emphasis",
+          "summary": "Oil prices declined following President Trump's renewed emphasis on pursuing diplomatic negotiations with Iran, while gold and silver recorded modest losses.",
+          "source": "CaixaBank Research",
+          "url": "https://www.caixabankresearch.com/en/publications/financial-markets-daily-report/13-february-2026"
+        },
+        {
+          "title": "S&P 500 Shows Technical Warning Signs; Head and Shoulders Pattern Emerging",
+          "summary": "The S&P 500 has broken from an up-sloping trendline and is forming a potential Head and Shoulders bearish pattern, with a critical support level at 6,790. A daily close below this level could trigger a measured move lower.",
+          "source": "Verified Investing",
+          "url": "https://verifiedinvesting.com/blogs/live-show-recap/my-trading-game-plan-revealed-02-13-2026-cpi-and-yield-collapse-signal-s-p-distribution-and-key-stock-levels"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=5gNX9lT_kbg",
-        "https://fortune.com/2026/02/13/stocks-friday-the-13th-global-selloff-gold-ai-fear-markets/",
-        "https://www.youtube.com/watch?v=HuXwEUI-B_Q"
+        "https://www.wealthenhancement.com/blog/7-market-movers-february-13-2026",
+        "https://www.caixabankresearch.com/en/publications/financial-markets-daily-report/13-february-2026",
+        "https://verifiedinvesting.com/blogs/live-show-recap/my-trading-game-plan-revealed-02-13-2026-cpi-and-yield-collapse-signal-s-p-distribution-and-key-stock-levels"
       ]
     },
     "crypto_news": {
@@ -306,39 +324,24 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "Coinbase Reports Surprise Loss Amid Crypto Market Downturn",
-          "summary": "Coinbase swung to a surprise loss as bitcoin tumbled approximately 25% this year, though CFO Alesia Haas noted traders are buying the dip. The stock rallied 5.7% in premarket trading after hitting its lowest price since February 2024.",
-          "source": "MarketWatch/Morningstar",
-          "url": "https://www.morningstar.com/news/marketwatch/20260213174/coinbase-swings-to-surprise-loss-amid-crypto-exodus-but-says-traders-are-buying-the-dip"
+          "title": "Bitcoin Price Rises 1% to $68,882 Amid Bullish Breakout Signals",
+          "summary": "Bitcoin has increased by 1% since yesterday, breaking local resistance at $67,155 and trading at $68,882. Analysts eye potential moves to $70,000-$75,000 if key levels hold, though midterm remains bearish below $76,600.",
+          "source": "U.Today",
+          "url": "https://u.today/bitcoin-btc-price-analysis-for-february-13-0"
         },
         {
-          "title": "Bitcoin Down 26% Since January 2025 as Crypto Correlations Tighten",
-          "summary": "Bitcoin has declined approximately 26% since January 1, 2025, with other cryptocurrencies showing even steeper losses. Analysis shows crypto tokens maintain high correlations with Bitcoin (ranging from +0.7 to +0.82), indicating Bitcoin dominates price action across the sector.",
-          "source": "CME Group",
-          "url": "https://www.cmegroup.com/insights/economic-research/2026/can-crypto-world-break-free-from-bitcoins-undertow.html"
-        },
-        {
-          "title": "U.S. Formalizes Strategic Bitcoin Reserve Under GENIUS Act",
-          "summary": "Treasury Secretary Scott Bessent confirmed the U.S. government is establishing a Strategic Bitcoin Reserve, retaining over 200,000 BTC as a long-term support level. MicroStrategy added 1,142 BTC in early February despite market volatility.",
-          "source": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/cryptocurrencies/btc/261587626-bitcoin-btcprice-prediction-michael-saylor-2030-forecast-cathie-wood-strategic-reserve-tradingkey"
-        },
-        {
-          "title": "Prediction Markets Emerge as New Growth Focus for Crypto Platforms",
-          "summary": "Coinbase and Robinhood are expanding into prediction markets, with Robinhood CEO Vlad Tenev predicting a 'super cycle' in the segment. This diversification reflects platforms' efforts to reduce reliance on volatile cryptocurrency trading.",
-          "source": "MarketWatch/Morningstar",
-          "url": "https://www.morningstar.com/news/marketwatch/20260213174/coinbase-swings-to-surprise-loss-amid-crypto-exodus-but-says-traders-are-buying-the-dip"
+          "title": "Bitcoin Reacts Positively to Cooler-Than-Expected CPI Report",
+          "summary": "Bitcoin showed immediate positive reaction to a cooler-than-expected CPI report, testing resistance at $94,449 with potential breakout to $97,000 amid improving market sentiment and bullish divergence.",
+          "source": "The Trading Parrot (YouTube)",
+          "url": "https://www.youtube.com/watch?v=-lQ5URvDHMM"
         }
       ],
       "citations": [
-        "https://www.morningstar.com/news/marketwatch/20260213174/coinbase-swings-to-surprise-loss-amid-crypto-exodus-but-says-traders-are-buying-the-dip",
-        "https://www.cmegroup.com/insights/economic-research/2026/can-crypto-world-break-free-from-bitcoins-undertow.html",
-        "https://www.tradingkey.com/analysis/cryptocurrencies/btc/261587626-bitcoin-btcprice-prediction-michael-saylor-2030-forecast-cathie-wood-strategic-reserve-tradingkey",
-        "https://markets.financialcontent.com/stocks/article/247pressrelease-2026-2-13-the-next-phase-of-crypto-maturity-and-no-its-not-net-worth",
-        "https://www.youtube.com/shorts/liyPYTJtBXE"
+        "https://u.today/bitcoin-btc-price-analysis-for-february-13-0",
+        "https://www.youtube.com/watch?v=-lQ5URvDHMM"
       ]
     },
     "ai_news": {
@@ -346,47 +349,66 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 8,
       "items": [
         {
-          "title": "MacArthur Foundation Announces $10 Million to Advance People-Centered AI",
-          "summary": "The MacArthur Foundation committed $10 million on February 12, 2026, to support Humanity AI, funding organizations like AI Now Institute, Brookings Institution, and Data & Society to shape AI policy, national security, and civic engagement.",
-          "source": "MacArthur Foundation",
-          "url": "https://www.macfound.org/press/press-releases/10-million-to-advance-ai-by-and-for-people"
+          "title": "OpenAI Retires GPT-4o Amid User Backlash and Shift to GPT-5.2",
+          "summary": "OpenAI is retiring the widely used GPT-4o model on February 13, as most users have migrated to GPT-5.2, sparking complaints from thousands who credit it for life-saving support. This move highlights rapid model iteration in AI.",
+          "source": "NeuralBuddies",
+          "url": "https://www.neuralbuddies.com/p/ai-news-recap-february-13-2026"
         },
         {
-          "title": "Sandia Labs Leaders Discuss AI Trends Including RAG and Federated Training",
-          "summary": "Sandia National Laboratories experts highlighted plans to expand chatbot use with retrieval-augmented generation (RAG), explore federated training across labs, and deploy AI agents for hypothesis generation and design evaluation in science and security.",
-          "source": "Sandia Lab News",
-          "url": "https://www.sandia.gov/labnews/2026/02/12/what-sandians-are-saying-about-the-future-of-ai-at-work/"
+          "title": "SpaceX Acquires xAI, Eyes Space-Based Data Centers",
+          "summary": "Elon Musk's SpaceX has acquired xAI, boosting AI research funding and focusing on space applications, including potential solar-powered data centers in orbit.",
+          "source": "DeepLearning.AI",
+          "url": "https://www.deeplearning.ai/the-batch/tag/feb-13-2026/"
         },
         {
-          "title": "ACM Launches CAIS 2026 Conference on AI and Agentic Systems",
-          "summary": "ACM announced the inaugural Conference on AI and Agentic Systems (CAIS 2026), set for May 26–29 in San Jose, focusing on composing, optimizing, engineering, and evaluating multi-component AI systems like multi-agent setups and RAG.",
-          "source": "EurekAlert",
-          "url": "https://www.eurekalert.org/news-releases/1116428"
+          "title": "Anthropic Releases Claude Opus 4.6, Tops Intelligence Index",
+          "summary": "Anthropic updated its flagship Claude Opus 4.6 model, which now leads the Intelligence Index by reasoning better over complex problems.",
+          "source": "DeepLearning.AI",
+          "url": "https://www.deeplearning.ai/the-batch/tag/feb-13-2026/"
         },
         {
-          "title": "NeuroLLM Launched as World's First Neurology-Focused Multimodal LLM",
-          "summary": "NeuroDiscovery AI platform introduces NeuroLLM, a neurology-specific large language model processing clinical notes, imaging, and research data to enhance diagnostics, pattern recognition, and personalized care for conditions like Alzheimer's and epilepsy.",
-          "source": "First Choice Neurology",
-          "url": "https://www.fcneurology.net/neurology-trends-in-2026-ai-and-wearables-redefine-neurological-care/"
+          "title": "MiniMax Launches Cost-Effective M2.5 Models Near State-of-the-Art",
+          "summary": "Chinese startup MiniMax released M2.5 and M2.5 Lightning, open models claiming near-top performance at 1/20th the cost of rivals like Claude Opus 4.6.",
+          "source": "MarketingProfs",
+          "url": "https://www.marketingprofs.com/opinions/2026/54304/ai-update-february-13-2026-ai-news-and-views-from-the-past-week"
         },
         {
-          "title": "AI Integration Accelerates in Alzheimer's Drug Discovery Pipelines",
-          "summary": "AI is advancing Alzheimer's research through multimodal data analysis, hypothesis generation, precise patient recruitment, and initiatives like a $1 million AD Data Initiative prize for AI agents, with expectations of AI-identified drugs soon.",
-          "source": "Drug Target Review",
-          "url": "https://www.drugtargetreview.com/article/193033/ai-begins-to-enter-alzheimers-drug-discovery-pipelines/"
+          "title": "Google Reports Surge in AI Model Extraction Attacks and Malware",
+          "summary": "Google's Threat Intelligence and DeepMind noted rising model distillation attacks and AI-integrated malware like HONESTCUE using Gemini APIs, but no fundamental threat shifts yet.",
+          "source": "NeuralBuddies",
+          "url": "https://www.neuralbuddies.com/p/ai-news-recap-february-13-2026"
+        },
+        {
+          "title": "AI Insiders Warn of Escalating Risks from Autonomous Models",
+          "summary": "Researchers from OpenAI and Anthropic highlight existential risks, AI-enabled crime, and self-improving systems as models gain autonomy faster than governance.",
+          "source": "MarketingProfs",
+          "url": "https://www.marketingprofs.com/opinions/2026/54304/ai-update-february-13-2026-ai-news-and-views-from-the-past-week"
+        },
+        {
+          "title": "US Tech Giants Plan $670B AI Data Center Investments in 2026",
+          "summary": "Meta, Amazon, Microsoft, and Alphabet are set to invest $670 billion primarily in AI infrastructure, fueling the largest capital cycle in tech history.",
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/live/us-tech-giants-expect-to-spend-670b-primarily-in-artificial-intelligence-data-centers/3828935"
+        },
+        {
+          "title": "Palantir Surges on AI Protocol Demand in Government and Commercial Sectors",
+          "summary": "Palantir reported $608 million net income driven by its Artificial Intelligence Protocol (AIP), highlighting market rewards for proven AI execution.",
+          "source": "Times-Online",
+          "url": "http://business.times-online.com/times-online/article/marketminute-2026-2-13-the-great-2026-divergence-tech-titans-rise-on-ai-execution-while-healthcare-reaps-a-regulatory-whirlwind"
         }
       ],
       "citations": [
-        "https://www.insideprivacy.com/artificial-intelligence/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/",
-        "https://www.drugtargetreview.com/article/193033/ai-begins-to-enter-alzheimers-drug-discovery-pipelines/",
-        "https://www.eurekalert.org/news-releases/1116428",
-        "https://www.fcneurology.net/neurology-trends-in-2026-ai-and-wearables-redefine-neurological-care/",
-        "https://www.sandia.gov/labnews/2026/02/12/what-sandians-are-saying-about-the-future-of-ai-at-work/",
-        "https://northpennnow.com/news/2026/feb/12/machine-learning-using-python-a-complete-learning-path-with-practical-projects/",
-        "https://www.macfound.org/press/press-releases/10-million-to-advance-ai-by-and-for-people"
+        "https://www.neuralbuddies.com/p/ai-news-recap-february-13-2026",
+        "https://www.marketingprofs.com/opinions/2026/54304/ai-update-february-13-2026-ai-news-and-views-from-the-past-week",
+        "https://www.deeplearning.ai/the-batch/tag/feb-13-2026/",
+        "http://business.times-online.com/times-online/article/marketminute-2026-2-13-the-great-2026-divergence-tech-titans-rise-on-ai-execution-while-healthcare-reaps-a-regulatory-whirlwind",
+        "https://www.youtube.com/watch?v=jWsn76cEK14",
+        "https://thefinancialbrand.com/news/banking-technology/ai-cornerstone-shevlin-bank-195718",
+        "https://www.cio.com/article/4131383/how-ai-and-ml-are-transforming-investment-bankings-future.html",
+        "https://www.aa.com.tr/en/live/us-tech-giants-expect-to-spend-670b-primarily-in-artificial-intelligence-data-centers/3828935"
       ]
     },
     "gaming": {
@@ -394,56 +416,45 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 5,
       "items": [
         {
-          "title": "PlayStation State of Play Reveals Major Announcements Including God of War Sequel and Remakes",
-          "summary": "Sony's February 12, 2026 State of Play showcased over 60 minutes of reveals, including God of War: Sons of Sparta, God of War Trilogy Remake, Metal Gear Solid 4 re-release, John Wick game by Saber Interactive, Kena: Scars of Kosmora, Marathon launch trailer for March 5, and PlayStation Plus additions like Marvel's Spider-Man 2 on February 17.[1][2][3]",
-          "source": "Game Informer, Bluntmag, PlayStation YouTube",
-          "url": "https://gameinformer.com/state-of-play/2026/02/12/everything-announced-at-the-february-playstation-state-of-play"
+          "title": "PlayStation State of Play February 2026 Reveals Major Announcements Including God of War Remakes and New Titles",
+          "summary": "Sony's State of Play showcased God of War Greek trilogy remake in early development, God of War Sons of Sparta out now on PS5, Darwin’s Paradox releasing April 2 with demo tomorrow, Marathon Server Slam on Feb 26, Castlevania: Belmont's Curse for 2026, and Metal Gear Solid: Master Collection Vol. 2 on August 27.[1][2]",
+          "source": "PlayStation Blog, Evrimagaci",
+          "url": "https://blog.playstation.com/2026/02/12/state-of-play-february-2026-all-announcements-trailers/"
         },
         {
-          "title": "Kena: Scars of Kosmora Sequel Announced for 2026",
-          "summary": "Ember Lab revealed Kena: Scars of Kosmora, a sequel to Kena: Bridge of Spirits, featuring an older Kena as a spirit guide with a new staff and evolving spirit companion, coming to PlayStation and PC in 2026.[1][3]",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/state-of-play/2026/02/12/everything-announced-at-the-february-playstation-state-of-play"
-        },
-        {
-          "title": "Marathon Launch Trailer and Server Slam Announced",
-          "summary": "Bungie unveiled a new horror-themed trailer for Marathon, set for release on March 5 across PS5, Xbox Series X/S, and PC, with a server slam starting February 26.[1][2][3]",
-          "source": "Game Informer, Bluntmag",
-          "url": "https://gameinformer.com/state-of-play/2026/02/12/everything-announced-at-the-february-playstation-state-of-play"
-        },
-        {
-          "title": "John Wick Video Game Revealed by Saber Interactive",
-          "summary": "An untitled John Wick action game was announced for PS5, Xbox Series X/S, and PC, developed by Saber Interactive, the studio behind Hitman and upcoming James Bond title.[1][2][3]",
-          "source": "Game Informer, Bluntmag",
-          "url": "https://gameinformer.com/state-of-play/2026/02/12/everything-announced-at-the-february-playstation-state-of-play"
-        },
-        {
-          "title": "God of War: Sons of Sparta and Trilogy Remake Teased",
-          "summary": "PlayStation announced God of War: Sons of Sparta and a God of War Trilogy Remake during the State of Play, alongside other major titles like Ghost of Yōtei multiplayer update.[2][3]",
-          "source": "Bluntmag, PlayStation YouTube",
-          "url": "https://bluntmag.com.au/gaming/everything-you-missed-at-the-february-2026-playstation-state-of-play/"
+          "title": "Rayman Definitive Edition Launches Today for 30th Anniversary",
+          "summary": "Ubisoft released a definitive edition of the original Rayman game on February 13, 2026, featuring 120 additional levels and an exclusive documentary to celebrate the franchise's 30th anniversary.[2]",
+          "source": "Evrimagaci",
+          "url": "https://evrimagaci.org/gpt/playstation-state-of-play-unveils-major-2026-surprises-528828"
         },
         {
           "title": "Two New Games Join Xbox Game Pass Today",
-          "summary": "Xbox Game Pass adds two new titles today, February 13, amid upcoming releases and delistings of five games in February and March 2026.[4]",
-          "source": "Pure Xbox",
+          "summary": "Xbox Game Pass added two new titles on February 13, 2026, including Kingdom Come: Deliverance with a free Series X|S upgrade.[4]",
+          "source": "PureXbox",
           "url": "https://www.purexbox.com/news/2026/02/two-games-are-available-today-with-xbox-game-pass-february-13"
         },
         {
-          "title": "Konami's Rev. Noir Action RPG and Other Third-Party Titles Announced",
-          "summary": "Konami revealed Rev. Noir, a PS5 action RPG focusing on heartfelt JRPG moments, plus Project Windless (rooster warrior adaptation), Star Wars: Galactic Racer, and 007: First Light story trailer.[1][2][3]",
-          "source": "Game Informer, Bluntmag",
-          "url": "https://gameinformer.com/state-of-play/2026/02/12/everything-announced-at-the-february-playstation-state-of-play"
+          "title": "Mina the Hollower Demo Available Today Ahead of Spring 2026 Launch",
+          "summary": "Indie title Mina the Hollower released a demo on February 13 ahead of its full spring 2026 release, highlighted during State of Play.[2]",
+          "source": "Evrimagaci",
+          "url": "https://evrimagaci.org/gpt/playstation-state-of-play-unveils-major-2026-surprises-528828"
+        },
+        {
+          "title": "Neva Prologue Prequel Chapter Arrives February 19",
+          "summary": "A prequel chapter for Neva, titled Neva Prologue, is set to release on February 19, 2026, as announced in State of Play.[2]",
+          "source": "Evrimagaci",
+          "url": "https://evrimagaci.org/gpt/playstation-state-of-play-unveils-major-2026-surprises-528828"
         }
       ],
       "citations": [
-        "https://gameinformer.com/state-of-play/2026/02/12/everything-announced-at-the-february-playstation-state-of-play",
-        "https://bluntmag.com.au/gaming/everything-you-missed-at-the-february-2026-playstation-state-of-play/",
-        "https://www.youtube.com/watch?v=P0e5YEXtZu0",
-        "https://www.purexbox.com/news/2026/02/two-games-are-available-today-with-xbox-game-pass-february-13"
+        "https://blog.playstation.com/2026/02/12/state-of-play-february-2026-all-announcements-trailers/",
+        "https://evrimagaci.org/gpt/playstation-state-of-play-unveils-major-2026-surprises-528828",
+        "https://forum.xboxera.com/t/everything-shown-at-playstations-state-of-play/23266",
+        "https://www.purexbox.com/news/2026/02/two-games-are-available-today-with-xbox-game-pass-february-13",
+        "https://www.youtube.com/watch?v=vVyB_nOcPng"
       ]
     },
     "tech_news": {
@@ -451,15 +462,65 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 8,
+      "items": [
+        {
+          "title": "Samsung Starts Shipping HBM4 Memory Samples",
+          "summary": "Samsung has begun shipping HBM4 samples, intensifying competition in high-bandwidth memory critical for AI infrastructure and GPU performance. This positions Samsung ahead in the race to supply advanced memory chips to partners like Nvidia.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/02/13/top-tech-news-today-february-13-2026/"
+        },
+        {
+          "title": "YouTube Launches on Apple Vision Pro",
+          "summary": "YouTube has officially launched its app on Apple Vision Pro, bringing a major streaming service to the spatial computing headset and signaling growing ecosystem support.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/02/13/anthropic-raises-30-billion-signs-no-end-in-sight-ai-arms-race/"
+        },
+        {
+          "title": "Waymo Rolls Out New Robotaxis with Geely Vans",
+          "summary": "Waymo is deploying a new fleet of robotaxis using Geely vans, replacing Jaguar SUVs to expand its autonomous ride-hailing service.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/02/13/anthropic-raises-30-billion-signs-no-end-in-sight-ai-arms-race/"
+        },
+        {
+          "title": "US and Taiwan Sign Trade Pact to Cut Tariffs",
+          "summary": "The US and Taiwan have signed a trade agreement to reduce tariffs and boost investments, with the US setting a 15% tariff rate on Taiwan goods amid ongoing economic talks.",
+          "source": "Bloomberg Television",
+          "url": "https://www.youtube.com/watch?v=WEmP71Q8MrM"
+        },
+        {
+          "title": "Samsung Claims Lead in Shipping AI Chips to Nvidia",
+          "summary": "Samsung asserts its leadership in supplying AI chips to Nvidia, highlighting its strong position in the semiconductor supply chain for high-performance computing.",
+          "source": "Bloomberg Television",
+          "url": "https://www.youtube.com/watch?v=WEmP71Q8MrM"
+        },
+        {
+          "title": "Kioxia Extends Top Stock Performance on AI Outlook",
+          "summary": "Kioxia continues its world-leading stock performance, driven by strong demand outlook fueled by AI-related memory needs.",
+          "source": "Bloomberg Television",
+          "url": "https://www.youtube.com/watch?v=WEmP71Q8MrM"
+        },
+        {
+          "title": "SoftBank Swings to Profit on OpenAI Valuation Boost",
+          "summary": "SoftBank reported a profit turnaround, boosted by the rising valuation of its OpenAI investment, amid positive market sentiment.",
+          "source": "Bloomberg Television",
+          "url": "https://www.youtube.com/watch?v=WEmP71Q8MrM"
+        },
+        {
+          "title": "Pinterest Earnings Fall Short Due to Tariffs",
+          "summary": "Pinterest missed earnings expectations, citing an 'exogenous shock' from new tariffs impacting its business.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/02/13/anthropic-raises-30-billion-signs-no-end-in-sight-ai-arms-race/"
+        }
+      ],
       "citations": [
-        "https://www.xtb.com/int/market-analysis/news-and-research/morning-wrap-global-sell-off-in-the-technology-sector-13-02-2026",
-        "https://www.youtube.com/watch?v=HuXwEUI-B_Q",
-        "https://www.aa.com.tr/en/americas/us-tech-giants-expect-to-spend-670b-primarily-in-artificial-intelligence-data-centers/3828935",
-        "https://www.youtube.com/watch?v=Fs8w7Y51qkk",
-        "https://english.news.cn/northamerica/20260213/b234701049d145ada6d8ea10b3cfdaa6/c.html",
-        "https://halifax.citynews.ca/2026/02/13/as-electricity-costs-rise-everyone-wants-data-centers-to-pick-up-their-tab-but-how/"
+        "https://techstartups.com/2026/02/13/top-tech-news-today-february-13-2026/",
+        "https://www.youtube.com/watch?v=jWsn76cEK14",
+        "https://www.youtube.com/watch?v=WEmP71Q8MrM",
+        "https://fortune.com/2026/02/13/anthropic-raises-30-billion-signs-no-end-in-sight-ai-arms-race/",
+        "https://www.bctechnology.com/news/2026/2/13/Noteworthy-Anthropic-Closes-30-Billion-Funding-Round-at-380-Billion-Valuation-Second-Largest-Private-Tech-Financing-Round-in-History.cfm",
+        "https://theautomateddaily.com/e/tech-news-for-feb-13-2026/",
+        "https://bucknellian.net/138576/news/tech-news-02-13/"
       ]
     }
   }
