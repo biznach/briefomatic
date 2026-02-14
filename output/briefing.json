@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T12:08:52.441275+00:00",
-  "generated_at_human": "2026-02-14 12:08 UTC",
+  "generated_at": "2026-02-14T18:07:47.789215+00:00",
+  "generated_at_human": "2026-02-14 18:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,94 +8,124 @@
       "count": 25,
       "items": [
         {
-          "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
-          "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-          "score": 136,
-          "comments": 74
+          "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+          "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+          "score": 141,
+          "comments": 61
         },
         {
-          "title": "4chan for Clankers",
-          "url": "https://www.4claw.org",
-          "score": 22,
-          "comments": 25
+          "title": "Ooh.directory: a place to find good blogs that interest you",
+          "url": "https://ooh.directory/",
+          "score": 246,
+          "comments": 83
+        },
+        {
+          "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
+          "url": "https://github.com/datavorous/sameshi",
+          "score": 114,
+          "comments": 37
+        },
+        {
+          "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
+          "url": "https://ziglang.org/devlog/2026/#2026-02-13",
+          "score": 280,
+          "comments": 176
+        },
+        {
+          "title": "Amsterdam Compiler Kit",
+          "url": "https://github.com/davidgiven/ack",
+          "score": 8,
+          "comments": 2
+        },
+        {
+          "title": "Shades of Halftone",
+          "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
+          "score": 61,
+          "comments": 1
+        },
+        {
+          "title": "Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar",
+          "url": "https://github.com/Geek-1001/arcmark",
+          "score": 10,
+          "comments": 0
+        },
+        {
+          "title": "A Review of M Disc Archival Capability. With long term testing results",
+          "url": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
+          "score": 19,
+          "comments": 14
+        },
+        {
+          "title": "Vim 9.2 Released",
+          "url": "https://www.vim.org/vim-9.2-released.php",
+          "score": 116,
+          "comments": 50
+        },
+        {
+          "title": "Ask HN: How to get started with robotics as a hobbyist?",
+          "url": "https://news.ycombinator.com/item?id=46934622",
+          "score": 26,
+          "comments": 16
         },
         {
           "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
           "url": "https://www.wallstreetraider.com/story.html",
-          "score": 355,
-          "comments": 136
+          "score": 609,
+          "comments": 206
+        },
+        {
+          "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
+          "url": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
+          "score": 179,
+          "comments": 82
         },
         {
           "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
           "url": "https://github.com/mickamy/sql-tap",
-          "score": 119,
-          "comments": 21
-        },
-        {
-          "title": "The Three Year Myth",
-          "url": "https://green.spacedino.net/the-three-year-myth/",
-          "score": 78,
-          "comments": 43
-        },
-        {
-          "title": "Understanding the Go Compiler: The Linker",
-          "url": "https://internals-for-interns.com/posts/the-go-linker/",
-          "score": 94,
-          "comments": 14
-        },
-        {
-          "title": "YouTube as Storage",
-          "url": "https://github.com/PulseBeat02/yt-media-storage",
-          "score": 50,
-          "comments": 46
-        },
-        {
-          "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
-          "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-          "score": 176,
-          "comments": 20
-        },
-        {
-          "title": "Babylon 5 is now free to watch on YouTube",
-          "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-          "score": 260,
-          "comments": 132
+          "score": 204,
+          "comments": 33
         },
         {
           "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
           "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-          "score": 54,
+          "score": 408,
+          "comments": 165
+        },
+        {
+          "title": "Babylon 5 is now free to watch on YouTube",
+          "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+          "score": 505,
+          "comments": 253
+        },
+        {
+          "title": "Code Storage by the Pierre Computer Company",
+          "url": "https://code.storage/",
+          "score": 37,
+          "comments": 23
+        },
+        {
+          "title": "What color are your bits? (2004)",
+          "url": "https://ansuz.sooke.bc.ca/entry/23",
+          "score": 27,
+          "comments": 8
+        },
+        {
+          "title": "Stoat removes all LLM-generated code following user criticism",
+          "url": "https://github.com/orgs/stoatchat/discussions/1022",
+          "score": 24,
+          "comments": 15
+        },
+        {
+          "title": "7zip.com Is Serving Malware",
+          "url": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
+          "score": 47,
+          "comments": 24
+        },
+        {
+          "title": "Audiophiles Can't Distinguish Audio Sent Through Copper, Banana or Mud",
+          "url": "https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator",
+          "score": 21,
           "comments": 11
-        },
-        {
-          "title": "GPT-5.2 derives a new result in theoretical physics",
-          "url": "https://openai.com/index/new-result-theoretical-physics/",
-          "score": 500,
-          "comments": 334
-        },
-        {
-          "title": "How the Little Guy Moved",
-          "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
-          "score": 42,
-          "comments": 1
-        },
-        {
-          "title": "Common Lisp Screenshots: today's CL applications in action",
-          "url": "http://www.lisp-screenshots.org",
-          "score": 122,
-          "comments": 39
-        },
-        {
-          "title": "NPMX – a fast, modern browser for the NPM registry",
-          "url": "https://npmx.dev",
-          "score": 107,
-          "comments": 44
-        },
-        {
-          "title": "Building a TUI is easy now",
-          "url": "https://hatchet.run/blog/tuis-are-easy-now",
-          "score": 238,
-          "comments": 180
         },
         {
           "title": "Cogram (YC W22) – Hiring former technical founders",
@@ -104,58 +134,28 @@
           "comments": 0
         },
         {
+          "title": "The Sling: Humanity's Forgotten Power",
+          "url": "https://www.slinging.org/",
+          "score": 77,
+          "comments": 18
+        },
+        {
+          "title": "Understanding the Go Compiler: The Linker",
+          "url": "https://internals-for-interns.com/posts/the-go-linker/",
+          "score": 150,
+          "comments": 39
+        },
+        {
+          "title": "The mathematics of compression in database systems",
+          "url": "https://www.bitsxpages.com/p/the-mathematics-of-compression-in",
+          "score": 37,
+          "comments": 6
+        },
+        {
           "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
           "url": "https://mynoise.net/vlog.php?ep=20260204",
-          "score": 17,
-          "comments": 4
-        },
-        {
-          "title": "Backblaze Drive Stats for 2025",
-          "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
-          "score": 89,
-          "comments": 14
-        },
-        {
-          "title": "Font Rendering from First Principles",
-          "url": "https://mccloskeybr.com/articles/font_rendering.html",
-          "score": 164,
-          "comments": 28
-        },
-        {
-          "title": "Gradient.horse",
-          "url": "https://gradient.horse",
-          "score": 273,
-          "comments": 55
-        },
-        {
-          "title": "The EU moves to kill infinite scrolling",
-          "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-          "score": 623,
-          "comments": 653
-        },
-        {
-          "title": "Monosketch",
-          "url": "https://monosketch.io/",
-          "score": 788,
-          "comments": 133
-        },
-        {
-          "title": "Adventures in Neural Rendering",
-          "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
-          "score": 31,
-          "comments": 1
-        },
-        {
-          "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
-          "url": "https://ios-countdown.win/",
-          "score": 1467,
-          "comments": 725
-        },
-        {
-          "title": "gRPC: From service definition to wire format",
-          "url": "https://kreya.app/blog/grpc-deep-dive/",
-          "score": 130,
-          "comments": 20
+          "score": 67,
+          "comments": 13
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 70386,
-          "change_24h": 5.05,
-          "change_7d": 3.57,
-          "market_cap": 1407562614561
+          "price": 69732,
+          "change_24h": 1.15,
+          "change_7d": 0.95,
+          "market_cap": 1392522721250
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2096.25,
-          "change_24h": 7.23,
-          "change_7d": 4.3,
-          "market_cap": 253064458102
+          "price": 2081.76,
+          "change_24h": 1.2,
+          "change_7d": 1.56,
+          "market_cap": 250844899425
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 87.13,
-          "change_24h": 8.9,
-          "change_7d": 2.59,
-          "market_cap": 49472211581
+          "price": 88.03,
+          "change_24h": 4.32,
+          "change_7d": 1.25,
+          "market_cap": 49970635275
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.10053,
-          "change_24h": 7.42,
-          "change_7d": 5.23,
-          "market_cap": 16983505431
+          "price": 0.105637,
+          "change_24h": 9.94,
+          "change_7d": 8.12,
+          "market_cap": 17806255463
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.283341,
-          "change_24h": 7.74,
-          "change_7d": 6.18,
-          "market_cap": 10416464859
+          "price": 0.289441,
+          "change_24h": 6.76,
+          "change_7d": 5.97,
+          "market_cap": 10658861233
         }
       ]
     },
@@ -212,24 +212,19 @@
       "count": 10,
       "items": [
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 42
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 53
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 109
+          "market_cap_rank": 102
         },
         {
-          "name": "Espresso",
-          "symbol": "ESP",
-          "market_cap_rank": 621
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "pippin",
+          "symbol": "PIPPIN",
+          "market_cap_rank": 86
         },
         {
           "name": "Bitcoin",
@@ -237,29 +232,34 @@
           "market_cap_rank": 1
         },
         {
-          "name": "pippin",
-          "symbol": "PIPPIN",
-          "market_cap_rank": 89
-        },
-        {
-          "name": "LayerZero",
-          "symbol": "ZRO",
-          "market_cap_rank": 118
-        },
-        {
-          "name": "Aztec",
-          "symbol": "AZTEC",
-          "market_cap_rank": 385
-        },
-        {
           "name": "Virtuals Protocol",
           "symbol": "VIRTUAL",
-          "market_cap_rank": 104
+          "market_cap_rank": 108
         },
         {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 54
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Pepe",
+          "symbol": "PEPE",
+          "market_cap_rank": 42
+        },
+        {
+          "name": "Aster",
+          "symbol": "ASTER",
+          "market_cap_rank": 45
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 44
+        },
+        {
+          "name": "Espresso",
+          "symbol": "ESP",
+          "market_cap_rank": 625
         }
       ]
     },
@@ -268,37 +268,29 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Stock Market Divergence: Dow Up, Nasdaq Down as AI Concerns Persist",
-          "summary": "On Friday, February 13, the Dow Jones rose 0.1% to 49,500.93 while the Nasdaq composite fell 0.2% to 22,546.67. The divergence reflects strong performance in value stocks and blue chips versus weakness in growth and tech sectors, driven by ongoing AI-disruption fears that caused Cisco to drop 12% on Thursday.",
+          "title": "US Stock Market Steadies After Inflation Data Eases Concerns",
+          "summary": "Major US stock indexes showed mixed performance on Friday, February 13, 2026, with the S&P 500 rising less than 0.1% and the Nasdaq falling 0.2%, as an encouraging inflation report helped calm market worries about AI disruption. Treasury yields fell following the softer-than-expected inflation data.",
           "source": "Barchart.com",
           "url": "https://www.barchart.com/story/news/216008/how-major-us-stock-indexes-fared-friday-2-13-2026"
         },
         {
-          "title": "CPI Report Shows Inflation Cooling, Supporting Mid-Year Rate Cut Expectations",
-          "summary": "The January 2026 CPI report came in slightly softer than expected, with headline CPI rising 0.2% month-over-month (2.4% year-over-year) and Core CPI rising 0.3% (2.5% year-over-year). The softer inflation data eased Treasury yields and boosted market sentiment, with the bond market now fully pricing in a July rate cut.",
+          "title": "January CPI Comes in Softer Than Expected",
+          "summary": "Consumer Price Index data for January 2026 showed inflation slowing, with CPI rising 0.2% month-over-month (2.4% year-over-year) and Core CPI rising 0.3% (2.5% year-over-year), both slightly below expectations.",
           "source": "AOL Finance",
           "url": "https://www.aol.com/finance/stock-market-today-feb-13-150519843.html"
         },
         {
-          "title": "Weekly Losses: S&P 500 Down 1.4%, Nasdaq Down 2.1% for the Week",
-          "summary": "For the week ending February 13, the S&P 500 declined 1.4%, the Dow fell 1.2%, and the Nasdaq dropped 2.1%, reflecting the impact of AI-related volatility and broader tech sector weakness despite Friday's modest recovery.",
-          "source": "Barchart.com",
-          "url": "https://www.barchart.com/story/news/216008/how-major-us-stock-indexes-fared-friday-2-13-2026"
-        },
-        {
-          "title": "Year-to-Date Performance: Dow Outperforms, Nasdaq Lags, Small Caps Lead",
-          "summary": "Year-to-date through February 13, the Dow is up 3%, the Russell 2000 is up 6.6%, while the S&P 500 is down 0.1% and the Nasdaq is down 3%. International emerging markets are significantly outperforming with an 11% year-to-date gain.",
+          "title": "Russell 2000 Outperforms With 1.2% Weekly Gain",
+          "summary": "The Russell 2000 index of smaller companies rose 1.2% on Friday and is up 6.6% year-to-date, outperforming larger cap indexes amid the week's market volatility.",
           "source": "Barchart.com",
           "url": "https://www.barchart.com/story/news/216008/how-major-us-stock-indexes-fared-friday-2-13-2026"
         }
       ],
       "citations": [
-        "https://www.wealthenhancement.com/blog/7-market-movers-february-13-2026",
         "https://www.barchart.com/story/news/216008/how-major-us-stock-indexes-fared-friday-2-13-2026",
-        "https://verifiedinvesting.com/blogs/live-show-recap/my-trading-game-plan-revealed-02-13-2026-cpi-and-yield-collapse-signal-s-p-distribution-and-key-stock-levels",
         "https://www.aol.com/finance/stock-market-today-feb-13-150519843.html"
       ]
     },
@@ -307,43 +299,17 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 1,
       "items": [
         {
-          "title": "Bitcoin Closes at $68,900 on CME, Eyes $71K–$73K Next Week",
-          "summary": "Bitcoin closed at $68,900 on the CME futures, signaling a potentially quiet weekend with range-bound price action. Analysts predict a possible move toward $71,000–$73,000 next week if buying momentum resumes.",
-          "source": "Coinpedia",
-          "url": "https://coinpedia.org/news/crypto-news-today-live-updates-on-feb-14-2026/"
-        },
-        {
-          "title": "Memecoin Selloff Nearing Exhaustion as Sentiment Hits Extreme Lows",
-          "summary": "The memecoin market cap has dropped 34% over the past month amid broader crypto declines, with extreme negative sentiment suggesting a potential bottom according to Santiment. Historically, such lows have preceded rebounds as selling pressure fades.",
-          "source": "Coinpedia",
-          "url": "https://coinpedia.org/news/crypto-news-today-live-updates-on-feb-14-2026/"
-        },
-        {
-          "title": "Bitcoin ETF Investors Remain Steady Amid Volatility",
-          "summary": "BlackRock reports minimal redemptions of just 0.2% from its iShares Bitcoin Trust (IBIT) during last week's market swings, despite the fund reaching nearly $100 billion. Major liquidations occurred on leveraged platforms, not ETFs.",
-          "source": "Coinpedia",
-          "url": "https://coinpedia.org/news/crypto-news-today-live-updates-on-feb-14-2026/"
-        },
-        {
-          "title": "Global Crypto Market Cap at $2.29T, Down 0.75% in Last 24 Hours",
-          "summary": "The total cryptocurrency market capitalization stands at $2.29 trillion, reflecting a 0.75% decline over the past day per CoinMarketCap data.",
-          "source": "Binance",
+          "title": "Market Signals Indicate Potential Crypto Recovery Amid Meme Coin Decline",
+          "summary": "Binance's latest market update highlights top news for Bitcoin, Ethereum, and altcoins on February 14, 2026, with signals pointing to a potential recovery despite ongoing meme coin declines.",
+          "source": "Binance Square",
           "url": "https://www.binance.com/en/square/post/291513161254674"
-        },
-        {
-          "title": "Bitcoin Funding Rate Hits Critical Low, Signaling Potential Short Squeeze",
-          "summary": "Bitcoin's funding rate has fallen to a critical level after a weak week, with bullish price momentum emerging on Friday, February 13th, potentially setting up a short squeeze.",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/newsbtc:c0de7e968094b:0-bitcoin-funding-rate-falls-to-critical-level-short-squeeze-incoming/"
         }
       ],
       "citations": [
-        "https://coinpedia.org/news/crypto-news-today-live-updates-on-feb-14-2026/",
         "https://www.binance.com/en/square/post/291513161254674",
-        "https://www.tradingview.com/news/newsbtc:c0de7e968094b:0-bitcoin-funding-rate-falls-to-critical-level-short-squeeze-incoming/",
         "https://www.post-gazette.com/business/money/2026/02/14/cryptocurrency-pnc-bank-bitcoin-trump/stories/202602050087"
       ]
     },
@@ -352,39 +318,45 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "FOCaL: New Machine Learning Framework for Personalized Treatment Effects from Functional Data",
-          "summary": "Researchers introduced FOCaL (Functional Outcome Causal Learner), a doubly robust meta-learner that estimates heterogeneous treatment effects from complex, continuous functional data like health trajectories over time. It outperforms existing methods in simulations and real-world datasets, advancing causal inference for personalized medicine and policy design.",
+          "title": "Machine Learning Breakthrough: FOCaL Framework Personalizes Treatment Effects from Complex Data",
+          "summary": "Researchers introduced FOCaL, a doubly robust machine learning framework for analyzing functional outcomes over continuous domains like time or space, outperforming existing techniques in causal inference. Validated on real-world datasets including SHARE quality-of-life data and Italy's COVID-19 healthcare tracking, it advances personalized medicine and adaptive policy design.",
           "source": "Quantum Zeitgeist",
           "url": "https://quantumzeitgeist.com/machine-learning-now-personalises-treatment-effects-complex/"
         },
         {
-          "title": "AI Method Extracts Cross-Disciplinary Knowledge to Accelerate Alloy Discovery",
-          "summary": "A new AI approach fuses expert knowledge from multiple disciplines with data to speed up alloy discovery in materials science. This advancement aims to enhance scientific research by integrating diverse insights for faster innovation.",
+          "title": "AI Models Boost Food Allergy Diagnostics by 40% Over Standard Tests",
+          "summary": "Machine learning and deep learning AI models demonstrated 40% improvement in diagnostic accuracy for food allergies compared to skin prick tests and oral challenges, with deep learning adding 10-15% further gains. Presented at the 2026 AAAAI Annual Meeting, highlighting strong predictive value of specific IgE markers.",
+          "source": "PR Newswire / AAAAI",
+          "url": "https://www.prnewswire.com/news-releases/food-allergy-diagnostics-are-enhanced-by-machine-learning-and-deep-learning-ai-models-302687311.html"
+        },
+        {
+          "title": "FDA Authorizes Over 1,357 AI-Enhanced Medical Devices Amid Rising Surgical Complications",
+          "summary": "The FDA has doubled its approvals of AI-enhanced medical devices to over 1,357 since 2022, but reports of complications and mistakes in AI-assisted surgeries are increasing. Spotlight on systems like TruDi raises concerns about integration risks.",
+          "source": "Modern Diplomacy",
+          "url": "https://moderndiplomacy.eu/2026/02/14/as-ai-enters-surgery-reports-mount-of-complications-and-mistakes/"
+        },
+        {
+          "title": "New AI Method Fuses Expert Knowledge and Data to Accelerate Alloy Discovery",
+          "summary": "Researchers advance AI for science by extracting and fusing cross-disciplinary expert knowledge with data, speeding up alloy discovery processes. This development promises broader applications in materials science.",
           "source": "Eurasia Review",
           "url": "https://www.eurasiareview.com/14022026-advancing-ai-for-science-extracting-and-fusing-cross-disciplinary-expert-knowledge-with-data-to-accelerate-alloy-discovery/"
         },
         {
-          "title": "Wall Street Analysts Crown Nvidia as Top AI Stock for February 2026",
-          "summary": "Analysts project Nvidia's revenue to reach $213 billion in fiscal 2026 and $326 billion in 2027, driven by massive AI data center spending from hyperscalers. The stock is highlighted for its strong growth potential and dominant position in AI hardware.",
-          "source": "Nasdaq",
-          "url": "https://www.nasdaq.com/articles/best-ai-stock-buy-february-2026-according-wall-street"
-        },
-        {
-          "title": "AI in Education: Discussions at Machines Can Think 2026 Conference Highlight Practical Applications",
-          "summary": "At the recent Machines Can Think 2026 conference in Abu Dhabi, experts discussed AI for grading, admissions, predictive analytics for student retention, scheduling, and campus security to boost efficiency amid rising administrative costs. Universities are implementing ethical guidelines while exploring productivity gains.",
-          "source": "Dawn",
-          "url": "https://www.dawn.com/news/1973147/ai-in-the-classroom"
+          "title": "Top AI Stocks to Watch: Upstart, Hut 8, Tempus AI, BigBear.ai, SoundHound AI",
+          "summary": "MarketBeat highlights these five AI stocks with highest recent trading volume, including Upstart's AI lending platform and SoundHound's voice AI assistants. Reflects investor focus on AI-driven fintech, data centers, and applications amid market volatility.",
+          "source": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/artificial-intelligence-stocks-to-consider-february-14th-2026-02-14/"
         }
       ],
       "citations": [
+        "https://www.marketbeat.com/instant-alerts/artificial-intelligence-stocks-to-consider-february-14th-2026-02-14/",
         "https://quantumzeitgeist.com/machine-learning-now-personalises-treatment-effects-complex/",
-        "https://www.nasdaq.com/articles/best-ai-stock-buy-february-2026-according-wall-street",
-        "https://www.eurasiareview.com/14022026-advancing-ai-for-science-extracting-and-fusing-cross-disciplinary-expert-knowledge-with-data-to-accelerate-alloy-discovery/",
-        "https://www.nation.com.pk/14-Feb-2026/tradition-ai",
-        "https://www.dawn.com/news/1973147/ai-in-the-classroom"
+        "https://www.prnewswire.com/news-releases/food-allergy-diagnostics-are-enhanced-by-machine-learning-and-deep-learning-ai-models-302687311.html",
+        "https://moderndiplomacy.eu/2026/02/14/as-ai-enters-surgery-reports-mount-of-complications-and-mistakes/",
+        "https://www.eurasiareview.com/14022026-advancing-ai-for-science-extracting-and-fusing-cross-disciplinary-expert-knowledge-with-data-to-accelerate-alloy-discovery/"
       ]
     },
     "gaming": {
@@ -392,38 +364,46 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Seedance 2.0 AI Video Generator Sparks Hollywood Concerns",
-          "summary": "ByteDance's Seedance 2.0 AI video generator produced a realistic 15-second clip of Tom Cruise and Brad Pitt fighting, prompting industry warnings that AI could soon create feature-length films indistinguishable from Hollywood productions.",
-          "source": "Bez Kabli",
-          "url": "https://www.bez-kabli.pl/technology-news-14-02-2026/"
+          "title": "Kingdom Come: Deliverance Next-Gen Update Released",
+          "summary": "The next-gen update for Kingdom Come: Deliverance launched on February 13, topping the list of major gaming news for early February.",
+          "source": "Mithrie - Gaming News",
+          "url": "https://www.youtube.com/watch?v=ZNv08Q_-hqQ"
         },
         {
-          "title": "Santa Monica Studios Reportedly Developing Cory Barlog Game Alongside God of War Trilogy Remake",
-          "summary": "Insider sources suggest Santa Monica Studios is working on a new title by Cory Barlog in addition to the confirmed God of War Trilogy Remake, with a potential reveal expected this year at State of Play or Summer Game Fest.",
-          "source": "Bez Kabli",
-          "url": "https://www.bez-kabli.pl/technology-news-14-02-2026/"
+          "title": "Ubisoft Cancels Six Games Amid Restructuring",
+          "summary": "Ubisoft canceled six projects including Prince of Persia: The Sands of Time Remake, Project Ether, Project Pathfinder, Project Crest, Assassin's Creed Rebellion, and Assassin's Creed Singularity; Assassin's Creed: Black Flag Remake was spared.",
+          "source": "My Nintendo News",
+          "url": "https://mynintendonews.com/2026/02/14/insider-gaming-reveals-six-games-ubisoft-canceled-amid-restructuring/"
         },
         {
-          "title": "Ubisoft Workers Launch International Strike Over Job Cuts and Return-to-Office Mandate",
-          "summary": "Approximately 1,200 Ubisoft staff members went on strike in response to the company's massive cutbacks and mandatory return-to-office policies, highlighting ongoing labor tensions in the gaming industry.",
-          "source": "The Ancient Gaming Noob",
-          "url": "https://tagn.wordpress.com/2026/02/13/"
+          "title": "Poker Night at the Inventory Remaster Announced for Switch, PS, PC",
+          "summary": "A remaster of Telltale's classic Poker Night at the Inventory is coming to Switch, PlayStation, and PC, sparking hopes for a sequel.",
+          "source": "ComicBook.com",
+          "url": "https://comicbook.com/gaming/feature/telltale-poker-night-remaster-sequel-op-ed/"
         },
         {
-          "title": "World of Tanks Scheduled Maintenance and Micropatch Deployment",
-          "summary": "World of Tanks servers underwent planned maintenance on February 14 to deploy Micropatch 2.1.1_4, with servers unavailable from 10:30 to 12:00 UTC.",
-          "source": "World of Tanks",
-          "url": "https://worldoftanks.com/en/news/updates/micro-patch-140226/"
+          "title": "New Turn-Based RPGs Released: Disciples: Domination, Vampire’s Fall 2",
+          "summary": "Recent releases include Disciples: Domination (Feb 12, PC/PS/Xbox), Vampire’s Fall 2 (Feb 13, PC), plus Demiurges and Sector Unknown exiting Early Access.",
+          "source": "TurnBasedLovers",
+          "url": "https://turnbasedlovers.com/news/new-turn-based-rpgs-to-play-february-14-2026/"
+        },
+        {
+          "title": "Sony State of Play Breakdown Released",
+          "summary": "A detailed video breakdown analyzes all games showcased at Sony's recent State of Play event.",
+          "source": "Twin Galaxies",
+          "url": "https://www.twingalaxies.com/newsDetails/6479"
         }
       ],
       "citations": [
-        "https://www.bez-kabli.pl/technology-news-14-02-2026/",
-        "https://tagn.wordpress.com/2026/02/13/",
-        "https://worldoftanks.com/en/news/updates/micro-patch-140226/",
-        "https://www.noobfeed.com/articles/video-games-impact-modern-entertainment"
+        "https://www.youtube.com/watch?v=ZNv08Q_-hqQ",
+        "https://turnbasedlovers.com/news/new-turn-based-rpgs-to-play-february-14-2026/",
+        "https://mynintendonews.com/2026/02/14/insider-gaming-reveals-six-games-ubisoft-canceled-amid-restructuring/",
+        "https://xboxera.com/2026/02/14/what-are-you-playing-this-weekend-12/",
+        "https://comicbook.com/gaming/feature/telltale-poker-night-remaster-sequel-op-ed/",
+        "https://www.twingalaxies.com/newsDetails/6479"
       ]
     },
     "tech_news": {
@@ -431,14 +411,46 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 5,
+      "items": [
+        {
+          "title": "Indian IT Stocks Plunge Amid AI Disruption Fears; Axis Securities Highlights Four Stocks for Gains",
+          "summary": "The Nifty IT index dropped 4-6% on February 13, 2026, due to concerns over AI-led disruption, but Axis Securities recommends HCL Technologies, Tech Mahindra, Persistent Systems, and Coforge with significant upside potential despite valuation risks.",
+          "source": "Whalesbook",
+          "url": "https://www.whalesbook.com/news/English/tech/Axis-Bets-Big-on-IT-Amidst-AI-Sell-off-Four-Stocks-Eye-Gains/698fe0fe7e6478cdfc2768f4"
+        },
+        {
+          "title": "Global Technology Leaders Launch Trusted Tech Alliance at Munich Security Conference",
+          "summary": "Fifteen companies from Africa, Asia, and Europe announced the Trusted Tech Alliance on February 13, 2026, at the Munich Security Conference to promote trusted technology practices.",
+          "source": "PR Newswire Israel",
+          "url": "https://www.prnewswire.com/il/news-releases/"
+        },
+        {
+          "title": "Love's Travel Stops Opens First New Store of 2026 with EV Charger Space",
+          "summary": "Love's opened its first new store of 2026, featuring RV parking, 50 car spots, and allocated space for EV chargers, as part of a broader plan to add 20 stores and 100 EV charges this year.",
+          "source": "NACS",
+          "url": "https://www.convenience.org/Media/Daily/2026/February/13/1-Loves-Opens-First-New-Store-of-2026_Ops"
+        },
+        {
+          "title": "Indonesia Advances Micro-Scale Waste Processing Technologies for Village-Level Deployment",
+          "summary": "President Prabowo Subianto announced plans to deploy university-developed micro-scale waste processing technologies to every village by 2026, alongside waste-to-energy projects, to address landfill accumulation.",
+          "source": "ANTARA News",
+          "url": "https://en.antaranews.com/news/404518/indonesia-to-tackle-waste-with-micro-scale-processing-technologies"
+        },
+        {
+          "title": "Joanna Stern Departs The Wall Street Journal After 12 Years Covering Tech Transformations",
+          "summary": "Prominent tech journalist Joanna Stern left WSJ on February 14, 2026, after 12 years, reflecting on how technology has reshaped various aspects of life.",
+          "source": "WhatJobs",
+          "url": "https://www.whatjobs.com/news/joanna-stern-leaves-the-wall-street-journal-after-12-years-a-look-back-at-how-tech-transformed-everything/"
+        }
+      ],
       "citations": [
-        "https://www.latitudemedia.com/news/open-circuit-are-investors-losing-faith-in-the-ai-infrastructure-frenzy/",
-        "https://www.seeedstudio.com/blog/",
+        "https://www.whalesbook.com/news/English/tech/Axis-Bets-Big-on-IT-Amidst-AI-Sell-off-Four-Stocks-Eye-Gains/698fe0fe7e6478cdfc2768f4",
+        "https://www.prnewswire.com/il/news-releases/",
         "https://www.convenience.org/Media/Daily/2026/February/13/1-Loves-Opens-First-New-Store-of-2026_Ops",
-        "https://www.whalesbook.com/news/English/Tech/Axis-Bets-Big-on-IT-Amidst-AI-Sell-off-Four-Stocks-Eye-Gains/698fe0fe7e6478cdfc2768f4",
-        "https://www.storyboard18.com/photos/advertising/insights-chats-and-opinions-whos-who-of-advertising-that-storyboard18-studio-saw-at-the-effie-india-awards-89670.htm"
+        "https://www.whatjobs.com/news/joanna-stern-leaves-the-wall-street-journal-after-12-years-a-look-back-at-how-tech-transformed-everything/",
+        "https://www.storyboard18.com/photos/advertising/insights-chats-and-opinions-whos-who-of-advertising-that-storyboard18-studio-saw-at-the-effie-india-awards-89670.htm",
+        "https://en.antaranews.com/news/404518/indonesia-to-tackle-waste-with-micro-scale-processing-technologies"
       ]
     }
   }
