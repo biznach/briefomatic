@@ -1,23 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-02-14 18:07 UTC*
+*Generated: 2026-02-15 00:27 UTC*
 
-1. **Market Overview**: The US stock market showed mixed performance, with the S&P 500 rising less than 0.1% and the Nasdaq falling 0.2%, following an encouraging inflation report. The Russell 2000 index of smaller companies rose 1.2% and is up 6.6% year-to-date. In the crypto market, Bitcoin and Ethereum prices rose, with Bitcoin at $69,732 and Ethereum at $2,081.76. Dogecoin saw a significant 9.94% increase in the last 24 hours.
+1. **Market Overview**: The S&P 500 closed mostly flat, with the Nasdaq Composite gaining 0.2%, as a softer-than-expected January inflation report eased concerns. Bitcoin held steady at $68,800, while Ethereum traded around $2,050. The crypto market saw significant price movements, with Dogecoin and Cardano experiencing substantial gains. The US stock and bond markets will be closed on Monday, February 16, 2026, for Presidents' Day, which is expected to reduce liquidity and amplify moves around well-defined technical levels.
 
-2. **Tech & AI**: Notable developments include the introduction of FOCaL, a machine learning framework for analyzing functional outcomes, and AI models that improve food allergy diagnostics by 40%. The FDA has authorized over 1,357 AI-enhanced medical devices, but reports of complications in AI-assisted surgeries are increasing. Researchers have also advanced AI for science by extracting and fusing expert knowledge with data to accelerate alloy discovery.
+2. **Tech & AI**: Notable tech developments include the release of Kimi K2.5, a native multimodal model by Moonshot AI, and DeepSeek's V3.2 flagship model and reasoning variant. IBM is tripling entry-level jobs after finding the limits of AI adoption, indicating a shift in the company's strategy. Additionally, there have been concerns about AI scraping, with news publishers limiting Internet Archive access.
 
-3. **Gaming & Entertainment**: Babylon 5 is now free to watch on YouTube. There are also updates on various gaming projects and releases, but no major announcements in the last 24 hours.
+3. **Gaming & Entertainment**: The classic game Descent has been ported to the web, and there is a new chess engine, Sameshi, that fits within 2KB. These developments showcase the ongoing evolution of gaming technology and the creativity of developers in creating new and innovative experiences.
 
 4. **Key Insights**:
-* The inflation report has eased market concerns, leading to mixed but generally positive performance in the US stock market.
-* AI continues to advance in various fields, including medicine, with improvements in diagnostics and personalized treatment effects.
-* The crypto market is showing signs of potential recovery, despite declines in meme coins.
-* Regulatory bodies like the FDA are increasingly approving AI-enhanced medical devices, but this also raises concerns about integration risks and surgical complications.
-* Investors are focusing on AI-driven fintech, data centers, and applications, as seen in the trading volume of AI stocks like Upstart and SoundHound AI.
+* The market is experiencing a transitional phase, with a rotation from growth to value stocks and technology and software selling off.
+* Bitcoin's demand remains weak, with ETF net outflows reaching $686 million over two days, and aggressive sell-side pressure capping upside near $68,900.
+* The release of new AI models, such as Kimi K2.5 and DeepSeek's V3.2, highlights the rapid advancements in artificial intelligence and machine learning.
+* IBM's decision to triple entry-level jobs suggests that while AI has its limits, human talent is still essential for the company's growth and success.
+* The porting of classic games like Descent to the web demonstrates the ongoing interest in retro gaming and the potential for new revenue streams.
 
 5. **Watch List**: 
-* US stock market performance, especially the Russell 2000 index.
-* Crypto market trends, particularly the potential recovery indicated by market signals.
-* Advancements in AI, including its applications in medicine, science, and fintech.
-* Regulatory updates on AI-enhanced medical devices and their integration into healthcare systems.
-* Earnings and announcements from key AI stocks, such as Upstart, Hut 8, Tempus AI, BigBear.ai, and SoundHound AI.
+* Bitcoin and Ethereum prices, as they continue to experience significant price movements.
+* The impact of the Presidents' Day market closure on liquidity and technical levels.
+* Developments in AI and machine learning, including new model releases and company announcements.
+* The performance of the S&P 500 and Nasdaq Composite, as they navigate the current market landscape.
+* The growth of the gaming industry, including new releases and innovations in technology.
