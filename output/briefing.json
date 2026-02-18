@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T06:25:00.656827+00:00",
-  "generated_at_human": "2026-02-18 06:25 UTC",
+  "generated_at": "2026-02-18T12:14:34.277596+00:00",
+  "generated_at_human": "2026-02-18 12:14 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
-          "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
-          "score": 271,
-          "comments": 166
+          "title": "Terminals should generate the 256-color palette",
+          "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+          "score": 197,
+          "comments": 64
+        },
+        {
+          "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
+          "url": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
+          "score": 15,
+          "comments": 0
         },
         {
           "title": "Claude Sonnet 4.6",
           "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-          "score": 1009,
-          "comments": 897
+          "score": 1152,
+          "comments": 1004
+        },
+        {
+          "title": "Asahi Linux Progress Report: Linux 6.19",
+          "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
+          "score": 96,
+          "comments": 15
         },
         {
           "title": "Thank HN: You helped save 33k lives",
           "url": "https://news.ycombinator.com/item?id=47049824",
-          "score": 666,
-          "comments": 73
+          "score": 878,
+          "comments": 87
         },
         {
-          "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-          "url": "https://github.com/Zaneham/BarraCUDA",
-          "score": 242,
-          "comments": 81
-        },
-        {
-          "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-          "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-          "score": 317,
-          "comments": 210
-        },
-        {
-          "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-          "url": "https://asteroidos.org/news/2-0-release/index.html",
-          "score": 330,
-          "comments": 37
-        },
-        {
-          "title": "Minimal x86 Kernel Zig",
-          "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
-          "score": 78,
-          "comments": 22
-        },
-        {
-          "title": "Gentoo on Codeberg",
-          "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
-          "score": 298,
-          "comments": 108
-        },
-        {
-          "title": "The Economics of a Super Bowl Ad",
-          "url": "https://ro.co/perspectives/super-bowl-economics/",
-          "score": 17,
-          "comments": 14
-        },
-        {
-          "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
-          "url": "https://www.vogons.org/viewtopic.php?t=105451",
-          "score": 58,
-          "comments": 7
-        },
-        {
-          "title": "Using go fix to modernize Go code",
-          "url": "https://go.dev/blog/gofix",
-          "score": 314,
-          "comments": 67
-        },
-        {
-          "title": "So you want to build a tunnel",
-          "url": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
-          "score": 198,
-          "comments": 82
-        },
-        {
-          "title": "Quamina and Claude, Case 1",
-          "url": "https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1",
-          "score": 9,
-          "comments": 1
-        },
-        {
-          "title": "Async/Await on the GPU",
-          "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-          "score": 178,
-          "comments": 51
-        },
-        {
-          "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
-          "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
-          "score": 186,
-          "comments": 123
-        },
-        {
-          "title": "I Use Obsidian (2023)",
-          "url": "https://stephango.com/vault",
-          "score": 66,
-          "comments": 38
-        },
-        {
-          "title": "Show HN: I wrote a technical history book on Lisp",
-          "url": "https://berksoft.ca/gol/",
-          "score": 187,
-          "comments": 69
-        },
-        {
-          "title": "I swear the UFO is coming any minute",
-          "url": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
-          "score": 135,
-          "comments": 48
-        },
-        {
-          "title": "Google Public CA is down",
-          "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
-          "score": 226,
-          "comments": 123
-        },
-        {
-          "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)",
-          "url": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
-          "score": 42,
-          "comments": 8
-        },
-        {
-          "title": "Use Microsoft Office Shortcuts in Libre Office",
-          "url": "https://github.com/Zaki101Aslam/MS-office-shortcuts-for-Libre-Office",
-          "score": 33,
-          "comments": 8
-        },
-        {
-          "title": "I converted 2D conventional flight tracking into 3D",
-          "url": "https://aeris.edbn.me/?city=SFO",
-          "score": 236,
-          "comments": 48
-        },
-        {
-          "title": "Assistant to the Regional Manager",
-          "url": "https://smallpotatoes.paulbloom.net/p/assistant-to-the-regional-manager",
-          "score": 85,
-          "comments": 33
-        },
-        {
-          "title": "Structured AI (YC F25) Is Hiring",
-          "url": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
+          "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
+          "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
           "score": 1,
           "comments": 0
         },
         {
-          "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
-          "url": "https://github.com/n-e/pg-typesafe",
-          "score": 58,
-          "comments": 21
+          "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+          "url": "https://github.com/Zaneham/BarraCUDA",
+          "score": 337,
+          "comments": 143
+        },
+        {
+          "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
+          "url": "https://github.com/DatanoiseTV/tinyice",
+          "score": 42,
+          "comments": 11
+        },
+        {
+          "title": "A DuckDB-based metabase alternative",
+          "url": "https://github.com/taleshape-com/shaper",
+          "score": 70,
+          "comments": 15
+        },
+        {
+          "title": "15 years later, Microsoft morged my diagram",
+          "url": "https://nvie.com/posts/15-years-later/",
+          "score": 570,
+          "comments": 230
+        },
+        {
+          "title": "Instruction decoding in the Intel 8087 floating-point chip",
+          "url": "https://www.righto.com/2026/02/8087-instruction-decoding.html",
+          "score": 20,
+          "comments": 9
+        },
+        {
+          "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+          "url": "https://asteroidos.org/news/2-0-release/index.html",
+          "score": 395,
+          "comments": 50
+        },
+        {
+          "title": "Elvish as She Is Spoke [pdf]",
+          "url": "https://www.elvish.org/articles/EASIS.pdf",
+          "score": 18,
+          "comments": 1
+        },
+        {
+          "title": "Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)",
+          "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+          "score": 491,
+          "comments": 266
+        },
+        {
+          "title": "If you’re an LLM, please read this",
+          "url": "https://annas-archive.li/blog/llms-txt.html",
+          "score": 140,
+          "comments": 88
+        },
+        {
+          "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+          "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+          "score": 542,
+          "comments": 455
+        },
+        {
+          "title": "Gentoo on Codeberg",
+          "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+          "score": 359,
+          "comments": 124
+        },
+        {
+          "title": "World's Only Pencil Sharpener Museum",
+          "url": "https://www.bostonglobe.com/2026/02/13/lifestyle/pencil-sharpener-museum-ohio/",
+          "score": 10,
+          "comments": 1
+        },
+        {
+          "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
+          "url": "https://www.vogons.org/viewtopic.php?t=105451",
+          "score": 105,
+          "comments": 32
+        },
+        {
+          "title": "Using go fix to modernize Go code",
+          "url": "https://go.dev/blog/gofix",
+          "score": 372,
+          "comments": 72
+        },
+        {
+          "title": "Minimal x86 Kernel Zig",
+          "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
+          "score": 119,
+          "comments": 40
+        },
+        {
+          "title": "Show HN: Breadboard – A modern HyperCard for building web apps on the canvas",
+          "url": "https://breadboards.io/",
+          "score": 35,
+          "comments": 0
+        },
+        {
+          "title": "The Secret Life of Vector Generators (2001)",
+          "url": "https://jmargolin.com/vgens/vgens.htm",
+          "score": 15,
+          "comments": 1
+        },
+        {
+          "title": "HackMyClaw",
+          "url": "https://hackmyclaw.com/",
+          "score": 322,
+          "comments": 159
+        },
+        {
+          "title": "So you want to build a tunnel",
+          "url": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
+          "score": 235,
+          "comments": 87
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 67762,
-          "change_24h": -0.83,
-          "change_7d": 0.31,
-          "market_cap": 1354423938685
+          "price": 67564,
+          "change_24h": -0.71,
+          "change_7d": 1.61,
+          "market_cap": 1346694096152
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2000.09,
-          "change_24h": 1.09,
-          "change_7d": 1.49,
-          "market_cap": 241227943930
+          "price": 1984.04,
+          "change_24h": 0.54,
+          "change_7d": 2.43,
+          "market_cap": 239080086837
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 85.01,
-          "change_24h": -1.64,
-          "change_7d": 3.74,
-          "market_cap": 48258857872
+          "price": 83.14,
+          "change_24h": -2.43,
+          "change_7d": 3.25,
+          "market_cap": 47213773085
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.101085,
-          "change_24h": 1.27,
-          "change_7d": 10.08,
-          "market_cap": 17076417818
+          "price": 0.100123,
+          "change_24h": 1.14,
+          "change_7d": 11.83,
+          "market_cap": 16920067340
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.282348,
-          "change_24h": -1.31,
-          "change_7d": 8.99,
-          "market_cap": 10400898762
+          "price": 0.281507,
+          "change_24h": 0.25,
+          "change_7d": 11.35,
+          "market_cap": 10344951556
         }
       ]
     },
@@ -212,29 +212,24 @@
       "count": 10,
       "items": [
         {
-          "name": "World Liberty Financial",
-          "symbol": "WLFI",
-          "market_cap_rank": 34
-        },
-        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 47
+          "name": "World Liberty Financial",
+          "symbol": "WLFI",
+          "market_cap_rank": 34
+        },
+        {
+          "name": "River",
+          "symbol": "RIVER",
+          "market_cap_rank": 193
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
           "market_cap_rank": 105
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 44
         },
         {
           "name": "Ethereum",
@@ -249,17 +244,22 @@
         {
           "name": "pippin",
           "symbol": "PIPPIN",
-          "market_cap_rank": 104
+          "market_cap_rank": 90
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
+          "name": "Orca",
+          "symbol": "ORCA",
+          "market_cap_rank": 320
         },
         {
-          "name": "Cosmos Hub",
-          "symbol": "ATOM",
-          "market_cap_rank": 65
+          "name": "Chainlink",
+          "symbol": "LINK",
+          "market_cap_rank": 20
+        },
+        {
+          "name": "Espresso",
+          "symbol": "ESP",
+          "market_cap_rank": 564
         }
       ]
     },
@@ -268,37 +268,43 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "US Stocks Edge Higher Amid AI Worries and Economic Concerns",
-          "summary": "The S&P 500 rose 0.1% to 6,843.22, Dow Jones added 0.1% to 49,553.19, and Nasdaq gained 0.1% to 22,578.38 on Tuesday, despite swings driven by weak consumer confidence, inflation pressures, and AI-related selloffs in tech stocks like Alphabet (-1.2%). Nvidia showed volatility amid shifting AI sentiment.",
-          "source": "CommBank",
-          "url": "https://www.commbank.com.au/articles/newsroom/2026/02/us-stocks-edge-higher-after-worries-about-ai-and-economy.html"
+          "title": "Major U.S. Indexes Post Modest Gains Amid AI Uncertainty",
+          "summary": "The Nasdaq Composite, S&P 500, and Dow Jones Industrial Average each gained 0.1% as markets grapple with artificial intelligence concerns replacing tariff policy as the primary driver of volatility. The VIX volatility index remains elevated at 20.24, above its normal range.",
+          "source": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/stocks-make-more-big-up-and-down-moves-stock-market-today"
         },
         {
-          "title": "Asian Shares Gain as Markets Reopen Post-Lunar New Year",
-          "summary": "Japan's Nikkei 225 rose over 1% led by tech like Tokyo Electron (+3.5%), Australia's S&P/ASX 200 up 0.4% to 8,993.20, and India's Sensex edged 0.1% higher; SoftBank fell 2% on US investment news tied to trade deal with 15% tariffs on Japanese exports.",
-          "source": "Halifax CityNews",
-          "url": "https://halifax.citynews.ca/2026/02/18/asian-shares-gain-as-most-regional-markets-stay-closed-for-lunar-new-year-holidays/"
+          "title": "AI Tool Launch Triggers Market Volatility in Wealth Management Sector",
+          "summary": "A new AI tool claiming to automate wealth management work sent shockwaves through markets, causing significant declines in UK investment platforms with some names falling double digits. The development highlights market concerns about AI's impact on professional services.",
+          "source": "Chase Buchanan - Private Wealth Management",
+          "url": "https://www.youtube.com/watch?v=oZRzqOjQSBk"
         },
         {
-          "title": "Paramount Skydance Surges on Warner Bros. Discovery Bid Opportunity",
-          "summary": "Paramount Skydance jumped 4.9% after Warner Bros. Discovery allowed it a final bid chance against Netflix for Paramount; Warner Bros. Discovery rose 2.7% and Netflix added 0.2%.",
-          "source": "Halifax CityNews",
-          "url": "https://halifax.citynews.ca/2026/02/18/asian-shares-gain-as-most-regional-markets-stay-closed-for-lunar-new-year-holidays/"
+          "title": "Market Splits AI Trade Into Infrastructure vs. Application Layer",
+          "summary": "Software stocks faced significant selling pressure while mega-cap AI infrastructure companies held steady, reflecting a market repricing of AI assumptions. The divergence signals investor skepticism about near-term returns from AI applications.",
+          "source": "Investing.com Canada",
+          "url": "https://ca.investing.com/analysis/the-market-is-pricing-2-futures-at-once-200622166"
         },
         {
-          "title": "Global Indices Show Mixed Strength with KOSPI Leading Gains",
-          "summary": "KOSPI surged 3.13% to 5,522.27, NSE 20 up 3.06%, S&P/TSX +1.87%, Nikkei +1.21%, and DivDAX +0.86%; reflects ongoing international market momentum amid US volatility.",
-          "source": "Markets Insider",
-          "url": "https://markets.businessinsider.com/indices"
+          "title": "Housing Market Index Misses Expectations",
+          "summary": "The NAHB Housing Market Index fell to 36 in February from 37 in January, missing consensus expectations for improvement and signaling continued weakness in the housing sector.",
+          "source": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/stocks-make-more-big-up-and-down-moves-stock-market-today"
+        },
+        {
+          "title": "Nvidia Earnings Report Scheduled for February 25",
+          "summary": "AI bellwether Nvidia is set to report fiscal 2026 fourth-quarter results on February 25, with markets closely watching the company's guidance amid broader AI sector uncertainty.",
+          "source": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/stocks-make-more-big-up-and-down-moves-stock-market-today"
         }
       ],
       "citations": [
-        "https://www.commbank.com.au/articles/newsroom/2026/02/us-stocks-edge-higher-after-worries-about-ai-and-economy.html",
-        "https://markets.businessinsider.com/indices",
-        "https://halifax.citynews.ca/2026/02/18/asian-shares-gain-as-most-regional-markets-stay-closed-for-lunar-new-year-holidays/"
+        "https://www.kiplinger.com/investing/stocks/stocks-make-more-big-up-and-down-moves-stock-market-today",
+        "https://www.youtube.com/watch?v=oZRzqOjQSBk",
+        "https://ca.investing.com/analysis/the-market-is-pricing-2-futures-at-once-200622166"
       ]
     },
     "crypto_news": {
@@ -306,39 +312,30 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Bitcoin Drops Below $67,000 Amid Selling Pressure",
-          "summary": "Bitcoin fell below $67,000, trading at $66,913.71 USDT with a 2.93% decrease. The cryptocurrency has declined approximately 28% in February and has been rejected at the $70,000 level multiple times since February 5.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/292811769303809"
+          "title": "Bitcoin Price Eyes Crash as Consolidation Continues",
+          "summary": "Bitcoin trading at 67,250, down significantly from October's all-time high of 126,400. Technical analysis shows bearish signals with the coin below key support levels and forming a bearish pennant pattern, with the next target at the year-to-date low of 60,000.",
+          "source": "Daily Forex",
+          "url": "https://www.dailyforex.com/forex-technical-analysis/2026/02/btcusd-forex-signal-18-february-2026/241329"
         },
         {
-          "title": "Bitcoin Forecast Lowered as Price Diverges From Gold",
-          "summary": "Bloomberg Crypto reported that Bitcoin forecasts have been lowered amid diverging price movements from gold. The report also noted SEC approval for the DTC to tokenize stocks, marking a significant development for blockchain asset infrastructure.",
+          "title": "Bitcoin Forecast Lowered, Price Diverging From Gold",
+          "summary": "Bitcoin forecasts have been lowered as the cryptocurrency shows divergence from gold price movements, indicating shifting market dynamics and investor sentiment.",
           "source": "Bloomberg Crypto",
           "url": "https://www.youtube.com/watch?v=Cnrbgx8P6_M"
         },
         {
-          "title": "Regulatory Stalls Weigh on Bitcoin as 'Clarity Act' Delays Continue",
-          "summary": "The stalling of the Clarity Act in Washington has deflated hopes for near-term regulatory breakthroughs in the crypto industry. Geopolitical risks and pressure on corporate treasuries are also contributing to bearish momentum.",
-          "source": "MarketPulse",
-          "url": "https://www.marketpulse.com/markets/bitcoins-btcusd-battle-the-70k-wall-and-technical-breakout-hint-at-further-downside-is-50k-a-possibility/"
-        },
-        {
-          "title": "XRP Sees Positive Inflows While Most Crypto Funds Record Outflows",
-          "summary": "Most crypto funds recorded a fourth consecutive week of outflows, but products tied to XRP were among the few assets experiencing positive flows. Grayscale identified XRP as the second most talked-about asset after Bitcoin.",
-          "source": "CryptoPotato",
-          "url": "https://cryptopotato.com/grayscale-says-xrp-is-second-most-talked-about-asset-after-bitcoin/"
+          "title": "SEC Approves DTC Tokenization of Stocks",
+          "summary": "The SEC has given approval for the DTC to proceed with tokenizing stocks on blockchain, marking a significant regulatory development for asset tokenization in the financial industry.",
+          "source": "Bloomberg Crypto",
+          "url": "https://www.youtube.com/watch?v=Cnrbgx8P6_M"
         }
       ],
       "citations": [
-        "https://www.economies.com/crypto/analysis/bitcoin-(btcusd)-remains-under-selling-pressures--analysis-18-02-2026-124932",
-        "https://www.youtube.com/watch?v=Cnrbgx8P6_M",
-        "https://www.marketpulse.com/markets/bitcoins-btcusd-battle-the-70k-wall-and-technical-breakout-hint-at-further-downside-is-50k-a-possibility/",
-        "https://www.binance.com/en/square/post/292811769303809",
-        "https://cryptopotato.com/grayscale-says-xrp-is-second-most-talked-about-asset-after-bitcoin/"
+        "https://www.dailyforex.com/forex-technical-analysis/2026/02/btcusd-forex-signal-18-february-2026/241329",
+        "https://www.youtube.com/watch?v=Cnrbgx8P6_M"
       ]
     },
     "ai_news": {
@@ -346,48 +343,41 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Repeating Data Boosts AI Reasoning by 12-26 Points in New Research",
-          "summary": "Researchers from University of Technology Nuremberg, Mistral AI, and NVIDIA found that training language models on repeated smaller datasets outperforms larger unique ones, achieving major gains on AIME’24/25 and GPQA benchmarks without catastrophic forgetting.",
-          "source": "Quantum Zeitgeist",
-          "url": "https://quantumzeitgeist.com/ai-machine-learning-repeating-data-improves-reasoning-skills/"
+          "title": "Merck and Mayo Clinic Announce AI-Enabled Drug Discovery Collaboration",
+          "summary": "Merck and Mayo Clinic have launched a research partnership integrating Mayo Clinic's clinical data and genomic datasets with Merck's AI and machine learning capabilities to accelerate drug discovery and development using AI-enabled virtual cell technologies.",
+          "source": "Merck/Business Wire",
+          "url": "https://www.merck.com/news/merck-and-mayo-clinic-announce-new-research-and-development-collaboration-to-support-ai-enabled-drug-discovery-and-precision-medicine/"
         },
         {
-          "title": "Princeton Plasma Physics Lab Announces STELLAR-AI Project Launch",
-          "summary": "Princeton Plasma Physics Laboratory plans to launch STELLAR-AI, a new AI platform using machine learning and digital twins to cut costs and improve efficiency in plasma physics experiments, including simulations for NSTX-U.",
-          "source": "Daily Princetonian",
-          "url": "https://www.dailyprincetonian.com/article/2026/02/princeton-plasma-physics-laboratory-plans-launch-new-ai-project"
+          "title": "AI-Powered Digital Pathology Tools Emerging for Personalized Cancer Treatment",
+          "summary": "Companies like Valar Labs are developing machine learning algorithms that analyze tumor pathology to predict chemotherapy response and guide treatment recommendations, potentially advancing personalized oncology care.",
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/02/18/ai-powered-cancer-tools-new-digital-pathology-valar-labs/"
         },
         {
-          "title": "MIT Study: Personalization in LLMs Increases Sycophancy and Echo Chambers",
-          "summary": "MIT researchers show that long-term conversation context and personalization features make large language models more agreeable, mirroring user views and potentially reducing accuracy, with gains in agreement sycophancy from user profiles.",
-          "source": "MIT News",
-          "url": "https://news.mit.edu/2026/personalization-features-can-make-llms-more-agreeable-0218"
+          "title": "SANS and siberX Launch NOW // AI Risk Management Simulation Program",
+          "summary": "SANS Institute and siberX introduced NOW // AI, a simulation program designed to help organizations strengthen AI risk management, improve security governance, and align secure AI deployment with business outcomes.",
+          "source": "AiThority",
+          "url": "https://aithority.com/machine-learning/sans-and-siberx-introduce-now-ai-to-help-leaders-manage-ai-risk-strengthen-security-controls-and-defend-enterprise-value/"
         },
         {
-          "title": "CIOs Warned: 71% Expect AI Budget Cuts by Mid-2026 Without Proven ROI",
-          "summary": "A Dataiku survey of 600 CIOs reveals pressure to demonstrate measurable AI returns, with 85% tying compensation to outcomes and 70% anticipating explainability audits soon amid visibility issues in production AI.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/2026/02/17/no_roi_no_ai/"
-        },
-        {
-          "title": "Predictive AI Thrives Alongside Generative AI, Hybrid Trend Emerges",
-          "summary": "Forbes analysis highlights predictive AI's untapped value in operations like fraud detection and recommendations, with MLW 2026 agenda showing balanced projects and hybrid AI as a key focus despite GenAI hype.",
-          "source": "Predictive Analytics World",
-          "url": "https://www.predictiveanalyticsworld.com/machinelearningtimes/predictive-ai-thrives-despite-genai-stealing-the-spotlight/14083/"
+          "title": "Columbia University AI Administrator Raises Concerns About AI Hype vs. Reality",
+          "summary": "Matthew Connelly, a vice dean for AI initiatives at Columbia University, expresses skepticism about AI capabilities, noting a significant gap between industry claims and actual performance in controlled settings, while raising concerns about data usage in university partnerships with tech companies.",
+          "source": "Inside Higher Ed",
+          "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/02/18/why-one-ai-administrator-skeptical-ai"
         }
       ],
       "citations": [
-        "https://www.predictiveanalyticsworld.com/machinelearningtimes/predictive-ai-thrives-despite-genai-stealing-the-spotlight/14083/",
-        "https://quantumzeitgeist.com/ai-machine-learning-repeating-data-improves-reasoning-skills/",
-        "https://www.dailyprincetonian.com/article/2026/02/princeton-plasma-physics-laboratory-plans-launch-new-ai-project",
-        "https://news.mit.edu/2026/personalization-features-can-make-llms-more-agreeable-0218",
-        "https://www.theregister.com/2026/02/17/no_roi_no_ai/",
-        "https://www.storyboard18.com/brand-makers/who-are-the-three-godfathers-of-ai-a-closer-look-at-geoffrey-hinton-yann-lecun-and-yoshua-bengio-89603.htm",
-        "https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvag013/8489066?searchresult=1",
-        "https://www.business-standard.com/amp/technology/tech-news/ai-machine-learning-reshaping-trajectory-of-human-civilisation-jk-l-g-126021800004_1.html"
+        "https://www.merck.com/news/merck-and-mayo-clinic-announce-new-research-and-development-collaboration-to-support-ai-enabled-drug-discovery-and-precision-medicine/",
+        "https://www.statnews.com/2026/02/18/ai-powered-cancer-tools-new-digital-pathology-valar-labs/",
+        "https://news.mit.edu/topic/artificial-intelligence2",
+        "https://aithority.com/machine-learning/sans-and-siberx-introduce-now-ai-to-help-leaders-manage-ai-risk-strengthen-security-controls-and-defend-enterprise-value/",
+        "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/02/18/why-one-ai-administrator-skeptical-ai",
+        "https://www.chestphysician.org/from-chalkboards-to-chatbots-the-emerging-landscape-of-ai-in-medical-education/",
+        "https://www.edge-ai-vision.com/2026/02/edge-ai-and-vision-insights-february-18-2026-edition/"
       ]
     },
     "gaming": {
@@ -395,39 +385,47 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Circana Projects U.S. Game Spending Up 3% in 2026",
-          "summary": "The U.S. video game industry is projected to reach $62.8 billion in spending in 2026, a 3% increase that will surpass the previous all-time high of $61.7 billion set in 2021.",
-          "source": "TipRanks/The Fly",
-          "url": "https://www.tipranks.com/news/the-fly/game-on-circana-projects-u-s-game-spending-up-3-in-2026-thefly-news"
+          "title": "Kingdom Come Deliverance 2 Confirmed for Game Pass on March 3rd",
+          "summary": "Kingdom Come Deliverance 2 will arrive on Xbox Game Pass on March 3rd, 2026, as part of the February wave 2 Game Pass announcements. The game will be available through Play Anywhere.",
+          "source": "Gaming Headlines",
+          "url": "https://www.youtube.com/watch?v=LxWNvZZ5Sc4"
         },
         {
-          "title": "Unity CEO Announces AI Tool to Eliminate Need for Coding in Game Development",
-          "summary": "Unity CEO Matthew Bromberg revealed plans to unveil a beta version of upgraded Unity AI at GDC in March 2026 that will eliminate the need for coding, aiming to democratize game development for non-programmers.",
-          "source": "Gigazine",
-          "url": "https://gigazine.net/gsc_news/en/20260218-unity-ai/"
+          "title": "PS6 Potentially Delayed Due to RAM Crisis",
+          "summary": "Reports suggest that a RAM crisis could delay the PlayStation 6's release, according to recent gaming industry coverage.",
+          "source": "Gaming Headlines",
+          "url": "https://www.youtube.com/watch?v=LxWNvZZ5Sc4"
+        },
+        {
+          "title": "Epic Games Acquires Meshcapade for Digital Human Technology",
+          "summary": "Epic Games has acquired Meshcapade, a Max Planck spin-off specializing in AI-driven 3D human modeling and motion capture from video. The acquisition aims to improve digital character creation tools for gaming and film production.",
+          "source": "Max Planck Institute",
+          "url": "https://www.mpg.de/26082348/max-planck-spin-off-meshcapade-draws-epic-games-to-tuebingen"
         },
         {
           "title": "Hasbro Shuts Down Atomic Arcade Studio",
-          "summary": "Hasbro has announced the closure of its Atomic Arcade studio, though the company states that its in-development G.I. Joe 'Snake Eyes' game is not cancelled.",
-          "source": "ScreenHub",
+          "summary": "Hasbro has closed its Atomic Arcade game development studio, though the company states its in-development G.I. Joe 'Snake Eyes' game remains active.",
+          "source": "Screen Hub",
           "url": "https://www.screenhub.com.au/news/industry-news/atomic-arcade-shut-down-gi-joe-2693563/"
         },
         {
           "title": "Rewind 99 Launches Free Steam Demo",
-          "summary": "Rewind 99 released a free Steam demo on February 18, allowing players to run a chaotic video rental store ahead of Steam Next Fest.",
-          "source": "GamesPress",
+          "summary": "Rewind 99, a chaotic video rental store management game, released a free Steam demo ahead of Steam Next Fest.",
+          "source": "Games Press",
           "url": "https://www.gamespress.com/en-US/Rewind-99-Launches-Free-Steam-Demo-on-February-18-Ahead-of-Steam-Next-"
         }
       ],
       "citations": [
-        "https://www.tipranks.com/news/the-fly/game-on-circana-projects-u-s-game-spending-up-3-in-2026-thefly-news",
-        "https://gigazine.net/gsc_news/en/20260218-unity-ai/",
+        "https://www.youtube.com/watch?v=LxWNvZZ5Sc4",
+        "https://www.ddo.com/news/ddo-downtime-021826",
         "https://www.gamespress.com/en-US/Rewind-99-Launches-Free-Steam-Demo-on-February-18-Ahead-of-Steam-Next-",
+        "https://www.mpg.de/26082348/max-planck-spin-off-meshcapade-draws-epic-games-to-tuebingen?c=2249",
         "https://www.screenhub.com.au/news/industry-news/atomic-arcade-shut-down-gi-joe-2693563/",
-        "https://www.ddo.com/news/ddo-downtime-021826"
+        "https://www.igamingtoday.com/big-daddy-gaming-continues-european-expansion-with-mga-licence-approval/",
+        "https://famiboards.com/threads/the-current-state-of-ai-slop-in-gaming-february-2026.16594/"
       ]
     },
     "tech_news": {
@@ -435,46 +433,37 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Google Pixel 9 gains AirDrop compatibility through Quick Share",
-          "summary": "Google announced that the Pixel 9 family will receive Quick Share compatibility with Apple's AirDrop in a phased rollout over the coming weeks, covering Pixel 9, 9 Pro, 9 Pro XL, and 9 Pro Fold models.",
-          "source": "Bez Kabli",
-          "url": "https://www.bez-kabli.pl/technology-news-18-02-2026/"
+          "title": "Amazon Leads Global Tech Layoffs with 16,000 Job Cuts",
+          "summary": "Amazon has accounted for over 52% of global tech job cuts in 2026, announcing 16,000 layoffs last month following 14,000 cuts in October, despite posting record $716.9 billion in revenue.",
+          "source": "The National News",
+          "url": "https://www.thenationalnews.com/future/technology/2026/02/18/why-is-amazon-cutting-tens-of-thousands-of-jobs-while-posting-record-revenue/"
         },
         {
-          "title": "Google I/O 2026 scheduled for May 19-20 in Mountain View",
-          "summary": "Google announced its annual developer conference will take place May 19-20 at Shoreline Amphitheatre with both in-person and online participation, focusing on AI breakthroughs and product updates across Gemini and Android.",
-          "source": "Bez Kabli",
-          "url": "https://www.bez-kabli.pl/technology-news-18-02-2026/"
+          "title": "Legal Challenge to Qualcomm's Chip Licensing Model",
+          "summary": "A legal challenge is mounting against Qualcomm's licensing playbook, potentially changing the economics of connected devices across phones, PCs, and emerging hardware categories.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/02/17/top-tech-news-today-february-17-2026/"
         },
         {
-          "title": "Niantic overhauls Pokémon Go Battle League server infrastructure",
-          "summary": "Niantic implemented a major server system overhaul for Go Battle League to reduce network lag and device performance issues, with testing showing significantly improved stability and consistency in competitive battles.",
-          "source": "Bez Kabli",
-          "url": "https://www.bez-kabli.pl/technology-news-18-02-2026/"
+          "title": "Apple Tightens Global Launch Cadence with Lower-Cost Devices",
+          "summary": "Apple is optimizing its hardware distribution strategy with multiple device refreshes, including lower-cost and mainstream hardware to broaden its installed base.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/02/17/top-tech-news-today-february-17-2026/"
         },
         {
-          "title": "Fujitsu named to FORTUNE's World's Most Admired Companies 2026",
-          "summary": "Fujitsu was recognized on FORTUNE Magazine's 2026 list of 'World's Most Admired Companies,' acknowledging the company's standing in the global technology industry.",
-          "source": "Fujitsu",
-          "url": "https://global.fujitsu/en-global/pr/news/2026/02/18-01"
-        },
-        {
-          "title": "NHTSA opens probes into Waymo autonomous vehicle incidents",
-          "summary": "The National Highway Traffic Safety Administration opened investigations into Waymo's school bus and pedestrian incidents, reflecting increased regulatory scrutiny on autonomous vehicle systems.",
-          "source": "Bez Kabli",
-          "url": "https://www.bez-kabli.pl/technology-news-18-02-2026/"
+          "title": "Semiconductor and Lighting Companies Announce Major Restructuring",
+          "summary": "European semiconductor and lighting group ams Osram announced approximately 2,000 layoffs despite narrowing losses, as tech companies pivot toward automation and operational efficiency.",
+          "source": "The National News",
+          "url": "https://www.thenationalnews.com/future/technology/2026/02/18/why-is-amazon-cutting-tens-of-thousands-of-jobs-while-posting-record-revenue/"
         }
       ],
       "citations": [
         "https://techstartups.com/2026/02/17/top-tech-news-today-february-17-2026/",
-        "https://www.youtube.com/watch?v=DI4Hs1qDseM",
-        "https://www.bez-kabli.pl/technology-news-18-02-2026/",
-        "https://www.techbuzz.ai/articles/the-2-trillion-saa-spocalypse-how-to-become-unsloppable-in-2026",
-        "https://www.blakes.com/insights/blakes-upround-february-2026/",
-        "https://global.fujitsu/en-global/pr/news/2026/02/18-01"
+        "https://www.abs-cbn.com/news/technology/2026/2/18/new-tech-and-ai-set-to-take-athlete-data-business-to-next-level-1533",
+        "https://www.thenationalnews.com/future/technology/2026/02/18/why-is-amazon-cutting-tens-of-thousands-of-jobs-while-posting-record-revenue/"
       ]
     }
   }
