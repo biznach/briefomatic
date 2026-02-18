@@ -1,23 +1,18 @@
 # Daily Briefing
 
-*Generated: 2026-02-18 12:14 UTC*
+*Generated: 2026-02-18 18:17 UTC*
 
-1. **Market Overview**: Major U.S. indexes posted modest gains amid AI uncertainty, with the Nasdaq Composite, S&P 500, and Dow Jones Industrial Average each gaining 0.1%. The VIX volatility index remains elevated at 20.24. In the crypto market, Bitcoin's price is down, trading at $67,564, with a 24-hour change of -0.71% and a 7-day change of 1.61%. Ethereum's price is $1,984.04, with a 24-hour change of 0.54% and a 7-day change of 2.43%.
+1. **Market Overview**: The S&P 500 gained 0.10% to 6,843, while the Dow Jones rose 0.07% to 49,533, and the Nasdaq advanced 0.14% to 22,578. Bitcoin's price is $67,068 with a 24-hour change of -0.38%, and Ethereum's price is $1,970.55 with a 24-hour change of 0.18%. The overall market sentiment remains cautious, with investors closely watching the Fed minutes and central bank developments.
 
-2. **Tech & AI**: Significant AI developments include Merck and Mayo Clinic's collaboration on AI-enabled drug discovery, the emergence of AI-powered digital pathology tools for personalized cancer treatment, and the launch of NOW // AI, a simulation program for AI risk management. Additionally, there are concerns about AI hype vs. reality, with a Columbia University AI administrator expressing skepticism about AI capabilities.
+2. **Tech & AI**: Significant developments in AI include the launch of a new AI tool for automating wealth management, which triggered market volatility in the wealth management sector. Additionally, researchers have made breakthroughs in machine learning for complex data structures, and Clario has achieved ISO 42001 certification for responsible AI in clinical trials. The University of Missouri has released a free tool to verify AI protein structure predictions, and NOAA and MBARI have advanced deployable AI for autonomous deep-sea animal tracking.
 
 3. **Gaming & Entertainment**: There is no notable gaming news in the provided data.
 
 4. **Key Insights**:
-* The market is experiencing volatility due to AI uncertainty, with software stocks facing significant selling pressure while mega-cap AI infrastructure companies hold steady.
-* Regulatory developments in the crypto space include the SEC's approval of the DTC to proceed with tokenizing stocks on blockchain.
-* AI is being increasingly used in various industries, including healthcare, with the development of AI-powered digital pathology tools.
-* There is a growing concern about the gap between AI hype and reality, with some experts expressing skepticism about AI capabilities.
-* The NAHB Housing Market Index fell to 36 in February, missing consensus expectations and signaling continued weakness in the housing sector.
+* The market is differentiating between AI infrastructure providers and application-layer companies, with the former holding firm and the latter facing selling pressure.
+* AI is extending to complex data structures with spectral convolution on orbifolds, enabling geometric deep learning on non-Euclidean data.
+* Clario's achievement of ISO 42001 certification highlights the importance of responsible AI in clinical trials.
+* The University of Missouri's free tool for verifying AI protein structure predictions improves trustworthiness in scientific applications.
+* NOAA and MBARI's deployable AI for autonomous deep-sea animal tracking has been successfully tested.
 
-5. **Watch List**: 
-* Nvidia's earnings report scheduled for February 25, which will be closely watched for guidance on the AI sector.
-* The SEC's approval of the DTC to proceed with tokenizing stocks on blockchain and its potential impact on the financial industry.
-* The development of AI-powered digital pathology tools and their potential to advance personalized oncology care.
-* The market's reaction to AI uncertainty and its potential impact on the stock market.
-* The housing market, which continues to show weakness, with the NAHB Housing Market Index falling to 36 in February.
+5. **Watch List**: Items to monitor in the coming days include the Fed minutes, central bank developments, and the impact of AI on professional services. Additionally, investors should watch for further developments in AI infrastructure and application-layer companies, as well as breakthroughs in machine learning and geometric deep learning. The RBNZ interest rate decision and Australian wage data are also expected to drive volatility across sessions.
