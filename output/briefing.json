@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T00:27:03.600961+00:00",
-  "generated_at_human": "2026-02-19 00:27 UTC",
+  "generated_at": "2026-02-19T06:24:14.716974+00:00",
+  "generated_at_human": "2026-02-19 06:24 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "Ladybird: Closing this as we are no longer pursuing Swift adoption",
-          "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
-          "score": 79,
-          "comments": 35
+          "title": "European Tech Alternatives",
+          "url": "https://eutechmap.com/map",
+          "score": 69,
+          "comments": 26
         },
         {
           "title": "Sizing chaos",
           "url": "https://pudding.cool/2026/02/womens-sizing/",
-          "score": 221,
-          "comments": 117
-        },
-        {
-          "title": "Cosmologically Unique IDs",
-          "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-          "score": 258,
-          "comments": 77
+          "score": 431,
+          "comments": 222
         },
         {
           "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
           "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-          "score": 97,
-          "comments": 56
+          "score": 266,
+          "comments": 136
+        },
+        {
+          "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+          "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+          "score": 73,
+          "comments": 18
+        },
+        {
+          "title": "Anthropic officially bans using subscription auth for third party use",
+          "url": "https://code.claude.com/docs/en/legal-and-compliance",
+          "score": 212,
+          "comments": 219
+        },
+        {
+          "title": "Cosmologically Unique IDs",
+          "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+          "score": 338,
+          "comments": 108
+        },
+        {
+          "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
+          "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+          "score": 75,
+          "comments": 9
         },
         {
           "title": "Tailscale Peer Relays is now generally available",
           "url": "https://tailscale.com/blog/peer-relays-ga",
-          "score": 303,
-          "comments": 164
+          "score": 371,
+          "comments": 186
+        },
+        {
+          "title": "How AI is affecting productivity and jobs in Europe",
+          "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+          "score": 59,
+          "comments": 23
+        },
+        {
+          "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
+          "url": "https://static.stepfun.com/blog/step-3.5-flash/",
+          "score": 32,
+          "comments": 8
         },
         {
           "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
           "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
-          "score": 241,
-          "comments": 128
-        },
-        {
-          "title": "All Look Same?",
-          "url": "https://alllooksame.com/",
-          "score": 21,
-          "comments": 7
-        },
-        {
-          "title": "R3forth: A concatenative language derived from ColorForth",
-          "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
-          "score": 46,
-          "comments": 8
+          "score": 304,
+          "comments": 154
         },
         {
           "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
           "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-          "score": 170,
-          "comments": 86
+          "score": 240,
+          "comments": 108
+        },
+        {
+          "title": "Minecraft Java is switching from OpenGL to Vulkan",
+          "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
+          "score": 147,
+          "comments": 38
+        },
+        {
+          "title": "A Pokémon of a Different Color",
+          "url": "https://matthew.verive.me/blog/color/",
+          "score": 88,
+          "comments": 10
+        },
+        {
+          "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
+          "url": "https://blackboard.sh/blog/electrobun-v1/",
+          "score": 58,
+          "comments": 16
+        },
+        {
+          "title": "Visualizing the ARM64 Instruction Set (2024)",
+          "url": "https://zyedidia.github.io/blog/posts/6-arm64/",
+          "score": 5,
+          "comments": 0
         },
         {
           "title": "The Perils of ISBN",
           "url": "https://rygoldstein.com/posts/perils-of-isbn",
-          "score": 57,
+          "score": 107,
+          "comments": 55
+        },
+        {
+          "title": "Making a font with ligatures to display thirteenth-century monk numerals",
+          "url": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
+          "score": 73,
+          "comments": 8
+        },
+        {
+          "title": "R3forth: A concatenative language derived from ColorForth",
+          "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+          "score": 73,
+          "comments": 10
+        },
+        {
+          "title": "Show HN: Respectlytics – Open-source, privacy-first mobile analytics (MIT+AGPL)",
+          "url": "https://github.com/respectlytics/respectlytics",
+          "score": 16,
+          "comments": 1
+        },
+        {
+          "title": "What Every Experimenter Must Know About Randomization",
+          "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029",
+          "score": 68,
+          "comments": 37
+        },
+        {
+          "title": "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
+          "url": "https://news.ycombinator.com/item?id=47060220",
+          "score": 69,
           "comments": 26
         },
         {
-          "title": "Microsoft offers guide to pirating Harry Potter series for LLM training",
-          "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
-          "score": 85,
-          "comments": 35
+          "title": "Ukranian controls Home Assistant over LoRa radio when their power grid goes down",
+          "url": "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/",
+          "score": 36,
+          "comments": 4
         },
         {
-          "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
-          "url": "https://resobscura.substack.com/p/what-is-happening-to-writing",
-          "score": 85,
-          "comments": 57
+          "title": "Show HN: A Lisp where each function call runs a Docker container",
+          "url": "https://github.com/a11ce/docker-lisp",
+          "score": 8,
+          "comments": 4
         },
         {
           "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
           "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
           "score": 1,
           "comments": 0
-        },
-        {
-          "title": "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
-          "url": "https://news.ycombinator.com/item?id=47060220",
-          "score": 34,
-          "comments": 15
-        },
-        {
-          "title": "Making a font with ligatures to display thirteenth-century monk numerals",
-          "url": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
-          "score": 28,
-          "comments": 5
-        },
-        {
-          "title": "Portugal: The First Global Empire (2015)",
-          "url": "https://www.historytoday.com/archive/first-global-empire",
-          "score": 51,
-          "comments": 38
-        },
-        {
-          "title": "Pocketbase lost its funding from FLOSS fund",
-          "url": "https://github.com/pocketbase/pocketbase/discussions/7287",
-          "score": 109,
-          "comments": 69
-        },
-        {
-          "title": "Learning Lean: Part 1",
-          "url": "https://rkirov.github.io/posts/lean1/",
-          "score": 69,
-          "comments": 7
-        },
-        {
-          "title": "A solver for Semantle",
-          "url": "https://victoriaritvo.com/blog/semantle-solver/",
-          "score": 30,
-          "comments": 5
-        },
-        {
-          "title": "When interfaces become disposable",
-          "url": "https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable",
-          "score": 13,
-          "comments": 4
-        },
-        {
-          "title": "What Every Experimenter Must Know About Randomization",
-          "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029",
-          "score": 34,
-          "comments": 14
-        },
-        {
-          "title": "Discrete Structures [pdf]",
-          "url": "https://kyleormsby.github.io/files/113spring26/113full_text.pdf",
-          "score": 37,
-          "comments": 2
-        },
-        {
-          "title": "Show HN: VectorNest responsive web-based SVG editor",
-          "url": "https://ekrsulov.github.io/vectornest/",
-          "score": 65,
-          "comments": 22
-        },
-        {
-          "title": "Cistercian Numbers",
-          "url": "https://www.omniglot.com/language/numbers/cistercian-numbers.htm",
-          "score": 59,
-          "comments": 10
-        },
-        {
-          "title": "Assigning Open Problems in Class",
-          "url": "https://blog.computationalcomplexity.org/2026/02/assigning-open-problems-in-class.html",
-          "score": 11,
-          "comments": 5
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 66348,
-          "change_24h": -1.76,
-          "change_7d": -1.55,
-          "market_cap": 1327724395368
+          "price": 67127,
+          "change_24h": -0.87,
+          "change_7d": 0.21,
+          "market_cap": 1338533102789
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1951.86,
-          "change_24h": -1.99,
-          "change_7d": 0.07,
-          "market_cap": 235978638920
+          "price": 1977.33,
+          "change_24h": -1.03,
+          "change_7d": 0.62,
+          "market_cap": 238049499733
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 81.41,
-          "change_24h": -4.38,
-          "change_7d": 2.32,
-          "market_cap": 46297060969
+          "price": 82.27,
+          "change_24h": -3.23,
+          "change_7d": 2.34,
+          "market_cap": 46662193048
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.098333,
-          "change_24h": -2.57,
-          "change_7d": 8.03,
-          "market_cap": 16605424796
+          "price": 0.098277,
+          "change_24h": -2.84,
+          "change_7d": 6.96,
+          "market_cap": 16550761928
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.27268,
-          "change_24h": -2.96,
-          "change_7d": 6.79,
-          "market_cap": 10046330698
+          "price": 0.275822,
+          "change_24h": -2.3,
+          "change_7d": 6.88,
+          "market_cap": 10136599653
         }
       ]
     },
@@ -212,19 +212,24 @@
       "count": 10,
       "items": [
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 105
-        },
-        {
-          "name": "Espresso",
-          "symbol": "ESP",
-          "market_cap_rank": 472
-        },
-        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 106
+        },
+        {
+          "name": "Optimism",
+          "symbol": "OP",
+          "market_cap_rank": 128
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 43
         },
         {
           "name": "Solana",
@@ -232,34 +237,29 @@
           "market_cap_rank": 7
         },
         {
+          "name": "Espresso",
+          "symbol": "ESP",
+          "market_cap_rank": 508
+        },
+        {
           "name": "Hyperliquid",
           "symbol": "HYPE",
           "market_cap_rank": 16
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 44
+          "name": "World Liberty Financial",
+          "symbol": "WLFI",
+          "market_cap_rank": 34
         },
         {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 47
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         },
         {
-          "name": "Optimism",
-          "symbol": "OP",
-          "market_cap_rank": 120
-        },
-        {
-          "name": "Cosmos Hub",
-          "symbol": "ATOM",
-          "market_cap_rank": 62
-        },
-        {
-          "name": "Helium",
-          "symbol": "HNT",
-          "market_cap_rank": 128
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 31
         }
       ]
     },
