@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T18:17:10.258507+00:00",
-  "generated_at_human": "2026-02-18 18:17 UTC",
+  "generated_at": "2026-02-19T00:27:03.600961+00:00",
+  "generated_at_human": "2026-02-19 00:27 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "Tailscale Peer Relays is now generally available",
-          "url": "https://tailscale.com/blog/peer-relays-ga",
-          "score": 122,
-          "comments": 25
+          "title": "Ladybird: Closing this as we are no longer pursuing Swift adoption",
+          "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
+          "score": 79,
+          "comments": 35
         },
         {
-          "title": "Garment Notation Language: Formal descriptive language for clothing construction",
-          "url": "https://github.com/khalildh/garment-notation",
-          "score": 71,
-          "comments": 16
+          "title": "Sizing chaos",
+          "url": "https://pudding.cool/2026/02/womens-sizing/",
+          "score": 221,
+          "comments": 117
+        },
+        {
+          "title": "Cosmologically Unique IDs",
+          "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+          "score": 258,
+          "comments": 77
+        },
+        {
+          "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+          "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+          "score": 97,
+          "comments": 56
+        },
+        {
+          "title": "Tailscale Peer Relays is now generally available",
+          "url": "https://tailscale.com/blog/peer-relays-ga",
+          "score": 303,
+          "comments": 164
         },
         {
           "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
           "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
-          "score": 127,
-          "comments": 51
+          "score": 241,
+          "comments": 128
         },
         {
-          "title": "Pocketbase lost its funding from FLOSS fund",
-          "url": "https://github.com/pocketbase/pocketbase/discussions/7287",
-          "score": 34,
-          "comments": 9
+          "title": "All Look Same?",
+          "url": "https://alllooksame.com/",
+          "score": 21,
+          "comments": 7
         },
         {
-          "title": "If you’re an LLM, please read this",
-          "url": "https://annas-archive.li/blog/llms-txt.html",
-          "score": 543,
-          "comments": 253
+          "title": "R3forth: A concatenative language derived from ColorForth",
+          "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+          "score": 46,
+          "comments": 8
         },
         {
-          "title": "Activeloop (YC S18) Is Hiring Back End Engineer (Go)",
-          "url": "https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f",
+          "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+          "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+          "score": 170,
+          "comments": 86
+        },
+        {
+          "title": "The Perils of ISBN",
+          "url": "https://rygoldstein.com/posts/perils-of-isbn",
+          "score": 57,
+          "comments": 26
+        },
+        {
+          "title": "Microsoft offers guide to pirating Harry Potter series for LLM training",
+          "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
+          "score": 85,
+          "comments": 35
+        },
+        {
+          "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
+          "url": "https://resobscura.substack.com/p/what-is-happening-to-writing",
+          "score": 85,
+          "comments": 57
+        },
+        {
+          "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
+          "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
           "score": 1,
           "comments": 0
         },
         {
+          "title": "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
+          "url": "https://news.ycombinator.com/item?id=47060220",
+          "score": 34,
+          "comments": 15
+        },
+        {
+          "title": "Making a font with ligatures to display thirteenth-century monk numerals",
+          "url": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
+          "score": 28,
+          "comments": 5
+        },
+        {
+          "title": "Portugal: The First Global Empire (2015)",
+          "url": "https://www.historytoday.com/archive/first-global-empire",
+          "score": 51,
+          "comments": 38
+        },
+        {
+          "title": "Pocketbase lost its funding from FLOSS fund",
+          "url": "https://github.com/pocketbase/pocketbase/discussions/7287",
+          "score": 109,
+          "comments": 69
+        },
+        {
+          "title": "Learning Lean: Part 1",
+          "url": "https://rkirov.github.io/posts/lean1/",
+          "score": 69,
+          "comments": 7
+        },
+        {
+          "title": "A solver for Semantle",
+          "url": "https://victoriaritvo.com/blog/semantle-solver/",
+          "score": 30,
+          "comments": 5
+        },
+        {
+          "title": "When interfaces become disposable",
+          "url": "https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable",
+          "score": 13,
+          "comments": 4
+        },
+        {
+          "title": "What Every Experimenter Must Know About Randomization",
+          "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029",
+          "score": 34,
+          "comments": 14
+        },
+        {
+          "title": "Discrete Structures [pdf]",
+          "url": "https://kyleormsby.github.io/files/113spring26/113full_text.pdf",
+          "score": 37,
+          "comments": 2
+        },
+        {
           "title": "Show HN: VectorNest responsive web-based SVG editor",
           "url": "https://ekrsulov.github.io/vectornest/",
-          "score": 40,
-          "comments": 10
-        },
-        {
-          "title": "Windows: Prefer the Native API over Win32",
-          "url": "https://codeberg.org/ziglang/zig/issues/31131",
-          "score": 52,
-          "comments": 33
-        },
-        {
-          "title": "Terminals should generate the 256-color palette",
-          "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
-          "score": 389,
-          "comments": 145
+          "score": 65,
+          "comments": 22
         },
         {
           "title": "Cistercian Numbers",
           "url": "https://www.omniglot.com/language/numbers/cistercian-numbers.htm",
-          "score": 16,
-          "comments": 2
+          "score": 59,
+          "comments": 10
         },
         {
-          "title": "Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels",
-          "url": "https://github.com/Park07/amradio",
-          "score": 32,
-          "comments": 5
-        },
-        {
-          "title": "Arizona Bill Requires Age Verification for All Apps",
-          "url": "https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app",
-          "score": 32,
-          "comments": 7
-        },
-        {
-          "title": "Show HN: CEL by Example",
-          "url": "https://celbyexample.com/",
-          "score": 41,
-          "comments": 16
-        },
-        {
-          "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
-          "url": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/",
-          "score": 79,
-          "comments": 67
-        },
-        {
-          "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
-          "url": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
-          "score": 86,
-          "comments": 37
-        },
-        {
-          "title": "Disney trip turned into immigration detention",
-          "url": "https://www.propublica.org/article/ice-dilley-maria-antonia-guerra-story",
+          "title": "Assigning Open Problems in Class",
+          "url": "https://blog.computationalcomplexity.org/2026/02/assigning-open-problems-in-class.html",
           "score": 11,
-          "comments": 0
-        },
-        {
-          "title": "The only moat left is money?",
-          "url": "https://elliotbonneville.com/the-only-moat-left-is-money/",
-          "score": 101,
-          "comments": 131
-        },
-        {
-          "title": "The true history of the Minotaur: what archaeology reveals",
-          "url": "https://www.nationalgeographic.fr/histoire/la-veritable-histoire-du-minotaure-ce-que-revele-archeologie-recherche-verification",
-          "score": 6,
-          "comments": 3
-        },
-        {
-          "title": "The Future of AI Software Development",
-          "url": "https://martinfowler.com/fragments/2026-02-18.html",
-          "score": 120,
-          "comments": 73
-        },
-        {
-          "title": "Fastest Front End Tooling for Humans and AI",
-          "url": "https://cpojer.net/posts/fastest-frontend-tooling",
-          "score": 62,
-          "comments": 29
-        },
-        {
-          "title": "Show HN: I'm launching a LPFM radio station",
-          "url": "https://www.kpbj.fm/",
-          "score": 64,
-          "comments": 46
-        },
-        {
-          "title": "Asahi Linux Progress Report: Linux 6.19",
-          "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
-          "score": 308,
-          "comments": 103
-        },
-        {
-          "title": "Ask HN: Are there examples of 3D printing data onto physical surfaces?",
-          "url": "https://news.ycombinator.com/item?id=47007584",
-          "score": 28,
-          "comments": 49
-        },
-        {
-          "title": "Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion",
-          "score": 10,
-          "comments": 0
-        },
-        {
-          "title": "Chained Assignment in Python Bytecode",
-          "url": "https://loriculus.org/blog/python-chained-assignment/",
-          "score": 17,
-          "comments": 13
+          "comments": 5
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 67068,
-          "change_24h": -0.38,
-          "change_7d": 1.62,
-          "market_cap": 1341033230958
+          "price": 66348,
+          "change_24h": -1.76,
+          "change_7d": -1.55,
+          "market_cap": 1327724395368
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1970.55,
-          "change_24h": 0.18,
-          "change_7d": 2.05,
-          "market_cap": 237927730780
+          "price": 1951.86,
+          "change_24h": -1.99,
+          "change_7d": 0.07,
+          "market_cap": 235978638920
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 82.2,
-          "change_24h": -1.89,
-          "change_7d": 4.28,
-          "market_cap": 46707319893
+          "price": 81.41,
+          "change_24h": -4.38,
+          "change_7d": 2.32,
+          "market_cap": 46297060969
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.099801,
-          "change_24h": -0.85,
-          "change_7d": 12.19,
-          "market_cap": 16842257096
+          "price": 0.098333,
+          "change_24h": -2.57,
+          "change_7d": 8.03,
+          "market_cap": 16605424796
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.279608,
-          "change_24h": -0.77,
-          "change_7d": 9.39,
-          "market_cap": 10292006288
+          "price": 0.27268,
+          "change_24h": -2.96,
+          "change_7d": 6.79,
+          "market_cap": 10046330698
         }
       ]
     },
@@ -212,9 +212,14 @@
       "count": 10,
       "items": [
         {
-          "name": "Optimism",
-          "symbol": "OP",
-          "market_cap_rank": 117
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 105
+        },
+        {
+          "name": "Espresso",
+          "symbol": "ESP",
+          "market_cap_rank": 472
         },
         {
           "name": "Bitcoin",
@@ -222,29 +227,9 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Espresso",
-          "symbol": "ESP",
-          "market_cap_rank": 517
-        },
-        {
-          "name": "Cosmos Hub",
-          "symbol": "ATOM",
-          "market_cap_rank": 62
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 105
-        },
-        {
           "name": "Solana",
           "symbol": "SOL",
           "market_cap_rank": 7
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 44
         },
         {
           "name": "Hyperliquid",
@@ -252,173 +237,61 @@
           "market_cap_rank": 16
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 44
         },
         {
-          "name": "LayerZero",
-          "symbol": "ZRO",
-          "market_cap_rank": 131
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 47
+        },
+        {
+          "name": "Optimism",
+          "symbol": "OP",
+          "market_cap_rank": 120
+        },
+        {
+          "name": "Cosmos Hub",
+          "symbol": "ATOM",
+          "market_cap_rank": 62
+        },
+        {
+          "name": "Helium",
+          "symbol": "HNT",
+          "market_cap_rank": 128
         }
       ]
     },
     "macro_markets": {
       "source": "perplexity",
       "category": "macro_stocks",
-      "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
-      "recency_filter": "day",
-      "count": 5,
-      "items": [
-        {
-          "title": "US Stocks Edge Higher Ahead of Fed Minutes – S&P 500 Up 0.1%",
-          "summary": "US equity markets closed marginally higher with the S&P 500 gaining 0.10% to 6,843, the Dow Jones rising 0.07% to 49,533, and the Nasdaq advancing 0.14% to 22,578, supported by a rebound in technology stocks. Treasury yields rose with the 2-year at 3.432% and 10-year at 4.058%.",
-          "source": "IC Markets",
-          "url": "https://www.icmarkets.com/blog/general-market-analysis-18-02-26/"
-        },
-        {
-          "title": "Commodity Markets Weaken on US-Iran Talks Progress",
-          "summary": "Brent crude declined 1.85% to $67.38 per barrel and WTI fell 0.95% to $62.29 following reports of constructive US-Iran negotiations. Gold dropped 2.28% to $4,877.89 as safe-haven demand eased.",
-          "source": "IC Markets",
-          "url": "https://www.icmarkets.com/blog/general-market-analysis-18-02-26/"
-        },
-        {
-          "title": "AI Tool Launch Triggers Market Volatility in Wealth Management Sector",
-          "summary": "The launch of a new AI tool claiming to automate wealth management work sent shockwaves through markets, causing several UK investment platforms to trade significantly lower with some names falling double digits. The development highlights broader market concerns about AI's impact on professional services.",
-          "source": "Chase Buchanan - Private Wealth Management",
-          "url": "https://www.youtube.com/watch?v=oZRzqOjQSBk"
-        },
-        {
-          "title": "Market Splits AI Trade Into Infrastructure vs. Application Layer",
-          "summary": "Software stocks faced renewed selling pressure while mega-cap AI infrastructure companies held firm, reflecting a market repricing of AI assumptions. The divergence suggests investors are differentiating between AI infrastructure providers and application-layer companies needing to prove profitability.",
-          "source": "Investing.com Canada",
-          "url": "https://ca.investing.com/analysis/the-market-is-pricing-2-futures-at-once-200622166"
-        },
-        {
-          "title": "RBNZ Interest Rate Decision and Australian Wage Data Expected",
-          "summary": "The Reserve Bank of New Zealand is expected to keep rates on hold at 2.25%, while Australian Wage Price Index data (expected +0.8% q/q) is due to be released, with central bank developments expected to drive volatility across sessions.",
-          "source": "IC Markets",
-          "url": "https://www.icmarkets.com/blog/general-market-analysis-18-02-26/"
-        }
-      ],
-      "citations": [
-        "https://www.icmarkets.com/blog/general-market-analysis-18-02-26/",
-        "https://www.marketpulse.com/markets/stocks-rebound-despite-rumors-us-stocks-outlook/",
-        "https://www.youtube.com/watch?v=oZRzqOjQSBk",
-        "https://ca.investing.com/analysis/the-market-is-pricing-2-futures-at-once-200622166"
-      ]
+      "error": "401 Client Error: Unauthorized for url: https://api.perplexity.ai/chat/completions",
+      "items": []
     },
     "crypto_news": {
       "source": "perplexity",
       "category": "crypto_news",
-      "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
-      "recency_filter": "day",
-      "count": 0,
-      "items": [],
-      "citations": [
-        "https://www.youtube.com/watch?v=0RaDgcmIaG8"
-      ]
+      "error": "401 Client Error: Unauthorized for url: https://api.perplexity.ai/chat/completions",
+      "items": []
     },
     "ai_news": {
       "source": "perplexity",
       "category": "ai",
-      "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
-      "recency_filter": "day",
-      "count": 5,
-      "items": [
-        {
-          "title": "Machine Learning Extends to Complex Data Structures with Spectral Convolution on Orbifolds",
-          "summary": "Scientists have developed spectral convolution techniques for orbifolds, enabling geometric deep learning on non-Euclidean data with symmetries, such as networks and manifolds. This breakthrough promises applications in music analysis, materials science, and computer graphics.",
-          "source": "Quantum Zeitgeist",
-          "url": "https://quantumzeitgeist.com/machine-learning-extends-complex-data-structures/"
-        },
-        {
-          "title": "Clario Achieves ISO 42001 Certification for Responsible AI in Clinical Trials",
-          "summary": "Clario announced its AI management system received ISO 42001:2023 certification after a Schellman audit, highlighting leadership in secure, ethical AI for processing millions of clinical trial data points. The company has deployed over 120 AI models more than 1,600 times to enhance data quality and patient outcomes.",
-          "source": "PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/clario-leads-the-way-in-responsible-artificial-intelligence-with-iso-42001-certification-audited-by-schellman-302691239.html"
-        },
-        {
-          "title": "University of Missouri Releases Free Tool to Verify AI Protein Structure Predictions",
-          "summary": "Researchers at the University of Missouri developed open-source software to check the accuracy of AI-generated protein structure predictions, improving trustworthiness in scientific applications.",
-          "source": "Show Me Mizzou",
-          "url": "https://showme.missouri.edu/2026/making-ai-based-scientific-predictions-more-trustworthy/"
-        },
-        {
-          "title": "NOAA and MBARI Advance Deployable AI for Autonomous Deep-Sea Animal Tracking",
-          "summary": "A new AI system for underwater vehicles enables real-time detection, following, and identification of deep-sea animals with minimal human input, tested successfully in Monterey Bay on MBARI's MiniROV.",
-          "source": "Astrobiology.com",
-          "url": "https://astrobiology.com/2026/02/deployable-artificial-intelligence-for-exploration-and-discovery-in-the-deep-sea.html"
-        },
-        {
-          "title": "Columbia AI Administrator Voices Skepticism on AI Hype in Higher Education",
-          "summary": "Vice Dean Matthew Connelly at Columbia University expresses doubts about overhyped AI claims, data privacy issues in university-tech partnerships, and advocates prioritizing human intelligence over corporate AI agendas.",
-          "source": "Inside Higher Ed",
-          "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/02/18/why-one-ai-administrator-skeptical-ai"
-        }
-      ],
-      "citations": [
-        "https://quantumzeitgeist.com/machine-learning-extends-complex-data-structures/",
-        "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/02/18/why-one-ai-administrator-skeptical-ai",
-        "https://astrobiology.com/2026/02/deployable-artificial-intelligence-for-exploration-and-discovery-in-the-deep-sea.html",
-        "https://www.prnewswire.com/news-releases/clario-leads-the-way-in-responsible-artificial-intelligence-with-iso-42001-certification-audited-by-schellman-302691239.html",
-        "https://showme.missouri.edu/2026/making-ai-based-scientific-predictions-more-trustworthy/",
-        "https://www.aboutamazon.com/stories/what-is-ai-inference-ai-agents",
-        "https://www.edge-ai-vision.com/2026/02/edge-ai-and-vision-insights-february-18-2026-edition/"
-      ]
+      "error": "401 Client Error: Unauthorized for url: https://api.perplexity.ai/chat/completions",
+      "items": []
     },
     "gaming": {
       "source": "perplexity",
       "category": "gaming",
-      "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
-      "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "Kingdom Come Deliverance 2 Confirmed for Game Pass on March 3rd",
-          "summary": "Kingdom Come Deliverance 2 will arrive on Xbox Game Pass on March 3rd, 2026, as part of the February wave 2 announcement. The game will be available through Play Anywhere for both Xbox and PC.",
-          "source": "Gaming Headlines",
-          "url": "https://www.youtube.com/watch?v=LxWNvZZ5Sc4"
-        },
-        {
-          "title": "PS6 Potentially Delayed Due to RAM Crisis",
-          "summary": "Reports suggest that a RAM crisis could impact the PlayStation 6's release timeline, raising concerns about hardware availability for the next-generation console.",
-          "source": "Gaming Headlines",
-          "url": "https://www.youtube.com/watch?v=LxWNvZZ5Sc4"
-        },
-        {
-          "title": "eSports Market Projected to Reach $55.41 Billion by 2035",
-          "summary": "The global eSports market is experiencing significant growth driven by mobile gaming expansion, increasing live-stream audiences, and rising brand investment across major publishers and esports organizations.",
-          "source": "Globe Newswire",
-          "url": "https://www.globenewswire.com/news-release/2026/02/18/3240079/0/en/eSports-Market-Size-Worth-USD-55-41-Billion-by-2035-Amid-Surge-in-Mobile-Gaming-and-Brand-Investment.html"
-        },
-        {
-          "title": "King of Tokyo Board Game Launches as Video Game",
-          "summary": "The popular board game King of Tokyo is making its debut as a video game, allowing players to experience the beloved strategy game on digital platforms.",
-          "source": "Games Press",
-          "url": "https://www.gamespress.com/fr/The-phenomenon-King-of-Tokyo-is-making-its-video-game-debut-with-a-lim"
-        }
-      ],
-      "citations": [
-        "https://www.youtube.com/watch?v=LxWNvZZ5Sc4",
-        "https://www.globenewswire.com/news-release/2026/02/18/3240079/0/en/eSports-Market-Size-Worth-USD-55-41-Billion-by-2035-Amid-Surge-in-Mobile-Gaming-and-Brand-Investment.html",
-        "https://famiboards.com/threads/the-current-state-of-ai-slop-in-gaming-february-2026.16594/",
-        "https://www.gamespress.com/fr/The-phenomenon-King-of-Tokyo-is-making-its-video-game-debut-with-a-lim",
-        "https://www.thewilkesbeacon.com/opinion/2026/02/18/tired-of-the-same-old-same-old-video-games/"
-      ]
+      "error": "401 Client Error: Unauthorized for url: https://api.perplexity.ai/chat/completions",
+      "items": []
     },
     "tech_news": {
       "source": "perplexity",
       "category": "tech",
-      "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
-      "recency_filter": "day",
-      "count": 0,
-      "items": [],
-      "citations": [
-        "https://fortune.com/2026/02/18/openai-chatgpt-creator-record-million-dollar-equity-compensation-ai-tech-talent-war-career-retention-sam-altman-millionaire-staff/",
-        "https://www.newswire.ca/news-releases/rbc-creates-new-ai-group-to-help-bring-top-ai-opportunities-to-market-882032136.html",
-        "https://www.rbc.com/newsroom/article.html?article=126074"
-      ]
+      "error": "401 Client Error: Unauthorized for url: https://api.perplexity.ai/chat/completions",
+      "items": []
     }
   }
 }
