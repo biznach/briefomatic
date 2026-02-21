@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T12:08:30.033823+00:00",
-  "generated_at_human": "2026-02-21 12:08 UTC",
+  "generated_at": "2026-02-21T18:07:49.272225+00:00",
+  "generated_at_human": "2026-02-21 18:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,34 +8,94 @@
       "count": 25,
       "items": [
         {
-          "title": "Keep Android Open",
-          "url": "https://f-droid.org/2026/02/20/twif.html",
-          "score": 1585,
-          "comments": 579
+          "title": "What Not to Write on Your Security Clearance Form",
+          "url": "https://milk.com/wall-o-shame/security_clearance.html",
+          "score": 128,
+          "comments": 24
         },
         {
           "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
           "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-          "score": 105,
-          "comments": 24
+          "score": 762,
+          "comments": 280
         },
         {
-          "title": "Andrej Karpathy talks about \"Claws\"",
-          "url": "https://simonwillison.net/2026/Feb/21/claws/",
-          "score": 89,
-          "comments": 118
+          "title": "How far back in time can you understand English?",
+          "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
+          "score": 104,
+          "comments": 48
         },
         {
-          "title": "Turn Dependabot off",
-          "url": "https://words.filippo.io/dependabot/",
-          "score": 487,
-          "comments": 140
+          "title": "Keep Android Open",
+          "url": "https://f-droid.org/2026/02/20/twif.html",
+          "score": 1874,
+          "comments": 641
+        },
+        {
+          "title": "The Nekonomicon – Nekochan.net Archive, Updated",
+          "url": "http://nekonomicon.irixnet.org/",
+          "score": 17,
+          "comments": 4
+        },
+        {
+          "title": "macOS's Little-Known Command-Line Sandboxing Tool (2025)",
+          "url": "https://igorstechnoclub.com/sandbox-exec/",
+          "score": 136,
+          "comments": 47
+        },
+        {
+          "title": "AI uBlock Blacklist",
+          "url": "https://github.com/alvi-se/ai-ublock-blacklist",
+          "score": 134,
+          "comments": 60
         },
         {
           "title": "I found a Vulnerability. They found a Lawyer",
           "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-          "score": 636,
-          "comments": 292
+          "score": 796,
+          "comments": 363
+        },
+        {
+          "title": "Turn Dependabot off",
+          "url": "https://words.filippo.io/dependabot/",
+          "score": 586,
+          "comments": 170
+        },
+        {
+          "title": "Facebook is cooked",
+          "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+          "score": 1364,
+          "comments": 737
+        },
+        {
+          "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+          "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+          "score": 791,
+          "comments": 209
+        },
+        {
+          "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+          "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+          "score": 546,
+          "comments": 328
+        },
+        {
+          "title": "Andrej Karpathy talks about \"Claws\"",
+          "url": "https://simonwillison.net/2026/Feb/21/claws/",
+          "score": 257,
+          "comments": 416
+        },
+        {
+          "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+          "url": "https://www.koreaherald.com/article/10679206",
+          "score": 67,
+          "comments": 37
+        },
+        {
+          "title": "Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust",
+          "url": "https://github.com/Ragnaroek/iron-wolf",
+          "score": 5,
+          "comments": 4
         },
         {
           "title": "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
@@ -44,118 +104,58 @@
           "comments": 0
         },
         {
-          "title": "Facebook is cooked",
-          "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
-          "score": 1146,
-          "comments": 631
-        },
-        {
-          "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-          "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-          "score": 749,
-          "comments": 185
-        },
-        {
-          "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-          "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-          "score": 464,
-          "comments": 278
-        },
-        {
-          "title": "Understanding Std:Shared_mutex from C++17",
-          "url": "https://www.cppstories.com/2026/shared_mutex/",
-          "score": 16,
-          "comments": 0
-        },
-        {
-          "title": "CERN rebuilt the original browser from 1989 (2019)",
-          "url": "https://worldwideweb.cern.ch",
-          "score": 187,
-          "comments": 66
-        },
-        {
-          "title": "EU mandates replaceable batteries by 2027 (2023)",
-          "url": "https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en",
-          "score": 146,
-          "comments": 87
-        },
-        {
           "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
           "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
-          "score": 44,
-          "comments": 21
-        },
-        {
-          "title": "Acme Weather",
-          "url": "https://acmeweather.com/blog/introducing-acme-weather",
-          "score": 69,
-          "comments": 47
+          "score": 114,
+          "comments": 45
         },
         {
           "title": "Coccinelle: The Linux kernel's source-to-source transformation tool",
           "url": "https://github.com/coccinelle/coccinelle",
-          "score": 19,
-          "comments": 4
+          "score": 62,
+          "comments": 17
         },
         {
-          "title": "LibreOffice blasts OnlyOffice for working with Microsoft to lock users in",
-          "url": "https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/",
-          "score": 64,
-          "comments": 36
-        },
-        {
-          "title": "What Is OAuth?",
-          "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
-          "score": 131,
-          "comments": 42
-        },
-        {
-          "title": "Gitas – A tool for Git account switching",
-          "url": "https://github.com/letmutex/gitas",
-          "score": 18,
-          "comments": 12
-        },
-        {
-          "title": "Every company building your AI assistant is now an ad company",
-          "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-          "score": 202,
-          "comments": 104
-        },
-        {
-          "title": "Cord: Coordinating Trees of AI Agents",
-          "url": "https://www.june.kim/cord",
-          "score": 104,
-          "comments": 47
-        },
-        {
-          "title": "When etcd crashes, check your disks first",
-          "url": "https://nubificus.co.uk/blog/etcd/",
-          "score": 13,
-          "comments": 4
-        },
-        {
-          "title": "Index, Count, Offset, Size",
-          "url": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
-          "score": 93,
-          "comments": 29
+          "title": "CERN rebuilt the original browser from 1989 (2019)",
+          "url": "https://worldwideweb.cern.ch",
+          "score": 231,
+          "comments": 83
         },
         {
           "title": "The bare minimum for syncing Git repos",
           "url": "https://alexwlchan.net/2026/bare-git/",
-          "score": 6,
-          "comments": 2
+          "score": 41,
+          "comments": 24
         },
         {
-          "title": "Large Language Model Reasoning Failures",
-          "url": "https://arxiv.org/abs/2602.06176",
-          "score": 12,
-          "comments": 3
+          "title": "Every company building your AI assistant is now an ad company",
+          "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+          "score": 270,
+          "comments": 144
         },
         {
-          "title": "Blue light filters don't work – controlling total luminance is a better bet",
-          "url": "https://www.neuroai.science/p/blue-light-filters-dont-work",
-          "score": 176,
-          "comments": 186
+          "title": "What Is OAuth?",
+          "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+          "score": 182,
+          "comments": 68
+        },
+        {
+          "title": "Approaches to writing two-sentence journal entries",
+          "url": "https://alexanderbjoy.com/two-sentence-journal-approaches/",
+          "score": 63,
+          "comments": 6
+        },
+        {
+          "title": "Index, Count, Offset, Size",
+          "url": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
+          "score": 139,
+          "comments": 64
+        },
+        {
+          "title": "Gitas – A tool for Git account switching",
+          "url": "https://github.com/letmutex/gitas",
+          "score": 48,
+          "comments": 39
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 68016,
-          "change_24h": 0.9,
-          "change_7d": -3.43,
-          "market_cap": 1361065537375
+          "price": 68411,
+          "change_24h": 1.2,
+          "change_7d": -1.86,
+          "market_cap": 1367872635212
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1975.43,
-          "change_24h": 1.52,
-          "change_7d": -5.85,
-          "market_cap": 238559388574
+          "price": 1989.49,
+          "change_24h": 1.27,
+          "change_7d": -4.41,
+          "market_cap": 240042694021
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 85.37,
-          "change_24h": 2.14,
-          "change_7d": -0.49,
-          "market_cap": 48515369992
+          "price": 86.29,
+          "change_24h": 2.24,
+          "change_7d": -2.05,
+          "market_cap": 49035461268
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.100025,
-          "change_24h": 1.51,
-          "change_7d": -0.64,
-          "market_cap": 16889945330
+          "price": 0.099551,
+          "change_24h": -1.42,
+          "change_7d": -5.66,
+          "market_cap": 16793917798
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.283211,
-          "change_24h": 2.22,
-          "change_7d": 1.78,
-          "market_cap": 10432247466
+          "price": 0.281336,
+          "change_24h": -1.06,
+          "change_7d": -2.87,
+          "market_cap": 10344957857
         }
       ]
     },
@@ -212,54 +212,54 @@
       "count": 10,
       "items": [
         {
+          "name": "パンチ (Punch)",
+          "symbol": "PUNCH",
+          "market_cap_rank": 498
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 16
+        },
+        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "LayerZero",
-          "symbol": "ZRO",
-          "market_cap_rank": 122
-        },
-        {
-          "name": "Aztec",
-          "symbol": "AZTEC",
-          "market_cap_rank": 259
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 46
-        },
-        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 104
-        },
-        {
-          "name": "Optimism",
-          "symbol": "OP",
-          "market_cap_rank": 144
-        },
-        {
-          "name": "Aave",
-          "symbol": "AAVE",
-          "market_cap_rank": 42
-        },
-        {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 50
-        },
-        {
-          "name": "パンチ (Punch)",
-          "symbol": "PUNCH",
-          "market_cap_rank": 650
+          "market_cap_rank": 105
         },
         {
           "name": "Espresso",
           "symbol": "ESP",
-          "market_cap_rank": 488
+          "market_cap_rank": 500
+        },
+        {
+          "name": "Ribbita by Virtuals",
+          "symbol": "TIBBIR",
+          "market_cap_rank": 186
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 44
+        },
+        {
+          "name": "Aztec",
+          "symbol": "AZTEC",
+          "market_cap_rank": 282
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 157
         }
       ]
     },
@@ -268,12 +268,45 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 5,
+      "items": [
+        {
+          "title": "US Supreme Court Strikes Down Trump Tariffs Under IEEPA",
+          "summary": "The US Supreme Court ruled that tariffs imposed by President Trump under the International Emergency Economic Powers Act (IEEPA) were unlawful, prompting Trump to announce a new global 10% tariff plus alternatives under other legislation. Markets showed limited reaction amid uncertainty over exemptions and next steps.[1][2]",
+          "source": "Scotiabank Economics; Economies.com",
+          "url": "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.global-week-ahead.february-20--2026.html"
+        },
+        {
+          "title": "US Q4 GDP Growth at 1.4%, Below Expectations",
+          "summary": "US fourth-quarter GDP grew by 1.4%, significantly missing expectations of 2.5% according to Dow Jones survey. This data was absorbed alongside tariff news with muted market response.[2]",
+          "source": "Economies.com",
+          "url": "https://www.economies.com/crypto/news/ethereum-edges-up-but-still-marks-weekly-losses-48343"
+        },
+        {
+          "title": "Fed Rate Cut Expectations Point to June",
+          "summary": "Markets continue to price in the first Federal Reserve interest rate cut of the year for June, per CME Group FedWatch tool, amid ongoing inflation above 2% target and positive output gap.[1][2]",
+          "source": "Scotiabank Economics; Economies.com",
+          "url": "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.global-week-ahead.february-20--2026.html"
+        },
+        {
+          "title": "QQQM Nasdaq 100 ETF Climbs to $250.67",
+          "summary": "Invesco Nasdaq 100 ETF (QQQM) rose to $250.67 on February 20 with high volume of 6.4 million shares; it has outperformed the market in the last 2 weeks (+2.0% vs SPY +1.7%) but underperformed yearly (+13.4% vs SPY +13.7%).[3]",
+          "source": "MarketChameleon",
+          "url": "https://marketchameleon.com/Overview/QQQM/VwapTable/AfterHours"
+        },
+        {
+          "title": "US Stock Market Up 16% Since Election Despite Tariff Uncertainty",
+          "summary": "US stocks are up 16% net since the election, rebounding post-Inauguration, but have underperformed most global indices in local terms except France's CAC40; China indices have matched or outperformed amid trade tensions.[1]",
+          "source": "Scotiabank Economics",
+          "url": "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.global-week-ahead.february-20--2026.html"
+        }
+      ],
       "citations": [
-        "https://www.economies.com/forex/usd-cad-news/loonie-marks-weekly-losses-as-investors-assess-us-supreme-courts-decision-48342",
         "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.global-week-ahead.february-20--2026.html",
-        "https://stockcharts.com/public?showall=true&category=all&sort=list_name&asc=true"
+        "https://www.economies.com/crypto/news/ethereum-edges-up-but-still-marks-weekly-losses-48343",
+        "https://marketchameleon.com/Overview/QQQM/VwapTable/AfterHours",
+        "https://stockcharts.com/public?showall=true&category=all&sort=list_name&asc=true",
+        "https://www.londonstockexchange.com/market-data/all"
       ]
     },
     "crypto_news": {
@@ -281,66 +314,44 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 5,
       "items": [
         {
-          "title": "SEC Updates Broker-Dealer Rules to Include Stablecoins with 2% Haircut",
-          "summary": "The SEC now permits stablecoins like USDC and USDT in broker-dealer capital calculations with a 2% haircut, boosting institutional DeFi participation. This enhances access to crypto markets for regulated entities.",
-          "source": "Phemex",
-          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-morpho-surges-13-as-institutional-demand-lifts-crypto-market-feb-21-61765"
+          "title": "Bitcoin Price Flashes Major Crash Warning Amid Bearish Signals",
+          "summary": "Bitcoin has rebounded over 4% to above $68,200 but faces risks from a head-and-shoulders pattern, heavy supply clusters at $66,800 and $65,636, rising leverage, and five weeks of spot ETF outflows.",
+          "source": "BeInCrypto",
+          "url": "https://beincrypto.com/bitcoin-price-flashes-major-crash-warning/"
         },
         {
-          "title": "CFTC Signals Imminent US Crypto Market Structure Legislation",
-          "summary": "CFTC Chairman states a new U.S. crypto market structure bill is close to becoming law, promising regulatory clarity and stability for digital assets.",
-          "source": "Phemex",
-          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-morpho-surges-13-as-institutional-demand-lifts-crypto-market-feb-21-61765"
+          "title": "Crypto Hackers Drained $3.4 Billion from Blockchain in 2025, Sparking AI Security Push",
+          "summary": "Hackers stole $3.4 billion in 2025, with three breaches causing 70% of losses; DeepSnitch AI, with 169% presale gains, deploys AI agents to combat this, positioning it as a high-potential project.",
+          "source": "Tribune India",
+          "url": "https://www.tribuneindia.com/news/business/next-crypto-to-explode-in-february-2026-deepsnitch-ai-shows-2000-potential-tao-and-wld-follow/"
         },
         {
-          "title": "Russian Central Bank to Allow Foreign Crypto Exchanges via Subsidiaries",
-          "summary": "New regulatory bill classifies digital currencies and stablecoins as 'monetary value,' permitting foreign exchanges to operate locally through subsidiaries while restricting payment use.",
-          "source": "Phemex",
-          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-morpho-surges-13-as-institutional-demand-lifts-crypto-market-feb-21-61765"
+          "title": "Grayscale Files for Spot TAO ETF Amid Bittensor Network Expansion Plans",
+          "summary": "Grayscale filed for a spot TAO ETF, potentially unlocking institutional capital; Bittensor plans to double subnet capacity to 256 AI markets in 2026, with price targets from $200 to $800.",
+          "source": "Tribune India",
+          "url": "https://www.tribuneindia.com/news/business/next-crypto-to-explode-in-february-2026-deepsnitch-ai-shows-2000-potential-tao-and-wld-follow/"
         },
         {
-          "title": "Bitcoin Consolidates Near $68K Amid Extreme Fear and Bearish Signals",
-          "summary": "Bitcoin hovers around $68K with Fear & Greed Index at 8, showing head-and-shoulders pattern, supply clusters at $66.8K, rising leverage, and five weeks of ETF outflows signaling potential deeper correction.",
-          "source": "MEXC News / BeInCrypto",
-          "url": "https://www.mexc.com/news/764059"
-        },
-        {
-          "title": "Morpho Token Surges 13% on Institutional Demand",
-          "summary": "Morpho rises 13% amid lifting institutional demand in crypto markets, with no major token unlocks scheduled for February 21.",
-          "source": "Phemex",
-          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-morpho-surges-13-as-institutional-demand-lifts-crypto-market-feb-21-61765"
-        },
-        {
-          "title": "Kite (KITE) Surges 18% Leading AI Tokens",
-          "summary": "KITE climbs 18% to $0.27 with $202M trading volume, outperforming other AI cryptos despite sector slump.",
-          "source": "Phemex",
-          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-morpho-surges-13-as-institutional-demand-lifts-crypto-market-feb-21-61765"
-        },
-        {
-          "title": "$300 Million USDC Transfer Between Unknown Wallets",
-          "summary": "A large $300 million USDC movement occurs between unidentified wallets, indicating significant capital flows in the ecosystem.",
-          "source": "Phemex",
-          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-morpho-surges-13-as-institutional-demand-lifts-crypto-market-feb-21-61765"
-        },
-        {
-          "title": "SXP, ALLO, and ESP Lead Market Gains with 25-34% Surges",
-          "summary": "Major cryptocurrencies trend higher, with outperformers SXP up 34%, ALLO 25%, and ESP 25%.",
-          "source": "Binance",
+          "title": "Bitcoin Activity Resilient Despite Rising Tariffs and Persistent ETF Outflows",
+          "summary": "Bitcoin holds at $68,397 with +1.16% gain as activity persists amid tariff increases and ongoing ETF outflows, suggesting market repricing of risk.",
+          "source": "Binance Square",
           "url": "https://www.binance.com/en/square/post/293990419937042"
+        },
+        {
+          "title": "Worldcoin (WLD) Trends with Institutional Backing and 2026 Price Forecasts",
+          "summary": "Worldcoin trades at $0.37 after drop from $11.74 high, backed by a16z and Coinbase Ventures; 2026 predictions range from $0.60 to $9.50 based on proof-of-human adoption.",
+          "source": "Tribune India",
+          "url": "https://www.tribuneindia.com/news/business/next-crypto-to-explode-in-february-2026-deepsnitch-ai-shows-2000-potential-tao-and-wld-follow/"
         }
       ],
       "citations": [
         "https://www.tribuneindia.com/news/business/next-crypto-to-explode-in-february-2026-deepsnitch-ai-shows-2000-potential-tao-and-wld-follow/",
-        "https://phemex.com/news/article/phemex-crypto-market-daily-morpho-surges-13-as-institutional-demand-lifts-crypto-market-feb-21-61765",
-        "https://www.mexc.com/news/764059",
         "https://beincrypto.com/bitcoin-price-flashes-major-crash-warning/",
         "https://fortune.com/2026/02/21/claude-upus-openclaw-market-shock-saaspocalypse-like-deepseek-moment/",
-        "https://punchng.com/crypto-sentiment-shift-can-bitcoin-recover-in-2026/",
-        "https://www.binance.com/en/square/post/293990419937042",
-        "https://www.idnfinancials.com/news/61509/btc-moves-within-limited-range-hedge-funds-convert-assets-into-cash"
+        "https://www.binance.com/en/square/post/293990419937042"
       ]
     },
     "ai_news": {
@@ -348,40 +359,46 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Generative AI Outperforms Human Research Teams in Medical Data Analysis",
-          "summary": "UC San Francisco and Wayne State University researchers found that generative AI can process massive medical datasets faster than traditional teams, with some AI systems producing stronger predictive models for preterm birth. A junior research pair using AI tools generated functioning code in minutes—work that would normally take experienced programmers hours or days.",
-          "source": "Science Daily",
+          "title": "Generative AI Outpaces Human Teams in Analyzing Medical Data for Preterm Birth Prediction",
+          "summary": "Scientists at UC San Francisco and Wayne State University found that generative AI processed massive medical datasets faster than human teams, generating usable prediction models in minutes for preterm birth risks using DREAM challenge data. Only 4 of 8 AI chatbots succeeded, but they matched or exceeded human performance, highlighting AI's potential in health research with human oversight.",
+          "source": "ScienceDaily",
           "url": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm"
         },
         {
-          "title": "Study Reveals Large Language Models Learn Through 'Surprisingly Short Programs'",
-          "summary": "Researchers from Mila Quebec AI Institute and McGill University present evidence supporting the superficial alignment hypothesis, suggesting pre-trained AI models contain vast knowledge and subsequent training primarily unlocks existing capabilities rather than learning entirely new skills.",
-          "source": "Quantum Zeitgeist",
-          "url": "https://quantumzeitgeist.com/ai-learns-tasks-surprisingly-short-programs/"
+          "title": "India's SVAN-M2 Robot Dog Showcases at AI Impact Summit 2026 After Early Controversy",
+          "summary": "The Indian-made SVAN-M2 robot, developed by xTerra Robotics from IIT Kanpur, impressed at the AI Impact Summit (Feb 16-20, 2026) with LiDAR-based 3D mapping for hazardous inspections, security, and thermal imaging, positioning it as cost-competitive with Chinese counterparts.",
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/industry/news/india-made-robots-shine-at-ai-impact-summit-2026-after-early-controversy-126022100730_1.html"
         },
         {
-          "title": "Edge AI in Smart Grids Market Surges to $19.46 Billion in 2026",
-          "summary": "The edge artificial intelligence market for smart grids is projected to grow from $15.49 billion in 2025 to $19.46 billion in 2026, with a 25.7% compound annual growth rate driven by renewable energy integration, grid efficiency demands, and IoT deployment.",
+          "title": "Tesla Expands AI Operations in India with Key Hardware Engineer and HPC Hiring",
+          "summary": "Tesla is recruiting an AI Hardware Engineer and High-Performance Computing Infrastructure Engineer in India to develop custom AI chips for Full Self-Driving, Optimus robot, and Dojo supercomputer, signaling potential establishment of an AI R&D center shortly after launching vehicle sales.",
+          "source": "Drive Tesla Canada",
+          "url": "https://driveteslacanada.ca/news/tesla-moves-beyond-vehicles-in-india-with-ai-hiring-push/"
+        },
+        {
+          "title": "Edge AI in Smart Grids Market to Surge 25.7% to $19.46 Billion in 2026",
+          "summary": "The edge AI smart grids market is projected to grow from $15.49 billion in 2025 to $19.46 billion in 2026, driven by renewable integration, smart meters, IoT, predictive analytics, and cybersecurity needs for real-time energy management.",
           "source": "EIN Presswire",
           "url": "https://www.einpresswire.com/article/893977320/industry-analysis-report-2026-on-edge-artificial-intelligence-ai-in-smart-grids-major-trends-drivers-and-forecasts"
         },
         {
-          "title": "EC-Council Launches Four New AI Certifications Amid Workforce Skills Gap",
-          "summary": "EC-Council unveiled four AI certifications and Certified CISO v4 to address a 700,000-person AI and cybersecurity reskilling gap in the U.S., as organizations move AI from pilot projects into everyday operations with $5.5 trillion in global AI risk exposure.",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html"
+          "title": "$1 Billion CEO Warns Coders and Software Engineers Face AI Job Disruption Within 18 Months",
+          "summary": "AI executive Matt Gopal predicts 'baby AGI' for coding will automate software engineering jobs soon, citing revised 2025 job gains and rising productivity; he urges workers to adapt as AI excels at business-to-code translation, impacting SaaS, insurance, and customer service.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/02/21/will-ai-take-my-job-coders-software-engineers-really-screwed/"
         }
       ],
       "citations": [
         "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
-        "https://quantumzeitgeist.com/ai-learns-tasks-surprisingly-short-programs/",
+        "https://www.business-standard.com/industry/news/india-made-robots-shine-at-ai-impact-summit-2026-after-early-controversy-126022100730_1.html",
         "https://www.einpresswire.com/article/893977320/industry-analysis-report-2026-on-edge-artificial-intelligence-ai-in-smart-grids-major-trends-drivers-and-forecasts",
-        "https://socialistproject.ca/2026/02/ai-economy-losing-bet-for-working-people/",
-        "https://papostacosandprovisions.com/epcylon/",
-        "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html"
+        "https://driveteslacanada.ca/news/tesla-moves-beyond-vehicles-in-india-with-ai-hiring-push/",
+        "https://fortune.com/2026/02/21/will-ai-take-my-job-coders-software-engineers-really-screwed/",
+        "https://www.the74million.org/article/america-is-about-to-be-graded-on-ai-literacy-we-are-not-prepared/"
       ]
     },
     "gaming": {
@@ -389,26 +406,18 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "title": "Microsoft Names AI Executive Asha Sharma as New Xbox CEO, Phil Spencer Retires",
-          "summary": "Microsoft has appointed Asha Sharma, an AI executive and former Instacart COO, as the new head of its gaming division, replacing retiring Xbox leader Phil Spencer amid slowing growth, layoffs, and a strategic refocus on consoles. Sarah Bond is also departing, with Matt Booty promoted to chief content officer.",
-          "source": "The Finance 360",
-          "url": "https://www.thefinance360.com/microsoft-taps-ai-executive-asha-sharma-to-lead-xbox-in-strategic-reset/"
-        },
-        {
-          "title": "Phil Spencer Retires as Microsoft Overhauls Xbox Leadership",
-          "summary": "Xbox boss Phil Spencer is retiring as Microsoft shakes up its gaming unit, with Asha Sharma taking over as head of Microsoft Gaming and Matt Booty becoming executive VP of content, amid revenue declines and competition challenges.",
+          "title": "Xbox Boss Phil Spencer Retires; Microsoft Reshuffles Gaming Leadership",
+          "summary": "Microsoft announced the retirement of Phil Spencer after 38 years at the company, including 12 years leading Xbox. Asha Sharma, former Instacart COO, will become head of Microsoft Gaming, while Matt Booty takes on executive vice president and chief content officer roles. Xbox president Sarah Bond is also departing the company.",
           "source": "Dawn",
-          "url": "https://www.dawn.com/news/1974788/xbox-boss-phil-spencer-retires-as-microsoft-shakes-up-gaming-unit/"
+          "url": "https://www.dawn.com/news/1974788"
         }
       ],
       "citations": [
-        "https://www.thefinance360.com/microsoft-taps-ai-executive-asha-sharma-to-lead-xbox-in-strategic-reset/",
-        "https://www.dawn.com/news/1974788/xbox-boss-phil-spencer-retires-as-microsoft-shakes-up-gaming-unit",
-        "https://www.storyboard18.com/gaming-news/6-pc-games-you-can-play-completely-offline-in-2026-90333.htm",
-        "https://tagn.wordpress.com/2026/02/20/"
+        "https://www.dawn.com/news/1974788",
+        "https://cannibalhalflinggaming.com/2026/02/21/"
       ]
     },
     "tech_news": {
@@ -416,41 +425,16 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "Amazon Overtakes Walmart as World's Top Sales Company",
-          "summary": "Amazon has surpassed Walmart to become the number one company globally by sales revenue.",
-          "source": "AzerNews",
-          "url": "https://www.azernews.az/region/254705.html"
-        },
-        {
-          "title": "Turner Construction Selected for Meta's $10 Billion Data Center in Indiana",
-          "summary": "Turner Construction Company has been chosen as the contractor for Meta's massive four-million-square-foot data center campus in Lebanon, Indiana, providing 1 gigawatt of capacity.",
-          "source": "IndexBox",
-          "url": "https://www.indexbox.io/blog/2026-construction-tech-infrastructure-meta-lt-nvidia-fluor-and-energy-coalition-updates/"
-        },
-        {
-          "title": "Larsen & Toubro Partners with NVIDIA on Gigawatt-Scale AI Factory in India",
-          "summary": "L&T announced a venture under IndiaAI Mission to build sovereign, scalable NVIDIA AI factory infrastructure for enterprises and industrial transformation.",
-          "source": "IndexBox",
-          "url": "https://www.indexbox.io/blog/2026-construction-tech-infrastructure-meta-lt-nvidia-fluor-and-energy-coalition-updates/"
-        },
-        {
-          "title": "Energy Technology Coalition Launched for Efficient Data Center Power",
-          "summary": "Schneider Electric and Bloomberg New Economy co-chair the new coalition to enhance energy efficiency, grid management, and integration of clean power for data centers and growing demands.",
-          "source": "IndexBox",
-          "url": "https://www.indexbox.io/blog/2026-construction-tech-infrastructure-meta-lt-nvidia-fluor-and-energy-coalition-updates/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
         "https://www.youtube.com/watch?v=7h7MZScnkW4",
-        "https://www.indexbox.io/blog/2026-construction-tech-infrastructure-meta-lt-nvidia-fluor-and-energy-coalition-updates/",
-        "https://economictimes.com/news/newsblogs/ai-summit-2026-live-updates-day4-bharat-mandapam-india-ai-impact-summit-ashwini-vaishnaw-narendra-modi-sundar-pichai-kiran-mazumdar-shaw-vijay-shekhar-sharma-paytm-imf-anthropic-infosys-us-secretary-latest-news/liveblog/128589442.cms",
-        "https://www.azernews.az/region/254705.html",
+        "https://www.fool.ca/2026/02/21/the-canadian-companies-building-ai-infrastructure-and-why-they-matter/",
+        "https://www.fool.ca/2026/02/21/this-tsx-dividend-stock-could-surprise-in-2026/",
+        "https://windowsforum.com/threads/asha-sharma-becomes-microsoft-gaming-ceo-to-drive-ai-with-guardrails.402808/?amp=1",
+        "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.global-week-ahead.february-20--2026.html",
         "https://markets.financialcontent.com/stocks/article/abnewswire-2026-2-21-top-fintech-software-development-companies-in-france",
-        "https://pressfrolic.com/press-release-tips/tech-startup-press-release/",
-        "https://lynntv.org/february-20-21-2026-winter-storm-information-updates/"
+        "https://pressfrolic.com/press-release-tips/tech-startup-press-release/"
       ]
     }
   }
