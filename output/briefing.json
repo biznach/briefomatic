@@ -1,163 +1,11 @@
 {
-  "generated_at": "2026-02-24T00:25:03.797886+00:00",
-  "generated_at_human": "2026-02-24 00:25 UTC",
+  "generated_at": "2026-02-24T06:23:26.460253+00:00",
+  "generated_at_human": "2026-02-24 06:23 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "category": "tech_ai_nerd",
-      "count": 25,
-      "items": [
-        {
-          "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
-          "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
-          "score": 131,
-          "comments": 42
-        },
-        {
-          "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
-          "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
-          "score": 177,
-          "comments": 140
-        },
-        {
-          "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
-          "url": "https://spectrum.ieee.org/age-verification",
-          "score": 1154,
-          "comments": 925
-        },
-        {
-          "title": "What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics",
-          "url": "https://jamesoswald.dev/posts/bigoinequality/",
-          "score": 19,
-          "comments": 7
-        },
-        {
-          "title": "Ladybird adopts Rust",
-          "url": "https://ladybird.org/posts/adopting-rust/",
-          "score": 1037,
-          "comments": 569
-        },
-        {
-          "title": "Show HN: PgDog – Scale Postgres without changing the app",
-          "url": "https://github.com/pgdogdev/pgdog",
-          "score": 172,
-          "comments": 38
-        },
-        {
-          "title": "Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)",
-          "url": "https://github.com/vignesh07/babyshark",
-          "score": 41,
-          "comments": 14
-        },
-        {
-          "title": "The challenges of porting Shufflepuck Cafe to the 8 bits Apple II",
-          "url": "https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/",
-          "score": 32,
-          "comments": 7
-        },
-        {
-          "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
-          "url": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
-          "score": 67,
-          "comments": 25
-        },
-        {
-          "title": "Elsevier shuts down its finance journal citation cartel",
-          "url": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
-          "score": 516,
-          "comments": 95
-        },
-        {
-          "title": "'Viking' was a job description, not a matter of heredity: Ancient DNA study",
-          "url": "https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows",
-          "score": 139,
-          "comments": 110
-        },
-        {
-          "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
-          "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
-          "score": 23,
-          "comments": 7
-        },
-        {
-          "title": "SIM (YC X25) Is Hiring the Best Engineers in San Francisco",
-          "url": "https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform",
-          "score": 1,
-          "comments": 0
-        },
-        {
-          "title": "Magical Mushroom – Europe's first industrial-scale mycelium packaging producer",
-          "url": "https://magicalmushroom.com/index",
-          "score": 342,
-          "comments": 112
-        },
-        {
-          "title": "Show HN: Sowbot – open-hardware agricultural robot (ROS2, RTK GPS)",
-          "url": "https://sowbot.co.uk/",
-          "score": 104,
-          "comments": 37
-        },
-        {
-          "title": "A simple web we own",
-          "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
-          "score": 170,
-          "comments": 116
-        },
-        {
-          "title": "War Propaganda and Iran: Script Used for Every Failed US War Hauled Out Again",
-          "url": "https://greenwald.substack.com/p/war-propaganda-and-iran-the-exact",
-          "score": 10,
-          "comments": 0
-        },
-        {
-          "title": "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
-          "url": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/",
-          "score": 238,
-          "comments": 62
-        },
-        {
-          "title": "Binance fired employees who found $1.7B in crypto was sent to Iran",
-          "url": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
-          "score": 368,
-          "comments": 157
-        },
-        {
-          "title": "Scent, in Silico",
-          "url": "https://www.asimov.press/p/scent",
-          "score": 17,
-          "comments": 1
-        },
-        {
-          "title": "Benchmarks for concurrent hash map implementations in Go",
-          "url": "https://github.com/puzpuzpuz/go-concurrent-map-bench",
-          "score": 82,
-          "comments": 7
-        },
-        {
-          "title": "You are not supposed to install OpenClaw on your personal computer",
-          "url": "https://twitter.com/i/status/2025987544853188836",
-          "score": 35,
-          "comments": 15
-        },
-        {
-          "title": "I discovered a hidden tragedy tied to Russia's most famous painting",
-          "url": "https://www.theguardian.com/artanddesign/2026/feb/20/an-unknown-woman-how-i-discovered-a-hidden-tragedy-tied-to-russias-most-famous-painting",
-          "score": 11,
-          "comments": 0
-        },
-        {
-          "title": "Generalized Sequential Probability Ratio Test for Families of Hypotheses [pdf]",
-          "url": "https://sites.stat.columbia.edu/jcliu/paper/GSPRT_SQA3.pdf",
-          "score": 21,
-          "comments": 4
-        },
-        {
-          "title": "Americans are destroying Flock surveillance cameras",
-          "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
-          "score": 538,
-          "comments": 353
-        }
-      ]
+      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/47124149.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
+      "items": []
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -167,42 +15,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 64912,
-          "change_24h": -3.78,
-          "change_7d": -5.36,
-          "market_cap": 1298703008532
+          "price": 63189,
+          "change_24h": -3.35,
+          "change_7d": -7.34,
+          "market_cap": 1263755611277
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1864.65,
-          "change_24h": -4.37,
-          "change_7d": -6.31,
-          "market_cap": 225135214103
+          "price": 1826.28,
+          "change_24h": -2.55,
+          "change_7d": -8.14,
+          "market_cap": 220416811548
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 78.27,
-          "change_24h": -5.28,
-          "change_7d": -8.73,
-          "market_cap": 44435817112
+          "price": 76.65,
+          "change_24h": -2.38,
+          "change_7d": -11.23,
+          "market_cap": 43571546718
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.093105,
-          "change_24h": -2.62,
-          "change_7d": -7.41,
-          "market_cap": 15723940374
+          "price": 0.091197,
+          "change_24h": -3.04,
+          "change_7d": -8.97,
+          "market_cap": 15395049211
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.263978,
-          "change_24h": -2.57,
-          "change_7d": -7.61,
-          "market_cap": 9712855364
+          "price": 0.25688,
+          "change_24h": -3.1,
+          "change_7d": -10.32,
+          "market_cap": 9455378648
         }
       ]
     },
@@ -212,29 +60,29 @@
       "count": 10,
       "items": [
         {
+          "name": "Seeker",
+          "symbol": "SKR",
+          "market_cap_rank": 182
+        },
+        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Espresso",
+          "symbol": "ESP",
+          "market_cap_rank": 397
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 47
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 112
         },
         {
-          "name": "USD1",
-          "symbol": "USD1",
-          "market_cap_rank": 22
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
+          "name": "Flying Tulip",
+          "symbol": "FT",
+          "market_cap_rank": 166
         },
         {
           "name": "Ethereum",
@@ -242,24 +90,24 @@
           "market_cap_rank": 2
         },
         {
-          "name": "World Liberty Financial",
-          "symbol": "WLFI",
-          "market_cap_rank": 34
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 16
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 155
+          "name": "Meteora",
+          "symbol": "MET",
+          "market_cap_rank": 300
         },
         {
-          "name": "パンチ (Punch)",
-          "symbol": "PUNCH",
-          "market_cap_rank": 697
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 110
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 31
         }
       ]
     },
@@ -268,15 +116,39 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 4,
+      "items": [
+        {
+          "title": "US Stock Markets Plunge on Monday February 23",
+          "summary": "Dow 30 dropped 821.91 points or 1.66% to 48,804.06, S&P 500 fell 71.76 points or 1.04% to 6,837.75, and Nasdaq declined 1.13% amid a broad sell-off.",
+          "source": "AIMS",
+          "url": "https://aimsfx.com/2026/02/24/%F0%9F%97%9E%EF%B8%8F-market-recap-mon-23-feb-whats-going-on/"
+        },
+        {
+          "title": "Wall Street Sell-Off Drives Major Indices Lower",
+          "summary": "DJIA weakened 1.66%, S&P 500 lost 1.04%, and Nasdaq shed 1.13% on February 23 due to selling pressure across the market.",
+          "source": "MNC Sekuritas",
+          "url": "https://www.mncsekuritas.id/risetdetail/mncs-morning-navigator-february-24-2026/"
+        },
+        {
+          "title": "Key US Economic Data Due on February 24 Including Consumer Confidence",
+          "summary": "Traders await Conference Board Consumer Confidence, ADP Employment Change, S&P/CS House Price Index, House Price Index, Redbook sales, 2-Year Note Auction, and API Crude Stocks, alongside Fed speeches.",
+          "source": "Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/consumer-confidence-headlines-economic-data-due-tuesday-93CH-4472732"
+        },
+        {
+          "title": "Polymarket Odds Favor S&P 500 Up Day on February 24",
+          "summary": "Prediction market shows 68% chance of S&P 500 closing higher than prior trading day on February 24, 2026.",
+          "source": "Polymarket",
+          "url": "https://polymarket.com/event/spx-up-or-down-on-february-24-2026"
+        }
+      ],
       "citations": [
         "https://polymarket.com/event/spx-up-or-down-on-february-24-2026",
-        "https://www.moneycontrol.com/news/business/markets/trade-setup-for-february-24-top-15-things-to-know-before-the-opening-bell-2-13840297.html",
-        "https://polymarket.com/event/spx-opens-up-or-down-on-february-24-2026",
-        "https://www.interactivebrokers.com/campus/traders-insight/ibkr-economic-landscape/tariff-uncertainty-cause-stocks-rates-to-reverse-following-friday-ascension/",
-        "https://www.investing.com/news/stock-market-news/consumer-confidence-headlines-economic-data-due-tuesday-93CH-4519634",
-        "https://www.youtube.com/watch?v=yf0CvAzpOcI"
+        "https://aimsfx.com/2026/02/24/%F0%9F%97%9E%EF%B8%8F-market-recap-mon-23-feb-whats-going-on/",
+        "https://ca.investing.com/news/stock-market-news/consumer-confidence-headlines-economic-data-due-tuesday-93CH-4472732",
+        "https://autorebateforex.com/market-news/market-analysis-and-forecast-for-february-24-2026/",
+        "https://www.mncsekuritas.id/risetdetail/mncs-morning-navigator-february-24-2026/"
       ]
     },
     "crypto_news": {
@@ -284,53 +156,30 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 3,
       "items": [
         {
-          "title": "Bitcoin Slides Below $65,000 Amid Trump Tariff Uncertainty",
-          "summary": "Bitcoin dropped 4.8% to $64,300, its lowest level since February 6, as Trump's tariff policy changes rattled markets. Spot Bitcoin ETFs have experienced $3.8 billion in outflows over five consecutive weeks, with analysts identifying $60,000 as the next critical support level.",
-          "source": "Gotrade News / Bloomberg",
-          "url": "https://www.heygotrade.com/en/news/bitcoin-slides-below-65000-as-trumps-new-tariff-rattles-markets/"
+          "title": "Bitcoin Struggles at $64,000 Support Level Amid Market Volatility",
+          "summary": "Bitcoin price stands at $64,120.07, down 7.02% over the past week, as the cryptocurrency tests a critical support level from mid-2024. Trading volume has surged 58.37% to $44.55B, with institutional buy walls forming below the $64k mark.",
+          "source": "Phemex",
+          "url": "https://phemex.com/blogs/bitcoin-price-today-ethereum-chart-cardano-news-crypto-trading-feb-24"
         },
         {
-          "title": "Ethereum Falls 5.2% as Vitalik Buterin Sells Holdings",
-          "summary": "Ethereum declined 5.2% to $1,878.63 after reports showed founder Vitalik Buterin sold at least 1,694 Ether worth $3.3 million over the weekend. Other major altcoins including XRP, Solana, and Cardano also posted sharp declines between 3-8%.",
-          "source": "Economies.com / CoinDesk",
-          "url": "https://www.economies.com/crypto/news/bitcoin-drops-below-$65,000-as-whales-sell-off,-trumps-tariff-chaos-48350"
+          "title": "Ethereum and Altcoins See Increased Trading Activity Amid Market Uncertainty",
+          "summary": "Ethereum volume jumped 54.78% to $20.78B as traders monitor for a potential price floor, while Solana and Cardano also experienced significant volume increases of 57.09% and 13.48% respectively.",
+          "source": "Phemex",
+          "url": "https://phemex.com/blogs/bitcoin-price-today-ethereum-chart-cardano-news-crypto-trading-feb-24"
         },
         {
-          "title": "Crypto Market Loses $100 Billion in 24 Hours",
-          "summary": "The broader cryptocurrency market shed $100 billion in value over the past day, with over $2 trillion wiped out overall since the start of 2026. Bitcoin is down 25% year-to-date amid macro uncertainty from geopolitical tensions and tariff policy.",
-          "source": "The Star / CoinGecko",
-          "url": "https://www.thestar.com.my/business/business-news/2026/02/24/bitcoin-falls-as-much-as-48-in-latest-bout-of-tariff-uncertainty"
-        },
-        {
-          "title": "South Korea Prepares Strict Crypto Regulations Following Bithumb's $40 Billion Error",
-          "summary": "Lawmakers are set to crack down on cryptocurrency exchanges with regulations mirroring traditional banking standards, following Bithumb's accidental distribution of $40 billion in Bitcoin to customers in February. The Digital Asset Taskforce will meet on February 24 to discuss new regulatory frameworks.",
-          "source": "DL News / Joongang Ilbo",
-          "url": "https://www.dlnews.com/articles/markets/lawmakers-to-crack-down-on-crypto-after-bithumb-usd-40bn-bitcoin-blunderer/"
-        },
-        {
-          "title": "Dragonfly Raises $650 Million Fourth Fund Amid VC Ecosystem Concerns",
-          "summary": "Prominent crypto venture firm Dragonfly closed a $650 million fourth fund despite predictions of a 'mass extinction event' in the VC ecosystem. The firm's portfolio includes Polymarket and Ethena.",
-          "source": "Fortune",
-          "url": "https://fortune.com/crypto/2026/02/23/ethereum-wall-street-canton-r3-zksync-ethdenver/"
-        },
-        {
-          "title": "BlockFills Halts Operations After $75 Million Loss",
-          "summary": "Susquehanna-backed crypto lender BlockFills suspended deposits and withdrawals after losing at least $75 million during the recent market downturn, echoing concerns from the 2022 crypto crisis.",
-          "source": "CoinDesk",
-          "url": "https://fortune.com/crypto/2026/02/23/ethereum-wall-street-canton-r3-zksync-ethdenver/"
+          "title": "Bitcoin Hits Record Oversold Levels Against Gold",
+          "summary": "The BTC/XAU ratio declined 7.52% week-to-date and over 70% from its December 2025 high, marking the most oversold Bitcoin has been relative to gold on record.",
+          "source": "FX Empire",
+          "url": "https://www.fxempire.com/forecasts/article/bitcoin-now-most-oversold-versus-gold-on-record-can-btc-still-retake-100k-1581421"
         }
       ],
       "citations": [
-        "https://www.heygotrade.com/en/news/bitcoin-slides-below-65000-as-trumps-new-tariff-rattles-markets/",
-        "https://www.thestar.com.my/business/business-news/2026/02/24/bitcoin-falls-as-much-as-48-in-latest-bout-of-tariff-uncertainty",
-        "https://www.economies.com/crypto/news/bitcoin-drops-below-$65,000-as-whales-sell-off,-trumps-tariff-chaos-48350",
-        "https://www.dlnews.com/articles/markets/lawmakers-to-crack-down-on-crypto-after-bithumb-usd-40bn-bitcoin-blunderer/",
-        "https://fortune.com/crypto/2026/02/23/ethereum-wall-street-canton-r3-zksync-ethdenver/",
-        "https://marketwise.com/investing/why-crypto-is-disappearing-in-2026/",
-        "https://fr.tradingview.com/news/coinpedia:19f2cd1d8094b:0-top-4-reasons-why-bitcoin-price-is-down-today/"
+        "https://phemex.com/blogs/bitcoin-price-today-ethereum-chart-cardano-news-crypto-trading-feb-24",
+        "https://www.fxempire.com/forecasts/article/bitcoin-now-most-oversold-versus-gold-on-record-can-btc-still-retake-100k-1581421"
       ]
     },
     "ai_news": {
@@ -338,47 +187,54 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Pew Research Releases Report on U.S. Teens' Use and Views of AI",
-          "summary": "Just over half of U.S. teens report using chatbots for schoolwork, with 12% relying on them regularly; teens are divided on AI's future impact, citing benefits like efficiency alongside concerns over job loss and overreliance.",
-          "source": "Pew Research Center",
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/02/PI_2026.02.24_Teens-and-AI_REPORT.pdf"
-        },
-        {
-          "title": "Cisco Finds Open-Weight AI Models Vulnerable to 93% Jailbreak Success Rate",
-          "summary": "Cisco tested eight major open-weight AI models, revealing that multi-turn jailbreak attacks succeeded nearly 93% of the time, highlighting significant safety risks in these systems.",
-          "source": "BankInfoSecurity",
-          "url": "https://www.bankinfosecurity.asia/open-weight-ai-models-fail-jailbreak-test-a-30823"
-        },
-        {
-          "title": "White House Launches Global AI Initiatives Including 'American AI Stack' and U.S. Tech Corps",
-          "summary": "The White House is advancing its AI action plan with export-ready AI technology packages, a new U.S. Tech Corps, and standards initiatives to promote American leadership in AI.",
-          "source": "GovInfoSecurity",
-          "url": "https://www.govinfosecurity.com/white-house-rolls-out-global-ai-initiatives-a-30834"
-        },
-        {
-          "title": "IBM Showcases High-NA EUV Advances for Sub-2nm Chips at SPIE 2026 Conference",
-          "summary": "IBM Research presented a roadmap for High NA EUV lithography enabling scaling below 2nm nodes, including polarization-engineered imaging and process modules for AI-era semiconductor manufacturing.",
-          "source": "IBM Research",
-          "url": "https://research.ibm.com/blog/spie-2026-below-2-nm"
-        },
-        {
-          "title": "FSU Hosts 2026 AI and Machine Learning Expo Focusing on Agentic AI",
-          "summary": "Florida State University's AIMLX26 expo on February 27-28 explores agentic AI applications in medicine, finance, and education, featuring OpenAI's Sherwin Wu as keynote on AI agent trends.",
-          "source": "Florida State University News",
+          "title": "FSU Hosts 2026 AI and Machine Learning Expo Focused on Agentic AI",
+          "summary": "Florida State University will host AIMLX26 on February 27-28, bringing together experts to explore agentic AI—autonomous systems that perform tasks with minimal human intervention—across medicine, finance, and education. OpenAI's Sherwin Wu will deliver the keynote address on industry trends since ChatGPT's 2022 launch.",
+          "source": "FSU News",
           "url": "https://news.fsu.edu/news/science-technology/2026/02/23/fsus-2026-artificial-intelligence-and-machine-learning-expo-explores-latest-applications-for-technology-across-industries/"
+        },
+        {
+          "title": "Anthropic Reveals Chinese AI Firms Conducted Large-Scale Model Distillation Attacks",
+          "summary": "Anthropic disclosed that DeepSeek, Moonshot AI, and MiniMax used 16 million fraudulent queries across 24,000 fake accounts to illegally extract Claude's capabilities. The attacks targeted reasoning, coding, and agentic reasoning features, raising national security concerns about unprotected AI models.",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html"
+        },
+        {
+          "title": "Study: AI Can Transform Healthcare Only With System-Wide Redesign",
+          "summary": "A Fraser Institute study by University of Toronto researcher Avi Goldfarb concludes that AI adoption in healthcare could deliver enormous productivity gains, faster diagnosis, and lower costs—but only if health-care systems are fundamentally redesigned with AI at their core rather than simply inserting AI tools into existing workflows.",
+          "source": "620 CKRM",
+          "url": "https://www.620ckrm.com/2026/02/23/study-says-ai-has-potential-to-transform-health-care-but-only-if-we-figure-out-how-to-use-it-effectively/"
+        },
+        {
+          "title": "UAE Central Bank Issues AI Guidelines for Financial Institutions",
+          "summary": "The UAE Central Bank released new guidelines requiring licensed financial institutions to adopt documented governance frameworks for AI and machine learning adoption. The UAE is also partnering with the US to develop an AI campus with 5 gigawatts of data center capacity in Abu Dhabi.",
+          "source": "The National News",
+          "url": "https://www.thenationalnews.com/business/banking/2026/02/23/uae-central-bank-issues-new-guidelines-on-the-use-of-ai-in-financial-sector/"
+        },
+        {
+          "title": "India Launches SAHI Framework and BODH Platform for Healthcare AI",
+          "summary": "India introduced SAHI, a strategy framework for artificial intelligence in health that categorizes data gaps blocking AI use cases, alongside BODH—a benchmarking platform developed by IIT Kanpur allowing innovators to train healthcare AI models against anonymized real-world health data.",
+          "source": "ICT Works",
+          "url": "https://www.ictworks.org/sahi-radical-artificial-intelligence-for-health-framework-from-india/"
+        },
+        {
+          "title": "Federal Reserve: AI Productivity Gains Remain Limited Despite Business Adoption",
+          "summary": "The Federal Reserve Bank of San Francisco reports that while businesses across the West are investing in AI for consumer research, operations, and product development, macro-studies find limited evidence of significant AI-driven productivity growth, with most firms reporting little evidence of transformative gains.",
+          "source": "Federal Reserve Bank of San Francisco",
+          "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/02/ai-moment-possibilities-productivity-policy/"
         }
       ],
       "citations": [
         "https://news.fsu.edu/news/science-technology/2026/02/23/fsus-2026-artificial-intelligence-and-machine-learning-expo-explores-latest-applications-for-technology-across-industries/",
+        "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
+        "https://www.620ckrm.com/2026/02/23/study-says-ai-has-potential-to-transform-health-care-but-only-if-we-figure-out-how-to-use-it-effectively/",
+        "https://www.jpost.com/defense-and-tech/article-887704",
         "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/02/ai-moment-possibilities-productivity-policy/",
-        "https://research.ibm.com/blog/spie-2026-below-2-nm",
-        "https://www.govinfosecurity.com/white-house-rolls-out-global-ai-initiatives-a-30834",
-        "https://www.bankinfosecurity.asia/open-weight-ai-models-fail-jailbreak-test-a-30823",
-        "https://hipther.com/latest-news/2026/02/23/107413/ai-dispatch-daily-trends-and-innovations-february-24-2026-peace-corps-tech-corps-china-sarvam-apple-microsoft/",
-        "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/02/PI_2026.02.24_Teens-and-AI_REPORT.pdf"
+        "https://www.thenationalnews.com/business/banking/2026/02/23/uae-central-bank-issues-new-guidelines-on-the-use-of-ai-in-financial-sector/",
+        "https://www.ictworks.org/sahi-radical-artificial-intelligence-for-health-framework-from-india/",
+        "https://punchng.com/impact-summit-2026-shaping-a-human-centric-future-for-ai/?amp"
       ]
     },
     "gaming": {
@@ -386,54 +242,61 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 7,
       "items": [
         {
-          "title": "Microsoft Appoints New Gaming CEO Asha Sharma as Phil Spencer Steps Down",
-          "summary": "Microsoft has named Asha Sharma, former Instacart and Meta executive, as the new CEO of Xbox and Microsoft Gaming following Phil Spencer's retirement after nearly 40 years. Sharma vows to revitalize Xbox hardware and services with AI integration while emphasizing human-crafted games amid recent revenue declines.",
-          "source": "MediaPost",
-          "url": "https://www.mediapost.com/publications/article/413007/microsoft-names-new-gaming-head-as-xbox-turns-25.html?edition=141679"
+          "title": "ARC Raiders Shrouded Sky Update Launches Today",
+          "summary": "Embark Studios releases the Shrouded Sky update for ARC Raiders on February 24, 2026, introducing a new Hurricane map condition, Firefly and Comet enemy types, expanded progression systems, and new expedition opportunities, free for all players.[3]",
+          "source": "ComicBook.com",
+          "url": "https://comicbook.com/gaming/news/arc-raiders-shadow-sky-update-revealed-explained-in-detail/"
         },
         {
-          "title": "Nintendo Announces Treehouse Live Showcasing Pokémon Pokopia and Super Mario Bros. Wonder Switch 2 Edition",
-          "summary": "Nintendo will host a Treehouse Live on February 24 at 5 PM ET featuring hands-on gameplay of Pokémon Pokopia and the Switch 2 edition of Super Mario Bros. Wonder, which includes new DLC with Bellabel Park and additional characters. Pokémon FireRed and LeafGreen Versions are also coming digitally to Switch eShop post-Pokémon Presents.",
-          "source": "iPhone in Canada",
-          "url": "https://www.iphoneincanada.ca/2026/02/23/nintendo-to-host-pokopia-focused-treehouse-live-on-february-24/"
+          "title": "TCG Card Shop Simulator Joins Xbox Game Pass Today",
+          "summary": "TCG Card Shop Simulator arrives on Xbox Game Pass for Series X|S, PC, and Cloud on February 24, 2026, as part of this week's additions alongside two other titles through February 26.[4]",
+          "source": "PureXbox",
+          "url": "https://www.purexbox.com/news/2026/02/three-games-are-available-this-week-with-xbox-game-pass-february-24-26"
         },
         {
-          "title": "Resident Evil Requiem Launches as 2026's Most Anticipated Blockbuster",
-          "summary": "Capcom's Resident Evil Requiem, the latest mainline survival-horror entry, releases this week amid massive hype, high pre-orders, and praise for its psychological tension, cinematic action, and next-gen visuals. It overshadows other releases like Nested Lands and Tales of Berseria Remastered.",
-          "source": "DLCompare",
+          "title": "Rise of Piracy Enters Early Access on PC",
+          "summary": "Rise of Piracy, a real-time action, adventure, and strategy game set in the high seas, launches in early access on PC today, February 24, 2026.[6]",
+          "source": "Instant Gaming News",
+          "url": "https://news.instant-gaming.com/en/articles/18119-this-week-s-releases-from-february-23-to-march-1-2026"
+        },
+        {
+          "title": "New Xbox Sales Live with Major Discounts",
+          "summary": "Xbox's February 24, 2026 sale roundup offers big discounts on titles like Atomic Heart, Dead Island 2, Saints Row IV: Re-Elected, and Metro Exodus.[5]",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/n61632/xbox-sale-roundup-february-24-2026"
+        },
+        {
+          "title": "Nintendo Treehouse Live Scheduled for Today",
+          "summary": "Nintendo announces a Treehouse: Live event on February 24, 2026, at 2 PM PT, featuring gameplay demos of Super Mario Bros. Wonder Nintendo Switch 2 Edition and Pokémon Pokopia.[9][7]",
+          "source": "Nintendo Everything / Explosion Network",
+          "url": "https://nintendoeverything.com/nintendo-treehouse-live-announced-for-february-24/"
+        },
+        {
+          "title": "Resident Evil Requiem Hype Builds as Major 2026 Release",
+          "summary": "Resident Evil Requiem, the highly anticipated survival-horror blockbuster from Capcom starring Leon S. Kennedy and Grace Ashcroft, set for February 27 release on Nintendo Switch 2 and other platforms, dominating week 9 anticipation.[1][2]",
+          "source": "DLCompare / Nintendo",
           "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-february-2026-week-9"
         },
         {
-          "title": "Video Game Stocks to Watch: Turtle Beach, Motorsport Games, and Others Highlighted",
-          "summary": "MarketBeat identifies Turtle Beach, Motorsport Games, Allied Gaming & Entertainment, Alliance Entertainment, and Brag House as top video game stocks to research on February 23, amid focus on esports, racing sims, and experiential entertainment.",
-          "source": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/video-game-stocks-to-research-february-23rd-2026-02-23/"
-        },
-        {
-          "title": "Gaming Industry Faces Sales Slowdown Despite Growing Player Base",
-          "summary": "The industry grapples with declining game purchases amid a larger player base, driven by shifts to long-term 'forever games,' AI integration at Microsoft and Sony, live-service failures, and changing demographics. Calls grow for a more inclusive ecosystem.",
-          "source": "Gam3s.gg",
-          "url": "https://gam3s.gg/news/video-game-industry-2026-why-players-are-buying-fewer-games/"
-        },
-        {
-          "title": "Xsolla Co-Sponsors Gamescom Dev Leadership Summit in Lisbon",
-          "summary": "Xsolla is co-sponsoring the Gamescom Dev Leadership Summit on February 23 to unite industry leaders on game development, monetization, and global expansion tools for over 1,500 developers worldwide.",
-          "source": "AFP",
-          "url": "https://www.afp.com/en/infos/xsolla-co-sponsors-gamescom-dev-leadership-summit-lisbon-bringing-together-gaming-industry"
+          "title": "Fallout 4 Anniversary Edition Out Today on Switch 2",
+          "summary": "Fallout 4: Anniversary Edition releases today, February 24, 2026, for Nintendo Switch 2, compiling the complete post-nuclear epic.[2]",
+          "source": "Nintendo",
+          "url": "https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-february-2026/"
         }
       ],
       "citations": [
         "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-february-2026-week-9",
-        "https://gam3s.gg/news/video-game-industry-2026-why-players-are-buying-fewer-games/",
-        "https://www.marketbeat.com/instant-alerts/video-game-stocks-to-research-february-23rd-2026-02-23/",
-        "https://www.iphoneincanada.ca/2026/02/23/nintendo-to-host-pokopia-focused-treehouse-live-on-february-24/",
-        "https://www.mediapost.com/publications/article/413007/microsoft-names-new-gaming-head-as-xbox-turns-25.html?edition=141679",
-        "https://www.afp.com/en/infos/xsolla-co-sponsors-gamescom-dev-leadership-summit-lisbon-bringing-together-gaming-industry",
-        "https://www.purexbox.com/news/2026/02/xbox-creator-reveals-his-two-tips-for-the-new-microsoft-gaming-ceo",
-        "https://www.neogaf.com/threads/gdc-2026-state-of-the-game-industry.1693862/"
+        "https://www.nintendo.com/us/whatsnew/see-what-games-are-arriving-this-february-2026/",
+        "https://comicbook.com/gaming/news/arc-raiders-shadow-sky-update-revealed-explained-in-detail/",
+        "https://www.purexbox.com/news/2026/02/three-games-are-available-this-week-with-xbox-game-pass-february-24-26",
+        "https://www.trueachievements.com/n61632/xbox-sale-roundup-february-24-2026",
+        "https://news.instant-gaming.com/en/articles/18119-this-week-s-releases-from-february-23-to-march-1-2026",
+        "https://explosionnetwork.com/nintendo-treehouse-stream-set-for-this-week-with-mario-and-pokemon-focus/",
+        "https://gamerant.com/game/name-that-game-2026-02-24/",
+        "https://nintendoeverything.com/nintendo-treehouse-live-announced-for-february-24/"
       ]
     },
     "tech_news": {
@@ -445,9 +308,12 @@
       "items": [],
       "citations": [
         "https://sergeytereshkin.com/publications/startup-and-venture-investment-news-february-24-2026",
-        "https://www.thestar.com.my/tech/tech-news/2026/02/24/big-tech-to-invest-about-650-billion-in-ai-in-2026-bridgewater-says",
-        "https://www.frost.com/growth-opportunity-news/techvision/breakthrough-technologies-driving-multibillion-dollar-opportunities-through-2030-tnv11_tg02_breakthroughtechnologiesdrivingmultibillion-dollaropportunities_feb26_cim-sn/",
-        "https://money.tmx.com/quote/MSTR:US/news/6109685503295448"
+        "https://timesofindia.indiatimes.com/technology/tech-news/americas-biggest-investor-michael-burry-has-an-end-question-for-google-amazon-meta-microsoft-and-other-tech-companies-says-when-does-it-/articleshow/128700141.cms",
+        "https://www.channelnewsasia.com/business/big-tech-invest-about-650-billion-in-ai-in-2026-bridgewater-says-5947656",
+        "https://omdia.tech.informa.com/blogs/2026/feb/samsung-unpacked-2026-short-term-pressure-long-term-play",
+        "https://www.salesforceben.com/big-tech-is-hiring-genz-after-ai-washing-failed/",
+        "https://economictimes.com/tech/artificial-intelligence/big-tech-to-invest-about-650-billion-in-ai-in-2026-bridgewater-says/amp_articleshow/128721675.cms",
+        "https://www.forrester.com/blogs/news-of-it-services-death-is-greatly-exaggerated/"
       ]
     }
   }
