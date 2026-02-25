@@ -1,163 +1,11 @@
 {
-  "generated_at": "2026-02-24T18:21:54.377771+00:00",
-  "generated_at_human": "2026-02-24 18:21 UTC",
+  "generated_at": "2026-02-25T00:27:18.309621+00:00",
+  "generated_at_human": "2026-02-25 00:27 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "category": "tech_ai_nerd",
-      "count": 25,
-      "items": [
-        {
-          "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
-          "url": "https://wordglyph.xyz/one-piece-at-a-time",
-          "score": 271,
-          "comments": 96
-        },
-        {
-          "title": "I'm helping my dog vibe code games",
-          "url": "https://www.calebleak.com/posts/dog-game/",
-          "score": 84,
-          "comments": 28
-        },
-        {
-          "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
-          "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
-          "score": 116,
-          "comments": 132
-        },
-        {
-          "title": "Samsung Upcycle Promise",
-          "url": "https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/",
-          "score": 114,
-          "comments": 57
-        },
-        {
-          "title": "Open Letter to Google on Mandatory Developer Registration for App Distribution",
-          "url": "https://keepandroidopen.org/open-letter/",
-          "score": 82,
-          "comments": 33
-        },
-        {
-          "title": "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
-          "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/",
-          "score": 111,
-          "comments": 38
-        },
-        {
-          "title": "Extending C with Prolog (1994)",
-          "url": "https://www.amzi.com/articles/irq_expert_system.htm",
-          "score": 31,
-          "comments": 10
-        },
-        {
-          "title": "Diode – Build, program, and simulate hardware",
-          "url": "https://www.withdiode.com/",
-          "score": 372,
-          "comments": 80
-        },
-        {
-          "title": "We installed a single turnstile to feel secure",
-          "url": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
-          "score": 121,
-          "comments": 38
-        },
-        {
-          "title": "Stripe valued at $159B, 2025 annual letter",
-          "url": "https://stripe.com/newsroom/news/stripe-2025-update",
-          "score": 116,
-          "comments": 108
-        },
-        {
-          "title": "Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148",
-          "url": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
-          "score": 252,
-          "comments": 110
-        },
-        {
-          "title": "λProlog: Logic programming in higher-order logic",
-          "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
-          "score": 113,
-          "comments": 30
-        },
-        {
-          "title": "Terence Tao, at 8 years old (1984) [pdf]",
-          "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
-          "score": 432,
-          "comments": 252
-        },
-        {
-          "title": "The Missing Semester of Your CS Education – Revised for 2026",
-          "url": "https://missing.csail.mit.edu/",
-          "score": 285,
-          "comments": 84
-        },
-        {
-          "title": "Cardiorespiratory fitness is associated with lower anger and anxiety",
-          "url": "https://linkinghub.elsevier.com/retrieve/pii/S000169182600171X",
-          "score": 27,
-          "comments": 16
-        },
-        {
-          "title": "A distributed queue in a single JSON file on object storage",
-          "url": "https://turbopuffer.com/blog/object-storage-queue",
-          "score": 125,
-          "comments": 39
-        },
-        {
-          "title": "Tiny QR code achieved using electron microscope technology",
-          "url": "https://newatlas.com/technology/smallest-qr-code-bacteria-tu-wien/",
-          "score": 27,
-          "comments": 22
-        },
-        {
-          "title": "Catherine of Braganza, the Queen Who Brought Tea to England",
-          "url": "https://www.thecollector.com/catherine-braganza-queen-tea-england/",
-          "score": 14,
-          "comments": 7
-        },
-        {
-          "title": "Discord cuts ties with identity verification software, Persona",
-          "url": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/",
-          "score": 290,
-          "comments": 215
-        },
-        {
-          "title": "Denver dumps Flock, awards contract to Axon",
-          "url": "https://www.9news.com/article/news/local/denver-removing-flock-cameras-new-axon-contract/73-640b5af3-7c87-4fea-8aa1-2510ad3257b8",
-          "score": 11,
-          "comments": 1
-        },
-        {
-          "title": "I Ported Coreboot to the ThinkPad X270",
-          "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
-          "score": 270,
-          "comments": 58
-        },
-        {
-          "title": "Unsung heroes: Flickr's URLs scheme",
-          "url": "https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/",
-          "score": 228,
-          "comments": 82
-        },
-        {
-          "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
-          "url": "https://github.com/GreatScott/enveil",
-          "score": 178,
-          "comments": 114
-        },
-        {
-          "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
-          "url": "https://lyra.horse/x86css/",
-          "score": 238,
-          "comments": 74
-        },
-        {
-          "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
-          "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
-          "score": 289,
-          "comments": 84
-        }
-      ]
+      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/47145088.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
+      "items": []
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -167,42 +15,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 64286,
-          "change_24h": -0.79,
-          "change_7d": -4.79,
-          "market_cap": 1280738160391
+          "price": 64020,
+          "change_24h": -1.33,
+          "change_7d": -5.17,
+          "market_cap": 1279989600417
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1853.16,
-          "change_24h": -0.48,
-          "change_7d": -6.45,
-          "market_cap": 223040233668
+          "price": 1849.17,
+          "change_24h": -0.82,
+          "change_7d": -7.12,
+          "market_cap": 223203108328
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 77.89,
-          "change_24h": -0.55,
-          "change_7d": -6.82,
-          "market_cap": 44234649212
+          "price": 78.93,
+          "change_24h": 0.85,
+          "change_7d": -7.27,
+          "market_cap": 44892219692
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.091873,
-          "change_24h": -2.06,
-          "change_7d": -8.28,
-          "market_cap": 15487139282
+          "price": 0.091199,
+          "change_24h": -2.04,
+          "change_7d": -9.34,
+          "market_cap": 15399940753
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.260598,
-          "change_24h": -1.28,
-          "change_7d": -7.1,
-          "market_cap": 9588682489
+          "price": 0.258372,
+          "change_24h": -2.09,
+          "change_7d": -8.02,
+          "market_cap": 9509254444
         }
       ]
     },
@@ -212,19 +60,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Wall Street Shiba",
-          "symbol": "STIBA",
-          "market_cap_rank": 786
-        },
-        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 108
         },
         {
           "name": "Espresso",
@@ -232,24 +70,19 @@
           "market_cap_rank": 283
         },
         {
-          "name": "Aerodrome Finance",
-          "symbol": "AERO",
-          "market_cap_rank": 132
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 108
         },
         {
-          "name": "Enso",
-          "symbol": "ENSO",
-          "market_cap_rank": 397
+          "name": "pippin",
+          "symbol": "PIPPIN",
+          "market_cap_rank": 73
         },
         {
-          "name": "Linea",
-          "symbol": "LINEA",
-          "market_cap_rank": 343
-        },
-        {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 31
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 16
         },
         {
           "name": "Solana",
@@ -257,9 +90,24 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Pump.fun",
+          "symbol": "PUMP",
+          "market_cap_rank": 65
+        },
+        {
+          "name": "Seeker",
+          "symbol": "SKR",
+          "market_cap_rank": 211
+        },
+        {
+          "name": "Morpho",
+          "symbol": "MORPHO",
+          "market_cap_rank": 87
+        },
+        {
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 4
         }
       ]
     },
@@ -268,64 +116,49 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 6,
       "items": [
         {
-          "title": "US Major Indices Decline Sharply on Tariff and AI Fears",
-          "summary": "The S&P 500 fell 1.04% to 6,837, Dow Jones dropped 1.66% to 48,804, and Nasdaq shed 1.13% to 22,627 amid concerns over new Trump tariffs and AI disruption risks to software stocks like IBM, Salesforce, and Intuit.[1][2]",
-          "source": "Daily Forex, IC Markets",
-          "url": "https://www.dailyforex.com/stock-market-today/2026/02/sp500-stocks-forecast-24-february-2026/241610"
+          "title": "Major US Stock Indexes Rise on AI Optimism",
+          "summary": "The S&P 500, Dow Jones, and Nasdaq all gained on Tuesday as markets recovered from Monday's AI-driven selloff. The S&P 500 rose 0.8% to 6,890.07, the Dow gained 0.8% to 49,174.50, and the Nasdaq climbed 1% to 22,863.68, recovering nearly three-quarters of the previous day's losses.",
+          "source": "Barchart.com",
+          "url": "https://www.barchart.com/story/news/398687/how-major-us-stock-indexes-fared-tuesday-2-24-2026"
         },
         {
-          "title": "S&P 500 Forms Bearish Rising Wedge Pattern",
-          "summary": "The S&P 500 retreated over 1% to 6,837, forming a rising wedge and bearish divergence, with potential downside to 6,530 support; outlook bearish unless it breaks all-time high.[1][5]",
-          "source": "Daily Forex, Verified Investing",
-          "url": "https://www.dailyforex.com/stock-market-today/2026/02/sp500-stocks-forecast-24-february-2026/241610"
+          "title": "AMD Leads Market Rally on Meta AI Chip Deal",
+          "summary": "AMD helped lead the market after announcing a multiyear deal to supply chips for Meta Platforms' AI infrastructure, signaling continued investment in artificial intelligence technology despite recent market concerns.",
+          "source": "Barchart.com",
+          "url": "https://www.barchart.com/story/news/398687/how-major-us-stock-indexes-fared-tuesday-2-24-2026"
         },
         {
-          "title": "TSX Composite Slips Amid Trade Uncertainty",
-          "summary": "Canada's S&P/TSX Composite fell 41 points to 33,777 after intraday highs, dragged by tech, industrials, and financials; gold miners like Fortuna Mining and Lundin Gold rose over 6% on strengthening metals.[3]",
-          "source": "Motley Fool Canada",
-          "url": "https://www.fool.ca/2026/02/24/tsx-today-what-to-watch-for-in-stocks-on-tuesday-february-24/"
+          "title": "IBM Recovers from Worst Day Since 2000",
+          "summary": "IBM rose 2.7% on Tuesday to recover some of its 13.1% plunge from Monday, which marked its worst trading day since 2000 amid concerns about AI's impact on the software industry.",
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2026-02-24/stocks-rise-after-getting-reminder-of-ais-potential-upsides"
         },
         {
-          "title": "Gold Surges 2.5% as Safe Haven on Tariff and Geopolitical Tensions",
-          "summary": "Gold broke above $5,100 resistance to close near $2,230, up 2.5%, driven by US tariff news, reactions from trading partners, and potential escalation with Iran.[2]",
-          "source": "IC Markets",
-          "url": "https://www.icmarkets.com/blog/general-market-analysis-24-02-26/"
+          "title": "Keysight Technologies Surges on Strong Earnings",
+          "summary": "Keysight Technologies rallied 23.1% for the largest S&P 500 gain after beating analyst expectations for profit and revenue, with guidance for roughly 30% revenue growth in the current quarter.",
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2026-02-24/stocks-rise-after-getting-reminder-of-ais-potential-upsides"
         },
         {
-          "title": "US Stocks Steady Tuesday After Monday Slump",
-          "summary": "US markets rebounded slightly on Tuesday with S&P 500 up 0.1% and Dow up 0.4% or 219 points as of mid-morning, following Monday's AI-driven decline; Nvidia earnings anticipated tomorrow.[6][4]",
-          "source": "Pittsburgh Post-Gazette, MarketPulse",
-          "url": "https://www.post-gazette.com/business/money/2026/02/24/stock-market-today-feb-24-2026/stories/202602240043"
+          "title": "Home Depot Beats Expectations Despite Consumer Uncertainty",
+          "summary": "Home Depot rose 2% after delivering stronger-than-expected profit and revenue, though CEO Ted Decker noted ongoing consumer uncertainty in the market.",
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2026-02-24/stocks-rise-after-getting-reminder-of-ais-potential-upsides"
         },
         {
-          "title": "Software Stocks Tumble on AI Disruption Fears",
-          "summary": "IBM had its worst day since 2000 after Anthropic's COBOL modernization hint; Salesforce, Workday, Intuit continued falling; chip stocks overextended while software hits support.[1][5]",
-          "source": "Daily Forex, Verified Investing",
-          "url": "https://www.dailyforex.com/stock-market-today/2026/02/sp500-stocks-forecast-24-february-2026/241610"
-        },
-        {
-          "title": "Winpak Shares Drop on Weak Q4 Earnings",
-          "summary": "Winpak fell 3.4% to $50.27 after softer Q4 and full-year 2025 profitability; among TSX's worst performers alongside goeasy, Shopify, and others down over 5.8%.[3]",
-          "source": "Motley Fool Canada",
-          "url": "https://www.fool.ca/2026/02/24/tsx-today-what-to-watch-for-in-stocks-on-tuesday-february-24/"
-        },
-        {
-          "title": "Treasury Yields Fall as Investors Seek Safety",
-          "summary": "US 2-year Treasury yield dropped 4 bps to 3.483%, 10-year fell 5.4 bps to 4.029% amid equity retreat and bond rotation.[2]",
-          "source": "IC Markets",
-          "url": "https://www.icmarkets.com/blog/general-market-analysis-24-02-26/"
+          "title": "Consumer Confidence Improves More Than Expected",
+          "summary": "A report showed U.S. consumer confidence improved by more than economists expected, helping stabilize Treasury yields with the 10-year Treasury holding steady at 4.03%.",
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2026-02-24/stocks-rise-after-getting-reminder-of-ais-potential-upsides"
         }
       ],
       "citations": [
-        "https://www.dailyforex.com/stock-market-today/2026/02/sp500-stocks-forecast-24-february-2026/241610",
-        "https://www.icmarkets.com/blog/general-market-analysis-24-02-26/",
-        "https://www.fool.ca/2026/02/24/tsx-today-what-to-watch-for-in-stocks-on-tuesday-february-24/",
-        "https://www.marketpulse.com/markets/stocks-remain-rangebound-dow-jones-us-outlook/",
-        "https://verifiedinvesting.com/blogs/live-show-recap/my-trading-game-plan-revealed-02-24-2026-s-p-rounded-top-private-credit-crisis-and-chip-vs-software-trade-ideas",
-        "https://www.post-gazette.com/business/money/2026/02/24/stock-market-today-feb-24-2026/stories/202602240043"
+        "https://www.barchart.com/story/news/398687/how-major-us-stock-indexes-fared-tuesday-2-24-2026",
+        "https://www.latimes.com/business/story/2026-02-24/stocks-rise-after-getting-reminder-of-ais-potential-upsides",
+        "https://polymarket.com/event/spx-opens-up-or-down-on-february-25-2026"
       ]
     },
     "crypto_news": {
@@ -333,37 +166,53 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Crypto Market Faces $465 Million Sell-Off Amid Tariff Uncertainty and Weak U.S. GDP",
-          "summary": "Renewed tariff uncertainty and disappointing U.S. GDP data triggered a $465 million cryptocurrency sell-off. This reflects broader market vulnerability due to risk-off sentiment.",
-          "source": "Caleb & Brown",
-          "url": "https://calebandbrown.com/blog/weekly-rollup-february-24-2026/"
+          "title": "ZachXBT to Reveal Major Crypto Investigation on February 26",
+          "summary": "On-chain investigator ZachXBT is set to drop a major investigation on February 26 alleging that multiple employees at one of crypto's most profitable businesses abused internal data for insider trading. Markets are already reacting with prediction platforms heavily skewed toward specific names.",
+          "source": "Crypto Banter",
+          "url": "https://www.youtube.com/watch?v=uM-Ah5XVl1g"
         },
         {
-          "title": "Senate Resumes Talks on Crypto Market Structure Bill",
-          "summary": "Discussions have restarted on the Senate's proposed crypto market structure legislation amid ongoing market pressures. This regulatory development aims to provide clearer frameworks for digital assets.",
-          "source": "Caleb & Brown",
-          "url": "https://calebandbrown.com/blog/weekly-rollup-february-24-2026/"
+          "title": "Bitcoin Drops Below $64,000 as Crypto Market Continues Correction",
+          "summary": "Bitcoin has fallen below $64,000 USDT, trading at $63,996.48, continuing a severe market correction that has erased nearly half of BTC's peak value since October 2025. Bitcoin is on track for its steepest monthly decline since 2022, down approximately 18% in February.",
+          "source": "Binance",
+          "url": "https://www.binance.com/en/square/post/295268629587457"
         },
         {
-          "title": "February 2026 Crypto Correction Deepens with Bitcoin Dropping Below $61,000",
-          "summary": "Digital assets extended their correction in February, with Bitcoin briefly falling below $61,000 during a sell-off on February 5-6, erasing nearly half of its peak value from October 2025. High trading volumes suggest the aggressive drawdown phase may be nearing exhaustion.",
-          "source": "Talos / Coin Metrics",
-          "url": "https://www.talos.com/insights/state-of-the-network-352"
+          "title": "Ethereum and Altcoins Face Severe Losses Amid $2 Trillion Market Decline",
+          "summary": "Ethereum has dropped 62% from its highs to trade near $1,825, while Solana has fallen 68% and many smaller tokens have lost up to 90% of their value over the past 140 days. Market sentiment has shifted from fear and greed to exhaustion and defeat.",
+          "source": "AMBCrypto",
+          "url": "https://ambcrypto.com/2t-lost-in-140-days-why-this-crypto-market-crash-looks-different/"
         },
         {
-          "title": "2026 Predicted as Defining Year for Stablecoins in On-Chain Finance",
-          "summary": "Curve Finance founder Michael Egorov forecasts 2026 as a pivotal year for stablecoins becoming core financial infrastructure, with accelerating institutional experiments and a focus on security amid rising hacker threats. Consolidation in major networks like Ethereum and Solana is also expected.",
-          "source": "Fintech Weekly",
-          "url": "https://www.fintechweekly.com/news/stablecoins-2026-onchain-finance-settlement"
+          "title": "Crypto.com Receives U.S. Bank Charter Approval",
+          "summary": "Crypto.com has won approval for a U.S. bank charter, marking a significant regulatory milestone for the cryptocurrency exchange industry.",
+          "source": "Bloomberg Television",
+          "url": "https://www.youtube.com/watch?v=uGWvJzc_wtE"
+        },
+        {
+          "title": "Bitcoin Options Volatility Reaches Multi-Year Highs Amid Market Stress",
+          "summary": "Bitcoin options implied volatility spiked to multi-year highs on February 5, with 25-delta put IV reaching 95%, reflecting heightened market uncertainty during the acute sell-off phase that saw prices drop from $90,000 to $60,000.",
+          "source": "CME Group",
+          "url": "https://www.cmegroup.com/articles/2026/bitcoin-options-volatility-spikes-and-recovery-signals.html"
+        },
+        {
+          "title": "Institutional Outflows Continue as Crypto Market Sentiment Weakens",
+          "summary": "U.S.-based spot Bitcoin ETFs saw net withdrawals of $1.6 billion in January, while spot Ethereum ETFs experienced $353 million in outflows, signaling reduced institutional participation amid the broader market correction.",
+          "source": "Investing.com Canada",
+          "url": "https://ca.investing.com/analysis/crypto-market-positioning-for-february-2026-200622346"
         }
       ],
       "citations": [
+        "https://www.youtube.com/watch?v=uM-Ah5XVl1g",
         "https://www.talos.com/insights/state-of-the-network-352",
-        "https://www.fintechweekly.com/news/stablecoins-2026-onchain-finance-settlement",
-        "https://calebandbrown.com/blog/weekly-rollup-february-24-2026/"
+        "https://ca.investing.com/analysis/crypto-market-positioning-for-february-2026-200622346",
+        "https://www.youtube.com/watch?v=uGWvJzc_wtE",
+        "https://ambcrypto.com/2t-lost-in-140-days-why-this-crypto-market-crash-looks-different/",
+        "https://www.cmegroup.com/articles/2026/bitcoin-options-volatility-spikes-and-recovery-signals.html",
+        "https://www.binance.com/en/square/post/295268629587457"
       ]
     },
     "ai_news": {
@@ -371,52 +220,45 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "AI Transitions from Experimental Phase to Core Business Operations",
-          "summary": "Enterprise AI is moving beyond pilot projects to become integrated into core business processes, requiring organizations to shift focus from innovation metrics to reliability, graceful failure handling, and risk management as AI becomes the operating model.",
-          "source": "CIO.com",
-          "url": "https://www.cio.com/article/4136026/the-end-of-ai-as-an-experiment-designing-for-what-comes-next-in-2026.html"
+          "title": "Fraser Institute Study: AI Could Transform Healthcare with System Redesign",
+          "summary": "A new Fraser Institute study by Avi Goldfarb emphasizes AI's potential for enormous productivity gains in healthcare, including faster diagnosis and shorter wait times, but only if systems are redesigned around AI. It highlights examples like self-driving labs for drug discovery and calls for rethinking workflows, professional boundaries, and regulations.",
+          "source": "620ckrm.com",
+          "url": "https://www.620ckrm.com/2026/02/23/study-says-ai-has-potential-to-transform-health-care-but-only-if-we-figure-out-how-to-use-it-effectively/"
         },
         {
-          "title": "Federal Reserve Examines AI's Impact on Monetary Policy and Interest Rates",
-          "summary": "Federal Reserve Governor Lisa D. Cook discusses how AI-driven business investment in data centers and chips may affect the neutral rate of interest and monetary policy, noting that current neutral rates may be higher than pre-pandemic levels due to strong AI-related aggregate demand.",
-          "source": "Federal Reserve",
-          "url": "https://www.federalreserve.gov/newsevents/speech/cook20260224a.htm"
+          "title": "US Defense Dept Threatens Anthropic Over AI Restrictions for Military Use",
+          "summary": "The Secretary of Defense is pressuring Anthropic to remove limits on its AI for autonomous weapons and surveillance, threatening to label it a supply chain risk after suspicions of use in a Venezuela attack via Palantir partnership. Anthropic, cleared for classified ops in 2025, faces contract termination if it doesn't comply.",
+          "source": "Electronic Frontier Foundation (EFF)",
+          "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance"
         },
         {
-          "title": "Teachers Report AI Fueling Crisis in Student Critical Thinking Skills",
-          "summary": "Educators warn that student reliance on AI tools is creating a measurable decline in critical thinking, reading comprehension, and writing abilities, with students entering 'passenger mode' and experiencing 'digitally induced amnesia' as they offload cognitive tasks to AI platforms.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/02/24/students-cant-reason-teachers-warn-ai-fueling-crisis-in-kids-ability-to-think/"
+          "title": "University of Toronto Researchers Warn AI Removes Essential 'Friction' for Human Growth",
+          "summary": "A new article in Communications Psychology argues that AI's ease in intellectual and social tasks eliminates beneficial friction needed for learning, motivation, and meaningful experiences. Authors Emily Zohar and Michael Inzlicht urge careful integration to preserve human development.",
+          "source": "Mirage News",
+          "url": "https://www.miragenews.com/ais-ease-costs-human-learning-growth-connection-1625625/"
         },
         {
-          "title": "Agentic AI Introduces Expanded Security Threats in Mobile Networks",
-          "summary": "Ericsson identifies ten key security considerations for telecommunications operators as Agentic AI evolves, highlighting new attack vectors including evasion, poisoning, and inference attacks that require enhanced identity and access management controls.",
-          "source": "Ericsson",
-          "url": "https://www.ericsson.com/en/blog/2026/2/securing-ai-in-mobile-networks-10-key-considerations-for-telcos"
+          "title": "India AI Summit Pushes Human-Centric AI with Infrastructure and Farmer Tools",
+          "summary": "At the world's largest AI summit, India emphasized human-centric AI under 'Sarvajana Hitaya, Sarvajana Sukhaya,' showcasing tools like AMUL's Sarlaben for 3.6M farmers and Bharat VISTAAR. The India AI Mission deploys GPUs, creates a national AI repository, and builds full value chain infrastructure.",
+          "source": "BusinessWorld Online",
+          "url": "https://www.bworldonline.com/opinion/2026/02/25/732525/shaping-a-human-centric-future-for-ai/?amp"
         },
         {
-          "title": "Only 45% of Organizations Successfully Embedding AI into Workflows",
-          "summary": "EXL's 2026 Enterprise AI Study reveals a significant gap between AI ambition and execution, with less than half of organizations achieving desired outcomes and only 45% of workflows having AI embedded, highlighting challenges in scaling AI across enterprises.",
-          "source": "CIO.com",
-          "url": "https://www.cio.com/article/4136555/unlocking-the-roi-of-ai-how-enterprises-can-move-from-experimentation-to-execution.html"
-        },
-        {
-          "title": "Biomarker Discovery Advances Through AI and Personalized Medicine",
-          "summary": "New developments in artificial intelligence are enabling breakthrough discoveries in biomarker identification, supporting the advancement of personalized medicine approaches.",
-          "source": "Open Access Government",
-          "url": "https://www.openaccessgovernment.org/article/biomarker-discovery-through-artificial-intelligence-and-personalized-medicine/205458/"
+          "title": "Study Shows AI Can Predict Active Fund Managers' Trades, Questioning Their Edge",
+          "summary": "New research reveals AI can forecast a significant portion of active fund managers' trading decisions, exposing predictable patterns and raising doubts about their value over passive strategies.",
+          "source": "FinNewsNetwork",
+          "url": "https://www.finnewsnetwork.com.au/archives/finance_news_network4072743.html"
         }
       ],
       "citations": [
-        "https://www.cio.com/article/4136026/the-end-of-ai-as-an-experiment-designing-for-what-comes-next-in-2026.html",
-        "https://www.federalreserve.gov/newsevents/speech/cook20260224a.htm",
-        "https://fortune.com/2026/02/24/students-cant-reason-teachers-warn-ai-fueling-crisis-in-kids-ability-to-think/",
-        "https://www.ericsson.com/en/blog/2026/2/securing-ai-in-mobile-networks-10-key-considerations-for-telcos",
-        "https://www.cio.com/article/4136555/unlocking-the-roi-of-ai-how-enterprises-can-move-from-experimentation-to-execution.html",
-        "https://www.openaccessgovernment.org/article/biomarker-discovery-through-artificial-intelligence-and-personalized-medicine/205458/"
+        "https://www.620ckrm.com/2026/02/23/study-says-ai-has-potential-to-transform-health-care-but-only-if-we-figure-out-how-to-use-it-effectively/",
+        "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+        "https://www.miragenews.com/ais-ease-costs-human-learning-growth-connection-1625625/",
+        "https://www.bworldonline.com/opinion/2026/02/25/732525/shaping-a-human-centric-future-for-ai/?amp",
+        "https://www.finnewsnetwork.com.au/archives/finance_news_network4072743.html"
       ]
     },
     "gaming": {
@@ -424,61 +266,39 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 4,
       "items": [
         {
-          "title": "Nintendo Announces Surprise Treehouse Stream for Mario and Pokemon",
-          "summary": "Nintendo revealed a Nintendo Treehouse Live Presentation on February 24 at 10PM GMT, showcasing hands-on gameplay of Super Mario Bros. Wonder Switch 2 Edition + Meetup in Bellabel Park expansion and Pokemon Pokopia, both upcoming Switch 2 exclusives.",
-          "source": "Allkeyshop",
-          "url": "https://www.allkeyshop.com/blog/nintendo-announces-surprise-stream-for-february-24-featuring-mario-and-pokemon-news-n/"
+          "title": "Marvel's Wolverine PS5 Game Release Date Announced for September 2026",
+          "summary": "Insomniac Games' Marvel's Wolverine has been officially scheduled for a September 2026 launch on PlayStation 5. The announcement secures its place in this year's major gaming releases.",
+          "source": "ScreenHub",
+          "url": "https://www.screenhub.com.au/news/games/marvels-wolverine-game-release-date-2694192/"
         },
         {
-          "title": "New Game Releases This Week Including Towerborne, City Hunter, and Fallout 4 Anniversary Edition",
-          "summary": "Upcoming releases feature Towerborne on PC/PS5/Series X|S (Feb 26), City Hunter on PC (Feb 25), Fallout 4: Anniversary Edition on Switch 2 (Feb 24), and others like The Disney Afternoon Collection and No Sleep for Kaname Date.",
-          "source": "The Avocado",
-          "url": "https://the-avocado.org/2026/02/24/new-game-releases-02-24-26-03-02-26/"
+          "title": "Pokémon Presents Scheduled for February 27, 2026 with 25-Minute Runtime",
+          "summary": "The Pokémon Company will host a Pokémon Day Presents event on February 27 at 2pm UTC, celebrating the series' 30th anniversary. Expectations include updates on remakes like FireRed and LeafGreen, mobile apps, and possible Gen 10 news.",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/pokemon-presents-february-2026-time-date-how-to-watch"
         },
         {
-          "title": "Amazon Shutting Down King of Meat After Six Months",
-          "summary": "Amazon Game Studios and developer Glowmade are closing the UGC dungeon brawler King of Meat, launched on October 2, after just six months.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/amazon-shutting-down-ugc-dungeon-brawler-king-of-meat-after-six-months"
+          "title": "Take-Two Interactive Stock Drops 9.5% Despite Earnings Beat Amid GTA 6 Delay Fears",
+          "summary": "Take-Two reported strong earnings with NBA 2K growth and mobile momentum, but shares fell due to Bloomberg reporter Jason Schreier's comments on potential GTA 6 delays beyond Spring 2027. Investors remain cautious about the premium-priced title.",
+          "source": "PressPlay Finance",
+          "url": "https://pressplayfinance.com/gaming-stocks-post-earnings-scorecard-february-2026/"
         },
         {
-          "title": "Dead by Daylight Announces All-Kill Public Test Build",
-          "summary": "Dead by Daylight has launched a Steam Public Test Build for its new All-Kill release on February 24, 2026.",
-          "source": "Gamespress",
-          "url": "https://www.gamespress.com/en-GB/Dead-by-Daylights-All-Kill-Steps-Back-Into-the-Spotlight-With-A-New-Ne"
-        },
-        {
-          "title": "Microsoft's New Gaming CEO Asha Sharma Rejects 'Bad AI' and Promises Human Focus",
-          "summary": "New Microsoft Gaming head Asha Sharma vows to avoid 'soulless AI slop' amid concerns over Xbox's future under new leadership.",
-          "source": "Fudzilla",
-          "url": "https://fudzilla.com/microsofts-new-queen-of-gaming-has-no-time-for-bad-ai/"
-        },
-        {
-          "title": "Concerns Rise Over Xbox's Future with New Leadership",
-          "summary": "Commentary highlights troubling prospects for Xbox under new heads Asha Sharma and Matt Booty, speculating a shift away from hardware like Sega.",
-          "source": "3rd World Geeks",
-          "url": "https://3rdworldgeeks.com/2026/02/24/the-troubling-future-of-xbox/"
-        },
-        {
-          "title": "GDC 2026 State of the Industry Highlights Layoffs and Steam Deck Growth",
-          "summary": "The GDC 2026 report notes widespread layoffs impacting job prospects, alongside strong momentum for Steam Deck and other developments.",
-          "source": "NeoGAF",
-          "url": "https://www.neogaf.com/threads/gdc-2026-state-of-the-game-industry.1693862/"
+          "title": "Capcom Shares Surge 10% After Strong Earnings; Resident Evil: Requiem Launches February 27",
+          "summary": "Capcom's stock rose on robust performance, including Street Fighter 6 hitting 6M units and Monster Hunter Wilds sales. Upcoming Resident Evil: Requiem releases on PS5, Xbox, PC, and Switch 2 in three days.",
+          "source": "PressPlay Finance",
+          "url": "https://pressplayfinance.com/gaming-stocks-post-earnings-scorecard-february-2026/"
         }
       ],
       "citations": [
-        "https://the-avocado.org/2026/02/24/new-game-releases-02-24-26-03-02-26/",
-        "https://www.respeecher.com/blog/top-gaming-industry-trends",
-        "https://www.allkeyshop.com/blog/nintendo-announces-surprise-stream-for-february-24-featuring-mario-and-pokemon-news-n/",
-        "https://3rdworldgeeks.com/2026/02/24/the-troubling-future-of-xbox/",
-        "https://www.gamedeveloper.com/business/amazon-shutting-down-ugc-dungeon-brawler-king-of-meat-after-six-months",
-        "https://www.gamespress.com/en-GB/Dead-by-Daylights-All-Kill-Steps-Back-Into-the-Spotlight-With-A-New-Ne",
-        "https://www.neogaf.com/threads/gdc-2026-state-of-the-game-industry.1693862/",
-        "https://www.globenewswire.com/news-release/2026/02/24/3243328/0/en/Online-Gaming-Market-Competitive-Landscape-Report-2025-2033-Top-Companies-Analysis-Profiles-Strategic-Developments-Sustainability-Goals-Mergers-Product-Launches-Innovations-Revenue.html",
-        "https://fudzilla.com/microsofts-new-queen-of-gaming-has-no-time-for-bad-ai/"
+        "https://pressplayfinance.com/gaming-stocks-post-earnings-scorecard-february-2026/",
+        "https://www.nintendolife.com/guides/pokemon-presents-february-2026-time-date-how-to-watch",
+        "https://www.mediapost.com/publications/article/413045/meta-to-spend-billions-more-on-amd-ai-chips.html",
+        "https://www.screenhub.com.au/news/games/marvels-wolverine-game-release-date-2694192/",
+        "https://gamerant.com/game/name-that-game-2026-02-25/"
       ]
     },
     "tech_news": {
@@ -486,25 +306,40 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 4,
       "items": [
         {
-          "title": "AMD and Meta Announce Multi-Year Partnership for 6 Gigawatts of GPU Infrastructure",
-          "summary": "Advanced Micro Devices and Meta Platforms revealed a partnership to deploy up to 6 gigawatts of AMD Instinct GPUs, with the first gigawatt using custom MI450-based GPUs and 6th Gen EPYC CPUs starting in late 2026. The deal includes performance-based warrants for up to 160 million AMD shares.",
-          "source": "GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/02/24/3243794/0/en/Biotech-and-Big-Tech-Drive-the-Morning-Narrative.html"
+          "title": "Strategy World 2026 Conference Launches in Las Vegas",
+          "summary": "Strategy (formerly MicroStrategy) opened its annual Strategy World 2026 event at The Wynn Las Vegas on February 24, featuring keynotes on enterprise innovation, digital credit via Bitcoin, and over 85 sessions on business intelligence and corporate treasury. The conference runs through February 26 alongside Bitcoin for Corporations.",
+          "source": "Investing News",
+          "url": "https://investingnews.com/strategy-world-2026-kicks-off-in-las-vegas-with-a-bold-vision-for-freedom-ai-and-the-future-of-work/"
         },
         {
-          "title": "Accenture Acquires Avanseus' AI Solution for Telecom Network Optimization",
-          "summary": "Accenture acquired an advanced AI solution from Avanseus to enhance its platform for network planning, engineering, and optimization, aiding communications companies in achieving autonomous networks and improving operational efficiency.",
-          "source": "Accenture Newsroom",
-          "url": "https://newsroom.accenture.com/news/2026/accenture-acquires-advanced-ai-technology-to-help-communications-companies-accelerate-autonomous-network-journeys"
+          "title": "Xometry Reports Record Q4 2025 Earnings with New Manufacturing Platform Features",
+          "summary": "Xometry announced record Q4 and full-year 2025 results, launching auto quotes for injection molding in the US and Europe, expanding materials for additive manufacturing, and advancing Teamspace and Thomas platform capabilities. Priorities for 2026 include further injection molding enhancements and e-commerce improvements.",
+          "source": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/xometry-q4-earnings-call-highlights-2026-02-24/"
+        },
+        {
+          "title": "US Battery Energy Storage Deployments Forecast to Reach 70GWh in 2026",
+          "summary": "SEIA's first sector-dedicated report projects US BESS installations to hit 35GW/70GWh in 2026, up from 28GW/57GWh in 2025, driven by utility-scale growth and $25.2 billion in investments, with 48% paired with solar.",
+          "source": "Energy Storage News",
+          "url": "https://www.energy-storage.news/us-bess-deployments-to-increase-to-70gwh-this-year-seia-says-in-first-sector-dedicated-report/"
+        },
+        {
+          "title": "MarineMax Faces Public Dispute with Donerail Over $1.1 Billion Buyout Offer",
+          "summary": "Donerail Group issued a second open letter urging MarineMax shareholders to push for a $35-per-share acquisition amid concerns over management, while MarineMax responded that its board is evaluating the unsolicited $1.1 billion cash proposal submitted in January.",
+          "source": "Business Observer",
+          "url": "https://www.businessobserverfl.com/news/2026/feb/24/marinemax-donerail-group-responds-public-outcry/"
         }
       ],
       "citations": [
-        "https://www.globenewswire.com/news-release/2026/02/24/3243794/0/en/Biotech-and-Big-Tech-Drive-the-Morning-Narrative.html",
-        "https://newsroom.accenture.com/news/2026/accenture-acquires-advanced-ai-technology-to-help-communications-companies-accelerate-autonomous-network-journeys",
-        "https://www.youtube.com/watch?v=Cbqr4QxWI_s"
+        "https://investingnews.com/strategy-world-2026-kicks-off-in-las-vegas-with-a-bold-vision-for-freedom-ai-and-the-future-of-work/",
+        "https://www.marketbeat.com/instant-alerts/xometry-q4-earnings-call-highlights-2026-02-24/",
+        "https://www.energy-storage.news/us-bess-deployments-to-increase-to-70gwh-this-year-seia-says-in-first-sector-dedicated-report/",
+        "https://knowledge.wharton.upenn.edu/article/ai-is-killing-the-cover-letter/",
+        "https://www.businessobserverfl.com/news/2026/feb/24/marinemax-donerail-group-responds-public-outcry/",
+        "https://www.aol.com/articles/ai-spending-poised-hit-700-120000456.html"
       ]
     }
   }

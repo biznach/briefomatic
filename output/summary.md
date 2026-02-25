@@ -1,25 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-02-24 18:21 UTC*
+*Generated: 2026-02-25 00:27 UTC*
 
-Here is your executive briefing for February 24, 2026:
+Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: Major US indices declined sharply due to tariff and AI disruption fears, with the S&P 500 falling 1.04% to 6,837, Dow Jones dropping 1.66% to 48,804, and Nasdaq shedding 1.13% to 22,627. The crypto market also faced a $465 million sell-off amid tariff uncertainty and weak US GDP data. Bitcoin's price is $64,286, down 0.79% in the last 24 hours, while Ethereum's price is $1,853.16, down 0.48% in the last 24 hours.
+1. **Market Overview**: Major US stock indexes rose on Tuesday, with the S&P 500, Dow Jones, and Nasdaq all gaining. The crypto market continues to correct, with Bitcoin dropping below $64,000 and Ethereum facing severe losses. Institutional outflows from crypto markets persist, with US-based spot Bitcoin ETFs seeing net withdrawals of $1.6 billion in January.
 
-2. **Tech & AI**: Significant AI developments include the IRS's tactics against Meta, opening a new front in the corporate tax fight, and Discord cutting ties with identity verification software, Persona. Additionally, there are notable advancements in language models, such as Steerling-8B, which can explain any token it generates.
+2. **Tech & AI**: AMD led the market rally after announcing a multiyear deal to supply chips for Meta Platforms' AI infrastructure. A new Fraser Institute study highlights AI's potential to transform healthcare, while researchers at the University of Toronto warn that AI removes essential 'friction' for human growth. India emphasized human-centric AI at its AI summit, showcasing tools for farmers and infrastructure development.
 
-3. **Gaming & Entertainment**: No notable gaming news is available in the provided data.
+3. **Gaming & Entertainment**: Marvel's Wolverine PS5 game has been officially scheduled for a September 2026 launch. The Pokémon Company will host a Pokémon Day Presents event on February 27, celebrating the series' 30th anniversary, with expectations including updates on remakes and possible Gen 10 news.
 
 4. **Key Insights**:
-* The US market is experiencing a decline due to tariff and AI disruption fears, with major indices falling sharply.
-* The crypto market is facing a sell-off amid tariff uncertainty and weak US GDP data, with Bitcoin and Ethereum prices dropping.
-* AI developments are ongoing, with significant advancements in language models and their applications.
-* Regulatory news, such as the Senate resuming talks on the crypto market structure bill, may impact the crypto market.
-* The IRS's tactics against Meta may have implications for corporate tax fights.
+* The crypto market correction continues, with Bitcoin and Ethereum facing significant losses.
+* AI has the potential to transform industries such as healthcare, but its integration must be carefully considered to preserve human development.
+* Institutional investors are reducing their exposure to crypto markets, with outflows from US-based spot Bitcoin ETFs.
+* The gaming industry is expected to see major releases in 2026, including Marvel's Wolverine and potential updates on Pokémon remakes.
+* Human-centric AI is being emphasized, with a focus on developing tools and infrastructure that benefit society.
 
-5. **Watch List**: Items to monitor in the coming days include:
-* US market indices, such as the S&P 500, Dow Jones, and Nasdaq, for further declines or rebounds.
-* Crypto prices, particularly Bitcoin and Ethereum, for potential further drops or recoveries.
-* AI developments, such as language model advancements and their applications.
-* Regulatory news, such as the Senate's crypto market structure bill and its potential impact on the crypto market.
-* Corporate tax fights, such as the IRS's tactics against Meta, and their implications for other companies.
+5. **Watch List**: 
+* Crypto market movements, particularly Bitcoin and Ethereum prices.
+* AI developments, including new model releases and company announcements.
+* Gaming industry releases and announcements, such as the Pokémon Day Presents event.
+* Institutional investor sentiment towards crypto markets.
+* Regulatory updates on AI and crypto, including the US Defense Dept's pressure on Anthropic to remove limits on its AI for military use.
