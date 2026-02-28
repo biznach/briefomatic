@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T18:12:10.666279+00:00",
-  "generated_at_human": "2026-02-27 18:12 UTC",
+  "generated_at": "2026-02-28T00:22:06.113435+00:00",
+  "generated_at_human": "2026-02-28 00:22 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+          "url": "https://twitter.com/secwar/status/2027507717469049070",
+          "score": 667,
+          "comments": 537
+        },
+        {
+          "title": "OpenAI raises $110B on $730B pre-money valuation",
+          "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+          "score": 336,
+          "comments": 436
+        },
+        {
+          "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
+          "url": "https://www.science.org/doi/10.1126/science.adt2760",
+          "score": 15,
+          "comments": 1
+        },
+        {
+          "title": "A new California law says all operating systems need to have age verification",
+          "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+          "score": 297,
+          "comments": 304
+        },
+        {
+          "title": "Emuko: Fast RISC-V emulator written in Rust, boots Linux",
+          "url": "https://github.com/wkoszek/emuko",
+          "score": 20,
+          "comments": 1
+        },
+        {
+          "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+          "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+          "score": 197,
+          "comments": 196
+        },
+        {
           "title": "A better streams API is possible for JavaScript",
           "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
-          "score": 203,
-          "comments": 79
+          "score": 361,
+          "comments": 118
         },
         {
-          "title": "We gave terabytes of CI logs to an LLM",
-          "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-          "score": 65,
-          "comments": 44
-        },
-        {
-          "title": "NASA announces major overhaul of Artemis program amid safety concerns, delays",
-          "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
-          "score": 35,
-          "comments": 27
-        },
-        {
-          "title": "Statement from Dario Amodei on our discussions with the Department of War",
-          "url": "https://www.anthropic.com/news/statement-department-of-war",
-          "score": 2668,
-          "comments": 1416
-        },
-        {
-          "title": "Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices",
-          "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
-          "score": 216,
-          "comments": 24
-        },
-        {
-          "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
-          "url": "https://retrotick.com/",
-          "score": 117,
-          "comments": 35
-        },
-        {
-          "title": "F-Droid Board of Directors nominations 2026",
-          "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
-          "score": 126,
-          "comments": 67
-        },
-        {
-          "title": "Modeling Cycles of Grift with Evolutionary Game Theory",
-          "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
-          "score": 16,
+          "title": "Otters as Bioindicators of Estuarine Health",
+          "url": "https://emt.pensoft.net/article/185117/",
+          "score": 14,
           "comments": 2
         },
         {
-          "title": "Can you reverse engineer our neural network?",
-          "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-          "score": 210,
-          "comments": 132
+          "title": "Let's discuss sandbox isolation",
+          "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
+          "score": 90,
+          "comments": 23
         },
         {
-          "title": "Get free Claude max 20x for open-source maintainers",
-          "url": "https://claude.com/contact-sales/claude-for-oss",
-          "score": 195,
-          "comments": 106
+          "title": "Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",
+          "url": "https://github.com/hjtenklooster/claude-file-recovery",
+          "score": 31,
+          "comments": 11
         },
         {
-          "title": "Sprites on the Web",
-          "url": "https://www.joshwcomeau.com/animation/sprites/",
-          "score": 48,
-          "comments": 12
-        },
-        {
-          "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
-          "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
-          "score": 54,
-          "comments": 32
-        },
-        {
-          "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
-          "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
-          "score": 96,
-          "comments": 75
-        },
-        {
-          "title": "The Hunt for Dark Breakfast",
-          "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-          "score": 450,
-          "comments": 163
-        },
-        {
-          "title": "Allocating on the Stack",
-          "url": "https://go.dev/blog/allocation-optimizations",
-          "score": 7,
-          "comments": 0
-        },
-        {
-          "title": "An interactive intro to quadtrees",
-          "url": "https://growingswe.com/blog/quadtrees",
-          "score": 152,
-          "comments": 17
-        },
-        {
-          "title": "Breaking Free",
-          "url": "https://www.forbrukerradet.no/breakingfree/",
-          "score": 138,
-          "comments": 22
-        },
-        {
-          "title": "The normalization of corruption in organizations (2003) [pdf]",
-          "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
-          "score": 221,
-          "comments": 121
-        },
-        {
-          "title": "Vibe coded Lovable-hosted app littered with basic flaws exposed 18K users",
-          "url": "https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/",
-          "score": 47,
-          "comments": 13
-        },
-        {
-          "title": "The quixotic team trying to build a world in a 20-year-old game",
-          "url": "https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/",
-          "score": 88,
-          "comments": 17
+          "title": "Writing a Guide to SDF Fonts",
+          "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
+          "score": 66,
+          "comments": 5
         },
         {
           "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
           "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
-          "score": 9,
-          "comments": 0
+          "score": 128,
+          "comments": 57
         },
         {
-          "title": "The Pentagon is making a mistake by threatening Anthropic",
-          "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
-          "score": 167,
-          "comments": 130
+          "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
+          "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+          "score": 108,
+          "comments": 82
         },
         {
-          "title": "Reading English from 1000 Ad",
-          "url": "https://lewiscampbell.tech/blog/260224.html",
-          "score": 67,
-          "comments": 24
+          "title": "Get free Claude max 20x for open-source maintainers",
+          "url": "https://claude.com/contact-sales/claude-for-oss",
+          "score": 408,
+          "comments": 189
         },
         {
-          "title": "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA",
-          "url": "https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer",
+          "title": "Rob Grant, creator of Red Dwarf, has died",
+          "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
+          "score": 208,
+          "comments": 61
+        },
+        {
+          "title": "Show HN: I built a self-hosted course platform in Clojure",
+          "url": "https://clojure.stream",
+          "score": 27,
+          "comments": 4
+        },
+        {
+          "title": "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
+          "url": "https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae",
           "score": 1,
           "comments": 0
         },
         {
-          "title": "How to Allocate Memory",
-          "url": "https://geocar.sdf1.org/alloc.html",
-          "score": 46,
-          "comments": 1
+          "title": "Allocating on the Stack",
+          "url": "https://go.dev/blog/allocation-optimizations",
+          "score": 113,
+          "comments": 46
+        },
+        {
+          "title": "PCB Tracer",
+          "url": "https://pcbtracer.com",
+          "score": 40,
+          "comments": 19
+        },
+        {
+          "title": "Smallest transformer that can add two 10-digit numbers",
+          "url": "https://github.com/anadim/AdderBoard",
+          "score": 4,
+          "comments": 0
+        },
+        {
+          "title": "Modeling cycles of grift with evolutionary game theory",
+          "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
+          "score": 76,
+          "comments": 32
+        },
+        {
+          "title": "Implementing a Z80 / ZX Spectrum emulator with Claude Code",
+          "url": "https://antirez.com/news/160",
+          "score": 120,
+          "comments": 58
+        },
+        {
+          "title": "Leaving Google has actively improved my life",
+          "url": "https://pseudosingleton.com/leaving-google-improved-my-life/",
+          "score": 372,
+          "comments": 204
+        },
+        {
+          "title": "We gave terabytes of CI logs to an LLM",
+          "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+          "score": 157,
+          "comments": 88
+        },
+        {
+          "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
+          "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+          "score": 472,
+          "comments": 84
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 65579,
-          "change_24h": -1.75,
-          "change_7d": -2.96,
-          "market_cap": 1312456359285
+          "price": 65884,
+          "change_24h": -2.12,
+          "change_7d": -3.11,
+          "market_cap": 1319583640485
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1925.97,
-          "change_24h": -2.84,
+          "price": 1930.71,
+          "change_24h": -4.54,
           "change_7d": -2.01,
-          "market_cap": 232940951528
+          "market_cap": 233624196221
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 81.72,
-          "change_24h": -3.5,
-          "change_7d": -3.15,
-          "market_cap": 46499180495
+          "price": 81.88,
+          "change_24h": -4.4,
+          "change_7d": -3.2,
+          "market_cap": 46714106055
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.093562,
-          "change_24h": -2.31,
-          "change_7d": -7.55,
-          "market_cap": 15835438325
+          "price": 0.093545,
+          "change_24h": -3.21,
+          "change_7d": -6.68,
+          "market_cap": 15810074182
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.277833,
-          "change_24h": -1.91,
-          "change_7d": -3.35,
-          "market_cap": 10225438307
+          "price": 0.277733,
+          "change_24h": -2.92,
+          "change_7d": -2.49,
+          "market_cap": 10229702617
         }
       ]
     },
@@ -212,6 +212,16 @@
       "count": 10,
       "items": [
         {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 107
+        },
+        {
+          "name": "Terra Luna Classic",
+          "symbol": "LUNC",
+          "market_cap_rank": 154
+        },
+        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
@@ -219,22 +229,7 @@
         {
           "name": "Fabric Protocol",
           "symbol": "ROBO",
-          "market_cap_rank": 300
-        },
-        {
-          "name": "Sahara AI",
-          "symbol": "SAHARA",
-          "market_cap_rank": 352
-        },
-        {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 174
+          "market_cap_rank": 294
         },
         {
           "name": "Solana",
@@ -242,24 +237,29 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Canton",
-          "symbol": "CC",
-          "market_cap_rank": 17
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 173
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 5
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 46
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 59
         },
         {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 30
+          "name": "ETHGas",
+          "symbol": "GWEI",
+          "market_cap_rank": 317
+        },
+        {
+          "name": "Virtuals Protocol",
+          "symbol": "VIRTUAL",
+          "market_cap_rank": 105
         }
       ]
     },
@@ -268,17 +268,50 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 1,
+      "count": 6,
       "items": [
         {
-          "title": "US Stocks Rebound After Initial Gap-Down; Month-End Flows Expected",
-          "summary": "US indexes including Dow Jones, S&P 500, and Nasdaq gapped lower but rebounded, with Dow dipping -1.78% amid US embassy security concerns before recovering. Chicago PMI data confirms strong US economic performance, supporting outlook amid month-end flows.",
+          "title": "US Major Indexes Decline on February 27",
+          "summary": "The S&P 500 fell 0.45% to 6,878, Nasdaq Composite dropped 0.92% to 22,668, and Dow Jones lost 1.1% or 521 points to 48,978 amid worries over AI, inflation, and geopolitical tensions. Oil prices rose 2.8% to $67.02 per barrel due to US-Iran concerns.[1][3]",
+          "source": "Nasdaq, LA Times",
+          "url": "https://www.nasdaq.com/articles/stock-market-today-feb-27-coupang-rises-after-investors-focus-stabilization-following-data"
+        },
+        {
+          "title": "Coupang Shares Rise Despite Q4 Earnings Hit by Settlement",
+          "summary": "Coupang closed up 2% after Q4 earnings impacted by a $1.18 billion settlement over data breach, while peers JD.com and Alibaba fell. Investors focused on stabilization signs.[1]",
+          "source": "Nasdaq",
+          "url": "https://www.nasdaq.com/articles/stock-market-today-feb-27-coupang-rises-after-investors-focus-stabilization-following-data"
+        },
+        {
+          "title": "Netflix Surges After Dropping Warner Bros. Bid",
+          "summary": "Netflix climbed 13.8% after abandoning its bid for Warner Bros. Discovery's studio and streaming, boosting Paramount Skydance shares 20.8% while Warner fell 2.2%.[3]",
+          "source": "LA Times",
+          "url": "https://www.latimes.com/business/story/2026-02-27/stocks-sink-oil-prices-rise-as-worries-about-ai-inflation-possible-war-hit-wall-street"
+        },
+        {
+          "title": "Inflation Data Raises Doubts on Fed Rate Cuts",
+          "summary": "A discouraging inflation update pressured markets and could delay Federal Reserve interest rate cuts, with 10-year Treasury yield falling to 3.96% amid investor caution.[3]",
+          "source": "LA Times",
+          "url": "https://www.latimes.com/business/story/2026-02-27/stocks-sink-oil-prices-rise-as-worries-about-ai-inflation-possible-war-hit-wall-street"
+        },
+        {
+          "title": "Canadian TSX Hits Record Highs Driven by Materials and Banks",
+          "summary": "S&P/TSX Composite closed at record 34,502 up 1.1%, fueled by materials sector gains and strong bank earnings amid Bank of Canada steady policy rate.[4]",
+          "source": "Morningstar",
+          "url": "https://global.morningstar.com/en-ca/markets/whats-driving-canadian-stock-market-new-highs"
+        },
+        {
+          "title": "US Indexes Show Technical Rebound Potential Amid Volatility",
+          "summary": "Dow Jones dipped to near 48,600 support before rebounding, S&P 500 mixed near 6,890 MAs, Nasdaq eyes 25,000 resistance with month-end flows expected.[2]",
           "source": "MarketPulse",
           "url": "https://www.marketpulse.com/markets/us-indexes-gap-lower-but-rebound-month-end-outlook/"
         }
       ],
       "citations": [
-        "https://www.marketpulse.com/markets/us-indexes-gap-lower-but-rebound-month-end-outlook/"
+        "https://www.nasdaq.com/articles/stock-market-today-feb-27-coupang-rises-after-investors-focus-stabilization-following-data",
+        "https://www.marketpulse.com/markets/us-indexes-gap-lower-but-rebound-month-end-outlook/",
+        "https://www.latimes.com/business/story/2026-02-27/stocks-sink-oil-prices-rise-as-worries-about-ai-inflation-possible-war-hit-wall-street",
+        "https://global.morningstar.com/en-ca/markets/whats-driving-canadian-stock-market-new-highs"
       ]
     },
     "crypto_news": {
@@ -286,24 +319,52 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 6,
       "items": [
         {
-          "title": "Bitcoin Futures Weaker in Sideways Grind at Lower Levels",
-          "summary": "March bitcoin futures prices weakened in early U.S. trading on February 27, entering a sideways grind at lower levels amid subdued market action.",
-          "source": "Kitco News",
-          "url": "https://www.kitco.com/news/article/2026-02-27/bitcoin-feb-27-daily-chart-alert-sideways-grind-lower-levels"
+          "title": "Bitcoin Price Drops 2.70% to $65,592.90",
+          "summary": "The CoinDesk Bitcoin Price Index fell 2.70% or $1,821.18 to $65,592.90 on February 27, marking two consecutive down days and the worst weekly performance since early February. It traded as low as $65,132.73 amid broader year-to-date declines of 25.08%.[2]",
+          "source": "Morningstar/Dow Jones",
+          "url": "https://www.morningstar.com/news/dow-jones/2026022710863/coindesk-bitcoin-price-index-lost-270-to-6559290-data-talk"
         },
         {
-          "title": "Bitcoin Rally Stalls Amid Mass Layoffs and AI Uncertainty",
-          "summary": "Bitcoin faces pressure as its rally stalls due to surging layoffs in major corporations and growing anxiety over artificial intelligence disruptions, draining liquidity from risk assets.",
-          "source": "The Wolf Of All Streets",
-          "url": "https://www.youtube.com/watch?v=6zO05z_J7T4"
+          "title": "Bitcoin Surpasses $66,000 USDT on Binance",
+          "summary": "Bitcoin crossed the 66,000 USDT mark, trading at 66,005.68 USDT as of February 28, 00:14 UTC, signaling a brief recovery after recent declines.[3]",
+          "source": "Binance",
+          "url": "https://www.binance.com/en/square/post/296331054107954"
+        },
+        {
+          "title": "Over $266 Million in Bitcoin Withdrawn from Leading Exchange",
+          "summary": "Whale Alert reported large Bitcoin withdrawals totaling over $266 million from a leading crypto exchange on February 28, indicating significant whale activity.[5]",
+          "source": "TradingView/U.Today",
+          "url": "https://www.tradingview.com/news/u_today:f8e72ba96094b:0-over-266-million-in-bitcoin-exit-leading-crypto-exchange/"
+        },
+        {
+          "title": "Binance Partners with Africell for Crypto Education in Africa",
+          "summary": "Binance and telecom operator Africell announced a collaboration to expand blockchain education and crypto access across African markets using mobile networks.[1]",
+          "source": "MEXC/Metaverse Post",
+          "url": "https://www.mexc.com/news/813554"
+        },
+        {
+          "title": "Ripple CEO Hints at Elon Musk Partnership for XRP Ledger",
+          "summary": "Ripple's Brad Garlinghouse suggested a potential partnership with Elon Musk to boost visibility and liquidity on the XRP Ledger, amid launches like REAL Token on BTCC.[1]",
+          "source": "MEXC/Metaverse Post",
+          "url": "https://www.mexc.com/news/813554"
+        },
+        {
+          "title": "Coinbase Expands into Tokenized Equities with Partnership",
+          "summary": "Coinbase partnered to advance tokenized equities and stock trading services under SEC oversight, building on its equity trading pilot for integrated financial platforms.[1]",
+          "source": "MEXC/Metaverse Post",
+          "url": "https://www.mexc.com/news/813554"
         }
       ],
       "citations": [
-        "https://www.kitco.com/news/article/2026-02-27/bitcoin-feb-27-daily-chart-alert-sideways-grind-lower-levels",
-        "https://www.youtube.com/watch?v=6zO05z_J7T4"
+        "https://www.mexc.com/news/813554",
+        "https://www.morningstar.com/news/dow-jones/2026022710863/coindesk-bitcoin-price-index-lost-270-to-6559290-data-talk",
+        "https://www.binance.com/en/square/post/296331054107954",
+        "https://mlq.ai/prediction/brief/crypto/crypto-prediction-markets-brief-february-26-2026-2026-02-26/",
+        "https://www.tradingview.com/news/u_today:f8e72ba96094b:0-over-266-million-in-bitcoin-exit-leading-crypto-exchange/",
+        "https://ventureburn.com/how-to-accept-crypto-payments-in-your-business-2026-guide/"
       ]
     },
     "ai_news": {
@@ -311,67 +372,16 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 8,
-      "items": [
-        {
-          "title": "Perplexity Launches Perplexity Computer for Long-Running Autonomous AI Workflows",
-          "summary": "Perplexity introduced Perplexity Computer, a multi-model platform orchestrating 19 specialized AI models to execute complex workflows lasting hours or months, breaking objectives into subtasks with sub-agents, APIs, and file system access.",
-          "source": "MarketingProfs",
-          "url": "https://www.marketingprofs.com/opinions/2026/54358/ai-update-february-27-2026-ai-news-and-views-from-the-past-week"
-        },
-        {
-          "title": "Microsoft Previews Copilot Tasks as Cloud-Based Background AI Agent",
-          "summary": "Microsoft unveiled Copilot Tasks, a cloud-hosted AI system for independent execution of recurring or one-time tasks described in natural language, handling scheduling, monitoring, and drafting while seeking approvals for key actions.",
-          "source": "MarketingProfs",
-          "url": "https://www.marketingprofs.com/opinions/2026/54358/ai-update-february-27-2026-ai-news-and-views-from-the-past-week"
-        },
-        {
-          "title": "Multiverse Computing Releases Compressed HyperNova 60B Frontier Model",
-          "summary": "Spanish startup Multiverse Computing launched a compressed version of its HyperNova 60B model using CompactifAI technology, halving size while maintaining accuracy, reducing memory and latency, and improving tool calling for agentic tasks.",
-          "source": "MarketingProfs",
-          "url": "https://www.marketingprofs.com/opinions/2026/54358/ai-update-february-27-2026-ai-news-and-views-from-the-past-week"
-        },
-        {
-          "title": "Alphabet Integrates Robotics Firm Intrinsic into Google AI Operations",
-          "summary": "Alphabet is bringing robotics software company Intrinsic closer to Google operations, collaborating with Google DeepMind using Gemini models and Cloud infrastructure to advance industrial robotics and physical AI.",
-          "source": "MarketingProfs",
-          "url": "https://www.marketingprofs.com/opinions/2026/54358/ai-update-february-27-2026-ai-news-and-views-from-the-past-week"
-        },
-        {
-          "title": "Anthropic's Claude Code Automates COBOL Modernization, Tanks IBM Shares 13%",
-          "summary": "Anthropic announced Claude Code for automating COBOL code analysis and modernization, mapping dependencies across thousands of lines; IBM shares dropped 13% amid fears of disruption to its mainframe consulting business.",
-          "source": "NeuralBuddies",
-          "url": "https://www.neuralbuddies.com/p/ai-news-recap-february-27-2026"
-        },
-        {
-          "title": "Samsung Galaxy S26 Integrates Gemini 3 with Full Agentic Capabilities",
-          "summary": "Samsung unveiled the Galaxy S26 series featuring Google Gemini 3 for autonomous app operations like Uber, blending it with Perplexity and Bixby, targeting 800 million Gemini-powered devices by year-end.",
-          "source": "NeuralBuddies",
-          "url": "https://www.neuralbuddies.com/p/ai-news-recap-february-27-2026"
-        },
-        {
-          "title": "VAST Data Unveils Platform Updates to Collapse AI Data Stack at VAST Forward",
-          "summary": "VAST Data announced Policy Engine, Tuning Engine, Polaris, and NVIDIA partnerships to embed vector acceleration, automate RLHF, and streamline AI infrastructure, reducing reliance on external databases and ETL processes.",
-          "source": "Futurum Group",
-          "url": "https://futurumgroup.com/insights/collapsing-the-stack-vast-datas-bid-to-own-the-ai-data-loop/"
-        },
-        {
-          "title": "Agent World Pipeline Generates 1,000 Synthetic Environments for Faster AI Training",
-          "summary": "Researchers introduced Agent World, creating 1,000 diverse synthetic environments with databases for reliable agent training, achieving strong generalization on benchmarks and surpassing traditional methods.",
-          "source": "Quantum Zeitgeist",
-          "url": "https://quantumzeitgeist.com/artificial-faster-intelligence-learns-virtual-worlds/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.marketingprofs.com/opinions/2026/54358/ai-update-february-27-2026-ai-news-and-views-from-the-past-week",
-        "https://www.neuralbuddies.com/p/ai-news-recap-february-27-2026",
-        "https://futurumgroup.com/insights/collapsing-the-stack-vast-datas-bid-to-own-the-ai-data-loop/",
-        "https://quantumzeitgeist.com/artificial-faster-intelligence-learns-virtual-worlds/",
-        "https://news.utexas.edu/2026/02/27/pioneering-ai-for-science-why-ut-is-a-digital-twin-powerhouse/",
+        "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
         "https://www.fintechfutures.com/ai-in-fintech/february-2026-top-five-ai-stories-of-the-month",
+        "https://thequantuminsider.com/2026/02/27/french-national-quantum-update-february-2026/",
+        "https://www.informationweek.com/machine-learning-ai/who-really-sets-ai-guardrails-how-cios-can-shape-ai-governance-policy",
         "https://www.siliconrepublic.com/machines/higher-education-ai-learning-ethics-the-conversation",
-        "https://dailycampus.com/2026/02/27/the-modern-monster-the-next-era-of-horror/",
-        "https://www.eurekalert.org/news-releases/1118061"
+        "https://www.govinfosecurity.com/ai-security-risks-in-ai-assisted-development-a-30858",
+        "https://www.healthcareitnews.com/news/succeed-ai-leaders-must-prioritize-safety-when-driving-transformation"
       ]
     },
     "gaming": {
@@ -379,31 +389,63 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 8,
       "items": [
         {
-          "title": "Netflix Abandons Warner Bros. Games Acquisition",
-          "summary": "Netflix appears to have backed out of acquiring Warner Bros. Games, following Warner Bros. Discovery's scheduled special meeting on March 20, 2026, for approval that now seems unlikely to proceed.",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/it-looks-like-netflix-won-t-be-acquiring-warner-bros-games-after-all"
+          "title": "Pokémon Presents Reveals Next-Gen Games Pokémon Winds and Waves for Switch 2 in 2027",
+          "summary": "The Pokémon Company announced Pokémon Winds and Pokémon Waves, new mainline titles set in a tropical open-world region, launching globally in 2027 exclusively on Nintendo Switch 2 during the February 27 Pokémon Day 30th anniversary stream.[1][2][5]",
+          "source": "Game Informer, Fox5NY, Pokemon.com",
+          "url": "https://gameinformer.com/pokemon-presents/2026/02/27/everything-announced-at-the-february-2026-pokemon-presents"
         },
         {
-          "title": "Pokémon Unveils New Title for 30th Anniversary",
-          "summary": "The Pokémon Company marked its 30th anniversary with a special Pokémon Presents presentation on February 27, 2026, unveiling Pokémon Wind and other new content.",
-          "source": "Pokémon Press",
-          "url": "https://press.pokemon.com/en/releases/Pokemon-Continues-30th-Celebrations-with-the-Unveiling-of-Pokemon-Wind"
+          "title": "Pokémon FireRed and LeafGreen Remakes Launch on Nintendo Switch Today",
+          "summary": "The Game Boy Advance remakes of the original Pokémon games, Pokémon FireRed and LeafGreen, released immediately on Nintendo Switch and Switch 2 following the Pokémon Presents, featuring Pokémon Home integration.[1][2]",
+          "source": "Game Informer, Fox5NY",
+          "url": "https://gameinformer.com/pokemon-presents/2026/02/27/everything-announced-at-the-february-2026-pokemon-presents"
         },
         {
-          "title": "Video Game Publishers Industry Benchmark Report 2026 Released",
-          "summary": "A new report analyzes the financial performance, sales growth, and market share of the 153 largest video game publishers globally, ranking the top 50 and highlighting trends.",
-          "source": "GlobeNewswire / ResearchAndMarkets.com",
-          "url": "https://www.globenewswire.com/news-release/2026/02/27/3246644/28124/en/Video-Game-Publishers-Industry-Benchmark-Report-2026-Individual-Assessment-of-the-Largest-153-Companies-with-the-Top-50-Ranked-by-Market-Share-Sales-Growth-Gross-Profit-and-Pre-tax.html"
+          "title": "Pokémon Pokopia Life Sim Spinoff Set for March 5 Release on Switch 2",
+          "summary": "Pokémon Pokopia, a new life simulation game with cooking and multiplayer features, is scheduled to launch on Nintendo Switch 2 on March 5, 2026, as revealed in the Pokémon Presents trailer.[2]",
+          "source": "Fox5NY",
+          "url": "https://www.fox5ny.com/news/new-pokemon-30th-anniversary-presents-announced-winds-waves-champions-pokopia"
+        },
+        {
+          "title": "Pokémon Champions Battle Game Arrives April 2026 on Switch and Mobile",
+          "summary": "Pokémon Champions, a competitive battle-focused title with cross-platform play and Pokémon Home support, will release on Nintendo Switch in April 2026, with a mobile version later this year.[1][2]",
+          "source": "Game Informer, Fox5NY",
+          "url": "https://gameinformer.com/pokemon-presents/2026/02/27/everything-announced-at-the-february-2026-pokemon-presents"
+        },
+        {
+          "title": "Pokémon World Championships 2026 Announced for San Francisco",
+          "summary": "The Pokémon World Championships 2026 will be held alongside Pokémon XP in San Francisco, as revealed by Global Esports & Events head Chris Brown during the February 2026 Pokémon Presents.[4]",
+          "source": "Console Creatures",
+          "url": "https://www.consolecreatures.com/pokemon-presents-february-2026/"
+        },
+        {
+          "title": "Tales of Berseria Remastered Launches Today",
+          "summary": "Bandai Namco announced and launched Tales of Berseria Remastered, an enhanced version of the action RPG, on February 28, 2026.[3]",
+          "source": "Gamespress",
+          "url": "https://www.gamespress.com/RELIVE-AN-EPIC-TALE-TORN-BETWEEN-REASON-AND-EMOTION-IN-TALES-OF-BERSER"
+        },
+        {
+          "title": "Pokémon Game Music Collection and Trading Card Set Teased for 30th Anniversary",
+          "summary": "A jukebox with 45 songs from Pokémon Red and Blue released today, and a new 30th anniversary Pokémon Trading Card Game set is coming in 2026, highlighted in the Pokémon Presents.[1]",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/pokemon-presents/2026/02/27/everything-announced-at-the-february-2026-pokemon-presents"
+        },
+        {
+          "title": "Pokémon XD: Gale of Darkness Joins Nintendo Switch Online in March",
+          "summary": "The GameCube spin-off Pokémon XD: Gale of Darkness is coming to Nintendo Switch Online's GameCube library in March 2026.[1]",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/pokemon-presents/2026/02/27/everything-announced-at-the-february-2026-pokemon-presents"
         }
       ],
       "citations": [
-        "https://www.gamedeveloper.com/business/it-looks-like-netflix-won-t-be-acquiring-warner-bros-games-after-all",
-        "https://press.pokemon.com/en/releases/Pokemon-Continues-30th-Celebrations-with-the-Unveiling-of-Pokemon-Wind",
-        "https://www.globenewswire.com/news-release/2026/02/27/3246644/28124/en/Video-Game-Publishers-Industry-Benchmark-Report-2026-Individual-Assessment-of-the-Largest-153-Companies-with-the-Top-50-Ranked-by-Market-Share-Sales-Growth-Gross-Profit-and-Pre-tax.html"
+        "https://gameinformer.com/pokemon-presents/2026/02/27/everything-announced-at-the-february-2026-pokemon-presents",
+        "https://www.fox5ny.com/news/new-pokemon-30th-anniversary-presents-announced-winds-waves-champions-pokopia",
+        "https://www.gamespress.com/RELIVE-AN-EPIC-TALE-TORN-BETWEEN-REASON-AND-EMOTION-IN-TALES-OF-BERSER",
+        "https://www.consolecreatures.com/pokemon-presents-february-2026/",
+        "https://www.pokemon.com/us/pokemon-news/news-and-updates-from-the-pokemon-day-2026-pokemon-presents"
       ]
     },
     "tech_news": {
@@ -411,39 +453,58 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 7,
       "items": [
         {
-          "title": "Micron Technology Announces $200 Billion U.S. Buildout Through 2030",
-          "summary": "Micron announced a major $200 billion investment in U.S. manufacturing through 2030, with HBM4 memory shipments arriving ahead of schedule and 2026 output already allocated to customers. S&P also upgraded Micron's credit rating to BBB, citing stronger demand and supporting the company's large capital expenditure plans.",
-          "source": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-erste-asset-management-gmbh-acquires-42207-shares-of-micron-technology-inc-mu-2026-02-27/"
+          "title": "Google Launches Nano Banana 2 with Improved Speed and 4K Capabilities",
+          "summary": "Google has released Nano Banana 2, featuring enhanced speed and 4K image creation capabilities. This update addresses performance improvements in a competitive market.",
+          "source": "Vietbao",
+          "url": "https://vietbao.vn/en/diem-tin-cong-nghe-28-2-tim-cook-up-mo-tuan-trong-dai-apple-chuan-bi-tung-loat-san-pham-moi-tu-2-3-583015.html"
         },
         {
-          "title": "Netflix Abandons Warner Bros. Discovery Acquisition, Stock Surges 10%",
-          "summary": "Netflix announced it will not match Paramount's $31 per share offer for Warner Bros. Discovery, instead reallocating capital toward a record $20 billion content budget and expanded share repurchase program. The decision sent Netflix shares up nearly 10% to $92 per share, marking the highest level since mid-2025.",
-          "source": "Chronicle Journal Markets",
-          "url": "http://markets.chroniclejournal.com/chroniclejournal/article/marketminute-2026-2-27-netflix-shares-surge-10-as-streaming-giant-abandons-warner-bros-discovery-pursuit"
+          "title": "Tim Cook Hints at Major Apple Product Launches Next Week",
+          "summary": "Apple CEO Tim Cook has teased a 'big week' ahead, with the company preparing to unveil a series of new products starting March 2. This signals significant upcoming hardware announcements.",
+          "source": "Vietbao",
+          "url": "https://vietbao.vn/en/diem-tin-cong-nghe-28-2-tim-cook-up-mo-tuan-trong-dai-apple-chuan-bi-tung-loat-san-pham-moi-tu-2-3-583015.html"
         },
         {
-          "title": "Canada Adds Phosphate to Critical Minerals List",
-          "summary": "Canada's federal government added phosphate to its critical minerals list for clean technology, making phosphate projects eligible for two 30% refundable tax credits. First Phosphate welcomed the amendment, which supports North American lithium iron phosphate battery cell production.",
-          "source": "Stock Titan",
-          "url": "https://www.stocktitan.net/news/FRSPF/first-phosphate-applauds-addition-of-phosphate-to-the-canadian-list-80952f8oz60q.html"
+          "title": "Samsung Unveils Latest Phones with Key Features for Everyday Users",
+          "summary": "Tech journalist Lexy Savvides discusses Samsung's newest smartphones, highlighting practical upgrades that matter most for daily use. The episode aired on February 28, 2026.",
+          "source": "Rich On Tech",
+          "url": "https://richontech.tv/p/rich-on-tech-episode-163-february"
         },
         {
-          "title": "Supreme Court Tariff Ruling May Provide Refunds for U.S. Coffee Importers",
-          "summary": "A Supreme Court ruling on tariffs could result in potential refunds for U.S. coffee importers and roasters, according to industry news coverage.",
-          "source": "Perfect Daily Grind",
-          "url": "https://perfectdailygrind.com/2026/02/coffee-news-recap-27-february-2026/"
+          "title": "Brink’s to Acquire NCR Atleos for $6.6 Billion",
+          "summary": "Security firm Brink’s announced a $6.6 billion acquisition of NCR Atleos, a major move in the fintech and ATM sectors. This deal was highlighted in top fintech news for the week ending February 27.",
+          "source": "FinTech Futures",
+          "url": "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-27-february-2026"
+        },
+        {
+          "title": "US Fintech Block Cuts Over 4,000 Jobs",
+          "summary": "Block, the company behind Square, is slashing more than 4,000 positions amid workforce reductions. This was one of the top fintech stories for the week.",
+          "source": "FinTech Futures",
+          "url": "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-27-february-2026"
+        },
+        {
+          "title": "Crypto.com Receives Conditional Approval for US National Trust Bank Charter",
+          "summary": "Crypto.com has gained conditional approval for a US national trust bank charter, marking a key regulatory milestone. This development was noted in recent fintech updates.",
+          "source": "FinTech Futures",
+          "url": "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-27-february-2026"
+        },
+        {
+          "title": "Citi Sells Additional 24% Stake in Banamex for $2.5 Billion",
+          "summary": "Citigroup sold a further 24% stake in its Mexican unit Banamex for $2.5 billion, advancing its divestiture plans. This financial tech deal topped weekly news.",
+          "source": "FinTech Futures",
+          "url": "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-27-february-2026"
         }
       ],
       "citations": [
-        "https://www.marketbeat.com/instant-alerts/filing-erste-asset-management-gmbh-acquires-42207-shares-of-micron-technology-inc-mu-2026-02-27/",
-        "http://markets.chroniclejournal.com/chroniclejournal/article/marketminute-2026-2-27-netflix-shares-surge-10-as-streaming-giant-abandons-warner-bros-discovery-pursuit",
-        "https://timesofindia.indiatimes.com/business/international-business/big-tech-sell-off-why-this-report-on-ai-shook-global-markets/articleshow/128845908.cms",
-        "https://perfectdailygrind.com/2026/02/coffee-news-recap-27-february-2026/",
-        "https://www.stocktitan.net/news/FRSPF/first-phosphate-applauds-addition-of-phosphate-to-the-canadian-list-80952f8oz60q.html"
+        "https://zerotomastery.io/blog/tech-news-monthly-newsletter-february-2026/",
+        "https://vietbao.vn/en/diem-tin-cong-nghe-28-2-tim-cook-up-mo-tuan-trong-dai-apple-chuan-bi-tung-loat-san-pham-moi-tu-2-3-583015.html",
+        "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-27-february-2026",
+        "https://richontech.tv/p/rich-on-tech-episode-163-february",
+        "https://www.manilatimes.net/2026/02/28/business/foreign-business/us-tech-shifts-on-ai-manufacturing-power/2290134",
+        "https://www.techdogs.com/tech-news/td-newsdesk/meta-signs-multi-billion-dollar-deal-to-rent-google-ai-chips-the-information-reports"
       ]
     }
   }
