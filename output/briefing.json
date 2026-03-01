@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T12:08:40.570948+00:00",
-  "generated_at_human": "2026-03-01 12:08 UTC",
+  "generated_at": "2026-03-01T18:07:06.340127+00:00",
+  "generated_at_human": "2026-03-01 18:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "MCP is dead. Long live the CLI",
+          "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+          "score": 32,
+          "comments": 16
+        },
+        {
+          "title": "Ghostty – Terminal Emulator",
+          "url": "https://ghostty.org/docs",
+          "score": 275,
+          "comments": 129
+        },
+        {
           "title": "Microgpt",
           "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-          "score": 984,
-          "comments": 170
+          "score": 1382,
+          "comments": 249
+        },
+        {
+          "title": "Why XML Tags Are So Fundamental to Claude",
+          "url": "https://glthr.com/XML-fundamental-to-Claude",
+          "score": 60,
+          "comments": 27
+        },
+        {
+          "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+          "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
+          "score": 328,
+          "comments": 234
         },
         {
           "title": "Decision trees – the unreasonable power of nested decision rules",
           "url": "https://mlu-explain.github.io/decision-tree/",
-          "score": 112,
-          "comments": 8
+          "score": 270,
+          "comments": 46
         },
         {
-          "title": "10-202: Introduction to Modern AI (CMU)",
-          "url": "https://modernaicourse.org",
-          "score": 78,
-          "comments": 15
+          "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+          "url": "https://99helpers.com/tools/ad-supported-chat",
+          "score": 281,
+          "comments": 186
         },
         {
           "title": "We do not think Anthropic should be designated as a supply chain risk",
           "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-          "score": 586,
-          "comments": 297
+          "score": 701,
+          "comments": 377
         },
         {
-          "title": "Why is the first C++ (m)allocation always 72 KB?",
-          "url": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
-          "score": 38,
-          "comments": 3
-        },
-        {
-          "title": "Robust and efficient quantum-safe HTTPS",
-          "url": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
-          "score": 34,
-          "comments": 2
-        },
-        {
-          "title": "An ode to houseplant programming (2025)",
-          "url": "https://hannahilea.com/blog/houseplant-programming/",
-          "score": 41,
-          "comments": 8
-        },
-        {
-          "title": "Show HN: Terminal-Style Portfolio on the Internet",
-          "url": "https://kuber.studio/",
-          "score": 16,
-          "comments": 12
-        },
-        {
-          "title": "Switch to Claude without starting over",
-          "url": "https://claude.com/import-memory",
-          "score": 187,
-          "comments": 122
-        },
-        {
-          "title": "The happiest I've ever been",
-          "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-          "score": 521,
-          "comments": 268
-        },
-        {
-          "title": "Obsidian Sync now has a headless client",
-          "url": "https://help.obsidian.md/sync/headless",
-          "score": 497,
-          "comments": 169
-        },
-        {
-          "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
-          "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-          "score": 288,
-          "comments": 197
-        },
-        {
-          "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
-          "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
-          "score": 98,
-          "comments": 29
-        },
-        {
-          "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
-          "url": "https://www.nature.com/articles/s41586-026-10114-5",
+          "title": "Interview with Øyvind Kolås, GIMP developer (2017)",
+          "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
           "score": 69,
-          "comments": 12
+          "comments": 25
         },
         {
-          "title": "Block the “Upgrade to Tahoe” Alerts",
-          "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-          "score": 250,
-          "comments": 120
+          "title": "Ape Coding",
+          "url": "https://rsaksida.com/blog/ape-coding/",
+          "score": 120,
+          "comments": 57
         },
         {
-          "title": "Hardwood: A New Parser for Apache Parquet",
-          "url": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
-          "score": 44,
-          "comments": 2
+          "title": "Flightradar24 for Ships",
+          "url": "https://atlas.flexport.com/",
+          "score": 77,
+          "comments": 24
         },
         {
-          "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
-          "url": "https://github.com/ad-si/Woxi",
-          "score": 301,
-          "comments": 121
+          "title": "10-202: Introduction to Modern AI (CMU)",
+          "url": "https://modernaicourse.org",
+          "score": 156,
+          "comments": 37
         },
         {
-          "title": "MCP server that reduces Claude Code context consumption by 98%",
-          "url": "https://mksg.lu/blog/context-mode",
-          "score": 422,
-          "comments": 86
+          "title": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
+          "url": "https://www.sciencedaily.com/releases/2026/02/260228093456.htm",
+          "score": 79,
+          "comments": 17
         },
         {
-          "title": "The real cost of random I/O",
-          "url": "https://vondra.me/posts/the-real-cost-of-random-io/",
+          "title": "Python Type Checker Comparison: Empty Container Inference",
+          "url": "https://pyrefly.org/blog/container-inference-comparison/",
           "score": 7,
           "comments": 0
         },
         {
-          "title": "Pigeons and Planes Has a Website Again",
-          "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
-          "score": 7,
+          "title": "Aromatic 5-silicon rings synthesized at last",
+          "url": "https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02",
+          "score": 49,
+          "comments": 23
+        },
+        {
+          "title": "The real cost of random I/O",
+          "url": "https://vondra.me/posts/the-real-cost-of-random-io/",
+          "score": 60,
+          "comments": 6
+        },
+        {
+          "title": "Switch to Claude without starting over",
+          "url": "https://claude.com/import-memory",
+          "score": 419,
+          "comments": 207
+        },
+        {
+          "title": "Why is the first C++ (m)allocation always 72 KB?",
+          "url": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
+          "score": 94,
+          "comments": 18
+        },
+        {
+          "title": "Lil' Fun Langs' Guts",
+          "url": "https://taylor.town/scrapscript-001",
+          "score": 10,
           "comments": 1
         },
         {
-          "title": "Addressing Antigravity Bans and Reinstating Access",
-          "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-          "score": 240,
-          "comments": 199
+          "title": "An ode to houseplant programming (2025)",
+          "url": "https://hannahilea.com/blog/houseplant-programming/",
+          "score": 98,
+          "comments": 17
         },
         {
-          "title": "Our Agreement with the Department of War",
-          "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-          "score": 319,
-          "comments": 226
+          "title": "Obsidian Sync now has a headless client",
+          "url": "https://help.obsidian.md/sync/headless",
+          "score": 539,
+          "comments": 178
         },
         {
-          "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-          "url": "https://nowigetit.us",
-          "score": 248,
-          "comments": 107
+          "title": "Robust and efficient quantum-safe HTTPS",
+          "url": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
+          "score": 72,
+          "comments": 11
         },
         {
-          "title": "Verified Spec-Driven Development (VSDD)",
-          "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
-          "score": 193,
-          "comments": 103
+          "title": "I Built a Scheme Compiler with AI in 4 Days",
+          "url": "https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/",
+          "score": 12,
+          "comments": 4
         },
         {
-          "title": "SpacetimeDB ThreeJS Support",
-          "url": "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052",
-          "score": 29,
-          "comments": 6
+          "title": "Rydberg atoms detect clear signals from a handheld radio",
+          "url": "https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html",
+          "score": 59,
+          "comments": 20
+        },
+        {
+          "title": "Show HN: Vertex.js – A 1kloc SPA Framework",
+          "url": "https://lukeb42.github.io/vertex-manual.html",
+          "score": 19,
+          "comments": 14
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 66510,
-          "change_24h": 4.07,
-          "change_7d": -2.47,
-          "market_cap": 1329144396276
+          "price": 66436,
+          "change_24h": 1.61,
+          "change_7d": -1.73,
+          "market_cap": 1320681531471
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1985.9,
-          "change_24h": 6.39,
-          "change_7d": 0.3,
-          "market_cap": 239390581976
+          "price": 1983.29,
+          "change_24h": 4.07,
+          "change_7d": 1.61,
+          "market_cap": 237436224694
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 85.23,
-          "change_24h": 7.99,
-          "change_7d": -0.01,
-          "market_cap": 48528699751
+          "price": 84.52,
+          "change_24h": 3.86,
+          "change_7d": 1.86,
+          "market_cap": 47845217783
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.093554,
-          "change_24h": 5.15,
-          "change_7d": -3.9,
-          "market_cap": 15798624236
+          "price": 0.093134,
+          "change_24h": 2.27,
+          "change_7d": -2.78,
+          "market_cap": 15619347739
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.278126,
-          "change_24h": 5.72,
-          "change_7d": 0.72,
-          "market_cap": 10236465822
+          "price": 0.277644,
+          "change_24h": 3.32,
+          "change_7d": 2.41,
+          "market_cap": 10142875842
         }
       ]
     },
@@ -212,19 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 108
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
-        },
-        {
-          "name": "Grass",
-          "symbol": "GRASS",
-          "market_cap_rank": 229
+          "name": "PAX Gold",
+          "symbol": "PAXG",
+          "market_cap_rank": 37
         },
         {
           "name": "Bitcoin",
@@ -232,19 +222,9 @@
           "market_cap_rank": 1
         },
         {
-          "name": "PAX Gold",
-          "symbol": "PAXG",
-          "market_cap_rank": 38
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Grass",
+          "symbol": "GRASS",
+          "market_cap_rank": 237
         },
         {
           "name": "Tether Gold",
@@ -252,14 +232,34 @@
           "market_cap_rank": 35
         },
         {
-          "name": "LayerZero",
-          "symbol": "ZRO",
-          "market_cap_rank": 115
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 16
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 109
         },
         {
           "name": "Venice Token",
           "symbol": "VVV",
-          "market_cap_rank": 153
+          "market_cap_rank": 146
+        },
+        {
+          "name": "Jupiter",
+          "symbol": "JUP",
+          "market_cap_rank": 92
+        },
+        {
+          "name": "POL (ex-MATIC)",
+          "symbol": "POL",
+          "market_cap_rank": 63
         }
       ]
     },
@@ -268,20 +268,13 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 1,
-      "items": [
-        {
-          "title": "US Stocks Drift After Weak Economic Reports",
-          "summary": "U.S. stock markets showed muted reactions on Friday despite discouraging economic data. The S&P 500 edged up 0.1%, the Dow Jones slipped less than 0.1%, and the Nasdaq Composite rose 0.2%, with investors expecting continued Federal Reserve interest rate cuts.",
-          "source": "National Today",
-          "url": "https://nationaltoday.com/us/ny/new-york/news/2026/03/01/us-stocks-drift-after-weak-economic-reports/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://nationaltoday.com/us/ny/new-york/news/2026/03/01/us-stocks-drift-after-weak-economic-reports/",
-        "https://fred.stlouisfed.org/series/NASDAQCOM",
+        "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-mar-1",
+        "https://www.spglobal.com/spdji/en/additional-reports/all-returns/index.dot?parentIdentifier=b57ce71a-68b0-4905-8c21-cb533cbd4b88&additionalFilterCondition=",
         "https://www.nasdaq.com/articles/sp-500-just-did-21st-time-past-100-years-history-clear-about-what-next-12-months-could",
-        "https://www.capitalstreetfx.com/weekly-index-market-analysis-week-of-march-2-6-2026-dow-jones-%C2%B7-nasdaq-100-%C2%B7-ftse-100/"
+        "https://www.aol.com/articles/trump-bull-market-last-leg-092600440.html"
       ]
     },
     "crypto_news": {
@@ -292,21 +285,21 @@
       "count": 2,
       "items": [
         {
-          "title": "Global Crypto Market Cap Drops 4.35% to $2.3 Trillion",
-          "summary": "The total cryptocurrency market capitalization fell 4.35% in the last 24 hours to $2.3 trillion, according to CoinMarketCap data in Binance's latest market update.",
-          "source": "Binance",
-          "url": "https://www.binance.com/sk/square/post/296821577197362"
+          "title": "BITmarkets Releases Crypto Outlook for 2026",
+          "summary": "BITmarkets published its January 2026 report analyzing cryptocurrency market conditions, noting Bitcoin remains in the $60,000–$70,000 range, down over 30% year-on-year. The report identifies regulatory clarity as a positive force while citing macroeconomic uncertainty and geopolitical tensions as headwinds, with multiple possible outcomes for Bitcoin in 2026 including range-bound trading or renewed acceleration.",
+          "source": "Markets Insider / Chainwire",
+          "url": "https://markets.businessinsider.com/news/currencies/bitmarkets-releases-crypto-outlook-for-2026-1035882213"
         },
         {
-          "title": "Bitcoin Surges 4.43% to $66,629 Amid Geopolitical Uncertainty",
-          "summary": "Bitcoin rose over 4% to $66,629 as of 09:30 AM UTC, bucking the broader market trend where most major cryptocurrencies traded mixed.",
+          "title": "BTC & ETH Technical Analysis - March 1, 2026",
+          "summary": "Bitcoin broke below its daily VWAP with bearish engulfing signals, while Ethereum pushed above $2,000 but faces resistance at the Fibonacci 0.618 level. Both assets show weekly oversold conditions with bullish divergences building underneath, suggesting potential for volatile snapbacks despite current downward pressure.",
           "source": "Binance",
-          "url": "https://www.binance.com/en/square/post/296821577197362"
+          "url": "https://www.binance.com/en/square/post/296795090385905"
         }
       ],
       "citations": [
-        "https://www.binance.com/sk/square/post/296821577197362",
-        "https://www.binance.com/en/square/post/296821577197362"
+        "https://markets.businessinsider.com/news/currencies/bitmarkets-releases-crypto-outlook-for-2026-1035882213",
+        "https://www.binance.com/en/square/post/296795090385905"
       ]
     },
     "ai_news": {
@@ -314,27 +307,19 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "title": "Nvidia Announces AI-RAN for Telecom and 6G Ahead of MWC Barcelona",
-          "summary": "Nvidia is promoting AI-native platforms and AI-RAN (artificial intelligence radio access networking) to transform telecom networks into AI infrastructure, with new collaborations including T-Mobile US, SoftBank, and Indosat Ooredoo Hutchison. The initiative aims to enable autonomous networks using agentic AI and large language models, accelerating advancements toward 6G by 2030.",
-          "source": "SiliconANGLE",
-          "url": "https://siliconangle.com/2026/03/01/ahead-mwc-barcelona-nvidia-bets-ai-native-platforms-will-carry-telecom-6g/"
-        },
-        {
-          "title": "Epoch AI Updates Benchmarking Data for Leading AI Models",
-          "summary": "Epoch AI released an update to its AI benchmarking database on March 1, 2026, tracking performance of leading AI models on challenging benchmarks with insights into compute and accessibility.",
-          "source": "Epoch AI",
-          "url": "https://epoch.ai/data"
+          "title": "AI reveals hidden chemical changes across the Alzheimer's brain",
+          "summary": "Rice University scientists used laser-based imaging combined with machine learning to create the first dye-free molecular atlas of an Alzheimer's brain, discovering that chemical changes spread unevenly across the brain and extend beyond amyloid plaques, suggesting Alzheimer's is a whole-brain metabolic disruption.",
+          "source": "Science Daily / Rice University",
+          "url": "http://www.sciencedaily.com/releases/2026/02/260228093505.htm"
         }
       ],
       "citations": [
-        "https://siliconangle.com/2026/03/01/ahead-mwc-barcelona-nvidia-bets-ai-native-platforms-will-carry-telecom-6g/",
+        "http://www.sciencedaily.com/releases/2026/02/260228093505.htm",
         "https://epoch.ai/data",
-        "https://www.ey.com/en_br/mwc",
-        "https://research.ibm.com",
-        "https://rssdsaisection.substack.com/p/march-newsletter-d75"
+        "https://www.ey.com/en_br/mwc"
       ]
     },
     "gaming": {
@@ -345,43 +330,44 @@
       "count": 5,
       "items": [
         {
-          "title": "Nintendo Switch 2 eShop Charts Dominated by Pokémon Pokopia Pre-Loads",
-          "summary": "Pokémon Pokopia tops the Nintendo Switch 2 eShop charts on March 1, 2026, surpassing Fallout 4 and The Elder Scrolls 5: Skyrim due to strong pre-loads. This highlights massive anticipation for the upcoming Pokémon title.",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/nintendo-switch-2-eshop-charts-march-1-2026/"
-        },
-        {
-          "title": "March 2026 Packed with Major Game Releases Including Legacy of Kain Remaster and WoW Expansion",
-          "summary": "Upcoming releases feature Legacy of Kain: Defiance Remastered and World of Warcraft: Midnight on March 2, Slay the Spire II on March 5, and high-profile titles like WWE 2K26, Crimson Desert, and Death Stranding 2 later in the month.",
-          "source": "Press Start",
-          "url": "https://press-start.com.au/features/2026/02/25/games-coming-out-in-march-2026-that-you-should-be-excited-for/"
-        },
-        {
-          "title": "Bungie's Marathon Enters Server Slam Ahead of March 6 Launch",
-          "summary": "Bungie's PvPvE extraction shooter Marathon is in a free 'server slam' beta until March 3, building hype for its March 6 release on PS5, PC, and Xbox Series X|S.",
+          "title": "Marathon Server Slam Live Until March 3rd",
+          "summary": "Bungie's revival of the Marathon franchise is offering free access to a 'server slam' playtest until 5am on March 3rd. The PvPvE extraction shooter launches March 6th on PlayStation 5, PC, and Xbox Series X|S.",
           "source": "Quest Daily",
           "url": "https://questdaily.com.au/news/video-games-releasing-in-march-2026/"
         },
         {
-          "title": "Over 20 Cozy and Casual Games Set for March 2026 Releases and Updates",
-          "summary": "March brings a wave of cozy titles like The Legend of Khiimori (March 3), Planet of Lana II, Cooking Simulator 2, and console ports including Super Mario Bros. Wonder for Switch 2 on March 26.",
-          "source": "The Pillow Fort (YouTube)",
-          "url": "https://www.youtube.com/watch?v=qusvAw2qPMI"
+          "title": "Major Video Game Releases Coming This Week",
+          "summary": "Multiple notable titles are launching in early March 2026, including Legacy of Kain: Defiance Remastered and Scott Pilgrim EX on March 3rd, followed by Marathon on March 6th and several other releases throughout the month.",
+          "source": "Turtle Beach",
+          "url": "https://www.turtlebeach.com/blog/all-major-video-game-releases-for-march-2026"
         },
         {
-          "title": "Top Anticipated March Games: WoW Midnight and Monster Hunter Stories 3",
-          "summary": "COGconnected ranks World of Warcraft: Midnight (March 2) and Monster Hunter Stories 3: Twisted Reflection (March 13) among top 5, alongside other highlights like Fatal Frame II remake.",
-          "source": "COGconnected",
-          "url": "https://cogconnected.com/feature/top-5-video-games-march-2026/"
+          "title": "Invincible Season 4 Coming to Prime Video in March",
+          "summary": "Amazon Prime Video is releasing season 4 of the animated superhero series Invincible this month, featuring Mark Grayson taking a more active role against the Viltrumite Empire with new storylines not in the original comics.",
+          "source": "CGMagazine Online",
+          "url": "https://www.cgmagonline.com/news/whats-coming-to-prime-video-in-march-2026/"
+        },
+        {
+          "title": "Pokémon Pokopia Dominates Switch 2 Pre-loads",
+          "summary": "Pokémon Pokopia is leading Nintendo Switch 2 eShop charts on March 1st, 2026, beating out competition with pre-load numbers alone.",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/nintendo-switch-2-eshop-charts-march-1-2026/"
+        },
+        {
+          "title": "Outward 2 Offers Unique Open-World Experience",
+          "summary": "The long-awaited sequel Outward 2 is releasing in 2026 as a distinctive open-world RPG that prioritizes exploration and emergent storytelling, offering a different experience from major releases like Crimson Desert and GTA 6.",
+          "source": "Comic Book",
+          "url": "https://comicbook.com/gaming/feature/this-2026-open-world-game-has-been-long-awaited-and-is-worth-your-time/"
         }
       ],
       "citations": [
-        "https://press-start.com.au/features/2026/02/25/games-coming-out-in-march-2026-that-you-should-be-excited-for/",
+        "https://www.turtlebeach.com/blog/all-major-video-game-releases-for-march-2026",
         "https://questdaily.com.au/news/video-games-releasing-in-march-2026/",
-        "https://www.youtube.com/watch?v=qusvAw2qPMI",
-        "https://cogconnected.com/feature/top-5-video-games-march-2026/",
+        "https://www.cgmagonline.com/news/whats-coming-to-prime-video-in-march-2026/",
+        "https://www.trueachievements.com/news/xbox-one-games-march-2026",
+        "https://comicbook.com/gaming/feature/this-2026-open-world-game-has-been-long-awaited-and-is-worth-your-time/",
         "https://nintendoeverything.com/nintendo-switch-2-eshop-charts-march-1-2026/",
-        "https://www.cinelinx.com/games/game-news/march-2026-video-game-releases/"
+        "https://www.mensjournal.com/entertainment/21-years-ago-capcom-released-one-of-the-greatest-action-video-games-of-all-time"
       ]
     },
     "tech_news": {
@@ -389,58 +375,25 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 2,
       "items": [
         {
-          "title": "RAM Shortage to Cause Largest Smartphone Shipment Drop in Over a Decade",
-          "summary": "Analysts predict a severe RAM shortage, driven by supply constraints, will lead to the biggest decline in smartphone shipments in more than ten years. Chinese manufacturers are pivoting strategies amid the memory chip crunch ahead of MWC Barcelona.",
-          "source": "Bez Kabli",
-          "url": "https://www.bez-kabli.pl/technology-news-01-03-2026/"
+          "title": "Anker Innovations Unveils Next-Generation Consumer Tech at MWC 2026",
+          "summary": "Anker Innovations debuted key products at MWC 2026, including the Anker Nano Charger (45W with Smart Display and 180° foldable design in Cosmic Orange) and the Anker Prime Wireless Charging Station (3-in-1). These launches highlight advancements in portable and wireless charging technology.",
+          "source": "Business Insider",
+          "url": "https://markets.businessinsider.com/news/stocks/anker-innovations-unveils-next-generation-consumer-tech-at-mwc-2026-1035882414"
         },
         {
-          "title": "Apple Announces iOS 26.4 Beta 2 and Previews Next-Gen Apple TV 4K with Dolby Vision 2",
-          "summary": "Apple released iOS 26.4 beta 2 for iPhone and is hosting global events next week to unveil hardware including an affordable iPhone 16e, refreshed HomePod, and next-gen Apple TV 4K emphasizing Dolby Vision 2 for home cinema.",
-          "source": "Bez Kabli",
-          "url": "https://www.bez-kabli.pl/technology-news-01-03-2026/"
-        },
-        {
-          "title": "Samsung Galaxy S26 Ultra Launches with Privacy Display and Snapdragon 8 Elite Gen 5",
-          "summary": "Samsung introduced the Galaxy S26 Ultra featuring an industry-first built-in Privacy Display, redesigned Vapor Chamber for thermal performance, brighter camera system, and customized Snapdragon 8 Elite Gen 5 chipset at MWC 2026.",
-          "source": "Bez Kabli; Samsung Newsroom",
-          "url": "https://www.bez-kabli.pl/technology-news-01-03-2026/; https://news.samsung.com/global/samsung-advances-galaxy-ai-and-its-connected-ecosystem-at-mwc-2026"
-        },
-        {
-          "title": "NVIDIA Leads Coalition for Open, AI-Native 6G Platforms with Telecom Giants",
-          "summary": "NVIDIA, alongside BT Group, Cisco, Deutsche Telekom, Ericsson, Nokia, SK Telecom, SoftBank, T-Mobile and others, committed to developing secure, software-defined 6G networks on open platforms.",
-          "source": "NVIDIA Investor Relations; Bez Kabli",
-          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Global-Telecom-Leaders-Commit-to-Build-6G-on-Open-and-Secure-AI-Native-Platforms/default.aspx; https://www.bez-kabli.pl/technology-news-01-03-2026/"
-        },
-        {
-          "title": "Huawei Unveils Comprehensive U6GHz Portfolio for 5G-A and 6G Transition at MWC",
-          "summary": "Huawei launched a full suite of U6GHz products including hyper-resolution MU-MIMO solutions delivering up to 100 Gbps downlink capacity to support massive AI terminals and pave the way for 6G commercialization.",
-          "source": "Huawei News",
-          "url": "https://www.huawei.com/en/news/2026/3/mwc-5ga-u6ghz-6g"
-        },
-        {
-          "title": "Space One Prepares Kairos No.3 Launch to Become Japan's First Private Orbital Operator",
-          "summary": "Japanese company Space One is readying its Kairos No.3 rocket launch, positioning itself as the nation's inaugural private firm to achieve orbital capability.",
-          "source": "Bez Kabli",
-          "url": "https://www.bez-kabli.pl/technology-news-01-03-2026/"
-        },
-        {
-          "title": "Siemens Unveils Custom AMR Manufacturing Capability in UK Partnership",
-          "summary": "Siemens partnered to create the UK's first fully customizable autonomous mobile robot (AMR) manufacturing facility, enhancing industrial automation.",
-          "source": "Siemens News",
-          "url": "https://news.siemens.co.uk/news/siemens-partnership-creates-uks-first-fully-customisable-autonomous-mobile-robot-amr-manufacturing-capability"
+          "title": "James Altucher Spotlights Quiet Player Behind Starlink's Expansion",
+          "summary": "Recognized as 'Tech Guru of the Year,' James Altucher delivered a briefing on Starlink's rapid evolution in satellite internet, highlighting a lesser-known company and its ripple effects across sectors like manufacturing and logistics.",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/03/01/3246929/0/en/Recognized-as-Tech-Guru-of-the-Year-James-Altucher-Uses-Latest-Presentation-to-Spotlight-a-Quiet-Player-Behind-Starlink.html"
         }
       ],
       "citations": [
-        "https://www.bez-kabli.pl/technology-news-01-03-2026/",
-        "https://www.youtube.com/watch?v=EqW5PoVj-8c",
-        "https://www.youtube.com/watch?v=x1BsCKizMm4",
-        "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Global-Telecom-Leaders-Commit-to-Build-6G-on-Open-and-Secure-AI-Native-Platforms/default.aspx",
-        "https://www.huawei.com/en/news/2026/3/mwc-5ga-u6ghz-6g",
-        "https://news.samsung.com/global/samsung-advances-galaxy-ai-and-its-connected-ecosystem-at-mwc-2026"
+        "https://markets.businessinsider.com/news/stocks/anker-innovations-unveils-next-generation-consumer-tech-at-mwc-2026-1035882414",
+        "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+        "https://www.globenewswire.com/news-release/2026/03/01/3246929/0/en/Recognized-as-Tech-Guru-of-the-Year-James-Altucher-Uses-Latest-Presentation-to-Spotlight-a-Quiet-Player-Behind-Starlink.html"
       ]
     }
   }
