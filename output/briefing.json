@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T18:13:15.292183+00:00",
-  "generated_at_human": "2026-03-06 18:13 UTC",
+  "generated_at": "2026-03-07T00:24:25.225769+00:00",
+  "generated_at_human": "2026-03-07 00:24 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,124 @@
       "count": 25,
       "items": [
         {
+          "title": "this css proves me human",
+          "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
+          "score": 111,
+          "comments": 38
+        },
+        {
+          "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+          "url": "https://plasma-bigscreen.org",
+          "score": 23,
+          "comments": 5
+        },
+        {
+          "title": "C# strings silently kill your SQL Server indexes in Dapper",
+          "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+          "score": 31,
+          "comments": 19
+        },
+        {
+          "title": "Show HN: The Roman Industrial Revolution that could have been (Vol 2)",
+          "url": "https://thelydianstone.com/volume-2",
+          "score": 14,
+          "comments": 4
+        },
+        {
+          "title": "Math Notepad",
+          "url": "https://mathnotepad.com",
+          "score": 43,
+          "comments": 10
+        },
+        {
+          "title": "The Shady World of IP Leasing",
+          "url": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
+          "score": 41,
+          "comments": 19
+        },
+        {
+          "title": "Hardening Firefox with Anthropic's Red Team",
+          "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+          "score": 454,
+          "comments": 132
+        },
+        {
           "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
           "url": "https://github.com/moongate-community/moongatev2",
-          "score": 109,
-          "comments": 71
+          "score": 218,
+          "comments": 123
         },
         {
-          "title": "Open Camera is a FOSS Camera App for Android",
+          "title": "Open Camera is a FOSS camera app for Android",
           "url": "https://opencamera.org.uk/",
-          "score": 78,
-          "comments": 26
+          "score": 201,
+          "comments": 98
         },
         {
-          "title": "Astra: An open-source observatory control software",
-          "url": "https://github.com/ppp-one/astra",
-          "score": 25,
-          "comments": 6
+          "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+          "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+          "score": 682,
+          "comments": 454
         },
         {
-          "title": "CT Scans of Health Wearables",
-          "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
-          "score": 103,
-          "comments": 14
+          "title": "Apache Otava",
+          "url": "https://otava.apache.org/",
+          "score": 74,
+          "comments": 5
         },
         {
-          "title": "Paul Brainerd, Founder of Aldus PageMaker, has died",
-          "url": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
-          "score": 31,
-          "comments": 3
+          "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
+          "url": "https://news.ycombinator.com/item?id=47278980",
+          "score": 34,
+          "comments": 49
         },
         {
-          "title": "Supertoast tables",
-          "url": "https://hatchet.run/blog/supertoast-tables",
-          "score": 18,
-          "comments": 0
+          "title": "The worst acquisition in history, again",
+          "url": "https://www.profgmedia.com/p/the-worst-acquisition-in-history",
+          "score": 81,
+          "comments": 58
         },
         {
           "title": "Payphone Go",
           "url": "https://walzr.com/payphone-go/",
-          "score": 176,
-          "comments": 42
+          "score": 295,
+          "comments": 67
+        },
+        {
+          "title": "Galileo's handwritten notes found in ancient astronomy text",
+          "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+          "score": 6,
+          "comments": 0
+        },
+        {
+          "title": "Ada 2022",
+          "url": "https://www.adaic.org/ada-resources/standards/ada22/",
+          "score": 96,
+          "comments": 19
+        },
+        {
+          "title": "Art Bits from HyperCard",
+          "url": "https://archives.somnolescent.net/web/mari_v2/junk/hypercard/",
+          "score": 43,
+          "comments": 12
+        },
+        {
+          "title": "Triplet Superconductor",
+          "url": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm",
+          "score": 45,
+          "comments": 8
+        },
+        {
+          "title": "CT Scans of Health Wearables",
+          "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+          "score": 173,
+          "comments": 39
+        },
+        {
+          "title": "Astra: An open-source observatory control software",
+          "url": "https://github.com/ppp-one/astra",
+          "score": 77,
+          "comments": 19
         },
         {
           "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
@@ -56,106 +134,28 @@
           "comments": 0
         },
         {
-          "title": "Analytic Fog Rendering with Volumetric Primitives (2025)",
-          "url": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
-          "score": 58,
-          "comments": 3
-        },
-        {
-          "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
-          "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-          "score": 357,
-          "comments": 198
+          "title": "Entomologists use a particle accelerator to image ants at scale",
+          "url": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
+          "score": 89,
+          "comments": 16
         },
         {
           "title": "LibreSprite – open-source pixel art editor",
           "url": "https://libresprite.github.io/",
-          "score": 184,
-          "comments": 69
+          "score": 247,
+          "comments": 82
         },
         {
-          "title": "Entomologists use a particle accelerator to image ants at scale",
-          "url": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
-          "score": 19,
-          "comments": 0
+          "title": "Anthropic, please make a new Slack",
+          "url": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
+          "score": 170,
+          "comments": 147
         },
         {
-          "title": "Global warming has accelerated significantly",
-          "url": "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly",
-          "score": 648,
-          "comments": 623
-        },
-        {
-          "title": "Show HN: A trainable, modular electronic nose for industrial use",
-          "url": "https://sniphi.com/",
-          "score": 7,
-          "comments": 3
-        },
-        {
-          "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
-          "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-          "score": 20,
-          "comments": 9
-        },
-        {
-          "title": "Show HN: Claude-replay – A video-like player for Claude Code sessions",
-          "url": "https://github.com/es617/claude-replay",
-          "score": 10,
-          "comments": 2
-        },
-        {
-          "title": "GPT-5.4",
-          "url": "https://openai.com/index/introducing-gpt-5-4/",
-          "score": 951,
-          "comments": 751
-        },
-        {
-          "title": "Good Bad ISPs",
-          "url": "https://community.torproject.org/relay/community-resources/good-bad-isps/",
-          "score": 35,
-          "comments": 6
-        },
-        {
-          "title": "10% of Firefox crashes are caused by bitflips",
-          "url": "https://mas.to/@gabrielesvelto/116171750653898304",
-          "score": 841,
-          "comments": 433
-        },
-        {
-          "title": "It took four years until 2011’s iOS 5 gave everyone an emoji keyboard",
-          "url": "https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/",
-          "score": 93,
-          "comments": 49
-        },
-        {
-          "title": "Hardening Firefox with Anthropic's Red Team",
-          "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-          "score": 266,
-          "comments": 80
-        },
-        {
-          "title": "System76 on Age Verification Laws",
-          "url": "https://blog.system76.com/post/system76-on-age-verification/",
-          "score": 715,
-          "comments": 515
-        },
-        {
-          "title": "A GitHub Issue Title Compromised 4k Developer Machines",
-          "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-          "score": 579,
-          "comments": 178
-        },
-        {
-          "title": "We might all be AI engineers now",
-          "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
-          "score": 70,
-          "comments": 98
-        },
-        {
-          "title": "Show HN: Interactive 3D globe of EU shipping emissions",
-          "url": "https://seafloor.pages.dev",
-          "score": 12,
-          "comments": 6
+          "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+          "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+          "score": 492,
+          "comments": 282
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 68244,
-          "change_24h": -3.83,
-          "change_7d": 3.88,
-          "market_cap": 1361625885137
+          "price": 68163,
+          "change_24h": -3.98,
+          "change_7d": 3.47,
+          "market_cap": 1363720269928
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1976.02,
-          "change_24h": -4.53,
-          "change_7d": 2.31,
-          "market_cap": 237839607941
+          "price": 1979.31,
+          "change_24h": -4.67,
+          "change_7d": 2.54,
+          "market_cap": 238996637928
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 84.55,
-          "change_24h": -4.25,
-          "change_7d": 3.45,
-          "market_cap": 48209727778
+          "price": 84.81,
+          "change_24h": -4.58,
+          "change_7d": 3.59,
+          "market_cap": 48396728625
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.090597,
-          "change_24h": -2.8,
-          "change_7d": -3.39,
-          "market_cap": 13842749133
+          "price": 0.091381,
+          "change_24h": -2.43,
+          "change_7d": -2.14,
+          "market_cap": 14007917302
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.258295,
-          "change_24h": -3.23,
-          "change_7d": -7.02,
-          "market_cap": 9466115849
+          "price": 0.259235,
+          "change_24h": -3.61,
+          "change_7d": -6.23,
+          "market_cap": 9552519416
         }
       ]
     },
@@ -219,7 +219,17 @@
         {
           "name": "WAR",
           "symbol": "WAR",
-          "market_cap_rank": 415
+          "market_cap_rank": 483
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 109
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 48
         },
         {
           "name": "Hyperliquid",
@@ -232,34 +242,24 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 139
+          "name": "PAX Gold",
+          "symbol": "PAXG",
+          "market_cap_rank": 37
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 109
+          "name": "Freysa AI",
+          "symbol": "FAI",
+          "market_cap_rank": 332
+        },
+        {
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 41
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
           "market_cap_rank": 2
-        },
-        {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 148
-        },
-        {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 44
-        },
-        {
-          "name": "Sign",
-          "symbol": "SIGN",
-          "market_cap_rank": 315
         }
       ]
     },
@@ -268,51 +268,38 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "Stock Markets Decline Amid Oil Spike and Weak Jobs Report",
-          "summary": "Major U.S. stock indices fell sharply on March 6, 2026, with the S&P 500 down 1.57%, the Dow down 1.9%, and the NASDAQ down 1.58%. The decline was driven by oil prices nearing $90 per barrel amid ongoing Iran tensions and disappointing nonfarm payroll data showing a loss of 92,000 jobs in February.",
-          "source": "247wallst.com",
-          "url": "https://247wallst.com/investing/2026/03/06/stock-market-live-march-6-2026-sp-500-spy-sinks-as-oil-spikes/"
+          "title": "Indian Stock Market Closes Lower Amid Middle East Tensions",
+          "summary": "Indian benchmark indices ended in a volatile session with Nifty closing below 24,550. ICICI Bank, Eternal, and Shriram Finance were among top losers, while Bharat Electronics and Reliance Industries gained.",
+          "source": "CNBC-TV18",
+          "url": "https://www.youtube.com/watch?v=e8u-6PWbmEQ"
         },
         {
-          "title": "U.S. Nonfarm Payrolls Fall 92,000 in February; Unemployment Rises to 4.4%",
-          "summary": "The U.S. labor market weakened in February with nonfarm payrolls declining by 92,000, a sharp reversal from January's gain of 126,000 and well below economist expectations of 50,000 growth. The unemployment rate rose to 4.4% from 4.3%.",
-          "source": "247wallst.com",
-          "url": "https://247wallst.com/investing/2026/03/06/stock-market-live-march-6-2026-sp-500-spy-sinks-as-oil-spikes/"
+          "title": "U.S. Markets Face Dual Pressure: Weak Jobs Data and Oil-Driven Inflation",
+          "summary": "February payrolls fell by 92,000 and unemployment rose to 4.4%, while the Iran-Israel conflict has disrupted energy markets and surged oil prices. Stocks face pressure from both slower economic momentum and rising energy costs that could squeeze margins.",
+          "source": "askSlim Market Signals",
+          "url": "https://www.youtube.com/watch?v=cXw3V56Yr0Y"
         },
         {
-          "title": "Oil Prices Surge as Iran Conflict Escalates; $150 Oil Possible",
-          "summary": "Oil prices surged near $90 per barrel as tensions with Iran intensify, with no clear end to the conflict in sight. Qatar's energy minister warned that oil could potentially double to over $150, threatening global economic growth.",
-          "source": "247wallst.com",
-          "url": "https://247wallst.com/investing/2026/03/06/stock-market-live-march-6-2026-sp-500-spy-sinks-as-oil-spikes/"
+          "title": "S&P 500 and Russell 2000 Close in Red",
+          "summary": "The S&P 500 closed red on the year, while the Russell 2000 (IWO) showed significant relative weakness, down 1.9% on a gap down that remained unfilled.",
+          "source": "Market Recap",
+          "url": "https://www.youtube.com/watch?v=cSfICK0RjoI"
         },
         {
-          "title": "Asian Markets Show Mixed Performance; Hong Kong Gains 1.72%",
-          "summary": "Asian stock markets displayed mixed results on March 6, with the Hang Seng Index rising 1.72%, the Nikkei Stock Average up 0.62%, and the Shanghai Composite up 0.38%. However, Australia's S&P/ASX 200 declined 1.00%.",
-          "source": "China.org.cn",
-          "url": "http://www.china.org.cn/world/Off_the_Wire/2026-03/06/content_118367109.shtml"
-        },
-        {
-          "title": "European Markets Open Mixed; DAX Up 0.53%, FTSE 100 Flat",
-          "summary": "European stock indices opened with mixed signals on March 6, with Germany's DAX Index up 0.53% and France's CAC 40 up 0.47%, while the FTSE 100 remained essentially flat with a 0.00% change.",
-          "source": "China.org.cn",
-          "url": "http://www.china.org.cn/world/Off_the_Wire/2026-03/06/content_118367109.shtml"
-        },
-        {
-          "title": "Volatility Index Surges to 28.40; Gold and Safe-Haven Assets Rise",
-          "summary": "Market volatility increased significantly with the VIX rising 4.70 points to 28.40, reflecting investor anxiety. Gold prices climbed $17.85 to $5,089.73, while Bitcoin declined $2,113 to $68,751.",
-          "source": "247wallst.com",
-          "url": "https://247wallst.com/investing/2026/03/06/stock-market-live-march-6-2026-sp-500-spy-sinks-as-oil-spikes/"
+          "title": "Oil Prices Surge Amid Geopolitical Crisis",
+          "summary": "Oil prices have surged due to the Iran-Israel war disrupting supplies through the Strait of Hormuz, creating inflationary pressures on the U.S. economy and impacting Fed policy considerations.",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/video/6390462022112"
         }
       ],
       "citations": [
-        "http://www.china.org.cn/world/Off_the_Wire/2026-03/06/content_118367109.shtml",
-        "https://247wallst.com/investing/2026/03/06/stock-market-live-march-6-2026-sp-500-spy-sinks-as-oil-spikes/",
-        "https://www.capitalstreetfx.com/global-index-market-analysis-march-6-2026-dow-jones-%C2%B7-sp-500-%C2%B7-ftse-100/",
-        "https://www.tipranks.com/news/why-are-stock-market-futures-inching-higher-today-3-6-26",
-        "https://www.thestreet.com/latest-news/stock-market-today-march-6-2026"
+        "https://www.youtube.com/watch?v=e8u-6PWbmEQ",
+        "https://www.youtube.com/watch?v=cSfICK0RjoI",
+        "https://www.youtube.com/watch?v=cXw3V56Yr0Y",
+        "https://www.foxbusiness.com/video/6390462022112"
       ]
     },
     "crypto_news": {
@@ -320,40 +307,35 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Bitcoin Hits One-Month High of $74K Amid Iran-US Conflict and ETF Inflows",
-          "summary": "Bitcoin reached a one-month high of $74,000 with $1.14 billion in ETF inflows over three days as institutions buy during market chaos from the ongoing Iran-US war. Despite oil prices at $84 and risks of $100 oil crashing markets, BTC shows resilience.",
-          "source": "VirtualBacon YouTube",
-          "url": "https://www.youtube.com/watch?v=iXLp01amgzQ"
+          "title": "Intercontinental Exchange Invests in OKX at $25 Billion Valuation",
+          "summary": "The parent company of the New York Stock Exchange, Intercontinental Exchange, has made a strategic investment in crypto exchange OKX, valuing it at $25 billion. This move bridges traditional finance and crypto, with OKX distributing NYSE tokenized equities and ICE licensing OKX price data for regulated futures.",
+          "source": "TitoVlogs (YouTube)",
+          "url": "https://www.youtube.com/watch?v=FRPuWS-XTrs"
         },
         {
-          "title": "BTC Consolidates Above $70K After 2% Drop, Eyes $109K or Drop to $101K",
-          "summary": "Bitcoin is consolidating around $70,000-$71,000 following a 2% decline in the last 24 hours, with bullish scenarios targeting over $109,000 and bearish risks below $101,575. Ethereum holds above $1,890 aiming for $2,478.",
-          "source": "WHAT WILL BITCOIN DO TODAY YouTube",
-          "url": "https://www.youtube.com/watch?v=Ok58I3SR8Ow"
+          "title": "Trump Criticizes Banks for Stalling Crypto's CLARITY Act",
+          "summary": "Former President Trump slammed banks for obstructing the crypto CLARITY Act, a landmark bill facing a new impasse amid discussions on digital asset regulation, volatility, and tokenization. Blockchain.com CEO Peter Smith addressed these issues on Fox Business.",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/video/6390485927112"
         },
         {
-          "title": "BTC Remains Resilient Despite US-Iran Conflict, Potential Bottom Formation",
-          "summary": "Bitcoin demonstrates bottom firmness amid the US-Iran conflict, with March outlook suggesting consolidation and possible upward trend by early summer. Analysis reviews February declines due to demand, supply, and time lags.",
-          "source": "トウシル [楽天証券] YouTube",
-          "url": "https://www.youtube.com/watch?v=nRLk0AE-gbI"
-        },
-        {
-          "title": "Oil Spike to $100 from Strait of Hormuz Closure Threatens Crypto and Stocks",
-          "summary": "Day 6 of Iran-US war keeps Strait of Hormuz shut, pushing oil to $84 with Goldman Sachs warning of $100 Brent crude in five weeks, spiking inflation and preventing Fed rate cuts. Bitcoin holds steady as a hedge.",
-          "source": "VirtualBacon YouTube",
-          "url": "https://www.youtube.com/watch?v=iXLp01amgzQ"
+          "title": "MARA Holdings Updates Bitcoin Mining Policy",
+          "summary": "MARA Holdings, one of the largest public Bitcoin mining companies, announced a latest policy update that could impact Bitcoin supply and market pressure, as discussed in market analysis.",
+          "source": "TitoVlogs (YouTube)",
+          "url": "https://www.youtube.com/watch?v=FRPuWS-XTrs"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=uAnXxEqXU8g",
-        "https://www.youtube.com/watch?v=Ok58I3SR8Ow",
-        "https://www.youtube.com/watch?v=iXLp01amgzQ",
-        "https://www.youtube.com/watch?v=nRLk0AE-gbI",
-        "https://www.youtube.com/watch?v=KLhW9VFHkEg",
-        "https://www.youtube.com/watch?v=qHXpz_ToUNw"
+        "https://www.youtube.com/watch?v=FRPuWS-XTrs",
+        "https://www.youtube.com/watch?v=D5M6LGMxk4E",
+        "https://www.foxbusiness.com/video/6390485927112",
+        "https://www.youtube.com/watch?v=qHXpz_ToUNw",
+        "https://www.youtube.com/watch?v=WYUWEl4-mms",
+        "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+        "https://www.foxnews.com/video/6390503866112"
       ]
     },
     "ai_news": {
@@ -361,46 +343,98 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
-      "citations": []
+      "count": 5,
+      "items": [
+        {
+          "title": "Google’s Aletheia Agent Solves Stubborn Math Problems Using Gemini 3 Deep Think",
+          "summary": "Google's Aletheia, powered by Gemini 3 Deep Think, demonstrated strength in mathematical research by finding original solutions to stubborn math problems. LLMs have also achieved gold-medal performance in math competitions.",
+          "source": "deeplearning.ai",
+          "url": "https://www.deeplearning.ai/the-batch/tag/mar-06-2026/"
+        },
+        {
+          "title": "OpenAI Launches Frontier Agent Insights and Orchestration Platform",
+          "summary": "OpenAI released its Frontier agent management platform to select customers, providing insights into AI agents' work processes, resource needs, and accomplishments.",
+          "source": "deeplearning.ai",
+          "url": "https://www.deeplearning.ai/the-batch/tag/mar-06-2026/"
+        },
+        {
+          "title": "U.S. Dept. of War Replaces Anthropic’s Claude with OpenAI’s GPT Models",
+          "summary": "Secretary of War Pete Hegseth dismissed Anthropic’s Claude as a security risk and signed a contract with OpenAI to provide AI systems for securely processing classified information.",
+          "source": "deeplearning.ai",
+          "url": "https://www.deeplearning.ai/the-batch/tag/mar-06-2026/"
+        },
+        {
+          "title": "Google Releases Nano Banana 2 with Gemini 3.1 Flash Image for Faster Photo Generation",
+          "summary": "Google launched Nano Banana 2, a cheaper and faster successor to its image generator using Gemini 3.1 Flash Image, enabling easier and more interactive photo generation and edits at half the price.",
+          "source": "deeplearning.ai",
+          "url": "https://www.deeplearning.ai/the-batch/tag/mar-06-2026/"
+        },
+        {
+          "title": "NIWC Pacific Hosts NAML 2026 Workshop to Advance Machine Learning for Naval Warfighters",
+          "summary": "Nearly 800 experts attended the 10th annual Naval Applications of Machine Learning workshop in San Diego from March 2-5, 2026, focusing on AI for autonomous systems and warfighter capabilities.",
+          "source": "navy.mil",
+          "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4424971/niwc-pacific-afcea-international-san-diego-host-naml-2026-to-advance-machine-le/"
+        }
+      ],
+      "citations": [
+        "https://www.deeplearning.ai/the-batch/tag/mar-06-2026/",
+        "https://www.artificialintelligence-news.com",
+        "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4424971/niwc-pacific-afcea-international-san-diego-host-naml-2026-to-advance-machine-le/",
+        "https://www.theregister.com/2026/03/06/dont_blame_ai_for_unemployment_yet/",
+        "https://technologyksa.com/en/blog/artificial-intelligence-2026-from-a-to-z",
+        "https://www.aol.com/articles/data-doesnt-lie-heres-ai-180000773.html",
+        "https://www.lightreading.com/ai-machine-learning/cursed-robot-stalked-mwc-goes-mad-for-ai-but-isn-t-sure-about-6g"
+      ]
     },
     "gaming": {
       "source": "perplexity",
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "2026 UK Video Game Awards Winners Announced",
-          "summary": "The UK Interactive Entertainment (Ukie) revealed winners including Battlefield 6 as Game of the Year by Criterion Games, Atomfall as Best UK Console Game by Rebellion, and nDreams as Best UK Developer. The ceremony on March 5 celebrated British talent in AAA, mobile, VR, and more.",
-          "source": "UKIE",
-          "url": "https://ukie.org.uk/news/meet-the-winners-of-the-2026-uk-video-game-awards/"
+          "title": "Microsoft Announces Next-Gen Xbox Console Project Helix",
+          "summary": "Microsoft officially unveiled Project Helix, its next-generation Xbox console promising the largest technical jump in history with a flexible ecosystem for native PC and Xbox games. New Xbox CEO Asha Sharma highlighted its fusion of console and PC gaming.",
+          "source": "ENFANT TERRIBLE YouTube / Economic Times",
+          "url": "https://www.youtube.com/watch?v=sFWg7nX3yJw"
         },
         {
-          "title": "Nvidia CEO Claims Company Created Modern Video Game Industry Amid AI Backlash",
-          "summary": "Nvidia CEO Jensen Huang stated his company 'created the modern video game industry,' highlighting its GPU role, but faces criticism for AI upscaling like DLSS reducing game optimization efforts.",
+          "title": "Ubisoft Confirms Assassin's Creed IV: Black Flag Remake",
+          "summary": "Ubisoft announced Black Flag Resynced, a remake of Assassin's Creed IV: Black Flag, is in development, alongside a 60 FPS update for Assassin's Creed Unity on current-gen consoles.",
+          "source": "ENFANT TERRIBLE YouTube",
+          "url": "https://www.youtube.com/watch?v=sFWg7nX3yJw"
+        },
+        {
+          "title": "Tencent Games Unveils AI Tech VISVISE and MagicDawn at GDC 2026",
+          "summary": "At GDC 2026, Tencent showcased VISVISE, an AI-powered suite for 3D animation and NPC systems, and MagicDawn, an AI engine for global illumination compatible with Unreal, Unity, and Godot. Upcoming summits will cover AI in game development and titles like Delta Force.",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/tencent-games-showcases-tech-advancements-shaping-future-player-experience-at-gdc-2026-302707052.html"
+        },
+        {
+          "title": "Multiple New Game Announcements in March 2026",
+          "summary": "Recent reveals include Monster Hunter Stories 3 (March 13, PS5/Xbox/PC), Mixtape (May 7, PS5/Xbox/Switch 2/PC), Onimusha Way of the Sword (2026, PC/Xbox/PS5), and others like Phantom Line, The Abased, and Where Winds Meet expansion using Unreal Engine 5 and RE Engine.",
+          "source": "ENFANT TERRIBLE YouTube",
+          "url": "https://www.youtube.com/watch?v=sFWg7nX3yJw"
+        },
+        {
+          "title": "Nvidia CEO Claims Company Created Modern Video Game Industry",
+          "summary": "Nvidia CEO Jensen Huang stated his company created the modern video game industry via GPUs and 3D graphics, amid criticism over AI upscaling like DLSS reducing optimization needs.",
           "source": "GamesRadar",
           "url": "https://www.gamesradar.com/hardware/desktop-pc/nvidias-ceo-says-we-created-the-modern-video-game-industry-but-all-its-push-into-ai-upscaling-has-done-is-destroy-good-game-optimization/"
         },
         {
-          "title": "Project Helix May Be Microsoft's Final Xbox Hardware Push, Analyst Warns",
-          "summary": "Analyst suggests Project Helix is Microsoft's last chance to salvage its hardware business, emphasizing the need for it to outperform competitors like Steam Deck and ensure broad Xbox game support.",
-          "source": "GamesRadar",
-          "url": "https://www.gamesradar.com/hardware/project-helix-might-be-microsofts-last-attempt-to-make-their-hardware-business-work-analyst-suggests-there-is-nobody-in-this-industry-who-believes-there-will-be-another-xbox-if-this-next-machine-fails/"
-        },
-        {
-          "title": "In-Game Advertising Market to Hit $20.7 Billion by 2030",
-          "summary": "The in-game advertising sector, valued at $11.03 billion in 2025, is forecasted to reach $12.5 billion in 2026 and grow to $20.7 billion by 2030 at a 13.5% CAGR.",
-          "source": "EIN News",
+          "title": "In-Game Advertising Market to Reach $12.5 Billion in 2026",
+          "summary": "The in-game advertising market is projected to grow from $11.03 billion in 2025 to $12.5 billion in 2026 at a 13.3% CAGR, driven by mobile gaming and AI targeting.",
+          "source": "The Business Research Company",
           "url": "https://tech.einnews.com/pr_news/897546553/the-in-game-advertising-market-is-projected-to-grow-to-20-7-billion-by-2030-expanding-at-a-cagr-of-13-5"
         }
       ],
       "citations": [
+        "https://www.youtube.com/watch?v=sFWg7nX3yJw",
+        "https://www.prnewswire.com/news-releases/tencent-games-showcases-tech-advancements-shaping-future-player-experience-at-gdc-2026-302707052.html",
         "https://www.gamesradar.com/hardware/desktop-pc/nvidias-ceo-says-we-created-the-modern-video-game-industry-but-all-its-push-into-ai-upscaling-has-done-is-destroy-good-game-optimization/",
-        "https://www.gamesradar.com/hardware/project-helix-might-be-microsofts-last-attempt-to-make-their-hardware-business-work-analyst-suggests-there-is-nobody-in-this-industry-who-believes-there-will-be-another-xbox-if-this-next-machine-fails/",
-        "https://ukie.org.uk/news/meet-the-winners-of-the-2026-uk-video-game-awards/",
+        "https://economictimes.com/us/science-tech/xbox-next-gen-console-project-helix-teased-by-microsoft-hints-at-pc-style-gaming-power/amp_articleshow/129143073.cms",
         "https://tech.einnews.com/pr_news/897546553/the-in-game-advertising-market-is-projected-to-grow-to-20-7-billion-by-2030-expanding-at-a-cagr-of-13-5"
       ]
     },
@@ -409,38 +443,13 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "AMD Announces Major 2026 Investments in CPUs, GPUs, and Rack-Scale Systems",
-          "summary": "AMD CEO Lisa Su outlined significant 2026 investments in next-generation Instinct MI455X GPUs, EPYC “Venice” CPUs, Pensando “Vulcano” networking, and silicon photonics to meet 100x global compute demand growth. The company is expanding rack-scale AI solutions, open software, and developer tools for performance and efficiency.[1]",
-          "source": "CRN",
-          "url": "https://www.crn.com/news/running-your-business/2026/iwd-2026-6-top-tech-leaders-on-investment-plans-ai-and-the-keys-to-success-for-channel-partners"
-        },
-        {
-          "title": "Canada Invests in Advanced Machining and Automation for NextGen Mold Technologies",
-          "summary": "The Government of Canada is funding NextGen Mold Technologies in Windsor, Ontario, to adopt advanced machining technology and automation, enhancing manufacturing efficiency and supporting the automotive sector amid tariffs and trade challenges.[3]",
-          "source": "Government of Canada - Department of Finance",
-          "url": "https://www.canada.ca/en/department-finance/news/2026/03/government-of-canada-invests-in-new-technologies-to-support-windsor-manufacturer.html"
-        },
-        {
-          "title": "Liongard CEO Details 2026 Focus on SaaS Discovery and Platform Monetization",
-          "summary": "Liongard CEO Michelle Accardi announced 2026 investments in broader discovery across SaaS, identity, cloud, and network assets, with built-in context, prioritization, and a monetizable platform for partners.[1]",
-          "source": "CRN",
-          "url": "https://www.crn.com/news/running-your-business/2026/iwd-2026-6-top-tech-leaders-on-investment-plans-ai-and-the-keys-to-success-for-channel-partners"
-        },
-        {
-          "title": "Event Tech Sector Highlights Major Investment and Partnerships in March Roundup",
-          "summary": "A key investment dominated event tech news, with companies emphasizing partnerships, integrations, and upgrades in March 2026.[4]",
-          "source": "Skift Meetings",
-          "url": "https://meetings.skift.com/2026/03/06/event-tech-news-roundup-march-2026/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.crn.com/news/running-your-business/2026/iwd-2026-6-top-tech-leaders-on-investment-plans-ai-and-the-keys-to-success-for-channel-partners",
-        "https://www.youtube.com/watch?v=V7QA31i1WkY",
-        "https://www.canada.ca/en/department-finance/news/2026/03/government-of-canada-invests-in-new-technologies-to-support-windsor-manufacturer.html",
-        "https://meetings.skift.com/2026/03/06/event-tech-news-roundup-march-2026/"
+        "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+        "https://www.democracynow.org/2026/3/6/headlines",
+        "https://www.euronews.com/video/2026/03/06/latest-news-bulletin-march-6th-2026-midday",
+        "https://toronto.citynews.ca/2026/03/06/extortion-rates-climbing-in-canada-as-police-face-barriers-when-solving-these-crimes/"
       ]
     }
   }
