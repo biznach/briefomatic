@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T06:11:22.575149+00:00",
-  "generated_at_human": "2026-03-07 06:11 UTC",
+  "generated_at": "2026-03-07T12:08:29.492816+00:00",
+  "generated_at_human": "2026-03-07 12:08 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -10,152 +10,152 @@
         {
           "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
           "url": "https://plasma-bigscreen.org",
-          "score": 276,
-          "comments": 88
+          "score": 474,
+          "comments": 140
+        },
+        {
+          "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+          "url": "https://news.ycombinator.com/item?id=47282777",
+          "score": 533,
+          "comments": 387
         },
         {
           "title": "UUID package coming to Go standard library",
           "url": "https://github.com/golang/go/issues/62026",
-          "score": 97,
-          "comments": 39
+          "score": 227,
+          "comments": 123
+        },
+        {
+          "title": "Ki Editor - an editor that operates on the AST",
+          "url": "https://ki-editor.org/",
+          "score": 16,
+          "comments": 4
+        },
+        {
+          "title": "48x32, a 1536 LED Game Computer",
+          "url": "https://jacquesmattheij.com/48x32-introduction/",
+          "score": 15,
+          "comments": 0
         },
         {
           "title": "this css proves me human",
           "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
-          "score": 216,
-          "comments": 74
+          "score": 281,
+          "comments": 93
         },
         {
-          "title": "Can a wealthy family change the course of a deadly brain disease?",
-          "url": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
-          "score": 32,
-          "comments": 16
-        },
-        {
-          "title": "Maybe There's a Pattern Here?",
-          "url": "https://dynomight.net/pattern/",
-          "score": 71,
-          "comments": 36
-        },
-        {
-          "title": "LLMs work best when the user defines their acceptance criteria first",
-          "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-          "score": 140,
-          "comments": 101
-        },
-        {
-          "title": "Hardening Firefox with Anthropic's Red Team",
-          "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-          "score": 542,
-          "comments": 151
-        },
-        {
-          "title": "Galileo's handwritten notes found in ancient astronomy text",
-          "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
-          "score": 80,
-          "comments": 12
-        },
-        {
-          "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
-          "url": "https://github.com/moongate-community/moongatev2",
-          "score": 241,
-          "comments": 135
-        },
-        {
-          "title": "Querying 3B Vectors",
-          "url": "https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/",
-          "score": 20,
-          "comments": 0
-        },
-        {
-          "title": "C# strings silently kill your SQL Server indexes in Dapper",
-          "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
-          "score": 84,
-          "comments": 54
-        },
-        {
-          "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
-          "url": "https://news.ycombinator.com/item?id=47282777",
-          "score": 317,
-          "comments": 191
-        },
-        {
-          "title": "The Shady World of IP Leasing",
-          "url": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
+          "title": "QGIS 4.0",
+          "url": "https://changelog.qgis.org/en/version/4.0/",
           "score": 85,
-          "comments": 48
+          "comments": 11
         },
         {
-          "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
-          "url": "https://github.com/c0m4r/kula",
-          "score": 30,
-          "comments": 19
-        },
-        {
-          "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
-          "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-          "score": 811,
-          "comments": 555
-        },
-        {
-          "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
-          "url": "https://news.ycombinator.com/item?id=47278980",
-          "score": 44,
-          "comments": 70
-        },
-        {
-          "title": "CT Scans of Health Wearables",
-          "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
-          "score": 199,
-          "comments": 42
-        },
-        {
-          "title": "Editing changes in patch format with Jujutsu",
-          "url": "https://www.knifepoint.net/~kat/kb-jj-patchedit.html",
-          "score": 5,
-          "comments": 1
-        },
-        {
-          "title": "Entomologists use a particle accelerator to image ants at scale",
-          "url": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
-          "score": 117,
-          "comments": 22
-        },
-        {
-          "title": "Show HN: 1v1 coding game that LLMs struggle with",
-          "url": "https://yare.io",
-          "score": 16,
-          "comments": 5
-        },
-        {
-          "title": "What canceled my Go context?",
-          "url": "https://rednafi.com/go/context-cancellation-cause/",
-          "score": 30,
-          "comments": 16
-        },
-        {
-          "title": "A tool that removes censorship from open-weight LLMs",
-          "url": "https://github.com/elder-plinius/OBLITERATUS",
-          "score": 145,
-          "comments": 64
+          "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+          "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+          "score": 68,
+          "comments": 33
         },
         {
           "title": "Helix: A post-modern text editor",
           "url": "https://helix-editor.com/",
-          "score": 37,
-          "comments": 8
+          "score": 178,
+          "comments": 73
         },
         {
-          "title": "Ada 2022",
-          "url": "https://www.adaic.org/ada-resources/standards/ada22/",
-          "score": 125,
-          "comments": 26
+          "title": "Galileo's handwritten notes found in ancient astronomy text",
+          "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+          "score": 150,
+          "comments": 28
         },
         {
-          "title": "Game about Data of America",
-          "url": "https://americaindata.com/",
-          "score": 11,
-          "comments": 1
+          "title": "Working and Communicating with Japanese Engineers",
+          "url": "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers",
+          "score": 47,
+          "comments": 21
+        },
+        {
+          "title": "LLMs work best when the user defines their acceptance criteria first",
+          "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+          "score": 252,
+          "comments": 189
+        },
+        {
+          "title": "Lock Scroll with a Vengeance",
+          "url": "https://unsung.aresluna.org/lock-scroll-with-a-vengeance/",
+          "score": 22,
+          "comments": 3
+        },
+        {
+          "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+          "url": "https://github.com/moongate-community/moongatev2",
+          "score": 258,
+          "comments": 144
+        },
+        {
+          "title": "Querying 3B Vectors",
+          "url": "https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/",
+          "score": 57,
+          "comments": 7
+        },
+        {
+          "title": "Modernizing swapping: virtual swap spaces",
+          "url": "https://lwn.net/Articles/1059201/",
+          "score": 36,
+          "comments": 27
+        },
+        {
+          "title": "Editing changes in patch format with Jujutsu",
+          "url": "https://www.knifepoint.net/~kat/kb-jj-patchedit.html",
+          "score": 33,
+          "comments": 5
+        },
+        {
+          "title": "Sarvam 105B, the first competitive Indian open source LLM",
+          "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+          "score": 71,
+          "comments": 15
+        },
+        {
+          "title": "My application programmer instincts failed when debugging assembler",
+          "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
+          "score": 15,
+          "comments": 10
+        },
+        {
+          "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
+          "url": "https://github.com/c0m4r/kula",
+          "score": 62,
+          "comments": 37
+        },
+        {
+          "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+          "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+          "score": 916,
+          "comments": 606
+        },
+        {
+          "title": "CT Scans of Health Wearables",
+          "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+          "score": 221,
+          "comments": 47
+        },
+        {
+          "title": "The Longing (1999)",
+          "url": "https://www.cluetrain.com/book/longing.html",
+          "score": 23,
+          "comments": 2
+        },
+        {
+          "title": "Maybe there's a pattern here?",
+          "url": "https://dynomight.net/pattern/",
+          "score": 136,
+          "comments": 87
+        },
+        {
+          "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
+          "url": "https://news.ycombinator.com/item?id=47278980",
+          "score": 53,
+          "comments": 78
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 67965,
-          "change_24h": -3.33,
-          "change_7d": 3.71,
-          "market_cap": 1359849481064
+          "price": 68031,
+          "change_24h": -3.06,
+          "change_7d": 6.29,
+          "market_cap": 1360209699410
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1976.46,
-          "change_24h": -4.32,
-          "change_7d": 2.98,
-          "market_cap": 238750573518
+          "price": 1989.15,
+          "change_24h": -2.96,
+          "change_7d": 6.7,
+          "market_cap": 240019039575
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 84.23,
-          "change_24h": -4.1,
-          "change_7d": 3.34,
-          "market_cap": 48154712912
+          "price": 84.69,
+          "change_24h": -2.83,
+          "change_7d": 7.04,
+          "market_cap": 48336650610
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.09064,
-          "change_24h": -3.15,
-          "change_7d": -2.02,
-          "market_cap": 13905495357
+          "price": 0.090538,
+          "change_24h": -2.71,
+          "change_7d": 2.02,
+          "market_cap": 13887175648
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.258822,
-          "change_24h": -3.68,
-          "change_7d": -5.97,
-          "market_cap": 9539308029
+          "price": 0.258794,
+          "change_24h": -2.54,
+          "change_7d": -1.66,
+          "market_cap": 9535346097
         }
       ]
     },
@@ -212,14 +212,19 @@
       "count": 10,
       "items": [
         {
+          "name": "Immortal Token",
+          "symbol": "IMT",
+          "market_cap_rank": 933
+        },
+        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "Freysa AI",
-          "symbol": "FAI",
-          "market_cap_rank": 320
+          "name": "Akash Network",
+          "symbol": "AKT",
+          "market_cap_rank": 244
         },
         {
           "name": "Pi Network",
@@ -227,29 +232,19 @@
           "market_cap_rank": 40
         },
         {
-          "name": "River",
-          "symbol": "RIVER",
-          "market_cap_rank": 136
-        },
-        {
           "name": "Bittensor",
           "symbol": "TAO",
-          "market_cap_rank": 48
+          "market_cap_rank": 46
         },
         {
-          "name": "Opinion",
-          "symbol": "OPN",
-          "market_cap_rank": 416
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 108
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
-          "name": "Banana For Scale",
-          "symbol": "BANANAS31",
-          "market_cap_rank": 333
+          "name": "WAR",
+          "symbol": "WAR",
+          "market_cap_rank": 517
         },
         {
           "name": "Solana",
@@ -257,9 +252,14 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
+          "name": "Freysa AI",
+          "symbol": "FAI",
+          "market_cap_rank": 378
+        },
+        {
+          "name": "Immutable",
+          "symbol": "IMX",
+          "market_cap_rank": 219
         }
       ]
     },
@@ -268,37 +268,44 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "February Jobs Report Shows Significant Weakness with 92,000 Payroll Loss",
-          "summary": "The February nonfarm payrolls report revealed a loss of 92,000 jobs and unemployment rose to 4.4%, significantly weaker than expected. White House officials characterized the report as an 'outlier,' though the weak data raises concerns about economic momentum.",
-          "source": "Bloomberg Television",
-          "url": "https://www.youtube.com/watch?v=dlmhjjZW-kI"
-        },
-        {
-          "title": "Oil Surge and Iran Conflict Create Dual Market Pressure",
-          "summary": "Markets faced a dangerous combination of weaker economic growth and oil-driven inflation shock as Iran-related geopolitical tensions disrupted energy supplies through the Strait of Hormuz. Oil prices surged sharply, creating margin pressures on stocks despite weak job data that would normally support equities.",
+          "title": "US February Jobs Report Shows 92,000 Payroll Losses and Unemployment at 4.4%",
+          "summary": "The February jobs report revealed a sharper-than-expected decline of 92,000 payrolls with unemployment rising to 4.4%, signaling weaker economic growth amid ongoing market pressures.",
           "source": "askSlim Market Signals",
           "url": "https://www.youtube.com/watch?v=cXw3V56Yr0Y"
         },
         {
-          "title": "Retail Investors Continue Buying Despite Market Headwinds",
-          "summary": "Despite negative headlines and institutional equity reduction around 'Liberation Day,' retail investors showed continued strength with the fifth-highest monthly inflows in February following record January inflows, according to Citadel data. This suggests persistent retail complacency amid warning signs in financials and discretionary sectors.",
-          "source": "RiskReversal Media",
-          "url": "https://www.youtube.com/watch?v=ABLbr_AnUFc"
+          "title": "Oil Prices Surge Due to Iran War Disrupting Strait of Hormuz Supplies",
+          "summary": "Geopolitical tensions from the Iran war have caused oil prices to spike sharply, creating an inflation shock that offsets potential Fed easing expectations from weak jobs data.",
+          "source": "askSlim Market Signals",
+          "url": "https://www.youtube.com/watch?v=cXw3V56Yr0Y"
         },
         {
-          "title": "White House Rules Out Strategic Petroleum Reserve Tap",
-          "summary": "National Economic Director Kevin Hassett stated the White House has no plans to tap the Strategic Petroleum Reserve to address rising oil prices, despite energy market pressures from geopolitical tensions.",
-          "source": "Bloomberg Television",
-          "url": "https://www.youtube.com/watch?v=dlmhjjZW-kI"
+          "title": "Stocks Under Pressure from Weak Jobs and Rising Energy Costs",
+          "summary": "Major stock indices face downside risks and elevated volatility due to combined weaker economic momentum, surging oil prices, and higher interest rates amid inflation fears.",
+          "source": "askSlim Market Signals",
+          "url": "https://www.youtube.com/watch?v=cXw3V56Yr0Y"
+        },
+        {
+          "title": "Markets Cautious on S&P 500 Amid Inflation Spike and Weak Jobs",
+          "summary": "The S&P 500 hovers at the low end of its multi-month range with neutral-to-bearish fundamentals driven by rising inflation projections up to 2.9% from elevated oil prices.",
+          "source": "Stock Market Crash 2026",
+          "url": "https://www.youtube.com/watch?v=jMZms9ruBB4"
+        },
+        {
+          "title": "Markets Can Handle Temporary Oil Spike But Not Prolonged Rise",
+          "summary": "Experts note that while markets may absorb a short-term oil price surge from global tensions, a sustained increase could pressure equities significantly.",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/video/6390511342112"
         }
       ],
       "citations": [
         "https://www.youtube.com/watch?v=cXw3V56Yr0Y",
-        "https://www.youtube.com/watch?v=ABLbr_AnUFc",
-        "https://www.youtube.com/watch?v=dlmhjjZW-kI"
+        "https://www.youtube.com/watch?v=jMZms9ruBB4",
+        "https://www.foxbusiness.com/video/6390511342112",
+        "https://www.foxbusiness.com/video/6390520580112"
       ]
     },
     "crypto_news": {
@@ -306,40 +313,47 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Rep. Al Green Accuses Trump Family of $1B Crypto Pump-and-Dump Scam",
-          "summary": "Rep. Al Green alleges President Trump and family ran a massive crypto grift with $TRUMP and $MELANIA meme coins, pocketing over $1 billion in profits as tokens crashed 90-99% from peaks above $13 to cents, leaving small investors with losses.",
+          "title": "Rep. Al Green Accuses Trump Family of $1B Crypto Scam",
+          "summary": "Representative Al Green alleges President Trump and his family orchestrated a large-scale pump and dump scheme involving Trump-branded meme coins ($TRUMP and $MELANIA), which rocketed from pennies to over $13 before crashing to cents, with the Trump family reportedly pocketing over $1 billion in pretax profits while retail investors lost 90-99% of their value.",
           "source": "Hook Global",
           "url": "https://www.youtube.com/watch?v=drBCgbhhZS0"
         },
         {
-          "title": "Trump Slams Banks for Stalling Crypto's CLARITY Act",
-          "summary": "President Trump criticizes banks for blocking the landmark CLARITY Act, a key crypto regulation bill that has hit a new impasse, as discussed by Blockchain.com CEO Peter Smith amid ongoing digital asset volatility.",
+          "title": "Trump Administration Criticizes Banks for Stalling Crypto CLARITY Act",
+          "summary": "President Trump slammed banks for obstructing the CLARITY Act, a landmark cryptocurrency regulation bill that has hit a new impasse in Congress.",
           "source": "Fox Business",
           "url": "https://www.foxbusiness.com/video/6390485927112"
         },
         {
-          "title": "Iran Uses Bitcoin Mining and Crypto Exchanges to Bypass Sanctions and Fund Military",
-          "summary": "Iran's crypto market reached $7.78 billion in 2025, with IRGC-linked wallets handling over half of inflows; post-air strikes on Feb 28-Mar 2, exchanges like Nobitex saw 873% surge in outflows totaling $10.3 million, aiding sanction evasion.",
-          "source": "YouTube (Crypto News Channel)",
-          "url": "https://www.youtube.com/watch?v=cl36uhe8eLs"
+          "title": "Bitcoin Price Analysis: Key Support and Resistance Levels Identified",
+          "summary": "Technical analysis shows Bitcoin trading between 65.5K-66K support with strong resistance at 69K-69.5K, while Ethereum and Solana face overbought signals suggesting potential short-term pullbacks.",
+          "source": "Crypto World",
+          "url": "https://www.youtube.com/watch?v=ydehcU1COIw"
         },
         {
-          "title": "Bitcoin Faces Short-Term Bearish Signals with Key Support at 62.5K-66K",
-          "summary": "Bitcoin shows bearish signals rejecting resistance, with support levels at 62.5K-63K and 65.5K-66K, and resistance at 69K-69.5K; Ethereum and Solana also rejecting highs amid overbought conditions.",
-          "source": "YouTube (Bitcoin News Today)",
-          "url": "https://www.youtube.com/watch?v=ydehcU1COIw"
+          "title": "Solana Elliott Wave Analysis Points to Potential $360 Target",
+          "summary": "Cryptocurrency analysts using Elliott Wave Theory suggest Solana may be positioned for a major rally, with analysis exploring whether the next leg toward $360 is already underway or if another pullback is expected first.",
+          "source": "MCO Global",
+          "url": "https://www.youtube.com/watch?v=D5M6LGMxk4E"
+        },
+        {
+          "title": "Arthur Hayes on US-Iran Conflict Impact on Bitcoin and Markets",
+          "summary": "Cointelegraph interview with crypto analyst Arthur Hayes discusses how geopolitical tensions and potential war spending could affect Bitcoin's outlook, with analysis of why Bitcoin has held up during the crisis.",
+          "source": "Cointelegraph",
+          "url": "https://www.youtube.com/watch?v=taV0gxDljIA"
         }
       ],
       "citations": [
         "https://www.youtube.com/watch?v=ydehcU1COIw",
-        "https://www.youtube.com/watch?v=cl36uhe8eLs",
+        "https://www.youtube.com/watch?v=D5M6LGMxk4E",
         "https://www.youtube.com/watch?v=drBCgbhhZS0",
-        "https://www.youtube.com/watch?v=qHXpz_ToUNw",
+        "https://www.youtube.com/watch?v=taV0gxDljIA",
         "https://www.foxbusiness.com/video/6390485927112",
-        "https://www.foxnews.com/video/6390503866112"
+        "https://www.foxnews.com/video/6390503866112",
+        "https://www.whitehouse.gov/videos/justice-the-american-way/"
       ]
     },
     "ai_news": {
@@ -347,65 +361,46 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 5,
       "items": [
         {
-          "title": "Google's Aletheia Agent Solves Stubborn Math Problems Using Gemini 3 Deep Think",
-          "summary": "Google's agentic system demonstrated strength in mathematical research, finding original mathematics solutions by leveraging Gemini 3 Deep Think technology, building on LLMs' gold-medal performance in math competitions.",
-          "source": "The Batch",
-          "url": "https://www.deeplearning.ai/the-batch/tag/mar-06-2026/"
+          "title": "OpenAI Announces GPT 5.4 and GPT 5.4 Pro with Major Productivity Gains",
+          "summary": "OpenAI launched GPT 5.4 and GPT 5.4 Pro, achieving 87.3% on spreadsheet modeling benchmarks, up from 68.4% for GPT 5.2, alongside a ChatGPT for Excel beta add-in boosting financial modeling accuracy to 87.3%. The models feature a 4 million token context for enterprise productivity.",
+          "source": "Let's Data Science — AI News Daily (YouTube)",
+          "url": "https://www.youtube.com/watch?v=rJEy_xMO-Ko"
         },
         {
-          "title": "OpenAI Launches Frontier Agent Management Platform",
-          "summary": "OpenAI released an insights and orchestration platform for managing AI agents, designed to help managers understand how their AI subordinates accomplish work and allocate resources.",
-          "source": "The Batch",
-          "url": "https://www.deeplearning.ai/the-batch/tag/mar-06-2026/"
+          "title": "OpenAI Secures $110 Billion Funding Round Valuing Company at $730 Billion",
+          "summary": "OpenAI raised $110 billion in funding, with Amazon investing $50 billion and gaining exclusivity, signaling massive capital influx into AI amid structured finance expansions.",
+          "source": "Let's Data Science — AI News Daily (YouTube)",
+          "url": "https://www.youtube.com/watch?v=rJEy_xMO-Ko"
         },
         {
-          "title": "U.S. Department of War Replaces Anthropic's Claude with OpenAI GPT Models",
-          "summary": "The U.S. military signed a contract with OpenAI to provide AI systems for processing classified information, displacing Anthropic's Claude after Secretary of War Pete Hegseth cited security concerns.",
-          "source": "The Batch",
-          "url": "https://www.deeplearning.ai/the-batch/tag/mar-06-2026/"
+          "title": "MWC 2026 Proves AI-Native Networks Are Infrastructure Reality",
+          "summary": "MWC 2026 featured live field trials, a 12-operator 6G coalition, and commercial hardware, confirming AI-native networks as a current reality beyond future promises.",
+          "source": "Artificial Intelligence News",
+          "url": "https://www.artificialintelligence-news.com"
         },
         {
-          "title": "Google Launches Nano Banana 2 Image Generator at Half the Price",
-          "summary": "Google released Gemini 3.1 Flash Image, a faster and cheaper successor to its flagship image generator offering greater interactivity at approximately half the cost.",
-          "source": "The Batch",
-          "url": "https://www.deeplearning.ai/the-batch/tag/mar-06-2026/"
-        },
-        {
-          "title": "Naval Applications of Machine Learning Workshop Convenes Nearly 800 Experts",
-          "summary": "The 10th annual NAML 2026 workshop in San Diego brought together nearly 800 experts to advance machine learning for warfighter capability, focusing on autonomous systems, robotic systems, and AI integration in naval operations.",
-          "source": "U.S. Navy",
-          "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4424971/niwc-pacific-afcea-international-san-diego-host-naml-2026-to-advance-machine-le/"
-        },
-        {
-          "title": "Trump Administration Reportedly Planning Stricter AI Chip Export Controls",
-          "summary": "The Department of Commerce is drafting rules requiring chipmakers like Nvidia and AMD to obtain government approval before exporting AI chips on a country-by-country basis, tightening control over AI compute supply.",
+          "title": "AI Cited in 4,680 US Job Cuts in February 2026, But Analysts Downplay Overall Impact",
+          "summary": "US shed 92,000 jobs in February amid 4.4% unemployment; AI was reason for 10% of cuts that month and 8% year-to-date, though analysts attribute broader trends to other factors like strikes.",
           "source": "The Register",
-          "url": "https://www.theregister.com/2026/03/06/us_ai_chips_restrictions/"
+          "url": "https://www.theregister.com/2026/03/06/dont_blame_ai_for_unemployment_yet/"
         },
         {
-          "title": "Physical AI Dominates Industry Conversation at MWC 2026",
-          "summary": "Physical AI emerged as the defining tech conversation of 2026 at Mobile World Congress, with live field trials and commercial hardware confirming AI-native networks as infrastructure reality.",
-          "source": "Artificial Intelligence News",
-          "url": "https://www.artificialintelligence-news.com"
-        },
-        {
-          "title": "Google Brings Intrinsic In-House to Accelerate Industrial Robotics AI",
-          "summary": "Google officially integrated Intrinsic, signaling a serious enterprise robotics shift and commitment to advancing physical AI in manufacturing.",
-          "source": "Artificial Intelligence News",
-          "url": "https://www.artificialintelligence-news.com"
+          "title": "Machine Learning Predicts Bitcoin Price Recovery to $74,671 by March 31",
+          "summary": "A ML algorithm using ChatGPT, Grok, and Gemini forecasts Bitcoin rebounding 6.82% to $74,671 despite recent 5% drop below $67,000 due to outflows and tensions.",
+          "source": "Finbold",
+          "url": "https://finbold.com/machine-learning-algorithm-predicts-bitcoin-price-for-march-31-2026/"
         }
       ],
       "citations": [
-        "https://www.deeplearning.ai/the-batch/tag/mar-06-2026/",
         "https://www.artificialintelligence-news.com",
-        "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4424971/niwc-pacific-afcea-international-san-diego-host-naml-2026-to-advance-machine-le/",
-        "https://www.theregister.com/2026/03/06/us_ai_chips_restrictions/",
-        "https://www.aol.com/articles/data-doesnt-lie-heres-ai-180000773.html",
-        "https://www.lightreading.com/ai-machine-learning/cursed-robot-stalked-mwc-goes-mad-for-ai-but-isn-t-sure-about-6g",
-        "https://economictimes.com/news/defence/the-new-kill-chain-america-is-using-ai-to-bomb-targets-in-iran/articleshow/129164567.cms"
+        "https://www.youtube.com/watch?v=rJEy_xMO-Ko",
+        "https://finbold.com/machine-learning-algorithm-predicts-bitcoin-price-for-march-31-2026/",
+        "https://www.theregister.com/2026/03/06/dont_blame_ai_for_unemployment_yet/",
+        "https://www.businessinsider.com/ai-disrupting-tech-industry-career-pivot-google-2026-3",
+        "https://www.aol.com/articles/data-doesnt-lie-heres-ai-180000773.html"
       ]
     },
     "gaming": {
@@ -413,34 +408,64 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 8,
       "items": [
         {
-          "title": "Xsolla Launches Reseller Program for Game Developers",
-          "summary": "Xsolla announced a new Reseller Program on March 7, 2026, to help game developers unlock revenue in local markets like Southeast Asia and Latin America without building infrastructure. The program partners with official distributors and resellers globally.",
-          "source": "ANTARA News",
-          "url": "https://en.antaranews.com/news/407355/xsolla-announces-reseller-program-to-help-game-developers-unlock-new-revenue-streams-in-local-markets"
+          "title": "Microsoft Announces Next-Gen Console Project Helix",
+          "summary": "Microsoft officially revealed Project Helix, promising the largest technical jump in console history with a flexible ecosystem for native PC and Xbox games. The announcement highlights advanced features for cross-platform play.",
+          "source": "ENFANT TERRIBLE (YouTube)",
+          "url": "https://www.youtube.com/watch?v=sFWg7nX3yJw"
         },
         {
-          "title": "Microsoft Teases Next-Gen Xbox 'Project Helix'",
-          "summary": "Microsoft unveiled 'Project Helix,' its next-generation Xbox console, hinting at a fusion of console and PC gaming power. New Xbox CEO Asha Sharma revealed details on the project.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.com/us/science-tech/xbox-next-gen-console-project-helix-teased-by-microsoft-hints-at-pc-style-gaming-power/amp_articleshow/129143073.cms"
+          "title": "Ubisoft Confirms Assassin's Creed IV: Black Flag Remake - Black Flag Resynced",
+          "summary": "Ubisoft announced development of Assassin's Creed IV: Black Flag remake titled Black Flag Resynced, alongside a 60 FPS update for Assassin's Creed Unity on current-gen consoles.",
+          "source": "ENFANT TERRIBLE (YouTube)",
+          "url": "https://www.youtube.com/watch?v=sFWg7nX3yJw"
         },
         {
-          "title": "The Last Ninja Collection Released on Nintendo Switch",
-          "summary": "The Last Ninja series, bringing retro computer magic, is now available on the Nintendo Switch.",
-          "source": "Twin Galaxies",
-          "url": "https://www.twingalaxies.com/newsDetails/6671"
+          "title": "Multiple New Game Reveals Including Monster Hunter Stories 3 and Mixtape",
+          "summary": "March 2026 reveals feature Monster Hunter Stories 3 releasing March 13 on PS5, Xbox, and PC; Mixtape on May 7 for PS5, Xbox, Switch 2, and PC; plus titles like Onimusha Way of the Sword and Phantom Lamb for 2026.",
+          "source": "ENFANT TERRIBLE (YouTube)",
+          "url": "https://www.youtube.com/watch?v=sFWg7nX3yJw"
+        },
+        {
+          "title": "Resident Evil Requiem Tops Early 2026 Releases with 89 Metacritic Score",
+          "summary": "Capcom's Resident Evil Requiem earns critical acclaim for blending horror and action, praised for atmosphere and RE Engine visuals, marking a strong start to 2026 releases.",
+          "source": "The National News",
+          "url": "https://www.thenationalnews.com/arts-culture/2026/03/07/best-video-game-releases-of-2026/"
+        },
+        {
+          "title": "Nintendo Sues for Refunds on Trump Tariffs Impacting Switch 2",
+          "summary": "Nintendo filed a lawsuit seeking refunds with interest on tariffs paid under Trump, which led to pausing Switch 2 pre-orders; the tariffs affected imports from Asia and were recently invalidated.",
+          "source": "Global News",
+          "url": "https://globalnews.ca/news/11719608/nintendo-donald-trump-tariffs-refund-lawsuit/"
+        },
+        {
+          "title": "Slay the Spire 2 Tops Steam Sales, No Microtransactions Promised",
+          "summary": "Slay the Spire 2 surpassed Marathon as Steam's top-selling title, with developers confirming no microtransactions in the game.",
+          "source": "Game8",
+          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-1-to-mar-7"
+        },
+        {
+          "title": "Crimson Desert Marketing Director Addresses Console Performance Concerns",
+          "summary": "Pearl Abyss' marketing director responded to accusations of withholding console footage for Crimson Desert, promising transparency while criticizing demands for info as entitlement.",
+          "source": "Game8",
+          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-1-to-mar-7"
+        },
+        {
+          "title": "Resident Evil Requiem Faces Heavy Censorship Criticism in Japan",
+          "summary": "Resident Evil Requiem (RE9) has disappointed Japanese fans due to heavy censorship, amid its overall critical success.",
+          "source": "Game8",
+          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-1-to-mar-7"
         }
       ],
       "citations": [
-        "https://www.mensjournal.com/entertainment/14-years-ago-capcom-released-one-of-its-most-controversial-games-ever",
+        "https://www.youtube.com/watch?v=sFWg7nX3yJw",
+        "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-1-to-mar-7",
         "https://www.thenationalnews.com/arts-culture/2026/03/07/best-video-game-releases-of-2026/",
-        "https://economictimes.com/us/science-tech/xbox-next-gen-console-project-helix-teased-by-microsoft-hints-at-pc-style-gaming-power/amp_articleshow/129143073.cms",
-        "https://en.antaranews.com/news/407355/xsolla-announces-reseller-program-to-help-game-developers-unlock-new-revenue-streams-in-local-markets",
-        "https://tech.einnews.com/pr_news/897546553/the-in-game-advertising-market-is-projected-to-grow-to-20-7-billion-by-2030-expanding-at-a-cagr-of-13-5",
-        "https://www.twingalaxies.com/newsDetails/6671"
+        "https://www.mensjournal.com/entertainment/14-years-ago-capcom-released-one-of-its-most-controversial-games-ever",
+        "https://gamefaqs.gamespot.com/news?id=220337",
+        "https://globalnews.ca/news/11719608/nintendo-donald-trump-tariffs-refund-lawsuit/"
       ]
     },
     "tech_news": {
@@ -448,33 +473,38 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Honor Launches 'Robot Phone' Wearable Device",
-          "summary": "Honor has introduced a new 'robot phone' designed as a wearable that interacts with users, dances, and serves as a companion device. The tech aims to blend smartphone functionality with pet-like interactivity for personal use.",
+          "title": "Canada and Japan Sign Strategic Partnership on Semiconductors and Advanced Technology",
+          "summary": "Prime Minister Mark Carney announced a comprehensive strategic partnership with Japan's Prime Minister Sanae Takaichi, strengthening cooperation in semiconductors, critical minerals, liquefied natural gas, and emerging clean energy technologies.",
+          "source": "Canada Today",
+          "url": "https://www.youtube.com/watch?v=cgXym27F0Ro"
+        },
+        {
+          "title": "Europe Enters Era of Mega-Constellations with Amazon Leo Satellites",
+          "summary": "Europe is advancing its satellite infrastructure capabilities with the Ariane 64 rocket supporting Amazon's Leo mega-constellation deployment.",
           "source": "Euronews",
           "url": "https://www.euronews.com/video/2026/03/06/latest-news-bulletin-march-6th-2026-evening"
         },
         {
-          "title": "Pet Wearable Enables Animals to Call Owners",
-          "summary": "A new wearable device for pets allows animals to contact their owners when needing attention, functioning like a smartphone for pets. This innovation targets pet owners seeking better communication with their animals.",
+          "title": "Honor Launches 'Robot Phone' with AI Integration",
+          "summary": "Honor introduced a new smartphone device designed to function as an AI companion with interactive features.",
           "source": "Euronews",
           "url": "https://www.euronews.com/video/2026/03/06/latest-news-bulletin-march-6th-2026-evening"
         },
         {
-          "title": "Ariane 64 Rocket Launches Amazon Leo Satellites",
-          "summary": "Europe's Ariane 64 rocket has debuted, marking entry into the mega-constellation era with the launch of Amazon's Leo satellites. This development advances European space launch capabilities for large satellite networks.",
+          "title": "New Wearable Device Allows Pets to Call Owners",
+          "summary": "A new wearable technology enables pets to contact their owners when they need attention.",
           "source": "Euronews",
           "url": "https://www.euronews.com/video/2026/03/06/latest-news-bulletin-march-6th-2026-evening"
         }
       ],
       "citations": [
-        "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
         "https://www.euronews.com/video/2026/03/06/latest-news-bulletin-march-6th-2026-evening",
-        "https://www.youtube.com/watch?v=plGtuLi8PC0",
-        "https://www.youtube.com/watch?v=iKCHhHMBZmI",
-        "https://toronto.citynews.ca/2026/03/06/extortion-rates-climbing-in-canada-as-police-face-barriers-when-solving-these-crimes/"
+        "https://www.youtube.com/watch?v=cgXym27F0Ro",
+        "https://www.youtube.com/watch?v=QPgovp0rzIc",
+        "https://www.foxbusiness.com/video/6390499874112"
       ]
     }
   }
