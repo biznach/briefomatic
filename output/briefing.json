@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T18:07:00.376255+00:00",
-  "generated_at_human": "2026-03-07 18:07 UTC",
+  "generated_at": "2026-03-08T00:24:53.988839+00:00",
+  "generated_at_human": "2026-03-08 00:24 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,118 @@
       "count": 25,
       "items": [
         {
-          "title": "A Decade of Docker Containers",
-          "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-          "score": 57,
-          "comments": 33
+          "title": "Put the zip code first",
+          "url": "https://zipcodefirst.com",
+          "score": 140,
+          "comments": 110
         },
         {
-          "title": "The Millisecond That Could Change Cancer Treatment",
-          "url": "https://spectrum.ieee.org/flash-radiotherapy",
-          "score": 64,
-          "comments": 12
+          "title": "CasNum",
+          "url": "https://github.com/0x0mer/CasNum",
+          "score": 151,
+          "comments": 21
         },
         {
-          "title": "Show HN: Argus – VSCode debugger for Claude Code sessions",
-          "url": "https://github.com/yessGlory17/argus",
-          "score": 40,
+          "title": "LLM Writing Tropes.md",
+          "url": "https://tropes.fyi/tropes-md",
+          "score": 63,
           "comments": 19
+        },
+        {
+          "title": "A decade of Docker containers",
+          "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+          "score": 216,
+          "comments": 156
+        },
+        {
+          "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+          "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+          "score": 133,
+          "comments": 8
+        },
+        {
+          "title": "Effort to prevent government officials from engaging in prediction markets",
+          "url": "https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/",
+          "score": 180,
+          "comments": 66
         },
         {
           "title": "Ki Editor - an editor that operates on the AST",
           "url": "https://ki-editor.org/",
-          "score": 265,
-          "comments": 83
+          "score": 352,
+          "comments": 129
+        },
+        {
+          "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
+          "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
+          "score": 53,
+          "comments": 3
+        },
+        {
+          "title": "Package managers need to cool down",
+          "url": "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html",
+          "score": 35,
+          "comments": 26
+        },
+        {
+          "title": "The Day NY Publishing Lost Its Soul",
+          "url": "https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul",
+          "score": 29,
+          "comments": 19
+        },
+        {
+          "title": "FLASH radiotherapy's bold approach to cancer treatment",
+          "url": "https://spectrum.ieee.org/flash-radiotherapy",
+          "score": 178,
+          "comments": 54
+        },
+        {
+          "title": "macOS code injection for fun and no profit (2024)",
+          "url": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/",
+          "score": 59,
+          "comments": 10
+        },
+        {
+          "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+          "url": "https://github.com/karpathy/autoresearch",
+          "score": 25,
+          "comments": 3
+        },
+        {
+          "title": "The influence of anxiety: Harold Bloom and literary inheritance",
+          "url": "https://thepointmag.com/examined-life/the-influence-of-anxiety/",
+          "score": 6,
+          "comments": 0
+        },
+        {
+          "title": "How important was the Battle of Hastings?",
+          "url": "https://www.historytoday.com/archive/head-head/how-important-was-battle-hastings",
+          "score": 4,
+          "comments": 2
+        },
+        {
+          "title": "Why developers using AI are working longer hours",
+          "url": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
+          "score": 23,
+          "comments": 9
+        },
+        {
+          "title": "Caitlin Kalinowski: I resigned from OpenAI",
+          "url": "https://twitter.com/kalinowski007/status/2030320074121478618",
+          "score": 29,
+          "comments": 12
+        },
+        {
+          "title": "The surprising whimsy of the Time Zone Database",
+          "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
+          "score": 29,
+          "comments": 1
         },
         {
           "title": "Compiling Prolog to Forth [pdf]",
           "url": "https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf",
-          "score": 38,
-          "comments": 2
-        },
-        {
-          "title": "Re-creating the complex cuisine of prehistoric Europeans",
-          "url": "https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/",
-          "score": 19,
-          "comments": 0
-        },
-        {
-          "title": "The yoghurt delivery women combatting loneliness in Japan",
-          "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
-          "score": 102,
-          "comments": 69
+          "score": 93,
+          "comments": 9
         },
         {
           "title": "SigNoz (YC W21, open source Datadog) Is Hiring across roles",
@@ -56,106 +128,34 @@
           "comments": 0
         },
         {
-          "title": "Show HN: ANSI-Saver – A macOS Screensaver",
-          "url": "https://github.com/lardissone/ansi-saver",
-          "score": 50,
-          "comments": 18
+          "title": "Re-creating the complex cuisine of prehistoric Europeans",
+          "url": "https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/",
+          "score": 61,
+          "comments": 23
         },
         {
-          "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
-          "url": "https://plasma-bigscreen.org",
-          "score": 580,
-          "comments": 181
+          "title": "Lisp-style C++ template meta programming",
+          "url": "https://github.com/mistivia/lmp",
+          "score": 6,
+          "comments": 0
         },
         {
-          "title": "PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon",
-          "url": "https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose",
-          "score": 102,
-          "comments": 68
+          "title": "Trampolining Nix with GenericClosure",
+          "url": "https://blog.kleisli.io/post/trampolining-nix-with-generic-closure",
+          "score": 6,
+          "comments": 1
         },
         {
-          "title": "Filesystems Are Having a Moment",
-          "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
-          "score": 73,
-          "comments": 33
+          "title": "Ask HN: Would you use a job board where every listing is verified?",
+          "url": "https://news.ycombinator.com/item?id=47291699",
+          "score": 20,
+          "comments": 38
         },
         {
-          "title": "Self-Portrait by Ernst Mach (1886)",
-          "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
-          "score": 48,
-          "comments": 8
-        },
-        {
-          "title": "UUID package coming to Go standard library",
-          "url": "https://github.com/golang/go/issues/62026",
-          "score": 305,
-          "comments": 192
-        },
-        {
-          "title": "Bourdieu's theory of taste: a grumbling abrégé",
-          "url": "https://dynomight.net/bourdieu/",
-          "score": 7,
-          "comments": 2
-        },
-        {
-          "title": "Verification debt: the hidden cost of AI-generated code",
-          "url": "https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981",
-          "score": 14,
-          "comments": 6
-        },
-        {
-          "title": "this css proves me human",
-          "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
-          "score": 329,
-          "comments": 100
-        },
-        {
-          "title": "48x32, a 1536 LED Game Computer (2023)",
-          "url": "https://jacquesmattheij.com/48x32-introduction/",
-          "score": 49,
-          "comments": 11
-        },
-        {
-          "title": "Tinnitus Is Connected to Sleep",
-          "url": "https://www.sciencealert.com/tinnitus-is-somehow-connected-to-a-crucial-bodily-function",
-          "score": 85,
-          "comments": 92
-        },
-        {
-          "title": "Helix: A post-modern text editor",
-          "url": "https://helix-editor.com/",
-          "score": 267,
-          "comments": 124
-        },
-        {
-          "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
-          "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
-          "score": 277,
-          "comments": 158
-        },
-        {
-          "title": "Show HN: µJS, a 5KB alternative to Htmx and Turbo with zero dependencies",
-          "url": "https://mujs.org",
-          "score": 41,
-          "comments": 13
-        },
-        {
-          "title": "Seurat Most Famous for Paris Park Painting Yet Half His Paintings Were Seascapes",
-          "url": "https://www.smithsonianmag.com/smart-news/georges-seurat-is-most-famous-for-his-pointillist-painting-of-a-paris-park-but-more-than-half-of-his-canvases-were-stunning-seascapes-180988245/",
-          "score": 12,
-          "comments": 3
-        },
-        {
-          "title": "Galileo's handwritten notes found in ancient astronomy text",
-          "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
-          "score": 192,
-          "comments": 34
-        },
-        {
-          "title": "Working and Communicating with Japanese Engineers",
-          "url": "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers",
-          "score": 98,
-          "comments": 53
+          "title": "The yoghurt delivery women combatting loneliness in Japan",
+          "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+          "score": 189,
+          "comments": 120
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 67608,
-          "change_24h": -0.88,
-          "change_7d": 3.84,
-          "market_cap": 1355654085216
+          "price": 67392,
+          "change_24h": -1.22,
+          "change_7d": 0.59,
+          "market_cap": 1347871141730
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1969.95,
-          "change_24h": -0.25,
-          "change_7d": 3.32,
-          "market_cap": 238645684382
+          "price": 1971.82,
+          "change_24h": -0.47,
+          "change_7d": 0.36,
+          "market_cap": 237991745950
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 83.48,
-          "change_24h": -1.19,
-          "change_7d": 2.99,
-          "market_cap": 47787656329
+          "price": 83.34,
+          "change_24h": -1.75,
+          "change_7d": -1.25,
+          "market_cap": 47565857873
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.09007,
-          "change_24h": -0.52,
-          "change_7d": -0.92,
-          "market_cap": 13878643566
+          "price": 0.090019,
+          "change_24h": -1.5,
+          "change_7d": -4.29,
+          "market_cap": 13801152063
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.255861,
-          "change_24h": -0.81,
-          "change_7d": -4.67,
-          "market_cap": 9468017651
+          "price": 0.254466,
+          "change_24h": -1.9,
+          "change_7d": -9.48,
+          "market_cap": 9377107090
         }
       ]
     },
@@ -217,9 +217,24 @@
           "market_cap_rank": 1
         },
         {
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 40
+        },
+        {
           "name": "Akash Network",
           "symbol": "AKT",
-          "market_cap_rank": 244
+          "market_cap_rank": 250
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 48
         },
         {
           "name": "Pudgy Penguins",
@@ -227,14 +242,14 @@
           "market_cap_rank": 108
         },
         {
-          "name": "Power Protocol",
-          "symbol": "POWER",
-          "market_cap_rank": 725
+          "name": "WAR",
+          "symbol": "WAR",
+          "market_cap_rank": 532
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 45
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 146
         },
         {
           "name": "Hyperliquid",
@@ -242,24 +257,9 @@
           "market_cap_rank": 16
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Immutable",
-          "symbol": "IMX",
-          "market_cap_rank": 220
-        },
-        {
-          "name": "Plume",
-          "symbol": "PLUME",
-          "market_cap_rank": 392
-        },
-        {
-          "name": "Canton",
-          "symbol": "CC",
-          "market_cap_rank": 20
+          "name": "Chainlink",
+          "symbol": "LINK",
+          "market_cap_rank": 18
         }
       ]
     },
@@ -268,44 +268,53 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Major US Stock Indexes Record Weekly Declines Amid Sell Signals",
-          "summary": "The Dow Jones fell 3% (1,476 points), S&P 500 dropped 2.02% (139 points), Nasdaq declined 1.27% (317 points), and Russell 2000 sank 2.33% for the week ending March 6, 2026, with all major indexes breaking key trend lines.",
-          "source": "YouTube - The 11th Hour With Stephanie Ruhle / askSlim Market Week",
-          "url": "https://www.youtube.com/watch?v=L6Pzu0sCsFc"
+          "title": "US Stock Market Faces Significant Volatility with Major Index Declines",
+          "summary": "The S&P 500 fell 1.33% to 6,740.00, the Dow Jones dropped 0.95% to 47,501.55, and the Nasdaq Composite declined 1.59%, reflecting broad market weakness with 296 decliners against 195 gainers on the S&P 500.",
+          "source": "Economic Times / Market Data",
+          "url": "https://economictimes.com/news/international/us/"
         },
         {
-          "title": "Oil Prices Surge 35% Sparking Fears of Potential Black Monday Crash",
-          "summary": "Oil prices have surged 35%, raising concerns of a Black Monday stock market crash similar to historical events, as markets show all sell signals and indexes like Dow, S&P, and Nasdaq face rejection at moving averages.",
-          "source": "YouTube - Do We See a Black Monday CRASH Next?",
-          "url": "https://www.youtube.com/watch?v=L6Pzu0sCsFc"
+          "title": "Volatility Index Spikes as Market Turmoil Triggers Trading Signals",
+          "summary": "The VIX rose to just above 28 during market turmoil on March 3 before declining, generating a new 'spike peak' buy signal for traders. The VIX stood at 29.49 as of March 6, up 24.17% from the previous period.",
+          "source": "MarketWatch / YCharts",
+          "url": "https://www.morningstar.com/news/marketwatch/"
         },
         {
-          "title": "Markets Can Handle Temporary Oil Spike But Not Prolonged Rise",
-          "summary": "Crossmark Global Investments CEO Bob Doll states that financial markets can absorb a short-term oil price spike but warn of risks if it becomes prolonged amid global tensions.",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/video/6390511342112"
+          "title": "Energy Sector Reaches All-Time High Amid Oil Price Surge",
+          "summary": "The Energy sector achieved an all-time high with Marathon Petroleum and Valero Energy reaching new highs. Brent crude futures surged 9.94% to $92.69, reflecting strong momentum in the energy complex.",
+          "source": "YouTube Market Analysis",
+          "url": "https://www.youtube.com/watch?v=fPCfOCUKQUE"
         },
         {
-          "title": "Serious Global Events Sometimes Fail to Impact Stock Markets",
-          "summary": "Barron’s Roundtable panelist Jack Hough notes that even deadly serious world events do not always affect market performance, urging investors to keep key factors in mind.",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/video/6390520580112"
+          "title": "Basic Materials Sector Leads Declines with 7.1% Loss",
+          "summary": "Basic Materials emerged as the worst-performing sector with a 7.1% decline, while Consumer Defensive also faced significant losses during the volatile trading period.",
+          "source": "YouTube Market Analysis",
+          "url": "https://www.youtube.com/watch?v=fPCfOCUKQUE"
         },
         {
-          "title": "Microsoft Faces Bearish Earnings Reaction in Weakening Tech Sector",
-          "summary": "Microsoft experienced a bearish post-earnings move, holding at support amid broader tech declines, with Nasdaq 100 rejected at the 20-week moving average and S&P 500 getting 'smoked'.",
-          "source": "YouTube - askSlim Market Week",
-          "url": "https://www.youtube.com/watch?v=8myABkue7KA"
+          "title": "European and Asian Markets Show Mixed Performance",
+          "summary": "European indices declined broadly, with the FTSE 100 down 1.27%, DAX down 0.94%, and CAC 40 down 0.65%. Asian markets showed resilience with the Hang Seng up 1.72% and Nikkei 225 up 0.62%.",
+          "source": "Business Insider Markets",
+          "url": "https://markets.businessinsider.com/premarket"
+        },
+        {
+          "title": "Major Tech and Retail Companies Set for High-Stakes Earnings",
+          "summary": "Multiple companies including Oracle (ORCL), Adobe (ADBE), and Ulta Beauty (ULTA) are scheduled for earnings announcements between March 10-12, with expected volatility ranging from 6.34% to 11.74%.",
+          "source": "MarketWatch",
+          "url": "https://www.morningstar.com/news/marketwatch/20260307201/"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=L6Pzu0sCsFc",
-        "https://www.youtube.com/watch?v=8myABkue7KA",
-        "https://www.foxbusiness.com/video/6390511342112",
-        "https://www.foxbusiness.com/video/6390520580112"
+        "https://www.youtube.com/watch?v=fPCfOCUKQUE",
+        "https://ycharts.com/indicators/categories/market_indices_and_statistics",
+        "https://markets.businessinsider.com/premarket",
+        "https://www.morningstar.com/news/marketwatch/20260307201/these-stocks-are-set-for-high-stakes-earnings-moves-heres-your-trading-playbook",
+        "https://economictimes.com/news/international/us/will-us-stock-market-head-for-big-crash-on-monday-and-will-dow-jones-sp-500-and-nasdaq-stay-in-red-or-finally-turn-green-us-stock-market-prediction-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/articleshow/129210732.cms",
+        "https://ca.investing.com/indices/us-30-historical-data",
+        "https://www.conference-board.org/topics/consumer-confidence/"
       ]
     },
     "crypto_news": {
@@ -313,41 +322,47 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Bitcoin Trades Above $70,000 Amid Middle East Tensions and Inflation Concerns",
-          "summary": "Bitcoin traded just above $70,000 as Middle East tensions drove oil higher and traders reassessed inflation ahead of the U.S. jobs report. Technical analysts noted support levels around $62.5K-$63K and resistance at $69K-$69.5K.",
-          "source": "Paul Barron Network",
-          "url": "https://www.youtube.com/watch?v=fZmoM9k4GLg"
+          "title": "Crypto Market Slides as BTC and ETH Lead Broad Decline",
+          "summary": "Bitcoin and Ethereum prices declined, with BTC at $67,309 (-0.84%) and ETH at $1,963 (-0.90%), amid a broad market slide. A major unlock of 888.80 million STABLE tokens (~$29.4M) is scheduled for March 8, potentially pressuring prices.",
+          "source": "Phemex",
+          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-crypto-market-slides-as-btc-eth-lead-broad-decline-major-token-unlock-looms-mar-07-64913"
         },
         {
-          "title": "Fed, OCC & FDIC Approve Equal Capital Treatment for Tokenized Securities",
-          "summary": "A joint statement from the Federal Reserve, OCC, and FDIC confirmed that tokenized securities receive the same capital treatment as traditional assets, with no extra penalties for banks. This regulatory clarity is expected to enable major financial institutions like JP Morgan and Goldman Sachs to integrate blockchain technology.",
-          "source": "Cryptocurrency News Analysis",
-          "url": "https://www.youtube.com/watch?v=k2Wn2cbeu7c"
+          "title": "Kraken Becomes First Crypto Firm to Gain Direct Fed Access",
+          "summary": "Kraken received approval for a limited-purpose account with the Federal Reserve, allowing direct access to its core payments system without relying on banks. This marks increased regulatory integration for crypto firms.",
+          "source": "Sophic Capital",
+          "url": "https://sophiccapital.com/march-8-2026-lowest-nasdaq-close-of-2026/"
         },
         {
-          "title": "XRP Experiences Significant Exchange Outflows and Whale Accumulation",
-          "summary": "7 billion XRP left exchanges in February, with 3.38 billion from Binance alone, creating a supply vacuum. Whale wallets now hold 83% of XRP supply, with analysts predicting potential price targets of $2.50-$4 by late 2026.",
-          "source": "Cryptocurrency News Analysis",
-          "url": "https://www.youtube.com/watch?v=k2Wn2cbeu7c"
+          "title": "BitGo to Provide Infrastructure for SoFiUSD Stablecoin",
+          "summary": "BitGo announced stablecoin infrastructure support for SoFiUSD, the first U.S. dollar stablecoin issued by a nationally chartered and insured deposit bank on a public blockchain. This signals growing regulatory acceptance and institutional involvement.",
+          "source": "Phemex",
+          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-crypto-market-slides-as-btc-eth-lead-broad-decline-major-token-unlock-looms-mar-07-64913"
         },
         {
-          "title": "Ethereum and Altcoins Show Overbought Signals on 4-Hour Timeframes",
-          "summary": "Ethereum is rejecting from key resistance levels while Solana continues to display overbought signals. Chain Link shows strong support at $7.90-$8.50 and resistance at $9.50-$10, with RSI indicators suggesting potential short-term cooling off.",
-          "source": "Cryptocurrency Technical Analysis",
-          "url": "https://www.youtube.com/watch?v=ydehcU1COIw"
+          "title": "BlackRock Deposits $194M BTC and $24M ETH into Coinbase",
+          "summary": "BlackRock deposited 2,750 BTC (~$194M) and 12,397 ETH (~$24M) into Coinbase, underscoring strong institutional interest in digital assets despite market declines.",
+          "source": "Phemex",
+          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-crypto-market-slides-as-btc-eth-lead-broad-decline-major-token-unlock-looms-mar-07-64913"
+        },
+        {
+          "title": "KITE Token Surges 14.41% to $0.279 Amid AI Blockchain Hype",
+          "summary": "KITE rose 14.41% in 24 hours to $0.279, hitting a $393M market cap with $371.6M trading volume, driven by its AI payment blockchain narrative and recent all-time high.",
+          "source": "Phemex",
+          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-crypto-market-slides-as-btc-eth-lead-broad-decline-major-token-unlock-looms-mar-07-64913"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=I9M9c93gf8E",
-        "https://www.youtube.com/watch?v=ydehcU1COIw",
-        "https://www.youtube.com/watch?v=k2Wn2cbeu7c",
-        "https://www.youtube.com/watch?v=fZmoM9k4GLg",
-        "https://www.youtube.com/watch?v=uyd1mq-d5VQ",
-        "https://www.youtube.com/watch?v=xk-8KPkV0qY",
-        "https://www.youtube.com/watch?v=gIQuFlGtGic"
+        "https://phemex.com/news/article/phemex-crypto-market-daily-crypto-market-slides-as-btc-eth-lead-broad-decline-major-token-unlock-looms-mar-07-64913",
+        "https://sophiccapital.com/march-8-2026-lowest-nasdaq-close-of-2026/",
+        "https://www.mexc.co/news/876360",
+        "https://247wallst.com/investing/2026/03/07/xrp-price-prediction-5-catalysts-that-could-push-xrp-to-3-in-2026/",
+        "https://www.youtube.com/watch?v=UG-7j4WjtEI",
+        "https://www.mexc.com/news/876658",
+        "https://www.koreatimes.co.kr/amp/economy/cryptocurrency/20260308/pushing-for-more-women-in-male-dominated-crypto-industry"
       ]
     },
     "ai_news": {
@@ -355,54 +370,31 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 3,
       "items": [
         {
-          "title": "Scientists Propose Quantum Computers Could Generate Training Data for AI Chemistry Models",
-          "summary": "Researchers from IonQ and Microsoft suggest using quantum computers to generate highly accurate data for training AI models to simulate chemical systems more efficiently, combining quantum precision with AI speed for faster materials and drug discovery.",
-          "source": "The Quantum Insider",
-          "url": "https://thequantuminsider.com/2026/03/07/scientists-propose-using-quantum-computers-could-generate-data-to-train-ai-for-chemistry/"
+          "title": "OpenAI Launches GPT-5.4 with Enhanced Reasoning Capabilities",
+          "summary": "OpenAI released GPT-5.4 on March 6, 2026, marking a pivotal advancement in AI with improved reasoning features. This launch highlights ongoing progress in frontier AI models.",
+          "source": "UniFuncs",
+          "url": "https://unifuncs.com/s/7Xom3dLk"
         },
         {
-          "title": "AI Technology Trends: Emerging Patterns in Machine Learning and Applications",
-          "summary": "Analysis of 548 articles reveals three major clusters: technical AI development (194 articles), AI applications in tech and media (228 articles), and AI solutions for renewable energy (126 articles), with growing focus on ethical AI and human-AI collaboration.",
-          "source": "Ruslan MV News and Trends",
-          "url": "https://ruslanmv.com/news-and-trends/issues/trend-2026-03-07/"
+          "title": "Mirror Neuron-Inspired Patterns Emerge in AI Models",
+          "summary": "Researchers are observing human-like patterns in AI models resembling mirror neurons, potentially enhancing empathy and social interaction capabilities. Studies on arXiv and in journals like Neurocomputing explore applications in robotics and imitation learning.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.com/news/international/us/a-strange-pattern-is-appearing-in-ai-models-and-it-looks-surprisingly-human/articleshow/129206400.cms"
         },
         {
-          "title": "China Prioritizes Open-Source AI as Competitive Strategy in Five-Year Plan",
-          "summary": "China's latest five-year plan emphasizes open-source AI development and domestic innovation as key competitive advantages, with specific focus on companies like DeepSeek alongside investments in quantum computing, 6G, and humanoid robots.",
-          "source": "Quantum Zeitgeist",
-          "url": "https://quantumzeitgeist.com/china-ai-five-year-plan-2/"
-        },
-        {
-          "title": "AI Cited in 8% of Job Cuts So Far in 2026, But Analysts Say Impact Overstated",
-          "summary": "While AI was explicitly cited in 12,304 job cut announcements (8% of total cuts) through early 2026, analysts argue AI's role in recent unemployment increases is minimal compared to broader economic factors.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/2026/03/06/dont_blame_ai_for_unemployment_yet/"
-        },
-        {
-          "title": "Oracle Reportedly Planning Thousands of Job Cuts as AI Data Center Investments Strain Finances",
-          "summary": "Oracle is expected to announce significant layoffs in its cloud division this month, with positions to be backfilled by AI, as the company raises $50 billion through debt and equity sales to fund AI data center infrastructure.",
-          "source": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/oracle-reportedly-set-to-axe-thousands-of-jobs-and-freeze-hiring-for-cloud-division-ai-datacenter-bets-ignite-financial-perfect-storm"
-        },
-        {
-          "title": "70% of Healthcare Organizations Now Using AI, According to NVIDIA Survey",
-          "summary": "New data shows widespread AI adoption in the healthcare sector, with 70% of organizations implementing AI solutions, while insider breaches in healthcare cost 48% more than in other industries.",
-          "source": "Healthcare IT Today",
-          "url": "https://www.healthcareittoday.com/2026/03/07/weekly-roundup-march-7-2026/"
+          "title": "Flock AI Secures $6 Million Seed Funding for Visual Commerce Platform",
+          "summary": "Flock AI raised $6 million in a seed round led by Work-Bench, totaling $7.5 million, to develop its generative AI platform for photorealistic product imagery in fashion and retail. The funding supports product expansion and market growth, reducing costs for traditional photoshoots.",
+          "source": "Orrick",
+          "url": "https://www.orrick.com/en/News/2026/03/Flock-AI-Raises-$6-Million-Seed-Round-to-Advance-AI-Generated-Visual-Commerce"
         }
       ],
       "citations": [
-        "https://ruslanmv.com/news-and-trends/issues/trend-2026-03-07/",
-        "https://thequantuminsider.com/2026/03/07/scientists-propose-using-quantum-computers-could-generate-data-to-train-ai-for-chemistry/",
-        "https://www.healthcareittoday.com/2026/03/07/weekly-roundup-march-7-2026/",
-        "https://www.tomshardware.com/tech-industry/artificial-intelligence/oracle-reportedly-set-to-axe-thousands-of-jobs-and-freeze-hiring-for-cloud-division-ai-datacenter-bets-ignite-financial-perfect-storm",
-        "https://quantumzeitgeist.com/china-ai-five-year-plan-2/",
-        "https://www.theregister.com/2026/03/06/dont_blame_ai_for_unemployment_yet/",
-        "https://thequantuminsider.com/2026/03/07/guest-post-how-smaller-nations-should-navigate-the-quantum-future-with-lessons-learned-from-ais-growth/",
-        "https://www.businessinsider.com/ai-disrupting-tech-industry-career-pivot-google-2026-3"
+        "https://unifuncs.com/s/7Xom3dLk",
+        "https://economictimes.com/news/international/us/a-strange-pattern-is-appearing-in-ai-models-and-it-looks-surprisingly-human/articleshow/129206400.cms",
+        "https://www.orrick.com/en/News/2026/03/Flock-AI-Raises-$6-Million-Seed-Round-to-Advance-AI-Generated-Visual-Commerce"
       ]
     },
     "gaming": {
@@ -410,64 +402,35 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 3,
       "items": [
         {
-          "title": "Resident Evil Requiem Emerges as Critical Standout with 89 Metacritic Score",
-          "summary": "Capcom's latest horror entry blends investigative horror with action sequences, delivering on atmosphere and cinematic storytelling. The game has become one of 2026's best releases so far.",
-          "source": "The National News",
-          "url": "https://www.thenationalnews.com/arts-culture/2026/03/07/best-video-game-releases-of-2026/"
+          "title": "NetEase Cuts Funding to Nagoshi Studio, Jeopardizing Gang of Dragon",
+          "summary": "Chinese live service giant NetEase has reportedly stopped funding Nagoshi Studio, putting the studio's future and its new Yakuza-inspired game Gang of Dragon at risk.",
+          "source": "TweakTown",
+          "url": "https://www.tweaktown.com/news/archive/2026/3/index.html"
         },
         {
-          "title": "Slay the Spire 2 Surpasses Marathon as Top-Selling Title on Steam",
-          "summary": "The sequel has climbed Steam's sales charts while developers confirm the game will feature no microtransactions.",
-          "source": "Game8",
-          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-1-to-mar-7"
+          "title": "Video Game Stocks to Watch: Turtle Beach, Motorsport Games and Others",
+          "summary": "Turtle Beach, Motorsport Games, Alliance Entertainment, Allied Gaming & Entertainment, and Brag House are highlighted as key video game stocks to research on March 7th.",
+          "source": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/video-game-stocks-to-research-march-7th-2026-03-07/"
         },
         {
-          "title": "Crimson Desert Marketing Director Addresses Console Performance Concerns",
-          "summary": "Pearl Abyss marketing director Will Powers responded to accusations about withholding console footage, arguing that demanding information on specific timelines constitutes entitlement.",
-          "source": "Game8",
-          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-1-to-mar-7"
-        },
-        {
-          "title": "Helldivers 2 File Size Drops to 23GB Following Legacy Build Removal",
-          "summary": "The game will see a significant size reduction on March 17 when legacy builds are removed from the platform.",
-          "source": "Game8",
-          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-1-to-mar-7"
-        },
-        {
-          "title": "Overwatch Teases NieR: Automata Crossover Skins",
-          "summary": "Blizzard continues live-service collaborations with a new crossover featuring NieR: Automata characters.",
-          "source": "Game8",
-          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-1-to-mar-7"
-        },
-        {
-          "title": "Ubisoft Announces Assassin's Creed IV: Black Flag Remake",
-          "summary": "Ubisoft has teased a remake of the popular pirate-themed entry in the Assassin's Creed franchise.",
-          "source": "Game8",
-          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-1-to-mar-7"
-        },
-        {
-          "title": "Nioh 3 Launches with Expanded Combat Systems and Larger World",
-          "summary": "Team Ninja's samurai fantasy series returns with an 86 Metacritic score, featuring enhanced swordplay mechanics and more flexible character builds.",
-          "source": "The National News",
-          "url": "https://www.thenationalnews.com/arts-culture/2026/03/07/best-video-game-releases-of-2026/"
-        },
-        {
-          "title": "Replaced 2.5D Platformer Set for April 14 Release",
-          "summary": "Sad Cat Studios' dynamic platformer features AAA-quality level design and environments, arriving on multiple platforms.",
-          "source": "ComicBook.com",
-          "url": "https://comicbook.com/gaming/feature/2026-is-a-big-year-for-platformer-games/"
+          "title": "DCS World Update: F4U-1D Flight Model and New Map Progress",
+          "summary": "DCS SITREP #8 for 2026 details F4U-1D Corsair flight model updates, progress on Marianas and Balkans maps, and a C-130J livery contest announced on March 7th.",
+          "source": "YouTube (DCS News)",
+          "url": "https://www.youtube.com/watch?v=0vdOlnAXAt4"
         }
       ],
       "citations": [
-        "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-1-to-mar-7",
+        "https://www.tweaktown.com/news/archive/2026/3/index.html",
         "https://www.thenationalnews.com/arts-culture/2026/03/07/best-video-game-releases-of-2026/",
-        "https://comicbook.com/gaming/feature/2026-is-a-big-year-for-platformer-games/",
         "https://www.aol.com/lifestyle/14-years-ago-capcom-released-011753773.html",
-        "https://www.mensjournal.com/entertainment/14-years-ago-capcom-released-one-of-its-most-controversial-games-ever",
-        "https://gamefaqs.gamespot.com/news?id=220337"
+        "https://www.thepwhl.com/en/news/2026/march/07/mar-8-ottawa-at-new-york-pre-game-primer",
+        "https://www.marketbeat.com/instant-alerts/video-game-stocks-to-research-march-7th-2026-03-07/",
+        "https://www.youtube.com/watch?v=0vdOlnAXAt4",
+        "https://www.twingalaxies.com/newsDetails/6677"
       ]
     },
     "tech_news": {
@@ -478,10 +441,9 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=ubvtNPRXY2s",
-        "https://www.youtube.com/watch?v=G_2w1u4QkBc",
-        "https://www.geo.tv/shows/geo-headlines/654555-geo-headlines-6-pm-7th-march-2026",
-        "https://www.nhl.com/oilers/video/post-raw-kris-knoblauch-03-06-26-6390530670112"
+        "https://247wallst.com/investing/2026/03/07/glds-75-billion-couldnt-shield-it-from-the-tariff-driven-selloff/",
+        "https://media.nhl.com/public/news/19594",
+        "https://www.news4jax.com/news/politics/2026/03/07/iran-war-deaths-could-resurface-trumps-complicated-history-with-military-sacrifice/"
       ]
     }
   }
