@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T12:12:55.057571+00:00",
-  "generated_at_human": "2026-03-10 12:12 UTC",
+  "generated_at": "2026-03-10T18:17:48.159440+00:00",
+  "generated_at_human": "2026-03-10 18:17 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Tony Hoare has died",
+          "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+          "score": 789,
+          "comments": 88
+        },
+        {
+          "title": "Show HN: RunAnwhere – Faster AI Inference on Apple Silicon",
+          "url": "https://github.com/RunanywhereAI/rcli",
+          "score": 72,
+          "comments": 18
+        },
+        {
+          "title": "Debian decides not to decide on AI-generated contributions",
+          "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+          "score": 153,
+          "comments": 117
+        },
+        {
+          "title": "Billion-Parameter Theories",
+          "url": "https://www.worldgov.org/complexity.html",
+          "score": 12,
+          "comments": 2
+        },
+        {
+          "title": "I built a programming language using Claude Code",
+          "url": "https://ankursethi.com/blog/programming-language-claude-code/",
+          "score": 38,
+          "comments": 43
+        },
+        {
+          "title": "Intel Demos Chip to Compute with Encrypted Data",
+          "url": "https://spectrum.ieee.org/fhe-intel",
+          "score": 162,
+          "comments": 51
+        },
+        {
+          "title": "Rebasing in Magit",
+          "url": "https://entropicthoughts.com/rebasing-in-magit",
+          "score": 133,
+          "comments": 92
+        },
+        {
           "title": "I put my whole life into a single database",
           "url": "https://howisfelix.today/",
-          "score": 81,
-          "comments": 18
+          "score": 344,
+          "comments": 164
         },
         {
           "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
           "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-          "score": 184,
-          "comments": 155
+          "score": 293,
+          "comments": 315
         },
         {
-          "title": "The Gervais Principle, or the Office According to \"The Office\"",
-          "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
-          "score": 72,
-          "comments": 17
+          "title": "Meta acquires Moltbook",
+          "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+          "score": 220,
+          "comments": 137
         },
         {
-          "title": "Two Years of Emacs Solo",
-          "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-          "score": 277,
-          "comments": 85
+          "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
+          "url": "https://dnhkng.github.io/posts/rys/",
+          "score": 140,
+          "comments": 47
         },
         {
-          "title": "Ask HN: Remember Fidonet?",
-          "url": "https://news.ycombinator.com/item?id=47321760",
-          "score": 16,
-          "comments": 6
+          "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+          "url": "https://news.ycombinator.com/item?id=47324296",
+          "score": 35,
+          "comments": 37
         },
         {
-          "title": "Lotus 1-2-3 on the PC with DOS",
-          "url": "https://stonetools.ghost.io/lotus123-dos/",
-          "score": 115,
-          "comments": 38
+          "title": "More agent tools and AI tools should be pricing on outcomes",
+          "url": "https://jxnl.co/writing/2025/06/12/lovable-monetization-and-the-vibe-coder-economy/",
+          "score": 11,
+          "comments": 2
         },
         {
-          "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
-          "url": "https://loger-project.github.io",
-          "score": 70,
-          "comments": 19
-        },
-        {
-          "title": "Practical Guide to Bare Metal C++",
-          "url": "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes",
-          "score": 10,
-          "comments": 1
-        },
-        {
-          "title": "Building a Procedural Hex Map with Wave Function Collapse",
-          "url": "https://felixturner.github.io/hex-map-wfc/article/",
-          "score": 518,
-          "comments": 71
-        },
-        {
-          "title": "The hidden compile-time cost of C++26 reflection",
-          "url": "https://vittorioromeo.com/index/blog/refl_compiletime.html",
-          "score": 36,
-          "comments": 14
-        },
-        {
-          "title": "TCXO Failure Analysis",
-          "url": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
-          "score": 28,
-          "comments": 3
-        },
-        {
-          "title": "Optimizing Top K in Postgres",
-          "url": "https://www.paradedb.com/blog/optimizing-top-k",
-          "score": 97,
-          "comments": 12
-        },
-        {
-          "title": "JSLinux Now Supports x86_64",
-          "url": "https://bellard.org/jslinux/",
-          "score": 339,
-          "comments": 105
-        },
-        {
-          "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-          "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-          "score": 489,
-          "comments": 505
-        },
-        {
-          "title": "Show HN: Remotely use my guitar tuner",
-          "url": "https://realtuner.online/",
-          "score": 215,
-          "comments": 48
-        },
-        {
-          "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-          "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-          "score": 263,
-          "comments": 191
-        },
-        {
-          "title": "macOS Tahoe windows have different corner radiuses",
-          "url": "https://lapcatsoftware.com/articles/2026/3/1.html",
-          "score": 192,
-          "comments": 146
-        },
-        {
-          "title": "Show HN: I Was Here – Draw on street view, others can find your drawings",
-          "url": "https://washere.live",
-          "score": 38,
-          "comments": 27
-        },
-        {
-          "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-          "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+          "title": "RFC 454545 – Human Em Dash Standard",
+          "url": "https://gist.github.com/bignimbus/a75cc9d703abf0b21a57c0d21a79e2be",
           "score": 76,
-          "comments": 68
+          "comments": 59
         },
         {
-          "title": "Darkrealms BBS",
-          "url": "http://www.darkrealms.ca/",
-          "score": 108,
-          "comments": 27
+          "title": "I used pulsar detection techniques to turn a phone into a watch timegrapher",
+          "url": "https://www.chronolog.watch/timegrapher",
+          "score": 26,
+          "comments": 4
         },
         {
-          "title": "There are 56 ethnicities in China–and 55 are getting squashed",
-          "url": "https://economist.com/china/2026/03/09/there-are-56-ethnicities-in-china-and-55-are-getting-squashed",
-          "score": 6,
+          "title": "Online age-verification tools for child safety are surveilling adults",
+          "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+          "score": 346,
+          "comments": 204
+        },
+        {
+          "title": "The Enterprise Context Layer",
+          "url": "https://andychen32.substack.com/p/the-enterprise-context-layer",
+          "score": 8,
           "comments": 0
         },
         {
-          "title": "EVi, a Hard-Fork of Vim",
-          "url": "https://codeberg.org/NerdNextDoor/evi",
+          "title": "Throwing away 18 months of code and starting over",
+          "url": "https://tompiagg.io/posts/we-threw-away-1-5-years-of-code",
           "score": 5,
           "comments": 0
         },
         {
-          "title": "The “JVG algorithm” only wins on tiny numbers",
-          "url": "https://scottaaronson.blog/?p=9615",
-          "score": 72,
-          "comments": 39
+          "title": "Open Weights Isn't Open Training",
+          "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
+          "score": 14,
+          "comments": 3
         },
         {
-          "title": "Graphing how the 10k* most common English words define each other",
-          "url": "https://wyattsell.com/experiments/word-graph/",
-          "score": 82,
+          "title": "We are building data breach machines and nobody cares",
+          "url": "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/",
+          "score": 20,
+          "comments": 6
+        },
+        {
+          "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
+          "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+          "score": 228,
+          "comments": 97
+        },
+        {
+          "title": "PgAdmin 4 9.13 with AI Assistant Panel",
+          "url": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel",
+          "score": 70,
           "comments": 20
         },
         {
-          "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
-          "url": "https://github.com/DenchHQ/DenchClaw",
-          "score": 124,
-          "comments": 101
+          "title": "Defeat as Method",
+          "url": "https://www.cabinetmagazine.org/issues/71/khosravi.php",
+          "score": 5,
+          "comments": 0
+        },
+        {
+          "title": "Levels of Agentic Engineering",
+          "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+          "score": 8,
+          "comments": 2
+        },
+        {
+          "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+          "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+          "score": 390,
+          "comments": 210
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 70400,
-          "change_24h": 3.7,
-          "change_7d": 4.98,
-          "market_cap": 1408369231118
+          "price": 70464,
+          "change_24h": 2.73,
+          "change_7d": 3.1,
+          "market_cap": 1415377408687
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2056.25,
-          "change_24h": 2.99,
-          "change_7d": 4.8,
-          "market_cap": 248181701302
+          "price": 2054.01,
+          "change_24h": 1.7,
+          "change_7d": 3.57,
+          "market_cap": 249230808965
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 86.56,
-          "change_24h": 3.47,
-          "change_7d": 3.1,
-          "market_cap": 49495051181
+          "price": 87.4,
+          "change_24h": 2.93,
+          "change_7d": 2.57,
+          "market_cap": 50106022843
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.094484,
-          "change_24h": 4.43,
-          "change_7d": 5.16,
-          "market_cap": 14488820816
+          "price": 0.096782,
+          "change_24h": 6.1,
+          "change_7d": 7.34,
+          "market_cap": 14944611961
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.263513,
-          "change_24h": 3.45,
-          "change_7d": -0.45,
-          "market_cap": 9705663580
+          "price": 0.266584,
+          "change_24h": 4.32,
+          "change_7d": -0.4,
+          "market_cap": 9865899375
         }
       ]
     },
@@ -212,14 +212,34 @@
       "count": 10,
       "items": [
         {
+          "name": "Neiro",
+          "symbol": "NEIRO",
+          "market_cap_rank": 667
+        },
+        {
+          "name": "Sun Token",
+          "symbol": "SUN",
+          "market_cap_rank": 129
+        },
+        {
+          "name": "WINkLink",
+          "symbol": "WIN",
+          "market_cap_rank": 799
+        },
+        {
+          "name": "Flow",
+          "symbol": "FLOW",
+          "market_cap_rank": 242
+        },
+        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
           "market_cap_rank": 106
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 41
         },
         {
           "name": "Bittensor",
@@ -232,34 +252,14 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 29
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 16
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
-          "name": "Flow",
-          "symbol": "FLOW",
-          "market_cap_rank": 246
-        },
-        {
-          "name": "LayerZero",
-          "symbol": "ZRO",
-          "market_cap_rank": 110
-        },
-        {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 41
+          "name": "Artificial Superintelligence Alliance",
+          "symbol": "FET",
+          "market_cap_rank": 118
         }
       ]
     },
@@ -268,24 +268,48 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 6,
       "items": [
         {
-          "title": "S&P 500 Rises 0.8% on Oil Reversal After Trump Comments on Iran War End",
-          "summary": "The S&P 500 Index closed up 0.8% on Monday, March 9, 2026, closing a downside gap amid an extraordinary oil price reversal following Donald Trump's comments signaling the near end of the Iran war. The index remains below the key 6900 pivot with heavy resistance overhead and broken moving averages signaling ongoing caution.[1]",
-          "source": "Equity Clock",
-          "url": "https://equityclock.com/2026/03/09/stock-market-outlook-for-march-10-2026/"
+          "title": "S&P 500 and Dow Decline Amid Ongoing Iran Conflict Despite Trump Comments",
+          "summary": "U.S. stock indexes are mostly lower with the S&P 500 down 0.15% (10 points), Dow down 0.15% (73 points), and Nasdaq down 0.05% (14 points), even as oil prices sink to $88.75 following President Trump's forecast of an end to the Iran conflict and consideration of taking over the Strait of Hormuz.",
+          "source": "247wallst.com",
+          "url": "https://247wallst.com/investing/2026/03/10/stock-market-live-march-10-2026-sp-500-spy-down-even-as-oil-sinks/"
         },
         {
-          "title": "S&P 500 Shows Elevated Volatility in 2026 with YTD Returns Near Zero",
-          "summary": "In 2026, the S&P 500 has faced high volatility around 19-20% while year-to-date returns stay near 0%, resembling volatile years like 2011 and 1987. March 2026 saw a modest -0.7% decline, milder than historical drops in tariff-impacted or crisis periods.[2]",
-          "source": "Macrobond",
-          "url": "https://www.macrobond.com/resources/macro-moves/macro-moves-march-2026"
+          "title": "U.S. Stocks Struggle Higher as Iran Conflict Persists",
+          "summary": "Nasdaq edges up 0.03% while S&P 500 falls 0.18%, Dow drops 0.13%, and Russell 2000 declines 0.28%, amid continued Iran tensions despite positive Trump remarks.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/latest-news/stock-market-today-march-10-2026"
+        },
+        {
+          "title": "Bank of America Reiterates Buy on Nvidia Ahead of GTC Conference",
+          "summary": "Bank of America maintains a buy rating on Nvidia, expressing bullishness heading into the company's GTC conference on March 16.",
+          "source": "247wallst.com",
+          "url": "https://247wallst.com/investing/2026/03/10/stock-market-live-march-10-2026-sp-500-spy-down-even-as-oil-sinks/"
+        },
+        {
+          "title": "Wolfe Research Raises Amazon Price Target to $255",
+          "summary": "Wolfe analysts reiterate outperform on Amazon, lifting the price target from $250 to $255, citing accelerating AWS growth, strong retail, and margin expansion.",
+          "source": "247wallst.com",
+          "url": "https://247wallst.com/investing/2026/03/10/stock-market-live-march-10-2026-sp-500-spy-down-even-as-oil-sinks/"
+        },
+        {
+          "title": "B. Riley Initiates Buy on Strategy (MSTR) for Bitcoin Exposure",
+          "summary": "B. Riley starts coverage with a buy on Strategy, highlighting attractive dividends and long-term appreciation from Bitcoin holdings demonstrated over six years.",
+          "source": "247wallst.com",
+          "url": "https://247wallst.com/investing/2026/03/10/stock-market-live-march-10-2026-sp-500-spy-down-even-as-oil-sinks/"
+        },
+        {
+          "title": "Gold Surges and Bitcoin Rallies Amid Market Volatility",
+          "summary": "Gold rises $121.35 to $5,218 while Bitcoin climbs $2,315 to $70,758 as stock markets dip.",
+          "source": "247wallst.com",
+          "url": "https://247wallst.com/investing/2026/03/10/stock-market-live-march-10-2026-sp-500-spy-down-even-as-oil-sinks/"
         }
       ],
       "citations": [
-        "https://equityclock.com/2026/03/09/stock-market-outlook-for-march-10-2026/",
-        "https://www.macrobond.com/resources/macro-moves/macro-moves-march-2026"
+        "https://247wallst.com/investing/2026/03/10/stock-market-live-march-10-2026-sp-500-spy-down-even-as-oil-sinks/",
+        "https://www.thestreet.com/latest-news/stock-market-today-march-10-2026"
       ]
     },
     "crypto_news": {
@@ -293,16 +317,53 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 6,
+      "items": [
+        {
+          "title": "MicroStrategy Purchases 17,994 Bitcoins for $1.28 Billion",
+          "summary": "MicroStrategy, dubbed a Bitcoin Treasury Company, acquired 17,994 BTC between March 2nd and 8th at roughly $70,946 per bitcoin, causing its stock (MSTR) to jump 3.06%. This reinforces Bitcoin's scarcity narrative as the network nears 20 million coins mined.",
+          "source": "T3 Tuesday PreMarket Playbook",
+          "url": "https://www.youtube.com/watch?v=PIJ2QZkIjbw"
+        },
+        {
+          "title": "Bitcoin Price Analysis Shows Swing Trade Range and Upward Momentum",
+          "summary": "Bitcoin is in a key swing trade range with support and resistance levels highlighted, up 3.7% recently amid expectations of an aggressive March rally. Analysts note Bitcoin breaking out of ranging market, with dominance analysis suggesting strength.",
+          "source": "TitoVlogs Live Crypto Analysis",
+          "url": "https://www.youtube.com/watch?v=McGbn-P2iTU"
+        },
+        {
+          "title": "Oil Prices Plunge 32% Impacting Crypto Markets",
+          "summary": "Oil prices collapsed 32% following U.S. considerations on Hormuz Strait control and strikes on Iran's oil facilities, influencing global markets and crypto sentiment. Recession fears are rising alongside this volatility.",
+          "source": "TitoVlogs and Recession Fears Crypto Update",
+          "url": "https://www.youtube.com/watch?v=McGbn-P2iTU"
+        },
+        {
+          "title": "Coinbase CEO Discusses AI Agents Driving Crypto Growth",
+          "summary": "Coinbase CEO highlights how AI agents could massively boost crypto payments and digital asset adoption. This ties into broader AI and cryptocurrency integration trends.",
+          "source": "TitoVlogs Live Stream",
+          "url": "https://www.youtube.com/watch?v=McGbn-P2iTU"
+        },
+        {
+          "title": "Ethereum Staking Demand Surges with Validator Queue Vertical",
+          "summary": "Ethereum validator queue is surging vertically, increasing staking demand amid network effects, credible neutrality, and DeFi collateral use. Analysts predict potential rise to $80k.",
+          "source": "Altcoin Daily and Crypto Banter",
+          "url": "https://www.youtube.com/watch?v=4nDVYeU6SRw"
+        },
+        {
+          "title": "Altcoins Like Solana, Chainlink Show Strength Amid Market Recovery",
+          "summary": "Solana RWA developments, Chainlink (LINK) investment opportunities, and other altcoins like AVAX, XRP gaining traction as Bitcoin leads out of range. Partnerships for RWA tokenization accelerating in Europe.",
+          "source": "Crypto Banter and Market Update Streams",
+          "url": "https://www.youtube.com/watch?v=3_tH-HZr-_Q"
+        }
+      ],
       "citations": [
         "https://www.youtube.com/watch?v=McGbn-P2iTU",
+        "https://www.youtube.com/watch?v=PIJ2QZkIjbw",
         "https://www.youtube.com/watch?v=4wAvBx8aZj0",
         "https://www.youtube.com/watch?v=4nDVYeU6SRw",
         "https://www.youtube.com/watch?v=7Uh6i_vVB40",
-        "https://www.youtube.com/watch?v=i7V9o6KPUgs",
-        "https://www.foxbusiness.com/video/6390638030112",
-        "https://www.youtube.com/watch?v=JYKn-y58wUE"
+        "https://www.youtube.com/watch?v=3_tH-HZr-_Q",
+        "https://www.youtube.com/watch?v=_MgLJPbT6Cw"
       ]
     },
     "ai_news": {
@@ -310,52 +371,48 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "ABB Integrates Deep Learning Vision Directly into Machine Control Systems",
-          "summary": "ABB's B&R division announced seamless integration of AI-based machine vision into industrial automation control loops, enabling real-time vision processing with sub-microsecond synchronization between vision, motion control, and robotics without external encoders.",
-          "source": "Metrology News",
-          "url": "https://metrology.news/ai-moves-into-the-control-loop-abb-integrates-deep-learning-vision-with-machine-automation/"
-        },
-        {
-          "title": "University of Sydney Develops Ultra-Compact Nanophotonic AI Chip Operating at Speed of Light",
-          "summary": "Researchers built an AI chip that performs neural network calculations using light instead of electricity, achieving 90-99% accuracy on biomedical MRI image classification while consuming significantly less energy than conventional electronic chips.",
+          "title": "Sydney Researchers Develop Ultra-Compact Nanophotonic AI Chip Operating at Speed of Light",
+          "summary": "University of Sydney researchers created a prototype nanophotonic AI chip that performs neural network calculations using light, achieving 90-99% accuracy on classifying over 10,000 biomedical MRI images with lower heat and energy use than electronic chips.",
           "source": "The Quantum Insider",
           "url": "https://thequantuminsider.com/2026/03/10/sydney-researchers-build-ultra-compact-ai-chip-operating-at-speed-of-light/"
         },
         {
-          "title": "Synaptics Expands Astra Edge AI Portfolio with New Microcontroller Series",
-          "summary": "Synaptics unveiled the Astra SR80 series for premium audio applications and SRW1500 series with integrated Wi-Fi 7 connectivity, advancing AI-native microcontrollers for IoT and edge computing with enhanced security and power management.",
-          "source": "CIO Influence",
-          "url": "https://cioinfluence.com/machine-learning/synaptics-expands-astra-edge-ai-portfolio-with-sr80-series-for-ai-enhanced-premium-audio-and-srw1500-series-for-connected-distributed-intelligence/"
+          "title": "Berkeley Lab Unveils AQuaRef: AI Tool Cracks Hard-to-Map Protein Structures",
+          "summary": "Scientists at Berkeley Lab developed AQuaRef, combining AI and quantum calculations to refine protein structures more accurately and cheaply, successfully mapping the elusive DJ-1 protein linked to Parkinson's disease.",
+          "source": "Lawrence Berkeley National Laboratory",
+          "url": "https://newscenter.lbl.gov/2026/03/10/cracking-the-code-using-ai-to-solve-difficult-to-map-proteins/"
         },
         {
-          "title": "Northwestern University Launches New AI Major Beginning Fall 2026",
-          "summary": "Northwestern announced a new undergraduate major in artificial intelligence covering machine learning, natural language processing, and AI systems.",
-          "source": "Daily Northwestern",
-          "url": "https://dailynorthwestern.com/2026/03/10/campus/northwestern-announces-new-ai-major-beginning-fall-2026/"
+          "title": "AFEELA Advances AI-Based Trajectory Inference for Autonomous Driving",
+          "summary": "AFEELA announced improvements in AI trajectory inference for self-driving cars, using SOTA tech, simulations, and MLOps to handle complex traffic, reduce development time by 90%, and prevent performance degradation.",
+          "source": "AFEELA",
+          "url": "https://www.shm-afeela.com/en/news/2026-03-10/"
         },
         {
-          "title": "Veritone Launches Data Marketplace for Ethical, At-Scale AI-Ready Data Access",
-          "summary": "Veritone introduced a new data marketplace designed to provide ethical, premium AI-ready data at scale, transforming the AI supply chain.",
-          "source": "Las Vegas Sun",
-          "url": "https://lasvegassun.com/news/2026/mar/10/veritone-transforms-the-ai-supply-chain-with-the-l/"
+          "title": "UCSD Introduces Zephyrus: AI Agent for Weather and Climate Analysis",
+          "summary": "UC San Diego researchers launched Zephyrus, an AI agent that queries weather data in natural language, translates to code, and responds in plain English, aiming to democratize earth science research.",
+          "source": "UC San Diego Today",
+          "url": "https://today.ucsd.edu/story/new-ai-agent-could-transform-how-scientists-study-weather-and-climate"
         },
         {
-          "title": "AI Demonstrates Significant Impact on Cybersecurity Team Performance",
-          "summary": "Data from Hack the Box competition shows AI improves security task completion speed and solve rates, with elite teams seeing the biggest performance uplift, though experts warn against over-automating judgment-building tasks.",
-          "source": "Osterman Research",
-          "url": "https://ostermanresearch.com/2026/03/10/news20260310/"
+          "title": "Multi-Agent AI Systems Outperform Single Agents in Healthcare Applications",
+          "summary": "New research shows orchestrated multi-agent AI systems surpass single-agent models in healthcare tasks like record management and medication assistance.",
+          "source": "EurekAlert!",
+          "url": "https://www.eurekalert.org/news-releases/1119478"
         }
       ],
       "citations": [
-        "https://metrology.news/ai-moves-into-the-control-loop-abb-integrates-deep-learning-vision-with-machine-automation/",
+        "https://markets.businessinsider.com/news/stocks/cybersecurity-leader-dima-shaposhnykov-unveils-ai-vs-ai-strategy-to-tackle-emerging-threats-1035914987",
+        "https://ai-weekly.ai/newsletter-03-10-2026/",
+        "https://newscenter.lbl.gov/2026/03/10/cracking-the-code-using-ai-to-solve-difficult-to-map-proteins/",
+        "https://www.shm-afeela.com/en/news/2026-03-10/",
         "https://thequantuminsider.com/2026/03/10/sydney-researchers-build-ultra-compact-ai-chip-operating-at-speed-of-light/",
-        "https://ostermanresearch.com/2026/03/10/news20260310/",
-        "https://dailynorthwestern.com/2026/03/10/campus/northwestern-announces-new-ai-major-beginning-fall-2026/",
-        "https://cioinfluence.com/machine-learning/synaptics-expands-astra-edge-ai-portfolio-with-sr80-series-for-ai-enhanced-premium-audio-and-srw1500-series-for-connected-distributed-intelligence/",
-        "https://lasvegassun.com/news/2026/mar/10/veritone-transforms-the-ai-supply-chain-with-the-l/"
+        "https://today.ucsd.edu/story/new-ai-agent-could-transform-how-scientists-study-weather-and-climate",
+        "https://www.eurekalert.org/news-releases/1119478",
+        "https://www.prnewswire.com/news-releases/as-ai-and-screen-time-scrutiny-rise-instructures-2026-evidence-report-finds-most-classroom-consumer-technology-lacks-verified-proof-of-impact-302709230.html"
       ]
     },
     "gaming": {
@@ -366,43 +423,44 @@
       "count": 5,
       "items": [
         {
-          "title": "Samsung Showcases Glasses-Free 3D and HDR10+ Gaming at GDC 2026",
-          "summary": "Samsung demonstrated glasses-free 3D gaming with titles like Hell is Us and Cronos: The New Dawn on its Odyssey ecosystem, expanding the library to over 120 titles by year-end. It also announced HDR10+ GAMING for Pearl Abyss's Crimson Desert launching in March.",
-          "source": "Samsung News",
-          "url": "https://news.samsung.com/us/samsung-showcases-glasses-free-3d-hdr10-gaming-acclaimed-game-titles-gdc-2026/"
-        },
-        {
-          "title": "Tencent Cloud Unveils AI-Powered Gaming Solutions at GDC 2026",
-          "summary": "Tencent Cloud introduced AI tools for in-game communication, content production including the HY 3D AI creation engine, and security at GDC 2026. Partnerships with studios like Maxon and CGTrader aim to accelerate 3D asset creation and game development.",
-          "source": "Newswire",
-          "url": "https://www.newswire.ca/news-releases/tencent-cloud-unveils-ai-powered-gaming-solutions-at-gdc-2026-transforming-connection-creation-and-security-for-the-future-of-games-831898139.html"
-        },
-        {
-          "title": "Nova Drift and Subnautica: Below Zero Release on Mobile Today",
-          "summary": "Nova Drift by Chimeric LLC and Subnautica: Below Zero by Unknown Worlds launched on App Store and Google Play Store on March 10, 2026, as part of March's mobile game releases.",
-          "source": "Mobidictum",
-          "url": "https://mobidictum.com/upcoming-mobile-games-releasing-in-march-2026/"
-        },
-        {
-          "title": "Xsolla Announces Participation and Innovations at GDC and PGC 2026",
-          "summary": "Xsolla is sponsoring Pocket Gamer Connects San Francisco 2026 as platinum sponsor, focusing on monetization and AI for games, and unveiled next-era game commerce at GDC Festival of Gaming.",
-          "source": "Games Press / Las Vegas Sun",
-          "url": "https://www.gamespress.com/en-GB/XSOLLA-TO-PARTICIPATE-AS-PLATINUM-SPONSOR-AT-THE-POCKET-GAMER-CONNECTS"
-        },
-        {
-          "title": "High-Powered Game's Crash Highlights Stakes in Impatient Market",
-          "summary": "A high-profile game's poor performance underscores investor impatience in the gaming sector, amid ongoing issues like New York suing Valve over loot boxes.",
+          "title": "Multiplayer Shooter Highguard to Shut Down After Failing to Retain Players",
+          "summary": "Developer Wildlight Entertainment announced the permanent shutdown of Highguard on March 12, just weeks after its January launch, highlighting challenges in the competitive gaming market with player counts dropping from 100,000 to around 500 daily.",
           "source": "The Star",
           "url": "https://www.thestar.com.my/tech/tech-news/2026/03/10/high-powered-game039s-crash-shows-stakes-in-impatient-market"
+        },
+        {
+          "title": "GTA 6 Clears Holiday 2026 Release Calendar as Publishers Avoid Clash",
+          "summary": "Grand Theft Auto 6's November 19 release has left October through December empty of major AAA titles, with games like Marvel's Wolverine and NBA 2K27 shifting to earlier in the year to avoid competition.",
+          "source": "GTABoom",
+          "url": "https://www.gtaboom.com/gta-6-scared-every-major-game-out-of-releasing-this-holiday-2026"
+        },
+        {
+          "title": "Monster Hunter Stories 3: Twisted Reflection Set for March 16 Multi-Platform Launch",
+          "summary": "Capcom's latest Monster Hunter spin-off launches March 16, 2026 on Switch 2, PS5, Xbox Series X|S, and PC, praised in early impressions as the series' most mature entry after 45 hours of play.",
+          "source": "games.gg",
+          "url": "https://games.gg/news/monster-hunter-stories-3-twisted-reflection-launches-march-2026/"
+        },
+        {
+          "title": "ZeniMax Online Studios Reportedly Developing Unannounced Game",
+          "summary": "ZeniMax Online Studios, known for Elder Scrolls Online, is working on a new unannounced project, as reported on March 10.",
+          "source": "Instant Gaming News",
+          "url": "https://news.instant-gaming.com/en/articles/18439-zenimax-online-studios-is-reportedly-working-on-an-unannounced-game"
+        },
+        {
+          "title": "VANISHED: Puzzle Quest to Launch Educating Players on Muslim Golden Age",
+          "summary": "Unity Productions Foundation's VANISHED: Puzzle Quest, highlighting scientific achievements of the Muslim Golden Age, is set for global release on March 20, 2026.",
+          "source": "Digital Journal",
+          "url": "https://www.digitaljournal.com/pr/news/access-newswire/groundbreaking-video-game-brings-muslim-1436388239.html"
         }
       ],
       "citations": [
-        "https://mobidictum.com/upcoming-mobile-games-releasing-in-march-2026/",
-        "https://news.samsung.com/us/samsung-showcases-glasses-free-3d-hdr10-gaming-acclaimed-game-titles-gdc-2026/",
-        "https://www.newswire.ca/news-releases/tencent-cloud-unveils-ai-powered-gaming-solutions-at-gdc-2026-transforming-connection-creation-and-security-for-the-future-of-games-831898139.html",
         "https://www.thestar.com.my/tech/tech-news/2026/03/10/high-powered-game039s-crash-shows-stakes-in-impatient-market",
-        "https://www.gamespress.com/en-GB/XSOLLA-TO-PARTICIPATE-AS-PLATINUM-SPONSOR-AT-THE-POCKET-GAMER-CONNECTS",
-        "https://lasvegassun.com/news/2026/mar/09/xsolla-unveils-its-next-era-of-game-commerce-at-gd/"
+        "https://www.gtaboom.com/gta-6-scared-every-major-game-out-of-releasing-this-holiday-2026",
+        "https://games.gg/news/monster-hunter-stories-3-twisted-reflection-launches-march-2026/",
+        "https://news.instant-gaming.com/en/articles/18439-zenimax-online-studios-is-reportedly-working-on-an-unannounced-game",
+        "https://www.digitaljournal.com/pr/news/access-newswire/groundbreaking-video-game-brings-muslim-1436388239.html",
+        "https://www.twingalaxies.com/newsDetails/6708",
+        "https://www.pcgamer.com/gaming-industry/events-conferences/this-years-future-games-show-spring-showcase-has-a-dense-game-per-hour-hit-rate-and-airs-everywhere-heres-how-to-catch-it/"
       ]
     },
     "tech_news": {
@@ -410,13 +468,28 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 2,
+      "items": [
+        {
+          "title": "Volkswagen Slashes 50,000 Jobs After Profits Collapse by Nearly Half",
+          "summary": "Volkswagen announced major layoffs of 50,000 jobs following a sharp decline in profits. The decision comes amid economic pressures and industry challenges.",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/video/2026/03/10/latest-news-bulletin-march-10th-2026-morning"
+        },
+        {
+          "title": "New FDA-Approved Drug Helps Patients Stay on Ozempic and Wegovy Longer",
+          "summary": "The FDA approved a new drug from Vanda Pharmaceuticals to assist patients in maintaining treatment with weight-loss drugs Ozempic and Wegovy. The approval was highlighted alongside a legal win for jet lag treatment.",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/video/6390680373112"
+        }
+      ],
       "citations": [
-        "https://techstartups.com/2026/03/09/top-tech-news-today-march-9-2026/",
-        "https://www.youtube.com/watch?v=1CjWXIB2OOY",
-        "https://fortune.com/section/innovation/page/38/",
-        "https://thelogic.co/news/canada-tech-sovereignty-buy-canadian/"
+        "https://www.youtube.com/watch?v=SNpreKLinFM",
+        "https://www.youtube.com/watch?v=la5f-L0A2RQ",
+        "https://www.euronews.com/video/2026/03/10/latest-news-bulletin-march-10th-2026-morning",
+        "https://www.youtube.com/watch?v=QG-XxGDGnPY",
+        "https://www.euronews.com/video/2026/03/10/oil-prices-drivers-rush-to-fill-tanks-in-china-before-fuel-price-hike",
+        "https://www.foxbusiness.com/video/6390680373112"
       ]
     }
   }
