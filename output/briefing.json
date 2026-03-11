@@ -1,163 +1,11 @@
 {
-  "generated_at": "2026-03-11T12:13:08.819936+00:00",
-  "generated_at_human": "2026-03-11 12:13 UTC",
+  "generated_at": "2026-03-11T18:19:45.437517+00:00",
+  "generated_at_human": "2026-03-11 18:19 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "category": "tech_ai_nerd",
-      "count": 25,
-      "items": [
-        {
-          "title": "Building a TB-303 from Scratch",
-          "url": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
-          "score": 84,
-          "comments": 22
-        },
-        {
-          "title": "Zig – Type Resolution Redesign and Language Changes",
-          "url": "https://ziglang.org/devlog/2026/#2026-03-10",
-          "score": 281,
-          "comments": 109
-        },
-        {
-          "title": "Create value for others and don’t worry about the returns",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
-          "score": 412,
-          "comments": 248
-        },
-        {
-          "title": "U+237C ⍼ Is Azimuth",
-          "url": "https://ionathan.ch/2026/02/16/angzarr.html",
-          "score": 328,
-          "comments": 45
-        },
-        {
-          "title": "Cloudflare crawl endpoint",
-          "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-          "score": 335,
-          "comments": 130
-        },
-        {
-          "title": "Tony Hoare has died",
-          "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-          "score": 1833,
-          "comments": 238
-        },
-        {
-          "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
-          "url": "https://www.hume.ai/blog/opensource-tada",
-          "score": 57,
-          "comments": 11
-        },
-        {
-          "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
-          "url": "https://github.com/gcv/julia-snail",
-          "score": 91,
-          "comments": 15
-        },
-        {
-          "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-          "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-          "score": 494,
-          "comments": 400
-        },
-        {
-          "title": "Agents that run while I sleep",
-          "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-          "score": 347,
-          "comments": 398
-        },
-        {
-          "title": "SSH Secret Menu",
-          "url": "https://twitter.com/rebane2001/status/2031037389347406054",
-          "score": 244,
-          "comments": 97
-        },
-        {
-          "title": "RISC-V Is Sloooow",
-          "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
-          "score": 261,
-          "comments": 267
-        },
-        {
-          "title": "AutoKernel: Autoresearch for GPU Kernels",
-          "url": "https://github.com/RightNow-AI/autokernel",
-          "score": 35,
-          "comments": 5
-        },
-        {
-          "title": "When the chain becomes the product: Seven years inside a token-funded venture",
-          "url": "https://markmhendrickson.com/posts/when-the-chain-becomes-the-product/",
-          "score": 18,
-          "comments": 6
-        },
-        {
-          "title": "CAP theorem – Partition is a verb",
-          "url": "http://mmudama.github.io/posts/2026/cap-partitions/",
-          "score": 7,
-          "comments": 0
-        },
-        {
-          "title": "Writing my own text editor, and daily-driving it",
-          "url": "https://blog.jsbarretto.com/post/text-editor",
-          "score": 125,
-          "comments": 45
-        },
-        {
-          "title": "Debian decides not to decide on AI-generated contributions",
-          "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-          "score": 343,
-          "comments": 260
-        },
-        {
-          "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
-          "url": "https://github.com/RunanywhereAI/rcli",
-          "score": 220,
-          "comments": 131
-        },
-        {
-          "title": "Standardizing source maps",
-          "url": "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/",
-          "score": 43,
-          "comments": 4
-        },
-        {
-          "title": "Docs directories are doomed",
-          "url": "https://yagmin.com/blog/your-docs-directory-is-doomed/",
-          "score": 12,
-          "comments": 11
-        },
-        {
-          "title": "Levels of Agentic Engineering",
-          "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
-          "score": 211,
-          "comments": 95
-        },
-        {
-          "title": "Universal vaccine against respiratory infections and allergens",
-          "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
-          "score": 279,
-          "comments": 95
-        },
-        {
-          "title": "Roblox is minting teen millionaires",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry",
-          "score": 162,
-          "comments": 176
-        },
-        {
-          "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
-          "url": "https://github.com/torlando-tech/columba",
-          "score": 102,
-          "comments": 11
-        },
-        {
-          "title": "Surpassing vLLM with a Generated Inference Stack",
-          "url": "https://infinity.inc/case-studies/qwen3-optimization",
-          "score": 44,
-          "comments": 15
-        }
-      ]
+      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/topstories.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
+      "items": []
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -167,42 +15,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 69104,
-          "change_24h": -1.89,
-          "change_7d": -2.84,
-          "market_cap": 1384164119591
+          "price": 70709,
+          "change_24h": 0.54,
+          "change_7d": -3.56,
+          "market_cap": 1414098873327
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2018.72,
-          "change_24h": -1.91,
-          "change_7d": -1.79,
-          "market_cap": 243531401789
+          "price": 2068.45,
+          "change_24h": 0.76,
+          "change_7d": -3.48,
+          "market_cap": 249342994452
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 84.52,
-          "change_24h": -2.33,
-          "change_7d": -5.85,
-          "market_cap": 48271843711
+          "price": 87.78,
+          "change_24h": 0.57,
+          "change_7d": -4.2,
+          "market_cap": 49991309090
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.091898,
-          "change_24h": -2.77,
-          "change_7d": -0.43,
-          "market_cap": 14108893346
+          "price": 0.093979,
+          "change_24h": -3.22,
+          "change_7d": -5.48,
+          "market_cap": 14393370525
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.25858,
-          "change_24h": -1.96,
-          "change_7d": -3.66,
-          "market_cap": 9533822672
+          "price": 0.265251,
+          "change_24h": -0.34,
+          "change_7d": -5.62,
+          "market_cap": 9766849120
         }
       ]
     },
@@ -212,19 +60,19 @@
       "count": 10,
       "items": [
         {
-          "name": "Xai",
-          "symbol": "XAI",
-          "market_cap_rank": 644
-        },
-        {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 41
+          "name": "Across Protocol",
+          "symbol": "ACX",
+          "market_cap_rank": 465
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 108
+          "market_cap_rank": 106
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 15
         },
         {
           "name": "Bitcoin",
@@ -234,27 +82,27 @@
         {
           "name": "Internet Computer",
           "symbol": "ICP",
-          "market_cap_rank": 54
+          "market_cap_rank": 55
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 158
+          "name": "Xai",
+          "symbol": "XAI",
+          "market_cap_rank": 732
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 45
         },
         {
-          "name": "Aave",
-          "symbol": "AAVE",
-          "market_cap_rank": 50
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 148
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 29
         },
         {
           "name": "Artificial Superintelligence Alliance",
@@ -268,30 +116,46 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "US Stock Indexes Mixed on Tuesday Amid Iran War Uncertainty",
-          "summary": "The S&P 500 fell 0.2% to 6,781.48, Dow slipped 0.1% to 47,706.51, Nasdaq was flat at 22,697.10, and Russell 2000 dropped 0.2% to 2,548.08 as investors awaited signals on the US-Iran war end; oil prices pulled back from $90 after plunging from $120 on de-escalation hopes.[1]",
-          "source": "Barchart",
-          "url": "https://www.barchart.com/story/news/674113/how-major-us-stock-indexes-fared-tuesday-3-10-2026"
+          "title": "US Stocks Climb as Trump Hints at Swift End to Iran Conflict; Oil Futures Tumble 15%",
+          "summary": "Dow Jones, S&P 500, and Nasdaq turned positive on March 10, rising 0.7%, 0.6%, and 0.6% respectively, amid President Trump's comments on ending the Iran war, while oil prices fell sharply. Investors eye upcoming CPI on Wednesday and PCE data on Friday, with Oracle reporting earnings after close.",
+          "source": "Yahoo Finance",
+          "url": "https://www.youtube.com/watch?v=eq4XaDdhQQs"
         },
         {
-          "title": "Weekly Gains Persist Despite Tuesday Dip",
-          "summary": "For the week, S&P 500 up 0.6%, Dow up 0.4%, Nasdaq up 1.4%, Russell 2000 up 0.9%; year-to-date, S&P down 0.9%, Dow down 0.7%, Nasdaq down 2.3%, Russell up 2.7%.[1]",
-          "source": "Barchart",
-          "url": "https://www.barchart.com/story/news/674113/how-major-us-stock-indexes-fared-tuesday-3-10-2026"
+          "title": "Major Indexes Muted with Oil Swings; AI Stocks Show Strength Including ASML and GSK",
+          "summary": "On March 10, Nasdaq was flat, S&P 500 down 0.2%, Dow down less than 0.1%, and Russell 2000 down 0.25%, amid volatile oil prices, but AI-related stocks performed strongly.",
+          "source": "Investor's Business Daily",
+          "url": "https://www.youtube.com/watch?v=-pbPOUkrepw"
         },
         {
-          "title": "March Market Insights: Geopolitical Tensions and AI Fears Impact Stocks",
-          "summary": "US stocks faced pressure from Middle East tensions and AI disruption fears unsettling investors across industries; earlier CPI data showed slowing inflation, aiding a modest rebound.[2]",
-          "source": "Community America",
-          "url": "https://www.communityamerica.com/blog/2026/march-2026-market-insights"
+          "title": "Oracle Reports Fiscal Q3 Earnings After Market Close on March 10",
+          "summary": "Oracle (ORCL) released its fiscal third quarter earnings post-market on Tuesday, drawing investor attention amid software sector weakness and broader market rotation.",
+          "source": "Yahoo Finance",
+          "url": "https://www.youtube.com/watch?v=eq4XaDdhQQs"
+        },
+        {
+          "title": "NFJ's Burns McKinney Calls Microsoft a Buy Amid Oracle Earnings",
+          "summary": "NFJ Investment Group's Burns McKinney highlighted Microsoft as a top pick following Oracle’s fiscal Q3 earnings report on March 10.",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/video/6390697367112"
+        },
+        {
+          "title": "Tom Lee Predicts Markets Higher in March Despite Later Bear Market; Handles Oil Spike Well",
+          "summary": "Fundstrat's Tom Lee forecasts equity gains through March end, noting S&P higher despite oil up $15 in two days, driven by US growth rotation from rest of world.",
+          "source": "CNBC Television",
+          "url": "https://www.youtube.com/watch?v=MmTBUS5QzCc"
         }
       ],
       "citations": [
-        "https://www.barchart.com/story/news/674113/how-major-us-stock-indexes-fared-tuesday-3-10-2026",
-        "https://www.communityamerica.com/blog/2026/march-2026-market-insights"
+        "https://www.youtube.com/watch?v=eq4XaDdhQQs",
+        "https://www.youtube.com/watch?v=-pbPOUkrepw",
+        "https://www.youtube.com/watch?v=l-8_pYc8kkI",
+        "https://www.youtube.com/watch?v=MmTBUS5QzCc",
+        "https://www.morningstar.com/funds/3-funds-halo-trade-2",
+        "https://www.foxbusiness.com/video/6390697367112"
       ]
     },
     "crypto_news": {
@@ -299,52 +163,46 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Prediction Markets Bet on US Stablecoin Bill Passing Before Midterms",
-          "summary": "Discussions indicate the stablecoin bill is likely to pass before Labor Day or midterms, despite delays over yield issues, with prediction markets favoring approval. Failure could occur if Democrats gain House control post-midterms.",
-          "source": "YouTube - Trump Signals War Over? Crypto Market Update",
-          "url": "https://www.youtube.com/watch?v=wBgniQWkQ-Q"
+          "title": "Bitcoin Reaches $69,300 Amid Market Morning Updates",
+          "summary": "Bitcoin is trading at $69,300 and XRP at $1.37 in the latest market analysis. The video covers cryptocurrency news, chart analysis, and motivation for major assets like BTC and XRP.",
+          "source": "Blockchain Backer",
+          "url": "https://www.youtube.com/watch?v=18vsa74J9VM"
         },
         {
-          "title": "Clarity Act Awaited for Crypto Regulation Progress",
-          "summary": "Market watchers anticipate the Clarity Act to provide regulatory clarity, highlighted alongside positive project perspectives amid reducing red indicators.",
-          "source": "YouTube - March 11, 2026 US CPI Crypto Update",
+          "title": "Warnings of Imminent Bitcoin Bull Trap in Crypto Markets",
+          "summary": "Market analysts caution that conditions are setting up for a potential Bitcoin bull trap, possibly today, amid stock market updates, gold analysis, and crypto sentiment shifts. Key factors include BTC resistance levels, ETF inflows, and Strait of Hormuz disruptions.",
+          "source": "Crypto Banter",
+          "url": "https://www.youtube.com/watch?v=daPtZSoyKMI"
+        },
+        {
+          "title": "BlackRock XRP ETF Rumors Gain Traction with Tokenization Push",
+          "summary": "Speculation surrounds BlackRock's potential XRP ETF as it advances tokenization of securities on the XRP Ledger amid a $2 trillion private credit liquidity crisis. Developments include $2.3B in real-world assets, XLS-66 lending protocol, and EVM sidechain launch planned for 2026.",
+          "source": "Cheeky Crypto",
+          "url": "https://www.youtube.com/watch?v=JLmTeP9ClHo"
+        },
+        {
+          "title": "US CPI Data and Elon Musk's X Payments Beta Test Eyed for Bitcoin Impact",
+          "summary": "Upcoming US CPI release could drive Bitcoin past key resistance levels, while Elon Musk confirms X's payment feature (Xonnaie) beta testing internally, set for public launch in April. Stellar (XLM) shows rebound potential.",
+          "source": "Unnamed Crypto Morning Show",
           "url": "https://www.youtube.com/watch?v=a6MROSepoYs"
         },
         {
-          "title": "Stablecoins Gain Traction at Major Conferences with DTCC Role",
-          "summary": "Over 2000 attendees at a conference emphasized stablecoins' capital efficiency and use cases, with DTCC unlocking inventory for broader access amid growing acceptance.",
-          "source": "Bloomberg Crypto 3/10/2026",
+          "title": "Bloomberg Highlights Stablecoin Adoption and Circle Stock Surge",
+          "summary": "Stablecoins dominate discussions at crypto conferences with over 2,000 attendees, emphasizing capital efficiency and DTCC's role in inventory access. Circle shares climb amid positive market plumbing performance during volatile days.",
+          "source": "Bloomberg Crypto",
           "url": "https://www.youtube.com/watch?v=S6OAsWtxKok"
-        },
-        {
-          "title": "Circle Shares Climb Amid Crypto Market Movements",
-          "summary": "Circle's stock is rising alongside broader market gains, as strategists note well-functioning exchange plumbing during volatile days.",
-          "source": "Bloomberg Crypto 3/10/2026",
-          "url": "https://www.youtube.com/watch?v=S6OAsWtxKok"
-        },
-        {
-          "title": "Elon Musk Confirms X Money Beta Testing for April Public Launch",
-          "summary": "X (formerly Twitter) is internally beta testing X Money, set to open to the public as early as April, potentially impacting crypto sentiment.",
-          "source": "YouTube - March 11, 2026 US CPI Crypto Update",
-          "url": "https://www.youtube.com/watch?v=a6MROSepoYs"
-        },
-        {
-          "title": "Bitcoin and Altcoins Face Key Resistance Rejections",
-          "summary": "Bitcoin, Ethereum, Solana, and Chainlink are rejecting from crucial short-term resistance levels, with potential relief bounces but ongoing downtrends signaled.",
-          "source": "YouTube - Bitcoin News Today, Ethereum & Altcoins",
-          "url": "https://www.youtube.com/watch?v=-KkkZehCl-A"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=wBgniQWkQ-Q",
+        "https://www.youtube.com/watch?v=18vsa74J9VM",
+        "https://www.youtube.com/watch?v=daPtZSoyKMI",
+        "https://www.youtube.com/watch?v=JLmTeP9ClHo",
         "https://www.youtube.com/watch?v=a6MROSepoYs",
         "https://www.youtube.com/watch?v=S6OAsWtxKok",
-        "https://www.youtube.com/watch?v=-KkkZehCl-A",
-        "https://www.youtube.com/watch?v=9GwovLWglzE",
-        "https://www.whitehouse.gov/videos/press-secretary-karoline-leavitt-briefs-members-of-the-media-mar-10-2026/"
+        "https://www.youtube.com/watch?v=VvxMd89t_iM"
       ]
     },
     "ai_news": {
@@ -352,64 +210,77 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 10,
       "items": [
         {
-          "title": "OpenAI Releases GPT-5.4 with Native Computer Use Capabilities",
-          "summary": "OpenAI has released GPT-5.4, marking a significant milestone in the 'Agentic Pivot' where AI models now execute complex, multi-step workflows within professional software environments and physical hardware systems, moving beyond text generation.",
+          "title": "OpenAI Releases GPT-5.4 with Native Computer Use",
+          "summary": "OpenAI launched GPT-5.4 on March 11, 2026, featuring native computer use capabilities. This marks a significant advancement in AI agent functionality.",
           "source": "DevFlokers",
           "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
         },
         {
-          "title": "Anthropic's Claude 4.6 Series Advances Agentic AI Capabilities",
-          "summary": "Anthropic has released the Claude 4.6 series as part of the broader 'Agentic Pivot,' enabling models to perform complex workflows in professional and physical environments alongside OpenAI's GPT-5.4.",
+          "title": "Anthropic Sues Pentagon in Historic Legal Battle",
+          "summary": "Anthropic is engaged in a legal fight against the Pentagon, highlighting tensions between AI development and government interests. The case underscores growing conflicts in AI governance.",
           "source": "DevFlokers",
           "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
         },
         {
-          "title": "MIT Develops Vision-Language AI Framework for Complex Visual Planning Tasks",
-          "summary": "MIT researchers created VLMFP, a generative AI approach for planning long-term visual tasks like robot navigation, achieving 60% success on 2D tasks and over 80% on 3D tasks including robotic assembly and multi-robot collaboration.",
+          "title": "China's 15th Five-Year Plan Prioritizes AI and Semiconductors",
+          "summary": "China's new plan emphasizes 'New Productive Forces' including semiconductors, quantum technology, and AI-driven material simulations. It aims to boost strategic economic benchmarks through AI integration.",
+          "source": "DevFlokers",
+          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
+        },
+        {
+          "title": "Appier Unveils Risk-Aware Framework for Agentic AI",
+          "summary": "Appier Research introduced a 'Risk-Aware Decision Framework' using skill decomposition to enhance trustworthiness of autonomous AI agents in enterprises. It addresses hallucinations and incorrect actions.",
+          "source": "DevFlokers",
+          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
+        },
+        {
+          "title": "Breakthrough in Reconstructing Animal Perception from Brain Activity",
+          "summary": "University of Hawaii researchers used AI to reconstruct short movies from mouse visual cortex activity, advancing neural decoding. Ethical concerns raised about neural privacy.",
+          "source": "DevFlokers",
+          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
+        },
+        {
+          "title": "Physics-Informed ML Accelerates Material Science Simulations",
+          "summary": "New physics-informed machine learning algorithms simulate chemical reactions in extreme environments, reducing simulation time from months to days. Applications include energy and aerospace materials.",
+          "source": "DevFlokers",
+          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
+        },
+        {
+          "title": "Anthropic Labels Chinese AI Firms as National Security Threats",
+          "summary": "Anthropic urged treating DeepSeek, MoonshotAI, and MiniMax as security risks amid US-China AI rivalry over model distillation and chip access. Reflects geopolitical AI competition.",
+          "source": "NEXT IAS",
+          "url": "https://www.nextias.com/ca/editorial-analysis/11-03-2026/ai-tech-competition"
+        },
+        {
+          "title": "UB Evaluates AI for Wildfire Spread Prediction",
+          "summary": "University at Buffalo researchers tested deep learning models like ConvLSTM against traditional FARSITE, finding AI offers flexibility with real-time data but lower precision. AI complements physics-based tools.",
+          "source": "University at Buffalo",
+          "url": "https://www.buffalo.edu/news/releases/2026/03/ai-wildfire-spread-prediction.html"
+        },
+        {
+          "title": "MIT Develops VLMFP for Complex Visual Task Planning",
+          "summary": "MIT's generative AI method using vision-language models achieves 60-80% success on visual planning tasks like robot navigation, outperforming baselines. Handles 2D/3D scenarios with generalization.",
           "source": "MIT News",
           "url": "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311"
         },
         {
-          "title": "USC Study Shows AI Can Learn Beyond Training Data Limitations",
-          "summary": "A USC Viterbi School of Engineering study accepted at IEEE SoutheastCon 2026 demonstrates that AI models can dramatically improve performance in untrained territory, achieving 96% improvement through iterative recompilation methods.",
-          "source": "TechXplore",
-          "url": "https://techxplore.com/news/2026-03-ai-taught-knew.html"
-        },
-        {
-          "title": "Researchers Reconstruct Animal Perception from Brain Activity Using AI",
-          "summary": "Scientists at the University of Hawaii and elsewhere have used AI to reconstruct short movies from mouse brain activity, advancing neural decoding technology with implications for understanding animal consciousness and potential human applications.",
-          "source": "DevFlokers",
-          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
-        },
-        {
-          "title": "Physics-Informed Machine Learning Accelerates Material Science Discovery",
-          "summary": "New AI algorithms using physics-informed loss functions have reduced high-pressure chemical simulations from months to days, accelerating discovery of new high-density materials for energy and aerospace applications.",
-          "source": "DevFlokers",
-          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
-        },
-        {
-          "title": "Inturai Advances AI-Native Infrastructure for Tactical Applications",
-          "summary": "Inturai Ventures announced its AI-native operating model that uses AI-assisted coding and automated testing to accelerate development cycles, positioning itself as a scalable platform across healthcare, defense, and industrial markets.",
-          "source": "CNW",
-          "url": "https://www.newswire.ca/news-releases/inturai-advances-tactical-ai-that-learns-and-improves-in-the-field-and-engagement-of-winning-media-llc-for-digital-marketing-services-822996512.html"
-        },
-        {
-          "title": "Datavault AI Addresses AI-Generated Content Rights and Royalty Management",
-          "summary": "Datavault AI's platform converts post-strike contract commitments into technical guarantees for artist consent and compensation, enabling permissioned NIL usage with automatic on-chain royalty routing and immutable rights agreements.",
-          "source": "Datavault AI",
-          "url": "https://ir.datavaultsite.com/news-events/press-releases/detail/432/datavault-ai-ceo-nathaniel-bradley-to-present-at-luminary"
+          "title": "2026 Report: 1,500% Surge in Agentic AI Cybercrime",
+          "summary": "Global Threat Intelligence Report notes massive rise in AI-related illicit activity and compromised credentials driving attacks. Ransomware shifts to agentic AI exploitation.",
+          "source": "Homeland Security Today",
+          "url": "https://www.hstoday.us/subject-matter-areas/cybersecurity/2026-global-threat-intelligence-report-highlights-rise-in-agentic-ai-cybercrime/"
         }
       ],
       "citations": [
         "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026",
-        "https://techxplore.com/news/2026-03-ai-taught-knew.html",
-        "https://www.newswire.ca/news-releases/inturai-advances-tactical-ai-that-learns-and-improves-in-the-field-and-engagement-of-winning-media-llc-for-digital-marketing-services-822996512.html",
+        "https://www.nextias.com/ca/editorial-analysis/11-03-2026/ai-tech-competition",
+        "https://www.buffalo.edu/news/releases/2026/03/ai-wildfire-spread-prediction.html",
+        "https://news.wm.edu/2026/03/11/ai-for-social-impact-from-models-to-meaningful-action-for-large-cyber-physical-systems/",
         "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311",
-        "https://ir.datavaultsite.com/news-events/press-releases/detail/432/datavault-ai-ceo-nathaniel-bradley-to-present-at-luminary",
-        "https://news.cgtn.com/news/2026-03-11/AI-in-education-Enabling-large-scale-personalized-talent-cultivation-1Lq14A7pv3y/share_amp.html"
+        "https://www.hstoday.us/subject-matter-areas/cybersecurity/2026-global-threat-intelligence-report-highlights-rise-in-agentic-ai-cybercrime/",
+        "https://upcea.edu/new-book-explores-how-artificial-intelligence-is-transforming-online-higher-education-administration/"
       ]
     },
     "gaming": {
@@ -417,58 +288,39 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 4,
       "items": [
         {
-          "title": "Runaway Studio's Hatch Dragons Tops US Apple App Store",
-          "summary": "Ōtepoti-based studio Runaway released mobile title Hatch Dragons, which garnered over one million pre-orders and reached No. 1 on the US Apple App Store within 24 hours. The cosy fantasy game involves hatching dragons and restoring a forest, available on iOS and Android.",
-          "source": "NZ On Air",
-          "url": "https://www.nzonair.govt.nz/news/games-quarterly-march-2026/"
+          "title": "Snail Games Unveils PixARK Worlds and Gobby Gang at GDC 2026 Private Showcase",
+          "summary": "Snail Games hosted an invite-only event at GDC 2026, announcing PixARK Worlds for Nintendo Switch 2 in the ARK franchise and a new indie title Gobby Gang now wishlisted on Steam. Bellwright also hit 1 million units sold, nearing full release and console ports.",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/03/11/3253760/0/en/Snail-Games-Kicks-Off-GDC-2026-with-New-Game-Updates-and-Announcements.html"
         },
         {
-          "title": "Space Rock Games Releases Doomsday Diner Demo",
-          "summary": "Tāmaki Makaurau-based Space Rock Games launched a demo for upcoming title Doomsday Diner, featured by IGN and Women in Games, attracting over 5000 Steam wishlists. Full release planned later this year.",
-          "source": "NZ On Air",
-          "url": "https://www.nzonair.govt.nz/news/games-quarterly-march-2026/"
+          "title": "Xsolla Releases Report on Key Opportunities in Video Games Including AI and Cross-Platform Growth",
+          "summary": "Xsolla's new report highlights AI reducing development timelines by 20% and support costs by 40%, 43% of US gamers playing across platforms, and growth in live service models like PUBG and Roblox. It coincides with their Platinum sponsorship at Pocket Gamer Connects Summit San Francisco 2026.",
+          "source": "BusinessWire",
+          "url": "https://www.businesswire.com/news/home/20260311021020/en/Xsolla-Releases-New-Industry-Report-Identifying-the-Biggest-Opportunities-for-the-Future-of-Video-Games-for-Developers"
         },
         {
-          "title": "Snail Games Announces GDC 2026 Updates and Reveals",
-          "summary": "Snail Games kicked off GDC 2026 with franchise updates including ARK expansions, a new indie game announcement, and Bellwright reaching 1 million players.",
-          "source": "GamesPress",
-          "url": "https://www.gamespress.com/de/Snail-Games-Kicks-Off-GDC-2026-With-Franchise-Updates-New-Reveals-and-"
+          "title": "Stardock Expands Publishing Services for Indie Developers",
+          "summary": "Stardock Entertainment announced it will publish three indie titles per year, focusing on marketing, testing, support, and long-term partnerships to help outstanding games reach audiences.",
+          "source": "GameDeveloper.com",
+          "url": "https://www.gamedeveloper.com/business/stardock-announces-expansion-of-publishing-services-for-indie-devs"
         },
         {
-          "title": "Kaizen Gaming Acquires AI Sports Trading Firm GameplAI",
-          "summary": "GameTech company Kaizen Gaming acquired GameplAI on March 10, 2026, to advance AI-driven sports trading and analytics innovations.",
-          "source": "iGaming Today",
-          "url": "https://www.igamingtoday.com/kaizen-gaming-acquires-gameplai-to-accelerate-ai-driven-sports-trading-innovation/"
-        },
-        {
-          "title": "Falcom to Announce New Trails Game in 2031",
-          "summary": "Nihon Falcom announced on March 11, 2026, that a new Trails series video game will be revealed in 2031 for the company's 50th anniversary.",
-          "source": "Instant Gaming News",
-          "url": "https://news.instant-gaming.com/en/articles/18465-falcom-will-announce-a-new-trails-video-game-in-2031"
-        },
-        {
-          "title": "NetEase Faces Challenges in Games Industry Roundup",
-          "summary": "March 10, 2026 roundup highlights a tough week for the video game industry, with major Chinese publisher NetEase encountering difficulties amid broader sector struggles.",
-          "source": "Goonhammer",
-          "url": "https://www.goonhammer.com/games-industry-news-roundup-march-10th-2026/"
-        },
-        {
-          "title": "Esports Evolves from Sport to Creative Industry",
-          "summary": "A March 11, 2026 report discusses the transformation of esports into a professional creative industry beyond traditional sports.",
-          "source": "NBT Nationwide (YouTube)",
-          "url": "https://www.youtube.com/watch?v=3937bnMowY8"
+          "title": "VanEck Gaming ETF Faces Pressure from GTA VI Delay and Weak Consumer Sentiment",
+          "summary": "VanEck's Video Gaming and eSports ETF (ESPO) is down 10.5% YTD amid economic uncertainty and Take-Two Interactive's GTA VI delay impacting its 5.66% weighting in the $300B gaming market fund.",
+          "source": "247 Wall St.",
+          "url": "https://247wallst.com/investing/2026/03/11/vanecks-gaming-etf-faces-a-critical-quarter-as-march-rebalancing-approaches/"
         }
       ],
       "citations": [
-        "https://www.nzonair.govt.nz/news/games-quarterly-march-2026/",
-        "https://www.gamespress.com/de/Snail-Games-Kicks-Off-GDC-2026-With-Franchise-Updates-New-Reveals-and-",
-        "https://www.igamingtoday.com/kaizen-gaming-acquires-gameplai-to-accelerate-ai-driven-sports-trading-innovation/",
-        "https://news.instant-gaming.com/en/articles/18465-falcom-will-announce-a-new-trails-video-game-in-2031",
-        "https://www.youtube.com/watch?v=3937bnMowY8",
-        "https://www.goonhammer.com/games-industry-news-roundup-march-10th-2026/"
+        "https://www.globenewswire.com/news-release/2026/03/11/3253760/0/en/Snail-Games-Kicks-Off-GDC-2026-with-New-Game-Updates-and-Announcements.html",
+        "https://www.businesswire.com/news/home/20260311021020/en/Xsolla-Releases-New-Industry-Report-Identifying-the-Biggest-Opportunities-for-the-Future-of-Video-Games-for-Developers",
+        "https://www.youtube.com/watch?v=PdoFCb05JRY",
+        "https://247wallst.com/investing/2026/03/11/vanecks-gaming-etf-faces-a-critical-quarter-as-march-rebalancing-approaches/",
+        "https://www.gamedeveloper.com/business/stardock-announces-expansion-of-publishing-services-for-indie-devs"
       ]
     },
     "tech_news": {
@@ -476,12 +328,19 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 1,
+      "items": [
+        {
+          "title": "Fibocom Launches MQ771-GL Ultra-Low Power Module for Smart Pet Collars at Embedded World 2026",
+          "summary": "Fibocom unveiled the MQ771-GL, a compact (17.7 mm × 15.8 mm) LPWA module with PSM current as low as 1 μA, extending battery life from days to months and supporting global Cat.M/NB-IoT bands for reliable pet tracking worldwide.",
+          "source": "PRNewswire / Fibocom Wireless Inc.",
+          "url": "https://www.prnewswire.com/news-releases/embedded-world-2026--leading-the-pet-tech-revolution-mq771-gl-redefines-smart-pet-collars-302711073.html"
+        }
+      ],
       "citations": [
-        "https://www.stdaily.com/web/English/2026-03/09/content_482723.html",
-        "https://htu.edu/ellucian-returns-as-sponsor-of-2026-hbcu-ai-conference-and-training-summit-to-support-community-centered-ai-innovation-and-leadership/",
-        "https://tech.ebu.ch/fr/news/2026/going-live-again-to-reclaim-audience-and-relevance"
+        "https://www.prnewswire.com/news-releases/embedded-world-2026--leading-the-pet-tech-revolution-mq771-gl-redefines-smart-pet-collars-302711073.html",
+        "https://www.youtube.com/shorts/ZOxlS985TJM",
+        "https://www.youtube.com/watch?v=UWWQRm-SxN0"
       ]
     }
   }
