@@ -1,11 +1,163 @@
 {
-  "generated_at": "2026-03-11T18:19:45.437517+00:00",
-  "generated_at_human": "2026-03-11 18:19 UTC",
+  "generated_at": "2026-03-12T00:21:29.439737+00:00",
+  "generated_at_human": "2026-03-12 00:21 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/topstories.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-      "items": []
+      "category": "tech_ai_nerd",
+      "count": 25,
+      "items": [
+        {
+          "title": "Temporal: A nine-year journey to fix time in JavaScript",
+          "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+          "score": 483,
+          "comments": 164
+        },
+        {
+          "title": "Many SWE-bench-Passing PRs would not be merged",
+          "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+          "score": 99,
+          "comments": 14
+        },
+        {
+          "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+          "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+          "score": 2515,
+          "comments": 933
+        },
+        {
+          "title": "Making WebAssembly a first-class language on the Web",
+          "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+          "score": 374,
+          "comments": 144
+        },
+        {
+          "title": "Personal Computer by Perplexity",
+          "url": "https://www.perplexity.ai/personal-computer-waitlist",
+          "score": 99,
+          "comments": 72
+        },
+        {
+          "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+          "url": "https://sitespy.app",
+          "score": 147,
+          "comments": 42
+        },
+        {
+          "title": "Google closes deal to acquire Wiz",
+          "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+          "score": 213,
+          "comments": 145
+        },
+        {
+          "title": "Show HN: Autoresearch@home",
+          "url": "https://www.ensue-network.ai/autoresearch",
+          "score": 13,
+          "comments": 6
+        },
+        {
+          "title": "Show HN: A context-aware permission guard for Claude Code",
+          "url": "https://github.com/manuelschipper/nah/",
+          "score": 10,
+          "comments": 4
+        },
+        {
+          "title": "I was interviewed by an AI bot for a job",
+          "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+          "score": 102,
+          "comments": 112
+        },
+        {
+          "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
+          "url": "https://poloclub.github.io/cnn-explainer/",
+          "score": 6,
+          "comments": 0
+        },
+        {
+          "title": "The MacBook Neo",
+          "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+          "score": 355,
+          "comments": 613
+        },
+        {
+          "title": "Meticulous (YC S21) is hiring to redefine software dev",
+          "url": "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e",
+          "score": 1,
+          "comments": 0
+        },
+        {
+          "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+          "url": "https://github.com/microsoft/BitNet",
+          "score": 291,
+          "comments": 146
+        },
+        {
+          "title": "Preliminary data from a longitudinal AI impact study",
+          "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
+          "score": 22,
+          "comments": 7
+        },
+        {
+          "title": "Entities enabling scientific fraud at scale (2025)",
+          "url": "https://doi.org/10.1073/pnas.2420092122",
+          "score": 250,
+          "comments": 180
+        },
+        {
+          "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+          "url": "https://klausai.com/",
+          "score": 111,
+          "comments": 65
+        },
+        {
+          "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
+          "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
+          "score": 87,
+          "comments": 47
+        },
+        {
+          "title": "Against vibes: When is a generative model useful",
+          "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
+          "score": 38,
+          "comments": 3
+        },
+        {
+          "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
+          "url": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
+          "score": 137,
+          "comments": 129
+        },
+        {
+          "title": "How we hacked McKinsey's AI platform",
+          "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+          "score": 379,
+          "comments": 153
+        },
+        {
+          "title": "Building Better Country Selects",
+          "url": "https://talysto.com/blog/building-better-country-selects/",
+          "score": 6,
+          "comments": 9
+        },
+        {
+          "title": "Physicist Astrid Eichhorn is a leader in the field of asymptotic safety",
+          "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+          "score": 107,
+          "comments": 16
+        },
+        {
+          "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
+          "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
+          "score": 144,
+          "comments": 330
+        },
+        {
+          "title": "Show HN: Open-source browser for AI agents",
+          "url": "https://github.com/theredsix/agent-browser-protocol",
+          "score": 100,
+          "comments": 33
+        }
+      ]
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -15,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 70709,
-          "change_24h": 0.54,
-          "change_7d": -3.56,
-          "market_cap": 1414098873327
+          "price": 70241,
+          "change_24h": 0.33,
+          "change_7d": -3.41,
+          "market_cap": 1406109392225
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2068.45,
-          "change_24h": 0.76,
-          "change_7d": -3.48,
-          "market_cap": 249342994452
+          "price": 2053.32,
+          "change_24h": 0.77,
+          "change_7d": -3.7,
+          "market_cap": 247838684042
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 87.78,
-          "change_24h": 0.57,
-          "change_7d": -4.2,
-          "market_cap": 49991309090
+          "price": 86.63,
+          "change_24h": 0.92,
+          "change_7d": -5.18,
+          "market_cap": 49455968143
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.093979,
-          "change_24h": -3.22,
-          "change_7d": -5.48,
-          "market_cap": 14393370525
+          "price": 0.092868,
+          "change_24h": -1.79,
+          "change_7d": -6.43,
+          "market_cap": 14255710125
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.265251,
-          "change_24h": -0.34,
-          "change_7d": -5.62,
-          "market_cap": 9766849120
+          "price": 0.262336,
+          "change_24h": 0.36,
+          "change_7d": -5.05,
+          "market_cap": 9670456910
         }
       ]
     },
@@ -62,32 +214,7 @@
         {
           "name": "Across Protocol",
           "symbol": "ACX",
-          "market_cap_rank": 465
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 106
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 15
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "Internet Computer",
-          "symbol": "ICP",
-          "market_cap_rank": 55
-        },
-        {
-          "name": "Xai",
-          "symbol": "XAI",
-          "market_cap_rank": 732
+          "market_cap_rank": 498
         },
         {
           "name": "Bittensor",
@@ -95,19 +222,44 @@
           "market_cap_rank": 45
         },
         {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 15
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 106
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 41
+        },
+        {
+          "name": "LayerZero",
+          "symbol": "ZRO",
+          "market_cap_rank": 107
+        },
+        {
           "name": "Venice Token",
           "symbol": "VVV",
-          "market_cap_rank": 148
+          "market_cap_rank": 149
         },
         {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 29
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
         },
         {
-          "name": "Artificial Superintelligence Alliance",
-          "symbol": "FET",
-          "market_cap_rank": 118
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         }
       ]
     },
@@ -116,46 +268,31 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 3,
       "items": [
         {
-          "title": "US Stocks Climb as Trump Hints at Swift End to Iran Conflict; Oil Futures Tumble 15%",
-          "summary": "Dow Jones, S&P 500, and Nasdaq turned positive on March 10, rising 0.7%, 0.6%, and 0.6% respectively, amid President Trump's comments on ending the Iran war, while oil prices fell sharply. Investors eye upcoming CPI on Wednesday and PCE data on Friday, with Oracle reporting earnings after close.",
-          "source": "Yahoo Finance",
-          "url": "https://www.youtube.com/watch?v=eq4XaDdhQQs"
+          "title": "US Stocks Mixed Amid Rising Oil Prices",
+          "summary": "Most U.S. stocks fell on Wednesday with the S&P 500 down 0.1-0.3%, Dow dropping 0.6-0.8%, and Nasdaq up 0.1%, following volatility from the war with Iran. Oil prices climbed despite IEA members releasing record crude stockpiles, while Treasury yields rose.[1]",
+          "source": "Local10.com (AP)",
+          "url": "https://www.local10.com/news/2026/03/11/most-us-stocks-fall-as-oil-prices-get-back-to-rising/"
         },
         {
-          "title": "Major Indexes Muted with Oil Swings; AI Stocks Show Strength Including ASML and GSK",
-          "summary": "On March 10, Nasdaq was flat, S&P 500 down 0.2%, Dow down less than 0.1%, and Russell 2000 down 0.25%, amid volatile oil prices, but AI-related stocks performed strongly.",
-          "source": "Investor's Business Daily",
-          "url": "https://www.youtube.com/watch?v=-pbPOUkrepw"
+          "title": "Oracle Jumps on Strong Earnings, Limits Wall Street Losses",
+          "summary": "Oracle surged 8.3% after reporting stronger-than-expected profit and revenue, raising its revenue growth forecast due to AI cloud computing demand. This helped cap broader market declines amid falling stocks.[1]",
+          "source": "Local10.com (AP)",
+          "url": "https://www.local10.com/news/2026/03/11/most-us-stocks-fall-as-oil-prices-get-back-to-rising/"
         },
         {
-          "title": "Oracle Reports Fiscal Q3 Earnings After Market Close on March 10",
-          "summary": "Oracle (ORCL) released its fiscal third quarter earnings post-market on Tuesday, drawing investor attention amid software sector weakness and broader market rotation.",
-          "source": "Yahoo Finance",
-          "url": "https://www.youtube.com/watch?v=eq4XaDdhQQs"
-        },
-        {
-          "title": "NFJ's Burns McKinney Calls Microsoft a Buy Amid Oracle Earnings",
-          "summary": "NFJ Investment Group's Burns McKinney highlighted Microsoft as a top pick following Oracle’s fiscal Q3 earnings report on March 10.",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/video/6390697367112"
-        },
-        {
-          "title": "Tom Lee Predicts Markets Higher in March Despite Later Bear Market; Handles Oil Spike Well",
-          "summary": "Fundstrat's Tom Lee forecasts equity gains through March end, noting S&P higher despite oil up $15 in two days, driven by US growth rotation from rest of world.",
-          "source": "CNBC Television",
-          "url": "https://www.youtube.com/watch?v=MmTBUS5QzCc"
+          "title": "Campbell’s Sinks After Weak Earnings Report",
+          "summary": "Campbell’s shares dropped 6.7% following a weaker-than-expected quarterly profit, impacted by struggles in its snack business, leading to cut forecasts for revenue and profit this fiscal year.[1]",
+          "source": "Local10.com (AP)",
+          "url": "https://www.local10.com/news/2026/03/11/most-us-stocks-fall-as-oil-prices-get-back-to-rising/"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=eq4XaDdhQQs",
-        "https://www.youtube.com/watch?v=-pbPOUkrepw",
-        "https://www.youtube.com/watch?v=l-8_pYc8kkI",
-        "https://www.youtube.com/watch?v=MmTBUS5QzCc",
-        "https://www.morningstar.com/funds/3-funds-halo-trade-2",
-        "https://www.foxbusiness.com/video/6390697367112"
+        "https://www.local10.com/news/2026/03/11/most-us-stocks-fall-as-oil-prices-get-back-to-rising/",
+        "https://www.youtube.com/watch?v=tz0X7y45OJ8",
+        "https://robinhood.com/us/en/prediction-markets/financial/events/nasdaq-100-futures-price-on-march-12-2026-mar-12-2026/"
       ]
     },
     "crypto_news": {
@@ -166,43 +303,44 @@
       "count": 5,
       "items": [
         {
-          "title": "Bitcoin Reaches $69,300 Amid Market Morning Updates",
-          "summary": "Bitcoin is trading at $69,300 and XRP at $1.37 in the latest market analysis. The video covers cryptocurrency news, chart analysis, and motivation for major assets like BTC and XRP.",
-          "source": "Blockchain Backer",
-          "url": "https://www.youtube.com/watch?v=18vsa74J9VM"
-        },
-        {
-          "title": "Warnings of Imminent Bitcoin Bull Trap in Crypto Markets",
-          "summary": "Market analysts caution that conditions are setting up for a potential Bitcoin bull trap, possibly today, amid stock market updates, gold analysis, and crypto sentiment shifts. Key factors include BTC resistance levels, ETF inflows, and Strait of Hormuz disruptions.",
-          "source": "Crypto Banter",
-          "url": "https://www.youtube.com/watch?v=daPtZSoyKMI"
-        },
-        {
-          "title": "BlackRock XRP ETF Rumors Gain Traction with Tokenization Push",
-          "summary": "Speculation surrounds BlackRock's potential XRP ETF as it advances tokenization of securities on the XRP Ledger amid a $2 trillion private credit liquidity crisis. Developments include $2.3B in real-world assets, XLS-66 lending protocol, and EVM sidechain launch planned for 2026.",
+          "title": "BlackRock Prepares Massive Move into XRP Tokenization Amid Liquidity Crisis",
+          "summary": "BlackRock is reportedly gearing up for tokenization of securities on the XRP Ledger as the $2 trillion private credit market faces a liquidity trap in March 2026. Over $2.3 billion in real-world assets have already migrated to the chain, with 2026 roadmap including XLS-66 lending and EVM sidechain.",
           "source": "Cheeky Crypto",
           "url": "https://www.youtube.com/watch?v=JLmTeP9ClHo"
         },
         {
-          "title": "US CPI Data and Elon Musk's X Payments Beta Test Eyed for Bitcoin Impact",
-          "summary": "Upcoming US CPI release could drive Bitcoin past key resistance levels, while Elon Musk confirms X's payment feature (Xonnaie) beta testing internally, set for public launch in April. Stellar (XLM) shows rebound potential.",
-          "source": "Unnamed Crypto Morning Show",
-          "url": "https://www.youtube.com/watch?v=a6MROSepoYs"
+          "title": "Bitcoin Holds Near $70,000 Amid Oil Prices and Inflation Watch",
+          "summary": "Bitcoin is testing the $70,000 level as investors monitor oil prices, inflation data, and mixed signals on the Iran conflict. Market reports show BTC around $69,300-$70,000 with key resistance levels in focus.",
+          "source": "CNBC Television",
+          "url": "https://www.youtube.com/watch?v=LTQc-242WL8"
         },
         {
-          "title": "Bloomberg Highlights Stablecoin Adoption and Circle Stock Surge",
-          "summary": "Stablecoins dominate discussions at crypto conferences with over 2,000 attendees, emphasizing capital efficiency and DTCC's role in inventory access. Circle shares climb amid positive market plumbing performance during volatile days.",
-          "source": "Bloomberg Crypto",
-          "url": "https://www.youtube.com/watch?v=S6OAsWtxKok"
+          "title": "Binance Sues Wall Street Journal Over Defamation Claims",
+          "summary": "Binance has filed a lawsuit against the Wall Street Journal alleging defamation. This comes amid broader crypto market updates including federal regulator guidance on tokenized securities.",
+          "source": "CNBC Television",
+          "url": "https://www.youtube.com/watch?v=LTQc-242WL8"
+        },
+        {
+          "title": "XRP Trades at $1.37 as Markets Eye US CPI Data",
+          "summary": "XRP is priced at $1.37 in morning market updates, with Bitcoin at $69,300. Upcoming US CPI data could influence crypto sentiment and break key resistances.",
+          "source": "Blockchain Backer",
+          "url": "https://www.youtube.com/watch?v=18vsa74J9VM"
+        },
+        {
+          "title": "Federal Regulators Issue New Guidance on Tokenized Securities",
+          "summary": "Securitize's Carlos Domingo discusses new federal guidance impacting tokenized securities. This regulatory clarity is highlighted as a key development for blockchain adoption.",
+          "source": "CNBC Television",
+          "url": "https://www.youtube.com/watch?v=LTQc-242WL8"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=18vsa74J9VM",
-        "https://www.youtube.com/watch?v=daPtZSoyKMI",
         "https://www.youtube.com/watch?v=JLmTeP9ClHo",
+        "https://www.youtube.com/watch?v=LTQc-242WL8",
+        "https://www.youtube.com/watch?v=18vsa74J9VM",
         "https://www.youtube.com/watch?v=a6MROSepoYs",
-        "https://www.youtube.com/watch?v=S6OAsWtxKok",
-        "https://www.youtube.com/watch?v=VvxMd89t_iM"
+        "https://www.youtube.com/watch?v=sh-Mzz-jGJE",
+        "https://www.youtube.com/watch?v=cHOXHtyRUMk",
+        "https://www.foxbusiness.com/video/6390733404112"
       ]
     },
     "ai_news": {
@@ -210,77 +348,38 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 4,
       "items": [
         {
-          "title": "OpenAI Releases GPT-5.4 with Native Computer Use",
-          "summary": "OpenAI launched GPT-5.4 on March 11, 2026, featuring native computer use capabilities. This marks a significant advancement in AI agent functionality.",
-          "source": "DevFlokers",
-          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
+          "title": "ThreatLabz 2026 AI Security Report Reveals Rapid Enterprise AI Adoption and Expanding Risks",
+          "summary": "Enterprise AI/ML transactions surged 83% year-over-year in 2025, with over 3,400 applications now generating traffic, significantly widening the attack surface. Threat actors are using generative AI for social engineering, evasion, and malware, complicating detection.",
+          "source": "CIO",
+          "url": "https://www.cio.com/article/4143912/ai-the-default-enterprise-accelerator-key-insights-from-the-threatlabz-2026-ai-security-report-2.html"
         },
         {
-          "title": "Anthropic Sues Pentagon in Historic Legal Battle",
-          "summary": "Anthropic is engaged in a legal fight against the Pentagon, highlighting tensions between AI development and government interests. The case underscores growing conflicts in AI governance.",
-          "source": "DevFlokers",
-          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
+          "title": "AI Autocomplete Features Subtly Influence Users' Views on Social Issues, Study Finds",
+          "summary": "Research published March 11 in Science Advances shows that biased AI autocomplete suggestions shift opinions on topics like the death penalty, even if users reject them, with participants unaware of the manipulation.",
+          "source": "Science News",
+          "url": "https://www.sciencenews.org/article/ai-autocomplete-social-issues-views"
         },
         {
-          "title": "China's 15th Five-Year Plan Prioritizes AI and Semiconductors",
-          "summary": "China's new plan emphasizes 'New Productive Forces' including semiconductors, quantum technology, and AI-driven material simulations. It aims to boost strategic economic benchmarks through AI integration.",
-          "source": "DevFlokers",
-          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
+          "title": "Anthropic Launches Anthropic Institute to Study AI's Societal and Economic Impacts",
+          "summary": "Anthropic announced the Anthropic Institute, led by co-founder Jack Clark, uniting teams like the Frontier Red Team to address AI challenges, amid recent tensions with the US DoD over ethics leading to a Pentagon ban.",
+          "source": "Computerworld",
+          "url": "https://www.computerworld.com/article/4143931/anthropic-announces-think-tank-to-examine-ais-effect-on-economy-and-society-2.html"
         },
         {
-          "title": "Appier Unveils Risk-Aware Framework for Agentic AI",
-          "summary": "Appier Research introduced a 'Risk-Aware Decision Framework' using skill decomposition to enhance trustworthiness of autonomous AI agents in enterprises. It addresses hallucinations and incorrect actions.",
-          "source": "DevFlokers",
-          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
-        },
-        {
-          "title": "Breakthrough in Reconstructing Animal Perception from Brain Activity",
-          "summary": "University of Hawaii researchers used AI to reconstruct short movies from mouse visual cortex activity, advancing neural decoding. Ethical concerns raised about neural privacy.",
-          "source": "DevFlokers",
-          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
-        },
-        {
-          "title": "Physics-Informed ML Accelerates Material Science Simulations",
-          "summary": "New physics-informed machine learning algorithms simulate chemical reactions in extreme environments, reducing simulation time from months to days. Applications include energy and aerospace materials.",
-          "source": "DevFlokers",
-          "url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026"
-        },
-        {
-          "title": "Anthropic Labels Chinese AI Firms as National Security Threats",
-          "summary": "Anthropic urged treating DeepSeek, MoonshotAI, and MiniMax as security risks amid US-China AI rivalry over model distillation and chip access. Reflects geopolitical AI competition.",
-          "source": "NEXT IAS",
-          "url": "https://www.nextias.com/ca/editorial-analysis/11-03-2026/ai-tech-competition"
-        },
-        {
-          "title": "UB Evaluates AI for Wildfire Spread Prediction",
-          "summary": "University at Buffalo researchers tested deep learning models like ConvLSTM against traditional FARSITE, finding AI offers flexibility with real-time data but lower precision. AI complements physics-based tools.",
-          "source": "University at Buffalo",
-          "url": "https://www.buffalo.edu/news/releases/2026/03/ai-wildfire-spread-prediction.html"
-        },
-        {
-          "title": "MIT Develops VLMFP for Complex Visual Task Planning",
-          "summary": "MIT's generative AI method using vision-language models achieves 60-80% success on visual planning tasks like robot navigation, outperforming baselines. Handles 2D/3D scenarios with generalization.",
-          "source": "MIT News",
-          "url": "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311"
-        },
-        {
-          "title": "2026 Report: 1,500% Surge in Agentic AI Cybercrime",
-          "summary": "Global Threat Intelligence Report notes massive rise in AI-related illicit activity and compromised credentials driving attacks. Ransomware shifts to agentic AI exploitation.",
-          "source": "Homeland Security Today",
-          "url": "https://www.hstoday.us/subject-matter-areas/cybersecurity/2026-global-threat-intelligence-report-highlights-rise-in-agentic-ai-cybercrime/"
+          "title": "Datavault AI CEO to Present Tokenized Legacy Solution for Hollywood AI Concerns at Luminary 2026",
+          "summary": "Datavault AI's platform addresses 2023 Hollywood strikes' AI issues by ensuring consent, on-chain royalties, and immutable rights for digital replicas and NIL usage, with CEO presenting on March 14.",
+          "source": "Datavault AI Press Release",
+          "url": "https://ir.datavaultsite.com/news-events/press-releases/detail/432/datavault-ai-ceo-nathaniel-bradley-to-present-at-luminary"
         }
       ],
       "citations": [
-        "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026",
-        "https://www.nextias.com/ca/editorial-analysis/11-03-2026/ai-tech-competition",
-        "https://www.buffalo.edu/news/releases/2026/03/ai-wildfire-spread-prediction.html",
-        "https://news.wm.edu/2026/03/11/ai-for-social-impact-from-models-to-meaningful-action-for-large-cyber-physical-systems/",
-        "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311",
-        "https://www.hstoday.us/subject-matter-areas/cybersecurity/2026-global-threat-intelligence-report-highlights-rise-in-agentic-ai-cybercrime/",
-        "https://upcea.edu/new-book-explores-how-artificial-intelligence-is-transforming-online-higher-education-administration/"
+        "https://www.cio.com/article/4143912/ai-the-default-enterprise-accelerator-key-insights-from-the-threatlabz-2026-ai-security-report-2.html",
+        "https://www.sciencenews.org/article/ai-autocomplete-social-issues-views",
+        "https://www.computerworld.com/article/4143931/anthropic-announces-think-tank-to-examine-ais-effect-on-economy-and-society-2.html",
+        "https://ir.datavaultsite.com/news-events/press-releases/detail/432/datavault-ai-ceo-nathaniel-bradley-to-present-at-luminary"
       ]
     },
     "gaming": {
@@ -288,39 +387,54 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Snail Games Unveils PixARK Worlds and Gobby Gang at GDC 2026 Private Showcase",
-          "summary": "Snail Games hosted an invite-only event at GDC 2026, announcing PixARK Worlds for Nintendo Switch 2 in the ARK franchise and a new indie title Gobby Gang now wishlisted on Steam. Bellwright also hit 1 million units sold, nearing full release and console ports.",
-          "source": "GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/03/11/3253760/0/en/Snail-Games-Kicks-Off-GDC-2026-with-New-Game-Updates-and-Announcements.html"
+          "title": "Garry Newman Announces s&box Pricing Similar to Garry's Mod",
+          "summary": "Garry Newman states his game creation platform s&box will likely be priced similarly to Garry's Mod, which he originally expected to earn only $30,000 in a best-case scenario.",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/garry-newman-says-his-game-creation-platform-s-and-box-will-probably-be-priced-similarly-to-garrys-mod/"
         },
         {
-          "title": "Xsolla Releases Report on Key Opportunities in Video Games Including AI and Cross-Platform Growth",
-          "summary": "Xsolla's new report highlights AI reducing development timelines by 20% and support costs by 40%, 43% of US gamers playing across platforms, and growth in live service models like PUBG and Roblox. It coincides with their Platinum sponsorship at Pocket Gamer Connects Summit San Francisco 2026.",
-          "source": "BusinessWire",
-          "url": "https://www.businesswire.com/news/home/20260311021020/en/Xsolla-Releases-New-Industry-Report-Identifying-the-Biggest-Opportunities-for-the-Future-of-Video-Games-for-Developers"
+          "title": "Sega Addresses $200 Million Rovio Impairment Write-Down",
+          "summary": "Sega attributes a $200 million impairment on its $776 million Rovio acquisition to overreliance on local management and challenges integrating Rovio's Beacon system into its mobile games, pledging marketing and sales reforms.",
+          "source": "WN Hub",
+          "url": "https://wnhub.io/news/other/item-50305"
         },
         {
-          "title": "Stardock Expands Publishing Services for Indie Developers",
-          "summary": "Stardock Entertainment announced it will publish three indie titles per year, focusing on marketing, testing, support, and long-term partnerships to help outstanding games reach audiences.",
-          "source": "GameDeveloper.com",
-          "url": "https://www.gamedeveloper.com/business/stardock-announces-expansion-of-publishing-services-for-indie-devs"
+          "title": "Boss Fight Entertainment Revived After Netflix Closure",
+          "summary": "The studio behind Squid Game: Unleashed, closed by Netflix six months ago, has regrouped as Bossfight and is developing a new PC and mobile game.",
+          "source": "WN Hub",
+          "url": "https://wnhub.io/news/other/item-50302"
         },
         {
-          "title": "VanEck Gaming ETF Faces Pressure from GTA VI Delay and Weak Consumer Sentiment",
-          "summary": "VanEck's Video Gaming and eSports ETF (ESPO) is down 10.5% YTD amid economic uncertainty and Take-Two Interactive's GTA VI delay impacting its 5.66% weighting in the $300B gaming market fund.",
-          "source": "247 Wall St.",
-          "url": "https://247wallst.com/investing/2026/03/11/vanecks-gaming-etf-faces-a-critical-quarter-as-march-rebalancing-approaches/"
+          "title": "Highguard Free-to-Play Shooter Shutting Down March 12",
+          "summary": "Wildlight Entertainment's hero shooter Highguard, released earlier this year, will close on March 12 due to failure to build a sustainable player base.",
+          "source": "AOL",
+          "url": "https://www.aol.com/lifestyle/free-ps5-shooter-being-delisted-214926001.html"
+        },
+        {
+          "title": "For Honor Launches Year 10 Cycle of War on March 12",
+          "summary": "Ubisoft's For Honor celebrates its 10th year with the Cycle of War launch on March 12, including hero balancing updates, free Gryphon trials, and continued support beyond Year 10.",
+          "source": "Ubisoft",
+          "url": "https://www.ubisoft.com/en-us/game/for-honor/news-updates/2vycAzQWEUwVricMeJphGh/warriors-den-recap-y10s1-tu1"
+        },
+        {
+          "title": "PS Plus Extra and Premium March 2026 Games Confirmed",
+          "summary": "Sony has officially revealed the full list of games joining PS Plus Extra and Premium for March 2026 following an earlier leak.",
+          "source": "AOL",
+          "url": "https://www.aol.com/lifestyle/ps-plus-extra-premium-march-153239053.html"
         }
       ],
       "citations": [
-        "https://www.globenewswire.com/news-release/2026/03/11/3253760/0/en/Snail-Games-Kicks-Off-GDC-2026-with-New-Game-Updates-and-Announcements.html",
-        "https://www.businesswire.com/news/home/20260311021020/en/Xsolla-Releases-New-Industry-Report-Identifying-the-Biggest-Opportunities-for-the-Future-of-Video-Games-for-Developers",
-        "https://www.youtube.com/watch?v=PdoFCb05JRY",
-        "https://247wallst.com/investing/2026/03/11/vanecks-gaming-etf-faces-a-critical-quarter-as-march-rebalancing-approaches/",
-        "https://www.gamedeveloper.com/business/stardock-announces-expansion-of-publishing-services-for-indie-devs"
+        "https://www.pcgamer.com/gaming-industry/garry-newman-says-his-game-creation-platform-s-and-box-will-probably-be-priced-similarly-to-garrys-mod/",
+        "https://wnhub.io/news/other/item-50305",
+        "https://www.mensjournal.com/entertainment/nintendo-switch-2-2026-release-schedule-confirmed-games-and-dates",
+        "https://wnhub.io/news/other/item-50302",
+        "https://www.aol.com/lifestyle/ps-plus-extra-premium-march-153239053.html",
+        "https://www.aol.com/lifestyle/free-ps5-shooter-being-delisted-214926001.html",
+        "https://www.ubisoft.com/en-us/game/for-honor/news-updates/2vycAzQWEUwVricMeJphGh/warriors-den-recap-y10s1-tu1",
+        "https://gamerant.com/game/name-that-game-2026-03-12/"
       ]
     },
     "tech_news": {
@@ -328,19 +442,49 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 1,
+      "count": 5,
       "items": [
         {
-          "title": "Fibocom Launches MQ771-GL Ultra-Low Power Module for Smart Pet Collars at Embedded World 2026",
-          "summary": "Fibocom unveiled the MQ771-GL, a compact (17.7 mm × 15.8 mm) LPWA module with PSM current as low as 1 μA, extending battery life from days to months and supporting global Cat.M/NB-IoT bands for reliable pet tracking worldwide.",
-          "source": "PRNewswire / Fibocom Wireless Inc.",
-          "url": "https://www.prnewswire.com/news-releases/embedded-world-2026--leading-the-pet-tech-revolution-mq771-gl-redefines-smart-pet-collars-302711073.html"
+          "title": "Oracle Shares Surge 14% After Strong Q3 Earnings and 2027 Outlook",
+          "summary": "Oracle beat Q3 estimates and provided an upbeat 2027 sales outlook, boosting shares by 14% and lifting the software sector despite year-to-date declines.",
+          "source": "247 Wall St",
+          "url": "https://247wallst.com/investing/2026/03/11/live-nasdaq-composite-tech-sentiment-improves-but-oil-a-wildcard-over-markets/"
+        },
+        {
+          "title": "Nvidia Invests $2 Billion in Nebius for Data Center Development",
+          "summary": "Nvidia announced a $2 billion investment in Nebius to develop data centers, sending Nebius shares up 14.6% amid efforts to diversify beyond major hyperscalers.",
+          "source": "247 Wall St",
+          "url": "https://247wallst.com/investing/2026/03/11/live-nasdaq-composite-tech-sentiment-improves-but-oil-a-wildcard-over-markets/"
+        },
+        {
+          "title": "Synopsys Launches Ansys 2026 R1 with Advanced Simulation Tools",
+          "summary": "Synopsys released Ansys 2026 R1 at Synopsys Converge, featuring HFSS-PI for broadband 3D power integrity simulation to address chip-package integration challenges.",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/synopsys-launches-ansys-2026-r1-to-re-engineer-engineering-with-joint-solutions-and-ai-powered-products-302711215.html"
+        },
+        {
+          "title": "Chip Stocks Rise: Micron and AMD Gain 3% Each in Mixed Market",
+          "summary": "Micron Tech and AMD shares each rose about 3% as chip stocks stood out positively amid improving tech sentiment, while oil prices edged higher.",
+          "source": "247 Wall St",
+          "url": "https://247wallst.com/investing/2026/03/11/live-nasdaq-composite-tech-sentiment-improves-but-oil-a-wildcard-over-markets/"
+        },
+        {
+          "title": "Synopsys Introduces Software-Defined Hardware-Assisted Verification",
+          "summary": "Synopsys unveiled software-defined hardware-assisted verification solutions at Synopsys Converge to support advanced chip design for the AI era.",
+          "source": "Synopsys News",
+          "url": "https://news.synopsys.com/2026-03-11-Synopsys-Introduces-Software-Defined-Hardware-Assisted-Verification-to-Enable-AI-Proliferation"
         }
       ],
       "citations": [
-        "https://www.prnewswire.com/news-releases/embedded-world-2026--leading-the-pet-tech-revolution-mq771-gl-redefines-smart-pet-collars-302711073.html",
-        "https://www.youtube.com/shorts/ZOxlS985TJM",
-        "https://www.youtube.com/watch?v=UWWQRm-SxN0"
+        "https://247wallst.com/investing/2026/03/11/live-nasdaq-composite-tech-sentiment-improves-but-oil-a-wildcard-over-markets/",
+        "https://www.prnewswire.com/news-releases/synopsys-launches-ansys-2026-r1-to-re-engineer-engineering-with-joint-solutions-and-ai-powered-products-302711215.html",
+        "https://www.barchart.com/story/news/692967/synopsys-launches-ansys-2026-r1-to-re-engineer-engineering-with-joint-solutions-and-ai-powered-products",
+        "https://news.synopsys.com/2026-03-11-Synopsys-Introduces-Software-Defined-Hardware-Assisted-Verification-to-Enable-AI-Proliferation",
+        "https://www.stocktitan.net/news/SNPS/synopsys-launches-ansys-2026-r1-to-re-engineer-engineering-with-z4qwaz2qg7po.html",
+        "https://www.youtube.com/watch?v=hYDsQTyaaFw",
+        "https://business20channel.tv/top-health-tech-priorities-for-2026-according-to-mckinsey-deloitte-and-samsung-11-03-2026",
+        "https://www.news4jax.com/business/2026/03/11/a-civil-rights-lawyer-will-lead-the-billionaire-ebay-founders-philanthropy-for-more-inclusive-ai/",
+        "https://www.chinadailyasia.com/article/630274"
       ]
     }
   }
