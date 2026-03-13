@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T18:18:43.454924+00:00",
-  "generated_at_human": "2026-03-12 18:18 UTC",
+  "generated_at": "2026-03-13T00:25:32.405153+00:00",
+  "generated_at_human": "2026-03-13 00:25 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,52 +8,124 @@
       "count": 25,
       "items": [
         {
+          "title": "Shall I implement it? No",
+          "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+          "score": 656,
+          "comments": 242
+        },
+        {
           "title": "Malus – Clean Room as a Service",
           "url": "https://malus.sh",
-          "score": 577,
-          "comments": 212
+          "score": 993,
+          "comments": 387
         },
         {
           "title": "Bubble Sorted Amen Break",
           "url": "https://parametricavocado.itch.io/amen-sorting",
-          "score": 59,
-          "comments": 28
-        },
-        {
-          "title": "The Met Releases High-Def 3D Scans of 140 Famous Art Objects",
-          "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
-          "score": 98,
-          "comments": 21
-        },
-        {
-          "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
-          "url": "https://github.com/onecli/onecli",
-          "score": 45,
-          "comments": 20
+          "score": 247,
+          "comments": 83
         },
         {
           "title": "Reversing memory loss via gut-brain communication",
           "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-          "score": 48,
-          "comments": 8
+          "score": 209,
+          "comments": 74
         },
         {
-          "title": "US banks' exposure to private credit hits $300B (2025)",
-          "url": "https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/",
-          "score": 184,
-          "comments": 108
+          "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
+          "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+          "score": 307,
+          "comments": 355
         },
         {
-          "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
-          "url": "https://codespeak.dev/",
-          "score": 185,
-          "comments": 153
+          "title": "The Met releases high-def 3D scans of 140 famous art objects",
+          "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+          "score": 206,
+          "comments": 41
         },
         {
-          "title": "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
-          "url": "https://github.com/understudy-ai/understudy",
-          "score": 19,
-          "comments": 2
+          "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+          "url": "https://aminrj.com/posts/rag-document-poisoning/",
+          "score": 51,
+          "comments": 18
+        },
+        {
+          "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+          "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+          "score": 315,
+          "comments": 172
+        },
+        {
+          "title": "Bringing Chrome to ARM64 Linux Devices",
+          "url": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html",
+          "score": 59,
+          "comments": 39
+        },
+        {
+          "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+          "url": "https://github.com/onecli/onecli",
+          "score": 118,
+          "comments": 38
+        },
+        {
+          "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
+          "url": "https://ionrouter.io",
+          "score": 43,
+          "comments": 19
+        },
+        {
+          "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
+          "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
+          "score": 223,
+          "comments": 330
+        },
+        {
+          "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
+          "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
+          "score": 35,
+          "comments": 7
+        },
+        {
+          "title": "Dolphin Progress Release 2603",
+          "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+          "score": 295,
+          "comments": 49
+        },
+        {
+          "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
+          "url": "https://github.com/wolfssl/wolfip",
+          "score": 80,
+          "comments": 12
+        },
+        {
+          "title": "Runners who churn butter on their runs",
+          "url": "https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/",
+          "score": 83,
+          "comments": 40
+        },
+        {
+          "title": "Big data on the cheapest MacBook",
+          "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+          "score": 298,
+          "comments": 249
+        },
+        {
+          "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+          "url": "https://github.com/jrswab/axe",
+          "score": 138,
+          "comments": 93
+        },
+        {
+          "title": "Are LLM merge rates not getting better?",
+          "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+          "score": 110,
+          "comments": 110
+        },
+        {
+          "title": "Understanding the Go Runtime: The Scheduler",
+          "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
+          "score": 3,
+          "comments": 0
         },
         {
           "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)",
@@ -62,100 +134,28 @@
           "comments": 0
         },
         {
-          "title": "Asia rolls out 4-day weeks, WFH to solve fuel crisis caused by Iran war",
-          "url": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
-          "score": 235,
-          "comments": 136
+          "title": "Show HN: Detect any object in satellite imagery using a text prompt",
+          "url": "https://www.useful-ai-tools.com/tools/satellite-analysis-demo/",
+          "score": 10,
+          "comments": 5
         },
         {
-          "title": "The Cost of Indirection in Rust",
-          "url": "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/",
-          "score": 49,
-          "comments": 9
-        },
-        {
-          "title": "Dolphin Progress Release 2603",
-          "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
-          "score": 232,
-          "comments": 38
-        },
-        {
-          "title": "Scrt: A CLI secret manager for developers, sysadmins and DevOps",
-          "url": "https://github.com/loderunner/scrt",
-          "score": 5,
-          "comments": 2
-        },
-        {
-          "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
-          "url": "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/",
-          "score": 128,
-          "comments": 24
-        },
-        {
-          "title": "Full Spectrum and Infrared Photography",
-          "url": "https://timstr.website/blog/fullspectrumphotography.html",
-          "score": 14,
-          "comments": 1
-        },
-        {
-          "title": "DDR4 Sdram – Initialization, Training and Calibration",
-          "url": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
-          "score": 6,
-          "comments": 0
-        },
-        {
-          "title": "Show HN: Web-based ANSI art viewer",
-          "url": "https://sure.is/ansi/",
-          "score": 8,
-          "comments": 2
-        },
-        {
-          "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
-          "url": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
-          "score": 42,
-          "comments": 8
-        },
-        {
-          "title": "Claude now creates interactive charts, diagrams and visualizations",
-          "url": "https://claude.com/blog/claude-builds-visuals",
-          "score": 83,
-          "comments": 47
-        },
-        {
-          "title": "Avoiding Trigonometry (2013)",
-          "url": "https://iquilezles.org/articles/noacos/",
-          "score": 182,
-          "comments": 49
-        },
-        {
-          "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
-          "url": "https://github.com/wolfssl/wolfip",
-          "score": 15,
-          "comments": 0
-        },
-        {
-          "title": "Long Overlooked as Crucial to Life, Fungi Start to Get Their Due",
-          "url": "https://e360.yale.edu/features/fungi-kingdom",
-          "score": 27,
-          "comments": 0
-        },
-        {
-          "title": "Emacs internals: Tagged pointers vs. C++ std:variant and LLVM (Part 3)",
-          "url": "https://thecloudlet.github.io/blog/project/emacs-03/",
-          "score": 49,
-          "comments": 19
-        },
-        {
-          "title": "3D-Knitting: The Ultimate Guide",
-          "url": "https://www.oliver-charles.com/pages/3d-knitting",
-          "score": 196,
+          "title": "NASA's DART spacecraft changed an asteroid's orbit around the sun",
+          "url": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
+          "score": 103,
           "comments": 72
         },
         {
-          "title": "Lf-lean: The frontier of verified software engineering",
-          "url": "https://theorem.dev/blog/lf-lean/",
-          "score": 11,
-          "comments": 2
+          "title": "An old photo of a large BBS (2022)",
+          "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
+          "score": 153,
+          "comments": 109
+        },
+        {
+          "title": "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
+          "url": "https://github.com/understudy-ai/understudy",
+          "score": 80,
+          "comments": 24
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 70224,
-          "change_24h": -0.69,
-          "change_7d": -0.74,
-          "market_cap": 1405257678474
+          "price": 71622,
+          "change_24h": 1.84,
+          "change_7d": 0.55,
+          "market_cap": 1430593074529
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2058.52,
-          "change_24h": -0.48,
-          "change_7d": -1.07,
-          "market_cap": 248409431695
+          "price": 2132.73,
+          "change_24h": 3.87,
+          "change_7d": 2.47,
+          "market_cap": 256433775449
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 86.52,
-          "change_24h": -1.43,
-          "change_7d": -2.72,
-          "market_cap": 49417395688
+          "price": 89.05,
+          "change_24h": 2.79,
+          "change_7d": -0.19,
+          "market_cap": 50299294096
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.094321,
-          "change_24h": 0.36,
-          "change_7d": 1.28,
-          "market_cap": 14463483691
+          "price": 0.096738,
+          "change_24h": 4.15,
+          "change_7d": 3.0,
+          "market_cap": 14727242771
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.262278,
-          "change_24h": -1.13,
-          "change_7d": -2.45,
-          "market_cap": 9659034020
+          "price": 0.268808,
+          "change_24h": 2.46,
+          "change_7d": -0.08,
+          "market_cap": 9889171347
         }
       ]
     },
@@ -212,19 +212,19 @@
       "count": 10,
       "items": [
         {
+          "name": "Palladium Network",
+          "symbol": "PLLD",
+          "market_cap_rank": 482
+        },
+        {
           "name": "Pi Network",
           "symbol": "PI",
-          "market_cap_rank": 39
+          "market_cap_rank": 36
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 15
+          "name": "Aave",
+          "symbol": "AAVE",
+          "market_cap_rank": 51
         },
         {
           "name": "Bittensor",
@@ -232,34 +232,34 @@
           "market_cap_rank": 43
         },
         {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
           "market_cap_rank": 104
         },
         {
-          "name": "Virtuals Protocol",
-          "symbol": "VIRTUAL",
-          "market_cap_rank": 102
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Turbo",
-          "symbol": "TURBO",
-          "market_cap_rank": 314
-        },
-        {
-          "name": "Ondo",
-          "symbol": "ONDO",
-          "market_cap_rank": 60
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 15
         },
         {
           "name": "Venice Token",
           "symbol": "VVV",
-          "market_cap_rank": 150
+          "market_cap_rank": 145
+        },
+        {
+          "name": "Artificial Superintelligence Alliance",
+          "symbol": "FET",
+          "market_cap_rank": 113
+        },
+        {
+          "name": "Turbo",
+          "symbol": "TURBO",
+          "market_cap_rank": 311
         }
       ]
     },
@@ -268,53 +268,12 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 6,
-      "items": [
-        {
-          "title": "S&P 500 Struggles Below 6800 Amid Energy Surge and Sector Weakness",
-          "summary": "The S&P 500 fumbled support at 6800, closing down 0.13% with choppy trading, while energy stocks led gains due to surging crude oil prices; financials and consumer staples weakened significantly.",
-          "source": "Investor's Business Daily / Ira Epstein",
-          "url": "https://www.youtube.com/watch?v=5OAbDZ7HCdk"
-        },
-        {
-          "title": "Major Indexes Show Relative Weakness; NASDAQ and Russell 2000 Under Pressure",
-          "summary": "S&P 500 down 0.13%, NASDAQ and Russell 2000 (IWO) rejected moving averages with lower highs and lows; market breadth deteriorating amid elevated volatility.",
-          "source": "Nick Drendel / Deepvue",
-          "url": "https://www.youtube.com/watch?v=KBCTmuAMbRw"
-        },
-        {
-          "title": "Crude Oil Prices Surge on Geopolitical Tensions and Shipping Issues",
-          "summary": "WTI crude finished at $87/barrel and Brent above $90, driven by volatility from Iran conflict, Strait of Hormuz disruptions, and potential US oil reserve taps; energy sector (XLE) outperforms.",
-          "source": "Bloomberg Brief / Fox Business",
-          "url": "https://www.youtube.com/watch?v=gwaRtSHoqnA"
-        },
-        {
-          "title": "Rising Treasury Yields Signal Fewer Fed Rate Cuts Amid Inflation Fears",
-          "summary": "10-year Treasury yields rose as markets price in reduced Fed rate cuts due to commodity-driven inflation concerns from oil and soft commodities; VIX remains elevated around 24.",
-          "source": "Market Misbehavior with Dave Keller, CMT",
-          "url": "https://www.youtube.com/watch?v=5OAbDZ7HCdk"
-        },
-        {
-          "title": "Trump Signals Potential US Oil Reserve Release as Production Restarts",
-          "summary": "President Trump indicated US may tap strategic oil reserves amid rising prices; California offshore oil production restart news boosted energy stocks late in the session.",
-          "source": "Balance of Show",
-          "url": "https://www.youtube.com/watch?v=gwaRtSHoqnA"
-        },
-        {
-          "title": "Iran Conflict Escalates Oil Volatility; Worst-Case Scenarios for Markets",
-          "summary": "Wall Street closed weakly with Dow most affected; heightened oil volatility from Iran tensions and Strait of Hormuz issues raises fears of prolonged war and soaring energy prices.",
-          "source": "Unnamed Spanish Market Analysis",
-          "url": "https://www.youtube.com/watch?v=Tgzky-PbnMc"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=KBCTmuAMbRw",
-        "https://www.youtube.com/watch?v=5OAbDZ7HCdk",
-        "https://www.youtube.com/watch?v=gyMwh8SoCQU",
-        "https://www.youtube.com/watch?v=Tgzky-PbnMc",
-        "https://www.youtube.com/watch?v=EEjUnFgIYuY",
-        "https://www.youtube.com/watch?v=gwaRtSHoqnA",
-        "https://www.foxbusiness.com/video/6390748589112"
+        "https://robinhood.com/us/en/prediction-markets/financial/events/nasdaq-100-futures-price-on-march-13-2026-mar-13-2026/",
+        "https://robinhood.com/us/en/prediction-markets/financial/events/sp-500-futures-price-on-march-13-2026-mar-13-2026/",
+        "https://www.commonfund.org/research-center/press-releases/institutional-investors-lower-2026-return-expectations-amid-geopolitical-risks?hs_amp=true"
       ]
     },
     "crypto_news": {
@@ -322,54 +281,49 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "title": "Wells Fargo Files Trademark for WFUSD Stablecoin",
-          "summary": "Wells Fargo has filed a crypto-related trademark application for WFUSD, indicating a major push into cryptocurrency and blockchain services. This move signals traditional finance's deepening involvement in digital assets.",
+          "summary": "Wells Fargo has filed a crypto-related trademark application for WFUSD, signaling a deeper push into cryptocurrency and blockchain services, including payment processing. This move indicates major bank adoption in crypto.",
           "source": "Thinking Crypto",
           "url": "https://www.youtube.com/watch?v=1cATbOcOsSA"
+        },
+        {
+          "title": "BlackRock Launches Ethereum Staking ETF",
+          "summary": "BlackRock has officially launched its Ethereum staking ETF, enabling staking of ETH holdings and potentially driving rotation into Ethereum amid market pressures. This is seen as a significant development for institutional ETH adoption.",
+          "source": "Discover Crypto",
+          "url": "https://www.youtube.com/watch?v=JrqgBJtEhNE"
         },
         {
           "title": "Mastercard Launches New Crypto Partner Program",
-          "summary": "Mastercard announced a new Crypto Partner Program to support blockchain and crypto integrations. The rollout initially covers 32 Ethereum Virtual Machine compatible blockchains including Ethereum, BNB Smart Chain, Polygon, and others.",
+          "summary": "Mastercard has introduced a new Crypto Partner Program to expand its blockchain and cryptocurrency services. This comes alongside other traditional finance integrations like NASDAQ's partnership with Kraken for tokenized stocks.",
           "source": "Thinking Crypto",
           "url": "https://www.youtube.com/watch?v=1cATbOcOsSA"
         },
         {
-          "title": "Ledger Partners with Babylon for Trustless Bitcoin Vaults",
-          "summary": "Ledger signers will be used for Babylon's BTC vaults, allowing Bitcoin holders to lock tokens into programmable contracts while maintaining self-custody. This enhances security and adoption for Bitcoin staking.",
+          "title": "Babylon Labs Integrates with Ledger for Bitcoin Vaults",
+          "summary": "Babylon Labs, a Bitcoin staking infrastructure developer, has partnered with Ledger to expand access to Bitcoin vaults for use as collateral in financial applications without relinquishing custody.",
           "source": "Thinking Crypto",
           "url": "https://www.youtube.com/watch?v=1cATbOcOsSA"
         },
         {
-          "title": "Geopolitical Tensions and Oil Prices Threaten Crypto Markets",
-          "summary": "Rising oil prices due to geopolitical tensions in the Strait of Hormuz and Middle East conflicts are creating supply shocks, potentially fueling inflation and impacting crypto prices. Analysts warn of a possible market correction similar to January's Bitcoin drop from $90K to $60K.",
-          "source": "Crypto Banter",
-          "url": "https://www.youtube.com/watch?v=9U5c37S6B6A"
-        },
-        {
-          "title": "Strive Asset Management Buys $50M in STRC for High Yields",
-          "summary": "Strive is purchasing $50 million worth of STRC, a low-risk project offering 11.5% yields compared to 3.7% on US 10-year Treasuries. This reflects growing institutional interest in crypto yield strategies.",
-          "source": "Crypto for EveryOne",
-          "url": "https://www.youtube.com/watch?v=yf6AnOj5dC8"
-        },
-        {
-          "title": "Fund Launches Zcash Mining Pool Amid Token Recovery",
-          "summary": "A new fund has launched a Zcash mining pool to mutualize efforts and boost mining efficiency. This comes as Zcash token shows signs of recovery after recent declines.",
-          "source": "Crypto for EveryOne",
-          "url": "https://www.youtube.com/watch?v=yf6AnOj5dC8"
+          "title": "Crypto Markets Face 'Crypto Winter' Amid Outflows and Geopolitical Tensions",
+          "summary": "Crypto markets are cooling with five weeks of consecutive outflows following Bitcoin's $100K breakthrough, amid debates on Trump's pro-crypto stance versus Wall Street dynamics and rising geopolitical risks impacting prices.",
+          "source": "한국경제TV",
+          "url": "https://www.youtube.com/watch?v=QHF2pJgg2gM"
         }
       ],
       "citations": [
         "https://www.youtube.com/watch?v=1cATbOcOsSA",
+        "https://www.youtube.com/watch?v=tP0vQSaycgM",
+        "https://www.youtube.com/watch?v=JrqgBJtEhNE",
+        "https://www.youtube.com/watch?v=oEE7Q0RGutM",
         "https://www.youtube.com/watch?v=9U5c37S6B6A",
-        "https://www.youtube.com/watch?v=yf6AnOj5dC8",
-        "https://www.youtube.com/watch?v=f-W5BdJ4VAQ",
-        "https://www.youtube.com/watch?v=_Elz-3y9BaI",
-        "https://www.youtube.com/watch?v=zkesbsWmC8Y",
-        "https://www.youtube.com/watch?v=byk3W3Xpn4k",
-        "https://www.euronews.com/video/2026/03/12/latest-news-bulletin-march-12th-2026-morning"
+        "https://www.youtube.com/watch?v=QHF2pJgg2gM",
+        "https://www.youtube.com/watch?v=4SZ3mwkD1fg",
+        "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-at-joint-base-andrews-mar-11-2026/",
+        "https://www.youtube.com/watch?v=Xdtty2r3Huc"
       ]
     },
     "ai_news": {
@@ -377,28 +331,74 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 9,
       "items": [
         {
-          "title": "UC San Diego Develops Brain-Inspired Neuromorphic Computing Platform for Energy-Efficient AI",
-          "summary": "Researchers at UC San Diego have created a neuromorphic computing platform that integrates memory and computation on a single chip, mimicking neural network interactions to boost pattern recognition speed and accuracy for tasks like speech recognition and epileptic seizure detection. The system achieves high energy efficiency at 0.2 nanojoules per operation, ideal for edge AI in wearables and sensors.",
-          "source": "Quantum Zeitgeist / UCSD Today",
-          "url": "https://quantumzeitgeist.com/uc-san-diego-ai-energy-efficiency/"
+          "title": "Algebrik AI's Loan Origination Suite Selected by Gold Coast Federal Credit Union",
+          "summary": "Algebrik AI announced that Gold Coast Federal Credit Union has selected Algebrik ONE, its agentic AI-powered Loan Origination Suite, to power fully digital lending and account opening experiences for members in Palm Beach and surrounding Florida counties.",
+          "source": "AI & Finance™",
+          "url": "https://dwealth.news/2026/03/ai-finance-news-for-the-week-ending-3-13-26/"
         },
         {
-          "title": "NVIDIA Releases Model to Tackle Context and Cost Issues in Autonomous AI Agents",
-          "summary": "NVIDIA has introduced a new model addressing key challenges in autonomous agents related to context management and operational costs, enhancing AI capabilities as noted in recent coverage.",
-          "source": "Quantum Zeitgeist",
-          "url": "https://quantumzeitgeist.com/uc-san-diego-ai-energy-efficiency/"
+          "title": "Fideo Intelligence Expands Dark Web Monitoring for Fraud Detection",
+          "summary": "Fideo Intelligence announced an expansion of its dark web monitoring and threat intelligence capabilities to help financial institutions and fintech companies detect fraud earlier and reduce payment risk.",
+          "source": "AI & Finance™",
+          "url": "https://dwealth.news/2026/03/ai-finance-news-for-the-week-ending-3-13-26/"
+        },
+        {
+          "title": "Huawei Upgrades Banking AI and Foundation Model Solutions",
+          "summary": "Huawei unveiled upgraded Banking AI solutions including SuperPoD offerings, AI Data Platform, and Xinghe AI Network, reducing agent development cycles from months to weeks and improving prompt accuracy by 10%.",
+          "source": "AI & Finance™",
+          "url": "https://dwealth.news/2026/03/ai-finance-news-for-the-week-ending-3-13-26/"
+        },
+        {
+          "title": "Manulife Launches Enterprise AI Platform in Beta Testing",
+          "summary": "Manulife announced its enterprise AI platform now in beta, providing a secure foundation for building and deploying AI agents with embedded governance and Responsible AI practices, developed in partnership with Akka.",
+          "source": "AI & Finance™",
+          "url": "https://dwealth.news/2026/03/ai-finance-news-for-the-week-ending-3-13-26/"
+        },
+        {
+          "title": "Google Uses AI to Predict Flash Floods from Historical News Reports",
+          "summary": "Google researchers used Gemini to analyze 5 million news articles and identify 2.6 million flood reports, creating a geo-tagged dataset called 'Groundsource' for improved flash flood prediction.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/"
+        },
+        {
+          "title": "USC Undergraduates Identify Censorship Patterns in DeepSeek LLM",
+          "summary": "A USC study found that DeepSeek retains critical internal reasoning but outputs text that 'leans toward dominant ideological or state-aligned narratives,' highlighting how large language models may omit alternative perspectives.",
+          "source": "USC Viterbi School of Engineering",
+          "url": "https://viterbischool.usc.edu/news/2026/03/from-censored-chatbots-to-cinematic-visuals-usc-undergraduates-push-the-boundaries-of-ai/"
+        },
+        {
+          "title": "USC Research Uses Image Generation Models to Train Robots",
+          "summary": "A USC study accepted to the International Conference on Robotics and Automation demonstrates using AI image generation models to train robots for complex two-handed tasks like opening jars, reducing expensive data collection.",
+          "source": "USC Viterbi School of Engineering",
+          "url": "https://viterbischool.usc.edu/news/2026/03/from-censored-chatbots-to-cinematic-visuals-usc-undergraduates-push-the-boundaries-of-ai/"
+        },
+        {
+          "title": "Lawmakers Propose AI Transparency and Health Insurance Safeguards",
+          "summary": "Minnesota lawmakers introduced multiple AI regulation measures, including requirements for companies to disclose when users interact with AI systems and prohibitions on health insurers using AI for prior authorization decisions without human review.",
+          "source": "Timberjay",
+          "url": "http://www.timberjay.com/stories/lawmakers-push-safeguards-as-artificial-intelligence-expands-rapidly,24119"
+        },
+        {
+          "title": "ITIF Report: Public Data Rules Shaping AI Development",
+          "summary": "A new analysis examines how government regulations on publicly available data are influencing AI development, recommending focus on harmful outputs rather than restricting training data collection.",
+          "source": "Information Technology and Innovation Foundation",
+          "url": "https://itif.org/publications/2026/03/13/how-rules-for-publicly-available-data-are-shaping-the-future-of-ai/"
         }
       ],
       "citations": [
-        "https://quantumzeitgeist.com/uc-san-diego-ai-energy-efficiency/",
-        "https://ischool.syracuse.edu/how-to-learn-ai/",
-        "https://www.globenewswire.com/news-release/2026/03/12/3254350/0/en/AI-in-Precision-Medicine-Report-2026-2040-Industry-Trends-and-Global-Forecasts-Market-to-Grow-by-Over-120-Billion-at-a-CAGR-of-28.html",
-        "https://www.cio.com/article/4142306/finance-2026-a-preview-of-the-year-ai-transformation-gets-real.html",
-        "https://www.prnewswire.com/news-releases/transcelerate-to-advance-industry-dialogue-on-patient-centered-innovation-ai-and-real-world-evidence-at-phuse-us-connect-2026-302711433.html",
-        "https://oncologynews.com.au/editors-choice/artificial-intelligence-could-reshape-multiple-stages-of-oncology-clinical-trials/"
+        "https://dwealth.news/2026/03/ai-finance-news-for-the-week-ending-3-13-26/",
+        "https://itif.org/publications/2026/03/13/how-rules-for-publicly-available-data-are-shaping-the-future-of-ai/",
+        "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+        "https://viterbischool.usc.edu/news/2026/03/from-censored-chatbots-to-cinematic-visuals-usc-undergraduates-push-the-boundaries-of-ai/",
+        "https://calendar.gatech.edu/event/2026/03/13/generative-ai-global-social-impact-towards-solving-deployment-bottleneck",
+        "http://www.timberjay.com/stories/lawmakers-push-safeguards-as-artificial-intelligence-expands-rapidly,24119",
+        "https://learningnews.com/news/learning-technologies/2026/ld%E2%80%99s-future-debated-at-learning-technologies-2026",
+        "https://www.cio.com/article/4144164/oracle-to-shed-developers-as-it-brings-in-ai-tools.html",
+        "https://internationalbanker.com/technology/why-ai-native-platforms-are-sparking-so-much-interest/",
+        "https://www.newswise.com/articles/from-pandemic-radars-to-analog-living-jmir-publications-explores-the-frontiers-of-ai-safety-and-digital-wellness/?ad2f=1&aid=844825"
       ]
     },
     "gaming": {
@@ -406,32 +406,57 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 7,
       "items": [
         {
-          "title": "Highguard Multiplayer Shooter Shuts Down Permanently on March 12, 2026",
-          "summary": "The free-to-play hero shooter Highguard, launched less than two months ago on January 26 for PC, PS5, and Xbox Series X/S, will shut down today after failing to sustain a player base despite initial 2 million players. Developers Wildlight Entertainment are releasing a final update with new content before closure.",
-          "source": "RTL Today",
-          "url": "https://today.rtl.lu/radio/news/gaming-news-and-previews-2073556917"
+          "title": "Bungie Announces Guardian Games 2026 and Destiny 2 Updates",
+          "summary": "Bungie revealed details in the latest TWAB including the Guardian Games 2026 launch, a new community challenge, Trials of Osiris map Javelin 4 with Corundum Hammer reward, and confirmation of a positive scenario for the June Pantheon 2.0 update amid the Destiny 2: Renegades Expansion.",
+          "source": "KackisHD / Bungie.net",
+          "url": "https://www.bungie.net/7/en/News/Article/twid_03_12_2026"
         },
         {
-          "title": "Global Video Game Market Valued at ~USD 187 Billion with Strong Growth Potential",
-          "summary": "Ken Research reports the global video game industry is valued at approximately USD 187 billion, highlighting robust long-term growth prospects amid ongoing market expansion.",
-          "source": "OpenPR / Ken Research",
-          "url": "https://www.openpr.com/news/4422331/global-video-game-market-ken-research-stated-the-industry"
+          "title": "Rumor: PlayStation 6 and Xbox Next-Gen (Project Helix) Launching Holiday 2027",
+          "summary": "Rumors indicate both PlayStation 6 and Xbox's Project Helix console are targeting a holiday 2027 release; Xbox also unveiled initial tech details for Helix and a streamlined Xbox UI coming to Windows 11 PCs in April.",
+          "source": "Giant Bomb",
+          "url": "https://www.youtube.com/watch?v=Y4JO5WsffSQ"
         },
         {
-          "title": "Epic Games Names Elon University's Game Design Minor 'Unreal Academic Partner'",
-          "summary": "Epic Games has recognized Elon University's game design minor as an 'Unreal Academic Partner,' granting students and faculty free access to Unreal Engine resources, training, and assets to enhance curriculum and professional development.",
-          "source": "Elon University News",
-          "url": "https://www.elon.edu/u/news/2026/03/12/epic-games-recognizes-elons-game-design-minor-as-unreal-academic-partner/"
+          "title": "Pokémon Pokopia Sells Over 2.2 Million Units in First Four Days",
+          "summary": "The new Pokémon title Pokopia has surpassed 2.2 million units sold within its first four days of release, marking strong initial sales performance.",
+          "source": "Giant Bomb",
+          "url": "https://www.youtube.com/watch?v=Y4JO5WsffSQ"
+        },
+        {
+          "title": "Warhammer 40k: Darktide Introduces 'Expeditions' Game Mode",
+          "summary": "Fatshark announced the Expeditions system, a new game mode leaving the Hive for fresh environments, with gameplay reveal scheduled for March 13; it complements adventure mode and introduces new armor.",
+          "source": "YouTube Dev Blog Coverage",
+          "url": "https://www.youtube.com/watch?v=bk9g3vIRPhU"
+        },
+        {
+          "title": "Age of Empires Balance Patch Nerfs Champion Warriors",
+          "summary": "The March 12 patch significantly nerfed Champion Warriors, which were dominating mid-elo ladders post-DLC, addressing exploits like early dark age scouts; criticism mounts over Microsoft's rapid post-release changes.",
+          "source": "HeraAOE2",
+          "url": "https://www.youtube.com/watch?v=wv6U4Ce0mYI"
+        },
+        {
+          "title": "Dragon Ball Z: Dokkan Battle March Producer's Letter Teases Saiyan Day 2026",
+          "summary": "Upcoming March 16 maintenance introduces Saiyan Day data download, a new story-based mode potentially tied to Saiyan or Namek sagas, and battle system updates for version 6.0.",
+          "source": "YouTube Gaming News",
+          "url": "https://www.youtube.com/watch?v=e1iC56U2nj0"
+        },
+        {
+          "title": "Silent Hill 2 Remake Surpasses Five Million Players",
+          "summary": "The Silent Hill 2 Remake has now exceeded five million players, highlighting its ongoing success.",
+          "source": "Giant Bomb",
+          "url": "https://www.youtube.com/watch?v=Y4JO5WsffSQ"
         }
       ],
       "citations": [
-        "https://today.rtl.lu/radio/news/gaming-news-and-previews-2073556917",
-        "https://www.youtube.com/shorts/vSPfXKHwyi0",
-        "https://www.openpr.com/news/4422331/global-video-game-market-ken-research-stated-the-industry",
-        "https://www.elon.edu/u/news/2026/03/12/epic-games-recognizes-elons-game-design-minor-as-unreal-academic-partner/"
+        "https://www.youtube.com/watch?v=emgfA--slF8",
+        "https://www.youtube.com/watch?v=Y4JO5WsffSQ",
+        "https://www.youtube.com/watch?v=bk9g3vIRPhU",
+        "https://www.youtube.com/watch?v=e1iC56U2nj0",
+        "https://www.youtube.com/watch?v=wv6U4Ce0mYI"
       ]
     },
     "tech_news": {
@@ -439,32 +464,42 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Synopsys Launches New Hardware-Assisted Verification Platforms and Electronics Digital Twins at Converge 2026",
-          "summary": "Synopsys opened its flagship conference Converge 2026 with CEO Sassine Ghazi announcing new hardware-assisted verification platforms, software-defined capabilities, and the Electronics Digital Twins Platform for silicon-to-systems design and full-system validation. Collaborations with AMD, Intel, Microsoft, and NVIDIA were highlighted, including faster EDA tool access on Microsoft platforms powered by AMD.",
-          "source": "Morningstar / PR Newswire",
-          "url": "https://www.morningstar.com/news/pr-newswire/20260311sf07814/synopsys-outlines-vision-for-engineering-the-future"
+          "title": "Atlassian Lays Off 10% of Workforce to Fund AI and Enterprise Sales",
+          "summary": "Australian software company Atlassian announced layoffs of about 1,600 employees, or 10% of its staff, on March 11 to redirect resources toward AI development and enterprise sales amid shifting market conditions.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/"
         },
         {
-          "title": "NJ Innovation Evergreen Fund Invests $4.65M in Five Tech and Biotech Startups",
-          "summary": "The New Jersey Economic Development Authority awarded $4.65 million from the NJ Innovation Evergreen Fund to startups including TranscendAP for AI-powered accounts payable automation, Lula Commerce for retail delivery management, and Synchrony Medical for chronic lung disease treatments. Investments support growth in software, cleantech, and medtech sectors.",
-          "source": "NJBIZ",
-          "url": "https://njbiz.com/nj-evergreen-fund-invests-4-65m-five-startups/"
+          "title": "Intel Shareholder Sues Over Alleged 10% Government Stake Deal",
+          "summary": "An Intel shareholder filed a lawsuit against the chipmaker, claiming leadership improperly handed over a 10% stake to the US government.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/intel-shareholder-sues-chipmaker-over-10-government-stake-they-wanted-to-save-themselves-from/articleshow/129523859.cms"
         },
         {
-          "title": "MyOme and Natera Launch Zenith Portfolio with Long-Read Methylation Analysis for Rare Disease Diagnostics",
-          "summary": "MyOme debuted the Zenith portfolio in partnership with Natera at ACMG 2026, integrating methylation signatures via long-read sequencing into whole-genome analysis to improve rare disease diagnostics and reduce diagnostic delays. The platform enhances exome and genome testing through Natera's clinical network.",
-          "source": "PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/myome-debuts-zenith-portfolio-with-natera-and-launches-long-read-methylation-analysis-at-acmg-2026-302711880.html"
+          "title": "Big Tech Commits Nearly $100 Billion More to Data Center Leases",
+          "summary": "Major tech companies confirmed nearly $100 billion in additional future data center leases, pushing total commitments past $700 billion as demand for server capacity surges; Microsoft alone added 1 gigawatt of power last quarter.",
+          "source": "Bloomberg Surveillance (YouTube)",
+          "url": "https://www.youtube.com/watch?v=i8W22OLdj4U"
+        },
+        {
+          "title": "Google Uses Historical News Reports to Predict Flash Floods in Data-Scarce Areas",
+          "summary": "Google developed a system leveraging old news reports and AI to create datasets for predicting flash floods in regions lacking weather infrastructure, with potential applications to heat waves and mudslides.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/"
         }
       ],
       "citations": [
-        "https://www.morningstar.com/news/pr-newswire/20260311sf07814/synopsys-outlines-vision-for-engineering-the-future",
-        "https://www.prnewswire.com/news-releases/myome-debuts-zenith-portfolio-with-natera-and-launches-long-read-methylation-analysis-at-acmg-2026-302711880.html",
-        "https://www.news4jax.com/business/2026/03/11/a-civil-rights-lawyer-will-lead-the-billionaire-ebay-founders-philanthropy-for-more-inclusive-ai/",
-        "https://njbiz.com/nj-evergreen-fund-invests-4-65m-five-startups/"
+        "https://www.youtube.com/watch?v=6eWhBiDg6bQ",
+        "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+        "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+        "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
+        "https://www.youtube.com/watch?v=i8W22OLdj4U",
+        "https://www.youtube.com/watch?v=lvBlG6bPFYg",
+        "https://timesofindia.indiatimes.com/technology/tech-news/intel-shareholder-sues-chipmaker-over-10-government-stake-they-wanted-to-save-themselves-from/articleshow/129523859.cms",
+        "https://www.bizjournals.com/news/technology/information-technology?page=483"
       ]
     }
   }
