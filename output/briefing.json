@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T00:29:33.958368+00:00",
-  "generated_at_human": "2026-03-16 00:29 UTC",
+  "generated_at": "2026-03-16T06:34:42.559422+00:00",
+  "generated_at_human": "2026-03-16 06:34 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+          "title": "Canada's bill C-22 mandates mass metadata surveillance",
           "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-          "score": 202,
-          "comments": 61
-        },
-        {
-          "title": "Chrome DevTools MCP",
-          "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-          "score": 287,
-          "comments": 131
+          "score": 583,
+          "comments": 161
         },
         {
           "title": "The 49MB web page",
           "url": "https://thatshubham.com/blog/news-audit",
-          "score": 250,
-          "comments": 144
+          "score": 424,
+          "comments": 202
         },
         {
-          "title": "LLMs can be exhausting",
-          "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-          "score": 41,
-          "comments": 25
+          "title": "Chrome DevTools MCP (2025)",
+          "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+          "score": 435,
+          "comments": 182
         },
         {
-          "title": "//go:fix inline and the source-level inliner",
-          "url": "https://go.dev/blog/inliner",
-          "score": 103,
-          "comments": 32
+          "title": "Electric motor scaling laws and inertia in robot actuators",
+          "url": "https://robot-daycare.com/posts/actuation_series_1/",
+          "score": 47,
+          "comments": 8
+        },
+        {
+          "title": "How I write software with LLMs",
+          "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+          "score": 88,
+          "comments": 24
+        },
+        {
+          "title": "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
+          "url": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
+          "score": 35,
+          "comments": 2
+        },
+        {
+          "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
+          "url": "https://www.moment.dev/blog/lies-i-was-told-pt-2",
+          "score": 28,
+          "comments": 12
         },
         {
           "title": "LLM Architecture Gallery",
           "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-          "score": 203,
-          "comments": 14
+          "score": 344,
+          "comments": 27
         },
         {
-          "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-          "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
-          "score": 24,
-          "comments": 4
-        },
-        {
-          "title": "Separating the Wayland compositor and window manager",
-          "url": "https://isaacfreund.com/blog/river-window-management/",
-          "score": 205,
-          "comments": 88
-        },
-        {
-          "title": "What makes Intel Optane stand out (2023)",
-          "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
-          "score": 171,
-          "comments": 113
-        },
-        {
-          "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
-          "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-          "score": 211,
-          "comments": 126
-        },
-        {
-          "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
-          "url": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
-          "score": 5,
-          "comments": 0
-        },
-        {
-          "title": "Nasdaq's Shame",
-          "url": "https://keubiko.substack.com/p/nasdaqs-shame",
-          "score": 86,
-          "comments": 19
-        },
-        {
-          "title": "C++26: The Oxford Variadic Comma",
-          "url": "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma",
-          "score": 106,
-          "comments": 60
-        },
-        {
-          "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
-          "url": "https://zzk273.github.io/LATENT/",
-          "score": 118,
-          "comments": 22
+          "title": "LLMs can be exhausting",
+          "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+          "score": 164,
+          "comments": 123
         },
         {
           "title": "Stop Sloppypasta",
           "url": "https://stopsloppypasta.ai/",
-          "score": 77,
-          "comments": 36
+          "score": 231,
+          "comments": 103
+        },
+        {
+          "title": "Separating the Wayland compositor and window manager",
+          "url": "https://isaacfreund.com/blog/river-window-management/",
+          "score": 263,
+          "comments": 123
+        },
+        {
+          "title": "The Linux Programming Interface as a university course text",
+          "url": "https://man7.org/tlpi/academic/index.html",
+          "score": 71,
+          "comments": 6
+        },
+        {
+          "title": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
+          "url": "https://github.com/jtsylve/spice-crypt",
+          "score": 27,
+          "comments": 4
+        },
+        {
+          "title": "//go:fix inline and the source-level inliner",
+          "url": "https://go.dev/blog/inliner",
+          "score": 131,
+          "comments": 55
+        },
+        {
+          "title": "How far can you go with IX Route Servers only?",
+          "url": "https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers",
+          "score": 12,
+          "comments": 0
+        },
+        {
+          "title": "Quillx is an open standard for disclosing AI involvement in software projects",
+          "url": "https://github.com/QAInsights/AIx",
+          "score": 18,
+          "comments": 20
+        },
+        {
+          "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
+          "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+          "score": 246,
+          "comments": 153
+        },
+        {
+          "title": "Federal Right to Privacy Act – Draft legislation",
+          "url": "https://righttoprivacyact.github.io",
+          "score": 64,
+          "comments": 34
+        },
+        {
+          "title": "What makes Intel Optane stand out (2023)",
+          "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+          "score": 195,
+          "comments": 137
+        },
+        {
+          "title": "The emergence of print-on-demand Amazon paperback books",
+          "url": "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/",
+          "score": 128,
+          "comments": 88
+        },
+        {
+          "title": "ASCII and Unicode quotation marks (2007)",
+          "url": "https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html",
+          "score": 7,
+          "comments": 0
+        },
+        {
+          "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
+          "url": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
+          "score": 48,
+          "comments": 2
+        },
+        {
+          "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
+          "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+          "score": 95,
+          "comments": 59
         },
         {
           "title": "Bus travel from Lima to Rio de Janeiro",
           "url": "https://kenschutte.com/lima-to-rio-by-bus/",
-          "score": 112,
-          "comments": 42
-        },
-        {
-          "title": "In Memoriam: John W. Addison, my PhD advisor",
-          "url": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
-          "score": 85,
-          "comments": 4
-        },
-        {
-          "title": "Type systems are leaky abstractions: the case of Map.take!/2",
-          "url": "https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take",
-          "score": 15,
-          "comments": 5
+          "score": 150,
+          "comments": 60
         },
         {
           "title": "A Visual Introduction to Machine Learning (2015)",
           "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-          "score": 310,
+          "score": 345,
           "comments": 29
-        },
-        {
-          "title": "Kangina",
-          "url": "https://en.wikipedia.org/wiki/Kangina",
-          "score": 54,
-          "comments": 3
-        },
-        {
-          "title": "Excel incorrectly assumes that the year 1900 is a leap year",
-          "url": "https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year",
-          "score": 20,
-          "comments": 5
-        },
-        {
-          "title": "Show HN: Free OpenAI API Access with ChatGPT Account",
-          "url": "https://github.com/EvanZhouDev/openai-oauth",
-          "score": 12,
-          "comments": 9
-        },
-        {
-          "title": "Show HN: Open-source playground to red-team AI agents with exploits published",
-          "url": "https://github.com/fabraix/playground",
-          "score": 13,
-          "comments": 1
-        },
-        {
-          "title": "Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300",
-          "url": "https://firthemouse.github.io/",
-          "score": 55,
-          "comments": 13
-        },
-        {
-          "title": "Ask HN: How is AI-assisted coding going for you professionally?",
-          "url": "https://news.ycombinator.com/item?id=47388646",
-          "score": 218,
-          "comments": 365
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 72529,
-          "change_24h": 1.94,
-          "change_7d": 9.95,
-          "market_cap": 1450933377609
+          "price": 73743,
+          "change_24h": 3.23,
+          "change_7d": 8.67,
+          "market_cap": 1475334688556
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2169.48,
-          "change_24h": 3.75,
-          "change_7d": 12.04,
-          "market_cap": 261965719028
+          "price": 2266.96,
+          "change_24h": 7.67,
+          "change_7d": 12.82,
+          "market_cap": 273674304946
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 92.15,
-          "change_24h": 4.72,
-          "change_7d": 12.9,
-          "market_cap": 52706468546
+          "price": 93.51,
+          "change_24h": 5.8,
+          "change_7d": 10.92,
+          "market_cap": 53420547408
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.097554,
-          "change_24h": 1.75,
-          "change_7d": 9.44,
-          "market_cap": 14972817863
+          "price": 0.101783,
+          "change_24h": 6.15,
+          "change_7d": 11.33,
+          "market_cap": 15617788697
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.270846,
-          "change_24h": 3.05,
-          "change_7d": 8.69,
-          "market_cap": 9981989663
+          "price": 0.289448,
+          "change_24h": 9.46,
+          "change_7d": 12.35,
+          "market_cap": 10661557152
         }
       ]
     },
@@ -212,19 +212,29 @@
       "count": 10,
       "items": [
         {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
           "name": "Bittensor",
           "symbol": "TAO",
           "market_cap_rank": 36
         },
         {
-          "name": "Renzo",
-          "symbol": "REZ",
-          "market_cap_rank": 648
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 99
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 15
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 151
         },
         {
           "name": "Solana",
@@ -232,34 +242,24 @@
           "market_cap_rank": 7
         },
         {
+          "name": "River",
+          "symbol": "RIVER",
+          "market_cap_rank": 106
+        },
+        {
           "name": "Pi Network",
           "symbol": "PI",
           "market_cap_rank": 45
         },
         {
+          "name": "Pepe",
+          "symbol": "PEPE",
+          "market_cap_rank": 52
+        },
+        {
           "name": "Artificial Superintelligence Alliance",
           "symbol": "FET",
           "market_cap_rank": 108
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 103
-        },
-        {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
-          "name": "Render",
-          "symbol": "RENDER",
-          "market_cap_rank": 68
-        },
-        {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 5
         }
       ]
     },
@@ -268,43 +268,56 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "US Major Indices Close Lower Amid Weakening Trends",
-          "summary": "All major U.S. indexes including S&P 500, Nasdaq-100, Dow Jones, and Russell 2000 closed lower on March 14, 2026, with nearly every major market ETF breaking below its 50-day moving average and approaching the 200-day moving average, signaling potential trend shifts.[1][2][5]",
-          "source": "Trading Momentum / Grand Pinnacle Tribune / Morningstar",
+          "title": "Major U.S. Stock Indexes Close Lower as Market Approaches Critical Support Levels",
+          "summary": "All major U.S. indexes including the S&P 500, Nasdaq-100, Dow Jones, and Russell 2000 closed lower on March 15. Nearly every major market ETF has broken below its 50-day moving average, with indexes now converging near their 200-day moving averages—a critical inflection point that will likely determine the market's next major trend direction.",
+          "source": "Trading Momentum",
           "url": "https://tradingmomentum.substack.com/p/big-picture-market-pulse-march-15"
         },
         {
-          "title": "S&P 500 Down 1.60%, Nasdaq 1.26%, Dow 1.98% on Inflation and Energy Concerns",
-          "summary": "Wall Street indices fell sharply on March 14, 2026, driven by latest inflation data, volatile energy prices, and uncertainty over Federal Reserve moves, with financial stocks like HSBC underperforming.[2]",
-          "source": "Grand Pinnacle Tribune",
-          "url": "https://evrimagaci.org/gpt/hsbc-faces-pressure-as-wall-street-sinks-533586"
+          "title": "S&P 500 Breaks Below Long-Term Support at 6,737 Amid Bearish Technical Setup",
+          "summary": "The S&P 500 closed at its weekly low after breaking below the long-term support level at 6,737, with technical analysts identifying the next significant support at 6,500 or 6,522. The index faces bearish pressure from an over-extended bull market and escalating Middle East tensions affecting oil supplies.",
+          "source": "DailyForex",
+          "url": "https://www.dailyforex.com/forex-technical-analysis/2026/03/weekly-forex-forecast-15th-to-20th-march-2026/242518"
         },
         {
-          "title": "FTSE 100 Ends Week Down 0.23% Amid Iran War Volatility",
-          "summary": "UK's FTSE 100 closed down 0.43% on Friday at 10,261, marking a second weekly decline influenced by Iran war escalation, rising oil prices near $100, and warnings of £344 spike in energy bills.[3]",
+          "title": "U.S. Economic Data Disappoints: GDP Growth Falls Short of Expectations",
+          "summary": "U.S. Preliminary GDP came in at 0.7% for the quarter, significantly lower than the expected 1.4%, contributing to bearish sentiment in the stock market. CPI inflation met expectations at 2.4% annualized, while Core PCE Price Index came in as expected at 0.4% month-on-month.",
+          "source": "DailyForex",
+          "url": "https://www.dailyforex.com/forex-technical-analysis/2026/03/weekly-forex-forecast-15th-to-20th-march-2026/242518"
+        },
+        {
+          "title": "UK Stock Market Extends Losses; FTSE 100 Down 0.43% on Friday",
+          "summary": "The FTSE 100 finished Friday down 44 points (0.43%) at 10,261, marking the second consecutive weekly decline. The broader trend remains negative following a sharp 5.7% decline during the first week of the Iran war, with ongoing volatility driven by Middle East tensions and oil price pressures.",
           "source": "Share Talk",
           "url": "https://www.share-talk.com/share-talk-weekly-stock-market-news-review-sunday-15th-march-2026/"
         },
         {
-          "title": "Markets Approach Critical 200-Day Moving Averages as Panic Builds",
-          "summary": "Major US indexes hover near 200-day moving averages, with rising VIX fear gauge and sector rotations reversing; analysts warn of potential selling acceleration amid Iran war inflation fears.[1][5]",
-          "source": "Trading Momentum / Morningstar",
-          "url": "https://tradingmomentum.substack.com/p/big-picture-market-pulse-march-15"
+          "title": "Technology Stocks Regain Leadership as Small-Caps Struggle",
+          "summary": "After lagging in the first two months of 2026, technology stocks have regained leadership with the Nasdaq outperforming the S&P 500 and Dow over the past two weeks. Meanwhile, the Russell 2000 small-cap index has been hit hard, erasing its year-to-date gains amid the Iran conflict.",
+          "source": "Morningstar/MarketWatch",
+          "url": "https://www.morningstar.com/news/marketwatch/20260315120/panic-is-slowly-gripping-the-stock-market-expect-the-selling-to-pick-up-this-week"
         },
         {
-          "title": "S&P 500 Faces Valuation Concerns at Historic Highs Despite Recent Declines",
-          "summary": "S&P 500's decade-long surge hits high Shiller P/E ratios amid tech leadership recovery, but caution prevails with small-caps erasing YTD gains post-Iran conflict.[4][5]",
-          "source": "IndexBox / Morningstar",
-          "url": "https://www.indexbox.io/blog/market-at-historic-high-sp-500s-decade-long-surge-faces-valuation-concerns/"
+          "title": "Micron Completes Acquisition of PSMC's Tongluo P5 Site in Taiwan",
+          "summary": "Micron Technology announced the completion of its acquisition of PSMC's Tongluo P5 manufacturing site in Taiwan on March 15, 2026.",
+          "source": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/2026-03-15/"
+        },
+        {
+          "title": "Telix Resubmits NDA to FDA for Brain Cancer Imaging Candidate",
+          "summary": "Telix Pharmaceuticals resubmitted its New Drug Application to the U.S. FDA for TLX101-Px (Pixclara®), a brain cancer imaging candidate, on March 15, 2026.",
+          "source": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/2026-03-15/"
         }
       ],
       "citations": [
         "https://tradingmomentum.substack.com/p/big-picture-market-pulse-march-15",
-        "https://evrimagaci.org/gpt/hsbc-faces-pressure-as-wall-street-sinks-533586",
+        "https://www.dailyforex.com/forex-technical-analysis/2026/03/weekly-forex-forecast-15th-to-20th-march-2026/242518",
         "https://www.share-talk.com/share-talk-weekly-stock-market-news-review-sunday-15th-march-2026/",
+        "https://www.stocktitan.net/news/2026-03-15/",
         "https://www.indexbox.io/blog/market-at-historic-high-sp-500s-decade-long-surge-faces-valuation-concerns/",
         "https://www.morningstar.com/news/marketwatch/20260315120/panic-is-slowly-gripping-the-stock-market-expect-the-selling-to-pick-up-this-week"
       ]
@@ -317,46 +330,46 @@
       "count": 5,
       "items": [
         {
-          "title": "Ethereum Network Activity Explodes with Record Staking and L2 Growth",
-          "summary": "Ethereum ecosystem shows massive growth with monthly transaction count approaching 1.1 billion, up significantly year-over-year on Base (43%), Polygon (161%), and Arbitrum (88%). Nearly 31% of ETH supply is now staked at an all-time high, signaling strong conviction amid consolidating prices.[1]",
-          "source": "Altcoin Daily YouTube",
+          "title": "Clarity Act Legislation Faces Low Odds of Passage in 2026",
+          "summary": "Crypto market structure legislation, the Clarity Act, may not pass if it doesn't clear committee by end of April, with odds diminishing daily and needing Senate floor by early May. Alex Thorne of Galaxy Digital warns floor time is running out.",
+          "source": "Thinking Crypto",
+          "url": "https://www.youtube.com/watch?v=oN6zuzBTMIw"
+        },
+        {
+          "title": "NASDAQ Develops Framework for Tokenized Stocks with Kraken",
+          "summary": "NASDAQ is creating a framework for publicly listed companies to issue blockchain-based shares while preserving ownership rights, partnering with Payword (Kraken's parent) for global distribution by first half of 2027. ICE invested in OKX at $25B valuation for tokenized stocks in crypto futures.",
+          "source": "Thinking Crypto",
+          "url": "https://www.youtube.com/watch?v=oN6zuzBTMIw"
+        },
+        {
+          "title": "Ethereum Network Activity Explodes with AI Adoption and Staking ATH",
+          "summary": "Ethereum L2 Base and Solana handle 97% of AI agent machine-to-machine transactions; monthly transactions across L1s and L2s near 1.1B, up significantly YoY. ETH staking hits all-time high at nearly 31% of supply.",
+          "source": "WATCH OUT!! Crypto is about to get LEGIT CRAZY",
           "url": "https://www.youtube.com/watch?v=JRyxhgbY7P4"
         },
         {
-          "title": "Bittensor (TAO) Stages Massive Takeover Amid AI-Crypto Surge",
-          "summary": "Bittensor (TAO) is experiencing aggressive price pumps from $140 to $230, drawing attention from retail and institutions like Silbert, who expanded its trust for institutional access. Positioned as a leader in decentralized AI compute competing with centralized labs.[2]",
-          "source": "Discover Crypto YouTube",
-          "url": "https://www.youtube.com/watch?v=u_jrUE9ixrg"
+          "title": "MicroStrategy Adds 5% to Bitcoin Holdings, Eyes Massive Purchases",
+          "summary": "MicroStrategy increased its Bitcoin stack by 5% this week to 738,000 BTC, with potential for 760,000 soon; strategy could lead to buying 500K-900K BTC this year via 'infinite money glitch'.",
+          "source": "Bitcoin's Infinite Money Glitch",
+          "url": "https://www.youtube.com/watch?v=-2tQIo7Gd9U"
         },
         {
-          "title": "Bitcoin Holds at $71,000 After Dip to Low $60Ks Amid Institutional Buying",
-          "summary": "Bitcoin is trading around $71,000 after dropping to the low $60,000 range, with institutions like BlackRock and others quietly accumulating despite past skepticism. Cycle analysis predicts a bottom around $40,000 this cycle and new highs by 2029.[4]",
-          "source": "Altcoin Daily YouTube",
-          "url": "https://www.youtube.com/watch?v=OtuKjsCvIIw"
-        },
-        {
-          "title": "Europe's Largest Banks Adopt Crypto; Virtune Launches Krypto ETPs on Warsaw Stock Exchange",
-          "summary": "Europe's largest banks are adopting crypto, boosting legitimacy. Virtune introduces regulated Bitcoin, Ethereum, XRP, and Solana ETPs traded in PLN on GPW, enabling easy exposure without crypto wallets.[1][6]",
-          "source": "Altcoin Daily & Comparic YouTube",
-          "url": "https://www.youtube.com/watch?v=JRyxhgbY7P4"
-        },
-        {
-          "title": "Morgan Stanley Applies for Crypto Custody License as Institutions Pile In",
-          "summary": "Morgan Stanley files for a crypto custody license while strategies continue buying billions in Bitcoin. Bitcoin and other crypto ETFs attract major institutional capital amid ongoing market consolidation.[6]",
-          "source": "Comparic YouTube",
-          "url": "https://www.youtube.com/watch?v=5zD8xHJCz24"
+          "title": "Bitcoin Shows Short-Term Bullish Breakout and Relief Rally",
+          "summary": "Bitcoin continues a relief rally with a potential price squeeze starting, breaking short-term resistance around 76-77K; weekly RSI moving from oversold with room for upside amid stock market crash warnings.",
+          "source": "BITCOIN: The Next PRICE SQUEEZE Just Started!!!",
+          "url": "https://www.youtube.com/watch?v=qU9GmtDlJV0"
         }
       ],
       "citations": [
+        "https://www.youtube.com/watch?v=oN6zuzBTMIw",
         "https://www.youtube.com/watch?v=JRyxhgbY7P4",
-        "https://www.youtube.com/watch?v=u_jrUE9ixrg",
-        "https://www.youtube.com/watch?v=o0gSASAhsd0",
-        "https://www.youtube.com/watch?v=OtuKjsCvIIw",
-        "https://www.youtube.com/watch?v=INYW46ZTo8k",
-        "https://www.youtube.com/watch?v=5zD8xHJCz24",
-        "https://www.whitehouse.gov/live/",
-        "https://www.formula1.com/en/video/i-deserve-the-penalty-today-admits-ocon-after-contact-with-colapinto.1859718487521570682",
-        "https://www.youtube.com/watch?v=_4-BxfbSu0M"
+        "https://www.youtube.com/watch?v=qU9GmtDlJV0",
+        "https://www.youtube.com/watch?v=CTfwOhTSVvU",
+        "https://www.youtube.com/watch?v=-2tQIo7Gd9U",
+        "https://www.youtube.com/watch?v=PRY4MOa5AUQ",
+        "https://www.youtube.com/watch?v=gCxrdw13UIA",
+        "https://www.youtube.com/watch?v=veqcMElKCmE",
+        "https://www.youtube.com/watch?v=BT716hsXI_Y"
       ]
     },
     "ai_news": {
@@ -364,46 +377,59 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "NVIDIA Releases Nemotron 3 Super: 120B Hybrid Mamba-Transformer MoE Model",
-          "summary": "NVIDIA launched Nemotron 3 Super, a 120B parameter hybrid Mamba-Transformer Mixture of Experts model with 12B active parameters, 1M context length, and 2.2x throughput compared to GPT-OSS-120B. Details include pricing, benchmarks, and API access.",
-          "source": "LLM Stats",
-          "url": "https://llm-stats.com/ai-news"
+          "title": "First Open-Source Agentic AI Physicist Released",
+          "summary": "HeliosNova/nova launches as the first open-source agentic AI physicist capable of running experiments, analyzing results, and iterating hypotheses with minimal human intervention, marking a significant leap in AI-driven scientific research.",
+          "source": "Midnight Signal AI YouTube Daily Brief",
+          "url": "https://www.youtube.com/watch?v=6jRtjjYnH9I"
         },
         {
-          "title": "Elon Musk Predicts AI Will Make Jobs 'Optional' in the Future",
-          "summary": "Elon Musk stated that advances in AI, machine learning, robotics, and automation could make jobs optional, reshaping global labor markets. Analysis shows high AI exposure for tech roles like software development.",
-          "source": "MEXC",
-          "url": "https://www.mexc.co/en-IN/news/933341"
+          "title": "AWS Names Five Universities to Lead AI/ML Training Initiative",
+          "summary": "Amazon Web Services selects Delaware State University, Howard University, Alabama A&M, City Colleges of Chicago, and Oklahoma City Community College as regional leads for its Machine Learning University program to expand AI and machine learning education through bootcamps and curriculum development.",
+          "source": "EdTech Innovation Hub",
+          "url": "https://www.edtechinnovationhub.com/news/aws-names-five-regional-lead-institutions-for-ai-and-machine-learning-training-initiative"
         },
         {
-          "title": "US Mayors Resist Data Center Expansion Amid Growing AI Backlash",
-          "summary": "US mayors are pushing back against the data center boom driven by AI demands, citing concerns over polluting gas turbines and shifting from promised job benefits ahead of midterm elections.",
-          "source": "ABS-CBN News",
-          "url": "https://www.abs-cbn.com/news/technology/2026/3/15/us-mayors-push-back-against-data-center-boom-as-ai-backlash-grows-1126"
+          "title": "Elon Musk Predicts AI Will Make Jobs 'Optional'",
+          "summary": "Elon Musk states that advances in AI, machine learning, robotics, and automation could make jobs optional in the future, amid discussions on AI's impact on labor markets with high exposure scores for tech roles like software development.",
+          "source": "MEXC News",
+          "url": "https://www.mexc.com/news/933341"
         },
         {
-          "title": "Tech Entrepreneur Develops AI-Designed mRNA Vaccine for Dog's Cancer",
-          "summary": "Paul Conyngham used a chatbot to brainstorm and develop an AI-designed mRNA vaccine for his dog Rosie, diagnosed with deadly mast cell cancer.",
-          "source": "Dawn",
-          "url": "https://www.dawn.com/news/1982334"
+          "title": "Study: AI Chatbots May Fuel Delusional Thinking",
+          "summary": "A new study raises concerns that AI chatbots could contribute to psychosis and delusional thinking, highlighting potential psychological risks of prolonged interaction with AI systems.",
+          "source": "The Guardian (via Midnight Signal AI)",
+          "url": "https://www.theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis"
         },
         {
-          "title": "Post-Training Advances in 2026: GRPO, DAPO, RLVR Replace RLHF",
-          "summary": "A technical survey details how GRPO, DAPO, RLVR, and synthetic self-play have become the dominant post-training methods, replacing RLHF in AI model development.",
-          "source": "LLM Stats",
-          "url": "https://llm-stats.com/ai-news"
+          "title": "Scientists Find AI Enhances Human Creativity",
+          "summary": "Research from Swansea University reveals that artificial intelligence can boost human creativity, challenging portrayals of AI as a mere replacement for human ingenuity.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260315004355.htm"
+        },
+        {
+          "title": "NVIDIA GTC 2026 Offers Free Virtual Pass Starting Today",
+          "summary": "NVIDIA's premier global AI conference GTC 2026, focusing on physical AI, AI factories, agentic AI, and inference breakthroughs, opens with free virtual passes available from March 16-19.",
+          "source": "ETC Journal",
+          "url": "https://etcjournal.com/2026/03/15/free-virtual-pass-to-nvidia-gtc-2026-march-16-19/"
+        },
+        {
+          "title": "Google.org Launches $30M AI for Government Innovation Challenge",
+          "summary": "Google.org announces $30 million funding for partnerships deploying generative and agentic AI in government services for health, resilience, and economy sectors, with applications due April 3, 2026.",
+          "source": "ICT Works",
+          "url": "https://www.ictworks.org/improve-government-services/"
         }
       ],
       "citations": [
-        "https://llm-stats.com/ai-news",
-        "https://www.youtube.com/watch?v=LIRRCbXRhBU&vl=ar",
-        "https://www.mexc.co/en-IN/news/933341",
-        "https://www.abs-cbn.com/news/technology/2026/3/15/us-mayors-push-back-against-data-center-boom-as-ai-backlash-grows-1126",
-        "https://www.dawn.com/news/1982334",
-        "https://www.epcc.edu/Media/Lists/News/Article.aspx?ID=1652"
+        "https://www.youtube.com/watch?v=6jRtjjYnH9I",
+        "https://www.edtechinnovationhub.com/news/aws-names-five-regional-lead-institutions-for-ai-and-machine-learning-training-initiative",
+        "https://www.mexc.com/news/933341",
+        "https://iblnews.org/summary?topic=19&date=16032026",
+        "https://etcjournal.com/2026/03/15/free-virtual-pass-to-nvidia-gtc-2026-march-16-19/",
+        "https://www.sciencedaily.com/releases/2026/03/260315004355.htm",
+        "https://www.ictworks.org/improve-government-services/"
       ]
     },
     "gaming": {
@@ -411,22 +437,14 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 1,
-      "items": [
-        {
-          "title": "Sword Art Online: Echoes of Aincrad Announced for July 2026 Release",
-          "summary": "A new action RPG set in the Sword Art Online universe is launching July 10, 2026 on PS5, Xbox Series X/S, and PC. The game features character creation, real-time combat, partner synergy mechanics, and a hardcore 'Death Game Mode' that explores the series' darker themes.",
-          "source": "Havian (YouTube)",
-          "url": "https://www.youtube.com/watch?v=PH_cRIXLR3A"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=PH_cRIXLR3A",
-        "https://www.youtube.com/watch?v=ysNzlQHARAA",
+        "https://chl.ca/ohl-spitfires/video/game-highlights-ldn-2-wsr-8-march-15th-2026",
         "https://www.youtube.com/watch?v=4C0y7PGKkwo",
-        "https://opinionatedgamers.com/2026/03/15/derek-j-review-of-1975-white-christmas/",
-        "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20260315_IND@MIL/",
-        "https://abcnews.com/Sports/wireStory/sharks-visit-senators-after-celebrinis-2-goal-game-131081602"
+        "https://nevadawolfpack.com/news/2026/3/15/softball-nevada-claims-its-first-series-win-of-mountain-west-play.aspx",
+        "https://vucommodores.com/vandy-wbb-selection-sunday-players-press-conference-march-15/",
+        "https://lmulions.com"
       ]
     },
     "tech_news": {
@@ -434,33 +452,17 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
-      "items": [
-        {
-          "title": "Google Closes $32B Wiz Acquisition — Largest VC-Backed Deal Ever",
-          "summary": "Google completed its $32 billion acquisition of Wiz, setting a new record for VC-backed exits and signaling rising premiums for AI-native cloud security infrastructure.",
-          "source": "VNTR News",
-          "url": "https://vntr.substack.com/p/vntr-news-march-15-googles-32b-wiz"
-        },
-        {
-          "title": "Rubin Ritter Appointed as Interim CEO of Kinnevik",
-          "summary": "Board member Rubin Ritter has been appointed as interim CEO of Kinnevik effective immediately, replacing Georgi Ganev. Ritter, former co-CEO of Zalando, will oversee a comprehensive assessment of the company's operations and portfolio.",
-          "source": "Kinnevik",
-          "url": "https://www.kinnevik.com/investor-relations/press-releases/2026/board-member-rubin-ritter-appointed-as-interim-ceo-of-kinnevik/"
-        },
-        {
-          "title": "Southwest Airlines to End Service at Two Major Airports",
-          "summary": "Southwest Airlines announced it will end service from two major airports, marking a significant shift in the airline's route network.",
-          "source": "ABC News",
-          "url": "https://www.youtube.com/watch?v=IehEtxqnEx4"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://vntr.substack.com/p/vntr-news-march-15-googles-32b-wiz",
-        "https://www.youtube.com/watch?v=QPpnaZ5rKLU",
-        "https://www.youtube.com/watch?v=IehEtxqnEx4",
+        "https://www.nampa.org/text/22889245",
+        "https://www.youtube.com/watch?v=zi6RcaD5Wa8",
+        "https://www.nampa.org/text/22889267",
+        "https://www.youtube.com/watch?v=TwNoxJLGC5w",
+        "https://www.youtube.com/watch?v=NHMEjYSNA9A",
+        "https://www.youtube.com/watch?v=JruGQ-mmypI",
         "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-15-2026/",
-        "https://www.kinnevik.com/investor-relations/press-releases/2026/board-member-rubin-ritter-appointed-as-interim-ceo-of-kinnevik/"
+        "https://www.the-independent.com/tv/news/doge-bros-dei-nathan-cavanaugh-deposition-video-b2938758.html"
       ]
     }
   }
