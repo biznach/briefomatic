@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T00:25:30.334622+00:00",
-  "generated_at_human": "2026-03-17 00:25 UTC",
+  "generated_at": "2026-03-17T06:24:45.943986+00:00",
+  "generated_at_human": "2026-03-17 06:24 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,76 +8,142 @@
       "count": 25,
       "items": [
         {
-          "title": "US SEC preparing to scrap quarterly reporting requirement",
-          "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-          "score": 36,
-          "comments": 12
+          "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+          "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+          "score": 196,
+          "comments": 33
         },
         {
-          "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
+          "title": "US SEC preparing to scrap quarterly reporting requirement",
+          "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+          "score": 499,
+          "comments": 266
+        },
+        {
+          "title": "Monkey Island for Commodore 64 Ground Up",
+          "url": "https://pixeldust.se/monkey-island-project",
+          "score": 61,
+          "comments": 14
+        },
+        {
+          "title": "Every layer of review makes you 10x slower",
+          "url": "https://apenwarr.ca/log/20260316",
+          "score": 105,
+          "comments": 42
+        },
+        {
+          "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
           "url": "https://mistral.ai/news/leanstral",
-          "score": 251,
-          "comments": 45
+          "score": 417,
+          "comments": 85
         },
         {
           "title": "Meta’s renewed commitment to jemalloc",
           "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-          "score": 320,
-          "comments": 130
+          "score": 402,
+          "comments": 173
         },
         {
           "title": "The “small web” is bigger than you might think",
           "url": "https://kevinboone.me/small_web_is_big.html",
-          "score": 295,
-          "comments": 129
+          "score": 370,
+          "comments": 159
         },
         {
-          "title": "US commercial insurers pay 254% of Medicare for the same hospital procedures",
+          "title": "Claude Tips for 3D Work",
+          "url": "https://www.davesnider.com/posts/claude-3d",
+          "score": 32,
+          "comments": 2
+        },
+        {
+          "title": "The American Healthcare Conundrum",
           "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-          "score": 161,
-          "comments": 102
+          "score": 309,
+          "comments": 267
         },
         {
-          "title": "Show HN: Trackm, a personal finance web app",
-          "url": "https://trackm.net",
-          "score": 10,
-          "comments": 0
+          "title": "Sci-Fi Short Film \"There Is No Antimemetics Division\" [video]",
+          "url": "https://www.youtube.com/watch?v=3v8AsTHfAG0",
+          "score": 29,
+          "comments": 4
         },
         {
           "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
           "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-          "score": 307,
-          "comments": 92
+          "score": 355,
+          "comments": 103
         },
         {
-          "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
-          "url": "https://github.com/mr-fatalyst/oxyde",
+          "title": "Beyond has dropped “meat” from its name and expanded its high-protein drink line",
+          "url": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
+          "score": 105,
+          "comments": 173
+        },
+        {
+          "title": "Pyodide: a Python distribution based on WebAssembly",
+          "url": "https://github.com/pyodide/pyodide",
+          "score": 39,
+          "comments": 13
+        },
+        {
+          "title": "Jepsen: MariaDB Galera Cluster 12.1.2",
+          "url": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
           "score": 45,
-          "comments": 26
-        },
-        {
-          "title": "Show HN: Thermal Receipt Printers – Markdown and Web UI",
-          "url": "https://github.com/sadreck/ThermalMarky",
-          "score": 17,
-          "comments": 6
+          "comments": 4
         },
         {
           "title": "Why I love FreeBSD",
           "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
-          "score": 336,
-          "comments": 156
+          "score": 396,
+          "comments": 195
         },
         {
-          "title": "Language Model Teams as Distrbuted Systems",
-          "url": "https://arxiv.org/abs/2603.12229",
-          "score": 64,
-          "comments": 28
+          "title": "Lf-lean: The frontier of verified software engineering",
+          "url": "https://theorem.dev/blog/lf-lean/",
+          "score": 36,
+          "comments": 9
+        },
+        {
+          "title": "In space, no one can hear you kernel panic (2020)",
+          "url": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/",
+          "score": 53,
+          "comments": 6
+        },
+        {
+          "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
+          "url": "https://github.com/mr-fatalyst/oxyde",
+          "score": 94,
+          "comments": 48
+        },
+        {
+          "title": "Show HN: Thermal Receipt Printers – Markdown and Web UI",
+          "url": "https://github.com/sadreck/ThermalMarky",
+          "score": 63,
+          "comments": 24
         },
         {
           "title": "Starlink Mini as a failover",
           "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
-          "score": 179,
-          "comments": 152
+          "score": 239,
+          "comments": 183
+        },
+        {
+          "title": "AirPods Max 2",
+          "url": "https://www.apple.com/airpods-max/",
+          "score": 257,
+          "comments": 437
+        },
+        {
+          "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+          "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+          "score": 1427,
+          "comments": 921
+        },
+        {
+          "title": "Home Assistant waters my plants",
+          "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
+          "score": 278,
+          "comments": 135
         },
         {
           "title": "AnswerThis (YC F25) Is Hiring",
@@ -86,76 +152,10 @@
           "comments": 0
         },
         {
-          "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
-          "url": "https://news.ycombinator.com/item?id=47401042",
-          "score": 63,
-          "comments": 41
-        },
-        {
           "title": "Show HN: Claude Code skills that build complete Godot games",
           "url": "https://github.com/htdt/godogen",
-          "score": 141,
-          "comments": 78
-        },
-        {
-          "title": "Polymarket gamblers threaten to kill me over Iran missile story",
-          "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-          "score": 1292,
-          "comments": 861
-        },
-        {
-          "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-          "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-          "score": 116,
-          "comments": 103
-        },
-        {
-          "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
-          "score": 117,
-          "comments": 76
-        },
-        {
-          "title": "AirPods Max 2",
-          "url": "https://www.apple.com/airpods-max/",
-          "score": 182,
-          "comments": 352
-        },
-        {
-          "title": "On The Need For Understanding",
-          "url": "https://blog.information-superhighway.net/on-the-need-for-understanding",
-          "score": 75,
-          "comments": 33
-        },
-        {
-          "title": "Home Assistant waters my plants",
-          "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
-          "score": 244,
-          "comments": 129
-        },
-        {
-          "title": "Corruption erodes social trust more in democracies than in autocracies",
-          "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-          "score": 633,
-          "comments": 327
-        },
-        {
-          "title": "The bureaucracy blocking the chance at a cure",
-          "url": "https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance",
-          "score": 84,
-          "comments": 113
-        },
-        {
-          "title": "Cert Authorities Check for DNSSEC from Today",
-          "url": "https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today",
-          "score": 83,
-          "comments": 187
-        },
-        {
-          "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
-          "url": "https://www.moment.dev/blog/lies-i-was-told-pt-2",
-          "score": 191,
-          "comments": 97
+          "score": 223,
+          "comments": 136
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 75042,
-          "change_24h": 3.46,
-          "change_7d": 9.32,
-          "market_cap": 1504063106962
+          "price": 74206,
+          "change_24h": 0.56,
+          "change_7d": 6.07,
+          "market_cap": 1483936275325
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2350.64,
-          "change_24h": 8.36,
-          "change_7d": 17.38,
-          "market_cap": 284420769268
+          "price": 2319.67,
+          "change_24h": 2.24,
+          "change_7d": 13.52,
+          "market_cap": 279834366276
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 96.06,
-          "change_24h": 4.08,
-          "change_7d": 12.06,
-          "market_cap": 54884802816
+          "price": 94.12,
+          "change_24h": 0.68,
+          "change_7d": 8.96,
+          "market_cap": 53757640784
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.103212,
-          "change_24h": 5.72,
-          "change_7d": 13.83,
-          "market_cap": 15848711270
+          "price": 0.100339,
+          "change_24h": -1.69,
+          "change_7d": 9.29,
+          "market_cap": 15390455504
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.290292,
-          "change_24h": 7.06,
-          "change_7d": 13.84,
-          "market_cap": 10699739065
+          "price": 0.284635,
+          "change_24h": -1.63,
+          "change_7d": 9.58,
+          "market_cap": 10479651616
         }
       ]
     },
@@ -212,29 +212,29 @@
       "count": 10,
       "items": [
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 22
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 99
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 39
-        },
-        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 101
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 38
+        },
+        {
+          "name": "Grass",
+          "symbol": "GRASS",
+          "market_cap_rank": 159
         },
         {
           "name": "Hyperliquid",
@@ -242,24 +242,24 @@
           "market_cap_rank": 14
         },
         {
-          "name": "Fartcoin",
-          "symbol": "FARTCOIN",
-          "market_cap_rank": 179
+          "name": "Animecoin",
+          "symbol": "ANIME",
+          "market_cap_rank": 553
+        },
+        {
+          "name": "Virtuals Protocol",
+          "symbol": "VIRTUAL",
+          "market_cap_rank": 97
+        },
+        {
+          "name": "Axie Infinity",
+          "symbol": "AXS",
+          "market_cap_rank": 178
         },
         {
           "name": "Artificial Superintelligence Alliance",
           "symbol": "FET",
           "market_cap_rank": 96
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 150
-        },
-        {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 29
         }
       ]
     },
@@ -268,44 +268,38 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "US Stock Indexes Rise on Monday March 16",
-          "summary": "The S&P 500 rose 1% to 6,699.38, Dow gained 0.8% to 46,946.41, and Nasdaq composite increased as markets rebounded amid ongoing macro uncertainty.",
-          "source": "Las Vegas Sun",
-          "url": "https://lasvegassun.com/news/2026/mar/16/how-major-us-stock-indexes-fared-monday-3162026/"
+          "title": "US Stock Indexes Rebound Around 1% Amid Oil Price Recovery and Strait of Hormuz Tanker Crossings",
+          "summary": "Major US indexes including Dow Jones, S&P 500, and Nasdaq rose approximately 1% on March 16, driven by a better oil outlook following successful tanker crossings through the Strait of Hormuz. Tech and finance sectors led gains, with Nasdaq and S&P 500 forming tight bull channels around key support levels.",
+          "source": "MarketPulse",
+          "url": "https://www.marketpulse.com/markets/stock-markets-confidence-test-index-djia-nasdaq/"
         },
         {
-          "title": "Weekly Market Decline Led by Financials and Industrials",
-          "summary": "Global equities retreated for the week ending March 13 with Dow down 1.91%, S&P 500 down 1.56%; Financials fell 3.38% amid credit concerns, while Energy rose 2.16%.",
-          "source": "Clearbrook Global",
-          "url": "https://www.clearbrookglobal.com/weekly-market-commentary-march-16-2026/"
+          "title": "Tech Sector Faces AI Trade Unraveling and Valuation Uncertainty, Treasury Secretary Warns of Market Panic Risks",
+          "summary": "Treasury Secretary Scott Bessent highlighted compromised price discovery in AI stocks as a deeper issue than selloffs, with Nvidia's stock falling despite strong earnings and Magnificent 7 down 7% YTD. Private credit markets financing AI infrastructure show signs of stress, including recent firm bankruptcies and withdrawal restrictions.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/03/16/scott-bessent-pricing-markets-ai-trade-investing-history/"
         },
         {
-          "title": "US Trade Rep Announces Tariff Investigations on Top 16 Partners",
-          "summary": "U.S. Trade Representative Greer launched probes into top 16 trading partners as a step toward new long-term tariffs following Supreme Court ruling on prior ones.",
-          "source": "Nasdaq",
-          "url": "https://www.nasdaq.com/articles/weekly-chartstopper-march-16-2026"
+          "title": "Several Companies Report Strong Q4 Earnings Beats on March 16",
+          "summary": "Dollar Tree beat Q4 estimates with sales growth from higher comparable sales; other firms like IHS Towers (+476% EPS surprise), TLS (+200%), and RFIL (+100%) exceeded expectations. Upcoming earnings from Williams-Sonoma in focus amid Q1 season start.",
+          "source": "Zacks",
+          "url": "https://www.zacks.com/commentary/2884087/best-2-tech-stocks-to-buy-now-on-the-dip-for-90-upside"
         },
         {
-          "title": "Q4 GDP Growth Revised Down to 0.7%, Inflation Steady",
-          "summary": "Revised Q4 real GDP growth cut to 0.7% annualized due to weaker trade and spending; January PCE inflation at 2.8% YoY, February CPI unchanged at 2.4% YoY.",
-          "source": "Nasdaq",
-          "url": "https://www.nasdaq.com/articles/weekly-chartstopper-march-16-2026"
-        },
-        {
-          "title": "Fed Meeting and Key Data Await This Week",
-          "summary": "Upcoming events include Fed meeting on Wednesday with Producer Price Inflation, Industrial Production today, and Jobless Claims Thursday amid Iran conflict and tariff updates.",
-          "source": "Nasdaq",
-          "url": "https://www.nasdaq.com/articles/weekly-chartstopper-march-16-2026"
+          "title": "Bitcoin Surges to $73,882, Up Over $2,300 in 24 Hours Amid Positive Economic Sentiment",
+          "summary": "Bitcoin price reached $73,882.25 at 9:15 a.m. ET on March 16, marking a $2,327 increase from the prior day, influenced by investor speculation and broader economic strength rather than direct Fed sensitivity.",
+          "source": "Fortune",
+          "url": "https://fortune.com/article/price-of-bitcoin-03-16-2026/"
         }
       ],
       "citations": [
-        "https://www.clearbrookglobal.com/weekly-market-commentary-march-16-2026/",
-        "https://lasvegassun.com/news/2026/mar/16/how-major-us-stock-indexes-fared-monday-3162026/",
-        "https://www.nasdaq.com/articles/weekly-chartstopper-march-16-2026",
-        "https://concordassetmgmt.com/insight/weekly-market-insights-monday-march-16-2026/"
+        "https://www.marketpulse.com/markets/stock-markets-confidence-test-index-djia-nasdaq/",
+        "https://www.zacks.com/commentary/2884087/best-2-tech-stocks-to-buy-now-on-the-dip-for-90-upside",
+        "https://fortune.com/article/price-of-bitcoin-03-16-2026/",
+        "https://fortune.com/2026/03/16/scott-bessent-pricing-markets-ai-trade-investing-history/"
       ]
     },
     "crypto_news": {
@@ -313,50 +307,52 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Bitcoin Breaks $74,000 as Fed Decision Looms",
-          "summary": "Bitcoin surged past $74,000, marking a significant technical level that previously enabled new all-time highs. The rally comes as traders await the Federal Reserve's interest rate decision on March 18, 2026, which could significantly impact cryptocurrency markets.",
-          "source": "Crypto News Analysis",
-          "url": "https://www.youtube.com/watch?v=fGJGWwM84Cg"
+          "title": "Bitcoin Price Surges Above $75,000 Amid Market Rally",
+          "summary": "Bitcoin climbed above $75,000, marking its strongest level since early February with a nearly 25% rebound from February lows, driven by improving global risk appetite and easing geopolitical tensions. Ethereum rose past $2,360 with 8.47% gains, while total crypto market cap neared $2.59 trillion ahead of the FOMC meeting.[2][5]",
+          "source": "Blockhead, Bitcoin Magazine",
+          "url": "https://www.blockhead.co/2026/03/17/crypto-rally-mirrors-equity-strength-as-fomc-looms/"
         },
         {
-          "title": "Clarity Act Faces Tight Timeline for 2026 Passage",
-          "summary": "According to Galaxy Digital's Alex Thorne, the crypto market structure legislation (Clarity Act) must pass committee by end of April and reach the Senate floor by early May, or odds of passage in 2026 become extremely low. Floor time is rapidly diminishing.",
-          "source": "Thinking Crypto",
-          "url": "https://www.youtube.com/watch?v=oN6zuzBTMIw"
+          "title": "Strategy Adds 22,337 Bitcoin to Holdings for $1.57 Billion",
+          "summary": "MicroStrategy, led by Michael Saylor, purchased 22,337 more Bitcoin, increasing total holdings to 761,068 BTC valued at around $50 billion, signaling strong corporate demand. Metaplanet secured $255 million from investors to boost its Bitcoin treasury strategy.[5]",
+          "source": "Bitcoin Magazine",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-price-surges-above-75000"
         },
         {
-          "title": "NASDAQ and ICE Partner on Tokenized Stocks Initiative",
-          "summary": "NASDAQ and Intercontinental Exchange (parent of NYSE) are collaborating with digital asset exchanges to tokenize equities. NASDAQ is developing a framework for blockchain-based shares, partnering with Payword (parent of Kraken), with offerings launching in H1 2027.",
-          "source": "Thinking Crypto",
-          "url": "https://www.youtube.com/watch?v=oN6zuzBTMIw"
+          "title": "20 Millionth Bitcoin Mined as Supply Milestone Reached",
+          "summary": "The Bitcoin network mined its 20 millionth BTC, highlighting ongoing supply constraints with over 95% of total supply now issued ahead of future halvings.[6]",
+          "source": "Caleb & Brown",
+          "url": "https://calebandbrown.com/blog/weekly-rollup-march-17-2026/"
         },
         {
-          "title": "ICE Invests in OKX at $25 Billion Valuation",
-          "summary": "Intercontinental Exchange announced a strategic investment in crypto exchange OKX, valuing the platform at $25 billion. The deal includes plans to launch tokenized stocks and crypto futures, leveraging OKX's 120 million user base.",
-          "source": "Thinking Crypto",
-          "url": "https://www.youtube.com/watch?v=oN6zuzBTMIw"
+          "title": "Crypto Rally Tracks Equity Strength Ahead of FOMC Decision",
+          "summary": "Cryptocurrency markets mirrored a U.S. equity rebound with Bitcoin dominance at 58.76%, as investors eye the Federal Reserve's policy announcement for signals on rates and inflation.[2]",
+          "source": "Blockhead",
+          "url": "https://www.blockhead.co/2026/03/17/crypto-rally-mirrors-equity-strength-as-fomc-looms/"
         },
         {
-          "title": "Bitcoin Extends Rally with Eight Consecutive Daily Green Candles",
-          "summary": "Bitcoin achieved eight consecutive daily green candles on a closing basis, demonstrating sustained bullish momentum. Analysts note this represents significant technical strength in the current market cycle.",
-          "source": "Crypto Market Analysis",
-          "url": "https://www.youtube.com/watch?v=aw5erQrdeQA"
+          "title": "U.S. SEC and CFTC Align on Crypto Regulation",
+          "summary": "The U.S. SEC and CFTC reached alignment on cryptocurrency oversight, potentially providing clearer regulatory frameworks to encourage institutional participation.[6]",
+          "source": "Caleb & Brown",
+          "url": "https://calebandbrown.com/blog/weekly-rollup-march-17-2026/"
+        },
+        {
+          "title": "TRUMP Token Rallies on Mar-a-Lago VIP Event Announcement",
+          "summary": "The TRUMP memecoin surged following news of a new VIP event at Mar-a-Lago, boosting sentiment amid broader crypto market recovery.[6]",
+          "source": "Caleb & Brown",
+          "url": "https://calebandbrown.com/blog/weekly-rollup-march-17-2026/"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=oN6zuzBTMIw",
-        "https://www.youtube.com/watch?v=Y3wJV6E8JFc",
-        "https://www.youtube.com/watch?v=fGJGWwM84Cg",
-        "https://www.youtube.com/watch?v=bklJgYs04TA",
-        "https://www.youtube.com/watch?v=i1n33tspx_c",
-        "https://www.youtube.com/watch?v=aw5erQrdeQA",
-        "https://www.youtube.com/watch?v=OwPKeSZQ_-c",
-        "https://www.youtube.com/watch?v=6lJgEDCke6A",
-        "https://www.youtube.com/watch?v=NU0tZ2xYAHU",
-        "https://www.whitehouse.gov/videos/president-trump-participates-in-a-lunch-with-the-trump-kennedy-center-board-members/"
+        "https://sergeytereshkin.com/publications/cryptocurrency-news-institutional-demand-top-10-march-17-2026",
+        "https://www.blockhead.co/2026/03/17/crypto-rally-mirrors-equity-strength-as-fomc-looms/",
+        "https://phemex.com/blogs/bitcoin-price-today-live-updates-market-analysis-price-prediction-march-17-2026",
+        "https://www.economies.com/crypto/analysis/bitcoin-(btcusd)-soars---analysis-17-03-2026-125579",
+        "https://bitcoinmagazine.com/news/bitcoin-price-surges-above-75000",
+        "https://calebandbrown.com/blog/weekly-rollup-march-17-2026/"
       ]
     },
     "ai_news": {
@@ -364,52 +360,46 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "AI Steals the Spotlight at Embedded World 2026",
-          "summary": "At the Embedded World 2026 conference in Nuremberg, artificial intelligence emerged as a dominant theme, with major vendors like Lattice Semiconductor, Texas Instruments, and MediaTek showcasing Edge AI capabilities integrated into microcontrollers, FPGAs, and development platforms to enable on-device machine learning.",
-          "source": "Electronic Specifier",
-          "url": "https://www.electronicspecifier.com/news/events-news/ai-steals-the-spotlight-at-embedded-world-2026/"
+          "title": "Optimal Blue Launches Virtual Economist AI Assistant",
+          "summary": "Optimal Blue introduced the Virtual Economist, a first-of-its-kind AI assistant combining generative AI with proprietary machine learning models on real-time economic data to answer complex mortgage and economic questions. The company has deployed over 12 AI agents to enhance mortgage professionals' efficiency without replacing staff.",
+          "source": "Optimal Blue YouTube",
+          "url": "https://www.youtube.com/watch?v=GF2n2q_S5TA"
         },
         {
-          "title": "AI-Driven Weather Forecasting Outperforms Traditional Physics-Based Models",
-          "summary": "New AI-based weather forecasting models from companies like IBM and Google DeepMind are outperforming conventional models by up to 20% while using significantly less energy and computational resources, with the European Center for Medium-Range Weather Forecasts' AI system predicting hurricane tracks 12 hours further ahead.",
-          "source": "Utility Dive",
-          "url": "https://www.utilitydive.com/spons/ai-is-making-weather-forecasts-better/813863/"
+          "title": "Luiss University Partners with Google to Integrate AI Across Campus",
+          "summary": "Luiss Guido Carli University in Italy announced a collaboration with Google to embed AI tools in teaching, research, and operations, including redesigning courses for AI-enabled environments and developing digital skills.",
+          "source": "EdTech Innovation Hub",
+          "url": "https://www.edtechinnovationhub.com/news/luiss-and-google-partner-to-integrate-ai-across-teaching-research-and-campus-life"
         },
         {
-          "title": "World Economic Forum: AI Will Displace Workers Faster Than Reskilling Can Respond",
-          "summary": "The World Economic Forum's latest report warns that automation will outpace human learning systems, with businesses racing to automate faster than workers can reskill, highlighting a critical skills gap in the AI era.",
-          "source": "QA",
-          "url": "https://www.qa.com/resources/blog/ai-will-displace-workers-faster-than-reskilling-can-respond/"
+          "title": "Artificial Superintelligence Alliance (FET) Surges 70.5% Amid AI Rally",
+          "summary": "The decentralized machine learning platform Artificial Superintelligence Alliance (FET) gained 70.5% as the AI sector rallied, highlighting strong market interest in AI technologies.",
+          "source": "Caleb & Brown",
+          "url": "https://calebandbrown.com/blog/weekly-rollup-march-17-2026/"
         },
         {
-          "title": "Agentic AI Platform Automates Entire Ad Campaign Supply Chain",
-          "summary": "Seedtag launched a new agentic AI platform called Liz that automates media campaign planning and activation using neuro-contextual intelligence technology to identify consumer emotions and intent, with the system learning from campaign performance to optimize future campaigns.",
-          "source": "MediaPost",
-          "url": "https://www.mediapost.com/publications/article/413501/ai-will-soon-run-an-entire-ad-campaign.html"
-        },
-        {
-          "title": "AI Drives Ruthenium Prices to Record Highs",
-          "summary": "Rising demand for ruthenium in modern computing applications driven by AI development has pushed ruthenium prices to unprecedented levels in 2026.",
+          "title": "AI Demand Drives Ruthenium Prices to Record Highs",
+          "summary": "Rising demand for ruthenium in AI hardware has pushed prices to unprecedented 2026 highs, reflecting the material's critical role in modern computing advancements.",
           "source": "Discovery Alert",
           "url": "https://discoveryalert.com.au/ruthenium-demand-modern-computing-2026/"
         },
         {
-          "title": "OpenClaw Incident Exposes Security Risks in Agentic AI",
-          "summary": "The OpenClaw incident reveals hidden security and compliance risks associated with experimental agentic AI tools, raising concerns about the safety of autonomous AI systems.",
-          "source": "DataBreachToday",
-          "url": "https://www.databreachtoday.com/openclaw-exposes-hidden-risks-in-agentic-ai-a-31035"
+          "title": "OpenClaw Incident Reveals Security Risks in Agentic AI",
+          "summary": "The OpenClaw event exposed hidden security and compliance risks in experimental agentic AI tools, emphasizing the need for caution in their deployment.",
+          "source": "GovInfoSecurity",
+          "url": "https://www.govinfosecurity.com/openclaw-exposes-hidden-risks-in-agentic-ai-a-31035"
         }
       ],
       "citations": [
-        "https://www.electronicspecifier.com/news/events-news/ai-steals-the-spotlight-at-embedded-world-2026/",
-        "https://www.utilitydive.com/spons/ai-is-making-weather-forecasts-better/813863/",
-        "https://www.qa.com/resources/blog/ai-will-displace-workers-faster-than-reskilling-can-respond/",
-        "https://www.mediapost.com/publications/article/413501/ai-will-soon-run-an-entire-ad-campaign.html",
+        "https://www.youtube.com/watch?v=GF2n2q_S5TA",
+        "https://calebandbrown.com/blog/weekly-rollup-march-17-2026/",
+        "https://www.edtechinnovationhub.com/news/luiss-and-google-partner-to-integrate-ai-across-teaching-research-and-campus-life",
+        "https://www.utimes.pitt.edu/news/event-hopes-inject",
         "https://discoveryalert.com.au/ruthenium-demand-modern-computing-2026/",
-        "https://www.databreachtoday.com/openclaw-exposes-hidden-risks-in-agentic-ai-a-31035"
+        "https://www.govinfosecurity.com/openclaw-exposes-hidden-risks-in-agentic-ai-a-31035"
       ]
     },
     "gaming": {
@@ -417,77 +407,38 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 4,
       "items": [
         {
-          "title": "MLB The Show 26 Releases Today",
-          "summary": "MLB The Show 26, the latest baseball simulation, launches on March 17 with updated rosters, refined gameplay, and career-building modes ahead of the real-world season.",
-          "source": "DLCompare",
-          "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-march-2026-week-12"
-        },
-        {
-          "title": "Everwind Enters Early Access Today",
-          "summary": "Sandbox survival RPG Everwind launches in Early Access on PC on March 17, set in a unique world with exploration and survival elements.",
-          "source": "DLCompare",
-          "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-march-2026-week-12"
-        },
-        {
-          "title": "RuneScape: Dragonwilds Surprise Early Access Launch",
-          "summary": "RuneScape: Dragonwilds launches into Early Access just 15 days after announcement, expanding the RuneScape universe.",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/?page=42"
-        },
-        {
-          "title": "Clair Obscur: Expedition 33 Leads BAFTA 2026 Nominations",
-          "summary": "Clair Obscur: Expedition 33 tops BAFTA Game Awards 2026 with 12 nominations, including Best Game, followed by Dispatch with nine.",
-          "source": "Game Developer",
+          "title": "Clair Obscur: Expedition 33 and Dispatch Lead BAFTA Game Awards 2026 Nominations",
+          "summary": "Clair Obscur: Expedition 33 topped the BAFTA Game Awards 2026 with 12 nominations, including Best Game, while Dispatch received nine. Other nominees include Arc Raiders, Ghost of Yotei, and Indiana Jones and the Great Circle.",
+          "source": "GameDeveloper.com",
           "url": "https://www.gamedeveloper.com/business/clair-obscur-and-dispatch-lead-bafta-game-awards-2026-nominations"
         },
         {
-          "title": "GDC 2026 Highlights Industry Crisis with Layoffs, AI, and Outsourcing",
-          "summary": "GDC 2026 shows record job seekers amid layoffs, AI tools dominating development, and rising outsourcing, signaling ongoing turmoil.",
+          "title": "GDC 2026 Highlights Gaming Industry Crisis with High Job Seekers, AI Rise, and Outsourcing Surge",
+          "summary": "The 2026 Game Developers Conference showed record job seekers amid ongoing layoffs, heavy AI tool promotions for automating game development tasks, and unprecedented outsourcing activity. The industry has lost over 30,000 positions since 2023.",
           "source": "Metaintro",
           "url": "https://www.metaintro.com/blog/gdc-2026-gaming-industry-crisis-job-seekers-ai-outsourcing"
         },
         {
-          "title": "Atlus Announces Employee Salary Raises Amid Thriving Japanese Industry",
-          "summary": "Atlus plans to increase employee salaries as the Japanese video game industry continues to thrive.",
-          "source": "Instant Gaming",
-          "url": "https://news.instant-gaming.com/en/articles/18537-the-japanese-video-game-industry-is-thriving-and-atlus-is-set-to-raise-its-employees-salaries"
+          "title": "ASUS Unveils Liquid-Cooled AI Infrastructure with NVIDIA Vera Rubin at GTC 2026",
+          "summary": "ASUS launched a fully liquid-cooled AI POD powered by NVIDIA Vera Rubin NVL72 at NVIDIA GTC 2026, targeting high-performance AI clusters for enterprises with applications in gaming and visual computing.",
+          "source": "ASUS Press",
+          "url": "https://press.asus.com/news/press-releases/asus-ai-pod-nvidia-vera-rubin-nvl72/"
         },
         {
-          "title": "Sony Raises PS5 Price in Europe, Australia, and New Zealand",
-          "summary": "PlayStation 5 price increases in select regions including Europe, Australia, and New Zealand, while US pricing remains unchanged.",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/?page=42"
-        },
-        {
-          "title": "Dune: Awakening Delayed to June",
-          "summary": "Open-world survival game Dune: Awakening postponed to June, delaying player claims on Arrakis.",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/?page=42"
-        },
-        {
-          "title": "Star Wars Zero Company Turn-Based Tactics Game Announced",
-          "summary": "Bit Reactor and Respawn announce Star Wars Zero Company, a new turn-based tactics game.",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/?page=42"
-        },
-        {
-          "title": "Bungie Reveals First Marathon Gameplay",
-          "summary": "Bungie shares initial gameplay for its upcoming shooter Marathon.",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/?page=42"
+          "title": "US Court Orders Krafton to Reinstate Studio Head After AI-Generated Takeover Plan",
+          "summary": "A Delaware court ruled that South Korean gaming firm Krafton must reinstate the head of Unknown Worlds Entertainment, finding the removal improper and based on a ChatGPT-generated takeover strategy in a $250 million dispute.",
+          "source": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/03/17/tech/us-south-korea-gaming-ai/"
         }
       ],
       "citations": [
-        "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-march-2026-week-12",
         "https://www.gamedeveloper.com/business/clair-obscur-and-dispatch-lead-bafta-game-awards-2026-nominations",
         "https://www.metaintro.com/blog/gdc-2026-gaming-industry-crisis-job-seekers-ai-outsourcing",
-        "https://news.instant-gaming.com/en/articles/18537-the-japanese-video-game-industry-is-thriving-and-atlus-is-set-to-raise-its-employees-salaries",
-        "https://www.youtube.com/watch?v=joDXWCNf-JM",
-        "https://gameinformer.com/?page=42",
-        "https://gamerant.com/game/name-that-game-2026-03-17/"
+        "https://press.asus.com/news/press-releases/asus-ai-pod-nvidia-vera-rubin-nvl72/",
+        "https://www.japantimes.co.jp/business/2026/03/17/tech/us-south-korea-gaming-ai/"
       ]
     },
     "tech_news": {
@@ -495,15 +446,40 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 4,
+      "items": [
+        {
+          "title": "AI Investment Boom Revives Forgotten Tech Sectors",
+          "summary": "Venture capital is surging back into healthtech, cybersecurity, biotech, and SaaS, with cybersecurity deals hitting a record $643.1 million in Q4 2025. Function Health raised $300 million at a $2.5 billion valuation, while AI-powered security companies like 7AI and Vega Security secured major Series A funding.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/03/16/ai-is-reviving-tech-sectors-that-vcs-had-all-but-forgotten/"
+        },
+        {
+          "title": "FY 2027 H-1B Cap Registration Reaches Midpoint Under New Wage-Weighted System",
+          "summary": "U.S. employers are halfway through the filing window for the new wage-weighted H-1B visa selection system that replaced the random lottery in February 2026. The system assigns selection weights based on offered wage levels, with registration closing March 19 at noon ET.",
+          "source": "VisaHQ",
+          "url": "https://www.visahq.com/news/2026-03-16/us/fy-2027-h-1b-cap-registration-hits-mid-point-as-wage-weighted-system-debuts/"
+        },
+        {
+          "title": "Bitcoin Price Rises $2,327 in Single Day",
+          "summary": "Bitcoin reached $73,882.25 on March 16, marking a $2,327.34 increase from the previous day, though it remains approximately $8,700 below its price one year ago.",
+          "source": "Fortune",
+          "url": "https://fortune.com/article/price-of-bitcoin-03-16-2026/"
+        },
+        {
+          "title": "Eloro Resources Increases Cartier Silver Stake to 11.85%",
+          "summary": "Eloro Resources Ltd. completed open-market purchases of Cartier Silver Corporation shares for C$218,290 at prices between C$0.17 and C$0.21 per share, filing an Early Warning Report with regulators.",
+          "source": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/ELRRF/eloro-resources-ltd-announces-acquisition-of-shares-of-cartier-fcobywe144p0.html"
+        }
+      ],
       "citations": [
+        "https://eu.36kr.com/en/p/3726258468174472",
         "https://fortune.com/2026/03/16/ai-is-reviving-tech-sectors-that-vcs-had-all-but-forgotten/",
-        "https://www.youtube.com/watch?v=pr9fsrK8nmQ",
+        "https://fortune.com/article/price-of-bitcoin-03-16-2026/",
         "https://www.capitalstreetfx.com/crypto-market-analysis-march-16-2026-btc-eth-xrp-sol-daily-intelligence-report/",
-        "https://www.press.bmwgroup.com/usa/article/detail/T0456355EN_US/from-april-fools%E2%80%99-joke-to-the-nordschleife:-the-bmw-m3-touring-24h-will-compete-in-the-24h-nuerburgring-2026",
-        "https://www.marklines.com/en/news/341653",
-        "https://fortune.com/2026/03/16/goldman-sachs-iran-war-ukraine-playbook-ai-gutman-shah/"
+        "https://www.stocktitan.net/news/ELRRF/eloro-resources-ltd-announces-acquisition-of-shares-of-cartier-fcobywe144p0.html",
+        "https://www.visahq.com/news/2026-03-16/us/fy-2027-h-1b-cap-registration-hits-mid-point-as-wage-weighted-system-debuts/"
       ]
     }
   }
