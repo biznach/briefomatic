@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T06:25:39.727801+00:00",
-  "generated_at_human": "2026-03-18 06:25 UTC",
+  "generated_at": "2026-03-18T12:18:47.688348+00:00",
+  "generated_at_human": "2026-03-18 12:18 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "SSH has no Host header",
-          "url": "https://blog.exe.dev/ssh-host-header",
-          "score": 42,
-          "comments": 28
+          "title": "Rob Pike's 5 Rules of Programming",
+          "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+          "score": 155,
+          "comments": 77
         },
         {
-          "title": "Have a Fucking Website",
-          "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-          "score": 126,
-          "comments": 62
+          "title": "JPEG Compression",
+          "url": "https://www.sophielwang.com/blog/jpeg",
+          "score": 256,
+          "comments": 52
         },
         {
-          "title": "A Decade of Slug",
-          "url": "https://terathon.com/blog/decade-slug.html",
-          "score": 534,
-          "comments": 47
+          "title": "Measuring progress toward AGI: A cognitive framework",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+          "score": 7,
+          "comments": 8
         },
         {
-          "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-          "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-          "score": 618,
-          "comments": 220
+          "title": "Write up of my homebrew CPU build",
+          "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
+          "score": 99,
+          "comments": 15
         },
         {
-          "title": "More than 135 open hardware devices flashable with your own firmware",
-          "url": "https://openhardware.directory",
-          "score": 147,
+          "title": "Ask HN: What breaks first when your team grows from 10 to 50 people?",
+          "url": "https://news.ycombinator.com/item?id=47386284",
+          "score": 45,
+          "comments": 37
+        },
+        {
+          "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+          "url": "https://nightingale.cafe/",
+          "score": 99,
           "comments": 12
         },
         {
           "title": "Mistral AI Releases Forge",
           "url": "https://mistral.ai/news/forge",
-          "score": 265,
-          "comments": 43
+          "score": 542,
+          "comments": 122
+        },
+        {
+          "title": "How the Eon Team Produced a Virtual Embodied Fly",
+          "url": "https://eon.systems/updates/embodied-brain-emulation",
+          "score": 31,
+          "comments": 8
+        },
+        {
+          "title": "A Decade of Slug",
+          "url": "https://terathon.com/blog/decade-slug.html",
+          "score": 637,
+          "comments": 63
+        },
+        {
+          "title": "Celebrating Tony Hoare's mark on computer science",
+          "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
+          "score": 51,
+          "comments": 5
+        },
+        {
+          "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+          "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+          "score": 705,
+          "comments": 258
+        },
+        {
+          "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
+          "url": "https://oseifert.ch/blog/building-pgit",
+          "score": 61,
+          "comments": 24
         },
         {
           "title": "Python 3.15's JIT is now back on track",
           "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-          "score": 333,
-          "comments": 153
+          "score": 399,
+          "comments": 223
         },
         {
-          "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
-          "url": "https://github.com/gsd-build/get-shit-done",
-          "score": 277,
-          "comments": 138
-        },
-        {
-          "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-          "url": "https://github.com/adammiribyan/zeroboot",
-          "score": 111,
-          "comments": 23
+          "title": "More than 135 open hardware devices flashable with your own firmware",
+          "url": "https://openhardware.directory",
+          "score": 257,
+          "comments": 30
         },
         {
           "title": "The pleasures of poor product design",
           "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-          "score": 67,
-          "comments": 21
+          "score": 145,
+          "comments": 50
         },
         {
-          "title": "Leviathan (1651)",
-          "url": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
-          "score": 30,
-          "comments": 10
+          "title": "(Media over QUIC) on a Boat",
+          "url": "https://moq.dev/blog/on-a-boat/",
+          "score": 31,
+          "comments": 3
         },
         {
-          "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
-          "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
-          "score": 60,
-          "comments": 1
+          "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
+          "url": "https://ndea.com/jobs/search-guidance",
+          "score": 1,
+          "comments": 0
+        },
+        {
+          "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "score": 360,
+          "comments": 181
+        },
+        {
+          "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+          "url": "https://github.com/adammiribyan/zeroboot",
+          "score": 192,
+          "comments": 49
+        },
+        {
+          "title": "Have a fucking website",
+          "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+          "score": 507,
+          "comments": 273
+        },
+        {
+          "title": "Judge orders restoration of Voice of America",
+          "url": "https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24",
+          "score": 37,
+          "comments": 13
         },
         {
           "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
           "url": "https://arxiv.org/abs/2603.15381",
-          "score": 79,
-          "comments": 25
+          "score": 138,
+          "comments": 70
         },
         {
           "title": "Unsloth Studio",
           "url": "https://unsloth.ai/docs/new/studio",
-          "score": 240,
-          "comments": 49
+          "score": 309,
+          "comments": 59
         },
         {
-          "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
-          "url": "https://news.ycombinator.com/item?id=47417335",
-          "score": 37,
-          "comments": 5
+          "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+          "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
+          "score": 114,
+          "comments": 8
         },
         {
-          "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
-          "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
-          "score": 213,
-          "comments": 91
-        },
-        {
-          "title": "JPEG Compression",
-          "url": "https://www.sophielwang.com/blog/jpeg",
-          "score": 5,
-          "comments": 0
-        },
-        {
-          "title": "Electron microscopy shows ‘mouse bite’ defects in semiconductors",
-          "url": "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors",
-          "score": 48,
-          "comments": 10
-        },
-        {
-          "title": "Honda is killing its EVs",
-          "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
-          "score": 281,
-          "comments": 585
-        },
-        {
-          "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
-          "url": "https://amaiya.github.io/onprem/examples_agent.html",
-          "score": 24,
-          "comments": 4
-        },
-        {
-          "title": "Forget Flags and Scripts: Just Rename the File",
-          "url": "https://robertsdotpm.github.io/software_engineering/program_names_as_input.html",
-          "score": 13,
-          "comments": 11
-        },
-        {
-          "title": "I Simulated 38,612 Countryle Games to Find the Best Strategy",
-          "url": "https://stoffregen.io/posts/countryle/",
-          "score": 8,
-          "comments": 1
-        },
-        {
-          "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
-          "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-          "score": 220,
-          "comments": 122
-        },
-        {
-          "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
-          "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
-          "score": 123,
-          "comments": 35
-        },
-        {
-          "title": "Show HN: Fatal Core Dump – A debugging murder mystery played with GDB",
-          "url": "https://www.robopenguins.com/fatal_core_dump/",
-          "score": 50,
-          "comments": 1
+          "title": "Animation 10k Starlink Satellites",
+          "url": "https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026",
+          "score": 16,
+          "comments": 20
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 74174,
-          "change_24h": -0.03,
-          "change_7d": 6.67,
-          "market_cap": 1482113030175
+          "price": 72805,
+          "change_24h": -1.57,
+          "change_7d": 4.59,
+          "market_cap": 1455566379251
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2326.96,
-          "change_24h": 0.29,
-          "change_7d": 14.1,
-          "market_cap": 280499874918
+          "price": 2261.85,
+          "change_24h": -2.66,
+          "change_7d": 11.49,
+          "market_cap": 272623728925
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 94.37,
-          "change_24h": 0.23,
-          "change_7d": 8.93,
-          "market_cap": 53892865313
+          "price": 91.79,
+          "change_24h": -2.18,
+          "change_7d": 7.53,
+          "market_cap": 52407114416
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.100695,
-          "change_24h": 0.47,
-          "change_7d": 8.17,
-          "market_cap": 15441262641
+          "price": 0.096892,
+          "change_24h": -3.06,
+          "change_7d": 5.07,
+          "market_cap": 14856540500
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.290929,
-          "change_24h": 2.35,
-          "change_7d": 12.59,
-          "market_cap": 10712211605
+          "price": 0.278768,
+          "change_24h": -2.74,
+          "change_7d": 7.69,
+          "market_cap": 10257759154
         }
       ]
     },
@@ -212,29 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Fabric Protocol",
-          "symbol": "ROBO",
-          "market_cap_rank": 392
-        },
-        {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 50
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "pippin",
-          "symbol": "PIPPIN",
-          "market_cap_rank": 234
-        },
-        {
-          "name": "River",
-          "symbol": "RIVER",
-          "market_cap_rank": 107
+          "name": "Kaspa",
+          "symbol": "KAS",
+          "market_cap_rank": 68
         },
         {
           "name": "Hyperliquid",
@@ -242,9 +222,24 @@
           "market_cap_rank": 14
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "LayerZero",
+          "symbol": "ZRO",
+          "market_cap_rank": 107
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 151
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 103
         },
         {
           "name": "Bittensor",
@@ -252,14 +247,19 @@
           "market_cap_rank": 39
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 99
+          "name": "Aster",
+          "symbol": "ASTER",
+          "market_cap_rank": 49
         },
         {
-          "name": "Pepe",
-          "symbol": "PEPE",
-          "market_cap_rank": 52
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "pippin",
+          "symbol": "PIPPIN",
+          "market_cap_rank": 254
         }
       ]
     },
@@ -268,33 +268,43 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Indian Markets Rally for Third Day as Nifty50 Surpasses 23,650",
-          "summary": "India's Nifty50 index opened above 23,650 and was trading at 23,683.15 (up 0.43%), while BSE Sensex gained over 300 points to 76,389.62 (up 0.42%). The rally continues despite Middle East tensions, supported by crude oil stabilizing around $102 and portfolio rotation toward telecom, pharmaceuticals, and defense stocks.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-18-2026-dalal-street-indian-equities-global-markets-us-iran-war-middle-east-conflict-donald-trump-oil-prices/articleshow/129645781.cms"
+          "title": "Nasdaq Climbs Over 100 Points Despite Extreme Fear Index",
+          "summary": "The Nasdaq Composite rose over 100 points on Tuesday amid high investor anxiety, with the Fear and Greed Index at 21.5 in 'Extreme Fear' zone. Markets await Federal Reserve's two-day policy meeting outcome, likely keeping rates near 3.75%, and upcoming PPI data.",
+          "source": "Gotrade News / Bloomberg / Benzinga",
+          "url": "https://www.heygotrade.com/en/news/nasdaq-dominates-despite-high-fear-index"
         },
         {
-          "title": "US Futures Decline Ahead of Federal Reserve Policy Meeting",
-          "summary": "US stock market index futures fell in early trading, with Dow futures down 0.22%, S&P 500 futures down 0.30%, and Nasdaq futures down 0.39%. The declines come as the Federal Reserve begins a two-day policy meeting amid concerns over elevated oil prices and Middle East tensions.",
-          "source": "Economic Times",
-          "url": "https://economictimes.com/news/international/us/why-are-us-stock-market-index-futures-down-today-and-dow-jones-sp-500-and-nasdaq-in-red-now-wall-street-futures-drop-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/amp_articleshow/129630882.cms"
+          "title": "S&P 500 Sectors Mixed; Energy and Consumer Discretionary Lead Gains",
+          "summary": "Most S&P 500 sectors ended positively on Tuesday, driven by gains in energy, consumer discretionary, and communication services, while consumer staples and healthcare declined. Focus remains on Fed Chair Powell's statement on inflation and oil prices.",
+          "source": "Gotrade News / Benzinga",
+          "url": "https://www.heygotrade.com/en/news/nasdaq-dominates-despite-high-fear-index"
         },
         {
-          "title": "US Markets Close Higher Despite Fed Meeting and Oil Price Concerns",
-          "summary": "US equity markets closed with gains led by travel-related stocks including Delta Air Lines, signaling investor resilience despite the Federal Reserve's two-day policy meeting and ongoing Middle East tensions affecting crude oil prices.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-18-2026-dalal-street-indian-equities-global-markets-us-iran-war-middle-east-conflict-donald-trump-oil-prices/articleshow/129645781.cms"
+          "title": "Brent Crude Falls Over 2% on Iraq-Turkey Oil Export Reopening",
+          "summary": "Brent crude prices dropped more than 2% after Iraq reopened oil exports through Turkey's Ceyhan port, easing supply concerns from Iran conflict. This occurred despite ongoing market focus on Fed decisions.",
+          "source": "Gotrade News",
+          "url": "https://www.heygotrade.com/en/news/nasdaq-dominates-despite-high-fear-index"
+        },
+        {
+          "title": "Gold Steady Near $5,000 as Investors Eye Fed Rate-Cut Path",
+          "summary": "Gold prices held steady around $5,000 per ounce as investors assess the Federal Reserve's potential rate-cut trajectory ahead of the policy meeting conclusion.",
+          "source": "Bloomberg",
+          "url": "https://www.heygotrade.com/en/news/nasdaq-dominates-despite-high-fear-index"
+        },
+        {
+          "title": "U.S. Stock Futures Rise Ahead of Fed Interest Rate Decision",
+          "summary": "Futures on Nasdaq 100, S&P 500, and Dow Jones were up 0.62%, 0.48%, and 0.52% respectively early Wednesday as markets anticipate the Fed's rate decision and Powell's comments.",
+          "source": "TipRanks",
+          "url": "https://www.tipranks.com/news/stock-market-news-today-3-18-26-u-s-stock-futures-rise-as-feds-interest-rate-decision-looms"
         }
       ],
       "citations": [
-        "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-18-2026-dalal-street-indian-equities-global-markets-us-iran-war-middle-east-conflict-donald-trump-oil-prices/articleshow/129645781.cms",
+        "https://www.heygotrade.com/en/news/nasdaq-dominates-despite-high-fear-index",
         "https://robinhood.com/us/en/prediction-markets/financial/events/sp-500-futures-price-on-march-18-2026-mar-18-2026/",
-        "https://robinhood.com/us/en/prediction-markets/financial/events/nasdaq-100-futures-price-on-march-18-2026-mar-18-2026/",
-        "https://www.capitalstreetfx.com/global-index-market-analysis-march-17-2026/",
-        "https://economictimes.com/news/international/us/why-are-us-stock-market-index-futures-down-today-and-dow-jones-sp-500-and-nasdaq-in-red-now-wall-street-futures-drop-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/amp_articleshow/129630882.cms"
+        "https://www.tipranks.com/news/stock-market-news-today-3-18-26-u-s-stock-futures-rise-as-feds-interest-rate-decision-looms"
       ]
     },
     "crypto_news": {
@@ -302,53 +312,62 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 8,
       "items": [
         {
-          "title": "Bitcoin Shows Strength Amid Market Uncertainty and Geopolitical Tensions",
-          "summary": "Bitcoin hit $76,000 overnight and is decoupling from traditional assets, displaying bullish momentum with potential for a 26% rise based on historical triple divergence patterns. Analysts note it's holding firm through macro pressures ahead of FOMC.",
-          "source": "Crypto Banter",
-          "url": "https://www.youtube.com/watch?v=N200CMNSmNU"
+          "title": "Bitcoin Trades Near $73,500–$73,900 Amid FOMC Anticipation and Institutional Inflows",
+          "summary": "Bitcoin is holding strong at $73,500–$73,900, approaching $75,000 resistance ahead of the FOMC rate decision, supported by $1.1 billion in recent U.S. spot ETF inflows and MicroStrategy's ongoing accumulation strategy.",
+          "source": "Phemex",
+          "url": "https://phemex.com/blogs/bitcoin-outperforming-gold-stocks-dollar-iran-war-march-18"
         },
         {
-          "title": "Mastercard Acquires Stablecoin Startup BVNK",
-          "summary": "Mastercard is acquiring BVNK, a stablecoin firm, as Wall Street players like Citibank increase involvement in crypto. This move highlights growing traditional finance integration with blockchain payments.",
-          "source": "Bloomberg Television",
-          "url": "https://www.youtube.com/watch?v=ovXhuUD68QY"
+          "title": "Aster Chain Launches Privacy-Focused Mainnet with Zero-Knowledge Encryption",
+          "summary": "Aster, backed by YZi Labs, has launched its Layer-1 blockchain mainnet featuring stealth addresses to prevent front-running, with the ASTER token rallying over 5% to $0.76 and cross-chain support from Ethereum and Solana.",
+          "source": "FameEX",
+          "url": "https://www.fameex.com/en-US/news/crypto-news-recap-20260318"
         },
         {
-          "title": "Bitcoin Outperforms Assets During Iran War Tensions",
-          "summary": "Bitcoin is up around 13% this month, acting as a potential safe haven amid rising oil prices and geopolitical risks from Iran. Flows into Bitcoin are surging despite broader market volatility.",
-          "source": "Bloomberg Television",
-          "url": "https://www.youtube.com/watch?v=ovXhuUD68QY"
+          "title": "SEC and CFTC Clarify Most Crypto Assets Are Not Securities, Define Staking and Airdrops",
+          "summary": "U.S. regulators SEC and CFTC have issued clarifications stating most crypto assets are not securities and provided definitions for staking, airdrops, and contracts, potentially easing regulatory uncertainty.",
+          "source": "BitDigest",
+          "url": "https://bitdigest.substack.com/p/wednesday-march-18-2026"
         },
         {
-          "title": "Potential Bitcoin Trap Ahead of March 18 FOMC Decision",
-          "summary": "Analysts warn of a possible Bitcoin price trap by March 18, with key levels to watch amid expectations of steady US interest rates. Altcoins like ETH, SOL, and SUI face resistance amid stock market updates.",
-          "source": "Crypto Banter",
-          "url": "https://www.youtube.com/watch?v=csic_Jca3h4"
+          "title": "MicroStrategy Adds 22,337 BTC, Total Holdings Reach 761,068 BTC",
+          "summary": "MicroStrategy raised $1.18 billion via preferred stock and acquired 22,337 more Bitcoin, bringing its total holdings to 761,068 BTC amid continued corporate accumulation trends.",
+          "source": "BitDigest",
+          "url": "https://bitdigest.substack.com/p/wednesday-march-18-2026"
         },
         {
-          "title": "Ethereum Confirms Breakout but Faces Short-Term Pressure",
-          "summary": "Ethereum is technically confirming a daily breakout, though short-term challenges persist alongside Solana struggling at resistance. Bitcoin's price squeeze is over for now, per analysts.",
-          "source": "Crypto World",
-          "url": "https://www.youtube.com/watch?v=7vm2HkGx3fI"
+          "title": "GSR Acquires Autonomous and Architech for $57 Million",
+          "summary": "Crypto trading firm GSR has acquired Autonomous and Architech for $57 million to bolster its infrastructure capabilities in the blockchain space.",
+          "source": "BitDigest",
+          "url": "https://bitdigest.substack.com/p/wednesday-march-18-2026"
         },
         {
-          "title": "Significant Bitcoin Accumulation by Institutions",
-          "summary": "Institutions are buying around $200 million in Bitcoin daily, outpacing miner production by 3-4x, supporting price above key supports like the bull market band.",
-          "source": "YouTube (What They're Not Telling You About Bitcoin)",
-          "url": "https://www.youtube.com/watch?v=_lTz2Ng_7_s"
+          "title": "Moody's Launches On-Chain Credit Ratings",
+          "summary": "Moody's has introduced on-chain credit rating services, marking a significant step in integrating traditional credit assessments with blockchain technology.",
+          "source": "BitDigest",
+          "url": "https://bitdigest.substack.com/p/wednesday-march-18-2026"
+        },
+        {
+          "title": "PayPal Expands Stablecoins to 68 Additional Countries",
+          "summary": "PayPal is rolling out its stablecoin services to 68 more countries, enhancing global access to crypto payments and stable value transfers.",
+          "source": "BitDigest",
+          "url": "https://bitdigest.substack.com/p/wednesday-march-18-2026"
+        },
+        {
+          "title": "Ethereum Trades Near $2,315 with Neutral Funding Rates",
+          "summary": "Ethereum is stable at around $2,315 as funding rates normalize post-leverage flush, though a drop below $2,206 risks $1.156 billion in liquidations.",
+          "source": "FameEX",
+          "url": "https://www.fameex.com/en-US/news/crypto-news-recap-20260318"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=N200CMNSmNU",
-        "https://www.youtube.com/watch?v=csic_Jca3h4",
-        "https://www.youtube.com/watch?v=7vm2HkGx3fI",
-        "https://www.youtube.com/watch?v=ovXhuUD68QY",
-        "https://www.youtube.com/watch?v=rKjce1jCxSM",
-        "https://www.youtube.com/watch?v=E10wrwR-wZU",
-        "https://www.youtube.com/watch?v=_lTz2Ng_7_s"
+        "https://sergeytereshkin.com/publications/cryptocurrency-news-march-18-2026-bitcoin-ethereum-institutional-investments",
+        "https://www.fameex.com/en-US/news/crypto-news-recap-20260318",
+        "https://bitdigest.substack.com/p/wednesday-march-18-2026",
+        "https://phemex.com/blogs/bitcoin-outperforming-gold-stocks-dollar-iran-war-march-18"
       ]
     },
     "ai_news": {
@@ -359,43 +378,43 @@
       "count": 5,
       "items": [
         {
-          "title": "Niv-AI Emerges from Stealth with $12M Funding for GPU Optimization",
-          "summary": "Niv-AI has secured $12 million in funding to develop sensors and data analytics that optimize GPU power usage in data centers, enhancing efficiency for advanced AI models.",
-          "source": "GrowthRocks / TechCrunch",
-          "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/"
+          "title": "Multiverse Computing and Axelera AI Announce Strategic Collaboration for Edge AI Models",
+          "summary": "Multiverse Computing and Axelera AI have launched a technology collaboration to integrate compressed AI models into Axelera’s Metis and Europa edge platforms, enabling efficient AI inference on low-power devices for applications in industrial, retail, mobility, and more.",
+          "source": "The Quantum Insider",
+          "url": "https://thequantuminsider.com/2026/03/18/ultiverse-computing-axelera-ai-strategic-collaboration-ai-models-edge-devices/"
         },
         {
-          "title": "Google Research Hires AI Scientist from Isomorphic Labs",
-          "summary": "Google Research has recruited Benedek Rozemberczki from Alphabet's Isomorphic Labs to its OMEGA Algorithms team, bringing expertise in graph machine learning and AI for drug discovery.",
-          "source": "EdTech Innovation Hub",
-          "url": "https://www.edtechinnovationhub.com/news/google-research-adds-isomorphic-labs-scientist-to-omega-algorithms-team"
+          "title": "NCS Partners with NVIDIA to Deploy Sovereign Agentic AI for Enterprises",
+          "summary": "NCS, a Singtel subsidiary, has partnered with NVIDIA to deploy sovereign agentic AI solutions that allow enterprises to run AI agents on-premises or in the cloud while maintaining data security and governance for uses like service desks, video systems, and logistics.",
+          "source": "Technode Global",
+          "url": "https://technode.global/2026/03/18/ncs-partners-nvidia-to-deploy-sovereign-agentic-ai-for-enterprises/"
         },
         {
-          "title": "University of Minnesota AI Model Boosts Flood Forecasting Accuracy",
-          "summary": "New knowledge-guided machine learning models from the University of Minnesota achieve higher accuracy in predicting floods than current physics-based methods, eliminating manual adjustments.",
-          "source": "Phys.org",
-          "url": "https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html"
+          "title": "TCS and Pearson Partner to Accelerate AI-Powered Learning for Enterprises",
+          "summary": "Tata Consultancy Services (TCS) and Pearson have announced a multi-year partnership to co-develop AI-enabled learning and assessment products, helping enterprises upskill workforces for AI-driven changes using contextual AI and digital platforms.",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/tcs-and-pearson-partner-to-accelerate-ai-powered-learning-for-global-industries-302716317.html"
         },
         {
-          "title": "Deloitte Report: Physical AI Accelerating in Industrial Operations",
-          "summary": "Deloitte's new paper highlights Physical AI's shift to large-scale deployment in manufacturing and logistics, with industrial robots as the proving ground and rapid growth projected.",
-          "source": "PR Newswire / Deloitte",
-          "url": "https://www.prnewswire.com/apac/news-releases/new-deloitte-paper-physical-ai-set-to-transform-industrial-operations-powering-the-next-wave-of-smart-manufacturing-302715778.html"
+          "title": "Embedded AI Market Projected to Reach USD 42.3 Billion by 2033",
+          "summary": "The embedded AI market, valued at USD 13.8 billion in 2026, is expected to grow to USD 42.3 billion by 2033 at a 17.3% CAGR, driven by advancements in AI chipsets, NPUs, and edge deployment for real-time processing in IoT, robotics, and smart devices.",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/03/18/3257964/0/en/Embedded-AI-Market-Accelerates-with-Advancements-in-Semiconductor-Design-and-Edge-Based-AI-Deployment-Valued-at-USD-42-3-billion-by-2033.html"
         },
         {
-          "title": "Benchmark Reveals Top AI Coding Tools Fail 25% of the Time",
-          "summary": "University of Waterloo research shows leading LLMs achieve only 75% accuracy on structured software tasks, struggling with image, video, and website generation, requiring human oversight.",
-          "source": "EurekAlert!",
-          "url": "https://www.eurekalert.org/news-releases/1120114"
+          "title": "AI in Sports Market Forecast: Machine Learning to Dominate by 2030",
+          "summary": "The AI in sports market is expanding with machine learning projected to hold 35% share by 2030, supported by performance analytics, injury prevention, and integrations with IoT and AR/VR for enhanced training and fan engagement.",
+          "source": "National Law Review",
+          "url": "https://natlawreview.com/press-releases/ai-sports-market-2026-data-analytics-and-performance-intelligence"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=eXFv2kS6idI",
-        "https://www.edtechinnovationhub.com/news/google-research-adds-isomorphic-labs-scientist-to-omega-algorithms-team",
-        "https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html",
-        "https://www.prnewswire.com/apac/news-releases/new-deloitte-paper-physical-ai-set-to-transform-industrial-operations-powering-the-next-wave-of-smart-manufacturing-302715778.html",
-        "https://www.eurekalert.org/news-releases/1120114",
-        "https://press.asus.com/blog/empowering-smart-cities-with-ai/"
+        "https://natlawreview.com/press-releases/ai-sports-market-2026-data-analytics-and-performance-intelligence",
+        "https://thequantuminsider.com/2026/03/18/ultiverse-computing-axelera-ai-strategic-collaboration-ai-models-edge-devices/",
+        "https://www.globenewswire.com/news-release/2026/03/18/3257964/0/en/Embedded-AI-Market-Accelerates-with-Advancements-in-Semiconductor-Design-and-Edge-Based-AI-Deployment-Valued-at-USD-42-3-billion-by-2033.html",
+        "https://technode.global/2026/03/18/ncs-partners-nvidia-to-deploy-sovereign-agentic-ai-for-enterprises/",
+        "https://www.prnewswire.com/news-releases/tcs-and-pearson-partner-to-accelerate-ai-powered-learning-for-global-industries-302716317.html",
+        "https://www.bcg.com/publications/2026/how-ai-can-help-universities-capture-opportunity"
       ]
     },
     "gaming": {
@@ -403,40 +422,32 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "PlayStation Portal Adds 1080p High Quality Mode Today",
-          "summary": "PlayStation Portal is receiving a new 1080p - High Quality mode on March 18, accessible via the quick menu for both remote play and cloud streaming sessions.",
-          "source": "Instant Gaming News",
-          "url": "https://news.instant-gaming.com/en/articles/18567-playstation-portal-is-getting-a-1080p-high-quality-mode-on-march-18"
+          "title": "Xbox Game Pass Adds 12 New Titles in March 2026 Wave 2 Including South of Midnight Today",
+          "summary": "Xbox Game Pass is adding 12 new PC and Xbox titles as part of its March 2026 Wave 2, with South of Midnight launching on Cloud, Console, Handheld, and PC today, March 18. Upcoming additions include Clair Obscur: Expedition 33 on April 2, along with updates for Valorant and Sea of Thieves Season 19.",
+          "source": "Worthplaying",
+          "url": "https://worthplaying.com/article/2026/3/17/news/149340-xbox-game-pass-reveals-12-new-pcxbox-titles-being-added-in-march-2026-as-part-of-wave-2/"
         },
         {
-          "title": "Xbox Game Pass March 2026 Wave 2 Adds 11 Games Including South of Midnight",
-          "summary": "Xbox Game Pass Wave 2 for March 2026 reveals 11 new games joining soon, with South of Midnight arriving on Premium tiers across Cloud, Console, Handheld, and PC starting March 18.",
-          "source": "GG.deals",
-          "url": "https://gg.deals/subscription-news/game-pass-march-2026-wave-2-reveals-a-massive-batch-of-11-games-joining-soon/"
+          "title": "Xbox Game Pass Announces Late March and April 2026 Additions",
+          "summary": "Xbox has revealed additional games joining Game Pass for the end of March and into April 2026, expanding options for subscribers with new releases and updates.",
+          "source": "Gamer Social Club",
+          "url": "https://gamersocialclub.ca/2026/03/17/xbox-game-pass-additions-announced-for-end-of-march-2026/"
         },
         {
-          "title": "Marvel Strike Force Unveils 2026 Game Vision with Gear Tier 21 and Major Updates",
-          "summary": "Marvel Strike Force shared its Game Vision for 2026 on March 17, announcing Phase 1 with Gear Tier 21, quality of life improvements, new war screens, and a massive Phase 3 Doomsday event.",
-          "source": "MARVEL Strike Force YouTube",
-          "url": "https://www.youtube.com/watch?v=GGXemxH0VaI"
-        },
-        {
-          "title": "DDO Scheduled for Maintenance Downtime Today",
-          "summary": "Dungeons & Dragons Online (DDO) servers will be down for weekly maintenance on March 18 from 9:00 AM to 1:00 PM Eastern.",
-          "source": "DDO Official News",
-          "url": "https://www.ddo.com/news/ddo-downtime-031726"
+          "title": "Sony Releases Surprise PS3 System Update 4.93",
+          "summary": "Sony deployed PS3 system software update 4.93 on March 18, 2026, marking the first update in exactly one year for the legacy console.",
+          "source": "PlayStation Lifestyle",
+          "url": "https://www.playstationlifestyle.net/2026/03/18/ps3-system-update-4-93-march-2026/amp/"
         }
       ],
       "citations": [
-        "https://www.pcgamer.com/games/new-pc-games-2026/",
-        "https://www.youtube.com/watch?v=GGXemxH0VaI",
-        "https://gg.deals/subscription-news/game-pass-march-2026-wave-2-reveals-a-massive-batch-of-11-games-joining-soon/",
-        "https://www.ddo.com/news/ddo-downtime-031726",
-        "https://news.instant-gaming.com/en/articles/18567-playstation-portal-is-getting-a-1080p-high-quality-mode-on-march-18",
-        "https://gamerant.com/game/name-that-game-2026-03-18/"
+        "https://worthplaying.com/article/2026/3/17/news/149340-xbox-game-pass-reveals-12-new-pcxbox-titles-being-added-in-march-2026-as-part-of-wave-2/",
+        "https://explorminate.org/fortnightly-4x-and-tactics-news-roundup-march-1st-to-march-17th/",
+        "https://gamersocialclub.ca/2026/03/17/xbox-game-pass-additions-announced-for-end-of-march-2026/",
+        "https://www.playstationlifestyle.net/2026/03/18/ps3-system-update-4-93-march-2026/amp/"
       ]
     },
     "tech_news": {
@@ -444,31 +455,39 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Intel Unveils Core Ultra 200HX Plus CPUs for High-End Gaming Laptops",
-          "summary": "Intel has launched the Core Ultra 200HX Plus series, including the flagship Core Ultra 9 290HX Plus and Core Ultra 7 270HX Plus, featuring an Intel Binary Optimization Tool to boost native game performance.",
-          "source": "The Verge",
-          "url": "https://techmeme.com/index.html"
+          "title": "China's Alibaba and Baidu Raise AI Service Prices Amid Surging Demand",
+          "summary": "Alibaba plans to increase prices for its T-head AI computing chips by 5-34% and storage by 30%, while Baidu will hike AI cloud product prices by up to 30%, effective April 18, due to global demand and supply chain costs.",
+          "source": "Morningstar / Dow Jones Newswires",
+          "url": "https://www.morningstar.com/news/dow-jones/202603182039/chinas-big-tech-firms-raise-ai-prices-as-demand-soars"
         },
         {
-          "title": "Nvidia Restarts H200 Chip Manufacturing for China Shipments",
-          "summary": "Nvidia CEO Jensen Huang announced the company is resuming production of H200 chips for export to China, with orders already received from multiple customers.",
-          "source": "Axios",
-          "url": "https://techmeme.com/index.html"
+          "title": "Major Tech Layoffs Hit Meta, Amazon, Atlassian, and Others in 2026",
+          "summary": "Companies including Amazon (16,000 jobs), Atlassian (1,600 jobs), Meta (up to 15,000), and Oracle (20,000-30,000) are cutting jobs to pivot toward efficiency and AI infrastructure investments.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/tech-layoffs-meta-amazon-and-other-companies-cutting-jobs-in-2026/articleshow/129653267.cms"
         },
         {
-          "title": "Linux Foundation Secures $12.5M in Grants for FOSS Maintainers",
-          "summary": "The Linux Foundation received $12.5 million from Google and other Big Tech firms to support open-source maintainers dealing with increased security findings.",
-          "source": "The Register",
-          "url": "https://techmeme.com/index.html"
+          "title": "LG Energy Solution Bolsters Leadership in Robotics Battery Market",
+          "summary": "LG Energy Solution is supplying high-energy-density cylindrical batteries and immersion cooling tech to over six major robotics firms, positioning itself for growth as the humanoid robot market surges toward 1.53 million units by 2030.",
+          "source": "LG Energy Solution News",
+          "url": "https://news.lgensol.com/company-news/supplementary-stories/4778/"
+        },
+        {
+          "title": "One-Third of Organizations Lack Data Foundations Despite HR Tech Investments",
+          "summary": "Rising investments in HR technology have not resolved data gaps, leaving one-third of organizations without reliable workforce analytics for decision-making.",
+          "source": "Las Vegas Sun",
+          "url": "https://lasvegassun.com/news/2026/mar/18/despite-rising-hr-tech-investment-one-third-of-org/"
         }
       ],
       "citations": [
-        "https://www.youtube.com/shorts/I05174jaizg",
-        "https://techmeme.com/index.html",
-        "https://www.youtube.com/watch?v=6RuoICeOuXs"
+        "https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple",
+        "https://www.morningstar.com/news/dow-jones/202603182039/chinas-big-tech-firms-raise-ai-prices-as-demand-soars",
+        "https://timesofindia.indiatimes.com/technology/tech-news/tech-layoffs-meta-amazon-and-other-companies-cutting-jobs-in-2026/articleshow/129653267.cms",
+        "https://news.lgensol.com/company-news/supplementary-stories/4778/",
+        "https://lasvegassun.com/news/2026/mar/18/despite-rising-hr-tech-investment-one-third-of-org/"
       ]
     }
   }
