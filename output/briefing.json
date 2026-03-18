@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T12:18:47.688348+00:00",
-  "generated_at_human": "2026-03-18 12:18 UTC",
+  "generated_at": "2026-03-18T18:22:13.745497+00:00",
+  "generated_at_human": "2026-03-18 18:22 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "Rob Pike's 5 Rules of Programming",
+          "title": "AI Coding Is Gambling",
+          "url": "https://notes.visaint.space/ai-coding-is-gambling/",
+          "score": 65,
+          "comments": 44
+        },
+        {
+          "title": "Death to Scroll Fade",
+          "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
+          "score": 230,
+          "comments": 117
+        },
+        {
+          "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+          "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+          "score": 148,
+          "comments": 39
+        },
+        {
+          "title": "Show HN: Will my flight have Starlink?",
+          "url": "https://news.ycombinator.com/item?id=47428650",
+          "score": 44,
+          "comments": 23
+        },
+        {
+          "title": "A tiny, decentralised tool to explore the small web",
+          "url": "https://codeberg.org/susam/wander",
+          "score": 91,
+          "comments": 13
+        },
+        {
+          "title": "Rob Pike's Rules of Programming (1989)",
           "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-          "score": 155,
-          "comments": 77
+          "score": 613,
+          "comments": 336
         },
         {
-          "title": "JPEG Compression",
-          "url": "https://www.sophielwang.com/blog/jpeg",
-          "score": 256,
-          "comments": 52
+          "title": "OpenRocket",
+          "url": "https://openrocket.info/",
+          "score": 79,
+          "comments": 20
         },
         {
-          "title": "Measuring progress toward AGI: A cognitive framework",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
-          "score": 7,
-          "comments": 8
+          "title": "I haven't used a mouse for 14 years",
+          "url": "https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/",
+          "score": 11,
+          "comments": 10
         },
         {
-          "title": "Write up of my homebrew CPU build",
-          "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-          "score": 99,
-          "comments": 15
+          "title": "2025 Turing award given for quantum information science",
+          "url": "https://awards.acm.org/about/2025-turing",
+          "score": 20,
+          "comments": 4
         },
         {
-          "title": "Ask HN: What breaks first when your team grows from 10 to 50 people?",
-          "url": "https://news.ycombinator.com/item?id=47386284",
-          "score": 45,
+          "title": "Machine Payments Protocol (MPP)",
+          "url": "https://stripe.com/blog/machine-payments-protocol",
+          "score": 81,
           "comments": 37
+        },
+        {
+          "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
+          "url": "https://huggingface.co/datasets/open-index/hacker-news",
+          "score": 69,
+          "comments": 19
         },
         {
           "title": "Nightingale – open-source karaoke app that works with any song on your computer",
           "url": "https://nightingale.cafe/",
-          "score": 99,
+          "score": 383,
+          "comments": 107
+        },
+        {
+          "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
+          "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+          "score": 281,
+          "comments": 124
+        },
+        {
+          "title": "Nvidia NemoClaw",
+          "url": "https://github.com/NVIDIA/NemoClaw",
+          "score": 89,
+          "comments": 56
+        },
+        {
+          "title": "Wander – A tiny, decentralised tool (just 2 files) to explore the small web",
+          "url": "https://susam.net/wander/",
+          "score": 36,
           "comments": 12
+        },
+        {
+          "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+          "url": "https://tmux.thijsverreck.com",
+          "score": 4,
+          "comments": 0
+        },
+        {
+          "title": "Write up of my homebrew CPU build",
+          "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
+          "score": 198,
+          "comments": 32
         },
         {
           "title": "Mistral AI Releases Forge",
           "url": "https://mistral.ai/news/forge",
-          "score": 542,
-          "comments": 122
+          "score": 680,
+          "comments": 173
         },
         {
-          "title": "How the Eon Team Produced a Virtual Embodied Fly",
-          "url": "https://eon.systems/updates/embodied-brain-emulation",
-          "score": 31,
+          "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
+          "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review",
+          "score": 43,
+          "comments": 15
+        },
+        {
+          "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+          "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+          "score": 12,
+          "comments": 5
+        },
+        {
+          "title": "Restoring the first recording of computer music (2018)",
+          "url": "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music",
+          "score": 21,
           "comments": 8
         },
         {
           "title": "A Decade of Slug",
           "url": "https://terathon.com/blog/decade-slug.html",
-          "score": 637,
-          "comments": 63
+          "score": 712,
+          "comments": 69
+        },
+        {
+          "title": "A dither generator for triangular and hexagonal pixels (2025)",
+          "url": "https://danieltemkin.com/DitherStudies",
+          "score": 3,
+          "comments": 0
+        },
+        {
+          "title": "Using calculus to do number theory",
+          "url": "https://hidden-phenomena.com/articles/hensels",
+          "score": 66,
+          "comments": 10
         },
         {
           "title": "Celebrating Tony Hoare's mark on computer science",
           "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-          "score": 51,
-          "comments": 5
-        },
-        {
-          "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-          "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-          "score": 705,
-          "comments": 258
-        },
-        {
-          "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
-          "url": "https://oseifert.ch/blog/building-pgit",
-          "score": 61,
-          "comments": 24
-        },
-        {
-          "title": "Python 3.15's JIT is now back on track",
-          "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-          "score": 399,
-          "comments": 223
-        },
-        {
-          "title": "More than 135 open hardware devices flashable with your own firmware",
-          "url": "https://openhardware.directory",
-          "score": 257,
-          "comments": 30
-        },
-        {
-          "title": "The pleasures of poor product design",
-          "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-          "score": 145,
-          "comments": 50
-        },
-        {
-          "title": "(Media over QUIC) on a Boat",
-          "url": "https://moq.dev/blog/on-a-boat/",
-          "score": 31,
-          "comments": 3
-        },
-        {
-          "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
-          "url": "https://ndea.com/jobs/search-guidance",
-          "score": 1,
-          "comments": 0
-        },
-        {
-          "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
-          "url": "https://github.com/gsd-build/get-shit-done",
-          "score": 360,
-          "comments": 181
-        },
-        {
-          "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-          "url": "https://github.com/adammiribyan/zeroboot",
-          "score": 192,
-          "comments": 49
-        },
-        {
-          "title": "Have a fucking website",
-          "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-          "score": 507,
-          "comments": 273
-        },
-        {
-          "title": "Judge orders restoration of Voice of America",
-          "url": "https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24",
-          "score": 37,
-          "comments": 13
-        },
-        {
-          "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-          "url": "https://arxiv.org/abs/2603.15381",
-          "score": 138,
-          "comments": 70
-        },
-        {
-          "title": "Unsloth Studio",
-          "url": "https://unsloth.ai/docs/new/studio",
-          "score": 309,
-          "comments": 59
-        },
-        {
-          "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
-          "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
-          "score": 114,
-          "comments": 8
-        },
-        {
-          "title": "Animation 10k Starlink Satellites",
-          "url": "https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026",
-          "score": 16,
-          "comments": 20
+          "score": 96,
+          "comments": 26
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 72805,
-          "change_24h": -1.57,
-          "change_7d": 4.59,
-          "market_cap": 1455566379251
+          "price": 71645,
+          "change_24h": -3.9,
+          "change_7d": 1.23,
+          "market_cap": 1438306534077
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2261.85,
-          "change_24h": -2.66,
-          "change_7d": 11.49,
-          "market_cap": 272623728925
+          "price": 2196.53,
+          "change_24h": -6.03,
+          "change_7d": 6.21,
+          "market_cap": 267413834859
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 91.79,
-          "change_24h": -2.18,
-          "change_7d": 7.53,
-          "market_cap": 52407114416
+          "price": 90.33,
+          "change_24h": -4.9,
+          "change_7d": 4.51,
+          "market_cap": 51735541166
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.096892,
-          "change_24h": -3.06,
-          "change_7d": 5.07,
-          "market_cap": 14856540500
+          "price": 0.094918,
+          "change_24h": -5.72,
+          "change_7d": 1.25,
+          "market_cap": 14637136252
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.278768,
-          "change_24h": -2.74,
-          "change_7d": 7.69,
-          "market_cap": 10257759154
+          "price": 0.273591,
+          "change_24h": -5.76,
+          "change_7d": 3.75,
+          "market_cap": 10123451737
         }
       ]
     },
@@ -212,14 +212,24 @@
       "count": 10,
       "items": [
         {
-          "name": "Kaspa",
-          "symbol": "KAS",
-          "market_cap_rank": 68
+          "name": "Neiro",
+          "symbol": "NEIRO",
+          "market_cap_rank": 659
+        },
+        {
+          "name": "Katana",
+          "symbol": "KAT",
+          "market_cap_rank": 649
+        },
+        {
+          "name": "Lombard",
+          "symbol": "BARD",
+          "market_cap_rank": 223
         },
         {
           "name": "Hyperliquid",
           "symbol": "HYPE",
-          "market_cap_rank": 14
+          "market_cap_rank": 13
         },
         {
           "name": "Bitcoin",
@@ -227,14 +237,14 @@
           "market_cap_rank": 1
         },
         {
-          "name": "LayerZero",
-          "symbol": "ZRO",
-          "market_cap_rank": 107
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 151
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 38
         },
         {
           "name": "Pudgy Penguins",
@@ -242,24 +252,14 @@
           "market_cap_rank": 103
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 39
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         },
         {
-          "name": "Aster",
-          "symbol": "ASTER",
-          "market_cap_rank": 49
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "pippin",
-          "symbol": "PIPPIN",
-          "market_cap_rank": 254
+          "name": "Siren",
+          "symbol": "SIREN",
+          "market_cap_rank": 86
         }
       ]
     },
@@ -271,40 +271,43 @@
       "count": 5,
       "items": [
         {
-          "title": "Nasdaq Climbs Over 100 Points Despite Extreme Fear Index",
-          "summary": "The Nasdaq Composite rose over 100 points on Tuesday amid high investor anxiety, with the Fear and Greed Index at 21.5 in 'Extreme Fear' zone. Markets await Federal Reserve's two-day policy meeting outcome, likely keeping rates near 3.75%, and upcoming PPI data.",
-          "source": "Gotrade News / Bloomberg / Benzinga",
-          "url": "https://www.heygotrade.com/en/news/nasdaq-dominates-despite-high-fear-index"
+          "title": "Indian Equity Indices Close Strong with Nifty at 25,000",
+          "summary": "Indian stock market ended on a strong note with Nifty reaching 25,000. All sectoral indices except FMCG and metals gained 1-3%, with realty, IT, auto, media, capital goods, consumer durables, telecom, and infrastructure leading the advance.",
+          "source": "CNBC-TV18",
+          "url": "https://www.youtube.com/watch?v=TgJjy3VeIJM"
         },
         {
-          "title": "S&P 500 Sectors Mixed; Energy and Consumer Discretionary Lead Gains",
-          "summary": "Most S&P 500 sectors ended positively on Tuesday, driven by gains in energy, consumer discretionary, and communication services, while consumer staples and healthcare declined. Focus remains on Fed Chair Powell's statement on inflation and oil prices.",
-          "source": "Gotrade News / Benzinga",
-          "url": "https://www.heygotrade.com/en/news/nasdaq-dominates-despite-high-fear-index"
+          "title": "US Stock Market Rises Slightly Despite Middle East Tensions",
+          "summary": "The three major US indices posted modest gains: Dow Jones up 0.1%, S&P 500 up 0.2%, and Nasdaq up 0.4%. Markets showed resilience to Middle East war concerns, with oil prices rising but financial markets demonstrating reduced sensitivity to geopolitical risks.",
+          "source": "MBC News",
+          "url": "https://www.youtube.com/watch?v=pqTPI5o_BT4"
         },
         {
-          "title": "Brent Crude Falls Over 2% on Iraq-Turkey Oil Export Reopening",
-          "summary": "Brent crude prices dropped more than 2% after Iraq reopened oil exports through Turkey's Ceyhan port, easing supply concerns from Iran conflict. This occurred despite ongoing market focus on Fed decisions.",
-          "source": "Gotrade News",
-          "url": "https://www.heygotrade.com/en/news/nasdaq-dominates-despite-high-fear-index"
+          "title": "Federal Reserve Expected to Hold Rates Steady at 3.5%-3.75%",
+          "summary": "The Federal Reserve is anticipated to maintain the federal funds rate at 3.5% to 3.75% at its March 18, 2026 meeting, holding steady amid high oil prices and lingering inflation despite some calls for rate cuts.",
+          "source": "Ricky Gutierrez",
+          "url": "https://www.youtube.com/watch?v=BEYLBtMJPZw"
         },
         {
-          "title": "Gold Steady Near $5,000 as Investors Eye Fed Rate-Cut Path",
-          "summary": "Gold prices held steady around $5,000 per ounce as investors assess the Federal Reserve's potential rate-cut trajectory ahead of the policy meeting conclusion.",
-          "source": "Bloomberg",
-          "url": "https://www.heygotrade.com/en/news/nasdaq-dominates-despite-high-fear-index"
+          "title": "Oil Market Shows Substantial Upside as Rebalancing Begins",
+          "summary": "Jeff Currie, chief strategy officer at Carlyle Energy Pathways, indicates the oil market faces a 'bumpy ride' with substantial upside potential as supply and demand rebalancing occurs, with physical oil prices already reaching $173 in some markets.",
+          "source": "Bloomberg Television",
+          "url": "https://www.youtube.com/watch?v=54Jt9NdGz1o"
         },
         {
-          "title": "U.S. Stock Futures Rise Ahead of Fed Interest Rate Decision",
-          "summary": "Futures on Nasdaq 100, S&P 500, and Dow Jones were up 0.62%, 0.48%, and 0.52% respectively early Wednesday as markets anticipate the Fed's rate decision and Powell's comments.",
-          "source": "TipRanks",
-          "url": "https://www.tipranks.com/news/stock-market-news-today-3-18-26-u-s-stock-futures-rise-as-feds-interest-rate-decision-looms"
+          "title": "Tech Stocks Rally; Micron Hits Record High",
+          "summary": "Large-cap technology stocks advanced with Alphabet up 1.7% and Amazon up 1.6%. Micron Technology surged 4.5% to reach an all-time high, benefiting from strength in the memory semiconductor sector.",
+          "source": "MBC News",
+          "url": "https://www.youtube.com/watch?v=pqTPI5o_BT4"
         }
       ],
       "citations": [
-        "https://www.heygotrade.com/en/news/nasdaq-dominates-despite-high-fear-index",
-        "https://robinhood.com/us/en/prediction-markets/financial/events/sp-500-futures-price-on-march-18-2026-mar-18-2026/",
-        "https://www.tipranks.com/news/stock-market-news-today-3-18-26-u-s-stock-futures-rise-as-feds-interest-rate-decision-looms"
+        "https://www.youtube.com/watch?v=TgJjy3VeIJM",
+        "https://www.youtube.com/watch?v=pqTPI5o_BT4",
+        "https://www.youtube.com/watch?v=BEYLBtMJPZw",
+        "https://www.morningstar.com/funds/3-etfs-small-cap-revival-2",
+        "https://www.youtube.com/watch?v=54Jt9NdGz1o",
+        "https://www.youtube.com/watch?v=XoZivN_dgL4"
       ]
     },
     "crypto_news": {
@@ -312,62 +315,38 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 4,
       "items": [
         {
-          "title": "Bitcoin Trades Near $73,500–$73,900 Amid FOMC Anticipation and Institutional Inflows",
-          "summary": "Bitcoin is holding strong at $73,500–$73,900, approaching $75,000 resistance ahead of the FOMC rate decision, supported by $1.1 billion in recent U.S. spot ETF inflows and MicroStrategy's ongoing accumulation strategy.",
-          "source": "Phemex",
-          "url": "https://phemex.com/blogs/bitcoin-outperforming-gold-stocks-dollar-iran-war-march-18"
+          "title": "Bitcoin Trades at $72,700 Amid Bullish Market Sentiment",
+          "summary": "Bitcoin is trading at $72,700 with analysts viewing it as bullish and predicting a potential rally into April, while XRP stands at $1.48. Live trading sessions highlight Bitcoin for long positions and gold for shorts.[1][2]",
+          "source": "Blockchain Backer, The Chartistt",
+          "url": "https://www.youtube.com/watch?v=iC8Uvc6NWOo"
         },
         {
-          "title": "Aster Chain Launches Privacy-Focused Mainnet with Zero-Knowledge Encryption",
-          "summary": "Aster, backed by YZi Labs, has launched its Layer-1 blockchain mainnet featuring stealth addresses to prevent front-running, with the ASTER token rallying over 5% to $0.76 and cross-chain support from Ethereum and Solana.",
-          "source": "FameEX",
-          "url": "https://www.fameex.com/en-US/news/crypto-news-recap-20260318"
+          "title": "Mastercard Acquires Stablecoin Startup BVNK",
+          "summary": "Mastercard has acquired BVNK, a stablecoin startup, marking another Wall Street investment in crypto infrastructure. This follows announcements from major players like Citibank entering the space.[3]",
+          "source": "Bloomberg Crypto",
+          "url": "https://www.youtube.com/watch?v=ovXhuUD68QY"
         },
         {
-          "title": "SEC and CFTC Clarify Most Crypto Assets Are Not Securities, Define Staking and Airdrops",
-          "summary": "U.S. regulators SEC and CFTC have issued clarifications stating most crypto assets are not securities and provided definitions for staking, airdrops, and contracts, potentially easing regulatory uncertainty.",
-          "source": "BitDigest",
-          "url": "https://bitdigest.substack.com/p/wednesday-march-18-2026"
+          "title": "Bitcoin Outperforms Assets During Geopolitical Tensions",
+          "summary": "Bitcoin has risen around 13% this month and is acting as a safe haven amid war concerns, with surging flows over the past weeks. Intersections of crypto and AI are highlighted as an emerging trend.[3]",
+          "source": "Bloomberg Crypto",
+          "url": "https://www.youtube.com/watch?v=ovXhuUD68QY"
         },
         {
-          "title": "MicroStrategy Adds 22,337 BTC, Total Holdings Reach 761,068 BTC",
-          "summary": "MicroStrategy raised $1.18 billion via preferred stock and acquired 22,337 more Bitcoin, bringing its total holdings to 761,068 BTC amid continued corporate accumulation trends.",
-          "source": "BitDigest",
-          "url": "https://bitdigest.substack.com/p/wednesday-march-18-2026"
-        },
-        {
-          "title": "GSR Acquires Autonomous and Architech for $57 Million",
-          "summary": "Crypto trading firm GSR has acquired Autonomous and Architech for $57 million to bolster its infrastructure capabilities in the blockchain space.",
-          "source": "BitDigest",
-          "url": "https://bitdigest.substack.com/p/wednesday-march-18-2026"
-        },
-        {
-          "title": "Moody's Launches On-Chain Credit Ratings",
-          "summary": "Moody's has introduced on-chain credit rating services, marking a significant step in integrating traditional credit assessments with blockchain technology.",
-          "source": "BitDigest",
-          "url": "https://bitdigest.substack.com/p/wednesday-march-18-2026"
-        },
-        {
-          "title": "PayPal Expands Stablecoins to 68 Additional Countries",
-          "summary": "PayPal is rolling out its stablecoin services to 68 more countries, enhancing global access to crypto payments and stable value transfers.",
-          "source": "BitDigest",
-          "url": "https://bitdigest.substack.com/p/wednesday-march-18-2026"
-        },
-        {
-          "title": "Ethereum Trades Near $2,315 with Neutral Funding Rates",
-          "summary": "Ethereum is stable at around $2,315 as funding rates normalize post-leverage flush, though a drop below $2,206 risks $1.156 billion in liquidations.",
-          "source": "FameEX",
-          "url": "https://www.fameex.com/en-US/news/crypto-news-recap-20260318"
+          "title": "Market Reset Signals Point to Bitcoin Rally in Q2 2026",
+          "summary": "Analysts identify a major reset signal predicting Bitcoin rally into April and longer-term growth over 12-24 months based on 18-year cycles, with BTC around $74,000 showing positive short-term outlook.[4]",
+          "source": "TIACrypto",
+          "url": "https://www.youtube.com/watch?v=2ydCtscA7Cc"
         }
       ],
       "citations": [
-        "https://sergeytereshkin.com/publications/cryptocurrency-news-march-18-2026-bitcoin-ethereum-institutional-investments",
-        "https://www.fameex.com/en-US/news/crypto-news-recap-20260318",
-        "https://bitdigest.substack.com/p/wednesday-march-18-2026",
-        "https://phemex.com/blogs/bitcoin-outperforming-gold-stocks-dollar-iran-war-march-18"
+        "https://www.youtube.com/watch?v=iC8Uvc6NWOo",
+        "https://www.youtube.com/watch?v=DwcT9ZJGEuE",
+        "https://www.youtube.com/watch?v=ovXhuUD68QY",
+        "https://www.youtube.com/watch?v=2ydCtscA7Cc"
       ]
     },
     "ai_news": {
@@ -375,46 +354,38 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Multiverse Computing and Axelera AI Announce Strategic Collaboration for Edge AI Models",
-          "summary": "Multiverse Computing and Axelera AI have launched a technology collaboration to integrate compressed AI models into Axelera’s Metis and Europa edge platforms, enabling efficient AI inference on low-power devices for applications in industrial, retail, mobility, and more.",
-          "source": "The Quantum Insider",
-          "url": "https://thequantuminsider.com/2026/03/18/ultiverse-computing-axelera-ai-strategic-collaboration-ai-models-edge-devices/"
+          "title": "Niv-AI Emerges from Stealth with $12M Funding for GPU Optimization",
+          "summary": "Niv-AI has secured $12 million in funding to develop sensors and data analytics that optimize GPU power usage in data centers, enhancing efficiency and computing capacity for advanced AI models.",
+          "source": "GrowthRocks / TechCrunch",
+          "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/"
         },
         {
-          "title": "NCS Partners with NVIDIA to Deploy Sovereign Agentic AI for Enterprises",
-          "summary": "NCS, a Singtel subsidiary, has partnered with NVIDIA to deploy sovereign agentic AI solutions that allow enterprises to run AI agents on-premises or in the cloud while maintaining data security and governance for uses like service desks, video systems, and logistics.",
-          "source": "Technode Global",
-          "url": "https://technode.global/2026/03/18/ncs-partners-nvidia-to-deploy-sovereign-agentic-ai-for-enterprises/"
+          "title": "Gurucul Report: AI as New Insider Threat in 90% of Organizations",
+          "summary": "Gurucul's 2026 Insider Risk Report reveals that 90% of organizations face continuous insider incidents, with AI copilots and generative tools classified as insiders by 45%, driving the need for advanced machine learning-based risk management.",
+          "source": "Gurucul",
+          "url": "https://gurucul.com/press-releases/gurucul-research-demonstrates-ai-is-the-new-insider-threat-as-90-of-organizations-experience-incidents/"
         },
         {
-          "title": "TCS and Pearson Partner to Accelerate AI-Powered Learning for Enterprises",
-          "summary": "Tata Consultancy Services (TCS) and Pearson have announced a multi-year partnership to co-develop AI-enabled learning and assessment products, helping enterprises upskill workforces for AI-driven changes using contextual AI and digital platforms.",
-          "source": "PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/tcs-and-pearson-partner-to-accelerate-ai-powered-learning-for-global-industries-302716317.html"
+          "title": "University of Minnesota AI Model Boosts Flood Forecasting Accuracy",
+          "summary": "New knowledge-guided machine learning models from the University of Minnesota achieve higher accuracy in predicting floods than current physics-based methods, automating adjustments and aiding real-time forecasting.",
+          "source": "Phys.org",
+          "url": "https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html"
         },
         {
-          "title": "Embedded AI Market Projected to Reach USD 42.3 Billion by 2033",
-          "summary": "The embedded AI market, valued at USD 13.8 billion in 2026, is expected to grow to USD 42.3 billion by 2033 at a 17.3% CAGR, driven by advancements in AI chipsets, NPUs, and edge deployment for real-time processing in IoT, robotics, and smart devices.",
-          "source": "GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/03/18/3257964/0/en/Embedded-AI-Market-Accelerates-with-Advancements-in-Semiconductor-Design-and-Edge-Based-AI-Deployment-Valued-at-USD-42-3-billion-by-2033.html"
-        },
-        {
-          "title": "AI in Sports Market Forecast: Machine Learning to Dominate by 2030",
-          "summary": "The AI in sports market is expanding with machine learning projected to hold 35% share by 2030, supported by performance analytics, injury prevention, and integrations with IoT and AR/VR for enhanced training and fan engagement.",
-          "source": "National Law Review",
-          "url": "https://natlawreview.com/press-releases/ai-sports-market-2026-data-analytics-and-performance-intelligence"
+          "title": "Mistral Launches Forge Platform for Enterprise AI Model Training",
+          "summary": "Mistral introduced Forge, a platform enabling enterprises to train custom AI models on proprietary data with reinforcement learning, already adopted by ASML, Ericsson, and the European Space Agency for specialized needs.",
+          "source": "Computerworld",
+          "url": "https://www.computerworld.com/article/4146860/mistral-launches-forge-to-help-enterprises-build-their-own-ai-models-2.html"
         }
       ],
       "citations": [
-        "https://natlawreview.com/press-releases/ai-sports-market-2026-data-analytics-and-performance-intelligence",
-        "https://thequantuminsider.com/2026/03/18/ultiverse-computing-axelera-ai-strategic-collaboration-ai-models-edge-devices/",
-        "https://www.globenewswire.com/news-release/2026/03/18/3257964/0/en/Embedded-AI-Market-Accelerates-with-Advancements-in-Semiconductor-Design-and-Edge-Based-AI-Deployment-Valued-at-USD-42-3-billion-by-2033.html",
-        "https://technode.global/2026/03/18/ncs-partners-nvidia-to-deploy-sovereign-agentic-ai-for-enterprises/",
-        "https://www.prnewswire.com/news-releases/tcs-and-pearson-partner-to-accelerate-ai-powered-learning-for-global-industries-302716317.html",
-        "https://www.bcg.com/publications/2026/how-ai-can-help-universities-capture-opportunity"
+        "https://www.youtube.com/watch?v=eXFv2kS6idI",
+        "https://gurucul.com/press-releases/gurucul-research-demonstrates-ai-is-the-new-insider-threat-as-90-of-organizations-experience-incidents/",
+        "https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html",
+        "https://www.computerworld.com/article/4146860/mistral-launches-forge-to-help-enterprises-build-their-own-ai-models-2.html"
       ]
     },
     "gaming": {
@@ -422,32 +393,60 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 7,
       "items": [
         {
-          "title": "Xbox Game Pass Adds 12 New Titles in March 2026 Wave 2 Including South of Midnight Today",
-          "summary": "Xbox Game Pass is adding 12 new PC and Xbox titles as part of its March 2026 Wave 2, with South of Midnight launching on Cloud, Console, Handheld, and PC today, March 18. Upcoming additions include Clair Obscur: Expedition 33 on April 2, along with updates for Valorant and Sea of Thieves Season 19.",
-          "source": "Worthplaying",
-          "url": "https://worthplaying.com/article/2026/3/17/news/149340-xbox-game-pass-reveals-12-new-pcxbox-titles-being-added-in-march-2026-as-part-of-wave-2/"
+          "title": "Ubisoft Appoints New Leaders for Creative House and Network",
+          "summary": "Ubisoft announced leadership for its new Creative House model, with executives overseeing live titles like For Honor and casual franchises, alongside a general manager for the Creative Network from Massive Entertainment. This follows studio closures and further cost cuts amid Tencent's investment.",
+          "source": "GameDeveloper.com",
+          "url": "https://www.gamedeveloper.com/production/ubisoft-names-new-creative-house-and-creative-network-leaders"
         },
         {
-          "title": "Xbox Game Pass Announces Late March and April 2026 Additions",
-          "summary": "Xbox has revealed additional games joining Game Pass for the end of March and into April 2026, expanding options for subscribers with new releases and updates.",
-          "source": "Gamer Social Club",
-          "url": "https://gamersocialclub.ca/2026/03/17/xbox-game-pass-additions-announced-for-end-of-march-2026/"
+          "title": "Tencent Reports Strong Q4 Profit Driven by Gaming Revenue Growth",
+          "summary": "Tencent achieved double-digit net profit growth in Q4 2025, exceeding expectations, with domestic games revenue up 15% and international up 32% due to evergreen and new titles. The company is accelerating AI efforts and benefiting from Apple's reduced China commission.",
+          "source": "Morningstar",
+          "url": "https://www.morningstar.com/news/dow-jones/202603181956/tencent-profit-beats-again-on-strong-gaming-marketing-revenue"
         },
         {
-          "title": "Sony Releases Surprise PS3 System Update 4.93",
-          "summary": "Sony deployed PS3 system software update 4.93 on March 18, 2026, marking the first update in exactly one year for the legacy console.",
-          "source": "PlayStation Lifestyle",
-          "url": "https://www.playstationlifestyle.net/2026/03/18/ps3-system-update-4-93-march-2026/amp/"
+          "title": "Codex Mortis Announces March 26 Early Access Launch",
+          "summary": "Crunchfest and Grolaf revealed that Codex Mortis, the world's first 100% AI-made necromantic survival bullet hell game, will launch in Early Access on March 26.",
+          "source": "GamesPress",
+          "url": "https://www.gamespress.com/en-GB/CODEX-MORTIS-Announces-March-26-Early-Access-Launch---The-AI-Made-Game"
+        },
+        {
+          "title": "Moonton Games Unveils Film-Game IPs at Hong Kong FILMART",
+          "summary": "Moonton Games hosted a film-game integration event at Hong Kong FILMART, unveiling three original film-game IPs to forge a new ecosystem.",
+          "source": "Business Insider",
+          "url": "https://markets.businessinsider.com/news/stocks/moonton-games-shines-at-hong-kong-filmart-unveiling-three-original-film-game-ips-and-forging-a-new-film-game-integration-ecosystem-for-the-future-1035941428"
+        },
+        {
+          "title": "Kennesaw State Student Wins Platinum at GDC for Game Narrative Review",
+          "summary": "Kennesaw State University student Anna Green received the top Platinum Winner award in the Game Developers Conference's Game Narrative Review competition for her analysis paper.",
+          "source": "Kennesaw State University",
+          "url": "https://www.kennesaw.edu/news/stories/2026/student-named-platinum-winner-game-developers-conference.php"
+        },
+        {
+          "title": "ESA Launches iicon to Highlight Games in Cross-Industry Innovation",
+          "summary": "The Entertainment Software Association announced the Interactive Innovation Conference (iicon) to showcase video games and game technologies' influence across industries.",
+          "source": "GamesBeat",
+          "url": "https://gamesbeat.com/esas-iicon-puts-video-games-at-the-center-of-cross-industry-innovation/"
+        },
+        {
+          "title": "Cloud Imperium Games Establishes Global HQ in Manchester, UK",
+          "summary": "US-based Cloud Imperium Games selected Manchester as its global headquarters, joining other American firms expanding to the UK for talent and tax incentives.",
+          "source": "BizJournals",
+          "url": "https://www.bizjournals.com/sanjose/news/2026/03/18/transatlantic-gaming-powerhouse-us-uk-join-forces.html"
         }
       ],
       "citations": [
-        "https://worthplaying.com/article/2026/3/17/news/149340-xbox-game-pass-reveals-12-new-pcxbox-titles-being-added-in-march-2026-as-part-of-wave-2/",
-        "https://explorminate.org/fortnightly-4x-and-tactics-news-roundup-march-1st-to-march-17th/",
-        "https://gamersocialclub.ca/2026/03/17/xbox-game-pass-additions-announced-for-end-of-march-2026/",
-        "https://www.playstationlifestyle.net/2026/03/18/ps3-system-update-4-93-march-2026/amp/"
+        "https://www.gamedeveloper.com/production/ubisoft-names-new-creative-house-and-creative-network-leaders",
+        "https://www.morningstar.com/news/dow-jones/202603181956/tencent-profit-beats-again-on-strong-gaming-marketing-revenue",
+        "https://www.gamespress.com/en-GB/CODEX-MORTIS-Announces-March-26-Early-Access-Launch---The-AI-Made-Game",
+        "https://markets.businessinsider.com/news/stocks/moonton-games-shines-at-hong-kong-filmart-unveiling-three-original-film-game-ips-and-forging-a-new-film-game-integration-ecosystem-for-the-future-1035941428",
+        "https://www.kennesaw.edu/news/stories/2026/student-named-platinum-winner-game-developers-conference.php",
+        "https://gamesbeat.com/esas-iicon-puts-video-games-at-the-center-of-cross-industry-innovation/",
+        "https://nikopartners.com/gdc-2026-the-international-lens-of-niko-partners/",
+        "https://www.bizjournals.com/sanjose/news/2026/03/18/transatlantic-gaming-powerhouse-us-uk-join-forces.html"
       ]
     },
     "tech_news": {
@@ -455,39 +454,20 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 1,
       "items": [
         {
-          "title": "China's Alibaba and Baidu Raise AI Service Prices Amid Surging Demand",
-          "summary": "Alibaba plans to increase prices for its T-head AI computing chips by 5-34% and storage by 30%, while Baidu will hike AI cloud product prices by up to 30%, effective April 18, due to global demand and supply chain costs.",
-          "source": "Morningstar / Dow Jones Newswires",
-          "url": "https://www.morningstar.com/news/dow-jones/202603182039/chinas-big-tech-firms-raise-ai-prices-as-demand-soars"
-        },
-        {
-          "title": "Major Tech Layoffs Hit Meta, Amazon, Atlassian, and Others in 2026",
-          "summary": "Companies including Amazon (16,000 jobs), Atlassian (1,600 jobs), Meta (up to 15,000), and Oracle (20,000-30,000) are cutting jobs to pivot toward efficiency and AI infrastructure investments.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/tech-layoffs-meta-amazon-and-other-companies-cutting-jobs-in-2026/articleshow/129653267.cms"
-        },
-        {
-          "title": "LG Energy Solution Bolsters Leadership in Robotics Battery Market",
-          "summary": "LG Energy Solution is supplying high-energy-density cylindrical batteries and immersion cooling tech to over six major robotics firms, positioning itself for growth as the humanoid robot market surges toward 1.53 million units by 2030.",
-          "source": "LG Energy Solution News",
-          "url": "https://news.lgensol.com/company-news/supplementary-stories/4778/"
-        },
-        {
-          "title": "One-Third of Organizations Lack Data Foundations Despite HR Tech Investments",
-          "summary": "Rising investments in HR technology have not resolved data gaps, leaving one-third of organizations without reliable workforce analytics for decision-making.",
-          "source": "Las Vegas Sun",
-          "url": "https://lasvegassun.com/news/2026/mar/18/despite-rising-hr-tech-investment-one-third-of-org/"
+          "title": "Raw response",
+          "summary": "[{\"title\":\"Nvidia Restarts H200 Chip Production for China\",\"summary\":\"Nvidia has resumed production of its H200 chips for the Chinese market amid ongoing global AI infrastructure competition and export policy adjustments. This move helps Nvidia maintain its position against domestic Chinese chip alternatives.\",\"source\":\"TechStartups\",\"url\":\"https://techstartups.com/2026/03/18/top-tech-news-today-march-18-2026/\"},{\"title\":\"MSI Unveils New NVIDIA-Based AI Infrastructure Portfolio\",\"summary\":\"MSI l",
+          "source": "perplexity",
+          "url": ""
         }
       ],
       "citations": [
-        "https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple",
-        "https://www.morningstar.com/news/dow-jones/202603182039/chinas-big-tech-firms-raise-ai-prices-as-demand-soars",
-        "https://timesofindia.indiatimes.com/technology/tech-news/tech-layoffs-meta-amazon-and-other-companies-cutting-jobs-in-2026/articleshow/129653267.cms",
-        "https://news.lgensol.com/company-news/supplementary-stories/4778/",
-        "https://lasvegassun.com/news/2026/mar/18/despite-rising-hr-tech-investment-one-third-of-org/"
+        "https://techstartups.com/2026/03/18/top-tech-news-today-march-18-2026/",
+        "https://headlinesbriefing.substack.com/p/technology-wednesday-march-18-2026",
+        "https://techsoften.com/top-tech-news-wednesday-march-18-2026/",
+        "https://www.youtube.com/watch?v=hB0n4AMeJ2I"
       ]
     }
   }
