@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T00:24:05.245467+00:00",
-  "generated_at_human": "2026-03-21 00:24 UTC",
+  "generated_at": "2026-03-21T06:14:19.840709+00:00",
+  "generated_at_human": "2026-03-21 06:14 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "OpenCode – The open source AI coding agent",
+          "title": "OpenCode – Open source AI coding agent",
           "url": "https://opencode.ai/",
-          "score": 328,
-          "comments": 157
+          "score": 618,
+          "comments": 271
         },
         {
-          "title": "Our commitment to Windows quality",
-          "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-          "score": 335,
-          "comments": 625
-        },
-        {
-          "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
-          "url": "https://www.openui.com/blog/rust-wasm-parser",
-          "score": 67,
-          "comments": 40
-        },
-        {
-          "title": "Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists",
-          "url": "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029",
-          "score": 48,
-          "comments": 50
+          "title": "Mamba-3",
+          "url": "https://www.together.ai/blog/mamba-3",
+          "score": 31,
+          "comments": 1
         },
         {
           "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
           "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-          "score": 449,
-          "comments": 382
+          "score": 530,
+          "comments": 417
+        },
+        {
+          "title": "Molly Guard",
+          "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+          "score": 51,
+          "comments": 24
+        },
+        {
+          "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+          "url": "https://www.openui.com/blog/rust-wasm-parser",
+          "score": 156,
+          "comments": 90
+        },
+        {
+          "title": "A Japanese glossary of chopsticks faux pas",
+          "url": "https://www.nippon.com/en/japan-data/h01362/",
+          "score": 201,
+          "comments": 147
         },
         {
           "title": "Ghostling",
           "url": "https://github.com/ghostty-org/ghostling",
-          "score": 45,
+          "score": 164,
+          "comments": 27
+        },
+        {
+          "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+          "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+          "score": 59,
           "comments": 8
         },
         {
-          "title": "Why I'm Not Worried About Running Out of Work in the Age of AI",
-          "url": "https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/",
-          "score": 6,
+          "title": "FFmpeg 101 (2024)",
+          "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
+          "score": 20,
           "comments": 0
+        },
+        {
+          "title": "A look at content scrambling in DVDs",
+          "url": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
+          "score": 17,
+          "comments": 8
+        },
+        {
+          "title": "The Ugliest Airplane: An Appreciation",
+          "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
+          "score": 44,
+          "comments": 27
         },
         {
           "title": "Attention Residuals",
           "url": "https://github.com/MoonshotAI/Attention-Residuals",
-          "score": 110,
-          "comments": 18
-        },
-        {
-          "title": "The Los Angeles Aqueduct Is Wild",
-          "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-          "score": 279,
-          "comments": 157
-        },
-        {
-          "title": "An FAQ on Reinforcement Learning Environments",
-          "url": "https://epoch.ai/gradient-updates/state-of-rl-envs",
-          "score": 11,
-          "comments": 0
+          "score": 150,
+          "comments": 21
         },
         {
           "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
           "url": "https://github.com/FormerLab/fortransky",
-          "score": 29,
-          "comments": 26
+          "score": 66,
+          "comments": 35
         },
         {
-          "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
-          "url": "https://github.com/RedGridTactical/RedGridLink",
-          "score": 9,
-          "comments": 7
+          "title": "The Los Angeles Aqueduct Is Wild",
+          "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+          "score": 324,
+          "comments": 170
+        },
+        {
+          "title": "Turing Award Honors Bennett and Brassard for Quantum Information Science",
+          "url": "https://amturing.acm.org",
+          "score": 18,
+          "comments": 0
+        },
+        {
+          "title": "purl: a curl-esque CLI for making HTTP requests that require payment",
+          "url": "https://www.purl.dev/",
+          "score": 17,
+          "comments": 2
         },
         {
           "title": "VisiCalc Reconstructed",
           "url": "https://zserge.com/posts/visicalc/",
-          "score": 153,
-          "comments": 65
-        },
-        {
-          "title": "Show HN: I made an email app inspired by Arc browser",
-          "url": "https://demo.define.app",
-          "score": 38,
-          "comments": 23
-        },
-        {
-          "title": "Work_mem: It's a Trap",
-          "url": "https://mydbanotebook.org/posts/work_mem-its-a-trap/",
-          "score": 24,
-          "comments": 2
-        },
-        {
-          "title": "Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts",
-          "url": "https://github.com/FormerLab/shadow-fleet-tracker-light",
-          "score": 23,
-          "comments": 6
-        },
-        {
-          "title": "NumKong: 2'000 Mixed Precision Kernels for All",
-          "url": "https://ashvardanian.com/posts/numkong/",
-          "score": 24,
-          "comments": 0
+          "score": 181,
+          "comments": 74
         },
         {
           "title": "The worst volume control UI in the world (2017)",
           "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
-          "score": 52,
-          "comments": 27
+          "score": 94,
+          "comments": 45
         },
         {
-          "title": "Parallel Perl – Autoparallelizing interpreter with JIT",
-          "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
-          "score": 95,
-          "comments": 35
+          "title": "Lent and Lisp",
+          "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
+          "score": 42,
+          "comments": 2
         },
         {
-          "title": "Delve – Fake Compliance as a Service",
-          "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-          "score": 517,
-          "comments": 182
+          "title": "Our commitment to Windows quality",
+          "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+          "score": 482,
+          "comments": 868
+        },
+        {
+          "title": "An FAQ on Reinforcement Learning Environments",
+          "url": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+          "score": 37,
+          "comments": 7
+        },
+        {
+          "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
+          "url": "https://github.com/RedGridTactical/RedGridLink",
+          "score": 35,
+          "comments": 13
         },
         {
           "title": "Entso-E final report on Iberian 2025 blackout",
           "url": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
-          "score": 170,
-          "comments": 72
-        },
-        {
-          "title": "Meme Buildings",
-          "url": "https://misfitsarchitecture.com/2026/03/15/meme-buildings/",
-          "score": 15,
-          "comments": 1
-        },
-        {
-          "title": "The Social Smolnet",
-          "url": "https://ploum.net/2026-03-20-social-smolnet.html",
-          "score": 106,
-          "comments": 12
-        },
-        {
-          "title": "I love my dumb watches",
-          "url": "https://gary.onl/a-post-about-watches/",
-          "score": 58,
-          "comments": 51
-        },
-        {
-          "title": "A Japanese Glossary of Chopsticks Faux Pas",
-          "url": "https://www.nippon.com/en/japan-data/h01362/",
-          "score": 89,
+          "score": 181,
           "comments": 87
+        },
+        {
+          "title": "Heisuke Hironaka Has Died",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260319-317449/",
+          "score": 24,
+          "comments": 2
+        },
+        {
+          "title": "Delve – Fake Compliance as a Service",
+          "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
+          "score": 620,
+          "comments": 209
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 70716,
-          "change_24h": 1.04,
-          "change_7d": -0.11,
-          "market_cap": 1410081144147
+          "price": 70722,
+          "change_24h": 0.29,
+          "change_7d": -0.41,
+          "market_cap": 1414155485091
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2151.56,
-          "change_24h": 0.5,
-          "change_7d": 2.98,
-          "market_cap": 258866680080
+          "price": 2152.49,
+          "change_24h": 0.66,
+          "change_7d": 2.88,
+          "market_cap": 259795814935
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 90.02,
-          "change_24h": 0.87,
-          "change_7d": 2.32,
-          "market_cap": 51386238424
+          "price": 90.09,
+          "change_24h": 0.94,
+          "change_7d": 2.31,
+          "market_cap": 51462363515
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.094168,
-          "change_24h": 0.47,
-          "change_7d": -1.84,
-          "market_cap": 14445359605
+          "price": 0.09483,
+          "change_24h": 0.12,
+          "change_7d": -0.88,
+          "market_cap": 14539158053
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.266179,
-          "change_24h": -0.97,
-          "change_7d": 0.49,
-          "market_cap": 9808289192
+          "price": 0.266206,
+          "change_24h": -2.0,
+          "change_7d": 0.83,
+          "market_cap": 9803642917
         }
       ]
     },
@@ -212,39 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Zano",
-          "symbol": "ZANO",
-          "market_cap_rank": 205
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 107
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 15
-        },
-        {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
           "name": "Bittensor",
           "symbol": "TAO",
           "market_cap_rank": 35
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Siren",
-          "symbol": "SIREN",
-          "market_cap_rank": 86
         },
         {
           "name": "Bitcoin",
@@ -252,14 +222,44 @@
           "market_cap_rank": 1
         },
         {
+          "name": "Katana",
+          "symbol": "KAT",
+          "market_cap_rank": 742
+        },
+        {
           "name": "Pi Network",
           "symbol": "PI",
           "market_cap_rank": 44
         },
         {
-          "name": "PAX Gold",
-          "symbol": "PAXG",
-          "market_cap_rank": 42
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Artificial Superintelligence Alliance",
+          "symbol": "FET",
+          "market_cap_rank": 98
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 109
+        },
+        {
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 30
+        },
+        {
+          "name": "Akash Network",
+          "symbol": "AKT",
+          "market_cap_rank": 214
+        },
+        {
+          "name": "USDC",
+          "symbol": "USDC",
+          "market_cap_rank": 6
         }
       ]
     },
@@ -268,30 +268,44 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "High Oil Prices Trigger Stock Market Selloff and Dash Fed Rate Cut Hopes",
-          "summary": "Oil prices surged with Brent crude up 3.3% to $112.19 per barrel and U.S. crude up 2.3% to $98.32, causing major indices to decline: S&P 500 fell 1.5% to 6,506.48, Dow dropped 1% or 443 points to 45,577.47, and Nasdaq tumbled 2% to 21,647.61. Traders abandoned bets on Federal Reserve rate cuts this year amid fears of potential hikes in 2026 due to persistent high energy costs.",
-          "source": "Los Angeles Times",
-          "url": "https://www.latimes.com/business/story/2026-03-20/high-oil-prices-knock-down-stocks-erase-wall-streets-hopes-for-cut-to-interest-rates"
+          "title": "S&P 500 Breaks Below 200-Day Moving Average Amid Middle East Tensions",
+          "summary": "The S&P 500 fell 0.37% for the week and is down 6.7% from its all-time high, breaking below its 200-day moving average as Middle East conflict and energy shocks drive market volatility. The index remains headline-driven as investors assess potential duration of regional conflict.",
+          "source": "WA Trust",
+          "url": "https://www.watrust.com/articles/week-in-review-march-20-2026"
         },
         {
-          "title": "Super Micro Computer Stock Plunges 33% on U.S. Smuggling Charges",
-          "summary": "Super Micro Computer shares lost a third of their value, falling 33.3%, after the U.S. government accused a senior VP and affiliates of conspiring to smuggle billions in servers with advanced Nvidia chips to China, weighing heavily on the broader market.",
-          "source": "Los Angeles Times",
-          "url": "https://www.latimes.com/business/story/2026-03-20/high-oil-prices-knock-down-stocks-erase-wall-streets-hopes-for-cut-to-interest-rates"
+          "title": "Fed Signals Hawkish Stance with Limited Rate Cut Expectations",
+          "summary": "The Federal Reserve's median dot plot indicates only one rate cut expected in 2026 and one in 2027, with Chair Powell noting insufficient progress on inflation. A hotter-than-expected February Core PPI reading of +0.5% m/m versus 0.3% consensus added to inflation concerns.",
+          "source": "WA Trust",
+          "url": "https://www.watrust.com/articles/week-in-review-march-20-2026"
         },
         {
-          "title": "FedEx Shares Rise on Strong Quarterly Profit Beat",
-          "summary": "FedEx stock increased 0.8% after reporting much stronger-than-expected profits for its latest quarter, standing out as one of the few gainers amid Friday's market downturn.",
-          "source": "Los Angeles Times",
-          "url": "https://www.latimes.com/business/story/2026-03-20/high-oil-prices-knock-down-stocks-erase-wall-streets-hopes-for-cut-to-interest-rates"
+          "title": "Major Indices Show Weakness; Dow Down 1.14% for the Week",
+          "summary": "The Dow Jones Industrial Average declined 1.14% for the week and 5.86% for March, while the Nasdaq fell 0.06% weekly and 2.49% for the month. The MSCI EAFE dropped 0.87% weekly and 9.37% for March, reflecting global market stress.",
+          "source": "WA Trust",
+          "url": "https://www.watrust.com/articles/week-in-review-march-20-2026"
+        },
+        {
+          "title": "FTSE 100 Experiences Sharp 2.35% Decline in Technically Pivotal Session",
+          "summary": "The FTSE 100 collapsed 2.35% on March 20, 2026, breaking through critical technical levels as global equity indices face significant headwinds.",
+          "source": "Capital Street FX",
+          "url": "https://www.capitalstreetfx.com/index-market-analysis-march-20-2026/"
+        },
+        {
+          "title": "Multiple Corporate Announcements and Index Changes",
+          "summary": "Notable developments include Unusual Machines pricing a $150 million public offering, TRNR authorizing a $500,000 stock repurchase program, and Cardinal Infrastructure Group being added to the Russell 2000 and 3000 indexes.",
+          "source": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/2026-03-20/"
         }
       ],
       "citations": [
-        "https://www.latimes.com/business/story/2026-03-20/high-oil-prices-knock-down-stocks-erase-wall-streets-hopes-for-cut-to-interest-rates",
-        "https://tradingeconomics.com/calendar?article=29343&g=top&importance=2&startdate=2026-03-20"
+        "https://www.watrust.com/articles/week-in-review-march-20-2026",
+        "https://www.capitalstreetfx.com/index-market-analysis-march-20-2026/",
+        "https://tradingeconomics.com/calendar?article=29343&g=top&importance=2&startdate=2026-03-20",
+        "https://www.stocktitan.net/news/2026-03-20/"
       ]
     },
     "crypto_news": {
@@ -302,48 +316,50 @@
       "count": 6,
       "items": [
         {
-          "title": "Bitcoin Holds Above $69K Amid Quadruple Witching Event",
-          "summary": "Bitcoin is trading around $69,733 as a record $7.1 trillion in derivatives expire today in the largest quadruple witching event ever recorded. The crypto market shows mixed sentiment with a Fear and Greed Index at 30, while Ethereum trades at $2,127.",
-          "source": "Phemex, Coinpedia",
-          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-ai-tokens-lead-gains-as-bitcoin-holds-above-69k-amid-macro-uncertainty-mar-20-67870"
-        },
-        {
-          "title": "AI Tokens Lead Market Gains as Altcoins Rally",
-          "summary": "AI and payment sector tokens are outperforming, with KITE surging 10.1%, FET rising 7.3%, and PI Network gaining 5.3% ahead of its Protocol v21 mainnet upgrade. Broader sentiment remains cautious amid ETF outflows.",
+          "title": "Bitcoin Holds Steady Amid Market Decoupling and Quadruple Witching Volatility",
+          "summary": "Bitcoin trades around $70,600 with modest gains (+0.35% to +1.15%), decoupling from traditional markets like S&P 500 and Gold amid ETF outflows and the high-risk quadruple witching event. Upcoming $13.5B crypto derivatives expiry on Deribit adds to turbulence.",
           "source": "Phemex",
-          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-ai-tokens-lead-gains-as-bitcoin-holds-above-69k-amid-macro-uncertainty-mar-20-67870"
+          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-crypto-market-mixed-btc-eth-hold-gains-as-altcoins-diverge-on-sector-news-mar-21-67969"
         },
         {
-          "title": "Bitcoin Outperforms Traditional Assets Amid Global Volatility",
-          "summary": "Bitcoin has shown remarkable relative strength with only a 4.5% retraction compared to gold's 10% decline and significant S&P 500 losses. Long-term metrics suggest Bitcoin remains in a historically low-risk accumulation zone despite short-term sideways action.",
-          "source": "Santiment",
-          "url": "https://app.santiment.net/insights/read/this-week-in-crypto-full-written-summary-w3-march-2026-10677"
-        },
-        {
-          "title": "Whale Accumulation Signals Renewed Interest in Bitcoin",
-          "summary": "A whale withdrew 460 BTC worth $32.41 million from Binance after three months of inactivity, indicating renewed large-scale accumulation activity despite macro uncertainty.",
+          "title": "FET and PI Network Surge on AI Momentum and Protocol Upgrades",
+          "summary": "Artificial Superintelligence Alliance (FET) rises over 17% in 24h fueled by AI sector hype and OpenAI developments, while PI Network (PI) gains 25%+ after Protocol v23 upgrade with AI-enhanced KYC and mainnet migration.",
           "source": "Phemex",
-          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-ai-tokens-lead-gains-as-bitcoin-holds-above-69k-amid-macro-uncertainty-mar-20-67870"
+          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-crypto-market-mixed-btc-eth-hold-gains-as-altcoins-diverge-on-sector-news-mar-21-67969"
         },
         {
-          "title": "Coinbase CEO Frames Bitcoin as Fiscal Discipline Tool",
-          "summary": "Coinbase CEO Brian Armstrong positioned Bitcoin as a check on inflation and fiscal excess, arguing that capital moves to Bitcoin when government spending becomes excessive. This reflects a shift in how industry leaders position crypto's role in the financial system.",
-          "source": "The Street",
-          "url": "https://www.thestreet.com/crypto/markets/coinbase-ceo-offers-bold-fix-after-billionaire-ray-dalios-dollar-warning"
+          "title": "MicroStrategy Closes Gap on BlackRock in Bitcoin Accumulation Race",
+          "summary": "MicroStrategy (Strategy) acquired 40,332 BTC in the week to mid-March 2026, narrowing the holdings gap with BlackRock to ~23,000 coins and accelerating Bitcoin supply squeeze alongside ETFs absorbing over 2M BTC.",
+          "source": "MEXC",
+          "url": "https://www.mexc.com/news/969621"
         },
         {
-          "title": "Quant (QNT) Trending After Robinhood Listing",
-          "summary": "Quant (QNT) became the #1 trending token on March 19 following its Robinhood listing. Analysts caution that tokens reaching the top of trending lists often face short-term corrections as hype subsides.",
+          "title": "US Congress Schedules Tokenization Hearing Next Week",
+          "summary": "US Congress will hold a hearing on tokenization next week, featuring testimony from the Blockchain Association CEO, amid growing regulatory focus on blockchain applications.",
+          "source": "MEXC",
+          "url": "https://www.mexc.co/news/971064"
+        },
+        {
+          "title": "Pepeto Meme Coin Presale Nears Record $8.1M Raised",
+          "summary": "Pepeto meme coin presale hits $8.1M at $0.000000186 per token, approaching confirmed exchange listings and topping crypto news for presale performance in March 2026.",
+          "source": "OpenPR",
+          "url": "https://www.openpr.com/news/4433742/crypto-news-march-2026-record-presale-numbers-signal-the-market"
+        },
+        {
+          "title": "Quant, Chainlink, and Stellar Trend on Listings and Launches",
+          "summary": "Quant (QNT) tops trends after Robinhood listing, Chainlink faces community disputes, and Stellar advances with tokenized fund launch, signaling potential short-term corrections from hype.",
           "source": "Santiment",
           "url": "https://app.santiment.net/insights/read/this-week-in-crypto-full-written-summary-w3-march-2026-10677"
         }
       ],
       "citations": [
         "https://app.santiment.net/insights/read/this-week-in-crypto-full-written-summary-w3-march-2026-10677",
-        "https://phemex.com/news/article/phemex-crypto-market-daily-ai-tokens-lead-gains-as-bitcoin-holds-above-69k-amid-macro-uncertainty-mar-20-67870",
+        "https://phemex.com/news/article/phemex-crypto-market-daily-crypto-market-mixed-btc-eth-hold-gains-as-altcoins-diverge-on-sector-news-mar-21-67969",
+        "https://www.openpr.com/news/4433742/crypto-news-march-2026-record-presale-numbers-signal-the-market",
+        "https://www.mexc.com/news/969621",
         "https://coinpedia.org/news/quadruple-witching-2026-bitcoins-most-dangerous-trading-day-of-the-quarter-has-arrived/",
-        "https://www.youtube.com/watch?v=qS2Bf8O5_ds",
-        "https://www.thestreet.com/crypto/markets/coinbase-ceo-offers-bold-fix-after-billionaire-ray-dalios-dollar-warning"
+        "https://www.mexc.co/news/971064",
+        "https://www.indexbox.io/blog/solana-and-cardano-two-altcoins-with-long-term-investment-potential/"
       ]
     },
     "ai_news": {
@@ -351,59 +367,16 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 7,
-      "items": [
-        {
-          "title": "Cerebras Partners with AWS to Boost AI Inference Speed",
-          "summary": "AWS is deploying Cerebras CS-3 systems via AWS Bedrock to offer faster AI inference using open-source LLMs and Amazon's Nova models. The disaggregated architecture pairs AWS Trainium for prefill with Cerebras WSE for decode, achieving 5x boost in token throughput.",
-          "source": "Radical Data Science",
-          "url": "https://radicaldatascience.wordpress.com/2026/03/20/ai-news-briefs-bulletin-board-for-march-2026/"
-        },
-        {
-          "title": "Moonshot AI Introduces Attention Residuals for Transformer Layers",
-          "summary": "Moonshot AI presents Attention Residuals (AttnRes), a method allowing transformer layers to reference earlier layers instead of simply adding outputs. This architectural innovation improves how deep neural networks combine information across layers.",
-          "source": "Radical Data Science",
-          "url": "https://radicaldatascience.wordpress.com/2026/03/20/ai-news-briefs-bulletin-board-for-march-2026/"
-        },
-        {
-          "title": "AI2 Releases Olmo Hybrid with 2x Data Efficiency",
-          "summary": "AI2 released Olmo Hybrid, a 7B-parameter open model combining transformer attention with linear recurrent layers. The model achieves the same MMLU accuracy as Olmo 3 using 49% fewer tokens, demonstrating significant improvements in data efficiency.",
-          "source": "Radical Data Science",
-          "url": "https://radicaldatascience.wordpress.com/2026/03/20/ai-news-briefs-bulletin-board-for-march-2026/"
-        },
-        {
-          "title": "Google Introduces Bayesian Teaching Method for LLMs",
-          "summary": "Google researchers developed Bayesian teaching, a training method that teaches large language models to update beliefs as new information appears. The approach enables models to maintain uncertainty, weigh evidence, and improve predictions over time.",
-          "source": "Radical Data Science",
-          "url": "https://radicaldatascience.wordpress.com/2026/03/20/ai-news-briefs-bulletin-board-for-march-2026/"
-        },
-        {
-          "title": "Deep Learning Model Advances Nuclear Charge Density Prediction",
-          "summary": "Jilin University researchers developed a physics-informed deep neural network that predicts nuclear charge density distributions with high precision. The model integrates physical mechanisms with machine learning using a two-stage optimization process.",
-          "source": "Mirage News",
-          "url": "https://www.miragenews.com/ai-model-revolutionizes-nuclear-charge-density-1641167/"
-        },
-        {
-          "title": "University of Phoenix Presents Human-AI Collaboration Research",
-          "summary": "University of Phoenix researchers presented studies on human-AI cognitive collaboration and AI-ready healthcare curriculum at the AECT 2026 conference. The research includes frameworks for distributing cognitive tasks between humans and AI systems.",
-          "source": "PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/university-of-phoenix-researchers-present-studies-on-humanai-collaboration-and-ai-ready-healthcare-curriculum-at-aect-2026-online-conference-302719852.html"
-        },
-        {
-          "title": "DigitalXForce Advances AI Governance and Enterprise Risk Management",
-          "summary": "DigitalXForce is promoting a holistic approach to enterprise risk management integrating cybersecurity, compliance, and AI governance. The company emphasizes that digital trust will be the defining currency of the AI economy.",
-          "source": "EIN Presswire",
-          "url": "https://www.einpresswire.com/article/899614329/digitalxforce-shapes-industry-dialogue-on-trust-risk-and-security-in-the-ai-era"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
         "https://radicaldatascience.wordpress.com/2026/03/20/ai-news-briefs-bulletin-board-for-march-2026/",
-        "https://www.miragenews.com/ai-model-revolutionizes-nuclear-charge-density-1641167/",
-        "https://gcgjournal.georgetown.edu/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=%2Findex.php%2Findex%2Flogin%2FsignOut%3Fsource%3D.topcbc.net&io0=4576781363787",
-        "https://www.prnewswire.com/news-releases/university-of-phoenix-researchers-present-studies-on-humanai-collaboration-and-ai-ready-healthcare-curriculum-at-aect-2026-online-conference-302719852.html",
-        "https://www.einpresswire.com/article/899614329/digitalxforce-shapes-industry-dialogue-on-trust-risk-and-security-in-the-ai-era",
+        "https://www.youtube.com/watch?v=IeDTVXrRKXg",
+        "https://asiatimes.com/2026/03/save-us-ai-walter-cronkite/",
+        "https://timesofindia.indiatimes.com/education/news/us-universities-pivot-to-ai-degrees-as-campuses-race-to-match-the-machine-age/articleshow/129698069.cms",
+        "https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/",
         "https://www.manilatimes.net/2026/03/21/business/green-industries/can-ai-be-truly-green/2304363",
-        "https://www.cuinfosecurity.com/white-house-ai-policy-blueprint-leaves-key-risks-unresolved-a-31102"
+        "https://www.govinfosecurity.com/white-house-ai-policy-blueprint-leaves-key-risks-unresolved-a-31102"
       ]
     },
     "gaming": {
@@ -411,46 +384,58 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Crimson Desert Launches with Poor Console Performance",
-          "summary": "Crimson Desert, an action-adventure game by Pearl Abyss, released on March 19, 2026, for PS5, Xbox Series X/S, Windows, and macOS, but console versions suffer from stuttering frame rates and major performance issues, leading to criticism that it feels unoptimized.[3]",
-          "source": "Reforge Gaming",
-          "url": "https://www.youtube.com/watch?v=BjnNndAAfss"
+          "title": "Crimson Desert Sells 2 Million Copies Overnight Despite Performance Issues",
+          "summary": "Pearl Abyss' Crimson Desert, released on March 19, 2026, sold 2 million copies worldwide in less than a day and peaked at 250,000 concurrent Steam players, though console versions suffer from stuttering frame rates and optimization problems.[3][4][5]",
+          "source": "GameSpot, IGN, Reforge Gaming",
+          "url": "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/"
         },
         {
-          "title": "Highguard Hero-Shooter Shuts Down After Less Than 50 Days",
-          "summary": "Highguard, a hero-shooter, shut down on March 12, 2026, just short of 50 days after launch, becoming an internet meme and highlighting the gaming industry's ruthless nature toward underperforming titles.[2]",
-          "source": "RTE.ie",
-          "url": "https://www.rte.ie/culture/2026/0320/1563145-game-over-why-are-so-many-big-video-games-dying-upon-release/"
+          "title": "Resident Evil Requiem Becomes Best-Selling Game of 2026 So Far",
+          "summary": "Capcom's Resident Evil Requiem has crossed 6 million sales worldwide, making it the fastest-selling Resident Evil title, top seller in February, and the best-selling game of 2026 overall according to Circana reports.[4]",
+          "source": "IGN",
+          "url": "https://www.youtube.com/watch?v=hyYq-DDTBB4"
         },
         {
-          "title": "Ubisoft Cancels Six Games and Closes Studios",
-          "summary": "Ubisoft announced the cancellation of six unrevealed video games and closure of studios in Sweden and Canada earlier this year, including the Prince of Persia: Sands of Time remake.[2]",
-          "source": "RTE.ie",
-          "url": "https://www.rte.ie/culture/2026/0320/1563145-game-over-why-are-so-many-big-video-games-dying-upon-release/"
+          "title": "Subnautica 2 Enters Early Access in May 2026 After Delays and Leadership Changes",
+          "summary": "Krafton announced Subnautica 2 will launch in Early Access in May 2026 following controversies, director removals, and a court-ordered CEO reinstatement at Unknown Worlds Entertainment.[2]",
+          "source": "Game8",
+          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-15-to-mar-21"
         },
         {
-          "title": "VideoGamer Site Delisted from Google After AI Content Pivot",
-          "summary": "Legacy games media site VideoGamer was removed from Google search results following its pivot to AI-generated articles, as discussed in recent gaming news roundup.[1]",
-          "source": "Level1Techs YouTube",
-          "url": "https://www.youtube.com/watch?v=N3QcTOXXkk0"
+          "title": "NVIDIA Introduces DLSS 5 with AI-Driven Visuals; NCSoft Shifts to Player-Driven Development",
+          "summary": "NVIDIA unveiled DLSS 5 emphasizing AI-enhanced visual quality, while NCSoft announced reduced pay-to-win elements and more player-led decisions in development.[1]",
+          "source": "Gaming Hardcore",
+          "url": "https://www.youtube.com/watch?v=SzpksWLlb28"
         },
         {
-          "title": "Nvidia Plans Open-Source AI Agent Platform Ahead of GTC",
-          "summary": "Nvidia is reportedly launching an open-source AI agent platform, inspired by projects like OpenClaw, with pre-GTC news leaking on March 20, 2026.[1]",
-          "source": "Level1Techs YouTube",
-          "url": "https://www.youtube.com/watch?v=N3QcTOXXkk0"
+          "title": "Build a Rocket Boy Cuts Ties with IOI Partners, Cancels Hitman-MindsEye Crossover",
+          "summary": "Developer Build a Rocket Boy ended its publishing deal with IO Interactive's IOI Partners amid sabotage claims, canceling the Hitman and MindsEye crossover but taking sole publishing forward.[2]",
+          "source": "Game8",
+          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-15-to-mar-21"
+        },
+        {
+          "title": "Steam Spring Sale 2026 Launches with Multiple Game Releases This Week",
+          "summary": "The Steam Spring Sale 2026 is underway alongside recent releases like Ghost Master: Resurrection on March 20 and upcoming titles including Ariana and the Elder Codex on March 24.[1][3]",
+          "source": "Gaming Hardcore, GameSpot",
+          "url": "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/"
+        },
+        {
+          "title": "Redesigned Nintendo Switch 2 with Replaceable Battery Reportedly in Production for Europe",
+          "summary": "A new Nintendo Switch 2 model featuring a replaceable battery is reportedly entering production for the European market, with no confirmation on wider availability.[4]",
+          "source": "IGN",
+          "url": "https://www.youtube.com/watch?v=hyYq-DDTBB4"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=N3QcTOXXkk0",
-        "https://www.rte.ie/culture/2026/0320/1563145-game-over-why-are-so-many-big-video-games-dying-upon-release/",
+        "https://www.youtube.com/watch?v=SzpksWLlb28",
+        "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-15-to-mar-21",
+        "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/",
+        "https://www.youtube.com/watch?v=hyYq-DDTBB4",
         "https://www.youtube.com/watch?v=BjnNndAAfss",
-        "https://www.sportingkc.com/news/the-victory-project-honoree-george-rinearson-march-21-2026",
-        "https://gamerant.com/game/name-that-game-2026-03-21/",
-        "https://www.thegamer.com/nyt-connections-answer-hints-march-21-2026/"
+        "https://gamerant.com/game/name-that-game-2026-03-21/"
       ]
     },
     "tech_news": {
@@ -461,49 +446,48 @@
       "count": 6,
       "items": [
         {
-          "title": "Apple Urges iPhone Users to Update Software Amid Mass Hacking Campaigns",
-          "summary": "Apple warns iPhone users to immediately update their software to protect against widespread hacking threats targeting older iOS versions. The company also launched AirPods Max 2, with rumors of a major redesign next year.",
-          "source": "Nextup Tech",
-          "url": "https://www.youtube.com/watch?v=rWBNTsSoCj8"
+          "title": "Apple Releases Critical Security Update for WebKit Vulnerability",
+          "summary": "Apple issued its first 'background security improvements' to address a critical WebKit vulnerability and warned users to update devices immediately against sophisticated hacking tools.",
+          "source": "Distill Intelligence",
+          "url": "https://www.distillintelligence.com/briefings/magnificent-7-2026-03-20"
         },
         {
-          "title": "Samsung Discontinues Galaxy Z Trifold Due to Memory Issues",
-          "summary": "Samsung has discontinued its Galaxy Z trifold smartphone after just months, citing memory crunch issues despite its success as a three-screen proof of concept.",
-          "source": "Nextup Tech",
-          "url": "https://www.youtube.com/watch?v=rWBNTsSoCj8"
+          "title": "Micron Technology Reports Exceptional Q2 Earnings Beat",
+          "summary": "Micron Technology exceeded Q2 expectations with EPS of $12.20 versus $8.66 consensus and revenue of $23.86B versus $19.74B expected, marking a 196.4% increase.",
+          "source": "Capital Street FX",
+          "url": "https://www.capitalstreetfx.com/index-market-analysis-march-20-2026/"
         },
         {
-          "title": "Samsung Confirms Galaxy S26 to Gain AirDrop Support via Quick Share",
-          "summary": "Samsung confirmed at a Japan press event that the Galaxy S26 series will receive AirDrop-like functionality through Google's Quick Share via upcoming software updates.",
-          "source": "Bez Kabli",
-          "url": "https://www.bez-kabli.pl/technology-news-20-03-2026/"
+          "title": "Tesla Signs $4.3 Billion Battery Deal with LG",
+          "summary": "Tesla finalized a $4.3 billion battery supply agreement with LG, bolstering its energy storage and vehicle production capabilities.",
+          "source": "Distill Intelligence",
+          "url": "https://www.distillintelligence.com/briefings/magnificent-7-2026-03-20"
         },
         {
-          "title": "Elve Achieves First E-Band Wireless Transmission Using TWTA for Cellular Backhaul",
-          "summary": "Elve demonstrated the first full-duplex, bi-directional E-band wireless radio transmission using its Vermillion TWTA technology with Nokia radios, delivering over 10 times the power of existing mmWave backhaul radios at 10 Gbps.",
-          "source": "Business Wire",
-          "url": "https://www.businesswire.com/newsroom/industry/technology"
+          "title": "Meta Secures 10-Year Lease for Fifth Avenue Flagship Store",
+          "summary": "Meta signed a 10-year lease for a permanent flagship retail location on Fifth Avenue in New York, expanding its physical retail presence.",
+          "source": "Distill Intelligence",
+          "url": "https://www.distillintelligence.com/briefings/magnificent-7-2026-03-20"
         },
         {
-          "title": "OnePlus Watch 4 Leak Reveals Two Variants and Wear OS 6",
-          "summary": "Leaked details indicate the OnePlus Watch 4 is nearing launch with two variants running Wear OS 6.",
-          "source": "Bez Kabli",
-          "url": "https://www.bez-kabli.pl/technology-news-20-03-2026/"
+          "title": "Fire Breaks Out at Czech Drone Manufacturer's Facility",
+          "summary": "An industrial facility of LPP Holding, linked to defense drone projects, was set on fire in Pardubice, Czech Republic, on March 20.",
+          "source": "Militarnyi",
+          "url": "https://militarnyi.com/en/news/drone-office-set-on-fire-in-czech-republic/"
         },
         {
-          "title": "Private Space Company Unveils Plan to Capture Asteroid After ISS Tech Tests",
-          "summary": "A private space company announced a bold plan to capture an asteroid, following successful technology tests aboard the International Space Station.",
-          "source": "Nextup Tech",
-          "url": "https://www.youtube.com/watch?v=rWBNTsSoCj8"
+          "title": "Google Signs 2.7 GW Clean Energy Deal for Data Centers",
+          "summary": "Google partnered with DTE Energy for a 2.7 GW clean energy commitment in Michigan to support its data center infrastructure expansion.",
+          "source": "Distill Intelligence",
+          "url": "https://www.distillintelligence.com/briefings/magnificent-7-2026-03-20"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=rWBNTsSoCj8",
-        "https://www.bez-kabli.pl/technology-news-20-03-2026/",
-        "https://www.businesswire.com/newsroom/industry/technology",
-        "https://www.nzherald.co.nz/nz/nz-herald-morning-headlines-saturday-march-21-2026/WECHWRXMFSRBR6LLHNCDE7XTEU/",
-        "https://dailypioneer.com/news/no-one-can-price-tech-revolutions",
-        "https://www.euronews.com/video/2026/03/20/latest-news-bulletin-march-20th-2026-evening"
+        "https://www.distillintelligence.com/briefings/magnificent-7-2026-03-20",
+        "https://militarnyi.com/en/news/drone-office-set-on-fire-in-czech-republic/",
+        "https://www.capitalstreetfx.com/index-market-analysis-march-20-2026/",
+        "https://www.escardio.org/news/press/press-releases/acvc-press/",
+        "https://ccha.com/news/2026/3/21/mens-ice-hockey-mavericks-win-four-mason-cup-in-five-year.aspx"
       ]
     }
   }
