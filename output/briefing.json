@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T12:18:46.336458+00:00",
-  "generated_at_human": "2026-03-24 12:18 UTC",
+  "generated_at": "2026-03-24T18:21:36.195600+00:00",
+  "generated_at_human": "2026-03-24 18:21 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "FCC has banned the import of all new foreign-made routers here's what you can do",
+          "url": "https://blog.adafruit.com/2026/03/24/fcc-just-banned-the-import-of-all-new-foreign-made-routers-heres-what-you-can-do-about-it/",
+          "score": 91,
+          "comments": 50
+        },
+        {
+          "title": "LiteLLM Python package compromised by supply-chain attack",
+          "url": "https://github.com/BerriAI/litellm/issues/24512",
+          "score": 676,
+          "comments": 266
+        },
+        {
+          "title": "ARM AGI CPU: Specs and SKUs",
+          "url": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
+          "score": 26,
+          "comments": 0
+        },
+        {
+          "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+          "url": "https://github.com/t8/hypura",
+          "score": 106,
+          "comments": 47
+        },
+        {
+          "title": "Hypothesis, Antithesis, Synthesis",
+          "url": "https://antithesis.com/blog/2026/hegel/",
+          "score": 96,
+          "comments": 48
+        },
+        {
+          "title": "No Terms. No Conditions",
+          "url": "https://notermsnoconditions.com",
+          "score": 128,
+          "comments": 39
+        },
+        {
+          "title": "Lago (YC S21) Is Hiring",
+          "url": "https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link",
+          "score": 1,
+          "comments": 0
+        },
+        {
+          "title": "Arm AGI CPU",
+          "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+          "score": 18,
+          "comments": 3
+        },
+        {
+          "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
+          "url": "https://www.emailmd.dev/",
+          "score": 46,
+          "comments": 13
+        },
+        {
+          "title": "Tony Hoare and His Imprint on Computer Science",
+          "url": "https://cacm.acm.org/blogcacm/tony-hoare-and-his-imprint-on-computer-science/",
+          "score": 35,
+          "comments": 3
+        },
+        {
+          "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+          "url": "https://github.com/ssrajadh/sentrysearch",
+          "score": 79,
+          "comments": 31
+        },
+        {
+          "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+          "url": "https://nanobrew.trilok.ai/",
+          "score": 111,
+          "comments": 69
+        },
+        {
+          "title": "Data Manipulation in Clojure Compared to R and Python",
+          "url": "https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html",
+          "score": 15,
+          "comments": 0
+        },
+        {
+          "title": "Testing the Swift C compatibility with Raylib (+WASM)",
+          "url": "https://carette.xyz/posts/swift_c_compatibility_with_raylib/",
+          "score": 36,
+          "comments": 12
+        },
+        {
           "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
           "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-          "score": 270,
-          "comments": 191
+          "score": 790,
+          "comments": 579
         },
         {
-          "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
-          "url": "https://www.web-rewind.com",
-          "score": 91,
-          "comments": 43
-        },
-        {
-          "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
-          "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-          "score": 178,
-          "comments": 57
-        },
-        {
-          "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
-          "url": "https://burntsushi.net/ripgrep/",
-          "score": 105,
-          "comments": 45
-        },
-        {
-          "title": "Log File Viewer for the Terminal",
-          "url": "https://lnav.org/",
-          "score": 186,
-          "comments": 23
+          "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+          "url": "https://github.com/AmElmo/proofshot",
+          "score": 67,
+          "comments": 52
         },
         {
           "title": "Debunking Zswap and Zram Myths",
           "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
-          "score": 19,
-          "comments": 1
+          "score": 135,
+          "comments": 33
+        },
+        {
+          "title": "WolfGuard: WireGuard with FIPS 140-3 cryptography",
+          "url": "https://github.com/wolfssl/wolfguard",
+          "score": 44,
+          "comments": 24
+        },
+        {
+          "title": "The AI Industry Is Lying to You",
+          "url": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/",
+          "score": 35,
+          "comments": 3
+        },
+        {
+          "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
+          "url": "https://burntsushi.net/ripgrep/",
+          "score": 269,
+          "comments": 108
+        },
+        {
+          "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+          "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+          "score": 207,
+          "comments": 169
+        },
+        {
+          "title": "So where are all the AI apps?",
+          "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+          "score": 269,
+          "comments": 259
+        },
+        {
+          "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+          "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
+          "score": 73,
+          "comments": 7
         },
         {
           "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
           "url": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
-          "score": 16,
-          "comments": 8
+          "score": 121,
+          "comments": 50
         },
         {
-          "title": "No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",
-          "url": "https://qitejs.qount25.dev",
-          "score": 48,
-          "comments": 38
-        },
-        {
-          "title": "MSA: Memory Sparse Attention",
-          "url": "https://github.com/EverMind-AI/MSA",
-          "score": 25,
-          "comments": 1
-        },
-        {
-          "title": "BIO – The Bao I/O Co-Processor",
-          "url": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
-          "score": 55,
-          "comments": 13
-        },
-        {
-          "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-          "url": "https://twitter.com/anemll/status/2035901335984611412",
-          "score": 642,
-          "comments": 284
-        },
-        {
-          "title": "Autoresearch on an old research idea",
-          "url": "https://ykumar.me/blog/eclip-autoresearch/",
-          "score": 377,
-          "comments": 84
-        },
-        {
-          "title": "FCC updates covered list to include foreign-made consumer routers",
-          "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-          "score": 350,
-          "comments": 234
-        },
-        {
-          "title": "Show HN: Cq – Stack Overflow for AI coding agents",
-          "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-          "score": 162,
-          "comments": 63
-        },
-        {
-          "title": "A 6502 disassembler with a TUI: A modern take on Regenerator",
-          "url": "https://github.com/ricardoquesada/regenerator2000",
-          "score": 51,
-          "comments": 5
-        },
-        {
-          "title": "Dune3d: A parametric 3D CAD application",
-          "url": "https://github.com/dune3d/dune3d",
-          "score": 179,
-          "comments": 69
-        },
-        {
-          "title": "Gerd Faltings, who proved the Mordell conjecture, wins the Abel Prize",
-          "url": "https://www.scientificamerican.com/article/gerd-faltings-mathematician-who-proved-the-mordell-conjecture-wins-the-abel/",
-          "score": 46,
-          "comments": 6
-        },
-        {
-          "title": "Claude Code Cheat Sheet",
-          "url": "https://cc.storyfox.cz",
-          "score": 455,
-          "comments": 138
-        },
-        {
-          "title": "The Resolv hack: How one compromised key printed $23M",
-          "url": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
-          "score": 96,
-          "comments": 139
-        },
-        {
-          "title": "Abusing Customizable Selects",
-          "url": "https://css-tricks.com/abusing-customizable-selects/",
-          "score": 129,
-          "comments": 6
-        },
-        {
-          "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
-          "url": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
-          "score": 88,
-          "comments": 22
-        },
-        {
-          "title": "Finding all regex matches has always been O(n²)",
-          "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
-          "score": 225,
-          "comments": 60
-        },
-        {
-          "title": "Microservices and the First Law of Distributed Objects (2014)",
-          "url": "https://martinfowler.com/articles/distributed-objects-microservices.html",
-          "score": 23,
-          "comments": 17
-        },
-        {
-          "title": "An incoherent Rust",
-          "url": "https://www.boxyuwu.blog/posts/an-incoherent-rust/",
-          "score": 213,
-          "comments": 112
-        },
-        {
-          "title": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
-          "url": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
-          "score": 79,
-          "comments": 11
+          "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+          "url": "https://www.web-rewind.com",
+          "score": 164,
+          "comments": 100
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 71027,
-          "change_24h": 1.18,
-          "change_7d": -3.66,
-          "market_cap": 1420490086463
+          "price": 69341,
+          "change_24h": -2.24,
+          "change_7d": -6.47,
+          "market_cap": 1386934067711
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2165.36,
-          "change_24h": 2.05,
-          "change_7d": -6.37,
-          "market_cap": 261132141690
+          "price": 2112.43,
+          "change_24h": -1.71,
+          "change_7d": -9.18,
+          "market_cap": 254875258886
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 91.69,
-          "change_24h": 2.7,
-          "change_7d": -1.94,
-          "market_cap": 52439421387
+          "price": 89.09,
+          "change_24h": -2.23,
+          "change_7d": -5.62,
+          "market_cap": 50971360942
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.094195,
-          "change_24h": 1.68,
-          "change_7d": -5.99,
-          "market_cap": 14455310200
+          "price": 0.092619,
+          "change_24h": -2.43,
+          "change_7d": -7.35,
+          "market_cap": 14219620142
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.263283,
-          "change_24h": 1.68,
-          "change_7d": -8.09,
-          "market_cap": 9699287683
+          "price": 0.259407,
+          "change_24h": -0.61,
+          "change_7d": -9.56,
+          "market_cap": 9556615970
         }
       ]
     },
@@ -212,34 +212,14 @@
       "count": 10,
       "items": [
         {
-          "name": "Concordium",
-          "symbol": "CCD",
-          "market_cap_rank": 409
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 34
         },
         {
           "name": "Backpack",
           "symbol": "BP",
-          "market_cap_rank": 455
-        },
-        {
-          "name": "Akash Network",
-          "symbol": "AKT",
-          "market_cap_rank": 210
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 107
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 35
-        },
-        {
-          "name": "Siren",
-          "symbol": "SIREN",
-          "market_cap_rank": 83
+          "market_cap_rank": 462
         },
         {
           "name": "Hyperliquid",
@@ -247,9 +227,14 @@
           "market_cap_rank": 15
         },
         {
-          "name": "Resolv USR",
-          "symbol": "USR",
-          "market_cap_rank": 497
+          "name": "Siren",
+          "symbol": "SIREN",
+          "market_cap_rank": 83
+        },
+        {
+          "name": "Akash Network",
+          "symbol": "AKT",
+          "market_cap_rank": 217
         },
         {
           "name": "Bitcoin",
@@ -257,9 +242,24 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 108
+        },
+        {
+          "name": "Artificial Superintelligence Alliance",
+          "symbol": "FET",
+          "market_cap_rank": 98
+        },
+        {
+          "name": "peaq",
+          "symbol": "PEAQ",
+          "market_cap_rank": 553
         }
       ]
     },
@@ -268,31 +268,24 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 2,
       "items": [
         {
-          "title": "S&P 500 Closes Up 1.15% Amid US-Iran Talks Boost",
-          "summary": "The S&P 500 Index rose 1.15% on Monday, intersecting its 200-day moving average after President Trump's announcement of productive US-Iran talks easing tensions. The index tested support between 6500-6575 and faces resistance at 6620 within a declining trend channel.[1]",
-          "source": "Equity Clock",
-          "url": "https://equityclock.com/2026/03/23/stock-market-outlook-for-march-24-2026/"
+          "title": "US Stock Futures Decline Amid Middle East Conflict Renewal",
+          "summary": "Dow futures fell 0.09% to 46,480, S&P futures slipped 0.03% to 6,632.75, and Nasdaq futures dropped 0.08% as stocks declined following Monday's recovery due to renewed Middle East tensions.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/latest-news/stock-market-today-march-24-2026-updates"
         },
         {
-          "title": "Stock Futures Slip as US-Iran Resolution Hopes Fade",
-          "summary": "US stock futures declined in early Tuesday trading, with Nasdaq 100 futures down 0.17%, S&P 500 futures down 0.23%, and Dow Jones futures down 0.28%, as optimism over US-Iran talks wanes.[3]",
-          "source": "TipRanks",
-          "url": "https://www.tipranks.com/news/stock-market-news-today-3-24-26-stock-futures-slip-as-u-s-iran-resolution-hopes-fade"
-        },
-        {
-          "title": "S&P 500 Futures Prediction Markets Show Mixed Outlook",
-          "summary": "Prediction markets on Robinhood indicate expectations for Jun-26 S&P 500 futures around 6600-6650 on March 24, with contracts above 6550 trading at 81¢ and above 6650 at 57¢.[2]",
-          "source": "Robinhood",
-          "url": "https://robinhood.com/us/en/prediction-markets/financial/events/sp-500-futures-price-on-march-24-2026-mar-24-2026/"
+          "title": "US Stocks Swing Between Losses and Gains on Iran War Uncertainty",
+          "summary": "US stock market oscillated between losses and gains on Tuesday amid ongoing uncertainty about the duration of the war with Iran.",
+          "source": "Pittsburgh Post-Gazette",
+          "url": "https://www.post-gazette.com/business/money/2026/03/24/stock-market-today-march-24-2026/stories/202603240047"
         }
       ],
       "citations": [
-        "https://equityclock.com/2026/03/23/stock-market-outlook-for-march-24-2026/",
-        "https://robinhood.com/us/en/prediction-markets/financial/events/sp-500-futures-price-on-march-24-2026-mar-24-2026/",
-        "https://www.tipranks.com/news/stock-market-news-today-3-24-26-stock-futures-slip-as-u-s-iran-resolution-hopes-fade"
+        "https://www.thestreet.com/latest-news/stock-market-today-march-24-2026-updates",
+        "https://www.post-gazette.com/business/money/2026/03/24/stock-market-today-march-24-2026/stories/202603240047"
       ]
     },
     "crypto_news": {
@@ -303,45 +296,43 @@
       "count": 5,
       "items": [
         {
-          "title": "Bitcoin Surges Above $70K After Trump Pauses Iran Strikes",
-          "summary": "Bitcoin held strong above $70,000 following Donald Trump's announcement of a 5-day pause on strikes against Iran, easing geopolitical fears and sparking a risk-on rally in crypto markets with capital rotating from gold to risk assets.",
-          "source": "TitoVlogs",
-          "url": "https://www.youtube.com/watch?v=xf6rjaXnikY"
+          "title": "Ripple Prime Launches XRP as 24/7 Institutional Collateral",
+          "summary": "XRP has transitioned from a retail ticker to institutional collateral backing CME trades, with Ripple Prime implementing infrastructure to bypass liquidation traps affecting institutional funds. The platform expects a $120 billion influx if pending ETFs receive approval by March 27th.",
+          "source": "Cheeky Crypto",
+          "url": "https://www.youtube.com/watch?v=zffBQzeiIdg"
         },
         {
-          "title": "Clarity Act Sparks Backlash with Stablecoin Yield Limits",
-          "summary": "The CLARITY Act has drawn massive criticism from crypto investors and institutions after imposing strict limits on stablecoin rewards, including a ban on yields from simply holding balances, aiming to prevent them from resembling bank deposits.",
-          "source": "TitoVlogs",
-          "url": "https://www.youtube.com/watch?v=xf6rjaXnikY"
-        },
-        {
-          "title": "BlackRock Goes All-In on Crypto with 11 Coins",
-          "summary": "BlackRock CEO Larry Fink announced major investments in 11 cryptocurrencies, signaling strong institutional commitment amid a bullish macro backdrop.",
+          "title": "SWIFT Confirms 25+ Banks Going Live with Crypto for Cross-Border Payments by June",
+          "summary": "The global payments network SWIFT has confirmed that over 25 banks will launch cryptocurrency-based 24/7 cross-border payment capabilities by June 2026, marking major institutional adoption.",
           "source": "Altcoin Daily",
           "url": "https://www.youtube.com/watch?v=W-2KUy_M_UI"
         },
         {
-          "title": "SWIFT Adopts Crypto for Cross-Border Payments with 25+ Banks",
-          "summary": "SWIFT confirmed that over 25 banks will go live by June using cryptocurrency for 24/7 cross-border payments, marking a significant step in traditional finance integration.",
+          "title": "BlackRock Expands Crypto Portfolio with 11 Coins",
+          "summary": "BlackRock has significantly increased its cryptocurrency exposure across 11 digital assets, signaling major institutional capital inflow into the crypto market.",
           "source": "Altcoin Daily",
           "url": "https://www.youtube.com/watch?v=W-2KUy_M_UI"
         },
         {
-          "title": "Crypto Market Rebound: BTC +29%, ETH +38%, XRP +16%",
-          "summary": "Major cryptocurrencies saw strong gains with Bitcoin up 29%, Ethereum up 38%, and XRP up 16% amid market rebound following de-escalation signals from Trump-Iran talks.",
-          "source": "TAO tout flamme",
+          "title": "Cryptocurrency Markets Rally Following Iran Tensions De-escalation",
+          "summary": "Bitcoin and major altcoins experienced significant gains as Donald Trump delayed his ultimatum regarding Iran following diplomatic discussions, triggering short squeezes across markets.",
+          "source": "Morning Crypto",
+          "url": "https://www.youtube.com/watch?v=yKjpGpW67Y4"
+        },
+        {
+          "title": "Major Price Movements: Bitcoin +29%, Ethereum +38%, XRP +16%",
+          "summary": "Cryptocurrency markets showed strong bullish momentum with Bitcoin gaining 29%, Ethereum up 38%, and XRP rising 16% amid institutional adoption news and geopolitical developments.",
+          "source": "Morning Crypto",
           "url": "https://www.youtube.com/watch?v=yKjpGpW67Y4"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=xf6rjaXnikY",
+        "https://www.youtube.com/watch?v=zffBQzeiIdg",
         "https://www.youtube.com/watch?v=W-2KUy_M_UI",
         "https://www.youtube.com/watch?v=yKjpGpW67Y4",
-        "https://www.youtube.com/watch?v=1HxKHAOETIs",
-        "https://www.youtube.com/watch?v=xVShKpb_0Hk",
         "https://www.youtube.com/watch?v=VNFmJYu7U7M",
-        "https://www.youtube.com/watch?v=FimR-IfhIqw",
-        "https://www.youtube.com/watch?v=ANDO2ddjfe0"
+        "https://www.youtube.com/watch?v=AiuWPxLiMe0",
+        "https://www.youtube.com/watch?v=KUhNMg1-JWk"
       ]
     },
     "ai_news": {
@@ -349,46 +340,72 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 9,
       "items": [
         {
-          "title": "Oracle Launches AI Customer Excellence Centre in Sydney",
-          "summary": "Oracle announced the opening of its AI Customer Excellence Centre in Sydney to serve as a regional hub for organizations across Australia and Oceania to adopt agentic AI, AI-powered analytics, generative AI, and machine learning solutions.",
-          "source": "Oracle",
-          "url": "https://www.oracle.com/apac/news/announcement/oracle-launches-ai-customer-excellence-centre-2026-03-24/"
+          "title": "Darwin Gödel Machine (DGM-H) Breakthrough: AI Systems Achieve Recursive Self-Improvement",
+          "summary": "Researchers documented the Darwin Gödel Machine and its extension DGM-Hyperagents, a self-referential system that iteratively modifies its own code and validates changes against empirical benchmarks. The framework is now publicly accessible for developers to create self-improving coding pipelines.",
+          "source": "DevFlokers",
+          "url": "https://www.devflokers.com/blog/ai-news-march-24-2026-releases-breakthroughs"
         },
         {
-          "title": "NIST and Anthropic Highlight Tool to Address AI Risks",
-          "summary": "NIST and Anthropic stakeholders presented a tool designed to help address artificial intelligence risks and safety concerns.",
-          "source": "Inside Cybersecurity",
-          "url": "https://insidecybersecurity.com/daily-news/nist-anthropic-stakeholders-highlight-tool-address-artificial-intelligence-risks"
-        },
-        {
-          "title": "NVIDIA Releases Nemotron 3 Super with Hybrid Mamba-Transformer Architecture",
-          "summary": "NVIDIA announced Nemotron 3 Super, a 120B hybrid Mamba-Transformer MoE model with 12B active parameters, 1M context window, and 2.2x throughput improvements over comparable models.",
-          "source": "LLM Stats",
-          "url": "https://llm-stats.com/ai-news"
-        },
-        {
-          "title": "Mamba 3 Open-Source Framework Released to Improve Upon Transformer Architecture",
-          "summary": "Mamba 3, an open-source framework, has been released with enhancements aimed at increasing efficiency and performance in machine learning tasks, potentially reshaping future AI applications.",
-          "source": "VentureBeat",
+          "title": "OpenAI Releases GPT-5.4 with Efficient Frontier Models",
+          "summary": "OpenAI launched GPT-5.4 alongside GPT-5.4 Mini and Nano variants, marking a pivotal moment in frontier model efficiency and deployment capabilities across different computational scales.",
+          "source": "AI-Weekly",
           "url": "https://ai-weekly.ai/newsletter-03-24-2026/"
         },
         {
-          "title": "Post-Training Methods Evolve: GRPO, DAPO, RLVR Replace RLHF",
-          "summary": "New post-training techniques including GRPO, DAPO, and RLVR have emerged as the dominant post-training stack, replacing traditional RLHF methods in 2026.",
-          "source": "LLM Stats",
-          "url": "https://llm-stats.com/ai-news"
+          "title": "Meta Announces Custom AI Chips MTIA 300-500 to Reduce NVIDIA Dependence",
+          "summary": "Meta unveiled four new custom AI chips designed to reduce reliance on NVIDIA and optimize content ranking and recommendations across its data centers by 2027.",
+          "source": "DevFlokers",
+          "url": "https://www.devflokers.com/blog/ai-news-march-24-2026-releases-breakthroughs"
+        },
+        {
+          "title": "Mamba 3 Open-Source Framework Challenges Transformer Architecture",
+          "summary": "Mamba 3, an open-source framework released on March 17, offers enhancements to improve efficiency and performance in machine learning tasks, potentially reshaping future AI applications beyond traditional transformer architectures.",
+          "source": "AI-Weekly",
+          "url": "https://ai-weekly.ai/newsletter-03-24-2026/"
+        },
+        {
+          "title": "MIT Develops 'Humble' AI Framework for Medical Diagnostics",
+          "summary": "An MIT-led international team created a framework enabling AI systems to reveal uncertainty in medical diagnoses and recommendations, including an Epistemic Virtue Score module that ensures confidence is appropriately tempered by clinical complexity.",
+          "source": "MIT News",
+          "url": "https://news.mit.edu/2026/creating-humble-ai-0324"
+        },
+        {
+          "title": "Assam, India Launches AI-First Governance Initiative",
+          "summary": "The state of Assam is embedding agentic AI into disaster preparedness through the Assam State Data Policy 2026 to predict flood impacts on specific infrastructure in real-time.",
+          "source": "DevFlokers",
+          "url": "https://www.devflokers.com/blog/ai-news-march-24-2026-releases-breakthroughs"
+        },
+        {
+          "title": "Larus Awarded $8.3M Contract for AI-Powered Tactical Intelligence",
+          "summary": "Larus received an $8.3 million IDEaS Test Drive contract from Canada's Department of National Defence to advance AI-powered tactical intelligence capabilities.",
+          "source": "Canadian Army Today",
+          "url": "https://canadianarmytoday.com/larus-awarded-8-3m-contract-to-advance-ai-powered-tactical-intelligence-in-partnership-with-canadian-army/"
+        },
+        {
+          "title": "AI Skills Become Non-Negotiable for Tech Roles in 2026",
+          "summary": "71% of tech leaders now consider AI and machine learning skills essential for developers—exceeding cloud computing skills requirements—as companies increasingly hire AI specialists across departments.",
+          "source": "Entrepreneur",
+          "url": "https://www.entrepreneur.com/leadership/3-ai-shifts-that-will-reshape-your-workplace-in-2026/501763"
+        },
+        {
+          "title": "Global AI Market Surges Past $40B in U.S. with Explosive Growth Projections",
+          "summary": "U.S. AI markets have exceeded $40 billion with projections reaching hundreds of billions worldwide as enterprises accelerate adoption of intelligent solutions across multiple industries.",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/03/24/3261328/0/en/AI-Revolution-Accelerates-Multi-Industry-Adoption-Driving-Explosive-Growth-Opportunity.html"
         }
       ],
       "citations": [
+        "https://www.devflokers.com/blog/ai-news-march-24-2026-releases-breakthroughs",
         "https://ai-weekly.ai/newsletter-03-24-2026/",
-        "https://llm-stats.com/ai-news",
-        "https://tech.einnews.com/pr_news/901223838/ai-agents-market-2026-transforming-enterprise-productivity-through-autonomous-decision-making",
+        "https://www.entrepreneur.com/leadership/3-ai-shifts-that-will-reshape-your-workplace-in-2026/501763",
+        "https://news.mit.edu/2026/creating-humble-ai-0324",
         "https://www.cio.com/article/4145131/the-ai-data-dilemma-every-cio-must-address.html",
-        "https://www.oracle.com/apac/news/announcement/oracle-launches-ai-customer-excellence-centre-2026-03-24/",
-        "https://insidecybersecurity.com/daily-news/nist-anthropic-stakeholders-highlight-tool-address-artificial-intelligence-risks"
+        "https://canadianarmytoday.com/larus-awarded-8-3m-contract-to-advance-ai-powered-tactical-intelligence-in-partnership-with-canadian-army/",
+        "https://www.qu.edu/quinnipiac-today/analysts-weigh-benefits-risks-associated-with-artificial-intelligence-at-quinnipiac-universitys-global-asset-management-education-forum-xv-2026-03-24/",
+        "https://www.globenewswire.com/news-release/2026/03/24/3261328/0/en/AI-Revolution-Accelerates-Multi-Industry-Adoption-Driving-Explosive-Growth-Opportunity.html"
       ]
     },
     "gaming": {
@@ -396,57 +413,52 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "Assassin's Creed Black Flag Resynced Officially Announced",
-          "summary": "Ubisoft has officially announced Assassin’s Creed Black Flag Resynced, one of the industry's worst-kept secrets, alongside updates like a 60fps patch for AC Unity on PS5 and Xbox Series, and confirmation that multiplayer Project Invictus is still in development.",
-          "source": "The Avocado",
-          "url": "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/"
+          "title": "Epic Games Lays Off 1,000 Employees Amid Fortnite Downturn",
+          "summary": "Epic Games announced layoffs of 1,000 workers due to falling player interest in Fortnite and spending exceeding revenue, aiming for over $500 million in cost savings.",
+          "source": "News & Observer",
+          "url": "https://www.newsobserver.com/news/business/article315168095.html"
         },
         {
-          "title": "Minecraft Dungeons 2 Announced for 2026 Launch",
-          "summary": "Developer Double Eleven and Microsoft suddenly announced Minecraft Dungeons 2, a sequel to the 2020 dungeon crawler spinoff, set for release in 2026 on PC, PS5, Switch/Switch 2, and Xbox Series S|X.",
-          "source": "The Avocado",
-          "url": "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/"
+          "title": "Epic Games Cuts 1,000 Jobs as Costs Outpace Revenue",
+          "summary": "Cary-based Epic Games laid off 1,000 employees, citing Fortnite's declining performance and operational overspending exceeding $500 million in targeted savings.",
+          "source": "Triangle Business Journal",
+          "url": "https://www.bizjournals.com/triangle/news/2026/03/24/epic-games-fortnite-layoffs-cuts-cary-video-games.html"
         },
         {
-          "title": "Xenoblade Chronicles X: Definitive Edition Switch 2 Upgrade Shadowdropped",
-          "summary": "Nintendo shadowdropped a $5 Switch 2 upgrade for Xenoblade Chronicles X: Definitive Edition, enhancing it to 4K60fps with improved textures and load times; a physical edition follows on April 16th.",
-          "source": "The Avocado",
-          "url": "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/"
+          "title": "Nintendo Slashes Switch 2 Production by a Third Due to Weak U.S. Sales",
+          "summary": "Nintendo is reportedly reducing Switch 2 output significantly amid dwindling demand in the United States.",
+          "source": "Game Developer",
+          "url": "http://www.gamasutra.com/business/report-nintendo-slashes-switch-2-production-by-a-third-due-to-weak-u-s-sales"
         },
         {
-          "title": "Metal Gear Solid Master Collection Volume 2 Updates and Delistings",
-          "summary": "Konami released a final 3.0 update for MGS Master Collection Volume 1 with Switch 2 upgrades including 1080p60fps for MGS2/MGS3, but delisted Metal Gear Solid 4 and Peace Walker ahead of their modern release.",
-          "source": "The Avocado",
-          "url": "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/"
+          "title": "Rockstar Games Requires Developers to Sign Lifetime NDAs",
+          "summary": "Rockstar Games developers are signing lifetime non-disclosure agreements, raising concerns about long-term secrecy obligations.",
+          "source": "Instant Gaming News",
+          "url": "https://news.instant-gaming.com/en/articles/18686-rockstar-games-developers-sign-lifetime-non-disclosure-agreements"
         },
         {
-          "title": "Hellraiser: Revival ESRB Rating Reveals Switch 2 Port",
-          "summary": "Saber Interactive’s Hellraiser: Revival received an ESRB rating, signaling an imminent launch and revealing an unannounced Nintendo Switch 2 port.",
-          "source": "The Avocado",
-          "url": "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/"
+          "title": "Screen Australia Invests $1.4 Million in 26 Local Game Projects",
+          "summary": "Screen Australia allocated $1.4 million to 26 Australian video game projects through its Games Production and Emerging Gamemakers funds, supporting local stories and diverse creators.",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/screen-australia-hands-out-1-4-million-to-local-developers"
         },
         {
-          "title": "Xbox Partner Preview Set for March 26 with 2026 Third-Party Games",
-          "summary": "Xbox Partner Preview returns on March 26, spotlighting third-party titles like Stranger Than Heaven and STALKER 2 coming to Xbox and Game Pass in 2026.",
-          "source": "Meristation",
-          "url": "https://en.as.com/meristation/news/xbox-partner-preview-returns-this-week-spotlighting-third-party-games-for-2026-f202603-n/"
-        },
-        {
-          "title": "This Week's Key Releases: Life is Strange: Reunion and More",
-          "summary": "Major releases this week include Life is Strange: Reunion and its Twin Pack on March 26, alongside Neopets Mega Mini Games Collection, Screamer, and Mega Man Star Force Legacy Collection on March 27; Switch 2 versions of Super Mario Bros. Wonder and Virtua Fighter 5 R.E.V.O. also launch March 26.",
-          "source": "DLCompare",
-          "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-march-2026-week-13"
+          "title": "Tencent Showcases GenAI Animation Tools at GDC 2026",
+          "summary": "Tencent demonstrated generative AI tools for animations, voices, and NPCs at the GDC Festival of Gaming, though questions remain on enhancing game fun despite technical impressiveness.",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/art/tencent-s-genai-animation-tools-don-t-seem-to-make-games-more-fun"
         }
       ],
       "citations": [
-        "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/",
-        "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-march-2026-week-13",
-        "https://www.youtube.com/watch?v=SFNp6-u2_J8",
-        "https://en.as.com/meristation/news/xbox-partner-preview-returns-this-week-spotlighting-third-party-games-for-2026-f202603-n/",
-        "https://www.youtube.com/watch?v=FzW9xrAHdKg"
+        "https://www.gamedeveloper.com/art/tencent-s-genai-animation-tools-don-t-seem-to-make-games-more-fun",
+        "https://www.gamedeveloper.com/business/screen-australia-hands-out-1-4-million-to-local-developers",
+        "https://www.newsobserver.com/news/business/article315168095.html",
+        "https://news.instant-gaming.com/en/articles/18686-rockstar-games-developers-sign-lifetime-non-disclosure-agreements",
+        "http://www.gamasutra.com/business/report-nintendo-slashes-switch-2-production-by-a-third-due-to-weak-u-s-sales",
+        "https://www.bizjournals.com/triangle/news/2026/03/24/epic-games-fortnite-layoffs-cuts-cary-video-games.html"
       ]
     },
     "tech_news": {
@@ -454,55 +466,39 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "Elon Musk Launches Terafab Chip Factory in Texas",
-          "summary": "Elon Musk announced Terafab, a $20 billion-plus semiconductor fab in Austin, Texas, jointly developed by Tesla, SpaceX, and xAI to produce custom chips for EVs, robots, and computing, addressing global chip shortages.",
-          "source": "TechStartups",
-          "url": "https://techstartups.com/2026/03/23/top-tech-news-today-march-23-2026/"
+          "title": "Musk's SpaceX and Tesla Undertake Terafab Project for Orbital Data Centers",
+          "summary": "SpaceX is partnering with Tesla on an unprecedented Terafab initiative to deploy data center satellites in orbit, featuring massive solar panels to harness the sun's energy 24/7 for computing operations both on Earth and in space.",
+          "source": "Bloomberg Tech",
+          "url": "https://www.youtube.com/watch?v=GW2gao4ushE"
         },
         {
-          "title": "Samsung Rolls Out AirDrop Support via Quick Share on Galaxy S26 Series",
-          "summary": "Samsung is introducing AirDrop-like file sharing support over Quick Share, starting with the Galaxy S26 series, to enhance cross-device compatibility.",
-          "source": "Nextup Tech",
-          "url": "https://www.youtube.com/watch?v=op1DzZZWIv0"
+          "title": "Pentagon's Project Maven Becomes Official Program of Record",
+          "summary": "The Pentagon has officially designated Maven, an artificial intelligence system, as a program of record, accelerating AI-enabled decision making for linking sensors and shooters in combat operations.",
+          "source": "Bloomberg",
+          "url": "https://www.youtube.com/watch?v=56ODeVkEwQ0"
         },
         {
-          "title": "Microsoft Releases Emergency Windows Update",
-          "summary": "Microsoft issued an emergency patch to resolve major issues impacting Windows users following a recent problematic update rollout.",
-          "source": "Nextup Tech",
-          "url": "https://www.youtube.com/watch?v=op1DzZZWIv0"
+          "title": "Micron Technology Shares Decline Amid CapEx Concerns",
+          "summary": "Micron shares fell 4.4% and are down for a third consecutive day following the company's announcement of higher-than-expected capital expenditure for the year.",
+          "source": "Bloomberg",
+          "url": "https://www.youtube.com/watch?v=56ODeVkEwQ0"
         },
         {
-          "title": "Apple's M5 Pro and M5 Max Chips Feature Advanced 3D Packaging",
-          "summary": "Apple's upcoming M5 Pro and M5 Max chips use vertically stacked dies with 3D packaging for superior performance, as revealed by an Apple employee.",
-          "source": "Nextup Tech",
-          "url": "https://www.youtube.com/watch?v=op1DzZZWIv0"
-        },
-        {
-          "title": "Apple Prepares iOS 26.4 Launch with New Features",
-          "summary": "Apple is set to release iOS 26.4 next week, featuring AI-powered playlist playground, urgent reminders, and keyboard improvements.",
-          "source": "Nextup Tech",
-          "url": "https://www.youtube.com/watch?v=op1DzZZWIv0"
-        },
-        {
-          "title": "SpaceX Launches Additional Starlink Satellites in March",
-          "summary": "SpaceX deployed 83 Starlink satellites this March, pushing the constellation beyond 6,700 to boost global internet access in remote areas.",
-          "source": "Orbysa",
-          "url": "https://orbysa.com/news/misc/2026-03-24-march-2026-a-new-era-in-satellite-technology-and-connectivity"
+          "title": "Xiaomi Reports Slowest Growth Since 2023 Amid Memory Chip Shortage",
+          "summary": "Xiaomi is expecting less than 7% revenue growth, a significant decline from 20-30% growth in previous quarters, driven by memory chip shortages that are pressuring margins in its competitive smartphone segment.",
+          "source": "Bloomberg: The China Show",
+          "url": "https://www.youtube.com/watch?v=8daBmxnJc3Q"
         }
       ],
       "citations": [
-        "https://techstartups.com/2026/03/23/top-tech-news-today-march-23-2026/",
-        "https://ai-weekly.ai/newsletter-03-24-2026/",
-        "https://www.youtube.com/watch?v=op1DzZZWIv0",
-        "https://orbysa.com/news/misc/2026-03-24-march-2026-a-new-era-in-satellite-technology-and-connectivity",
-        "https://timesofindia.indiatimes.com/technology/tech-news/google-president-ruth-porat-may-have-just-agreed-with-elon-musks-big-ai-worry-for-which-big-tech-is-spending-billions/articleshow/129772682.cms",
-        "https://www.capitalstreetfx.com/amazon-amzn-trade-idea-march-24-2026/",
-        "https://www.taipeitimes.com/News/world/archives/2026/03/24/2003854383",
+        "https://www.youtube.com/watch?v=GW2gao4ushE",
         "https://www.youtube.com/watch?v=56ODeVkEwQ0",
-        "https://fortune.com/section/big-tech/page/77/"
+        "https://www.youtube.com/watch?v=8daBmxnJc3Q",
+        "https://www.youtube.com/watch?v=FimR-IfhIqw",
+        "https://www.morningstar.com/stocks/3-core-stocks-scale-back-2"
       ]
     }
   }
