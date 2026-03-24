@@ -1,11 +1,163 @@
 {
-  "generated_at": "2026-03-23T18:18:23.589867+00:00",
-  "generated_at_human": "2026-03-23 18:18 UTC",
+  "generated_at": "2026-03-24T00:23:22.046960+00:00",
+  "generated_at_human": "2026-03-24 00:23 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/47480886.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-      "items": []
+      "category": "tech_ai_nerd",
+      "count": 25,
+      "items": [
+        {
+          "title": "Windows 3.1 tiled background .bmp archive",
+          "url": "https://github.com/andreasjansson/win-3.1-backgrounds",
+          "score": 73,
+          "comments": 15
+        },
+        {
+          "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+          "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+          "score": 126,
+          "comments": 64
+        },
+        {
+          "title": "Autoresearch on an old research idea",
+          "url": "https://ykumar.me/blog/eclip-autoresearch/",
+          "score": 248,
+          "comments": 65
+        },
+        {
+          "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+          "url": "https://twitter.com/anemll/status/2035901335984611412",
+          "score": 459,
+          "comments": 233
+        },
+        {
+          "title": "Ju Ci: The Art of Repairing Porcelain",
+          "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
+          "score": 38,
+          "comments": 5
+        },
+        {
+          "title": "No, Windows Start does not use React",
+          "url": "https://pathar.tl/blog/no-windows-start-does-not-use-react/",
+          "score": 20,
+          "comments": 10
+        },
+        {
+          "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+          "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+          "score": 34,
+          "comments": 16
+        },
+        {
+          "title": "Local Stack Archived their GitHub repo and requires an account to run",
+          "url": "https://github.com/localstack/localstack",
+          "score": 144,
+          "comments": 69
+        },
+        {
+          "title": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
+          "url": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
+          "score": 20,
+          "comments": 0
+        },
+        {
+          "title": "Claude Code Cheat Sheet",
+          "url": "https://cc.storyfox.cz",
+          "score": 94,
+          "comments": 25
+        },
+        {
+          "title": "Dune3d: A parametric 3D CAD application",
+          "url": "https://github.com/dune3d/dune3d",
+          "score": 89,
+          "comments": 24
+        },
+        {
+          "title": "Finding all regex matches has always been O(n²)",
+          "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
+          "score": 144,
+          "comments": 36
+        },
+        {
+          "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+          "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+          "score": 147,
+          "comments": 54
+        },
+        {
+          "title": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
+          "url": "https://www.bbc.com/news/articles/cy01g522ww4o",
+          "score": 320,
+          "comments": 510
+        },
+        {
+          "title": "An incoherent Rust",
+          "url": "https://www.boxyuwu.blog/posts/an-incoherent-rust/",
+          "score": 102,
+          "comments": 34
+        },
+        {
+          "title": "Hacker mints $80M USD worth of USR stablecoins",
+          "url": "https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/",
+          "score": 54,
+          "comments": 58
+        },
+        {
+          "title": "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects",
+          "url": "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html",
+          "score": 310,
+          "comments": 218
+        },
+        {
+          "title": "BIO: The Bao I/O Coprocessor",
+          "url": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
+          "score": 114,
+          "comments": 26
+        },
+        {
+          "title": "A retro terminal music player inspired by Winamp",
+          "url": "https://github.com/bjarneo/cliamp",
+          "score": 24,
+          "comments": 0
+        },
+        {
+          "title": "I built an AI receptionist for a mechanic shop",
+          "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
+          "score": 201,
+          "comments": 223
+        },
+        {
+          "title": "Designing AI for Disruptive Science",
+          "url": "https://www.asimov.press/p/ai-science",
+          "score": 54,
+          "comments": 35
+        },
+        {
+          "title": "An unsolicited guide to being a researcher [pdf]",
+          "url": "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf",
+          "score": 159,
+          "comments": 21
+        },
+        {
+          "title": "Bombadil: Property-based testing for web UIs",
+          "url": "https://github.com/antithesishq/bombadil",
+          "score": 221,
+          "comments": 87
+        },
+        {
+          "title": "America tells private firms to “hack back”",
+          "url": "https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back",
+          "score": 100,
+          "comments": 113
+        },
+        {
+          "title": "Digs: iOS app that syncs your Discogs collection and lets you browse it offline",
+          "url": "https://lustin.fr/blog/building-digs/",
+          "score": 44,
+          "comments": 17
+        }
+      ]
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -15,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 70971,
-          "change_24h": 3.29,
-          "change_7d": -4.03,
-          "market_cap": 1420122125224
+          "price": 70741,
+          "change_24h": 4.1,
+          "change_7d": -5.5,
+          "market_cap": 1414623781049
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2150.17,
-          "change_24h": 3.44,
-          "change_7d": -7.12,
-          "market_cap": 259404297691
+          "price": 2140.76,
+          "change_24h": 4.07,
+          "change_7d": -8.95,
+          "market_cap": 258462535874
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 91.12,
-          "change_24h": 4.41,
-          "change_7d": -3.13,
-          "market_cap": 52139945431
+          "price": 91.26,
+          "change_24h": 5.7,
+          "change_7d": -5.15,
+          "market_cap": 52201966214
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.094865,
-          "change_24h": 3.91,
-          "change_7d": -6.49,
-          "market_cap": 14577729815
+          "price": 0.093971,
+          "change_24h": 3.96,
+          "change_7d": -8.9,
+          "market_cap": 14425224943
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.261044,
-          "change_24h": 2.68,
-          "change_7d": -9.13,
-          "market_cap": 9637727086
+          "price": 0.261043,
+          "change_24h": 3.96,
+          "change_7d": -10.34,
+          "market_cap": 9617465424
         }
       ]
     },
@@ -60,19 +212,14 @@
       "count": 10,
       "items": [
         {
-          "name": "Backpack",
-          "symbol": "BP",
-          "market_cap_rank": 396
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 107
-        },
-        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
+        },
+        {
+          "name": "Backpack",
+          "symbol": "BP",
+          "market_cap_rank": 404
         },
         {
           "name": "Bittensor",
@@ -80,24 +227,29 @@
           "market_cap_rank": 36
         },
         {
+          "name": "Akash Network",
+          "symbol": "AKT",
+          "market_cap_rank": 211
+        },
+        {
           "name": "Siren",
           "symbol": "SIREN",
           "market_cap_rank": 48
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 15
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 107
         },
         {
-          "name": "Resolv USR",
-          "symbol": "USR",
-          "market_cap_rank": 479
+          "name": "Kaspa",
+          "symbol": "KAS",
+          "market_cap_rank": 71
         },
         {
-          "name": "Aerodrome Finance",
-          "symbol": "AERO",
-          "market_cap_rank": 127
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         },
         {
           "name": "Monad",
@@ -116,24 +268,38 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 4,
       "items": [
         {
-          "title": "Stock Market Futures Surge Higher on March 23",
-          "summary": "Futures for the Nasdaq 100, Dow Jones Industrial Average, and S&P 500 rose sharply by 1.79%, 1.87%, and 1.98% respectively at 7:40 AM, signaling a strong open amid positive market sentiment.",
-          "source": "TipRanks",
-          "url": "https://www.tipranks.com/news/why-are-stock-market-futures-ticking-lower-today-3-22-26"
+          "title": "Fed Holds Rates Steady at 3.50-3.75% Amid Rising PPI and Oil Prices",
+          "summary": "The Federal Reserve kept interest rates unchanged at 3.50-3.75% during the week of March 23, 2026, while PPI rose 0.7% month-over-month. Markets shifted from expecting two rate cuts in 2026 to a 50% chance of a hike as oil prices surged 70%.[1]",
+          "source": "Interactive Brokers",
+          "url": "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/weekly-market-recap-week-of-march-23-2026/"
         },
         {
-          "title": "Wall Street Stocks Jump as Oil Prices Ease After Global Losses",
-          "summary": "Stock markets on Wall Street surged following severe losses elsewhere, with oil prices easing, boosted by hopes rising after Trump's announcement.",
-          "source": "Post-Gazette",
-          "url": "https://www.post-gazette.com/business/money/2026/03/23/stock-market-today-march-23-2026/stories/202603230028"
+          "title": "S&P 500 Down Only 3% Despite Sector Dispersion and Geopolitical Tensions",
+          "summary": "The S&P 500 declined just 3% for the week amid widening stock dispersion, with energy up 33% YTD due to Middle East conflict and oil surge, while software down 20% and financials down 11% from yield curve flattening.[1]",
+          "source": "Interactive Brokers",
+          "url": "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/weekly-market-recap-week-of-march-23-2026/"
+        },
+        {
+          "title": "US Indices Approach Critical Fibonacci Supports: Dow at 44,802, S&P at 6,498",
+          "summary": "On March 23, 2026, US indices neared key 0.786 Fibonacci support levels at 44,802 for the Dow and 6,498 for the S&P 500, vital to hold to avoid deeper declines.[2]",
+          "source": "Capital Street FX",
+          "url": "https://www.capitalstreetfx.com/index-market-analysis-march-23-2026/"
+        },
+        {
+          "title": "Gold Drops 15% to $4,482 Amid Equity Sell-Off and Margin Calls",
+          "summary": "Gold fell sharply 15% from $5,294 on March 2 to $4,482 by March 20, 2026, alongside equities, likely due to hedge funds selling winners like gold to cover losses in tech and small-caps amid wars and high oil prices.[4]",
+          "source": "Navellier",
+          "url": "https://navellier.com/3-24-26-with-wars-and-high-oil-prices-why-is-gold-lower/"
         }
       ],
       "citations": [
-        "https://www.tipranks.com/news/why-are-stock-market-futures-ticking-lower-today-3-22-26",
-        "https://www.post-gazette.com/business/money/2026/03/23/stock-market-today-march-23-2026/stories/202603230028"
+        "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/weekly-market-recap-week-of-march-23-2026/",
+        "https://www.capitalstreetfx.com/index-market-analysis-march-23-2026/",
+        "https://robinhood.com/us/en/prediction-markets/financial/events/nasdaq-100-futures-price-on-march-24-2026-mar-24-2026/",
+        "https://navellier.com/3-24-26-with-wars-and-high-oil-prices-why-is-gold-lower/"
       ]
     },
     "crypto_news": {
@@ -141,24 +307,46 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 5,
       "items": [
         {
-          "title": "CLARITY Act Stablecoin Deal Moves to Capitol Hill Review",
-          "summary": "Crypto industry leaders met with the Senate Banking Committee to review a stablecoin yield compromise that unblocked the Digital Asset Market Clarity Act. Bank representatives are scheduled to follow on Tuesday, with details of the agreement remaining confidential.",
-          "source": "FinTech Weekly",
-          "url": "https://www.fintechweekly.com/news/clarity-act-stablecoin-deal-capitol-hill-review-march-23-2026"
+          "title": "Bitcoin Surges 5% After Trump Pauses Iran Strikes",
+          "summary": "Bitcoin jumped to $71,200 on March 23 after President Trump announced a five-day pause on strikes against Iranian power plants, reversing earlier losses. The announcement triggered $415 million in liquidations across leveraged positions within four hours.",
+          "source": "247wallst.com",
+          "url": "https://247wallst.com/investing/2026/03/23/bitcoin-and-xrp-price-why-the-u-s-and-iran-war-keeps-overriding-every-crypto-rally/"
         },
         {
-          "title": "Bitcoin Rises $1,801 in Daily Trading",
-          "summary": "Bitcoin traded at $70,599.53, marking a $1,801.64 increase from the previous day, though it remains approximately $15,460 below its price one year ago.",
-          "source": "Fortune",
-          "url": "https://fortune.com/article/price-of-bitcoin-03-23-2026/"
+          "title": "Crypto Market Volatility Driven by U.S.-Iran Tensions",
+          "summary": "Over $1 billion in crypto positions were liquidated following Trump's 48-hour ultimatum to Iran on March 21, with Bitcoin dropping from $75,912 to $68,241. The total crypto market cap lost roughly $55 billion as geopolitical tensions overshadowed market fundamentals.",
+          "source": "247wallst.com",
+          "url": "https://247wallst.com/investing/2026/03/23/bitcoin-and-xrp-price-why-the-u-s-and-iran-war-keeps-overriding-every-crypto-rally/"
+        },
+        {
+          "title": "Ethereum Climbs to $2,141 Amid Risk Asset Rally",
+          "summary": "Ethereum reached $2,141 on March 23 as Trump's Iran pause sent risk assets surging, while XRP surged to $1.44 following the geopolitical de-escalation announcement.",
+          "source": "openpr.com",
+          "url": "https://www.openpr.com/news/4436649/crypto-news-why-is-bitcoin-pumping-5-while-pepeto-crosses-8-28"
+        },
+        {
+          "title": "Bitcoin Exchange Reserves Hit Seven-Year Low",
+          "summary": "Exchange reserves fell to 2.31 million BTC, a seven-year low, while whale addresses holding over 1,000 BTC expanded to 2,140, indicating institutional accumulation during market volatility.",
+          "source": "openpr.com",
+          "url": "https://www.openpr.com/news/4436649/crypto-news-why-is-bitcoin-pumping-5-while-pepeto-crosses-8-28"
+        },
+        {
+          "title": "Fairfax County Pension Fund Reports Record Crypto Returns",
+          "summary": "Fairfax County Employees' Retirement System announced that its digital assets allocation has become the best-performing investment in the fund's history since first investing in blockchain infrastructure in 2019.",
+          "source": "top1000funds.com",
+          "url": "https://www.top1000funds.com/2026/03/we-are-way-ahead-how-fairfax-county-bagged-staggering-crypto-returns/"
         }
       ],
       "citations": [
-        "https://www.fintechweekly.com/news/clarity-act-stablecoin-deal-capitol-hill-review-march-23-2026",
-        "https://fortune.com/article/price-of-bitcoin-03-23-2026/"
+        "https://247wallst.com/investing/2026/03/23/bitcoin-and-xrp-price-why-the-u-s-and-iran-war-keeps-overriding-every-crypto-rally/",
+        "https://www.openpr.com/news/4436649/crypto-news-why-is-bitcoin-pumping-5-while-pepeto-crosses-8-28",
+        "https://www.capitalstreetfx.com/crypto-market-analysis-march-23-2026/",
+        "https://www.youtube.com/watch?v=boq6pIDO3mQ",
+        "https://westafricatradehub.com/crypto/crypto-mixers-how-they-work-types-and-top-options-for-2026/",
+        "https://www.top1000funds.com/2026/03/we-are-way-ahead-how-fairfax-county-bagged-staggering-crypto-returns/"
       ]
     },
     "ai_news": {
@@ -166,52 +354,57 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 7,
       "items": [
         {
+          "title": "Perplexity Launches AI-Powered Medical Records Search",
+          "summary": "Perplexity has rolled out a new AI-powered search tool for medical records, enhancing healthcare data accessibility. This development is part of the latest health tech advancements highlighted in weekly rundowns.",
+          "source": "Fierce Healthcare",
+          "url": "https://www.fiercehealthcare.com/health-tech/fierce-health-tech-weekly-rundown-doximity-survey-examines-how-docs-use-ai-lumeris"
+        },
+        {
+          "title": "Doximity Survey Reveals Doctors' AI Usage Trends",
+          "summary": "A new Doximity survey examines how physicians are incorporating AI into their practices, providing insights into adoption rates and applications in healthcare.",
+          "source": "Fierce Healthcare",
+          "url": "https://www.fiercehealthcare.com/health-tech/fierce-health-tech-weekly-rundown-doximity-survey-examines-how-docs-use-ai-lumeris"
+        },
+        {
+          "title": "UPATHLN AI Flags Uncertain Lymph Node Reads for Pan-Cancer Detection",
+          "summary": "Chinese researchers introduced UPATHLN, an AI tool that identifies uncertain lymph node pathology reads to improve pan-cancer sensitivity, published on March 21.",
+          "source": "Nature Digital Medicine",
+          "url": "https://www.nature.com/articles/s41746-026-02564-y"
+        },
+        {
+          "title": "ChatGPT-4.0 Matches Senior Surgeons in Breast Cancer Q&A Study",
+          "summary": "A study from March 20 found GPT-4.0 performs comparably to senior breast surgeons on 30 cancer-related questions, though it should support rather than replace clinicians.",
+          "source": "SAGE Journals",
+          "url": "https://journals.sagepub.com/doi/10.1177/20552076261431491"
+        },
+        {
           "title": "Verily Raises $300M in AI Healthcare Funding",
-          "summary": "Verily secured $300 million in funding, signaling strong investment in AI pipelines for healthcare. The raise accompanies Google Fitbit's advancements in record linkage.",
+          "summary": "Verily secured a $300 million funding round, signaling strong investment in AI-driven healthcare pipelines and expansions like Google Fitbit record linkage.",
           "source": "LQ Ventures",
           "url": "https://www.lqventures.com/ai-in-healthcare-and-digital-health-today-march-23-2026/"
         },
         {
-          "title": "Visma Launches Smartscan Premium with BERT-Powered NLP Innovation",
-          "summary": "Visma's Machine Learning Assets team released Smartscan Premium and AutoSuggest, leveraging advanced natural language processing with BERT technology. The company is shifting to agentic workflows for autonomous AI execution.",
-          "source": "Visma",
-          "url": "https://www.visma.com/resources/content/zero-hype-pure-value-how-visma-is-scaling-ai-from-assistance-to-execution"
+          "title": "International Study Refines AI for Leukemia Diagnosis Across 6,206 Patients",
+          "summary": "Researchers refined an AI classifier for acute leukemia (AML, APL, ALL) using data from 20 centers in 16 countries, improving generalizability with outlier detection.",
+          "source": "Nature Communications",
+          "url": "https://www.nature.com/articles/s41467-026-70584-z"
         },
         {
-          "title": "Purdue Team Develops AI Biosensors for Corn Crop Pathogen Detection",
-          "summary": "Purdue researchers are deploying AI-driven field sensors and novel biosensors to detect pathogenic DNA, RNA, and plant stress markers in corn crops. The project aims to minimize datasets for scalable biosecurity.",
-          "source": "Purdue University",
-          "url": "https://ag.purdue.edu/news/2026/03/purdue-research-team-wants-to-harness-ai-to-secure-corn-crops-from-pathogenic-threats.html"
-        },
-        {
-          "title": "AI Renaissance Trends: Human-Centric Intelligence and Multimodal AI",
-          "summary": "Emerging trends highlight human-centric AI aligned with cognitive processes, enhanced NLP, large language models, and multimodal integration of text, images, and audio.",
-          "source": "RuslanMV",
-          "url": "https://ruslanmv.com/news-and-trends/issues/trend-2026-03-23/"
-        },
-        {
-          "title": "GovAI and Brookings Study Maps AI Job Exposure Across 350 Occupations",
-          "summary": "New research measures AI's impact on jobs by task efficiency and worker transition ease, identifying most and least vulnerable roles amid rising workforce AI adoption.",
-          "source": "Advisory Board",
-          "url": "https://www.advisory.com/daily-briefing/2026/03/23/ai-jobs-ab-oi-ec"
-        },
-        {
-          "title": "Mastercard AI Leader Highlights Shift to Transformer Models and AI Agents",
-          "summary": "AI has evolved to deep learning with transformers, large language models, and autonomous agents for fraud detection, risk scoring, and end-to-end task management.",
-          "source": "Mastercard",
-          "url": "https://www.mastercard.com/us/en/news-and-trends/stories/2026/janet-george-ai-business.html"
+          "title": "10 AI-Native Biotechs Highlighted for 2026 Drug Discovery",
+          "summary": "BioBuzz identifies 10 AI-native biotechs, including Micro CRISPR, poised to revolutionize drug development with closed-loop AI systems and clinical pipelines.",
+          "source": "BioBuzz",
+          "url": "https://news.biobuzz.io/2026/03/23/10-ai-native-biotechs-to-watch-in-2026/"
         }
       ],
       "citations": [
-        "https://ruslanmv.com/news-and-trends/issues/trend-2026-03-23/",
+        "https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf",
         "https://www.lqventures.com/ai-in-healthcare-and-digital-health-today-march-23-2026/",
-        "https://www.mastercard.com/us/en/news-and-trends/stories/2026/janet-george-ai-business.html",
-        "https://www.visma.com/resources/content/zero-hype-pure-value-how-visma-is-scaling-ai-from-assistance-to-execution",
+        "https://news.biobuzz.io/2026/03/23/10-ai-native-biotechs-to-watch-in-2026/",
         "https://www.advisory.com/daily-briefing/2026/03/23/ai-jobs-ab-oi-ec",
-        "https://ag.purdue.edu/news/2026/03/purdue-research-team-wants-to-harness-ai-to-secure-corn-crops-from-pathogenic-threats.html",
+        "https://www.fiercehealthcare.com/health-tech/fierce-health-tech-weekly-rundown-doximity-survey-examines-how-docs-use-ai-lumeris",
         "https://upcea.edu/artificial-intelligence-and-the-future-of-student-recruitment/"
       ]
     },
@@ -220,41 +413,47 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 7,
       "items": [
         {
-          "title": "Xbox Partner Preview Showcase Announced for March 26",
-          "summary": "Microsoft revealed an upcoming Xbox Partner Preview on March 26 featuring updates on Stranger Than Heaven from Ryu Ga Gotoku, S.T.A.L.K.E.R. 2: Heart of Chornobyl, The Expanse: Osiris Reborn, plus world premieres and Game Pass announcements from partners like Sega and Owlcat Games.",
-          "source": "Xbox Wire",
-          "url": "https://news.xbox.com/en-us/2026/03/23/xbox-partner-preview-march-2026-announce/"
+          "title": "Xbox Partner Preview Scheduled for March 26 with Third-Party Reveals",
+          "summary": "Xbox announced a new Partner Preview event on March 26, 2026, featuring updates on S.T.A.L.K.E.R. 2, Stranger Than Heaven, and other third-party games coming to Xbox and Game Pass. The showcase, the first under new CEO Asha Sharma, starts at 10am Pacific.",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/a-new-xbox-partner-preview-set-is-set-for-this-month-third-party-reveals-game-pass-additions-and-more-coming-our-way"
         },
         {
-          "title": "This Week's Key Game Releases: Life is Strange: Reunion and More on March 26",
-          "summary": "Major releases this week include Life is Strange: Reunion and its Twin Pack on March 26, alongside Switch 2 ports of Super Mario Bros. Wonder and Virtua Fighter 5 R.E.V.O., Screamer racing game, and Mega Man Star Force Legacy Collection on March 27.",
-          "source": "DLCompare",
-          "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-march-2026-week-13"
-        },
-        {
-          "title": "Assassin's Creed Black Flag Resynced Officially Announced",
-          "summary": "Ubisoft's new franchise head Jean Gudeson announced Assassin’s Creed Black Flag Resynced, confirming long-rumored remake, alongside AC Unity 60fps update, ongoing Project Invictus multiplayer, and end of support for AC Shadows.",
+          "title": "Minecraft Dungeons 2 Announced for 2026 Launch",
+          "summary": "Microsoft and Double Eleven suddenly revealed Minecraft Dungeons 2, a sequel to the 2020 dungeon crawler spinoff, set for release in 2026 on PC, PS5, Switch/Switch 2, and Xbox Series X|S.",
           "source": "The Avocado",
           "url": "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/"
         },
         {
-          "title": "Minecraft Dungeons 2 Surprise Announced for 2026",
-          "summary": "Developer Double Eleven and Microsoft suddenly revealed Minecraft Dungeons 2, a sequel to the 2020 dungeon crawler spinoff, launching in 2026 on PC, PS5, Switch/Switch 2, and Xbox Series.",
+          "title": "Assassin's Creed Black Flag Resynced Officially Announced",
+          "summary": "Ubisoft confirmed Assassin's Creed Black Flag Resynced, a long-rumored remaster, alongside updates like 60fps for AC Unity on PS5/Xbox Series and ongoing work on multiplayer Project Invictus.",
+          "source": "The Avocado",
+          "url": "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/"
+        },
+        {
+          "title": "Life is Strange: Reunion Releases March 26 Alongside Other Titles",
+          "summary": "Life is Strange: Reunion launches March 26 as the latest narrative adventure, with a Twin Pack edition; other releases include Screamer, Super Mario Bros. Wonder and Virtua Fighter 5 R.E.V.O. on Switch 2, and Mega Man Star Force Legacy Collection on March 27.",
+          "source": "DLCompare",
+          "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-march-2026-week-13"
+        },
+        {
+          "title": "Nintendo Shadowdrops Xenoblade Chronicles X: Definitive Edition Upgrade",
+          "summary": "Nintendo released a $5 Switch 2 upgrade for Xenoblade Chronicles X: Definitive Edition, boosting it to 4K60fps with texture and load time improvements; physical edition follows on April 16.",
+          "source": "The Avocado",
+          "url": "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/"
+        },
+        {
+          "title": "Hellraiser: Revival ESRB Rating Reveals Switch 2 Port",
+          "summary": "Saber Interactive's Hellraiser: Revival received an ESRB rating, signaling an imminent launch and disclosing an unannounced Nintendo Switch 2 port.",
           "source": "The Avocado",
           "url": "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/"
         },
         {
           "title": "Konami Delists Metal Gear Solid 4 and Peace Walker",
-          "summary": "Konami delisted previous versions of Metal Gear Solid 4 and Peace Walker ahead of their modern release in the Marvel MaXimum Collection on March 27, while MGS Master Collection Vol. 1 received a 3.0 update with Switch 2 enhancements.",
-          "source": "The Avocado",
-          "url": "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/"
-        },
-        {
-          "title": "Hellraiser: Revival ESRB Rated with Switch 2 Port Revealed",
-          "summary": "Saber Interactive’s Hellraiser: Revival received an ESRB rating, signaling imminent launch and unexpectedly revealing a Nintendo Switch 2 port.",
+          "summary": "Konami delisted older versions of Metal Gear Solid 4 and Peace Walker ahead of modern releases, while releasing a Volume 2 reveal and final 3.0 update for MGS Master Collection with Switch 2 enhancements.",
           "source": "The Avocado",
           "url": "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/"
         }
@@ -262,11 +461,10 @@
       "citations": [
         "https://the-avocado.org/2026/03/23/game-news-roundup-february-march-2026/",
         "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-march-2026-week-13",
-        "https://news.xbox.com/en-us/2026/03/23/xbox-partner-preview-march-2026-announce/",
-        "https://gameinformer.com/xbox-partner-preview/2026/03/23/xbox-partner-preview-announced-for-this-week-with-looks-at-stranger",
-        "https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-23-2026/",
-        "https://aiptcomics.com/2026/03/23/new-video-games-coming-out-the-week-of-3-23-26/",
-        "https://news.instant-gaming.com/en/articles/18667-this-week-s-releases-from-march-23-to-29-2026"
+        "https://www.windowscentral.com/gaming/xbox/a-new-xbox-partner-preview-set-is-set-for-this-month-third-party-reveals-game-pass-additions-and-more-coming-our-way",
+        "https://en.as.com/meristation/news/xbox-partner-preview-returns-this-week-spotlighting-third-party-games-for-2026-f202603-n/",
+        "https://www.trueachievements.com/news/new-xbox-games-march-24-2026",
+        "https://gamerant.com/game/name-that-game-2026-03-24/"
       ]
     },
     "tech_news": {
@@ -277,36 +475,36 @@
       "count": 4,
       "items": [
         {
-          "title": "Elon Musk Launches Terafab Chip Factory in Texas for Tesla, SpaceX, and xAI",
-          "summary": "Elon Musk announced Terafab, a $20 billion-plus semiconductor fab in Austin, Texas, to produce custom chips for EVs, Optimus robots, and high-performance computing, addressing global chip shortages.",
+          "title": "Elon Musk Launches Terafab Chip Factory in Texas",
+          "summary": "Elon Musk announced Terafab, a $20 billion-plus semiconductor fab in Austin, Texas, jointly developed by Tesla, SpaceX, and xAI to produce custom chips for EVs, robots, and computing. The facility aims to address chip shortages and enable terawatt-scale production near Tesla's headquarters.",
           "source": "TechStartups",
           "url": "https://techstartups.com/2026/03/23/top-tech-news-today-march-23-2026/"
         },
         {
-          "title": "Anduril Secures Up to $20 Billion U.S. Army Contract",
-          "summary": "Defense tech startup Anduril landed a five-to-ten-year enterprise contract with the U.S. Army worth up to $20 billion, consolidating existing orders and enabling faster future deals, including a new $87 million task order.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/03/23/anduril-breaks-in-to-the-pentagon-big-leagues/"
+          "title": "Elliott Management Builds Multibillion Stake in Synopsys",
+          "summary": "Elliott Management has taken a multibillion-dollar stake in Synopsys and is pushing the chipmaking software company to better monetize its offerings amid the tech buildup. Synopsys shares rose 1.6% on the news.",
+          "source": "Bloomberg Surveillance",
+          "url": "https://www.youtube.com/watch?v=-0Mk460p5eM"
         },
         {
-          "title": "Linux Foundation Receives $12.5 Million Funding Boost from Big Tech",
-          "summary": "The Linux Foundation secured $12.5 million in grants from Google, Microsoft, Anthropic, and OpenAI to enhance open-source software security amid rising vulnerabilities from AI-generated code.",
-          "source": "IT Brew",
-          "url": "https://www.itbrew.com/stories/2026/03/23/linux-foundation-gets-funding-boost-from-big-tech"
+          "title": "NASA Announces 'Ignition: NASA’s Plan for The Moon' Event",
+          "summary": "NASA is hosting a public event on March 24, 2026, at its headquarters to outline accelerated preparations for America's return to the Moon's surface by 2028.",
+          "source": "NASA",
+          "url": "https://plus.nasa.gov/scheduled-video/ignition-nasas-plan-for-the-moon/"
         },
         {
-          "title": "PSN Service Outage Resolved on PS5 and PS4",
-          "summary": "PlayStation Network experienced a brief outage but services are returning online for PS5 and PS4 users.",
-          "source": "TechSoften / Push Square",
-          "url": "https://techsoften.com/top-tech-news-monday-march-23-2026/"
+          "title": "India Advances Semiconductor Technology Initiatives",
+          "summary": "India is making progress in semiconductor technology to turn its manufacturing ambitions into reality, amid efforts to build domestic capabilities.",
+          "source": "Daily Pioneer",
+          "url": "https://dailypioneer.com/news/semiconductor-technology-turning-india-s-dream-to-reality"
         }
       ],
       "citations": [
         "https://techstartups.com/2026/03/23/top-tech-news-today-march-23-2026/",
-        "https://fortune.com/2026/03/23/anduril-breaks-in-to-the-pentagon-big-leagues/",
-        "https://techsoften.com/top-tech-news-monday-march-23-2026/",
-        "https://www.itbrew.com/stories/2026/03/23/linux-foundation-gets-funding-boost-from-big-tech",
-        "https://www.tipranks.com/news/3-best-tech-stocks-to-buy-this-week-3-23-2026-according-to-top-analysts"
+        "https://www.youtube.com/watch?v=-0Mk460p5eM",
+        "https://www.youtube.com/watch?v=-BYuU6Q6hWc",
+        "https://plus.nasa.gov/scheduled-video/ignition-nasas-plan-for-the-moon/",
+        "https://dailypioneer.com/news/semiconductor-technology-turning-india-s-dream-to-reality"
       ]
     }
   }
