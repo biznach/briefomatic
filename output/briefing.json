@@ -1,11 +1,163 @@
 {
-  "generated_at": "2026-03-25T06:25:15.649742+00:00",
-  "generated_at_human": "2026-03-25 06:25 UTC",
+  "generated_at": "2026-03-25T12:17:47.229168+00:00",
+  "generated_at_human": "2026-03-25 12:17 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/47512816.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-      "items": []
+      "category": "tech_ai_nerd",
+      "count": 25,
+      "items": [
+        {
+          "title": "Meta told to pay $375M for misleading users over child safety",
+          "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
+          "score": 112,
+          "comments": 42
+        },
+        {
+          "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
+          "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
+          "score": 65,
+          "comments": 50
+        },
+        {
+          "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+          "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+          "score": 213,
+          "comments": 49
+        },
+        {
+          "title": "Looking at Unity made me understand the point of C++ coroutines",
+          "url": "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/",
+          "score": 47,
+          "comments": 26
+        },
+        {
+          "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+          "url": "https://v-os.dev",
+          "score": 179,
+          "comments": 112
+        },
+        {
+          "title": "Goodbye to Sora",
+          "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+          "score": 784,
+          "comments": 574
+        },
+        {
+          "title": "Flighty Airports",
+          "url": "https://flighty.com/airports",
+          "score": 356,
+          "comments": 119
+        },
+        {
+          "title": "Why I forked httpx",
+          "url": "https://tildeweb.nl/~michiel/httpxyz.html",
+          "score": 132,
+          "comments": 81
+        },
+        {
+          "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+          "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+          "score": 452,
+          "comments": 91
+        },
+        {
+          "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+          "url": "https://spectrum.ieee.org/data-center-dc",
+          "score": 170,
+          "comments": 197
+        },
+        {
+          "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+          "url": "https://github.com/BerriAI/litellm/issues/24512",
+          "score": 730,
+          "comments": 437
+        },
+        {
+          "title": "Apple Business",
+          "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+          "score": 654,
+          "comments": 369
+        },
+        {
+          "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+          "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+          "score": 324,
+          "comments": 132
+        },
+        {
+          "title": "VNDB founder Yorhel has died",
+          "url": "https://vndb.org/t24787",
+          "score": 59,
+          "comments": 12
+        },
+        {
+          "title": "You can run a DNS server (2025)",
+          "url": "https://simonsafar.com/2025/running_dns/",
+          "score": 91,
+          "comments": 54
+        },
+        {
+          "title": "Arm AGI CPU",
+          "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+          "score": 359,
+          "comments": 270
+        },
+        {
+          "title": "Microbenchmarking Chipsets for Giggles",
+          "url": "https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles",
+          "score": 10,
+          "comments": 0
+        },
+        {
+          "title": "Fun with CSF firmware (RK3588 GPU firmware)",
+          "url": "https://icecream95.gitlab.io/fun-with-csf-firmware.html",
+          "score": 39,
+          "comments": 0
+        },
+        {
+          "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+          "url": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+          "score": 60,
+          "comments": 5
+        },
+        {
+          "title": "The Last Testaments of Richard II and Henry IV",
+          "url": "https://www.historytoday.com/archive/feature/last-testaments-richard-ii-and-henry-iv",
+          "score": 23,
+          "comments": 4
+        },
+        {
+          "title": "Algorithm Visualizer",
+          "url": "https://algorithm-visualizer.org/",
+          "score": 125,
+          "comments": 6
+        },
+        {
+          "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
+          "url": "https://www.emailmd.dev/",
+          "score": 315,
+          "comments": 81
+        },
+        {
+          "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+          "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+          "score": 1009,
+          "comments": 346
+        },
+        {
+          "title": "Why did the chicken cross the road?",
+          "url": "https://taylor.town/other-side",
+          "score": 24,
+          "comments": 6
+        },
+        {
+          "title": "A Compiler Writing Journey",
+          "url": "https://github.com/DoctorWkt/acwj",
+          "score": 88,
+          "comments": 9
+        }
+      ]
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -15,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 71209,
-          "change_24h": 1.25,
-          "change_7d": -4.01,
-          "market_cap": 1423973278693
+          "price": 71554,
+          "change_24h": 0.71,
+          "change_7d": -3.23,
+          "market_cap": 1436123029782
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2170.27,
-          "change_24h": 1.58,
-          "change_7d": -6.78,
-          "market_cap": 261717833146
+          "price": 2184.54,
+          "change_24h": 0.85,
+          "change_7d": -5.53,
+          "market_cap": 264547214642
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 92.49,
-          "change_24h": 2.38,
-          "change_7d": -1.78,
-          "market_cap": 52854223471
+          "price": 93.11,
+          "change_24h": 1.54,
+          "change_7d": -0.72,
+          "market_cap": 53285776002
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.096713,
-          "change_24h": 3.52,
-          "change_7d": -3.63,
-          "market_cap": 14835149506
+          "price": 0.097196,
+          "change_24h": 3.21,
+          "change_7d": -2.0,
+          "market_cap": 14918155665
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.268805,
-          "change_24h": 3.23,
-          "change_7d": -7.56,
-          "market_cap": 9899744484
+          "price": 0.274472,
+          "change_24h": 4.25,
+          "change_7d": -4.87,
+          "market_cap": 10100375026
         }
       ]
     },
@@ -60,19 +212,14 @@
       "count": 10,
       "items": [
         {
-          "name": "Siren",
-          "symbol": "SIREN",
-          "market_cap_rank": 54
+          "name": "Sun Token",
+          "symbol": "SUN",
+          "market_cap_rank": 124
         },
         {
           "name": "Bittensor",
           "symbol": "TAO",
-          "market_cap_rank": 33
-        },
-        {
-          "name": "Backpack",
-          "symbol": "BP",
-          "market_cap_rank": 456
+          "market_cap_rank": 32
         },
         {
           "name": "Pudgy Penguins",
@@ -80,9 +227,9 @@
           "market_cap_rank": 105
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Siren",
+          "symbol": "SIREN",
+          "market_cap_rank": 53
         },
         {
           "name": "Solana",
@@ -90,24 +237,29 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 14
-        },
-        {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 135
-        },
-        {
-          "name": "Dogecoin",
-          "symbol": "DOGE",
-          "market_cap_rank": 10
+          "name": "Backpack",
+          "symbol": "BP",
+          "market_cap_rank": 477
         },
         {
           "name": "Monad",
           "symbol": "MON",
-          "market_cap_rank": 146
+          "market_cap_rank": 143
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "Resolv USR",
+          "symbol": "USR",
+          "market_cap_rank": 425
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 14
         }
       ]
     },
@@ -119,8 +271,8 @@
       "count": 1,
       "items": [
         {
-          "title": "S&P 500 Closes Down 0.37% at 6,556.37 Amid Middle East Tensions",
-          "summary": "The S&P 500 declined 0.37% to finish at 6,556.37 on March 24, 2026, following a recovery on Monday. Stocks faced renewed pressure from escalating conflict in the Middle East.",
+          "title": "US Stock Markets Mixed on March 24 Amid Middle East Tensions",
+          "summary": "The Russell 2000 rose 0.45% to close at 2,505.44, while the Dow Jones Industrial Average fell 0.18% or 84 points to 46,124.06. Stocks declined after recovering on Monday due to renewed conflict in the Middle East.",
           "source": "TheStreet",
           "url": "https://www.thestreet.com/latest-news/stock-market-today-march-24-2026-updates"
         }
@@ -134,52 +286,35 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "Bitcoin Struggles as Safe Haven Amid Iran Conflict Extension",
-          "summary": "Bitcoin has dropped about 5% over the last eight days, trading near $70,000, failing its safe haven test as the Iran war enters its fourth week. Correlations with S&P 500 have risen to 2.6, marking it more as a risk-on asset.[4]",
-          "source": "Bloomberg TV",
-          "url": "https://www.youtube.com/watch?v=SDgZRFfcKO4"
+          "title": "New Bitcoin and Crypto ETFs Launched Amid Market Surge",
+          "summary": "Major developments include the launch of new Bitcoin ETFs and spot/index cryptocurrency ETFs, enhancing institutional access and legitimacy for major cryptocurrencies like Bitcoin and Ethereum. This is expected to intensify competition among ETFs and facilitate integration by banks and brokers.",
+          "source": "Sergey Tereshkin Publications",
+          "url": "https://sergeytereshkin.com/publications/cryptocurrency-news-march-25-2026-bitcoin-etfs-and-top-10-cryptocurrencies"
         },
         {
-          "title": "Morgan Stanley Files for Bitcoin ETF Under Ticker MSBT",
-          "summary": "Morgan Stanley has filed for a Bitcoin ETF, potentially becoming the first major bank to launch one if approved. This move signals growing institutional interest amid market volatility.[4]",
-          "source": "Bloomberg TV",
-          "url": "https://www.youtube.com/watch?v=SDgZRFfcKO4"
+          "title": "Ethereum's Value Shifts to Network Fundamentals",
+          "summary": "Ethereum's price is increasingly driven by DeFi activity, stablecoin turnover, tokenization of traditional assets, and competition from Layer 1 networks, reducing reliance on market narratives.",
+          "source": "Sergey Tereshkin Publications",
+          "url": "https://sergeytereshkin.com/publications/cryptocurrency-news-march-25-2026-bitcoin-etfs-and-top-10-cryptocurrencies"
         },
         {
-          "title": "Quantum Computing Poses Existential Threat to Bitcoin Cryptography",
-          "summary": "A report from Ark Invest and Unchained discusses 'Q Day' when quantum computers could crack Bitcoin's encryption, though post-quantum solutions are in development by Coinbase, Ethereum Foundation, and others. Scenarios range from decades away to nearer-term risks.[2]",
-          "source": "Coin Bureau",
-          "url": "https://www.youtube.com/watch?v=kLV2Cqsahbw"
+          "title": "Europe Advances Stablecoins and Tokenization Agenda",
+          "summary": "European discussions focus on stablecoins' growing role in international transfers, DeFi, and tokenized assets, positioning them as a core settlement layer and boosting infrastructural blockchains.",
+          "source": "Sergey Tereshkin Publications",
+          "url": "https://sergeytereshkin.com/publications/cryptocurrency-news-march-25-2026-bitcoin-etfs-and-top-10-cryptocurrencies"
         },
         {
-          "title": "MicroStrategy Plans Massive $42 Billion Bitcoin Purchase",
-          "summary": "MicroStrategy is reportedly planning to buy $42 billion worth of Bitcoin, likely by issuing more shares to raise funds. This follows previous acquisitions and aims to bolster its BTC holdings.[3]",
-          "source": "CryptosRUs",
-          "url": "https://www.youtube.com/watch?v=ew4nk3VJKq0"
-        },
-        {
-          "title": "Ethereum Sees Whale Accumulation Amid Buy Zone",
-          "summary": "Whales withdrew 54,000 ETH from Binance in the last two hours, with Ethereum hitting a historical buy zone as MVRV ratio drops. Bitcoin remains neutral around $72,600 resistance.[3]",
-          "source": "CryptosRUs",
-          "url": "https://www.youtube.com/watch?v=ew4nk3VJKq0"
-        },
-        {
-          "title": "Markets Volatile Due to US Ultimatum on Strait of Hormuz",
-          "summary": "Bitcoin and altcoins plunged following a US ultimatum demanding Iran free the Strait of Hormuz within 48 hours, amid threats to oil facilities; a short-term postponement led to some recovery. Fear & Greed Index signals buy opportunities.[5]",
-          "source": "DER AKTIONÄR TV",
-          "url": "https://www.youtube.com/watch?v=NwWoslQ2lHs"
+          "title": "Bitcoin Maintains Dominant Market Share as ETFs See Inflows",
+          "summary": "Ongoing inflows into cryptocurrency ETFs are supporting Bitcoin's high market capitalization share, with investors monitoring capital rotation into altcoins and regulatory developments in stablecoins.",
+          "source": "Sergey Tereshkin Publications",
+          "url": "https://sergeytereshkin.com/publications/cryptocurrency-news-march-25-2026-bitcoin-etfs-and-top-10-cryptocurrencies"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=QqvFBiUIdWE",
-        "https://www.youtube.com/watch?v=kLV2Cqsahbw",
-        "https://www.youtube.com/watch?v=ew4nk3VJKq0",
-        "https://www.youtube.com/watch?v=SDgZRFfcKO4",
-        "https://www.youtube.com/watch?v=NwWoslQ2lHs",
-        "https://www.youtube.com/watch?v=LqM-D9vXX0A"
+        "https://sergeytereshkin.com/publications/cryptocurrency-news-march-25-2026-bitcoin-etfs-and-top-10-cryptocurrencies"
       ]
     },
     "ai_news": {
@@ -190,46 +325,44 @@
       "count": 5,
       "items": [
         {
+          "title": "GCI and UK Met Office Host AI Climate Hackathon",
+          "summary": "The Wits Global Change Institute and UK Met Office hosted a week-long hackathon on March 25, 2026, to advance AI and machine learning in climate modeling. The event trained 30 participants from South African institutions to enhance regional expertise for real-world climate decisions.",
+          "source": "Wits University",
+          "url": "https://www.wits.ac.za/news/latest-news/research-news/2026/2026-03/gci-and-uk-met-office-host-ai-climate-hackathon-to-strengthen-modelling-expertise.html"
+        },
+        {
           "title": "Vertafore Wins AI Excellence Award for Insurance Innovation",
-          "summary": "Vertafore received the 2026 Artificial Intelligence Excellence Award from the Business Intelligence Group for its AI-powered tools that enhance insurance workflows, predict client churn, and automate data processes. The recognition highlights measurable outcomes in productivity and growth for agencies and carriers.",
+          "summary": "Vertafore was recognized by the Business Intelligence Group on March 25, 2026, as a top AI innovator for deploying AI tools that streamline insurance workflows, predict client churn, and boost productivity. The award highlights measurable outcomes from AI investments started in 2017.",
           "source": "Vertafore",
           "url": "https://www.vertafore.com/resources/press-releases/vertafore-recognized-ai-excellence-strategy-delivers-real-world-benefits"
         },
         {
-          "title": "DigitalOcean Powers Workato's AI Agents with NVIDIA GPUs",
-          "summary": "DigitalOcean announced that Workato’s AI Research Lab adopted its inference-optimized platform, achieving 67% lower costs, 67% higher throughput, and 77% faster response times for Llama-3.3-70B models. This supports development of next-generation enterprise AI agents.",
-          "source": "MarketNewsUpdates.com",
-          "url": "https://www.globenewswire.com/news-release/2026/03/24/3261328/0/en/AI-Revolution-Accelerates-Multi-Industry-Adoption-Driving-Explosive-Growth-Opportunity.html"
+          "title": "Concerns Rise Over AI Use in K-12 Education Harming Learning",
+          "summary": "A March 25, 2026, article warns that increasing AI use by teachers and students in K-12 education may harm long-term learning, with studies showing worse performance after AI dependency and parental concerns over weakened academic skills. Only 35% of districts provided AI training in 2025.",
+          "source": "Modern Sciences",
+          "url": "https://modernsciences.org/ai-risks-k12-education-students-teachers-march-2026/"
         },
         {
           "title": "CoreWeave Expands AI Cloud with NVIDIA HGX B300 at GTC",
-          "summary": "CoreWeave announced an expansion of its AI cloud platform at NVIDIA’s GTC conference, introducing NVIDIA HGX B300 for enhanced AI workload performance and new Weights & Biases tools for reinforcement learning and agent development.",
-          "source": "MarketNewsUpdates.com",
-          "url": "https://www.globenewswire.com/news-release/2026/03/24/3261328/0/en/AI-Revolution-Accelerates-Multi-Industry-Adoption-Driving-Explosive-Growth-Opportunity.html"
+          "summary": "CoreWeave announced on March 24, 2026, an expansion of its AI cloud platform featuring NVIDIA HGX B300 for enhanced AI workloads and new Weights & Biases tools for reinforcement learning. This follows multi-industry AI adoption driving U.S. markets past $40B.",
+          "source": "The National Law Review",
+          "url": "https://natlawreview.com/press-releases/ai-revolution-accelerates-multi-industry-adoption-driving-explosive-growth"
         },
         {
-          "title": "ACEDS Midwest Launches AI Series for Legal Practice Starting March 25",
-          "summary": "The ACEDS Midwest chapters announced a six-webinar series on Artificial Intelligence in Legal Practice, beginning March 25 with 'AI 101: Evolution, Capabilities, and the Road Ahead,' focusing on real-world AI tools and workflows in eDiscovery.",
-          "source": "eDiscovery Today",
-          "url": "https://ediscoverytoday.com/2026/03/24/aceds-midwest-ai-series-ediscovery-and-ai-webinars/"
-        },
-        {
-          "title": "van der Schaar Lab Releases White Paper on Creativity in Machine Learning",
-          "summary": "Prof. Mihaela van der Schaar's lab at Cambridge published a white paper arguing that true creativity in AI systems represents the next frontier, beyond scaling larger models.",
-          "source": "van der Schaar Lab",
-          "url": "https://www.vanderschaar-lab.com/creativity-in-ml/"
+          "title": "DigitalOcean Boosts Workato's AI Agent Development",
+          "summary": "DigitalOcean reported on March 24, 2026, that Workato's AI Research Lab achieved 67% lower inference costs, 67% higher throughput, and 77% faster response times using its NVIDIA Hopper GPU platform for Llama-3.3-70B models.",
+          "source": "The National Law Review",
+          "url": "https://natlawreview.com/press-releases/ai-revolution-accelerates-multi-industry-adoption-driving-explosive-growth"
         }
       ],
       "citations": [
-        "https://www.globenewswire.com/news-release/2026/03/24/3261328/0/en/AI-Revolution-Accelerates-Multi-Industry-Adoption-Driving-Explosive-Growth-Opportunity.html",
-        "https://www.cancernetwork.com/view/the-evolution-of-artificial-intelligence-in-oncology-impact-on-trials-workflows-and-outcomes",
-        "https://www.govinfosecurity.com/ai-takes-center-stage-at-rsac-conference-2026-a-31142",
-        "https://salve.edu/news/news-listing/can-ai-predict-next-breakout-nhl-star",
+        "https://www.edge-ai-vision.com/2026/03/2026-the-year-intelligence-gets-physical/",
+        "https://www.wits.ac.za/news/latest-news/research-news/2026/2026-03/gci-and-uk-met-office-host-ai-climate-hackathon-to-strengthen-modelling-expertise.html",
+        "https://natlawreview.com/press-releases/ai-revolution-accelerates-multi-industry-adoption-driving-explosive-growth",
         "https://www.vertafore.com/resources/press-releases/vertafore-recognized-ai-excellence-strategy-delivers-real-world-benefits",
-        "https://ediscoverytoday.com/2026/03/24/aceds-midwest-ai-series-ediscovery-and-ai-webinars/",
-        "https://www.vanderschaar-lab.com/creativity-in-ml/",
-        "https://richlyai.com/blog/measuring-goodharts-law-in-ai-optimization-ai-news/",
-        "https://www.eurasiareview.com/25032026-cities-should-use-ai-to-approve-building-permits-oped/"
+        "https://modernsciences.org/ai-risks-k12-education-students-teachers-march-2026/",
+        "https://www.interlakemecalux.com/logistics-articles/automating-front-office-using-ai",
+        "https://www.ecampusnews.com/ai-in-education/2026/03/25/creating-educational-value-in-a-world-of-ai/"
       ]
     },
     "gaming": {
@@ -237,22 +370,14 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 1,
-      "items": [
-        {
-          "title": "Pokémon Champions Release Date Announced",
-          "summary": "Pokémon Champions is set to release on Nintendo Switch and Nintendo Switch 2 on April 8, 2026. The announcement was made on March 24, 2026, highlighting upcoming video game content from The Pokémon Company.",
-          "source": "Pokemon.com",
-          "url": "https://www.pokemon.com/us/pokemon-news"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.pokemon.com/us/pokemon-news",
         "https://www.maxpreps.com/news/07n_OcqbRUuHkgxN9jTfKw/ben-husted-game-report-vs-mars.htm",
-        "https://cdcgaming.com/brief/washington-muckleshoot-casino-unveils-states-first-build-your-own-sauce-machine/",
         "https://combobreaker.org",
-        "https://calbears.com/news/2026/3/24/womens-water-polo-no-4-cal-heads-south-for-two-road-tests.aspx",
-        "https://hubison.com"
+        "https://www.cbs.com/shows/the_price_is_right/video/",
+        "https://forums.hfboards.com/threads/game-71-ottawa-detroit-3-24-2026-7pm-est.3025972/post-204649973",
+        "https://furmanpaladins.com/news/2026/3/24/womens-tennis-furman-sweeps-mercer-7-0-to-remain-unbeaten-in-socon-play.aspx"
       ]
     },
     "tech_news": {
@@ -260,36 +385,27 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "SpaceX Plans Largest IPO in US History",
-          "summary": "SpaceX is preparing to file for an IPO as early as this week, aiming to raise over $75 billion, which would potentially make it the largest IPO in US history.",
-          "source": "PA Newslab",
-          "url": "https://www.panewslab.com/en/articles/019d2270-9a5e-7080-bc8b-d17c422957ae"
+          "title": "AMD Launches Ryzen AI 400 Series Processors",
+          "summary": "AMD released the Ryzen AI 400 series on March 25, 2026, marking the first desktop processors designed for Microsoft Copilot+ with a triple-engine architecture including Zen 5 CPU, RDNA 3.5 graphics, and XDNA 2 NPU, supporting up to 60 NPU TOPS for local processing of large models.",
+          "source": "devflokers.com",
+          "url": "https://www.devflokers.com/blog/ai-news-last-24-hours-march-2026-fintech-impact"
         },
         {
-          "title": "Binance Futures Launches Stock Perpetual Contracts",
-          "summary": "Binance Futures will launch perpetual contracts for Meta, NVIDIA, and Alphabet stocks on March 26, 2026, with maximum leverage of 10x for each.",
-          "source": "PA Newslab",
-          "url": "https://www.panewslab.com/en/articles/019d2270-9a5e-7080-bc8b-d17c422957ae"
-        },
-        {
-          "title": "Coinbase Launches Impossible Cloud Network Trading Pair",
-          "summary": "Coinbase has launched spot trading for the Impossible Cloud Network (ICNT-USD) trading pair.",
-          "source": "PA Newslab",
-          "url": "https://www.panewslab.com/en/articles/019d2270-9a5e-7080-bc8b-d17c422957ae"
-        },
-        {
-          "title": "Philippines Declares National Energy Emergency",
-          "summary": "The Philippines has declared a national energy emergency, signaling significant concerns about the country's power supply.",
-          "source": "PA Newslab",
-          "url": "https://www.panewslab.com/en/articles/019d2270-9a5e-7080-bc8b-d17c422957ae"
+          "title": "Meta Reveals New Generations of Custom MTIA Chips",
+          "summary": "Meta announced four new generations of custom AI chips—MTIA 300, 400, 450, and 500—on March 11, 2026, with the MTIA 400 in internal testing offering competitive performance to reduce reliance on NVIDIA.",
+          "source": "devflokers.com",
+          "url": "https://www.devflokers.com/blog/ai-news-last-24-hours-march-2026-fintech-impact"
         }
       ],
       "citations": [
-        "https://www.panewslab.com/en/articles/019d2270-9a5e-7080-bc8b-d17c422957ae",
-        "https://www.youtube.com/watch?v=mIkWifQaBuc",
+        "https://www.devflokers.com/blog/ai-news-last-24-hours-march-2026-fintech-impact",
+        "https://www.pv-tech.org/race-to-july-2026-securing-your-pv-safe-harbour/",
+        "https://www.zacks.com/stock/news/2889077/gilead-strengthens-inflammation-portfolio-with-ouro-medicines-deal",
+        "https://www.cxnetwork.com/contact-center/articles/ai-and-customer-trust-reflections-from-ccw-2026-sydney",
+        "https://www.phocuswire.com/news/technology/ai-visibility-seo-geo-aeo-phocuswright-travel-marketing-ai-summit",
         "https://understandingwar.org/research/middle-east/iran-update-special-report-march-24-2026/"
       ]
     }
