@@ -1,163 +1,11 @@
 {
-  "generated_at": "2026-03-25T00:26:54.545023+00:00",
-  "generated_at_human": "2026-03-25 00:26 UTC",
+  "generated_at": "2026-03-25T06:25:15.649742+00:00",
+  "generated_at_human": "2026-03-25 06:25 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "category": "tech_ai_nerd",
-      "count": 25,
-      "items": [
-        {
-          "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-          "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
-          "score": 154,
-          "comments": 58
-        },
-        {
-          "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-          "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-          "score": 153,
-          "comments": 16
-        },
-        {
-          "title": "We’re saying goodbye to Sora",
-          "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-          "score": 244,
-          "comments": 186
-        },
-        {
-          "title": "Apple Business",
-          "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-          "score": 490,
-          "comments": 306
-        },
-        {
-          "title": "Arm AGI CPU",
-          "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-          "score": 264,
-          "comments": 205
-        },
-        {
-          "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-          "url": "https://github.com/BerriAI/litellm/issues/24512",
-          "score": 453,
-          "comments": 366
-        },
-        {
-          "title": "What happened to GEM?",
-          "url": "https://dfarq.homeip.net/whatever-happened-to-gem/",
-          "score": 31,
-          "comments": 5
-        },
-        {
-          "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-          "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-          "score": 618,
-          "comments": 219
-        },
-        {
-          "title": "Jury finds Meta liable in case over child sexual exploitation on its platforms",
-          "url": "https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation",
-          "score": 109,
-          "comments": 41
-        },
-        {
-          "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-          "url": "https://github.com/t8/hypura",
-          "score": 187,
-          "comments": 75
-        },
-        {
-          "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-          "url": "https://www.emailmd.dev/",
-          "score": 191,
-          "comments": 47
-        },
-        {
-          "title": "How the world’s first electric grid was built",
-          "url": "https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/",
-          "score": 46,
-          "comments": 9
-        },
-        {
-          "title": "Hypothesis, Antithesis, synthesis",
-          "url": "https://antithesis.com/blog/2026/hegel/",
-          "score": 191,
-          "comments": 80
-        },
-        {
-          "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
-          "url": "https://github.com/ssrajadh/sentrysearch",
-          "score": 231,
-          "comments": 66
-        },
-        {
-          "title": "Is anybody else bored of talking about AI?",
-          "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-          "score": 455,
-          "comments": 333
-        },
-        {
-          "title": "Missile defense is NP-complete",
-          "url": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
-          "score": 250,
-          "comments": 275
-        },
-        {
-          "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
-          "url": "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/",
-          "score": 238,
-          "comments": 394
-        },
-        {
-          "title": "Show HN: Gridland: make terminal apps that also run in the browser",
-          "url": "https://www.gridland.io/",
-          "score": 70,
-          "comments": 8
-        },
-        {
-          "title": "Lago (YC S21) Is Hiring",
-          "url": "https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link",
-          "score": 1,
-          "comments": 0
-        },
-        {
-          "title": "A Compiler Writing Journey",
-          "url": "https://github.com/DoctorWkt/acwj",
-          "score": 7,
-          "comments": 0
-        },
-        {
-          "title": "No Terms. No Conditions",
-          "url": "https://notermsnoconditions.com",
-          "score": 215,
-          "comments": 94
-        },
-        {
-          "title": "ARM AGI CPU: Specs and SKUs",
-          "url": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
-          "score": 91,
-          "comments": 25
-        },
-        {
-          "title": "Data Manipulation in Clojure Compared to R and Python",
-          "url": "https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html",
-          "score": 89,
-          "comments": 21
-        },
-        {
-          "title": "Show HN: I ran a language model on a PS2",
-          "url": "https://github.com/xaskasdf/ps2-llm",
-          "score": 7,
-          "comments": 5
-        },
-        {
-          "title": "GitHub is once again down",
-          "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
-          "score": 322,
-          "comments": 167
-        }
-      ]
+      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/47512816.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
+      "items": []
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -167,42 +15,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 70611,
-          "change_24h": -0.11,
-          "change_7d": -4.98,
-          "market_cap": 1411611373753
+          "price": 71209,
+          "change_24h": 1.25,
+          "change_7d": -4.01,
+          "market_cap": 1423973278693
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2154.55,
-          "change_24h": 0.62,
-          "change_7d": -7.51,
-          "market_cap": 260004719982
+          "price": 2170.27,
+          "change_24h": 1.58,
+          "change_7d": -6.78,
+          "market_cap": 261717833146
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 91.08,
-          "change_24h": -0.08,
-          "change_7d": -4.42,
-          "market_cap": 52107765457
+          "price": 92.49,
+          "change_24h": 2.38,
+          "change_7d": -1.78,
+          "market_cap": 52854223471
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.095067,
-          "change_24h": 1.24,
-          "change_7d": -5.77,
-          "market_cap": 14599186895
+          "price": 0.096713,
+          "change_24h": 3.52,
+          "change_7d": -3.63,
+          "market_cap": 14835149506
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.267129,
-          "change_24h": 2.46,
-          "change_7d": -8.3,
-          "market_cap": 9844673314
+          "price": 0.268805,
+          "change_24h": 3.23,
+          "change_7d": -7.56,
+          "market_cap": 9899744484
         }
       ]
     },
@@ -212,39 +60,24 @@
       "count": 10,
       "items": [
         {
+          "name": "Siren",
+          "symbol": "SIREN",
+          "market_cap_rank": 54
+        },
+        {
           "name": "Bittensor",
           "symbol": "TAO",
           "market_cap_rank": 33
         },
         {
-          "name": "τemplar",
-          "symbol": "SN3",
-          "market_cap_rank": 218
+          "name": "Backpack",
+          "symbol": "BP",
+          "market_cap_rank": 456
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 107
-        },
-        {
-          "name": "Backpack",
-          "symbol": "BP",
-          "market_cap_rank": 460
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
-          "name": "Siren",
-          "symbol": "SIREN",
-          "market_cap_rank": 83
+          "market_cap_rank": 105
         },
         {
           "name": "Bitcoin",
@@ -252,14 +85,29 @@
           "market_cap_rank": 1
         },
         {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
           "name": "Hyperliquid",
           "symbol": "HYPE",
           "market_cap_rank": 14
         },
         {
-          "name": "Artificial Superintelligence Alliance",
-          "symbol": "FET",
-          "market_cap_rank": 96
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 135
+        },
+        {
+          "name": "Dogecoin",
+          "symbol": "DOGE",
+          "market_cap_rank": 10
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 146
         }
       ]
     },
@@ -268,30 +116,17 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 1,
       "items": [
         {
-          "title": "Indian Sensex and Nifty Surge Over 1.8% in Strong Rebound",
-          "summary": "BSE Sensex rose 1,372 points or 1.89% to 74,068, while NSE Nifty gained 399 points or 1.78% to 22,912 amid broad buying. Indices expected to trade volatile with positive bias on March 25, targeting higher levels like 23,057 for Nifty.",
-          "source": "Goodreturns",
-          "url": "https://www.goodreturns.in/news/stock-market-outlook-today-25-march-2026-sensex-nifty-may-trade-firm-with-positive-bias-after-rally-1498249.html"
-        },
-        {
-          "title": "US Stocks Decline as Middle East Tensions Escalate Oil Prices",
-          "summary": "S&P 500 and Nasdaq each fell 0.5%, Dow dropped 340 points or 0.7% on March 24 amid US-Israel-Iran strikes. Stock futures steady while WTI crude surged 2.6% to $90.41 a barrel.",
-          "source": "CNBCTV18",
-          "url": "https://www.cnbctv18.com/market/us-stock-market-live-updates-dow-jones-nasdaq-sp500-iran-israel-war-trump-stock-futures-steady-while-oil-surges-amid-us-israel-iran-strikes-liveblog-ws-l-19874451.htm"
-        },
-        {
-          "title": "JPMorgan Flags US Grid Infrastructure as National Security Risk",
-          "summary": "JPMorgan warns ageing grid networks pose risks from weather and cyberattacks, urging investments in resilient infrastructure amid growing threats.",
-          "source": "CNBCTV18",
-          "url": "https://www.cnbctv18.com/market/us-stock-market-live-updates-dow-jones-nasdaq-sp500-iran-israel-war-trump-stock-futures-steady-while-oil-surges-amid-us-israel-iran-strikes-liveblog-ws-l-19874451.htm"
+          "title": "S&P 500 Closes Down 0.37% at 6,556.37 Amid Middle East Tensions",
+          "summary": "The S&P 500 declined 0.37% to finish at 6,556.37 on March 24, 2026, following a recovery on Monday. Stocks faced renewed pressure from escalating conflict in the Middle East.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/latest-news/stock-market-today-march-24-2026-updates"
         }
       ],
       "citations": [
-        "https://www.goodreturns.in/news/stock-market-outlook-today-25-march-2026-sensex-nifty-may-trade-firm-with-positive-bias-after-rally-1498249.html",
-        "https://www.cnbctv18.com/market/us-stock-market-live-updates-dow-jones-nasdaq-sp500-iran-israel-war-trump-stock-futures-steady-while-oil-surges-amid-us-israel-iran-strikes-liveblog-ws-l-19874451.htm"
+        "https://www.thestreet.com/latest-news/stock-market-today-march-24-2026-updates"
       ]
     },
     "crypto_news": {
@@ -299,41 +134,52 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "CLARITY Act Stablecoin Yield Compromise Text Released for Industry Review",
-          "summary": "Senators Thom Tillis and Angela Alsobrooks released draft language for a stablecoin yield compromise that unblocks the CLARITY Act. Crypto industry leaders reviewed the text in closed-door Capitol Hill meetings, with a Senate Banking Committee markup now targeted for the second half of April.",
-          "source": "FinTech Weekly",
-          "url": "https://www.fintechweekly.com/news/clarity-act-stablecoin-yield-text-activity-rewards-march-2026"
+          "title": "Bitcoin Struggles as Safe Haven Amid Iran Conflict Extension",
+          "summary": "Bitcoin has dropped about 5% over the last eight days, trading near $70,000, failing its safe haven test as the Iran war enters its fourth week. Correlations with S&P 500 have risen to 2.6, marking it more as a risk-on asset.[4]",
+          "source": "Bloomberg TV",
+          "url": "https://www.youtube.com/watch?v=SDgZRFfcKO4"
         },
         {
-          "title": "Public Launches Crypto Trading in IRAs",
-          "summary": "Public announced that crypto trading is now available in Traditional and Roth IRAs, allowing members to trade Bitcoin, Ethereum, Solana, and other cryptocurrencies with potential tax-deferred or tax-free earnings.",
-          "source": "Chainwire",
-          "url": "https://chainwire.org/2026/03/24/public-launches-crypto-trading-in-iras/"
+          "title": "Morgan Stanley Files for Bitcoin ETF Under Ticker MSBT",
+          "summary": "Morgan Stanley has filed for a Bitcoin ETF, potentially becoming the first major bank to launch one if approved. This move signals growing institutional interest amid market volatility.[4]",
+          "source": "Bloomberg TV",
+          "url": "https://www.youtube.com/watch?v=SDgZRFfcKO4"
         },
         {
-          "title": "Bitcoin Rallies Past $71,000 Amid Geopolitical Developments",
-          "summary": "Bitcoin surged past $71,000 on March 23 following Trump's announcement of a five-day pause on Iran strikes, with the broader crypto market recovering from earlier bearish pressure. Solana climbed nearly 10% in seven days to test $94, while XRP posted its strongest weekly gain since January.",
-          "source": "247 Wall St",
-          "url": "https://247wallst.com/investing/2026/03/24/we-asked-ai-to-pick-the-best-crypto-to-buy-right-now-xrp-bitcoin-or-solana/"
+          "title": "Quantum Computing Poses Existential Threat to Bitcoin Cryptography",
+          "summary": "A report from Ark Invest and Unchained discusses 'Q Day' when quantum computers could crack Bitcoin's encryption, though post-quantum solutions are in development by Coinbase, Ethereum Foundation, and others. Scenarios range from decades away to nearer-term risks.[2]",
+          "source": "Coin Bureau",
+          "url": "https://www.youtube.com/watch?v=kLV2Cqsahbw"
         },
         {
-          "title": "CFTC Issues Guidance on Digital Assets as Derivatives Collateral",
-          "summary": "The CFTC released frequently asked questions on how futures commission merchants and derivatives clearing organizations should handle digital assets as collateral, following its September 2025 proposal to allow tokenized collateral including BTC, ETH, and USDC.",
-          "source": "CoinGeek",
-          "url": "https://coingeek.com/us-senate-hypes-crypto-legislative-agreement-no-one-agreed-to-yet/"
+          "title": "MicroStrategy Plans Massive $42 Billion Bitcoin Purchase",
+          "summary": "MicroStrategy is reportedly planning to buy $42 billion worth of Bitcoin, likely by issuing more shares to raise funds. This follows previous acquisitions and aims to bolster its BTC holdings.[3]",
+          "source": "CryptosRUs",
+          "url": "https://www.youtube.com/watch?v=ew4nk3VJKq0"
+        },
+        {
+          "title": "Ethereum Sees Whale Accumulation Amid Buy Zone",
+          "summary": "Whales withdrew 54,000 ETH from Binance in the last two hours, with Ethereum hitting a historical buy zone as MVRV ratio drops. Bitcoin remains neutral around $72,600 resistance.[3]",
+          "source": "CryptosRUs",
+          "url": "https://www.youtube.com/watch?v=ew4nk3VJKq0"
+        },
+        {
+          "title": "Markets Volatile Due to US Ultimatum on Strait of Hormuz",
+          "summary": "Bitcoin and altcoins plunged following a US ultimatum demanding Iran free the Strait of Hormuz within 48 hours, amid threats to oil facilities; a short-term postponement led to some recovery. Fear & Greed Index signals buy opportunities.[5]",
+          "source": "DER AKTIONÄR TV",
+          "url": "https://www.youtube.com/watch?v=NwWoslQ2lHs"
         }
       ],
       "citations": [
-        "https://coingeek.com/us-senate-hypes-crypto-legislative-agreement-no-one-agreed-to-yet/",
-        "https://www.fintechweekly.com/news/clarity-act-stablecoin-yield-text-activity-rewards-march-2026",
-        "https://247wallst.com/investing/2026/03/24/we-asked-ai-to-pick-the-best-crypto-to-buy-right-now-xrp-bitcoin-or-solana/",
-        "https://www.chainup.com/blog/bitcoin-or-gold-wealth-preservation-2026-us-iran-conflict/",
-        "https://chainwire.org/2026/03/24/public-launches-crypto-trading-in-iras/",
-        "https://hubbis.com/news/hubbis-partners-with-independent-reserve-to-bring-you-weekly-crypto-news-and-market-trends-crypto-markets-under-pressure-as-fed-hawkishness-and-geopolitical-risks-drive-volatility-and-shifting-flows",
-        "https://www.f5.com/labs/articles/weekly-threat-bulletin-march-25th-2026"
+        "https://www.youtube.com/watch?v=QqvFBiUIdWE",
+        "https://www.youtube.com/watch?v=kLV2Cqsahbw",
+        "https://www.youtube.com/watch?v=ew4nk3VJKq0",
+        "https://www.youtube.com/watch?v=SDgZRFfcKO4",
+        "https://www.youtube.com/watch?v=NwWoslQ2lHs",
+        "https://www.youtube.com/watch?v=LqM-D9vXX0A"
       ]
     },
     "ai_news": {
@@ -341,38 +187,49 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "AI Revolution Accelerates with Multi-Industry Adoption Driving Explosive Growth",
-          "summary": "The AI market in the U.S. is valued at over $40 billion and projected to grow rapidly, with global segments expanding over 30% annually. DigitalOcean announced Workato's use of its AI platform for Llama-3.3-70B, achieving 67% lower inference costs and higher throughput; CoreWeave expanded with NVIDIA HGX B300 for AI workloads.",
-          "source": "GlobeNewswire",
+          "title": "Vertafore Wins AI Excellence Award for Insurance Innovation",
+          "summary": "Vertafore received the 2026 Artificial Intelligence Excellence Award from the Business Intelligence Group for its AI-powered tools that enhance insurance workflows, predict client churn, and automate data processes. The recognition highlights measurable outcomes in productivity and growth for agencies and carriers.",
+          "source": "Vertafore",
+          "url": "https://www.vertafore.com/resources/press-releases/vertafore-recognized-ai-excellence-strategy-delivers-real-world-benefits"
+        },
+        {
+          "title": "DigitalOcean Powers Workato's AI Agents with NVIDIA GPUs",
+          "summary": "DigitalOcean announced that Workato’s AI Research Lab adopted its inference-optimized platform, achieving 67% lower costs, 67% higher throughput, and 77% faster response times for Llama-3.3-70B models. This supports development of next-generation enterprise AI agents.",
+          "source": "MarketNewsUpdates.com",
           "url": "https://www.globenewswire.com/news-release/2026/03/24/3261328/0/en/AI-Revolution-Accelerates-Multi-Industry-Adoption-Driving-Explosive-Growth-Opportunity.html"
         },
         {
-          "title": "Wi-Fi's AI Era Begins with IEEE Approval of AI Offload Study Group",
-          "summary": "IEEE 802.11 approved an AI Offload Study Group to standardize Wi-Fi access points as edge AI compute nodes for offloading inference tasks from devices, reducing cloud latency. Qualcomm led the effort, with next steps at the May 2026 IEEE meeting.",
-          "source": "Ofinno",
-          "url": "https://ofinno.com/the-standards-readout-2/wi-fis-ai-era-begins-as-the-industry-charts-its-next-generation-march-2026-ieee-802-11-standards-readout/"
+          "title": "CoreWeave Expands AI Cloud with NVIDIA HGX B300 at GTC",
+          "summary": "CoreWeave announced an expansion of its AI cloud platform at NVIDIA’s GTC conference, introducing NVIDIA HGX B300 for enhanced AI workload performance and new Weights & Biases tools for reinforcement learning and agent development.",
+          "source": "MarketNewsUpdates.com",
+          "url": "https://www.globenewswire.com/news-release/2026/03/24/3261328/0/en/AI-Revolution-Accelerates-Multi-Industry-Adoption-Driving-Explosive-Growth-Opportunity.html"
         },
         {
-          "title": "AI Weekly Highlights Midjourney V8 Alpha, Microsoft MAI-Image-2, and Google AI Tools",
-          "summary": "AI-Weekly's March 24 issue covers key updates including Midjourney's V8 Alpha release, advancements in Microsoft's MAI-Image-2, and Google's new AI design tools.",
-          "source": "AI-Weekly",
-          "url": "https://ai-weekly.ai/newsletter-03-24-2026/"
+          "title": "ACEDS Midwest Launches AI Series for Legal Practice Starting March 25",
+          "summary": "The ACEDS Midwest chapters announced a six-webinar series on Artificial Intelligence in Legal Practice, beginning March 25 with 'AI 101: Evolution, Capabilities, and the Road Ahead,' focusing on real-world AI tools and workflows in eDiscovery.",
+          "source": "eDiscovery Today",
+          "url": "https://ediscoverytoday.com/2026/03/24/aceds-midwest-ai-series-ediscovery-and-ai-webinars/"
+        },
+        {
+          "title": "van der Schaar Lab Releases White Paper on Creativity in Machine Learning",
+          "summary": "Prof. Mihaela van der Schaar's lab at Cambridge published a white paper arguing that true creativity in AI systems represents the next frontier, beyond scaling larger models.",
+          "source": "van der Schaar Lab",
+          "url": "https://www.vanderschaar-lab.com/creativity-in-ml/"
         }
       ],
       "citations": [
-        "https://ai-weekly.ai/newsletter-03-24-2026/",
         "https://www.globenewswire.com/news-release/2026/03/24/3261328/0/en/AI-Revolution-Accelerates-Multi-Industry-Adoption-Driving-Explosive-Growth-Opportunity.html",
-        "https://ofinno.com/the-standards-readout-2/wi-fis-ai-era-begins-as-the-industry-charts-its-next-generation-march-2026-ieee-802-11-standards-readout/",
-        "https://natlawreview.com/press-releases/ai-agents-market-2026-transforming-enterprise-productivity-through",
-        "https://www.entrepreneur.com/leadership/3-ai-shifts-that-will-reshape-your-workplace-in-2026/501763",
-        "https://www.jedonline.com/2026/03/24/ftcn-replay-how-ai-is-rewriting-the-rules-of-ew/",
-        "https://unifuncs.com/s/KySBO8DH",
-        "https://www.govinfosecurity.com/cybersecurity-ma-surging-as-ai-reshapes-market-a-31153",
-        "https://www.databreachtoday.com/ai-takes-center-stage-at-rsac-conference-2026-a-31142",
-        "https://cas.appstate.edu/news/app-state-students-harness-artificial-intelligence-fight-glaucoma"
+        "https://www.cancernetwork.com/view/the-evolution-of-artificial-intelligence-in-oncology-impact-on-trials-workflows-and-outcomes",
+        "https://www.govinfosecurity.com/ai-takes-center-stage-at-rsac-conference-2026-a-31142",
+        "https://salve.edu/news/news-listing/can-ai-predict-next-breakout-nhl-star",
+        "https://www.vertafore.com/resources/press-releases/vertafore-recognized-ai-excellence-strategy-delivers-real-world-benefits",
+        "https://ediscoverytoday.com/2026/03/24/aceds-midwest-ai-series-ediscovery-and-ai-webinars/",
+        "https://www.vanderschaar-lab.com/creativity-in-ml/",
+        "https://richlyai.com/blog/measuring-goodharts-law-in-ai-optimization-ai-news/",
+        "https://www.eurasiareview.com/25032026-cities-should-use-ai-to-approve-building-permits-oped/"
       ]
     },
     "gaming": {
@@ -380,25 +237,22 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "title": "Pokémon Champions Releases on Nintendo Switch and Switch 2 on April 8, 2026",
-          "summary": "The Pokémon Company announced that Pokémon Champions will release on Nintendo Switch and Nintendo Switch 2 on April 8, 2026. This marks a significant upcoming game launch in the Pokémon series.",
-          "source": "Pokemon.com",
-          "url": "https://www.pokemon.com/us/pokemon-news"
-        },
-        {
-          "title": "Pokémon VGC Experts Preview London Event",
-          "summary": "Pokémon VGC experts discussed expected top decks and the thrilling Limited Meta format for the upcoming London competition. Coverage is available on official Pokémon Twitch and YouTube channels.",
+          "title": "Pokémon Champions Release Date Announced",
+          "summary": "Pokémon Champions is set to release on Nintendo Switch and Nintendo Switch 2 on April 8, 2026. The announcement was made on March 24, 2026, highlighting upcoming video game content from The Pokémon Company.",
           "source": "Pokemon.com",
           "url": "https://www.pokemon.com/us/pokemon-news"
         }
       ],
       "citations": [
         "https://www.pokemon.com/us/pokemon-news",
+        "https://www.maxpreps.com/news/07n_OcqbRUuHkgxN9jTfKw/ben-husted-game-report-vs-mars.htm",
         "https://cdcgaming.com/brief/washington-muckleshoot-casino-unveils-states-first-build-your-own-sauce-machine/",
-        "https://combobreaker.org"
+        "https://combobreaker.org",
+        "https://calbears.com/news/2026/3/24/womens-water-polo-no-4-cal-heads-south-for-two-road-tests.aspx",
+        "https://hubison.com"
       ]
     },
     "tech_news": {
@@ -406,10 +260,37 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 4,
+      "items": [
+        {
+          "title": "SpaceX Plans Largest IPO in US History",
+          "summary": "SpaceX is preparing to file for an IPO as early as this week, aiming to raise over $75 billion, which would potentially make it the largest IPO in US history.",
+          "source": "PA Newslab",
+          "url": "https://www.panewslab.com/en/articles/019d2270-9a5e-7080-bc8b-d17c422957ae"
+        },
+        {
+          "title": "Binance Futures Launches Stock Perpetual Contracts",
+          "summary": "Binance Futures will launch perpetual contracts for Meta, NVIDIA, and Alphabet stocks on March 26, 2026, with maximum leverage of 10x for each.",
+          "source": "PA Newslab",
+          "url": "https://www.panewslab.com/en/articles/019d2270-9a5e-7080-bc8b-d17c422957ae"
+        },
+        {
+          "title": "Coinbase Launches Impossible Cloud Network Trading Pair",
+          "summary": "Coinbase has launched spot trading for the Impossible Cloud Network (ICNT-USD) trading pair.",
+          "source": "PA Newslab",
+          "url": "https://www.panewslab.com/en/articles/019d2270-9a5e-7080-bc8b-d17c422957ae"
+        },
+        {
+          "title": "Philippines Declares National Energy Emergency",
+          "summary": "The Philippines has declared a national energy emergency, signaling significant concerns about the country's power supply.",
+          "source": "PA Newslab",
+          "url": "https://www.panewslab.com/en/articles/019d2270-9a5e-7080-bc8b-d17c422957ae"
+        }
+      ],
       "citations": [
-        "https://www.msadvocate.com/premium/newsusa/stories/scholars-program-aims-to-close-americas-tech-talent-gap,65045"
+        "https://www.panewslab.com/en/articles/019d2270-9a5e-7080-bc8b-d17c422957ae",
+        "https://www.youtube.com/watch?v=mIkWifQaBuc",
+        "https://understandingwar.org/research/middle-east/iran-update-special-report-march-24-2026/"
       ]
     }
   }
