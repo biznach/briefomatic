@@ -1,23 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-03-27 18:20 UTC*
+*Generated: 2026-03-28 00:26 UTC*
 
-1. **Market Overview**: Major US stock indexes closed lower on March 26, with the Nasdaq entering correction territory, amid escalating Middle East tensions. The Dow fell 1.06%, S&P 500 lost 0.97%, and Russell 2000 declined 1.15%. Bitcoin's price dropped to $66,587.39, down from $69,438 yesterday, while Ethereum traded at $1,988.69, down $84 from yesterday. 
+1. **Market Overview**: The S&P 500, Dow, and Nasdaq have posted weekly losses, marking the worst week since the Iran war began, with the S&P 500 falling 1.7% to 6,368.85, the Dow dropping 793 points to 45,166.64, and the Nasdaq sinking 2.1% to 20,948.36. In the crypto market, Bitcoin traded near $67,000 after breaching $68K support due to Middle East tensions and a $14 billion options expiry. Major cryptocurrencies such as Ethereum, Solana, Dogecoin, and Cardano have seen price drops, with Ethereum at $1990.08, Solana at $82.74, Dogecoin at $0.090063, and Cardano at $0.246103.
 
-2. **Tech & AI**: Luma AI launched the Uni-1 model, outscoring Google's Nano Banana 2 and OpenAI's GPT Image 1.5. MIT developed an AI system that boosts warehouse robot throughput by 25%. Washington Governor signed AI safety and transparency bills, including one requiring provenance data for generative AI media. 
+2. **Tech & AI**: Notable tech developments include the introduction of MAVAN, a U.S.-based staking platform for institutional Ether holdings, and the launch of LitVM Layer 2 testnet, enabling EVM-compatible smart contracts for DeFi on Litecoin. Additionally, there have been discussions on capability-based security for Redox and the future of SCIP. People inside Microsoft are also fighting to drop mandatory Microsoft Account requirements.
 
-3. **Gaming & Entertainment**: There were no significant gaming news in the provided data. However, Netflix raised prices for every subscription tier by up to 12.5 percent.
+3. **Gaming & Entertainment**: There is limited notable gaming news in the provided data. However, a project called Twitch Roulette has been mentioned, which helps find live streamers who need views the most.
 
 4. **Key Insights**:
-* The ongoing conflict in the Middle East is affecting global markets, with US stock indexes and cryptocurrency prices experiencing declines.
-* AI research is shifting towards world models for real-world understanding, with investment growing in simulating physical dynamics for robotics.
-* The use of AI is emerging as a driver of workforce inequality, with experienced AI users outperforming newcomers and widening productivity gaps.
-* China's open-source AI momentum is threatening the US position, creating a self-reinforcing global advantage.
-* Regulatory efforts are underway to ensure AI safety and transparency, with bills requiring provenance data for generative AI media.
+* The current market sentiment is bearish, with major indexes and cryptocurrencies experiencing losses.
+* Institutional investors are increasingly treating ETH staking as a bond-like yield strategy.
+* Regulatory clarity for cryptocurrencies such as Litecoin is boosting confidence in the market.
+* The introduction of new technologies and platforms, such as MAVAN and LitVM, is expanding the cryptocurrency and DeFi ecosystem.
+* Geopolitical tensions, particularly between the US and Iran, are impacting market movements.
 
 5. **Watch List**: 
-* Geopolitical developments in the Middle East and their impact on global markets.
-* The performance of Luma AI's Uni-1 model and its potential applications.
-* The growth of China's open-source AI and its implications for the global AI landscape.
-* Regulatory updates on AI safety and transparency, including the implementation of provenance data requirements.
-* The effects of AI on workforce inequality and potential solutions to address this issue.
+* Bitcoin and Ethereum price movements
+* Developments in the US-Iran conflict and its impact on global markets
+* Institutional adoption of cryptocurrencies, particularly ETH staking
+* Regulatory updates for major cryptocurrencies
+* The performance of newly launched platforms and technologies, such as MAVAN and LitVM.
