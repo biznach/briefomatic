@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T12:11:43.155090+00:00",
-  "generated_at_human": "2026-03-28 12:11 UTC",
+  "generated_at": "2026-03-28T18:09:34.506401+00:00",
+  "generated_at_human": "2026-03-28 18:09 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,34 +8,106 @@
       "count": 25,
       "items": [
         {
-          "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
-          "url": "https://github.com/J-x-Z/cocoa-way",
-          "score": 81,
-          "comments": 21
+          "title": "Founder of GitLab battles cancer by founding companies",
+          "url": "https://sytse.com/cancer/",
+          "score": 65,
+          "comments": 4
         },
         {
-          "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+          "title": "Linux is an interpreter",
+          "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+          "score": 39,
+          "comments": 1
+        },
+        {
+          "title": "AI overly affirms users asking for personal advice",
+          "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+          "score": 337,
+          "comments": 271
+        },
+        {
+          "title": "I decompiled the White House's new app",
+          "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+          "score": 142,
+          "comments": 43
+        },
+        {
+          "title": "I Built an Open-World Engine for the N64 [video]",
+          "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+          "score": 227,
+          "comments": 29
+        },
+        {
+          "title": "Spanish legislation as a Git repo",
+          "url": "https://github.com/EnriqueLop/legalize-es",
+          "score": 582,
+          "comments": 184
+        },
+        {
+          "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+          "url": "https://github.com/J-x-Z/cocoa-way",
+          "score": 226,
+          "comments": 74
+        },
+        {
+          "title": "rpg.actor Game Jam",
+          "url": "https://rpg.actor/jam",
+          "score": 15,
+          "comments": 0
+        },
+        {
+          "title": "CERN uses tiny AI models AI models on FPGAs for real-time LHC data filtering",
           "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-          "score": 122,
-          "comments": 64
+          "score": 239,
+          "comments": 117
+        },
+        {
+          "title": "C++26: A User-Friednly assert() macro",
+          "url": "https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert",
+          "score": 37,
+          "comments": 16
+        },
+        {
+          "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+          "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+          "score": 160,
+          "comments": 116
+        },
+        {
+          "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
+          "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
+          "score": 62,
+          "comments": 27
+        },
+        {
+          "title": "StationeryObject",
+          "url": "https://stationeryobject.com/archive/",
+          "score": 19,
+          "comments": 1
+        },
+        {
+          "title": "Circuit-level PDP-11/34 emulator",
+          "url": "https://github.com/dbrll/ll-34",
+          "score": 10,
+          "comments": 0
         },
         {
           "title": "Go hard on agents, not on your filesystem",
           "url": "https://jai.scs.stanford.edu/",
-          "score": 397,
-          "comments": 227
+          "score": 523,
+          "comments": 291
         },
         {
           "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
           "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-          "score": 190,
-          "comments": 96
+          "score": 258,
+          "comments": 137
         },
         {
-          "title": "Go Naming Conventions: A Practical Guide",
-          "url": "https://www.alexedwards.net/blog/go-naming-conventions",
-          "score": 20,
-          "comments": 6
+          "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+          "url": "https://github.com/dbrll/ATTN-11",
+          "score": 90,
+          "comments": 14
         },
         {
           "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
@@ -44,118 +116,46 @@
           "comments": 0
         },
         {
-          "title": "Make macOS consistently bad unironically",
-          "url": "https://lr0.org/blog/p/macos/",
-          "score": 433,
-          "comments": 314
-        },
-        {
-          "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
-          "url": "https://github.com/dbrll/ATTN-11",
-          "score": 13,
-          "comments": 0
+          "title": "A single-file C allocator with explicit heaps and tuning knobs",
+          "url": "https://github.com/xtellect/spaces",
+          "score": 49,
+          "comments": 34
         },
         {
           "title": "The bee that everyone wants to save",
           "url": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
-          "score": 130,
-          "comments": 38
+          "score": 215,
+          "comments": 73
         },
         {
-          "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
-          "url": "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html",
-          "score": 262,
-          "comments": 122
+          "title": "Make macOS consistently bad unironically",
+          "url": "https://lr0.org/blog/p/macos/",
+          "score": 484,
+          "comments": 331
         },
         {
-          "title": "Anatomy of the .claude/ folder",
-          "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-          "score": 507,
-          "comments": 228
-        },
-        {
-          "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
-          "url": "https://twitchroulette.net/",
-          "score": 137,
-          "comments": 69
-        },
-        {
-          "title": "Nashville library launches Memory Lab for digitizing home movies",
-          "url": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
-          "score": 154,
-          "comments": 38
-        },
-        {
-          "title": "Arm releases first in-house chip, with Meta as debut customer",
-          "url": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
-          "score": 28,
-          "comments": 8
-        },
-        {
-          "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
-          "url": "https://github.com/davidmonterocrespo24/velxio",
-          "score": 162,
-          "comments": 45
-        },
-        {
-          "title": "Treason in the Futures Markets",
-          "url": "https://paulkrugman.substack.com/p/treason-in-the-futures-markets",
-          "score": 68,
-          "comments": 33
-        },
-        {
-          "title": "Desperately Seeking Space Friends",
-          "url": "https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/",
-          "score": 16,
-          "comments": 1
-        },
-        {
-          "title": "‘Energy independence feels practical’: Europeans building mini solar farms",
-          "url": "https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho",
-          "score": 304,
-          "comments": 282
-        },
-        {
-          "title": "ISBN Visualization",
-          "url": "https://annas-archive.gd/isbn-visualization?",
-          "score": 180,
-          "comments": 29
-        },
-        {
-          "title": "Iran-linked hackers breach FBI director's personal email",
-          "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-          "score": 278,
-          "comments": 392
-        },
-        {
-          "title": "Meow.camera",
-          "url": "https://meow.camera/#4258783365322591678",
-          "score": 286,
-          "comments": 64
-        },
-        {
-          "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
-          "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-          "score": 220,
-          "comments": 52
-        },
-        {
-          "title": "No one is happy with NASA's new idea for private space stations",
-          "url": "https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/",
+          "title": "RSA and Python",
+          "url": "https://xnacly.me/posts/2023/rsa/",
           "score": 8,
-          "comments": 1
+          "comments": 2
         },
         {
-          "title": "Matadisco – Decentralized Data Discovery",
-          "url": "https://matadisco.org/",
-          "score": 20,
-          "comments": 3
+          "title": "Gerard of Cremona",
+          "url": "https://en.wikipedia.org/wiki/Gerard_of_Cremona",
+          "score": 22,
+          "comments": 11
         },
         {
-          "title": "Explore the Hidden World of Sand",
-          "url": "https://magnifiedsand.com/",
-          "score": 239,
-          "comments": 39
+          "title": "Go Naming Conventions: A Practical Guide",
+          "url": "https://www.alexedwards.net/blog/go-naming-conventions",
+          "score": 67,
+          "comments": 41
+        },
+        {
+          "title": "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
+          "url": "https://enlidea.com",
+          "score": 12,
+          "comments": 12
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 66294,
-          "change_24h": -0.55,
-          "change_7d": -6.08,
-          "market_cap": 1325904608446
+          "price": 66858,
+          "change_24h": 1.81,
+          "change_7d": -4.88,
+          "market_cap": 1336714227774
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1997.51,
-          "change_24h": 0.31,
-          "change_7d": -7.24,
-          "market_cap": 240925076458
+          "price": 2021.0,
+          "change_24h": 2.11,
+          "change_7d": -5.83,
+          "market_cap": 243910079652
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 82.86,
-          "change_24h": -0.5,
-          "change_7d": -7.87,
-          "market_cap": 47421956744
+          "price": 83.37,
+          "change_24h": 1.38,
+          "change_7d": -7.07,
+          "market_cap": 47718806872
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.091252,
-          "change_24h": 1.48,
-          "change_7d": -2.85,
-          "market_cap": 14015975528
+          "price": 0.09261,
+          "change_24h": 3.17,
+          "change_7d": -1.75,
+          "market_cap": 14200621488
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.24784,
-          "change_24h": 0.51,
-          "change_7d": -6.22,
-          "market_cap": 9136170862
+          "price": 0.250236,
+          "change_24h": 1.5,
+          "change_7d": -5.25,
+          "market_cap": 9221252097
         }
       ]
     },
@@ -212,14 +212,14 @@
       "count": 10,
       "items": [
         {
-          "name": "Rain",
-          "symbol": "RAIN",
-          "market_cap_rank": 27
+          "name": "Doge Strategy",
+          "symbol": "DOGESTR",
+          "market_cap_rank": 571
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 33
+          "name": "Rain",
+          "symbol": "RAIN",
+          "market_cap_rank": 25
         },
         {
           "name": "Bitcoin",
@@ -232,9 +232,9 @@
           "market_cap_rank": 61
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 107
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 35
         },
         {
           "name": "Hyperliquid",
@@ -242,24 +242,24 @@
           "market_cap_rank": 14
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 107
+        },
+        {
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 5
         },
         {
           "name": "Backpack",
           "symbol": "BP",
-          "market_cap_rank": 512
+          "market_cap_rank": 521
         },
         {
-          "name": "River",
-          "symbol": "RIVER",
-          "market_cap_rank": 130
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 149
+          "name": "POL (ex-MATIC)",
+          "symbol": "POL",
+          "market_cap_rank": 67
         }
       ]
     },
@@ -268,37 +268,42 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Dow Jones Enters Correction Territory Amid Iran War Tensions",
-          "summary": "The Dow Jones Industrial Average closed down 793 points (1.73%) on March 27, 2026, officially entering correction territory with a drop exceeding 10% from its February peak. The decline reflects escalating geopolitical tensions and investor concerns over the Iran conflict.",
-          "source": "Business Insider / Capital Street FX",
-          "url": "https://www.businessinsider.com/stock-market-sell-off-nasdaq-correction-dow-iran-war-sp500-2026-3"
+          "title": "Wall Street Closes Fifth Straight Losing Week Amid Iran War Tensions",
+          "summary": "The S&P 500 fell 1.7% to 6,368.85, Dow dropped 793 points (1.7%) to 45,166.64, and Nasdaq sank 2.1% to 20,948.36, marking the worst week since the Iran war began. Big Tech like Amazon (-4%), Meta (-4%), and Nvidia (-2.2%) weighed heavily, alongside consumer stocks such as Norwegian Cruise Line (-6.9%) and Starbucks (-4.8%).",
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2026-03-27/wall-street-drops-again-to-close-its-5th-straight-losing-week-its-worst-since-iran-war"
         },
         {
-          "title": "S&P 500 Breaches 200-Day Moving Average, Marks Fifth Consecutive Week of Losses",
-          "summary": "The S&P 500 closed at 6,477.16 on March 27, breaching below its 200-day moving average (~6,605) for the first time. The index has suffered five straight weeks of losses and is approaching correction territory, down from its January peak of nearly 6,980.",
-          "source": "Capital Street FX Research",
-          "url": "https://www.capitalstreetfx.com/global-index-market-analysis-march-27-2026/"
+          "title": "President Trump Extends Deadline on Iran Power Plants",
+          "summary": "Trump extended a deadline to 'obliterate' Iran's power plants to April 6 if Iran does not allow oil tankers to exit the Persian Gulf through the Strait of Hormuz. This followed market volatility tied to war hopes and oil disruptions.",
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2026-03-27/wall-street-drops-again-to-close-its-5th-straight-losing-week-its-worst-since-iran-war"
         },
         {
-          "title": "Nasdaq 100 Enters Correction as Tech Stocks Face Continued Pressure",
-          "summary": "The Nasdaq 100 has entered correction territory alongside the Dow, with tech stocks facing headwinds from a rotation out of AI stocks into value shares and a sharp sell-off in memory stocks.",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/stock-market-sell-off-nasdaq-correction-dow-iran-war-sp500-2026-3"
+          "title": "Global Markets React to Oil Shock and Geopolitical Tensions",
+          "summary": "Rising oil prices from geopolitical tensions caused market volatility across Asia, Europe, and the U.S., with stocks falling and investor caution increasing due to higher transportation costs, manufacturing expenses, and inflation pressures.",
+          "source": "Boston Institute of Analytics",
+          "url": "https://bostoninstituteofanalytics.org/blog/global-finance-weekly-march-22-28-2026-oil-shock-market-volatility/"
         },
         {
-          "title": "Oil Prices Surge to Highest Levels Since 2022 Amid Iran Conflict",
-          "summary": "Brent crude settled near $113 per barrel, the highest level since 2022, as investors grapple with uncertainty over potential peace negotiations and Trump's decision to postpone bombing Iran's energy infrastructure.",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/stock-market-sell-off-nasdaq-correction-dow-iran-war-sp500-2026-3"
+          "title": "Indian Markets Decline Sharply with Foreign Investor Exodus",
+          "summary": "Sensex and Nifty indices dropped significantly as foreign investors pulled out tens of thousands of crores from Indian markets in March amid oil price surges and global volatility.",
+          "source": "Boston Institute of Analytics",
+          "url": "https://bostoninstituteofanalytics.org/blog/global-finance-weekly-march-22-28-2026-oil-shock-market-volatility/"
+        },
+        {
+          "title": "Major Index Rebalancing Impacts Institutional Flows",
+          "summary": "Changes in major indices led to increased weights for some companies and reductions for others, triggering automatic money flows in or out of stocks by large institutional funds tracking these indices.",
+          "source": "Boston Institute of Analytics",
+          "url": "https://bostoninstituteofanalytics.org/blog/global-finance-weekly-march-22-28-2026-oil-shock-market-volatility/"
         }
       ],
       "citations": [
-        "https://www.businessinsider.com/stock-market-sell-off-nasdaq-correction-dow-iran-war-sp500-2026-3",
-        "https://www.capitalstreetfx.com/global-index-market-analysis-march-27-2026/",
-        "https://www.youtube.com/watch?v=SOoyeHBB-N4"
+        "https://www.latimes.com/business/story/2026-03-27/wall-street-drops-again-to-close-its-5th-straight-losing-week-its-worst-since-iran-war",
+        "https://bostoninstituteofanalytics.org/blog/global-finance-weekly-march-22-28-2026-oil-shock-market-volatility/"
       ]
     },
     "crypto_news": {
@@ -306,48 +311,39 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Bitcoin Drops to $66,000 Level Triggering $500 Million in Liquidations",
-          "summary": "Bitcoin's price fell 3-4% in the past 24 hours to around $66,000-$66,500, sparking over $500 million in liquidations amid extreme fear in the market (Fear & Greed Index at 13) and broader market capitulation.",
-          "source": "AInvest, FXLeaders, MEXC",
-          "url": "https://www.ainvest.com/news/bitcoin-drops-triggers-500-million-liquidations-market-uncertainty-grows-2603/"
+          "title": "Crypto Market Crashes: Bitcoin, XRP, Ethereum, Solana Down 6-8% Weekly Amid ETF Outflows and Options Expiry",
+          "summary": "Major cryptocurrencies including Bitcoin, XRP, Ethereum, and Solana experienced a 6-8% weekly drop driven by a $14.16 billion Bitcoin options expiry on Deribit, simultaneous ETF outflows for BTC, ETH, and SOL on March 26, and macroeconomic pressures like rising oil prices and Fed inflation forecasts. Bitcoin fell to $65,720 with over $451 million in liquidations.",
+          "source": "247wallst.com",
+          "url": "https://247wallst.com/investing/2026/03/28/why-is-crypto-crashing-bitcoin-xrp-ethereum-and-solana-all-down-this-week/"
         },
         {
-          "title": "Ethereum Slides to $1,990 Amid DeFi Decline and Network Concerns",
-          "summary": "Ethereum price dropped to approximately $1,990, down 7.5% over the past week, with DeFi TVL falling 3.1% to $48.2B and reduced Layer-2 activity pressuring fundamentals.",
-          "source": "Binance Square, MEXC, Fortune",
+          "title": "Clarity Act 2026 Divides Crypto Industry Over Stablecoin Yield Ban",
+          "summary": "The Clarity Act's proposed ban on stablecoin yields has split the crypto sector, with Coinbase opposing it due to impacts on 19% of its Q3 2025 revenue, while Tether and DeFi-native teams support or are unaffected by the activity-based yield carveout. Lawmakers face pressure as the bill's timeline tightens.",
+          "source": "coinpedia.org",
+          "url": "https://coinpedia.org/news/take-it-or-fight-it-clarity-act-has-crypto-divided-into-2-camps/"
+        },
+        {
+          "title": "Goldman Sachs Flags Crypto Market Bottom After 46% Decline in Linked Equities",
+          "summary": "Goldman Sachs research on March 26 suggests the crypto downturn may be nearing a cyclical low, with Bitcoin consolidating between $60,000-$75,000 and crypto-linked equities stabilizing after a 46% drop from October 2025 peaks. The firm recommends buys like Coinbase and Robinhood.",
+          "source": "tribuneindia.com",
+          "url": "https://www.tribuneindia.com/news/business/best-crypto-presale-in-march-2026-goldman-sachs-flags-a-crypto-bottom-and-deepsnitch-ai-is-the-presale-that-could-turn-500-into-50k-or-more/"
+        },
+        {
+          "title": "Bitcoin Hits $126K ATH in Late 2025 But Now Tests $60K-$75K Range in Macro Capitulation",
+          "summary": "Bitcoin, Ethereum, BNB, and Solana navigate a macro-driven pullback, with BTC range-bound at $60K-$75K post-$14B options expiry, ETH at $1,990 with record-low exchange reserves and 33% staked supply ahead of Glamsterdam upgrade, and BNB battling $90 support.",
+          "source": "binance.com",
           "url": "https://www.binance.com/en-IN/square/post/306263639121473"
-        },
-        {
-          "title": "Market Awaits Regulatory Signals as Bitcoin Maintains Dominance",
-          "summary": "Bitcoin holds dominance despite price pullback, with the market sensitive to upcoming U.S., U.K., EU, and Asia regulatory developments; stablecoins emerge as key infrastructure amid institutional focus.",
-          "source": "Sergey Tereshkin",
-          "url": "https://sergeytereshkin.com/publications/cryptocurrency-news-march-28-2026-bitcoin-regulation-institutional-demand"
-        },
-        {
-          "title": "LegacyCoin CTO Launches Crypto Ownership Solution for Asset Continuity",
-          "summary": "LegacyCoin CTO announced a new platform on March 28 for self-custody of digital assets with predefined on-chain transfer conditions, addressing long-term asset management challenges.",
-          "source": "GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/03/28/3264159/0/en/LegacyCoin-CTO-Announces-Launch-of-Crypto-Ownership-Solution-Focused-on-Digital-Asset-Continuity.html"
-        },
-        {
-          "title": "Morgan Stanley Enters Bitcoin ETF Market with Low 0.14% Fee",
-          "summary": "Morgan Stanley launched a Bitcoin ETF with a competitive 0.14% fee to attract institutional investors, even as Bitcoin faces volatility and miners shift to AI.",
-          "source": "FXLeaders",
-          "url": "https://www.fxleaders.com/news/2026/03/28/bitcoin-price-prediction-66000-support-braced-as-extreme-fear-grips-the-market/"
         }
       ],
       "citations": [
-        "https://sergeytereshkin.com/publications/cryptocurrency-news-march-28-2026-bitcoin-regulation-institutional-demand",
+        "https://247wallst.com/investing/2026/03/28/why-is-crypto-crashing-bitcoin-xrp-ethereum-and-solana-all-down-this-week/",
         "https://www.binance.com/en-IN/square/post/306263639121473",
-        "https://www.ainvest.com/news/bitcoin-drops-triggers-500-million-liquidations-market-uncertainty-grows-2603/",
-        "https://www.globenewswire.com/news-release/2026/03/28/3264159/0/en/LegacyCoin-CTO-Announces-Launch-of-Crypto-Ownership-Solution-Focused-on-Digital-Asset-Continuity.html",
-        "https://www.fxleaders.com/news/2026/03/28/bitcoin-price-prediction-66000-support-braced-as-extreme-fear-grips-the-market/",
-        "https://www.mexc.com/news/988666",
-        "https://fortune.com/article/price-of-bitcoin-03-27-2026/",
-        "https://www.youtube.com/watch?v=hV1hDOTbeIk"
+        "https://coinpedia.org/news/take-it-or-fight-it-clarity-act-has-crypto-divided-into-2-camps/",
+        "https://www.tribuneindia.com/news/business/best-crypto-presale-in-march-2026-goldman-sachs-flags-a-crypto-bottom-and-deepsnitch-ai-is-the-presale-that-could-turn-500-into-50k-or-more/",
+        "https://www.morningstar.com/news/accesswire/1152845msn/best-crypto-roth-ira-company-in-the-us-announced-2026-update"
       ]
     },
     "ai_news": {
@@ -355,41 +351,46 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Google Research Reveals AI Intelligence Emerges from Simulated Multi-Agent Interactions",
-          "summary": "Google researchers demonstrate that advanced reasoning models like DeepSeek-R1 and QwQ-32B exhibit 'societies of thought' through internal debates and multi-perspective interactions, challenging the idea of singular AI intelligence. This emergent behavior improves accuracy on hard reasoning tasks via reinforcement learning.",
+          "title": "OpenAI Prepares for Potential 2026 IPO Amid Sora Shutdown",
+          "summary": "OpenAI is transforming a 230-year-old company and gearing up for what could be the biggest tech IPO of 2026, while unexpectedly shutting down its Sora video generation tool to prioritize core language models. The move coincides with Meta facing legal challenges and industry shifts like SK hynix's U.S. listing and Anthropic's legal win against the Trump administration.",
+          "source": "YouTube - AI News March 28, 2026",
+          "url": "https://www.youtube.com/watch?v=ZmtnyMVqnC4"
+        },
+        {
+          "title": "Google Research: AI Intelligence Emerges from Simulated Multi-Agent Interactions",
+          "summary": "Google researchers reveal that advanced reasoning models like DeepSeek-R1 and QwQ-32B develop intelligence through internal 'societies of thought' involving debates and multi-perspective interactions, challenging the idea of singular AI minds. This emergent social reasoning process boosts accuracy on complex tasks via reinforcement learning.",
           "source": "Quantum Zeitgeist",
           "url": "https://quantumzeitgeist.com/google-ai-intelligence-research-emerges/"
         },
         {
-          "title": "CERN Deploys Tiny AI Models Burned into Silicon for Real-Time LHC Data Filtering",
-          "summary": "CERN is using extremely small, custom large language models physically integrated into silicon chips to filter massive data from the Large Hadron Collider in real-time, showcasing 'tiny AI' with minimal footprint for high-performance applications.",
-          "source": "Hacker News / CERN",
-          "url": "https://news.ycombinator.com/item?id=47552562"
+          "title": "AI Coding Boom Challenges Application Security Teams",
+          "summary": "The surge in AI-generated code is outpacing security reviews, shifting risks from individual lines to entire systems as development accelerates.",
+          "source": "GovInfoSecurity",
+          "url": "https://www.govinfosecurity.com/how-ai-coding-boom-rewriting-application-security-a-31265"
         },
         {
-          "title": "Google Updates Gemini Code Assist with Agent Mode and Enhanced Features",
-          "summary": "Google rolled out new features for Gemini Code Assist including agent mode with auto-approve, inline diff views, and improved context management to create tailored coding collaborators for developers.",
-          "source": "Midnight Signal AI / Google Developers Blog",
-          "url": "https://www.youtube.com/watch?v=khkuGQfIZJg"
+          "title": "AutoML Techniques Drive AI Innovation in 2026",
+          "summary": "Six cutting-edge AutoML techniques are automating model development, optimization, and scaling, with the market projected to reach USD 6.81 billion amid integration with generative AI for faster decision-making across industries.",
+          "source": "USAII AI Insights",
+          "url": "https://www.usaii.org/ai-insights/6-automl-techniques-powering-the-future-of-ai-in-2026"
         },
         {
-          "title": "No New AI Model Releases in Last 24 Hours",
-          "summary": "Tracking sites report no new large language model releases or major benchmark updates from leading labs like OpenAI, Anthropic, Google, or Meta in the past day.",
-          "source": "LLM Stats",
-          "url": "https://llm-stats.com/ai-news"
+          "title": "Investors Doubt Cybersecurity Growth Amid AI Expansion",
+          "summary": "Despite AI's rise, investors are questioning cybersecurity firms' growth prospects as the technology fails to spur significant budget increases.",
+          "source": "BankInfoSecurity",
+          "url": "https://www.bankinfosecurity.com/investors-question-cybersecurity-growth-in-ai-era-a-31225"
         }
       ],
       "citations": [
-        "https://aimagazine.com/news/top-five-stories-in-ai-march-28",
+        "https://www.youtube.com/watch?v=ZmtnyMVqnC4",
+        "https://www.govinfosecurity.com/how-ai-coding-boom-rewriting-application-security-a-31265",
         "https://quantumzeitgeist.com/google-ai-intelligence-research-emerges/",
-        "https://peoplesdispatch.org/2026/03/27/kill-chain-silicon-valley-ai-and-the-war-on-irankill-chain-how-silicon-valleys-ai-powers-the-war-on-iran/",
-        "https://richlyai.com/blog/smart-machine-learning-for-low-resource-settings-ai-news/",
-        "https://news.ycombinator.com/item?id=47552562",
-        "https://www.youtube.com/watch?v=khkuGQfIZJg",
-        "https://llm-stats.com/ai-news"
+        "https://news.unm.edu/news/tech-days-returns-to-unm-with-focus-on-artificial-intelligence-innovation",
+        "https://www.usaii.org/ai-insights/6-automl-techniques-powering-the-future-of-ai-in-2026",
+        "https://www.bankinfosecurity.com/investors-question-cybersecurity-growth-in-ai-era-a-31225"
       ]
     },
     "gaming": {
@@ -397,60 +398,55 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "GameStop Downgraded to 'Sell' by Wall Street Zen",
-          "summary": "Wall Street Zen downgraded GameStop from 'hold' to 'sell', citing concerns about the video game retailer's long-term viability as it struggles with digital downloads and online competition. The company reported a 27% revenue drop and 35% decline in earnings per share in its most recent quarter.",
+          "title": "Crimson Desert Faces AI Asset Controversy After 2M Sales",
+          "summary": "Crimson Desert sold 2 million copies but drew backlash for undisclosed AI-generated assets, prompting developers to admit the issue, audit content, and plan replacements via patches while improving transparency.",
+          "source": "Techdirt",
+          "url": "https://www.techdirt.com/2026/03/27/hey-game-devs-the-placeholder-assets-excuse-for-using-ai-is-running-really-thin/"
+        },
+        {
+          "title": "GameStop Stock Downgraded to 'Sell' Amid Declining Sales",
+          "summary": "Wall Street Zen downgraded GameStop from 'hold' to 'sell' due to a 27% revenue drop, 35% earnings decline, and struggles adapting to digital downloads and online retail shifts.",
           "source": "Dallas Today",
           "url": "https://nationaltoday.com/us/tx/dallas/news/2026/03/28/gamestop-downgraded-to-sell-by-wall-street-zen/"
         },
         {
-          "title": "Sony Raises PS5 Prices by $100 in US and £90 in UK",
-          "summary": "Sony announced a significant price increase for PlayStation 5, PS5 Pro, and PlayStation Portal devices effective April 2, 2026, citing continued pressures in the global economic landscape.",
-          "source": "Ada Derana",
-          "url": "http://www.adaderana.lk/demo1/news.php?nid=120352"
+          "title": "Nintendo Reportedly Planning New Starfox Game and Zelda Remake for Switch 2",
+          "summary": "Industry insider NatetheHate claims Nintendo is developing a new Starfox title and Zelda remake targeted for Nintendo Switch 2 release in 2026.",
+          "source": "Playday.one",
+          "url": "https://playday.one/2026/03/28/nintendo-plan-a-new-starfox-game-and-a-zelda-remake-for-2026-per-new-report/"
         },
         {
-          "title": "Mega Cat Studios Releases 'God of War: Sons of Sparta'",
-          "summary": "Pittsburgh-based Mega Cat Studios released God of War: Sons of Sparta, a retro 2D Metroidvania-style prequel on PS5 as part of the franchise's 20th anniversary celebration. The project involved a 400-person development team across multiple international locations.",
+          "title": "Mega Cat Studios Releases God of War: Sons of Sparta",
+          "summary": "Pittsburgh-based Mega Cat Studios launched God of War: Sons of Sparta, a 2D Metroidvania-style prequel to the franchise, digitally on PS5 as part of the series' 20th anniversary, developed by a 400-person global team.",
           "source": "The Star",
           "url": "https://www.thestar.com.my/tech/tech-news/2026/03/28/coming-of-age-mega-cat-studios-releases-new-039god-of-war039-video-game"
         },
         {
-          "title": "Ayaneo Warns of Price Hikes and Production Changes for Handheld Consoles",
-          "summary": "Ayaneo announced upcoming price increases for multiple handheld console models due to rising memory component costs, with some models facing temporary discontinuation. The Pocket S Mini promotion offering a free Pocket AIR Mini ends April 1, 2026.",
-          "source": "IXBT Games",
-          "url": "https://ixbt.games/en/news/2026/03/28/ayaneo-predupredila-o-skorom-podorozanii-portativnyx-konsolei-i-priostanovke-proizvodstva-riada-modelei.html"
+          "title": "YouTuber Votesaxon07 Found Guilty in Livestream Lie Case",
+          "summary": "YouTube gamer Votesaxon07 was found guilty in a case involving a 'livestream lie,' as covered in FOX on Games industry analysis.",
+          "source": "FOX News Radio",
+          "url": "https://radio.foxnews.com/2026/03/28/fox-on-games-video-game-news-industry-analysis-the-livestream-lie-youtuber-votesaxon07-found-guilty/"
         },
         {
-          "title": "CookieRun: NewWorld Announced as 3D Open-World RPG for 2029",
-          "summary": "Devsisters announced CookieRun: NewWorld during DevNow 2026 Showcase, an ambitious 3D open-world RPG launching in 2029. The company also released CookieRun: OvenSmash and announced new content for existing CookieRun titles.",
-          "source": "Game8",
-          "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-22-to-mar-28"
-        },
-        {
-          "title": "Industry Veterans John and Brenda Romero Warn of Gaming Crisis",
-          "summary": "Legendary game developers John and Brenda Romero stated that the gaming industry is 'in a really horrible place,' comparing current conditions to the 1980s crash and citing massive project cancellations, studio closures, and widespread layoffs.",
-          "source": "Gamereactor",
-          "url": "https://www.gamereactor.eu/john-and-brenda-romero-the-game-industrys-in-a-really-horrible-place-1698693/"
-        },
-        {
-          "title": "Brie Larson Calls for Hollywood to Learn from Gaming Industry",
-          "summary": "Actress Brie Larson stated that the film and television industry should draw inspiration from video games, noting that gaming audiences now surpass film and television audiences in scale.",
-          "source": "IXBT Games",
-          "url": "https://ixbt.games/en/news/2026/03/28/407566-bri-larson-gollivud-obiazan-ucitsia-u-igrovoi-industrii.html"
+          "title": "New Turn-Based RPG Fix-a-Bug Launches Today",
+          "summary": "Fix-a-Bug, a pixelated roguelite RPG with procedurally generated mazes, traps, puzzles, and turn-based combat, is now available as a new release on March 28, 2026.",
+          "source": "TurnBasedLovers",
+          "url": "https://turnbasedlovers.com/news/new-turn-based-rpgs-to-play-march-28-2026/"
         }
       ],
       "citations": [
-        "https://nationaltoday.com/us/tx/dallas/news/2026/03/28/gamestop-downgraded-to-sell-by-wall-street-zen/",
-        "https://ixbt.games/en/news/2026/03/28/407566-bri-larson-gollivud-obiazan-ucitsia-u-igrovoi-industrii.html",
-        "https://www.thestar.com.my/tech/tech-news/2026/03/28/coming-of-age-mega-cat-studios-releases-new-039god-of-war039-video-game",
-        "https://www.youtube.com/watch?v=stUvW3DexhY",
-        "https://ixbt.games/en/news/2026/03/28/ayaneo-predupredila-o-skorom-podorozanii-portativnyx-konsolei-i-priostanovke-proizvodstva-riada-modelei.html",
+        "https://www.techdirt.com/2026/03/27/hey-game-devs-the-placeholder-assets-excuse-for-using-ai-is-running-really-thin/",
+        "https://radio.foxnews.com/2026/03/28/fox-on-games-video-game-news-industry-analysis-the-livestream-lie-youtuber-votesaxon07-found-guilty/",
+        "https://turnbasedlovers.com/news/new-turn-based-rpgs-to-play-march-28-2026/",
+        "https://playday.one/2026/03/28/nintendo-plan-a-new-starfox-game-and-a-zelda-remake-for-2026-per-new-report/",
+        "https://www.twingalaxies.com/newsDetails/6872",
         "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-mar-22-to-mar-28",
-        "https://www.gamereactor.eu/john-and-brenda-romero-the-game-industrys-in-a-really-horrible-place-1698693/",
-        "http://www.adaderana.lk/demo1/news.php?nid=120352"
+        "https://www.thestar.com.my/tech/tech-news/2026/03/28/coming-of-age-mega-cat-studios-releases-new-039god-of-war039-video-game",
+        "https://www.youtube.com/watch?v=g3SpkBxg720",
+        "https://nationaltoday.com/us/tx/dallas/news/2026/03/28/gamestop-downgraded-to-sell-by-wall-street-zen/"
       ]
     },
     "tech_news": {
@@ -458,40 +454,15 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "US Bans Non-American Wi-Fi Routers Over Security Concerns",
-          "summary": "The Trump administration has banned new non-US-made Wi-Fi routers, citing supply chain vulnerabilities and cybersecurity risks. The FCC stated that foreign routers could potentially be used to spy on US citizens.",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-the-landmark-social-media-addiction-trial-to-more-netflix-price-hikes"
-        },
-        {
-          "title": "DJI Avata 360 Drone Emerges as New Market Leader",
-          "summary": "The DJI Avata 360 has been tested and deemed superior to previous frontrunner models, offering greater agility, versatility, 10-bit image quality, and a more affordable price point.",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-the-landmark-social-media-addiction-trial-to-more-netflix-price-hikes"
-        },
-        {
-          "title": "iOS 26.4 Introduces Age Verification for UK Users",
-          "summary": "Apple's latest iOS update includes age verification checks for UK users, marking a notable shift in the company's approach to user verification and age-gating features.",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-the-landmark-social-media-addiction-trial-to-more-netflix-price-hikes"
-        },
-        {
-          "title": "Sonos Play Speaker Receives Positive Reviews",
-          "summary": "The Sonos Play speaker has been tested and received favorable reviews from tech reviewers, establishing itself as a notable product in the audio market.",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-the-landmark-social-media-addiction-trial-to-more-netflix-price-hikes"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
         "https://technologymagazine.com/news/top-five-stories-in-technology-march-28-2026",
-        "https://www.ans.org/news/article-7886/tech-giants-and-nuclear-leaders-make-news-at-ceraweek/",
-        "https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-the-landmark-social-media-addiction-trial-to-more-netflix-price-hikes",
-        "https://fortune.com/2026/03/27/apple-cofounder-steve-wozniak-ai-use-analog-apple-50-years/",
-        "https://www.wuft.org/2026-03-28/trump-wants-a-deadlocked-congress-to-move-on-ai-frustrated-states-say-they-already-have?_amp=true",
-        "https://www.businessinsider.com/memory-stock-sell-off-micron-ai-stocks-analyst-pick-bofa-2026-3"
+        "https://techsoften.com/top-tech-news-saturday-march-28-2026/",
+        "https://www.globenewswire.com/news-release/2026/03/28/3264177/0/en/Is-the-AI-Boom-Built-on-a-House-of-Cards-Jim-Rickards-Thinks-So-And-He-s-Sounding-the-Alarm.html",
+        "https://sergeytereshkin.com/publications/startup-investment-news-ai-defense-tech-ipo-window-march-28-2026",
+        "https://techsoften.com/daily-tech-digest-saturday-march-28-2026/",
+        "https://podcasts.apple.com/us/podcast/why-openai-killed-sora-did-apple-just-save-siri-metas/id1522960417?i=1000757820604"
       ]
     }
   }
