@@ -1,23 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-03-29 06:26 UTC*
+*Generated: 2026-03-29 12:11 UTC*
 
-1. **Market Overview**: The Nasdaq has entered a correction phase, with a decline of over 7% in the past 24 hours. The S&P 500 and Dow Jones have also posted significant declines, with the S&P 500 dropping 1.74% and the Dow Jones falling 469 points. In the crypto market, Bitcoin has surged past $67,000 with a 1.36% gain, while Ethereum has dropped below $2,000 with a 1.48% decline. 
+Here is your executive briefing:
 
-2. **Tech & AI**: Google has released a suite of Gemini-powered developer tools, including integrations with LlamaParse and MediaPipe. DeepMind has introduced the Gemini API developer skill for AI agents, which boosts agent performance to 96.6% task success. Additionally, there have been notable developments in open-source projects, such as OpenYak, a coworking platform that runs any model and owns your filesystem.
+1. **Market Overview**: The cryptocurrency market has seen significant movements, with Bitcoin holding steady despite corrections, and Ethereum and Solana declining from historical highs. The macro markets have been quiet, with no major index movements or Fed/central bank news reported in the past 24 hours. The top 5 cryptocurrencies by market capitalization are Bitcoin, Ethereum, Solana, Dogecoin, and Cardano, with prices ranging from $66,737 to $0.09.
 
-3. **Gaming & Entertainment**: A developer has built an open-world engine for the N64, and there is an open-source rewrite of Civ1 called OpenCiv1. These projects demonstrate the ongoing interest in retro gaming and open-source game development.
+2. **Tech & AI**: Google DeepMind has released Gemini 3, surpassing OpenAI in key benchmarks. Feishu and DingTalk have open-sourced their CLI tools for AI agents. GM is using generative AI to accelerate concept car design. Prominent figures have declared 2026 as the year of AI agents, signaling a major industry trend toward agentic AI systems.
 
-4. **Key Insights**: 
-* The current market correction may present opportunities for investors to rebalance their portfolios.
-* The integration of AI-powered tools, such as Gemini, can enhance developer productivity and agent performance.
-* Open-source projects, such as OpenYak and OpenCiv1, can drive innovation and community engagement.
-* Regulatory developments, such as South Korea's mandate for solar panels in public parking lots, can impact the growth of renewable energy and related industries.
-* The rise of tokenization and stablecoins may change the way we think about financial infrastructure and asset ownership.
+3. **Gaming & Entertainment**: Sony has confirmed a €100 price hike for the PS5 in Europe starting April 2, attributed to AI-driven memory chip shortages. PUBG: Blindspot has shut down servers after less than two months. Other notable gaming news includes updates on game releases, announcements, esports, and industry developments.
+
+4. **Key Insights**:
+* The cryptocurrency market is experiencing corrections, with Bitcoin remaining a key indicator of market health.
+* AI is becoming increasingly integrated into various industries, including car design and gaming.
+* The year 2026 is being declared as the year of AI agents, signaling a major industry trend.
+* The gaming industry is facing pressures due to AI-driven memory chip shortages.
+* Generative AI is being used to accelerate concept car design, enabling real-time aerodynamic testing.
 
 5. **Watch List**: 
-* Market trends: Monitor the ongoing correction in the stock market and the potential impact on investor sentiment.
-* AI developments: Keep an eye on the adoption of Gemini-powered tools and the development of new AI models.
-* Regulatory updates: Track changes in regulations, such as those related to cryptocurrency and renewable energy.
-* Earnings reports: Watch for upcoming earnings reports from major companies and their potential impact on the market.
-* Cryptocurrency prices: Monitor the prices of major cryptocurrencies, such as Bitcoin and Ethereum, for signs of stability or volatility.
+* Cryptocurrency market movements and regulatory news
+* AI model releases and benchmark updates
+* Gaming industry developments and esports news
+* Integration of AI into various industries
+* Impact of AI-driven memory chip shortages on the gaming industry
