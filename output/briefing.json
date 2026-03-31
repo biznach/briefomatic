@@ -1,11 +1,163 @@
 {
-  "generated_at": "2026-03-30T18:21:08.446095+00:00",
-  "generated_at_human": "2026-03-30 18:21 UTC",
+  "generated_at": "2026-03-31T00:29:12.430560+00:00",
+  "generated_at_human": "2026-03-31 00:29 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/47575616.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-      "items": []
+      "category": "tech_ai_nerd",
+      "count": 25,
+      "items": [
+        {
+          "title": "Fedware: Government apps that spy harder than the apps they ban",
+          "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+          "score": 361,
+          "comments": 113
+        },
+        {
+          "title": "Android Developer Verification",
+          "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+          "score": 89,
+          "comments": 67
+        },
+        {
+          "title": "Do your own writing",
+          "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+          "score": 321,
+          "comments": 99
+        },
+        {
+          "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+          "url": "https://anishathalye.com/macbook-touchscreen/",
+          "score": 165,
+          "comments": 74
+        },
+        {
+          "title": "Learn Claude Code by doing, not reading",
+          "url": "https://claude.nagdy.me/",
+          "score": 112,
+          "comments": 70
+        },
+        {
+          "title": "How to turn anything into a router",
+          "url": "https://nbailey.ca/post/router/",
+          "score": 563,
+          "comments": 204
+        },
+        {
+          "title": "Agents of Chaos",
+          "url": "https://agentsofchaos.baulab.info/report.html",
+          "score": 57,
+          "comments": 4
+        },
+        {
+          "title": "Bird brains (2023)",
+          "url": "https://www.dhanishsemar.com/writing/bird-brains",
+          "score": 287,
+          "comments": 181
+        },
+        {
+          "title": "Cherri – programming language that compiles to an Apple Shortuct",
+          "url": "https://github.com/electrikmilk/cherri",
+          "score": 236,
+          "comments": 46
+        },
+        {
+          "title": "Researchers find 3,500-year-old loom that reveals textile revolution",
+          "url": "https://web.ua.es/en/actualidad-universitaria/2026/marzo2026/23-31/ua-researchers-find-3-500-year-old-loom-that-reveals-key-aspects-of-textile-revolution-in-the-bronze-age.html",
+          "score": 64,
+          "comments": 5
+        },
+        {
+          "title": "Roulette Computers: Hidden Devices That Predict Spins",
+          "url": "https://www.roulette-computers.com/",
+          "score": 55,
+          "comments": 15
+        },
+        {
+          "title": "Why I'm betting on ATProto (and why you should, too)",
+          "url": "https://brittanyellich.com/atproto/",
+          "score": 32,
+          "comments": 13
+        },
+        {
+          "title": "Seeing Like a Spreadsheet",
+          "url": "https://davidoks.blog/p/how-the-spreadsheet-reshaped-america",
+          "score": 62,
+          "comments": 23
+        },
+        {
+          "title": "William Blake, Remote by the Sea",
+          "url": "https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea",
+          "score": 48,
+          "comments": 1
+        },
+        {
+          "title": "CodingFont: A game to help you pick a coding font",
+          "url": "https://www.codingfont.com/",
+          "score": 294,
+          "comments": 170
+        },
+        {
+          "title": "Recover Apple Keychain",
+          "url": "https://arkoinad.com/posts/apple_keychain_recovery.html",
+          "score": 51,
+          "comments": 15
+        },
+        {
+          "title": "Show HN: Coasts – Containerized Hosts for Agents",
+          "url": "https://github.com/coast-guard/coasts",
+          "score": 52,
+          "comments": 20
+        },
+        {
+          "title": "IronGlass Brings Legendary Soviet Cinema Lenses to Mirrorless Cameras",
+          "url": "https://petapixel.com/2026/02/19/ironglass-brings-legendary-soviet-cinema-lenses-to-mirrorless-cameras/",
+          "score": 17,
+          "comments": 7
+        },
+        {
+          "title": "A sea of sparks: Seeing radioactivity",
+          "url": "https://maurycyz.com/projects/spinthariscope/",
+          "score": 46,
+          "comments": 16
+        },
+        {
+          "title": "In math, rigor is vital, but are digitized proofs taking it too far?",
+          "url": "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/",
+          "score": 98,
+          "comments": 84
+        },
+        {
+          "title": "I am definitely missing the pre-AI writing era",
+          "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+          "score": 248,
+          "comments": 194
+        },
+        {
+          "title": "Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop",
+          "url": "https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/",
+          "score": 5,
+          "comments": 2
+        },
+        {
+          "title": "Build123d: A Python CAD programming library",
+          "url": "https://github.com/gumyr/build123d",
+          "score": 114,
+          "comments": 45
+        },
+        {
+          "title": "Mathematical methods and human thought in the age of AI",
+          "url": "https://arxiv.org/abs/2603.26524",
+          "score": 190,
+          "comments": 75
+        },
+        {
+          "title": "The Digital Leviathan",
+          "url": "https://brownstone.org/articles/the-digital-leviathan/",
+          "score": 8,
+          "comments": 1
+        }
+      ]
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -15,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 66745,
-          "change_24h": 0.63,
-          "change_7d": -5.38,
-          "market_cap": 1335480741838
+          "price": 66722,
+          "change_24h": 0.17,
+          "change_7d": -5.7,
+          "market_cap": 1332897507321
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2039.06,
-          "change_24h": 2.41,
-          "change_7d": -4.48,
-          "market_cap": 245974731073
+          "price": 2023.73,
+          "change_24h": 0.79,
+          "change_7d": -6.01,
+          "market_cap": 243978963956
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 83.0,
-          "change_24h": 1.8,
-          "change_7d": -8.08,
-          "market_cap": 47588071726
+          "price": 82.3,
+          "change_24h": 0.05,
+          "change_7d": -10.05,
+          "market_cap": 47123075080
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.091239,
-          "change_24h": 0.94,
-          "change_7d": -2.84,
-          "market_cap": 14019474114
+          "price": 0.090707,
+          "change_24h": -0.8,
+          "change_7d": -3.79,
+          "market_cap": 13920340654
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.245215,
-          "change_24h": 1.69,
-          "change_7d": -6.04,
-          "market_cap": 9057278824
+          "price": 0.243925,
+          "change_24h": 0.41,
+          "change_7d": -6.73,
+          "market_cap": 8981150948
         }
       ]
     },
@@ -60,34 +212,24 @@
       "count": 10,
       "items": [
         {
-          "name": "Based",
-          "symbol": "BASED",
-          "market_cap_rank": 657
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
-        },
-        {
-          "name": "Backpack",
-          "symbol": "BP",
-          "market_cap_rank": 510
-        },
-        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
           "market_cap_rank": 109
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 147
+          "name": "Based",
+          "symbol": "BASED",
+          "market_cap_rank": 642
         },
         {
-          "name": "Aave",
-          "symbol": "AAVE",
-          "market_cap_rank": 52
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 34
         },
         {
           "name": "Bitcoin",
@@ -95,19 +237,29 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 35
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 16
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 58
         },
         {
-          "name": "Siren",
-          "symbol": "SIREN",
-          "market_cap_rank": 60
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 148
+        },
+        {
+          "name": "River",
+          "symbol": "RIVER",
+          "market_cap_rank": 121
+        },
+        {
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 32
         }
       ]
     },
@@ -119,40 +271,41 @@
       "count": 5,
       "items": [
         {
-          "title": "US Major Indices Plunge to Multi-Month Lows Amid Geopolitical Tensions and Rising Oil Prices",
-          "summary": "The S&P 500 fell 1.7% to 6,368.85, Dow Jones dropped 1.7% to 45,166.64, and Nasdaq Composite lost 2.2% to 20,948.36, all hitting multi-month lows due to escalating Iran tensions and oil-driven inflation risks. VIX surged above 30, signaling heightened volatility.",
-          "source": "Saxo Bank",
-          "url": "https://www.home.saxo/content/articles/macro/market-quick-take---30-march-2026-30032026"
+          "title": "US Stock Markets Fall Amid Iran War Uncertainty and Rising Oil Prices",
+          "summary": "Major US stock indexes declined on Monday as oil prices surged past $100 per barrel due to uncertainty about the Iran conflict. The S&P 500 fell 0.4% to 6,343.72, the Nasdaq dropped 0.7% to 20,794.64, while the Dow edged up 0.1% to 45,216.14. Year-to-date, the S&P 500 is down 7.3%, the Nasdaq down 10.5%.",
+          "source": "Barchart.com",
+          "url": "https://www.barchart.com/story/news/1048580/how-major-us-stock-indexes-fared-monday-3-30-2026"
         },
         {
-          "title": "Tech and Financial Stocks Lead Market Declines; Nvidia Down 2.2%, Amazon Drops 4%",
-          "summary": "Megacap tech stocks like Nvidia (-2.2%) and Amazon (-4.0%) faced pressure, while Carnival cut its annual profit outlook (-4.3%) and Goldman Sachs slipped 2.4%, dragging financials lower amid broader equity weakness.",
-          "source": "Saxo Bank",
-          "url": "https://www.home.saxo/content/articles/macro/market-quick-take---30-march-2026-30032026"
+          "title": "Oil Prices Reach Highest Levels Since July 2022",
+          "summary": "West Texas Intermediate crude surged 3.25% to $102.88 per barrel, its highest close since July 2022, while Brent crude rose to $112.78 per barrel. Oil is on track for a 55% monthly increase amid geopolitical tensions.",
+          "source": "Sharecafe",
+          "url": "https://www.sharecafe.com.au/2026/03/31/us-markets-mixed-as-oil-rises-asx-set-to-open-higher/"
         },
         {
-          "title": "Trump Suggests US Seizure of Iran's Oil Exports as Markets Enter Correction Territory",
-          "summary": "President Trump stated preference to 'take the oil' from Iran, potentially targeting Kharg Island, amid ongoing war; Nasdaq and Dow fell into correction territory, with S&P 500 also losing ground and Russell 2000 deepening its correction.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/investing/stocks/stock-market-today-mar-30-2026-updates"
+          "title": "Federal Reserve Chair Powell Signals Inflation Expectations Remain Anchored",
+          "summary": "Fed Chair Jerome Powell stated that inflation expectations remain 'well anchored beyond the short term' and that the central bank is not yet facing decisions on policy changes. The 10-year Treasury yield fell 9 basis points to 4.35% following his comments.",
+          "source": "Sharecafe",
+          "url": "https://www.sharecafe.com.au/2026/03/31/us-markets-mixed-as-oil-rises-asx-set-to-open-higher/"
         },
         {
-          "title": "Asian Markets Mixed Ahead of Sharp Monday Weakness on Geopolitical Escalation",
-          "summary": "Japan’s Nikkei 225 fell 0.4% to 53,373.07, South Korea’s Kospi slipped 0.4% to 5,300.61, while Hong Kong’s Hang Seng rose 0.4% to 24,951.88 and China’s CSI 300 gained 0.6% to 4,502.57 before broader declines.",
-          "source": "Saxo Bank",
-          "url": "https://www.home.saxo/content/articles/macro/market-quick-take---30-march-2026-30032026"
+          "title": "Blackstone Closes Record $6.3 Billion Life Sciences Fund",
+          "summary": "Blackstone announced the final close of a record $6.3 billion life sciences fund, the largest private vehicle dedicated to the sector, signaling strong institutional demand for specialized allocations.",
+          "source": "StockTitan",
+          "url": "https://www.stocktitan.net/news/2026-03-30/"
         },
         {
-          "title": "Weekly Losses: S&P 500 Down Over 2%, Nasdaq Over 3% as Volatility Persists",
-          "summary": "Major US indices recorded weekly declines with S&P 500 down over 2% to 6,368, Dow about 1% to 45,166, and Nasdaq over 3%, driven primarily by geopolitics and energy prices rather than company news.",
-          "source": "Oak Harvest Financial Group",
-          "url": "https://oakharvestfg.com/weekly_market_updates/weekend-update-march-30th-2026/"
+          "title": "TJX Companies Announces 13% Dividend Increase",
+          "summary": "The TJX Companies announced a 13% increase in common stock dividend on Monday.",
+          "source": "StockTitan",
+          "url": "https://www.stocktitan.net/news/2026-03-30/"
         }
       ],
       "citations": [
-        "https://www.home.saxo/content/articles/macro/market-quick-take---30-march-2026-30032026",
-        "https://www.thestreet.com/investing/stocks/stock-market-today-mar-30-2026-updates",
-        "https://oakharvestfg.com/weekly_market_updates/weekend-update-march-30th-2026/"
+        "https://www.barchart.com/story/news/1048580/how-major-us-stock-indexes-fared-monday-3-30-2026",
+        "https://www.theepochtimes.com/bright/how-major-us-stock-indexes-fared-march-30-post-6005859",
+        "https://www.sharecafe.com.au/2026/03/31/us-markets-mixed-as-oil-rises-asx-set-to-open-higher/",
+        "https://www.stocktitan.net/news/2026-03-30/"
       ]
     },
     "crypto_news": {
@@ -160,31 +313,38 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Ethereum Price Surges to $2,070.90 with $70 Daily Gain",
-          "summary": "Ethereum (ETH) reached $2,070.90 at 8:45 a.m. ET on March 30, 2026, marking a $70.70 increase from yesterday and over 80% gains earlier in the year despite volatility.[1]",
+          "title": "Ethereum Price Rises to $2,070.90 with $70 Daily Gain",
+          "summary": "Ethereum surged $70.70 to $2,070.90 by 8:45 a.m. ET on March 30, 2026, marking a notable increase from yesterday's $2,000.20 amid volatile yearly swings of over 80% gains and 60% drops.[1]",
           "source": "Fortune",
           "url": "https://fortune.com/article/price-of-ethereum-03-30-2026/"
         },
         {
-          "title": "Bitcoin Climbs to $67,822.72, Up $1,026 from Yesterday",
-          "summary": "Bitcoin (BTC) hit $67,822.72 at 8:45 a.m. ET on March 30, 2026, reflecting a $1,026.71 daily rise, though down from last year's peak amid ongoing market swings.[2]",
-          "source": "Fortune",
-          "url": "https://fortune.com/article/price-of-bitcoin-03-30-2026/"
+          "title": "Bitcoin Climbs 1.33% to $67,334 on Institutional Accumulation",
+          "summary": "Bitcoin rose 1.33% over the past 24 hours to $67,334 on March 30, 2026, driven by large wallets (1,000-10,000 BTC) adding $3.16 billion worth, signaling institutional interest despite regulatory hurdles from SEC custody guidance.[2]",
+          "source": "MEXC",
+          "url": "https://www.mexc.com/news/992412"
         },
         {
-          "title": "Cryptocurrency Funds Pro-Russia Drone Purchases on Blockchains",
-          "summary": "Pro-Russia groups raised millions in crypto across blockchains to buy UAVs and parts; blockchain analysis reveals sanctioned suppliers like KB Vostok and state-adjacent networks.[3]",
-          "source": "Chainalysis",
-          "url": "https://www.chainalysis.com/blog/cryptocurrency-drones-research/"
+          "title": "Bitcoin Briefly Crashes Below $68K, Testing $65K Support",
+          "summary": "Bitcoin dipped below $68,000 and tested mid-$65,000 levels before rebounding on March 30, 2026, with focus on March close after five straight monthly losses through February.[3]",
+          "source": "Invezz",
+          "url": "https://invezz.com/news/2026/03/30/bitcoin-crashes-below-68k-is-6-month-bearish-streak-coming/"
+        },
+        {
+          "title": "Crypto Investors Urged to Ensure Tax Compliance Before March 31 Deadline",
+          "summary": "As the March 31 financial year-end nears, crypto investors must follow structured tax compliance rules to avoid issues, with clear guidelines now established.[4]",
+          "source": "A2Z Taxcorp",
+          "url": "https://a2ztaxcorp.net/how-crypto-investors-can-stay-tax-compliant-before-march-31-deadline/"
         }
       ],
       "citations": [
         "https://fortune.com/article/price-of-ethereum-03-30-2026/",
-        "https://fortune.com/article/price-of-bitcoin-03-30-2026/",
-        "https://www.chainalysis.com/blog/cryptocurrency-drones-research/"
+        "https://www.mexc.com/news/992412",
+        "https://invezz.com/news/2026/03/30/bitcoin-crashes-below-68k-is-6-month-bearish-streak-coming/",
+        "https://a2ztaxcorp.net/how-crypto-investors-can-stay-tax-compliant-before-march-31-deadline/"
       ]
     },
     "ai_news": {
@@ -192,40 +352,15 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "U.S. Intelligence Elevates Quantum Computing to Same Threat Level as AI",
-          "summary": "The 2026 Annual Threat Assessment treats quantum computing as a major national security challenge on par with AI, highlighting both as defining technological threats to U.S. security.",
-          "source": "Homeland Security Today",
-          "url": "https://www.hstoday.us/subject-matter-areas/cybersecurity/u-s-intelligence-puts-quantum-on-par-with-ai-expands-threat-definition/"
-        },
-        {
-          "title": "FPT Wins AI & Machine Learning Innovation Award for iSuite Platform",
-          "summary": "FPT Software received the AI & Machine Learning Innovation Award at the 2026 InsurInnovator Connect Asia Awards for iSuite, an AI-native digital insurance platform that automates claims, boosts straight-through processing to over 70%, and enhances fraud detection.",
-          "source": "FPT Software",
-          "url": "https://fptsoftware.com/newsroom/news-and-press-releases/press-release/fpt-wins-ai-and-machine-learning-innovation-award-at-2026-insurinnovator-connect-asia-awards"
-        },
-        {
-          "title": "Nvidia CEO Jensen Huang Claims AGI Has Been Achieved Amid Ongoing Debate",
-          "summary": "Nvidia's Jensen Huang stated on a podcast that artificial general intelligence (AGI) has already been achieved, sparking debate; Google DeepMind's new cognitive taxonomy paper reveals current AI models like GPT-5 score only 57% on AGI benchmarks, with a $200,000 contest launched for better evaluations.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/03/30/agi-definition-jensen-huang-lex-fridman-deepmind-turing-text-cognitive-taxonomy/"
-        },
-        {
-          "title": "AI Adoption Gap Widens Between U.S. and Europe, Boosting U.S. Productivity",
-          "summary": "43% of U.S. workers use AI in 2026 compared to 32% in Europe, contributing to 3.2 percentage points of additional U.S. productivity growth since 2022 and exacerbating the transatlantic productivity divide.",
-          "source": "St. Louis Fed",
-          "url": "https://www.stlouisfed.org/on-the-economy/2026/mar/mind-gap-ai-adoption-europe-us"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.hstoday.us/subject-matter-areas/cybersecurity/u-s-intelligence-puts-quantum-on-par-with-ai-expands-threat-definition/",
-        "https://fptsoftware.com/newsroom/news-and-press-releases/press-release/fpt-wins-ai-and-machine-learning-innovation-award-at-2026-insurinnovator-connect-asia-awards",
-        "https://www.manufacturingdive.com/spons/smart-manufacturing-has-an-ai-problem-just-not-the-one-you-think/815507/",
-        "https://fortune.com/2026/03/30/agi-definition-jensen-huang-lex-fridman-deepmind-turing-text-cognitive-taxonomy/",
-        "https://www.stlouisfed.org/on-the-economy/2026/mar/mind-gap-ai-adoption-europe-us",
-        "https://www.knapp.com/en/insights/blog/ai-trends-logistics-2026/"
+        "https://www.seriousinsights.net/state-of-ai-2026-march-update/",
+        "https://radicaldatascience.wordpress.com/2026/03/30/ai-news-briefs-bulletin-board-for-march-2026/",
+        "https://www.govinfosecurity.com/how-ai-based-red-teaming-agents-reduce-cyber-risk-a-31213",
+        "https://rsisinternational.org/journals/ijrsi/view/ai-bias-and-its-implications-for-the-hiring-process-lending-and-consumer-analytics-in-the-usa-2",
+        "https://techreg.org/article/view/23722/27713",
+        "https://www.cuinfosecurity.com/dignity-by-design-should-help-shape-ai-risk-strategy-a-31212"
       ]
     },
     "gaming": {
@@ -233,11 +368,47 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 5,
+      "items": [
+        {
+          "title": "Super Meat Boy 3D Launches Today on Xbox Game Pass and Multiple Platforms",
+          "summary": "Super Meat Boy 3D, the full 3D evolution of the iconic hardcore platformer, releases on March 31, 2026, for Xbox Series X|S (day one on Game Pass), PS5, and PC. Announced during the Xbox Partner Preview, it promises precision platforming with high difficulty in 3D environments.[1][2]",
+          "source": "G2A News / DLCompare",
+          "url": "https://www.g2a.com/news/game-spotlights/super-meat-boy-3d-release-date-launching-march-31-on-xbox-game-pass/"
+        },
+        {
+          "title": "Busy Wave of Game Releases on March 31 Including Tombwater and RACCOIN",
+          "summary": "March 31, 2026, features multiple launches like atmospheric indie Tombwater, roguelike coin pusher RACCOIN, and racing expansion Project Motor Racing: Japanese GT500 Pack, highlighting indie variety and genre experimentation.[2][3]",
+          "source": "DLCompare / YouTube Indie Gaming This Week",
+          "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-march-april-2026-week-14"
+        },
+        {
+          "title": "Legacy of Kain: Ascendance Releases Across Consoles and PC",
+          "summary": "Legacy of Kain: Ascendance, a fast-paced 2D action game, launches on March 31, 2026, for PS5, Xbox Series X|S, Switch, Switch 2, and PC, reviving the classic series.[4]",
+          "source": "Instant Gaming News",
+          "url": "https://news.instant-gaming.com/en/articles/18785-this-week-s-releases-from-march-30-to-april-5-2026"
+        },
+        {
+          "title": "Tom Clancy's The Division Activates Year 10 Content on March 31",
+          "summary": "Ubisoft reveals activation date for Tom Clancy's The Division's 10th anniversary content on March 31, 2026, marking a major milestone for the looter-shooter franchise.[5]",
+          "source": "Ubisoft",
+          "url": "https://www.ubisoft.com/en-sg/news/ignt.58623/launch-date-reveal"
+        },
+        {
+          "title": "Indie Highlights This Week: Xenonauts 2, Truck Mechanic, and More",
+          "summary": "Indie releases from March 30-April 5 include Xenonauts 2, Truck Mechanic: Dangerous Paths, Voodoo Fishin', and others, with a big cluster on March 31 and potential April Fool's surprises.[3]",
+          "source": "YouTube - Indie Gaming This Week",
+          "url": "https://www.youtube.com/watch?v=6rBshvm1Xkw"
+        }
+      ],
       "citations": [
-        "https://www.animenewsnetwork.com/news/2026-03-30/animejapan-reports-record-attendance-in-2026/.235945",
-        "https://www.ncaa.com/news/basketball-women/article/2026-03-29/2026-march-madness-womens-ncaa-tournament-schedule-dates-times"
+        "https://www.g2a.com/news/game-spotlights/super-meat-boy-3d-release-date-launching-march-31-on-xbox-game-pass/",
+        "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-march-april-2026-week-14",
+        "https://www.youtube.com/watch?v=6rBshvm1Xkw",
+        "https://news.instant-gaming.com/en/articles/18785-this-week-s-releases-from-march-30-to-april-5-2026",
+        "https://www.ubisoft.com/en-sg/news/ignt.58623/launch-date-reveal",
+        "https://www.youtube.com/watch?v=B_SJlU97LAg",
+        "https://gamerant.com/game/name-that-game-2026-03-31/"
       ]
     },
     "tech_news": {
@@ -245,47 +416,40 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Indian Air Force Launches Project Vayu Baan, India's First Helicopter-Launched Drone System",
-          "summary": "The Indian Air Force initiated Project Vayu Baan, India's inaugural helicopter-launched Unmanned Aerial System (UAS) for surveillance and precision strikes, led by the IAF Directorate of Aerospace Design with an RFP issued in March 2026. The system features EO/IR sensors, real-time video transmission, and resilience against GPS jamming, positioning India alongside the US and China in air-launched drone technology.[2]",
-          "source": "Guidely.in",
-          "url": "https://guidely.in/current-affairs/daily-current-affairs-29-30-march-2026"
+          "title": "Lumentum Announces New Laser Factory in Greensboro, North Carolina",
+          "summary": "Lumentum, based in San Jose, California, will build a new manufacturing facility in Greensboro, North Carolina, to produce lasers for large AI computers. This is part of major US manufacturing expansions announced this week.",
+          "source": "aiagentstore.ai",
+          "url": "https://aiagentstore.ai/ai-agent-news/topic/manufacturing/2026-03-31/detailed"
         },
         {
-          "title": "SK Hynix Plans US Stock Listing Amid Semiconductor Pressures",
-          "summary": "South Korean chipmaker SK Hynix is set to pursue a US listing, as highlighted in emerging markets updates, while facing short-term challenges from Google's TurboQuant technology impacting Asian semiconductor firms like Samsung and SK Hynix.[3]",
-          "source": "Emerging Markets Skeptic",
-          "url": "https://emergingmarketskeptic.substack.com/p/emerging-markets-week-march-30-2026"
+          "title": "Tesla and SpaceX Launch Terafab AI Chip Factory Project in Austin, Texas",
+          "summary": "Elon Musk's Tesla and SpaceX are developing Terafab, a massive factory in Austin, Texas, dedicated to manufacturing AI computer chips, highlighting cross-industry shifts into chip production.",
+          "source": "aiagentstore.ai",
+          "url": "https://aiagentstore.ai/ai-agent-news/topic/manufacturing/2026-03-31/detailed"
         },
         {
-          "title": "Indian Railways Launches SHINE App for Workplace Safety",
-          "summary": "Indian Railways introduced the SHINE app on March 8, 2026, to enhance workplace safety and empower women employees, marking a key initiative for a secure work environment.[2]",
-          "source": "Guidely.in",
-          "url": "https://guidely.in/current-affairs/daily-current-affairs-29-30-march-2026"
+          "title": "Sysco Completes $2.9 Billion Acquisition of Jetro",
+          "summary": "Sysco has sealed a $2.9 billion mega-deal to acquire Jetro, amid broader market movements including hedge fund pullbacks and rising geopolitical risks.",
+          "source": "Bloomberg Open Interest (YouTube)",
+          "url": "https://www.youtube.com/watch?v=fEnYiwq1JMw"
         },
         {
-          "title": "AWS Glitch Disrupts Customer Experience Across the Internet",
-          "summary": "An AWS outage caused widespread disruptions to customer experiences online, underscoring vulnerabilities in cloud infrastructure as enterprises rethink service management strategies for 2026.[5]",
-          "source": "CX Today",
-          "url": "https://www.cxtoday.com/service-management-connectivity/what-are-the-trends-making-enterprises-rethink-service-management-for-cx-in-2026/"
-        },
-        {
-          "title": "Oracle’s TikTok Outages Highlight CX Platform Risks",
-          "summary": "Outages at Oracle's TikTok services exposed hidden risks in customer experience platforms, prompting enterprises to prioritize CX infrastructure monitoring for owned and unowned networks.[5]",
-          "source": "CX Today",
-          "url": "https://www.cxtoday.com/service-management-connectivity/what-are-the-trends-making-enterprises-rethink-service-management-for-cx-in-2026/"
+          "title": "Analysts Recommend Uber, Palo Alto Networks, and Trimble as Top Tech Stocks for the Week",
+          "summary": "Top analysts highlight Uber Technologies, Palo Alto Networks, and Trimble Inc. as the best tech stocks to buy this week ending March 30, 2026.",
+          "source": "TipRanks",
+          "url": "https://www.tipranks.com/news/3-best-tech-stocks-to-buy-this-week-3-30-2026-according-to-top-analysts"
         }
       ],
       "citations": [
-        "https://www.devflokers.com/blog/ai-breakthroughs-open-source-march-2026",
-        "https://guidely.in/current-affairs/daily-current-affairs-29-30-march-2026",
-        "https://emergingmarketskeptic.substack.com/p/emerging-markets-week-march-30-2026?action=share",
-        "https://www.youtube.com/watch?v=KA8SjOerIgM&vl=ar",
-        "https://www.cxtoday.com/service-management-connectivity/what-are-the-trends-making-enterprises-rethink-service-management-for-cx-in-2026/",
-        "https://www.learningtechnologies.co.uk/blog/donald-h-taylor-ld-industry-previewing-learning-technologies-conference-2026",
-        "https://lasvegassun.com/news/2026/mar/30/explicit-ai-image-creation-increasingly-a-legal-is/"
+        "https://aiagentstore.ai/ai-agent-news/topic/manufacturing/2026-03-31/detailed",
+        "https://www.tipranks.com/news/3-best-tech-stocks-to-buy-this-week-3-30-2026-according-to-top-analysts",
+        "https://www.fidelity.com/news/article/default/202603301630ACCESSWRNAPR_____1153313",
+        "https://www.youtube.com/watch?v=fEnYiwq1JMw",
+        "https://www.youtube.com/watch?v=WHh9TPJDCTU",
+        "https://r7.ieee.org/ottawa/2026/03/30/technata-career-fair-march-31-2026/"
       ]
     }
   }
