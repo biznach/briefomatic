@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T12:21:29.558953+00:00",
-  "generated_at_human": "2026-03-31 12:21 UTC",
+  "generated_at": "2026-03-31T18:20:56.801192+00:00",
+  "generated_at_human": "2026-03-31 18:20 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+          "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+          "score": 1369,
+          "comments": 717
+        },
+        {
+          "title": "Cohere Transcribe: Speech Recognition",
+          "url": "https://cohere.com/blog/transcribe",
+          "score": 73,
+          "comments": 19
+        },
+        {
           "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
           "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-          "score": 1010,
-          "comments": 359
+          "score": 1647,
+          "comments": 648
+        },
+        {
+          "title": "Open source CAD in the browser (Solvespace)",
+          "url": "https://solvespace.com/webver.pl",
+          "score": 190,
+          "comments": 57
+        },
+        {
+          "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+          "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+          "score": 22,
+          "comments": 2
+        },
+        {
+          "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+          "url": "https://github.com/jkool702/forkrun",
+          "score": 33,
+          "comments": 6
+        },
+        {
+          "title": "Accidentally created my first fork bomb with Claude Code",
+          "url": "https://www.droppedasbaby.com/posts/2602-01/",
+          "score": 18,
+          "comments": 1
+        },
+        {
+          "title": "Good code will still win",
+          "url": "https://www.greptile.com/blog/ai-slopware-future",
+          "score": 31,
+          "comments": 52
+        },
+        {
+          "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+          "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+          "score": 21,
+          "comments": 1
+        },
+        {
+          "title": "GitHub Monaspace Case Study",
+          "url": "https://lettermatic.com/custom/monaspace-case-study",
+          "score": 68,
+          "comments": 22
         },
         {
           "title": "Ollama is now powered by MLX on Apple Silicon in preview",
           "url": "https://ollama.com/blog/mlx",
-          "score": 357,
-          "comments": 171
+          "score": 564,
+          "comments": 285
         },
         {
-          "title": "Artemis II is not safe to fly",
-          "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-          "score": 429,
-          "comments": 261
-        },
-        {
-          "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-          "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-          "score": 409,
-          "comments": 213
-        },
-        {
-          "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
-          "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
-          "score": 29,
-          "comments": 6
-        },
-        {
-          "title": "Universal Claude.md – cut Claude output tokens",
-          "url": "https://github.com/drona23/claude-token-efficient",
-          "score": 342,
-          "comments": 126
-        },
-        {
-          "title": "Google's 200M-parameter time-series foundation model with 16k context",
-          "url": "https://github.com/google-research/timesfm",
-          "score": 161,
-          "comments": 68
-        },
-        {
-          "title": "Fedware: Government apps that spy harder than the apps they ban",
-          "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-          "score": 585,
-          "comments": 213
+          "title": "Combinators",
+          "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
+          "score": 105,
+          "comments": 29
         },
         {
           "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
           "url": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
-          "score": 33,
-          "comments": 11
+          "score": 152,
+          "comments": 91
         },
         {
-          "title": "30 Years Ago, Robots Learned to Walk Without Falling",
-          "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+          "title": "Oracle slashes 30k jobs",
+          "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+          "score": 645,
+          "comments": 529
+        },
+        {
+          "title": "RubyGems Fracture Incident Report",
+          "url": "https://rubycentral.org/news/rubygems-fracture-incident-report/",
+          "score": 56,
+          "comments": 9
+        },
+        {
+          "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
+          "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
           "score": 15,
-          "comments": 0
+          "comments": 8
         },
         {
-          "title": "Do your own writing",
-          "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-          "score": 601,
-          "comments": 197
+          "title": "Microsoft: Copilot is for entertainment purposes only",
+          "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+          "score": 227,
+          "comments": 86
         },
         {
-          "title": "Good CTE, Bad CTE",
-          "url": "https://boringsql.com/posts/good-cte-bad-cte/",
-          "score": 72,
-          "comments": 18
-        },
-        {
-          "title": "Clojure: The Documentary, official trailer [video]",
-          "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
-          "score": 234,
-          "comments": 26
-        },
-        {
-          "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-          "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-          "score": 311,
-          "comments": 197
-        },
-        {
-          "title": "Android Developer Verification",
-          "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-          "score": 284,
-          "comments": 280
-        },
-        {
-          "title": "RamAIn (YC W26) Is Hiring",
-          "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
-          "score": 1,
-          "comments": 0
-        },
-        {
-          "title": "How to turn anything into a router",
-          "url": "https://nbailey.ca/post/router/",
-          "score": 698,
-          "comments": 242
-        },
-        {
-          "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-          "url": "https://anishathalye.com/macbook-touchscreen/",
-          "score": 343,
-          "comments": 173
+          "title": "Scotty: A beautiful SSH task runner",
+          "url": "https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner",
+          "score": 16,
+          "comments": 4
         },
         {
           "title": "What major works of literature were written after age of 85? 75? 65?",
           "url": "https://statmodeling.stat.columbia.edu/2026/03/25/what-major-works-of-literature-were-written-after-age-of-85-75-65/",
-          "score": 9,
-          "comments": 0
+          "score": 91,
+          "comments": 57
         },
         {
-          "title": "We're Pausing Asimov Press",
-          "url": "https://www.asimov.press/p/pause",
-          "score": 47,
-          "comments": 17
+          "title": "Claude Code users hitting usage limits 'way faster than expected'",
+          "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+          "score": 166,
+          "comments": 119
         },
         {
-          "title": "One of the largest salt mines in the world exists under Lake Erie",
-          "url": "https://apnews.com/article/cleveland-salt-mine-winter-road-0daf091e3d56f65766bcf6a597683893",
-          "score": 40,
-          "comments": 30
+          "title": "A Love Letter to 'Girl Games'",
+          "url": "https://aftermath.site/a-love-letter-to-girl-games/",
+          "score": 95,
+          "comments": 80
         },
         {
-          "title": "Bird brains (2023)",
-          "url": "https://www.dhanishsemar.com/writing/bird-brains",
-          "score": 325,
-          "comments": 204
+          "title": "Tell HN: Chrome says \"suspicious download\" when trying to download yt-dlp",
+          "url": "https://news.ycombinator.com/item?id=47588658",
+          "score": 211,
+          "comments": 64
         },
         {
-          "title": "Oscar Reutersvärd (2021)",
-          "url": "https://escherinhetpaleis.nl/en/about-escher/escher-today/oscar-reutersvard",
-          "score": 43,
-          "comments": 3
+          "title": "Show HN: Loreline, narrative language transpiled via Haxe: C++/C#/JS/Java/Py/Lua",
+          "url": "https://loreline.app/en/docs/technical-overview/",
+          "score": 27,
+          "comments": 8
         },
         {
-          "title": "OpenGridWorks: The Electricity Infrasctructure, Mapped",
-          "url": "https://www.opengridworks.com",
-          "score": 129,
-          "comments": 18
+          "title": "Multiple Sclerosis",
+          "url": "https://subfictional.com/multiple-sclerosis/",
+          "score": 52,
+          "comments": 20
         },
         {
-          "title": "Show HN: Pardus Browser- a browser for AI agents without Chromium",
-          "url": "https://github.com/JasonHonKL/PardusBrowser/tree/main",
-          "score": 6,
-          "comments": 1
+          "title": "Universal Claude.md – cut Claude output tokens",
+          "url": "https://github.com/drona23/claude-token-efficient",
+          "score": 423,
+          "comments": 152
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 66660,
-          "change_24h": -1.81,
-          "change_7d": -6.26,
-          "market_cap": 1331175394546
+          "price": 67715,
+          "change_24h": 1.61,
+          "change_7d": -2.12,
+          "market_cap": 1357800953920
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2042.53,
-          "change_24h": -1.4,
-          "change_7d": -5.63,
-          "market_cap": 245617624079
+          "price": 2103.12,
+          "change_24h": 3.33,
+          "change_7d": -0.27,
+          "market_cap": 254669257607
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 80.56,
-          "change_24h": -4.34,
-          "change_7d": -12.16,
-          "market_cap": 46085850731
+          "price": 82.76,
+          "change_24h": -0.31,
+          "change_7d": -7.02,
+          "market_cap": 47414564283
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.090379,
-          "change_24h": -2.72,
-          "change_7d": -4.01,
-          "market_cap": 13870377008
+          "price": 0.091932,
+          "change_24h": 0.75,
+          "change_7d": -1.5,
+          "market_cap": 14128982390
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.240627,
-          "change_24h": -3.95,
-          "change_7d": -8.68,
-          "market_cap": 8864806004
+          "price": 0.240515,
+          "change_24h": -1.92,
+          "change_7d": -7.08,
+          "market_cap": 8875894333
         }
       ]
     },
@@ -212,19 +212,14 @@
       "count": 10,
       "items": [
         {
+          "name": "Cardano",
+          "symbol": "ADA",
+          "market_cap_rank": 15
+        },
+        {
           "name": "edgeX",
           "symbol": "EDGE",
-          "market_cap_rank": 249
-        },
-        {
-          "name": "Quantum Resistant Ledger",
-          "symbol": "QRL",
-          "market_cap_rank": 229
-        },
-        {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 24
+          "market_cap_rank": 212
         },
         {
           "name": "Pudgy Penguins",
@@ -232,9 +227,29 @@
           "market_cap_rank": 109
         },
         {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 16
+        },
+        {
+          "name": "Quantum Resistant Ledger",
+          "symbol": "QRL",
+          "market_cap_rank": 230
+        },
+        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
+        },
+        {
+          "name": "Siren",
+          "symbol": "SIREN",
+          "market_cap_rank": 83
+        },
+        {
+          "name": "Aave",
+          "symbol": "AAVE",
+          "market_cap_rank": 52
         },
         {
           "name": "Bittensor",
@@ -242,24 +257,9 @@
           "market_cap_rank": 35
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
-        },
-        {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
-          "name": "Siren",
-          "symbol": "SIREN",
-          "market_cap_rank": 76
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Wiki Cat",
+          "symbol": "WKC",
+          "market_cap_rank": 295
         }
       ]
     },
@@ -271,26 +271,26 @@
       "count": 3,
       "items": [
         {
-          "title": "US Stock Indexes Mixed on Monday Amid Oil Price Surge and Iran Conflict Uncertainty",
-          "summary": "The S&P 500 fell 0.4% to 6,343.72, Nasdaq dropped 0.7% to 20,794.64, while Dow edged up 0.1% to 45,216.14; markets cautious as oil tops $100/barrel due to war with Iran, deepening S&P's yearly loss to 7.3%.[1][2][3]",
-          "source": "Barchart.com",
-          "url": "https://www.barchart.com/story/news/1048580/how-major-us-stock-indexes-fared-monday-3-30-2026"
+          "title": "US Stock Indices Open Higher on March 31 After Monday's Mixed Close",
+          "summary": "The S&P 500 opened at 6,395.88, up 0.82%; Dow at 45,541.76, up 0.72%; Nasdaq at 21,064.33, up 1.30%. On Monday, S&P 500 fell 0.4% to 6,343.72, Dow rose 0.1% to 45,216.14, Nasdaq down amid de-risking.",
+          "source": "China.org.cn / Las Vegas Sun",
+          "url": "http://www.china.org.cn/world/Off_the_Wire/2026-03/31/content_118412618.shtml"
         },
         {
-          "title": "S&P 500 Enters Oversold Territory Below Key Moving Averages",
-          "summary": "S&P 500 closed below declining trend channel and all major daily moving averages, with RSI under 30 signaling potential selling exhaustion amid parabolic decline linked to Iran conflict uncertainty.[2]",
+          "title": "European and Asian Markets Mixed; Nikkei Drops 1.58%, Korea 4.26%",
+          "summary": "DAX up 0.07% at open, FTSE flat; Hang Seng up 0.15%, ASX up 0.25%, but Nikkei down 1.58% to 51,063.72, Straits Times down 0.24%, Korea Composite down 4.26%.",
+          "source": "China.org.cn",
+          "url": "http://www.china.org.cn/world/Off_the_Wire/2026-03/31/content_118412618.shtml"
+        },
+        {
+          "title": "S&P 500 in Parabolic Decline, Oversold Amid Iran Conflict Uncertainty",
+          "summary": "S&P 500 closed Monday below major moving averages, RSI under 30 indicating oversold conditions, gravitating toward 6100 support amid indiscriminate de-risking due to Iran tensions.",
           "source": "Equity Clock",
           "url": "https://equityclock.com/2026/03/30/stock-market-outlook-for-march-31-2026/"
-        },
-        {
-          "title": "Russell 2000 Small-Cap Index Leads Decliners with 1.5% Drop",
-          "summary": "Russell 2000 fell 1.5% to 2,414.01, reflecting broader market de-risking; year-to-date down 2.7% as caution prevails in equities.[1]",
-          "source": "Barchart.com",
-          "url": "https://www.barchart.com/story/news/1048580/how-major-us-stock-indexes-fared-monday-3-30-2026"
         }
       ],
       "citations": [
-        "https://www.barchart.com/story/news/1048580/how-major-us-stock-indexes-fared-monday-3-30-2026",
+        "http://www.china.org.cn/world/Off_the_Wire/2026-03/31/content_118412618.shtml",
         "https://equityclock.com/2026/03/30/stock-market-outlook-for-march-31-2026/",
         "https://lasvegassun.com/news/2026/mar/30/how-major-us-stock-indexes-fared-monday-3302026/"
       ]
@@ -300,37 +300,21 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 1,
       "items": [
         {
-          "title": "Ethereum Price Surges to $2,070.90 with $70 Daily Gain",
-          "summary": "As of 8:45 a.m. ET on March 30, 2026, Ethereum reached $2,070.90, up $70.70 from the previous day and $264 from a year ago, amid volatile market swings. Bitcoin traded at $67,822.72, while XRP stood at $1.35.",
-          "source": "Fortune",
-          "url": "https://fortune.com/article/price-of-ethereum-03-30-2026/"
-        },
-        {
-          "title": "Bitcoin Everlight Advances Phase 3 Presale Amid US-Iran Tensions",
-          "summary": "Bitcoin Everlight, a transaction routing network parallel to Bitcoin, reports ongoing Phase 3 presale at $0.0012 per BTCL token, having raised over $2 million total. The project offers fixed rewards transitioning to performance-based BTC distribution at mainnet launch.",
-          "source": "GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/03/31/3265290/0/en/Bitcoin-Everlight-Reports-Continued-Phase-3-Presale-Activity-Amid-Shifting-Global-Market-Conditions.html"
-        },
-        {
-          "title": "March 2026 Marks Crypto's Major Regulatory Shift",
-          "summary": "March 2026 brought the biggest crypto regulatory changes since the Bitcoin ETF approval, featuring clearer rules, better agency alignment, and boosted institutional adoption pathways.",
-          "source": "NFT Plazas",
-          "url": "https://nftplazas.com/march-2026-crypto-regulation-shift/"
-        },
-        {
-          "title": "Bitcoin Hits Critical $66,200 Support Level",
-          "summary": "Bitcoin approaches a pivotal $66,200 support amid key price scenarios and liquidation pools, as analyzed in the March 31 morning summary.",
-          "source": "YouTube - The Trading Parrot",
-          "url": "https://www.youtube.com/watch?v=sq8JkseLCDM"
+          "title": "Raw response",
+          "summary": "[{\"title\":\"Ethereum Price Drops to $2,049.85 Amid Broader Market Decline\",\"summary\":\"Ethereum traded at $2,049.85 at 8:45 a.m. ET on March 31, 2026, down $21.05 from yesterday but up $228 year-over-year. Bitcoin fell to $66,710.43, a $1,112.29 decrease from yesterday, with bears maintaining technical advantage near five-week lows.\",\"source\":\"Fortune\",\"url\":\"https://fortune.com/article/price-of-ethereum-03-31-2026/\"},{\"title\":\"FTX Recovery Trust Distributes $2.2 Billion to Creditors on March 31\",",
+          "source": "perplexity",
+          "url": ""
         }
       ],
       "citations": [
-        "https://fortune.com/article/price-of-ethereum-03-30-2026/",
-        "https://www.globenewswire.com/news-release/2026/03/31/3265290/0/en/Bitcoin-Everlight-Reports-Continued-Phase-3-Presale-Activity-Amid-Shifting-Global-Market-Conditions.html",
-        "https://nftplazas.com/march-2026-crypto-regulation-shift/",
+        "https://fortune.com/article/price-of-ethereum-03-31-2026/",
+        "https://www.blockchain-council.org/blockchain/blockchain-regulation-governments-reshaping-crypto-web3/",
+        "https://fortune.com/article/price-of-bitcoin-03-31-2026/",
+        "https://247wallst.com/investing/2026/03/31/crypto-news-ftx-is-releasing-2-2-billion-to-creditors-heres-what-it-could-mean-for-bitcoin-and-xrp/",
+        "https://www.kitco.com/news/article/2026-03-31/bitcoin-march-31-daily-chart-alert-bears-keep-their-technical-advantage",
         "https://www.youtube.com/watch?v=sq8JkseLCDM"
       ]
     },
@@ -339,28 +323,54 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 6,
       "items": [
         {
+          "title": "IBM and ETH Zurich Launch 10-Year Collaboration on AI and Quantum Algorithms",
+          "summary": "IBM and ETH Zurich announced a 10-year initiative on March 31, 2026, to develop foundational algorithms bridging classical computing, machine learning, and quantum systems. IBM will support new professorships at ETH Zurich for joint research and education in algorithmic innovation.[2]",
+          "source": "IBM Newsroom",
+          "url": "https://newsroom.ibm.com/2026-03-31-IBM-and-ETH-Zurich-join-forces-to-shape-the-future-of-algorithms-for-the-AI-and-quantum-era"
+        },
+        {
           "title": "Scientists Develop Ultra-Robust Machine-Learning Models for Stable Molecular Simulations",
-          "summary": "Researchers have created the first AI-powered model using Gaussian process regression that maintains stable molecular simulations under extreme conditions, preventing molecules from breaking apart. This breakthrough enables reliable long-term studies for drug development and materials science without supercomputers.",
+          "summary": "Researchers published a study in Communications Chemistry on an AI-powered model that maintains stable molecular simulations under extreme conditions, enabling reliable long-term studies for drug development and materials science without supercomputers.[5]",
           "source": "EurekAlert",
           "url": "https://www.eurekalert.org/news-releases/1121910"
         },
         {
-          "title": "Meta Tests Avocado 9B and Avocado Mango Agent Models Amid Delays",
-          "summary": "Meta is experimenting with Avocado 9B and other variants, which solve complex math problems but lag behind competitors, pushing the full Avocado release to at least May. The company is reportedly licensing Google's Gemini technology for some Meta AI requests.",
-          "source": "Radical Data Science",
-          "url": "https://radicaldatascience.wordpress.com/2026/03/30/ai-news-briefs-bulletin-board-for-march-2026/"
+          "title": "Aon Enhances Compensation Database with AI-Specific Job Families",
+          "summary": "Aon launched updates to its Radford McLagan Compensation Database on March 31, 2026, adding AI roles like head of AI and machine learning engineer to provide market transparency amid rising demand for AI talent.[7]",
+          "source": "Aon MediaRoom",
+          "url": "https://aon.mediaroom.com/2026-03-31-Aon-Launches-Radford-McLagan-Compensation-Database-Enhancements-as-AI-Redefines-Workforce-Skills-and-Compensation"
+        },
+        {
+          "title": "US Federal Government Pushes to Preempt California AI Regulations in 2026",
+          "summary": "California's new AI laws effective January 1, 2026, including frontier AI safety reporting, face federal preemption efforts, potentially standardizing rules for AI in healthcare, education, and more.[3]",
+          "source": "Blockchain Council",
+          "url": "https://www.blockchain-council.org/news/ai-regulation-2026-us-federal-preempt-california/"
+        },
+        {
+          "title": "Unstructured Data Emerges as Key Barrier to AI Value Realization in 2026",
+          "summary": "Enterprises face challenges operationalizing unstructured data at scale, essential for AI success in areas like predictive maintenance and generative AI, amid pressures to control costs and security.[1]",
+          "source": "RTInsights",
+          "url": "https://www.rtinsights.com/why-unstructured-data-will-decide-whether-ai-delivers-real-value-in-2026/"
+        },
+        {
+          "title": "AI Arms Race Accelerates Cybersecurity Threats with Generative AI and Polymorphic Malware",
+          "summary": "Threat actors leverage generative AI for targeted phishing and machine learning to exploit vulnerabilities faster, demanding unified exposure management beyond traditional defenses.[4]",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html"
         }
       ],
       "citations": [
-        "https://radicaldatascience.wordpress.com/2026/03/30/ai-news-briefs-bulletin-board-for-march-2026/",
-        "https://aihub.org/2026/03/31/aihub-monthly-digest-march-2026-time-series-multiplicity-and-the-history-of-robocup/",
+        "https://www.rtinsights.com/why-unstructured-data-will-decide-whether-ai-delivers-real-value-in-2026/",
+        "https://newsroom.ibm.com/2026-03-31-IBM-and-ETH-Zurich-join-forces-to-shape-the-future-of-algorithms-for-the-AI-and-quantum-era",
+        "https://www.blockchain-council.org/news/ai-regulation-2026-us-federal-preempt-california/",
+        "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
         "https://www.eurekalert.org/news-releases/1121910",
-        "https://almanac.upenn.edu/articles/third-annual-ai-month-at-penn",
-        "https://www.insidehighered.com/news/student-success/academic-life/2026/03/31/students-embrace-ai-fear-false-accusations",
-        "https://www.edweek.org/teaching-learning/opinion-can-ai-support-student-learning-depends-who-you-ask/2026/03",
+        "https://www.mtu.edu/unscripted/2026/03/michigan-tech-experts-model-the-future-of-data-science.html",
+        "https://aon.mediaroom.com/2026-03-31-Aon-Launches-Radford-McLagan-Compensation-Database-Enhancements-as-AI-Redefines-Workforce-Skills-and-Compensation",
+        "https://www.insidehighered.com/opinion/columns/learning-innovation/2026/03/31/thinking-machine-ai-higher-ed-professional-staff",
         "https://www.govinfosecurity.com/ai-transformation-outpacing-enterprise-roi-reality-a-31281"
       ]
     },
@@ -369,23 +379,53 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 1,
+      "count": 6,
       "items": [
         {
-          "title": "Major Indie Game Releases This Week Including March 31",
-          "summary": "A mega week of indie game releases is underway, with numerous titles launching on March 31, 2026, such as Sprint City, Subliminal, Super Meat Boy 3D, Tombwater, Truck Mechanic: Dangerous Paths, Voodoo Fishin', Wasteland Bites, Xenonauts 2, and Zero Stress King: Idle Defense. Expectations for April Fool's surprises from developers like Landfall.",
-          "source": "Indie Gaming This Week YouTube",
-          "url": "https://www.youtube.com/watch?v=6rBshvm1Xkw"
+          "title": "Legacy of Kain: Ascendance Releases Today on Multiple Platforms",
+          "summary": "Legacy of Kain: Ascendance, developed by Bit Bot Media and published by Crystal Dynamics, launches March 31 on PC, PS5, Switch, Switch 2, and Series X|S. It's the first new entry in the series since 2003.",
+          "source": "The Avocado",
+          "url": "https://the-avocado.org/2026/03/31/new-game-releases-03-31-26-04-06-26/"
+        },
+        {
+          "title": "South of Midnight Launches on PS5 and Switch 2",
+          "summary": "South of Midnight releases today, March 31, for PS5 and Switch 2. It's highlighted among the top new game releases for the week.",
+          "source": "The Avocado",
+          "url": "https://the-avocado.org/2026/03/31/new-game-releases-03-31-26-04-06-26/"
+        },
+        {
+          "title": "Star Wars Announces Monopoly: Star Wars Heroes vs. Villains for June Release",
+          "summary": "Lucasfilm teases Monopoly: Star Wars Heroes vs. Villains, a competitive team-based take on the board game, launching June 11 on PS5, Xbox Series X|S, Switch 1/2, PC, and GeForce NOW. Full reveal set for April 29.",
+          "source": "The Direct",
+          "url": "https://thedirect.com/article/star-wars-video-games-2026"
+        },
+        {
+          "title": "Canceled Dreamcast Game Propeller Arena Finally Releases After 25 Years",
+          "summary": "Propeller Arena: Aviation Battle Championship, originally canceled post-9/11, is now live online in March 2026 with multiplayer dogfights, though facing network issues. Community is arranging six-player matches via Discord.",
+          "source": "ComicBook.com",
+          "url": "https://comicbook.com/gaming/news/canceled-dreamcast-game-finally-releases-after-25-years/"
+        },
+        {
+          "title": "PSO2 New Genesis Headline WAVE Broadcasts Latest Updates Today",
+          "summary": "Sega's Phantasy Star Online 2 New Genesis streams its Headline WAVE program today at 5:00 AM PDT, covering April ver. 2 updates, story content, campaigns, and dev messages.",
+          "source": "YouTube - NGS Headline WAVE",
+          "url": "https://www.youtube.com/watch?v=G0Ny2rbUx48"
+        },
+        {
+          "title": "Gaming Investment Funds Pivot Away from Industry Amid Slowdown",
+          "summary": "Two of three backed funds shift from gaming to other sectors like satellites, citing flops like Cyberpunk 2077 and MindsEye, GTA 6 delays, and migration to mobile hyper-casual games. AI seen as potential disruptor.",
+          "source": "BitDigest",
+          "url": "https://bitdigest.substack.com/p/tuesday-march-31-2026"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=6rBshvm1Xkw",
-        "https://www.youtube.com/watch?v=1FEnsmorxJ4",
-        "https://www.nhl.com/video/pit-nyi-rust-scores-goal-against-david-rittich-6392202905112",
-        "https://www.ncaa.com/video/basketball-women/2026-03-30/texas-longhorns-vs-michigan-wolverines-game-highlights-202621828",
-        "https://www.nhl.com/video/stl-at-sjs-condensed-game-6392219283112",
-        "https://www.nhl.com/video/tor-at-ana-condensed-game-6392222049112",
-        "https://www.newgrounds.com/portal/view/1025671"
+        "https://the-avocado.org/2026/03/31/new-game-releases-03-31-26-04-06-26/",
+        "https://comicbook.com/gaming/news/canceled-dreamcast-game-finally-releases-after-25-years/",
+        "https://thedirect.com/article/star-wars-video-games-2026",
+        "https://www.youtube.com/watch?v=Aj4r5MZG5AU",
+        "https://bitdigest.substack.com/p/tuesday-march-31-2026",
+        "https://www.youtube.com/watch?v=G0Ny2rbUx48",
+        "https://www.youtube.com/shorts/I4EOLt4G0rU"
       ]
     },
     "tech_news": {
@@ -393,52 +433,16 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 6,
-      "items": [
-        {
-          "title": "Senator Wiener Announces Landmark Legislation To Crack Down on Big Tech's Anticompetitive Behavior",
-          "summary": "Senator Wiener introduced significant legislation targeting anticompetitive practices by major technology companies, marking a major regulatory push against Big Tech.",
-          "source": "Level1 Links with Friends Show",
-          "url": "https://www.youtube.com/watch?v=_okAapceUDQ"
-        },
-        {
-          "title": "US Regulator Bans Imports of New Foreign-Made Routers Over Security Concerns",
-          "summary": "U.S. regulators have implemented a ban on imports of new foreign-manufactured routers citing national security risks.",
-          "source": "Level1 Links with Friends Show",
-          "url": "https://www.youtube.com/watch?v=_okAapceUDQ"
-        },
-        {
-          "title": "Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music",
-          "summary": "The Supreme Court ruled in favor of an internet provider in a copyright dispute involving pirated music distribution.",
-          "source": "Level1 Links with Friends Show",
-          "url": "https://www.youtube.com/watch?v=_okAapceUDQ"
-        },
-        {
-          "title": "Semiconductor Sector Extends Losing Streak Amid Tech Selloff",
-          "summary": "The semiconductor industry continues to decline, with Micron Technology down more than 30% since March 18th as part of a broader tech sector selloff.",
-          "source": "Bloomberg/Closing Bell",
-          "url": "https://www.youtube.com/watch?v=RYGWcr8gOTw"
-        },
-        {
-          "title": "Infinite Campus Warns of Data Breach After ShinyHunters Claims Data Theft",
-          "summary": "Education software provider Infinite Campus disclosed a security breach following claims by the ShinyHunters group of data theft.",
-          "source": "Level1 Links with Friends Show",
-          "url": "https://www.youtube.com/watch?v=_okAapceUDQ"
-        },
-        {
-          "title": "Cyberattack on Car Breathalyzer Firm Leaves Drivers Stuck",
-          "summary": "A cyberattack targeting a car breathalyzer company has disrupted service, leaving drivers unable to use the affected systems.",
-          "source": "Level1 Links with Friends Show",
-          "url": "https://www.youtube.com/watch?v=_okAapceUDQ"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=_okAapceUDQ",
-        "https://www.wallstreetzen.com/news/3-new-strong-buy-ratings-from-top-rated-analysts-03-31-2026",
+        "https://techstartups.com/2026/03/31/top-tech-news-today-march-31-2026/",
+        "https://coaio.com/news/2026/03/breaking-tech-news-on-march-31-2026-ai-investments-space-data-centers-2l0c/",
+        "https://agilebrandguide.com/yesterdays-marketing-technology-news-march-31-2026/",
         "https://www.youtube.com/watch?v=R2eiGRdYD3Y",
-        "https://www.youtube.com/watch?v=RYGWcr8gOTw",
-        "https://iblnews.org/story/big-tech-selloff-may-signal-turning-point-bloomberg-tech-3-30-2026",
-        "https://www.djc.com/news/en/12175114.html"
+        "https://www.djc.com/news/en/12175114.html",
+        "https://techsoften.com/daily-tech-digest-tuesday-march-31-2026/",
+        "https://www.youtube.com/watch?v=0OykZpLBs60"
       ]
     }
   }
