@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T18:20:56.801192+00:00",
-  "generated_at_human": "2026-03-31 18:20 UTC",
+  "generated_at": "2026-04-01T00:32:20.781869+00:00",
+  "generated_at_human": "2026-04-01 00:32 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-          "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-          "score": 1369,
-          "comments": 717
+          "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+          "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+          "score": 684,
+          "comments": 274
+        },
+        {
+          "title": "Ministack (Replacement for LocalStack)",
+          "url": "https://ministack.org/",
+          "score": 110,
+          "comments": 17
+        },
+        {
+          "title": "A dot a day keeps the clutter away",
+          "url": "https://scottlawsonbc.com/post/dot-system",
+          "score": 91,
+          "comments": 31
+        },
+        {
+          "title": "OpenAI closes funding round at an $852B valuation",
+          "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+          "score": 283,
+          "comments": 262
+        },
+        {
+          "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+          "url": "https://prismml.com/",
+          "score": 60,
+          "comments": 28
+        },
+        {
+          "title": "4D Doom",
+          "url": "https://github.com/danieldugas/HYPERHELL",
+          "score": 106,
+          "comments": 22
+        },
+        {
+          "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+          "url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+          "score": 36,
+          "comments": 8
+        },
+        {
+          "title": "Slop is not necessarily the future",
+          "url": "https://www.greptile.com/blog/ai-slopware-future",
+          "score": 166,
+          "comments": 300
         },
         {
           "title": "Cohere Transcribe: Speech Recognition",
           "url": "https://cohere.com/blog/transcribe",
-          "score": 73,
+          "score": 151,
+          "comments": 49
+        },
+        {
+          "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+          "url": "https://github.com/ericlewis/libpo32",
+          "score": 77,
           "comments": 19
         },
         {
-          "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-          "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-          "score": 1647,
-          "comments": 648
+          "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+          "url": "https://arxiv.org/abs/2602.04118",
+          "score": 10,
+          "comments": 0
         },
         {
           "title": "Open source CAD in the browser (Solvespace)",
           "url": "https://solvespace.com/webver.pl",
-          "score": 190,
-          "comments": 57
+          "score": 277,
+          "comments": 91
         },
         {
-          "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-          "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "score": 22,
-          "comments": 2
+          "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+          "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+          "score": 61,
+          "comments": 33
+        },
+        {
+          "title": "Back to FreeBSD – Part 2 – Jails",
+          "url": "https://hypha.pub/back-to-freebsd-part-2",
+          "score": 32,
+          "comments": 7
+        },
+        {
+          "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
+          "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
+          "score": 320,
+          "comments": 75
+        },
+        {
+          "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
+          "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/",
+          "score": 16,
+          "comments": 0
         },
         {
           "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
           "url": "https://github.com/jkool702/forkrun",
-          "score": 33,
-          "comments": 6
+          "score": 101,
+          "comments": 24
         },
         {
-          "title": "Accidentally created my first fork bomb with Claude Code",
-          "url": "https://www.droppedasbaby.com/posts/2602-01/",
-          "score": 18,
-          "comments": 1
+          "title": "GitHub's Historic Uptime",
+          "url": "https://damrnelson.github.io/github-historical-uptime/",
+          "score": 374,
+          "comments": 100
         },
         {
-          "title": "Good code will still win",
-          "url": "https://www.greptile.com/blog/ai-slopware-future",
-          "score": 31,
-          "comments": 52
+          "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+          "url": "https://github.com/timescale/pg_textsearch",
+          "score": 87,
+          "comments": 30
         },
         {
           "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
           "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-          "score": 21,
-          "comments": 1
+          "score": 76,
+          "comments": 5
         },
         {
-          "title": "GitHub Monaspace Case Study",
-          "url": "https://lettermatic.com/custom/monaspace-case-study",
-          "score": 68,
-          "comments": 22
+          "title": "Nematophagous Fungus",
+          "url": "https://en.wikipedia.org/wiki/Nematophagous_fungus",
+          "score": 35,
+          "comments": 5
         },
         {
-          "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-          "url": "https://ollama.com/blog/mlx",
-          "score": 564,
-          "comments": 285
+          "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+          "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+          "score": 149,
+          "comments": 396
         },
         {
-          "title": "Combinators",
-          "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
-          "score": 105,
-          "comments": 29
+          "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+          "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+          "score": 1762,
+          "comments": 712
         },
         {
           "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
           "url": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
-          "score": 152,
-          "comments": 91
+          "score": 198,
+          "comments": 125
         },
         {
-          "title": "Oracle slashes 30k jobs",
-          "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-          "score": 645,
-          "comments": 529
-        },
-        {
-          "title": "RubyGems Fracture Incident Report",
-          "url": "https://rubycentral.org/news/rubygems-fracture-incident-report/",
-          "score": 56,
-          "comments": 9
-        },
-        {
-          "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
-          "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
-          "score": 15,
-          "comments": 8
-        },
-        {
-          "title": "Microsoft: Copilot is for entertainment purposes only",
-          "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-          "score": 227,
-          "comments": 86
-        },
-        {
-          "title": "Scotty: A beautiful SSH task runner",
-          "url": "https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner",
-          "score": 16,
-          "comments": 4
-        },
-        {
-          "title": "What major works of literature were written after age of 85? 75? 65?",
-          "url": "https://statmodeling.stat.columbia.edu/2026/03/25/what-major-works-of-literature-were-written-after-age-of-85-75-65/",
-          "score": 91,
-          "comments": 57
-        },
-        {
-          "title": "Claude Code users hitting usage limits 'way faster than expected'",
-          "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
-          "score": 166,
-          "comments": 119
-        },
-        {
-          "title": "A Love Letter to 'Girl Games'",
-          "url": "https://aftermath.site/a-love-letter-to-girl-games/",
-          "score": 95,
-          "comments": 80
-        },
-        {
-          "title": "Tell HN: Chrome says \"suspicious download\" when trying to download yt-dlp",
-          "url": "https://news.ycombinator.com/item?id=47588658",
-          "score": 211,
-          "comments": 64
-        },
-        {
-          "title": "Show HN: Loreline, narrative language transpiled via Haxe: C++/C#/JS/Java/Py/Lua",
-          "url": "https://loreline.app/en/docs/technical-overview/",
-          "score": 27,
-          "comments": 8
-        },
-        {
-          "title": "Multiple Sclerosis",
-          "url": "https://subfictional.com/multiple-sclerosis/",
-          "score": 52,
-          "comments": 20
-        },
-        {
-          "title": "Universal Claude.md – cut Claude output tokens",
-          "url": "https://github.com/drona23/claude-token-efficient",
-          "score": 423,
-          "comments": 152
+          "title": "A Primer on Long-Duration Life Support",
+          "url": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support",
+          "score": 64,
+          "comments": 15
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 67715,
-          "change_24h": 1.61,
-          "change_7d": -2.12,
-          "market_cap": 1357800953920
+          "price": 67943,
+          "change_24h": 1.78,
+          "change_7d": -3.66,
+          "market_cap": 1358585022763
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2103.12,
-          "change_24h": 3.33,
-          "change_7d": -0.27,
-          "market_cap": 254669257607
+          "price": 2099.11,
+          "change_24h": 3.73,
+          "change_7d": -2.62,
+          "market_cap": 253220750545
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 82.76,
-          "change_24h": -0.31,
-          "change_7d": -7.02,
-          "market_cap": 47414564283
+          "price": 82.96,
+          "change_24h": 0.79,
+          "change_7d": -8.66,
+          "market_cap": 47521064185
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.091932,
-          "change_24h": 0.75,
-          "change_7d": -1.5,
-          "market_cap": 14128982390
+          "price": 0.092096,
+          "change_24h": 1.49,
+          "change_7d": -3.16,
+          "market_cap": 14150990101
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.240515,
-          "change_24h": -1.92,
-          "change_7d": -7.08,
-          "market_cap": 8875894333
+          "price": 0.241832,
+          "change_24h": -0.89,
+          "change_7d": -9.16,
+          "market_cap": 8918586555
         }
       ]
     },
@@ -212,29 +212,19 @@
       "count": 10,
       "items": [
         {
-          "name": "Cardano",
-          "symbol": "ADA",
-          "market_cap_rank": 15
-        },
-        {
           "name": "edgeX",
           "symbol": "EDGE",
           "market_cap_rank": 212
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 109
+          "name": "Siren",
+          "symbol": "SIREN",
+          "market_cap_rank": 105
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
-        },
-        {
-          "name": "Quantum Resistant Ledger",
-          "symbol": "QRL",
-          "market_cap_rank": 230
+          "name": "Based",
+          "symbol": "BASED",
+          "market_cap_rank": 779
         },
         {
           "name": "Bitcoin",
@@ -242,24 +232,34 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Siren",
-          "symbol": "SIREN",
-          "market_cap_rank": 83
-        },
-        {
-          "name": "Aave",
-          "symbol": "AAVE",
-          "market_cap_rank": 52
-        },
-        {
           "name": "Bittensor",
           "symbol": "TAO",
           "market_cap_rank": 35
         },
         {
-          "name": "Wiki Cat",
-          "symbol": "WKC",
-          "market_cap_rank": 295
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 16
+        },
+        {
+          "name": "Keeta",
+          "symbol": "KTA",
+          "market_cap_rank": 273
+        },
+        {
+          "name": "Quantum Resistant Ledger",
+          "symbol": "QRL",
+          "market_cap_rank": 215
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 139
         }
       ]
     },
@@ -268,31 +268,10 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 3,
-      "items": [
-        {
-          "title": "US Stock Indices Open Higher on March 31 After Monday's Mixed Close",
-          "summary": "The S&P 500 opened at 6,395.88, up 0.82%; Dow at 45,541.76, up 0.72%; Nasdaq at 21,064.33, up 1.30%. On Monday, S&P 500 fell 0.4% to 6,343.72, Dow rose 0.1% to 45,216.14, Nasdaq down amid de-risking.",
-          "source": "China.org.cn / Las Vegas Sun",
-          "url": "http://www.china.org.cn/world/Off_the_Wire/2026-03/31/content_118412618.shtml"
-        },
-        {
-          "title": "European and Asian Markets Mixed; Nikkei Drops 1.58%, Korea 4.26%",
-          "summary": "DAX up 0.07% at open, FTSE flat; Hang Seng up 0.15%, ASX up 0.25%, but Nikkei down 1.58% to 51,063.72, Straits Times down 0.24%, Korea Composite down 4.26%.",
-          "source": "China.org.cn",
-          "url": "http://www.china.org.cn/world/Off_the_Wire/2026-03/31/content_118412618.shtml"
-        },
-        {
-          "title": "S&P 500 in Parabolic Decline, Oversold Amid Iran Conflict Uncertainty",
-          "summary": "S&P 500 closed Monday below major moving averages, RSI under 30 indicating oversold conditions, gravitating toward 6100 support amid indiscriminate de-risking due to Iran tensions.",
-          "source": "Equity Clock",
-          "url": "https://equityclock.com/2026/03/30/stock-market-outlook-for-march-31-2026/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "http://www.china.org.cn/world/Off_the_Wire/2026-03/31/content_118412618.shtml",
-        "https://equityclock.com/2026/03/30/stock-market-outlook-for-march-31-2026/",
-        "https://lasvegassun.com/news/2026/mar/30/how-major-us-stock-indexes-fared-monday-3302026/"
+        "https://polymarket.com/event/spx-up-or-down-on-april-1-2026"
       ]
     },
     "crypto_news": {
@@ -300,22 +279,16 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 1,
-      "items": [
-        {
-          "title": "Raw response",
-          "summary": "[{\"title\":\"Ethereum Price Drops to $2,049.85 Amid Broader Market Decline\",\"summary\":\"Ethereum traded at $2,049.85 at 8:45 a.m. ET on March 31, 2026, down $21.05 from yesterday but up $228 year-over-year. Bitcoin fell to $66,710.43, a $1,112.29 decrease from yesterday, with bears maintaining technical advantage near five-week lows.\",\"source\":\"Fortune\",\"url\":\"https://fortune.com/article/price-of-ethereum-03-31-2026/\"},{\"title\":\"FTX Recovery Trust Distributes $2.2 Billion to Creditors on March 31\",",
-          "source": "perplexity",
-          "url": ""
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://fortune.com/article/price-of-ethereum-03-31-2026/",
-        "https://www.blockchain-council.org/blockchain/blockchain-regulation-governments-reshaping-crypto-web3/",
-        "https://fortune.com/article/price-of-bitcoin-03-31-2026/",
-        "https://247wallst.com/investing/2026/03/31/crypto-news-ftx-is-releasing-2-2-billion-to-creditors-heres-what-it-could-mean-for-bitcoin-and-xrp/",
-        "https://www.kitco.com/news/article/2026-03-31/bitcoin-march-31-daily-chart-alert-bears-keep-their-technical-advantage",
-        "https://www.youtube.com/watch?v=sq8JkseLCDM"
+        "https://coinpedia.org/news/3-crypto-things-to-do-in-april-2026/",
+        "https://phemex.com/blogs/april-2026-crypto-playbook-five-trades-q2",
+        "https://beincrypto.com/crypto-token-unlocks-first-week-of-april-2026/",
+        "https://www.openpr.com/news/4449383/6-best-cryptos-to-invest-in-for-april-2026-why-whales-are-dumping",
+        "https://www.mexc.com/news/993702",
+        "https://www.investing.com/news/cryptocurrency-news/bydfi-marks-6th-anniversary-with-monthlong-celebration-built-for-reliability-4589887",
+        "https://www.hubbis.com/news/hubbis-partners-with-independent-reserve-to-bring-you-weekly-crypto-news-and-market-trends-us-401-k-crypto-shift-signals-potential-inflows-as-markets-stabilise-and-macro-data-looms"
       ]
     },
     "ai_news": {
@@ -323,55 +296,14 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
-      "items": [
-        {
-          "title": "IBM and ETH Zurich Launch 10-Year Collaboration on AI and Quantum Algorithms",
-          "summary": "IBM and ETH Zurich announced a 10-year initiative on March 31, 2026, to develop foundational algorithms bridging classical computing, machine learning, and quantum systems. IBM will support new professorships at ETH Zurich for joint research and education in algorithmic innovation.[2]",
-          "source": "IBM Newsroom",
-          "url": "https://newsroom.ibm.com/2026-03-31-IBM-and-ETH-Zurich-join-forces-to-shape-the-future-of-algorithms-for-the-AI-and-quantum-era"
-        },
-        {
-          "title": "Scientists Develop Ultra-Robust Machine-Learning Models for Stable Molecular Simulations",
-          "summary": "Researchers published a study in Communications Chemistry on an AI-powered model that maintains stable molecular simulations under extreme conditions, enabling reliable long-term studies for drug development and materials science without supercomputers.[5]",
-          "source": "EurekAlert",
-          "url": "https://www.eurekalert.org/news-releases/1121910"
-        },
-        {
-          "title": "Aon Enhances Compensation Database with AI-Specific Job Families",
-          "summary": "Aon launched updates to its Radford McLagan Compensation Database on March 31, 2026, adding AI roles like head of AI and machine learning engineer to provide market transparency amid rising demand for AI talent.[7]",
-          "source": "Aon MediaRoom",
-          "url": "https://aon.mediaroom.com/2026-03-31-Aon-Launches-Radford-McLagan-Compensation-Database-Enhancements-as-AI-Redefines-Workforce-Skills-and-Compensation"
-        },
-        {
-          "title": "US Federal Government Pushes to Preempt California AI Regulations in 2026",
-          "summary": "California's new AI laws effective January 1, 2026, including frontier AI safety reporting, face federal preemption efforts, potentially standardizing rules for AI in healthcare, education, and more.[3]",
-          "source": "Blockchain Council",
-          "url": "https://www.blockchain-council.org/news/ai-regulation-2026-us-federal-preempt-california/"
-        },
-        {
-          "title": "Unstructured Data Emerges as Key Barrier to AI Value Realization in 2026",
-          "summary": "Enterprises face challenges operationalizing unstructured data at scale, essential for AI success in areas like predictive maintenance and generative AI, amid pressures to control costs and security.[1]",
-          "source": "RTInsights",
-          "url": "https://www.rtinsights.com/why-unstructured-data-will-decide-whether-ai-delivers-real-value-in-2026/"
-        },
-        {
-          "title": "AI Arms Race Accelerates Cybersecurity Threats with Generative AI and Polymorphic Malware",
-          "summary": "Threat actors leverage generative AI for targeted phishing and machine learning to exploit vulnerabilities faster, demanding unified exposure management beyond traditional defenses.[4]",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.rtinsights.com/why-unstructured-data-will-decide-whether-ai-delivers-real-value-in-2026/",
-        "https://newsroom.ibm.com/2026-03-31-IBM-and-ETH-Zurich-join-forces-to-shape-the-future-of-algorithms-for-the-AI-and-quantum-era",
-        "https://www.blockchain-council.org/news/ai-regulation-2026-us-federal-preempt-california/",
-        "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-        "https://www.eurekalert.org/news-releases/1121910",
-        "https://www.mtu.edu/unscripted/2026/03/michigan-tech-experts-model-the-future-of-data-science.html",
-        "https://aon.mediaroom.com/2026-03-31-Aon-Launches-Radford-McLagan-Compensation-Database-Enhancements-as-AI-Redefines-Workforce-Skills-and-Compensation",
-        "https://www.insidehighered.com/opinion/columns/learning-innovation/2026/03/31/thinking-machine-ai-higher-ed-professional-staff",
-        "https://www.govinfosecurity.com/ai-transformation-outpacing-enterprise-roi-reality-a-31281"
+        "https://www.iqvia.com/locations/emea/blogs/2026/03/the-evolution-of-pharma-engagement-as-ai-becomes-a-front-door-to-medical-information",
+        "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-6-april-2026/",
+        "https://www.stocktitan.net/news/CSAI/cloudastructure-inc-reschedules-fourth-quarter-2025-financial-wl4i9pz7lh56.html",
+        "https://www.aitoday.io/ai-transformation-outpacing-enterprise-roi-reality-a-31281",
+        "https://www.taiwannews.com.tw/en/news/6332272"
       ]
     },
     "gaming": {
@@ -379,53 +311,66 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 8,
       "items": [
         {
-          "title": "Legacy of Kain: Ascendance Releases Today on Multiple Platforms",
-          "summary": "Legacy of Kain: Ascendance, developed by Bit Bot Media and published by Crystal Dynamics, launches March 31 on PC, PS5, Switch, Switch 2, and Series X|S. It's the first new entry in the series since 2003.",
-          "source": "The Avocado",
-          "url": "https://the-avocado.org/2026/03/31/new-game-releases-03-31-26-04-06-26/"
+          "title": "Goat Simulator 3 Launches on Nintendo Switch 2 Today",
+          "summary": "Goat Simulator 3 releases on April 1 for Nintendo Switch 2, allowing players to cause chaos in an open world alone or with friends, featuring outfits, minigames, and secrets.",
+          "source": "Nintendo UK",
+          "url": "https://www.nintendo.com/en-gb/News/2026/April/Upcoming-games-April-2026-3062250.html"
         },
         {
-          "title": "South of Midnight Launches on PS5 and Switch 2",
-          "summary": "South of Midnight releases today, March 31, for PS5 and Switch 2. It's highlighted among the top new game releases for the week.",
-          "source": "The Avocado",
-          "url": "https://the-avocado.org/2026/03/31/new-game-releases-03-31-26-04-06-26/"
+          "title": "Starfield Arrives on PlayStation 5 on April 7",
+          "summary": "Bethesda's Starfield, previously an Xbox and PC exclusive, launches on PS5 on April 7 alongside updates, marking a significant cross-platform expansion.",
+          "source": "Game File",
+          "url": "https://www.gamefile.news/p/back-next-week"
         },
         {
-          "title": "Star Wars Announces Monopoly: Star Wars Heroes vs. Villains for June Release",
-          "summary": "Lucasfilm teases Monopoly: Star Wars Heroes vs. Villains, a competitive team-based take on the board game, launching June 11 on PS5, Xbox Series X|S, Switch 1/2, PC, and GeForce NOW. Full reveal set for April 29.",
-          "source": "The Direct",
-          "url": "https://thedirect.com/article/star-wars-video-games-2026"
+          "title": "April 2026 Video Game Release Calendar Revealed with 30+ Titles",
+          "summary": "Numerous games are set for April 2026, including Darwin's Paradox and Morkull Ascend to the Gods on April 2, Hades II on April 14, and major titles like PRAGMATA and REPLACED.",
+          "source": "Gaming Bible",
+          "url": "https://www.gamingbible.com/news/april-2026-video-game-releases-927705-20260331"
         },
         {
-          "title": "Canceled Dreamcast Game Propeller Arena Finally Releases After 25 Years",
-          "summary": "Propeller Arena: Aviation Battle Championship, originally canceled post-9/11, is now live online in March 2026 with multiplayer dogfights, though facing network issues. Community is arranging six-player matches via Discord.",
-          "source": "ComicBook.com",
-          "url": "https://comicbook.com/gaming/news/canceled-dreamcast-game-finally-releases-after-25-years/"
+          "title": "Pokémon Champions Releases on Switch April 8",
+          "summary": "Pokémon Champions launches on Nintendo Switch on April 8, with a mobile version planned later, highlighted in upcoming Nintendo and Kinda Funny previews.",
+          "source": "Nintendo UK",
+          "url": "https://www.nintendo.com/en-gb/News/2026/April/Upcoming-games-April-2026-3062250.html"
         },
         {
-          "title": "PSO2 New Genesis Headline WAVE Broadcasts Latest Updates Today",
-          "summary": "Sega's Phantasy Star Online 2 New Genesis streams its Headline WAVE program today at 5:00 AM PDT, covering April ver. 2 updates, story content, campaigns, and dev messages.",
-          "source": "YouTube - NGS Headline WAVE",
-          "url": "https://www.youtube.com/watch?v=G0Ny2rbUx48"
+          "title": "Nexon Announces Strategy Shift: Fewer Bets, More Conviction",
+          "summary": "Nexon, publisher of MapleStory and Arc Raiders, revealed to investors it will take fewer risks but invest more heavily in select projects amid 2026 industry trends.",
+          "source": "Game File",
+          "url": "https://www.gamefile.news/p/back-next-week"
         },
         {
-          "title": "Gaming Investment Funds Pivot Away from Industry Amid Slowdown",
-          "summary": "Two of three backed funds shift from gaming to other sectors like satellites, citing flops like Cyberpunk 2077 and MindsEye, GTA 6 delays, and migration to mobile hyper-casual games. AI seen as potential disruptor.",
-          "source": "BitDigest",
-          "url": "https://bitdigest.substack.com/p/tuesday-march-31-2026"
+          "title": "Xenoblade Chronicles X: Definitive Edition Hits Switch 2 on April 16",
+          "summary": "Xenoblade Chronicles X: Definitive Edition releases physically for Nintendo Switch 2 on April 16, featuring updated story, enhancements, improved resolution, and frame rates.",
+          "source": "Nintendo UK",
+          "url": "https://www.nintendo.com/en-gb/News/2026/April/Upcoming-games-April-2026-3062250.html"
+        },
+        {
+          "title": "Pokémon Pokopia Partners with IKEA for April 1 Crossover in Japan",
+          "summary": "Pokémon Pokopia teams up with IKEA starting April 1 in Japan, featuring themed store areas and stamp rallies.",
+          "source": "Twin Galaxies",
+          "url": "https://www.twingalaxies.com/newsDetails/6899"
+        },
+        {
+          "title": "Top Anticipated April Releases Include REPLACED, PRAGMATA, and Saros",
+          "summary": "Men's Journal highlights REPLACED, PRAGMATA, and Saros among top April 2026 console releases, many delayed from March.",
+          "source": "Men's Journal",
+          "url": "https://www.mensjournal.com/entertainment/top-10-video-games-releasing-in-april-2026"
         }
       ],
       "citations": [
-        "https://the-avocado.org/2026/03/31/new-game-releases-03-31-26-04-06-26/",
-        "https://comicbook.com/gaming/news/canceled-dreamcast-game-finally-releases-after-25-years/",
-        "https://thedirect.com/article/star-wars-video-games-2026",
-        "https://www.youtube.com/watch?v=Aj4r5MZG5AU",
-        "https://bitdigest.substack.com/p/tuesday-march-31-2026",
-        "https://www.youtube.com/watch?v=G0Ny2rbUx48",
-        "https://www.youtube.com/shorts/I4EOLt4G0rU"
+        "https://www.gamingbible.com/news/april-2026-video-game-releases-927705-20260331",
+        "https://www.nintendo.com/en-gb/News/2026/April/Upcoming-games-April-2026-3062250.html",
+        "https://www.youtube.com/watch?v=BVBrfZUjsgY",
+        "https://www.mensjournal.com/entertainment/top-10-video-games-releasing-in-april-2026",
+        "https://www.gamefile.news/p/back-next-week",
+        "https://www.trueachievements.com/news/ta-playlist-april-2026",
+        "https://www.twingalaxies.com/newsDetails/6899",
+        "https://gamerant.com/game/name-that-game-2026-04-01/"
       ]
     },
     "tech_news": {
@@ -433,16 +378,33 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 3,
+      "items": [
+        {
+          "title": "Iran's IRGC Threatens Attacks on 18 US Tech Giants Starting April 1",
+          "summary": "Iran's Revolutionary Guards Corps (IRGC) has warned it will target 18 major US companies including Apple, Microsoft, Google, Meta, Tesla, Intel, IBM, and Boeing from 8 PM Tehran time on April 1, in retaliation for alleged involvement in assassinations of Iranian leaders. The statement urges employees to evacuate workplaces and residents near facilities to leave a one-kilometer radius.",
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/world/story/iran-says-it-will-attack-us-tech-giants-on-april-1-names-microsoft-apple-tesla-among-18-targets-2889767-2026-03-31"
+        },
+        {
+          "title": "Iran Lists Apple, Google, Meta Among 18 US Firms for Retaliatory Strikes",
+          "summary": "IRGC accuses US tech and industrial firms of complicity in targeted killings and plans to destroy their regional operations starting April 1, naming companies like Meta, Google, Apple, Tesla, and Boeing. The White House states the US is prepared to counter any attacks.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/iran-threatens-meta-google-apple-and-other-us-tech-companies-from-now-on/articleshow/129930975.cms"
+        },
+        {
+          "title": "Iran Warns of Destruction to US Tech Firms' Units Over Leader Assassinations",
+          "summary": "IRGC threatens strikes on 18 companies including Apple, Google, Meta, IBM, Tesla, Nvidia, and Boeing from April 1, labeling them terrorist entities involved in high-tech warfare against Iran. Employees are advised to leave workplaces immediately.",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/iran-war-news-if-you-kill-our-leaders-well-attack-us-firms-like-google-meta-iran-11292804"
+        }
+      ],
       "citations": [
-        "https://techstartups.com/2026/03/31/top-tech-news-today-march-31-2026/",
-        "https://coaio.com/news/2026/03/breaking-tech-news-on-march-31-2026-ai-investments-space-data-centers-2l0c/",
-        "https://agilebrandguide.com/yesterdays-marketing-technology-news-march-31-2026/",
-        "https://www.youtube.com/watch?v=R2eiGRdYD3Y",
-        "https://www.djc.com/news/en/12175114.html",
-        "https://techsoften.com/daily-tech-digest-tuesday-march-31-2026/",
-        "https://www.youtube.com/watch?v=0OykZpLBs60"
+        "https://www.indiatoday.in/world/story/iran-says-it-will-attack-us-tech-giants-on-april-1-names-microsoft-apple-tesla-among-18-targets-2889767-2026-03-31",
+        "https://www.multibagg.ai/market-pulse/articles/iran-targets-us-tech-giants-cmnf23taq01gno00jii49zgm5",
+        "https://timesofindia.indiatimes.com/technology/tech-news/iran-threatens-meta-google-apple-and-other-us-tech-companies-from-now-on/articleshow/129930975.cms",
+        "https://www.ndtv.com/world-news/iran-war-news-if-you-kill-our-leaders-well-attack-us-firms-like-google-meta-iran-11292804",
+        "https://www.manilatimes.net/2026/04/01/business/foreign-business/big-techs-635-billion-ai-spending-faces-energy-shock-test/2311742"
       ]
     }
   }
