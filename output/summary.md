@@ -1,19 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-04-02 18:19 UTC*
+*Generated: 2026-04-03 00:28 UTC*
 
-1. **Market Overview**: The cryptocurrency market has seen significant movements, with Bitcoin topping $112,000 and Solana posting a 16% gain. The US trade deficit has widened to $57.3 billion, and the Federal Reserve has cut rates by 0.25%. The macroeconomic landscape is mixed, with the IMF praising 2% GDP growth in the US despite concerns over tariffs and debt. Major indices have been volatile, with traders increasing risk bets ahead of Federal Reserve events.
+1. **Market Overview**: The global market is experiencing volatility due to the ongoing Iran conflict, which is disrupting energy flows through the Strait of Hormuz. The S&P 500 has pared losses, while the Nasdaq has entered correction territory. Major cryptocurrencies such as Bitcoin and Ethereum have seen significant declines, with Bitcoin dropping 3.89% to around $66,200. The crypto market has experienced $349 million in liquidations over the past 24 hours, with Ethereum leading at $90.83 million and Bitcoin at $80.89 million.
 
-2. **Tech & AI**: Google has released Gemma 4 open models, and Qwen3.6-Plus is working towards real-world agents. IBM has announced a strategic collaboration with Arm to shape the future of enterprise computing. Additionally, AMD has introduced Lemonade, a fast and open-source local LLM server using GPU and NPU. There have been significant developments in AI, including new model releases and research breakthroughs, but the provided data does not specify the details of these advancements.
+2. **Tech & AI**: Google has released Gemma 4 open models, a significant development in the field of AI. Additionally, AMD has introduced Lemonade, a fast and open-source local LLM server using GPU and NPU. OpenAI has also acquired TBPN, further expanding its capabilities in the AI sector. LinkedIn has been searching users' browser extensions, raising concerns about data privacy.
 
-3. **Gaming & Entertainment**: The provided data does not contain significant gaming news. However, there is a mention of "Backrooms" and the rise of the institutional gothic, which might be of interest to those following gaming or entertainment trends related to horror or mystery genres.
+3. **Gaming & Entertainment**: There have been significant developments in the gaming sector, including progress made on Xbox 360 recompilation. However, no major gaming news has been reported in the provided data.
 
 4. **Key Insights**:
-* The cryptocurrency market is experiencing significant volatility, with major coins like Bitcoin and Solana seeing substantial price movements.
-* The US economic landscape is mixed, with positive GDP growth but concerns over trade deficits, tariffs, and national debt.
-* Tech companies like Google, IBM, and AMD are making significant strides in AI and computing, which could impact various industries and markets.
-* Regulatory scrutiny is increasing in the crypto space, with Circle facing questions over its handling of stolen USDC.
-* SpaceX is preparing for a potential IPO, seeking $75 billion in funding to support its Starship and Starlink projects.
+* The Iran conflict is having a significant impact on global markets, with energy prices surging and supply chains being disrupted.
+* The crypto market is experiencing high volatility, with major cryptocurrencies such as Bitcoin and Ethereum seeing significant declines.
+* AI developments continue to advance, with Google releasing Gemma 4 open models and AMD introducing Lemonade.
+* Data privacy concerns are rising, with LinkedIn searching users' browser extensions.
+* The OECD has cut its global growth forecast to 2.9% due to the ongoing conflict and its impact on trade.
 
 5. **Watch List**: 
-Items to monitor in the coming days include the performance of major cryptocurrencies like Bitcoin and Solana, the impact of the Federal Reserve's rate cut on the US economy, developments in the tech and AI sectors, particularly from companies like Google, IBM, and AMD, and the progress of SpaceX's IPO preparations. Additionally, keep an eye on regulatory developments in the crypto space, especially concerning Circle and its handling of stolen assets.
+* The ongoing Iran conflict and its impact on global markets and energy prices.
+* The crypto market, particularly Bitcoin and Ethereum, as they continue to experience high volatility.
+* AI developments, including Google's Gemma 4 open models and AMD's Lemonade.
+* Data privacy concerns, particularly with regards to LinkedIn's browser extension searches.
+* The OECD's global growth forecast and its potential impact on trade and economies.
