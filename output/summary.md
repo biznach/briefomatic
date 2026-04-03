@@ -1,27 +1,26 @@
 # Daily Briefing
 
-*Generated: 2026-04-03 12:15 UTC*
+*Generated: 2026-04-03 18:13 UTC*
 
 **Market Overview**
-The global markets are experiencing volatility due to the ongoing US-Israel war with Iran, with oil prices surging above $110/barrel and gasoline reaching $4.08/gallon. This has led to recession fears and potential Fed rate hikes to combat inflation. The US jobs report for March is due soon, which will provide insight into the economic health. In the crypto market, Bitcoin and Ethereum have seen significant liquidations, with $443 million in total crypto liquidations, and prices have dropped, with Bitcoin trading down 2.5-3.89% to around $66,938-$66.2K.
+The US economy added 178,000 jobs in March, surpassing expectations, with the unemployment rate falling to 4.3%. However, gas prices have surged past $4/gallon nationwide due to the Iran war. In the crypto market, Bitcoin remains near $67,000 amid geopolitical tensions, while Solana's Drift Protocol was drained of $285M via a fake token and governance hijack. Major cryptocurrencies like Algorand and ONG have seen significant price movements, with Algorand climbing over 15% and ONG surging 38.39% in 24-hour rallies.
 
 **Tech & AI**
-There have been significant developments in the AI space, including the release of new models such as Qwen3.6-Plus and the expansion of IBM's AI capabilities. However, there have also been concerns raised about the safety and security of AI systems, with incidents such as the Sev 1 incident at Meta and the accidental shipping of source code by Anthropic. Additionally, there have been reports of AI-automated attacks, including the breach of 600+ FortiGate firewalls by a Chinese-tied offensive AI platform.
+Microsoft has launched three new in-house AI models, targeting OpenAI and Google, including a state-of-the-art speech transcription system. Google has unveiled Gemma 4, its latest open AI models designed to run efficiently on smartphones and PCs. A Nature Communications study showed that certain models can autonomously "jailbreak" other AIs with a 97% success rate. Additionally, there have been developments in post-quantum cryptography, with Algorand's price increasing due to these advancements.
 
 **Gaming & Entertainment**
-There have been some notable developments in the gaming space, including significant progress made on Xbox 360 recompilation and the release of new games and updates. However, there is no major news in this category that warrants special attention.
+No notable gaming news has been reported in the provided data.
 
 **Key Insights**
-* The ongoing US-Israel war with Iran is having a significant impact on global markets, with oil prices surging and recession fears rising.
-* The crypto market is experiencing volatility, with significant liquidations and price drops.
-* AI systems are becoming increasingly powerful, but also pose significant safety and security risks.
-* New models and technologies are being released, including Qwen3.6-Plus and IBM's expanded AI capabilities.
-* Cybersecurity is becoming a major concern, with AI-automated attacks on the rise.
+* The US economy is showing signs of strength, with 178,000 jobs added in March, but gas prices are surging due to the Iran war.
+* The crypto market is experiencing significant price movements, with Algorand and ONG seeing large gains.
+* Microsoft and Google are making competitive moves in the AI development space, with new model releases and advancements in on-device AI.
+* Post-quantum cryptography is becoming increasingly important, with developments in this area driving price movements in the crypto market.
+* Certain AI models have been shown to be capable of "jailbreaking" other AIs, highlighting potential security risks.
 
 **Watch List**
-* US jobs report for March
-* Oil prices and their impact on global markets
-* Crypto market volatility and potential regulatory developments
-* AI safety and security, including incidents and breaches
-* New model releases and technological advancements in the AI space
-* Cybersecurity threats and developments, including AI-automated attacks
+* US economy and job market developments
+* Crypto market price movements and regulatory news
+* AI model releases and advancements from major companies like Microsoft and Google
+* Post-quantum cryptography developments and their impact on the crypto market
+* Potential security risks associated with AI models and their interactions with other AIs
