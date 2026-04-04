@@ -1,24 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-04-04 06:23 UTC*
+*Generated: 2026-04-04 12:11 UTC*
 
-1. **Market Overview**: The US economy added 178,000 jobs in March, exceeding expectations, with unemployment at 4.3% and hourly earnings up 3.5% year-over-year. The crypto market saw significant liquidations, with $459 million in the past 24 hours, primarily affecting long positions. Bitcoin's price is around $66,600, down 47% from its all-time high, while Ethereum's price is $2055.3, with a 3.36% increase over the past 7 days. Oil prices surged toward $100 per barrel due to supply disruption fears from Iran air strikes.
+1. **Market Overview**: The US job market rebounded strongly in March with 178,000 new jobs, exceeding expectations. However, oil prices surged above $100 due to the Iran conflict, disrupting supply and pushing US gasoline prices above $4 per gallon. The average 30-year fixed mortgage rate increased to 6.46%. In the crypto market, Bitcoin stabilized near $67K, while Ethereum dipped slightly. Notable crypto gainers include ONG with a 38.39% surge and YB up 28.71%.
 
-2. **Tech & AI**: Microsoft launched three new in-house AI models, competing directly with OpenAI and Google. The models include a state-of-the-art speech transcription system. Additionally, there have been developments in AI documentation assistants, with companies like Mintlify working on virtual filesystems for their assistants. Anthropic is no longer allowing Claude Code subscriptions to use OpenClaw due to a privilege escalation vulnerability.
+2. **Tech & AI**: Researchers at Tohoku University demonstrated the use of living brain cells for machine learning, achieving complex time-series signals comparable to artificial systems. Additionally, there have been developments in code generation and improvements in floating-point formulas. Anthropic is no longer allowing Claude Code subscriptions to use OpenClaw due to a privilege escalation vulnerability.
 
 3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
 
 4. **Key Insights**:
-* The US job market is showing resilience, with significant job additions in March, which could influence Fed policy decisions.
-* Crypto market volatility is high, with substantial liquidations and price swings, indicating a risky environment for investors.
-* The development and launch of new AI models by major tech companies like Microsoft highlight the competitive landscape and rapid advancements in AI technology.
-* Geopolitical tensions, particularly the conflict with Iran, are impacting oil prices and potentially affecting global markets.
-* Gold has overtaken US Treasuries as the largest foreign reserve asset, which could signal a shift in global economic dynamics.
+* The US job market shows resilience despite global economic pressures.
+* Oil price volatility due to geopolitical conflicts can significantly impact markets and consumer prices.
+* Institutional interest in Ethereum is evident with Bitmine's acquisition of 40,000 ETH worth $82 million.
+* Living brain cells are being explored for machine learning applications, indicating innovative research in AI.
+* Crypto markets remain volatile, with notable gains and liquidations occurring within a 24-hour period.
 
 5. **Watch List**: 
-* US economic indicators and Fed policy decisions
-* Crypto market trends and regulatory developments
-* AI model releases and advancements from major tech companies
-* Geopolitical tensions and their impact on global markets
-* Oil price movements and their effects on the economy
-* Gold and other commodity prices as they relate to foreign reserve assets and economic shifts.
+* Oil prices and their impact on inflation and consumer spending.
+* Developments in the Iran conflict and its effects on global markets.
+* Bitcoin and Ethereum price movements and their influence on the broader crypto market.
+* Advances in AI research, particularly those involving biological components.
+* The performance of altcoins like ONG, YB, and SOL, which have shown significant volatility.
