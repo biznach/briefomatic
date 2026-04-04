@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T00:27:13.513850+00:00",
-  "generated_at_human": "2026-04-04 00:27 UTC",
+  "generated_at": "2026-04-04T06:23:39.562305+00:00",
+  "generated_at_human": "2026-04-04 06:23 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -10,68 +10,140 @@
         {
           "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
           "url": "https://news.ycombinator.com/item?id=47633396",
-          "score": 143,
-          "comments": 119
+          "score": 499,
+          "comments": 459
         },
         {
           "title": "Artemis II crew take “spectacular” image of Earth",
           "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-          "score": 435,
-          "comments": 180
+          "score": 649,
+          "comments": 240
         },
         {
-          "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
-          "url": "https://github.com/cmc-labo/tinyos-rtos",
-          "score": 55,
-          "comments": 12
+          "title": "Delve removed from Y Combinator",
+          "url": "https://www.ycombinator.com/companies/delve",
+          "score": 196,
+          "comments": 103
         },
         {
           "title": "iNaturalist",
           "url": "https://www.inaturalist.org/",
-          "score": 317,
-          "comments": 92
+          "score": 381,
+          "comments": 105
         },
         {
-          "title": "Fake Fans",
-          "url": "https://www.wordsfromeliza.com/p/fake-fans",
-          "score": 44,
-          "comments": 5
+          "title": "OpenClaw privilege escalation vulnerability",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+          "score": 316,
+          "comments": 174
         },
         {
-          "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
-          "url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
-          "score": 11,
-          "comments": 9
+          "title": "Herbie: Automatically improve imprecise floating point formulas",
+          "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
+          "score": 74,
+          "comments": 10
         },
         {
-          "title": "What changes when you turn a Linux box into a router",
-          "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-          "score": 87,
-          "comments": 23
+          "title": "Run Linux containers on Android, no root required",
+          "url": "https://github.com/ExTV/Podroid",
+          "score": 71,
+          "comments": 26
         },
         {
           "title": "The house is a work of art: Frank Lloyd Wright",
           "url": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
-          "score": 25,
-          "comments": 4
+          "score": 73,
+          "comments": 27
         },
         {
-          "title": "Show HN: I built a frontpage for personal blogs",
-          "url": "https://text.blogosphere.app/",
-          "score": 632,
-          "comments": 168
+          "title": "What changes when you turn a Linux box into a router",
+          "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+          "score": 139,
+          "comments": 34
+        },
+        {
+          "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
+          "url": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
+          "score": 109,
+          "comments": 61
+        },
+        {
+          "title": "Improving my focus by giving up my big monitor",
+          "url": "https://ounapuu.ee/posts/2026/04/01/focus/",
+          "score": 61,
+          "comments": 76
         },
         {
           "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
           "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-          "score": 207,
-          "comments": 93
+          "score": 268,
+          "comments": 108
+        },
+        {
+          "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+          "url": "https://github.com/borski/travel-hacking-toolkit",
+          "score": 53,
+          "comments": 19
+        },
+        {
+          "title": "Post Mortem: axios NPM supply chain compromise",
+          "url": "https://github.com/axios/axios/issues/10636",
+          "score": 219,
+          "comments": 96
         },
         {
           "title": "Go on Embedded Systems and WebAssembly",
           "url": "https://tinygo.org/",
-          "score": 123,
-          "comments": 15
+          "score": 142,
+          "comments": 18
+        },
+        {
+          "title": "The Technocracy Movement of the 1930s",
+          "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
+          "score": 82,
+          "comments": 75
+        },
+        {
+          "title": "Naming rights to street auctioned in San Francisco",
+          "url": "https://paintastreet.com/auction",
+          "score": 3,
+          "comments": 0
+        },
+        {
+          "title": "How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",
+          "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
+          "score": 93,
+          "comments": 43
+        },
+        {
+          "title": "Big-Endian Testing with QEMU",
+          "url": "https://www.hanshq.net/big-endian-qemu.html",
+          "score": 85,
+          "comments": 89
+        },
+        {
+          "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+          "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+          "score": 328,
+          "comments": 94
+        },
+        {
+          "title": "Delve sets the record straight on anonymous attacks",
+          "url": "https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks",
+          "score": 7,
+          "comments": 4
+        },
+        {
+          "title": "Scientists are working on \"everything vaccines\"",
+          "url": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
+          "score": 5,
+          "comments": 1
+        },
+        {
+          "title": "F-15E jet shot down over Iran",
+          "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+          "score": 439,
+          "comments": 1002
         },
         {
           "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
@@ -80,82 +152,10 @@
           "comments": 0
         },
         {
-          "title": "OpenClaw privilege-escalation bug",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-          "score": 222,
-          "comments": 150
-        },
-        {
-          "title": "How to Write Unmaintainable Code (1999)",
-          "url": "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html",
-          "score": 10,
-          "comments": 5
-        },
-        {
-          "title": "Oracle Files H-1B Visa Petitions Amid Mass Layoffs",
-          "url": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
-          "score": 326,
-          "comments": 183
-        },
-        {
-          "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
-          "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
-          "score": 65,
-          "comments": 35
-        },
-        {
-          "title": "The FAA \"Temporary\" Drone Restriction Blatant Attempt to Criminalize Filming ICE",
-          "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
-          "score": 18,
-          "comments": 0
-        },
-        {
-          "title": "Why are we still using Markdown?",
-          "url": "https://bgslabs.org/blog/why-are-we-using-markdown/",
-          "score": 44,
-          "comments": 103
-        },
-        {
-          "title": "Bourbon waste could provide next-gen supercapacitor components",
-          "url": "https://spectrum.ieee.org/supercapacitor-electrodes-bourbon-waste",
-          "score": 7,
-          "comments": 1
-        },
-        {
-          "title": "F-15E jet shot down over Iran",
-          "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-          "score": 344,
-          "comments": 795
-        },
-        {
-          "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
-          "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
-          "score": 110,
-          "comments": 53
-        },
-        {
-          "title": "Age verification on Systemd and Flatpak",
-          "url": "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/",
-          "score": 57,
-          "comments": 59
-        },
-        {
-          "title": "Async Python Is Secretly Deterministic",
-          "url": "https://www.dbos.dev/blog/async-python-is-secretly-deterministic",
-          "score": 61,
-          "comments": 26
-        },
-        {
-          "title": "Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion",
-          "url": "https://github.com/sleep3r/mtproto.zig",
-          "score": 6,
-          "comments": 4
-        },
-        {
-          "title": "Build your own Dial-up ISP with a Raspberry Pi",
-          "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
-          "score": 101,
-          "comments": 22
+          "title": "Fake Fans",
+          "url": "https://www.wordsfromeliza.com/p/fake-fans",
+          "score": 93,
+          "comments": 18
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 66934,
-          "change_24h": 0.16,
-          "change_7d": 0.91,
-          "market_cap": 1339217076552
+          "price": 66951,
+          "change_24h": 0.43,
+          "change_7d": 1.15,
+          "market_cap": 1339766760165
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2052.88,
-          "change_24h": -0.13,
-          "change_7d": 3.12,
-          "market_cap": 247747654916
+          "price": 2055.3,
+          "change_24h": -0.28,
+          "change_7d": 3.36,
+          "market_cap": 248059252132
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 80.26,
-          "change_24h": 1.37,
-          "change_7d": -3.29,
-          "market_cap": 45973159913
+          "price": 80.29,
+          "change_24h": 1.25,
+          "change_7d": -2.75,
+          "market_cap": 45989561671
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.091373,
-          "change_24h": 1.0,
-          "change_7d": 1.5,
-          "market_cap": 14043817476
+          "price": 0.091114,
+          "change_24h": -0.04,
+          "change_7d": 1.27,
+          "market_cap": 14010433926
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.245654,
-          "change_24h": 2.62,
-          "change_7d": -0.1,
-          "market_cap": 9064025546
+          "price": 0.245076,
+          "change_24h": 0.36,
+          "change_7d": 0.03,
+          "market_cap": 9036295842
         }
       ]
     },
@@ -214,32 +214,12 @@
         {
           "name": "edgeX",
           "symbol": "EDGE",
-          "market_cap_rank": 105
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 107
-        },
-        {
-          "name": "pippin",
-          "symbol": "PIPPIN",
-          "market_cap_rank": 646
-        },
-        {
-          "name": "StakeStone",
-          "symbol": "STO",
-          "market_cap_rank": 594
+          "market_cap_rank": 113
         },
         {
           "name": "Siren",
           "symbol": "SIREN",
-          "market_cap_rank": 269
-        },
-        {
-          "name": "Algorand",
-          "symbol": "ALGO",
-          "market_cap_rank": 65
+          "market_cap_rank": 192
         },
         {
           "name": "Pi Network",
@@ -247,19 +227,39 @@
           "market_cap_rank": 45
         },
         {
-          "name": "Core",
-          "symbol": "CORE",
-          "market_cap_rank": 684
+          "name": "Ontology Gas",
+          "symbol": "ONG",
+          "market_cap_rank": 449
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 107
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 128
+        },
+        {
+          "name": "pippin",
+          "symbol": "PIPPIN",
+          "market_cap_rank": 584
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 35
+        },
+        {
+          "name": "StakeStone",
+          "symbol": "STO",
+          "market_cap_rank": 630
+        },
+        {
+          "name": "ZKsync",
+          "symbol": "ZK",
+          "market_cap_rank": 204
         }
       ]
     },
@@ -268,61 +268,38 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 4,
       "items": [
         {
-          "title": "U.S. Stocks Close Mixed Amid Iran War Tensions and Trump Statements",
-          "summary": "U.S. stocks ended mixed after President Trump vowed to hit Iran 'extremely hard' in coming weeks, while oil prices soared over 10% on Thursday. Separately, the Dow surged 1,000 points earlier as Trump signaled a possible off-ramp from escalation.[2]",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/"
-        },
-        {
-          "title": "March Jobs Report Shows Solid Gains Despite Prior Revision",
-          "summary": "The Labor Department reported stronger-than-expected job growth in March, exceeding economist estimates of 40,000 with upward revision to February's figures. Wages grew but at a slower pace than recent years.[1][3]",
-          "source": "Fox Business / Marketplace",
-          "url": "https://www.foxbusiness.com/category/economic-indicators"
-        },
-        {
-          "title": "Gas Prices Surge Above $4/Gallon Due to Iran Conflict Oil Shock",
-          "summary": "National average gas prices topped $4 per gallon for the first time since 2022, driven by Iran war disruptions pushing oil over $100/barrel and a 34% monthly rise. Prices expected to continue climbing.[1][2]",
-          "source": "Fox Business / ABC News",
-          "url": "https://www.foxbusiness.com/category/economic-indicators"
-        },
-        {
-          "title": "Fed Officials Warn of Inflation Risks from Energy Price Spike",
-          "summary": "Fed President John Williams cautioned that rising energy prices from the Iran War could spread inflation across sectors; Chair Powell highlighted a new supply shock as oil tops $100/barrel. Goldman Sachs raised its inflation forecast.[1]",
+          "title": "U.S. Adds 178,000 Jobs in March, Triple Economist Forecasts",
+          "summary": "The U.S. economy added 178,000 jobs in March, far exceeding expectations after February losses, with unemployment dipping to 4.3% and hourly earnings up 3.5% year-over-year. President Trump credited his policies, including tariffs, while the data suggests the Federal Reserve may hold rates steady amid persistent inflation.",
           "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/category/economic-indicators"
+          "url": "https://www.foxbusiness.com/politics/trump-touts-unexpectedly-high-march-jobs-report-economy-rebounds-from-weak-february"
         },
         {
-          "title": "30-Year Mortgage Rates Climb to 6.46% Amid Economic Pressures",
-          "summary": "The average 30-year fixed mortgage rate rose to 6.46% this week from 6.38%, marking the highest since September per Freddie Mac data. Earlier reports noted a jump from 6.22% to 6.38%.[1][2]",
-          "source": "Fox Business / ABC News",
-          "url": "https://www.foxbusiness.com/category/economic-indicators"
+          "title": "Strategist Rejects U.S. Recession Fears Despite Iran Conflict Volatility",
+          "summary": "Carson Group's Ryan Detrick states the U.S. economy shows no recession signs, citing strong corporate earnings and improving manufacturing surveys, even as Iran war disrupts oil supply. Prolonged Strait of Hormuz closure could pressure Fed policy and heighten inflation risks.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/economy/popular-strategist-has-blunt-us-recession-message"
         },
         {
-          "title": "Amazon Imposes 3.5% Fuel Surcharge on Third-Party Sellers",
-          "summary": "Amazon will add a 3.5% surcharge on third-party sellers starting later this month, citing war-driven fuel price spikes and logistics costs.[2]",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/"
+          "title": "Iran Air Strikes Trigger Oil Surge to Near $100 and Four-Week Stock Slump",
+          "summary": "Energy market turmoil from air strikes on Iran has driven WTI oil prices toward $100 per barrel due to supply disruption fears, leading to a four-week decline in stocks amid heightened geopolitical uncertainty.",
+          "source": "South State Bank",
+          "url": "https://www.southstatebank.com/wealth/on-point-market-commentary/supply-disruption-leads-to-surge-in-oil-and-slump-in-stocks"
         },
         {
-          "title": "Oracle Lays Off Thousands in Shift to AI Investments",
-          "summary": "Oracle reportedly laid off thousands of workers as part of reallocating resources toward AI investments.[2]",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/"
-        },
-        {
-          "title": "Tesla Sales Rise but Fall Short After Musk Boycotts",
-          "summary": "Tesla reported rising sales following a tough year of boycotts related to Elon Musk, though results still missed expectations.[2]",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/"
+          "title": "Expert Warns of Potentially Difficult Monday for Markets Amid Geopolitical Tensions",
+          "summary": "SlateStone's Kenny Polcari highlights investor responses to geopolitical uncertainty, predicting a challenging market open on Monday due to ongoing global risks.",
+          "source": "Fox Business (YouTube)",
+          "url": "https://www.youtube.com/watch?v=KNriIb9h1ys"
         }
       ],
       "citations": [
-        "https://www.foxbusiness.com/category/economic-indicators",
-        "https://abcnews.com/Business/",
-        "https://www.marketplace.org"
+        "https://www.foxbusiness.com/politics/trump-touts-unexpectedly-high-march-jobs-report-economy-rebounds-from-weak-february",
+        "https://www.thestreet.com/economy/popular-strategist-has-blunt-us-recession-message",
+        "https://www.youtube.com/watch?v=KNriIb9h1ys",
+        "https://www.southstatebank.com/wealth/on-point-market-commentary/supply-disruption-leads-to-surge-in-oil-and-slump-in-stocks"
       ]
     },
     "crypto_news": {
@@ -330,51 +307,47 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "ONG Leads Crypto Gainers with 38.39% Surge to $0.0911",
-          "summary": "Ontology Gas (ONG) topped 24-hour gainers with a 38.39% price increase to $0.0911, backed by $32.86 million in trading volume. YB followed with 28.71% gains to $0.15 and $59.66 million volume.",
+          "title": "Crypto Market Liquidations Reach $459 Million in 24 Hours, Long Positions Hit Hardest",
+          "summary": "The cryptocurrency market saw $459 million in liquidations over the past 24 hours, with $270 million from long positions and significant impacts on Bitcoin ($98M) and Ethereum ($102M). A single $17.28 million liquidation occurred on Hyperliquid's SP500-USD pair amid high volatility.",
+          "source": "Phemex",
+          "url": "https://phemex.com/news/article/crypto-market-sees-459-million-in-liquidations-long-positions-suffer-70705"
+        },
+        {
+          "title": "Top Crypto Gainers: ONG Surges 38.39%, BLUR Up 40.30% in 24 Hours",
+          "summary": "Ontology Gas (ONG) led gainers with a 38.39% rise to $0.0911 on $32.86M volume, while BLUR surged 40.30% to $0.0243 with $99.24M volume; other notables include YB (+28.71%), NOM (+27.58%), and EDGE (+18.87% to +50.88%). High volumes suggest strong market interest.",
+          "source": "MEXC & CryptoRank",
+          "url": "https://www.mexc.com/news/1002397"
+        },
+        {
+          "title": "Major Crypto Losers: STO Plummets 33.47%, NOM Drops 29.05% Amid High Volume Sell-Offs",
+          "summary": "STO fell 33.47% to $0.1501 on $945.6M volume, NOM dropped 29.05% to $0.0059 with $230.68M volume, indicating intense selling pressure and potential capitulation.",
           "source": "MEXC",
           "url": "https://www.mexc.com/news/1002397"
         },
         {
-          "title": "BLUR Surges 40.30% in Bitcoin World Top Gainers",
-          "summary": "BLUR led Bitcoin world gainers with a 40.30% rise to $0.0243 and $99.24 million volume, followed by NOM up 27.58% to $0.0057 with $136.58 million volume. ONT gained 25.30% to $0.1042.",
-          "source": "CryptoRank",
-          "url": "https://cryptorank.io/news/feed/cf235-bitcoin-world-top-gainers-losers"
+          "title": "Bitcoin Trades at $66,600 After 47-50% Crash from ATH, Cathie Wood Remains Optimistic",
+          "summary": "Bitcoin is down 47% from its $126,080 ATH to around $66,600-$66,938, following a flash crash; Cathie Wood calls it a 'real victory' compared to past 85-95% drops, emphasizing institutionalization and low correlation with other assets.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/crypto/markets/cathie-wood-has-brutal-response-to-50-bitcoin-crash"
         },
         {
-          "title": "NTRN Explodes 134.78% as Top Altcoin Gainer",
-          "summary": "Neutron (NTRN) surged 134.78% to $0.0054 with $5.12 million volume, NOM rose 72.38% to $0.0101 with over $349 million volume, and STO gained 62.45% to $0.7286.",
-          "source": "MEXC",
-          "url": "https://www.mexc.co/news/1000528"
-        },
-        {
-          "title": "Algorand (ALGO) Soars 15% on Post-Quantum Cryptography Recognition",
-          "summary": "ALGO price rose 15.38% to $0.1185 with trading volume up 62.69% to $199.7 million, boosted by Google's citation of its post-quantum cryptography features.",
-          "source": "Coincentral via MEXC",
-          "url": "https://www.mexc.com/news/1002397"
-        },
-        {
-          "title": "Ethereum Drops Nearly 5% Amid $94M Liquidations",
-          "summary": "Ethereum fell nearly 5% to around $2,000 after climbing above $2,150, triggered by high leverage and Open Interest leading to $94 million in liquidations, the highest in the sector.",
-          "source": "altFINS",
-          "url": "https://altfins.com/crypto-news/crypto-news-summary/262563"
-        },
-        {
-          "title": "Bitcoin Dips 2.5% to $66,938 as Bloomberg Warns of Potential Crash",
-          "summary": "Bitcoin traded down 2.5% to $66,938 amid market volatility, with a Bloomberg strategist forecasting a possible return to $10,000 due to heightened risks.",
-          "source": "TradingView / NewsBTC",
+          "title": "Bloomberg Strategist Warns of New Bitcoin Crash, Potential Return to $10,000",
+          "summary": "Bitcoin, down 2.5% to $66,938 in 24 hours, faces crash risks with Bloomberg strategist forecasting a possible drop back to $10,000 amid heightened volatility.",
+          "source": "TradingView",
           "url": "https://www.tradingview.com/news/newsbtc:d8475b6dd094b:0-new-bitcoin-crash-ahead-bloomberg-strategist-forecasts-return-to-10-000-here-s-why/"
         }
       ],
       "citations": [
         "https://www.mexc.com/news/1002397",
         "https://cryptorank.io/news/feed/cf235-bitcoin-world-top-gainers-losers",
-        "https://www.mexc.co/news/1000528",
         "https://cryptoslate.com/highest-volume/",
-        "https://altfins.com/crypto-news/crypto-news-summary/262563",
+        "https://phemex.com/news/article/crypto-market-sees-459-million-in-liquidations-long-positions-suffer-70705",
+        "https://www.binance.com/en/square/post/308739341443441",
+        "https://www.binance.com/en/square/post/308542588244785",
+        "https://www.thestreet.com/crypto/markets/cathie-wood-has-brutal-response-to-50-bitcoin-crash",
         "https://www.tradingview.com/news/newsbtc:d8475b6dd094b:0-new-bitcoin-crash-ahead-bloomberg-strategist-forecasts-return-to-10-000-here-s-why/"
       ]
     },
@@ -383,62 +356,59 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 7,
       "items": [
         {
           "title": "Microsoft Launches Three New In-House AI Models Targeting OpenAI and Google",
-          "summary": "Microsoft released three foundational AI models built entirely in-house, including a state-of-the-art speech transcription system, positioning it as a direct competitor to OpenAI and Google.",
-          "source": "VentureBeat",
+          "summary": "Microsoft released three foundational AI models built entirely in-house, including a state-of-the-art speech transcription system, positioning it as a direct competitor to OpenAI and Google. The launch occurred on Thursday, April 3, 2026.",
+          "source": "VentureBeat via AIxploria",
           "url": "https://www.aixploria.com/en/ai-news-today/"
         },
         {
           "title": "Arcee Releases Open-Source Trinity-Large-Thinking Model for Enterprises",
-          "summary": "Arcee unveiled Trinity-Large-Thinking, a powerful U.S.-made open-source AI model that enterprises can download and customize, continuing the trend of accessible AI tools.",
-          "source": "VentureBeat",
+          "summary": "Arcee unveiled Trinity-Large-Thinking, a powerful U.S.-made open-source AI model that enterprises can download and customize, continuing the trend of accessible AI advancements.",
+          "source": "VentureBeat via AIxploria",
           "url": "https://www.aixploria.com/en/ai-news-today/"
         },
         {
-          "title": "Microsoft Announces $10 Billion Investment in Japan AI Data Centers",
-          "summary": "Microsoft plans to invest $10 billion over four years in Japan to build AI data centers, boosting local infrastructure and partnerships like with Sakura Internet.",
-          "source": "TechXplore",
-          "url": "https://www.aixploria.com/en/ai-news-today/"
-        },
-        {
-          "title": "Meta Pauses Work with Mercor After Major Data Breach",
-          "summary": "Meta halted collaboration with AI data vendor Mercor following a security incident that potentially exposed industry secrets, prompting investigations by major AI labs.",
-          "source": "Wired",
-          "url": "https://www.aixploria.com/en/ai-news-today/"
-        },
-        {
-          "title": "OpenAI Acquires Tech Talk Show TBPN in First Media Purchase",
-          "summary": "OpenAI bought Silicon Valley's TBPN, a popular tech-focused talk show, to drive AI conversations, rooted in long-standing ties with its founders.",
-          "source": "Silicon Republic",
+          "title": "OpenAI Acquires Tech Talk Show TBPN in First Media Acquisition",
+          "summary": "OpenAI purchased TBPN, Silicon Valley's popular tech-focused talk show, to drive AI conversations, rooted in long-standing ties with the founder. Multiple reports confirm this as OpenAI's initial foray into media.",
+          "source": "Silicon Republic, Ars Technica, The Next Web",
           "url": "https://www.newsnow.com/us/Science/AI"
         },
         {
-          "title": "Mercor Confirms Data Breach Affecting OpenAI and Anthropic Partners",
-          "summary": "AI startup Mercor, which supplies data to OpenAI and Anthropic, confirmed a data breach that has raised security concerns across the industry.",
-          "source": "Security Magazine",
+          "title": "Microsoft Plans $13 Billion Investment in Japan for AI and Cyber Defense",
+          "summary": "Microsoft announced a $13 billion investment in Japan focused on AI and cyber defense expansion, boosting Sakura Internet's stock by 20%. This underscores growing AI infrastructure investments in Asia.",
+          "source": "AsiaOne, Mint",
           "url": "https://www.newsnow.com/us/Science/AI"
         },
         {
-          "title": "Sony Acquires UK-Based Machine Learning Company",
-          "summary": "Sony expanded its AI capabilities by acquiring a UK machine learning firm, signaling continued consolidation in the sector.",
-          "source": "TechRaptor",
+          "title": "IBM and Arm Collaborate on Dual-Architecture Systems for AI Workloads",
+          "summary": "IBM partnered with Arm to develop dual-architecture hardware for enterprise AI and data-intensive workloads, enhancing flexibility, reliability, and security.",
+          "source": "The Fast Mode, IBM Newsroom",
           "url": "https://www.newsnow.com/us/Science/AI"
+        },
+        {
+          "title": "Federal Reserve Reports 41% Work-Related Generative AI Adoption in US",
+          "summary": "The U.S. Federal Reserve noted that 41% of individuals report using generative AI at work as of November 2025, with 78% of the labor force at AI-adopting firms and 54% at LLM-using ones, indicating rapid industry trends.",
+          "source": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html"
         },
         {
           "title": "Take-Two Lays Off AI Team Including Head of Artificial Intelligence",
-          "summary": "Take-Two Interactive reportedly laid off part of its AI team, including its Head of AI, amid industry realignments.",
-          "source": "PC Gamer",
+          "summary": "Take-Two Interactive laid off an unspecified portion of its AI team, including the Head of AI, amid industry restructuring.",
+          "source": "PC Gamer, GameRant",
           "url": "https://www.newsnow.com/us/Science/AI"
         }
       ],
       "citations": [
         "https://www.aixploria.com/en/ai-news-today/",
         "https://www.newsnow.com/us/Science/AI",
-        "https://www.informationweek.com/latest-news",
-        "https://www.thenation.com/article/environment/ai-climate-disinformation-waste/"
+        "https://newsroom.ibm.com/latest-news-artificial-intelligence",
+        "https://www.foxbusiness.com/category/artificial-intelligence",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html",
+        "https://www.youtube.com/watch?v=7kHg27HAwM4",
+        "https://www.thenation.com/?post_type=article&p=593091"
       ]
     },
     "gaming": {
@@ -446,76 +416,66 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 8,
       "items": [
         {
-          "title": "Marathon Extraction Shooter Reveals Release Date, Pricing, Voice Cast, and System Requirements",
-          "summary": "Bungie's Marathon launches on March 5 for $40 with a stacked voice cast and a limited edition DualSense controller revealed. Recommended system requirements have also been announced.",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com"
+          "title": "Crimson Desert Dataminers Uncover Hidden Survival Mechanics",
+          "summary": "Dataminers discovered unfinished survival-type endgame mechanics in Crimson Desert, hinting at potential future updates or modder implementations. Pearl Abyss is currently working on the next patch addressing known issues.",
+          "source": "YouTube - Best of Video Games",
+          "url": "https://www.youtube.com/watch?v=CrTNNfJUCqc"
         },
         {
-          "title": "Xbox Game Pass Confirms June 2025 Wave 1 Lineup Ahead of Xbox Games Showcase",
-          "summary": "Microsoft has unveiled the full list of games joining Xbox Game Pass in the first wave of June 2025.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "title": "Alone in the Dark Creator Crowdfunding Mega Drive Game with Unique Spinner Controller",
+          "summary": "Frédérick Raynal is crowdfunding PopCorn: Duel, a new Mega Drive/Genesis game featuring its own custom spinner controller.",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/category/news/"
         },
         {
-          "title": "Nioh 3 Announced at Sony’s State of Play, Available to Play Immediately",
-          "summary": "Team Ninja and Koei Tecmo announce Nioh 3 during Sony’s June State of Play showcase, allowing soulslike fans to dive in right away.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "title": "Star Fox Rumored for Switch Release This Year Following Mario Galaxy Movie Cameo",
+          "summary": "Leaker Nate the Hate claims Star Fox is coming to Switch this year as a big game, sparked by Fox McCloud's appearance in the Super Mario Galaxy Movie, amid mixed leak accuracy.",
+          "source": "IGN YouTube",
+          "url": "https://www.youtube.com/watch?v=YmTqoeCn1g4"
         },
         {
-          "title": "No More Heroes Developer Reveals New Ultraviolent Sci-Fi Game with Dead Rising Vibes",
-          "summary": "Suda51 and Grasshopper Manufacture unveil their latest over-the-top action game combining elements of No More Heroes and Dead Rising.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "title": "State of Decay 3 Opens Alpha Playtest Sign-Ups with Playtester Impressions",
+          "summary": "Undead Labs has opened sign-ups for State of Decay 3 alpha playtest, with playtesters sharing positive impressions from recent sessions highlighting key developments.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=LV18DrHXzMo"
         },
         {
-          "title": "Helldivers 2 Announces ‘Force of Law’ Warbond",
-          "summary": "Helldivers 2 reveals a new Force of Law Warbond coming soon to the cooperative shooter.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "title": "Sea of Stars Port Heading to Mobile with Pre-Orders Live April 7",
+          "summary": "Sea of Stars is coming to mobile platforms on April 7, with pre-orders now available digitally.",
+          "source": "YouTube Emulation News",
+          "url": "https://www.youtube.com/watch?v=HF1HJ-1Cwk8"
         },
         {
-          "title": "Bloodstained Sequel The Scarlet Engagement Revealed at State of Play",
-          "summary": "Developer ArtPlay unveils The Scarlet Engagement, a new entry in the Bloodstained series that looks nothing like the original.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "title": "Dolphin Emulator Port Progressing for Nintendo Switch",
+          "summary": "Developer Tico is working on porting the Dolphin emulator (GameCube/Wii) to Nintendo Switch, including Triforce Arcade support.",
+          "source": "YouTube Emulation News",
+          "url": "https://www.youtube.com/watch?v=HF1HJ-1Cwk8"
         },
         {
-          "title": "Uncharted 5 Speculation Surges After Naughty Dog Director's Cryptic Post",
-          "summary": "Hopes for Uncharted 5 intensify following an Instagram post from Naughty Dog's Shaun Escayg hinting at research resembling an Uncharted setting.",
-          "source": "indy100",
-          "url": "https://www.indy100.com/gaming/uncharted-5-release-date-news"
+          "title": "The Last of Us Online Director Learned of Cancellation Just 24 Hours Prior",
+          "summary": "The director of the canceled The Last of Us Online multiplayer project revealed they were informed of the cancellation only 24 hours before public announcement.",
+          "source": "Weapon Wheel Podcast YouTube",
+          "url": "https://www.youtube.com/watch?v=pO17wi-2qTg"
         },
         {
-          "title": "Bubsy 4D Announced as Franchise Revival After 30 Years",
-          "summary": "Fabraz reveals Bubsy 4D, a high-speed 3D platformer with improved gameplay and eye-catching graphics for retro fans.",
-          "source": "DLCompare",
-          "url": "https://www.dlcompare.com/gaming-news/bubsy-4d-revives-the-franchise-after-30-years-of-missteps"
-        },
-        {
-          "title": "Star Fox Game Rumored for Summer Release",
-          "summary": "Leaker Nate the Hate mentions a new Star Fox game coming this summer on a podcast.",
-          "source": "YouTube - This Week in Switch 2",
-          "url": "https://www.youtube.com/watch?v=tcPG7ain1Cs"
-        },
-        {
-          "title": "WoW Lead Producer Leaves Blizzard for Riot's MMO",
-          "summary": "World of Warcraft's lead producer departs Blizzard to join Riot Games' long-in-development MMO project.",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com"
+          "title": "Resident Evil Celebrates 30 Years with New Insights on Enduring Popularity",
+          "summary": "Resident Evil marks its 30th anniversary, with producers discussing its genre-defining impact, zombie lore, and strategies for keeping the series fresh.",
+          "source": "BBC News YouTube",
+          "url": "https://www.youtube.com/watch?v=itjoMHt0itU"
         }
       ],
       "citations": [
-        "https://gamerant.com/gaming/",
-        "https://www.indy100.com/gaming/uncharted-5-release-date-news",
+        "https://www.youtube.com/watch?v=CrTNNfJUCqc",
         "https://www.videogameschronicle.com/category/news/",
-        "https://www.youtube.com/watch?v=tcPG7ain1Cs",
-        "https://www.gamespot.com",
-        "https://www.dlcompare.com/gaming-news/bubsy-4d-revives-the-franchise-after-30-years-of-missteps"
+        "https://www.youtube.com/watch?v=YmTqoeCn1g4",
+        "https://www.youtube.com/watch?v=HF1HJ-1Cwk8",
+        "https://www.youtube.com/watch?v=pO17wi-2qTg",
+        "https://www.youtube.com/watch?v=NJSANO0RiOE",
+        "https://www.youtube.com/watch?v=LV18DrHXzMo",
+        "https://www.youtube.com/watch?v=itjoMHt0itU"
       ]
     },
     "tech_news": {
@@ -526,56 +486,55 @@
       "count": 7,
       "items": [
         {
-          "title": "Sony Interactive Entertainment Acquires Cinemersive Labs",
-          "summary": "Sony has acquired UK-based startup Cinemersive Labs, which develops tools to convert 2D photos and videos into 3D volumetric photographs. The startup will join Sony's Visual Computing Group.",
-          "source": "Techmeme / Engadget",
-          "url": "https://techmeme.com"
+          "title": "AWS Zones in Dubai and Bahrain 'Hard Down' Due to Iranian Strikes",
+          "summary": "Amazon's internal memo reveals that Iranian strikes have rendered two AWS zones in Dubai and Bahrain unavailable for an extended period, prompting employees to deprioritize these regions amid infrastructure damage in the Gulf.",
+          "source": "Big Technology",
+          "url": "https://www.techmeme.com/?full=t"
         },
         {
-          "title": "Microsoft Rolls Out Emergency Windows 11 Update",
-          "summary": "Microsoft released an emergency update for Windows 11 to fix issues from a broken March preview patch. Separately, Microsoft is forcibly installing Windows 11 25H2 on more computers.",
-          "source": "ExtremeTech / BetaNews",
-          "url": "https://www.newsnow.co.uk/h/Technology"
+          "title": "Block Lays Off 4,000 Employees Citing AI Efficiency Gains",
+          "summary": "Fintech company Block announced layoffs of more than 4,000 out of 10,000 staff due to efficiency gains from AI, causing shares to soar over 20% in after-hours trading.",
+          "source": "KSAT",
+          "url": "https://www.ksat.com/topic/Technology/"
         },
         {
-          "title": "Samsung Rolls Out Google Cast Support to TVs",
-          "summary": "Samsung is adding Google Cast support to its TV lineups for free, with the rollout now underway. Some Samsung TVs are already receiving the update.",
-          "source": "TechRadar / TrustedReviews",
-          "url": "https://www.newsnow.co.uk/h/Technology"
+          "title": "NASA Allows Astronauts Smartphones on Artemis II Moon Mission",
+          "summary": "Artemis II marks one of NASA's first times letting astronauts fly with modified iPhones for photos and videos during the moon mission.",
+          "source": "New York Times",
+          "url": "https://www.techmeme.com/?full=t"
         },
         {
-          "title": "Google Pixel 11 Pro XL Leaked in CAD Renders",
-          "summary": "New CAD-based renders of the Google Pixel 11 Pro XL have leaked, completing the family and showcasing a bold new camera bar design.",
-          "source": "GSMArena / TrustedReviews",
-          "url": "https://www.newsnow.co.uk/h/Technology"
+          "title": "Wipro Launches AI-Native Business Unit and Names New CEO",
+          "summary": "Wipro launched a dedicated AI-native business and platforms unit amid leadership changes, appointing Nagendra Bandaru as CEO of the AI segment.",
+          "source": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech"
         },
         {
-          "title": "Oppo Find X9 Ultra Appears in Real-Life Photos",
-          "summary": "The Oppo Find X9 Ultra has been shown in real-life images, reportedly overtaking the Vivo X300 Ultra in certain aspects.",
-          "source": "Phone Arena",
-          "url": "https://www.newsnow.co.uk/h/Technology"
+          "title": "Oracle Conducts Layoffs Amid Rising AI and Data Center Spending",
+          "summary": "Oracle trimmed its workforce, including Indian employees, as part of cost adjustments related to increased investments in AI and data centers.",
+          "source": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech"
         },
         {
-          "title": "Iran Claims Strikes on Oracle and Amazon Data Centers",
-          "summary": "Iran's IRGC claimed attacks on an Oracle data center in Dubai and an Amazon cloud facility in Bahrain, threatening major US tech companies. Dubai authorities denied the Oracle strike.",
-          "source": "YouTube / Various",
-          "url": "https://www.youtube.com/watch?v=Gfa_yGMW88Y"
+          "title": "Tesla Faces Escalated Federal Probe on Self-Driving Feature",
+          "summary": "U.S. regulators expanded a probe into Tesla's self-driving feature after crashes, coinciding with plans to sell cars without steering wheels or pedals.",
+          "source": "KSAT",
+          "url": "https://www.ksat.com/topic/Technology/"
         },
         {
-          "title": "North Korean Hackers Steal $280 Million from Drift",
-          "summary": "North Korean hackers seized $280 million from cryptocurrency firm Drift. Separately, UNC1069 conducted a social engineering attack on an Axios maintainer leading to an npm supply chain compromise.",
-          "source": "BleepingComputer / The Hacker News",
-          "url": "https://www.newsnow.co.uk/h/Technology"
+          "title": "Product Design Startup Noon Emerges from Stealth with $44M Funding",
+          "summary": "Noon, a product design startup, came out of stealth mode securing $44 million in funding to advance its operations.",
+          "source": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech"
         }
       ],
       "citations": [
-        "https://techmeme.com",
-        "https://www.newsnow.co.uk/h/Technology",
-        "https://interestingengineering.com",
-        "https://www.youtube.com/watch?v=Gfa_yGMW88Y",
+        "https://www.techmeme.com/?full=t",
+        "https://economictimes.indiatimes.com/tech",
+        "https://www.ksat.com/topic/Technology/",
+        "https://phys.org",
         "https://scitechdaily.com/news/technology/",
-        "https://abcnews.com/Technology/",
-        "https://phys.org/weekly-news/"
+        "https://abcnews.com/Technology/"
       ]
     }
   }

@@ -1,26 +1,24 @@
 # Daily Briefing
 
-*Generated: 2026-04-04 00:27 UTC*
+*Generated: 2026-04-04 06:23 UTC*
 
-**Market Overview**
-The current market sentiment is mixed, with U.S. stocks closing mixed amid Iran war tensions and Trump statements. The Dow surged 1,000 points earlier as Trump signaled a possible off-ramp from escalation. Oil prices soared over 10% on Thursday, and gas prices have surged above $4/gallon. In the crypto market, Bitcoin dipped 2.5% to $66,938, while Ethereum dropped nearly 5% to around $2,000. Other cryptocurrencies such as ONG, BLUR, and NTRN saw significant gains.
+1. **Market Overview**: The US economy added 178,000 jobs in March, exceeding expectations, with unemployment at 4.3% and hourly earnings up 3.5% year-over-year. The crypto market saw significant liquidations, with $459 million in the past 24 hours, primarily affecting long positions. Bitcoin's price is around $66,600, down 47% from its all-time high, while Ethereum's price is $2055.3, with a 3.36% increase over the past 7 days. Oil prices surged toward $100 per barrel due to supply disruption fears from Iran air strikes.
 
-**Tech & AI**
-There have been several notable developments in the tech and AI space. Anthropic is no longer allowing Claude Code subscriptions to use OpenClaw due to a privilege-escalation bug. Additionally, there have been advancements in areas such as embedded systems, WebAssembly, and virtual filesystems for AI documentation assistants. Oracle has laid off thousands of workers as part of reallocating resources toward AI investments.
+2. **Tech & AI**: Microsoft launched three new in-house AI models, competing directly with OpenAI and Google. The models include a state-of-the-art speech transcription system. Additionally, there have been developments in AI documentation assistants, with companies like Mintlify working on virtual filesystems for their assistants. Anthropic is no longer allowing Claude Code subscriptions to use OpenClaw due to a privilege escalation vulnerability.
 
-**Gaming & Entertainment**
-There is no significant gaming news to report at this time.
+3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
 
-**Key Insights**
-* The Iran war tensions are having a significant impact on the global economy, with oil prices soaring and gas prices surging above $4/gallon.
-* The crypto market is experiencing significant volatility, with some cryptocurrencies seeing large gains while others are experiencing losses.
-* There are notable developments in the tech and AI space, including advancements in embedded systems, WebAssembly, and virtual filesystems for AI documentation assistants.
-* Oracle's decision to lay off thousands of workers and reallocate resources toward AI investments is a significant trend in the industry.
-* The 30-year mortgage rate has climbed to 6.46%, marking the highest since September.
+4. **Key Insights**:
+* The US job market is showing resilience, with significant job additions in March, which could influence Fed policy decisions.
+* Crypto market volatility is high, with substantial liquidations and price swings, indicating a risky environment for investors.
+* The development and launch of new AI models by major tech companies like Microsoft highlight the competitive landscape and rapid advancements in AI technology.
+* Geopolitical tensions, particularly the conflict with Iran, are impacting oil prices and potentially affecting global markets.
+* Gold has overtaken US Treasuries as the largest foreign reserve asset, which could signal a shift in global economic dynamics.
 
-**Watch List**
-* The ongoing Iran war tensions and their impact on the global economy
-* The volatility in the crypto market and the potential for further price movements
-* The developments in the tech and AI space, including new model releases and company announcements
-* The impact of Oracle's decision to lay off thousands of workers and reallocate resources toward AI investments on the industry
-* The potential for further increases in mortgage rates and their impact on the housing market
+5. **Watch List**: 
+* US economic indicators and Fed policy decisions
+* Crypto market trends and regulatory developments
+* AI model releases and advancements from major tech companies
+* Geopolitical tensions and their impact on global markets
+* Oil price movements and their effects on the economy
+* Gold and other commodity prices as they relate to foreign reserve assets and economic shifts.
