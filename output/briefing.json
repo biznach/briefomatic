@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T12:11:49.270699+00:00",
-  "generated_at_human": "2026-04-04 12:11 UTC",
+  "generated_at": "2026-04-04T18:10:49.051494+00:00",
+  "generated_at_human": "2026-04-04 18:10 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,34 +8,94 @@
       "count": 25,
       "items": [
         {
-          "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+          "title": "Show HN: A game where you build a GPU",
+          "url": "https://jaso1024.com/mvidia/",
+          "score": 121,
+          "comments": 29
+        },
+        {
+          "title": "Simple self-distillation improves code generation",
           "url": "https://arxiv.org/abs/2604.01193",
-          "score": 75,
-          "comments": 17
+          "score": 373,
+          "comments": 113
+        },
+        {
+          "title": "12,000 AI-generated blog posts added in a single commit",
+          "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+          "score": 92,
+          "comments": 64
+        },
+        {
+          "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+          "url": "https://github.com/teamchong/turboquant-wasm",
+          "score": 58,
+          "comments": 2
+        },
+        {
+          "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+          "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+          "score": 92,
+          "comments": 22
         },
         {
           "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
           "url": "https://news.ycombinator.com/item?id=47633396",
-          "score": 784,
-          "comments": 612
+          "score": 940,
+          "comments": 726
+        },
+        {
+          "title": "Show HN: Running local OpenClaw together with remote agents in an open network",
+          "url": "https://github.com/hybroai/hybro-hub",
+          "score": 3,
+          "comments": 0
+        },
+        {
+          "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+          "url": "https://sllm.cloud",
+          "score": 34,
+          "comments": 21
         },
         {
           "title": "Some Unusual Trees",
           "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-          "score": 54,
-          "comments": 14
+          "score": 177,
+          "comments": 52
+        },
+        {
+          "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+          "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+          "score": 372,
+          "comments": 254
+        },
+        {
+          "title": "Components of a Coding Agent",
+          "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+          "score": 67,
+          "comments": 23
         },
         {
           "title": "Artemis II crew take “spectacular” image of Earth",
           "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-          "score": 808,
-          "comments": 284
+          "score": 950,
+          "comments": 321
         },
         {
-          "title": "Tesla Is Sitting on a Record 50k Unsold EVs",
-          "url": "https://insideevs.com/news/791999/tesla-unsold-inventory-record-q1-2026/",
-          "score": 27,
-          "comments": 17
+          "title": "Iran's Network of Cameras Bolsters Air Defenses, Expert Says",
+          "url": "https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8",
+          "score": 30,
+          "comments": 3
+        },
+        {
+          "title": "The Indie Internet Index – submit your favorite sites",
+          "url": "https://iii.social",
+          "score": 17,
+          "comments": 1
+        },
+        {
+          "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+          "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
+          "score": 108,
+          "comments": 43
         },
         {
           "title": "Mbodi AI (YC P25) Is Hiring",
@@ -44,118 +104,58 @@
           "comments": 0
         },
         {
-          "title": "The CMS is dead. Long live the CMS",
-          "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
-          "score": 3,
-          "comments": 0
+          "title": "Training mRNA Language Models Across 25 Species for $165",
+          "url": "https://news.ycombinator.com/item?id=47606244",
+          "score": 56,
+          "comments": 19
         },
         {
-          "title": "iNaturalist",
-          "url": "https://www.inaturalist.org/",
-          "score": 448,
-          "comments": 109
+          "title": "Electrical Transformer Manufacturing Is Throttling the Electrified Future",
+          "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
+          "score": 19,
+          "comments": 5
         },
         {
-          "title": "OpenClaw privilege escalation vulnerability",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-          "score": 404,
-          "comments": 200
-        },
-        {
-          "title": "Herbie: Automatically improve imprecise floating point formulas",
-          "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
-          "score": 136,
-          "comments": 18
-        },
-        {
-          "title": "Delve removed from Y Combinator",
-          "url": "https://www.ycombinator.com/companies/delve",
-          "score": 354,
-          "comments": 217
-        },
-        {
-          "title": "The most-disliked people in the publishing industry",
-          "url": "https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing",
-          "score": 14,
-          "comments": 3
-        },
-        {
-          "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
-          "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
+          "title": "Notes from from Butterick's Practical Typography",
+          "url": "https://adamadam.blog/2026/04/01/my-notes-from-buttericks-practical-typography/",
           "score": 4,
-          "comments": 1
-        },
-        {
-          "title": "Run Linux containers on Android, no root required",
-          "url": "https://github.com/ExTV/Podroid",
-          "score": 142,
-          "comments": 51
-        },
-        {
-          "title": "Improving my focus by giving up my big monitor",
-          "url": "https://ounapuu.ee/posts/2026/04/01/focus/",
-          "score": 109,
-          "comments": 131
-        },
-        {
-          "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-          "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-          "score": 330,
-          "comments": 123
+          "comments": 0
         },
         {
           "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
           "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+          "score": 245,
+          "comments": 152
+        },
+        {
+          "title": "What life looks like on the most remote inhabited island",
+          "url": "https://apps.npr.org/life-on-tristan-da-cunha/",
+          "score": 36,
+          "comments": 7
+        },
+        {
+          "title": "The most-disliked people in the publishing industry",
+          "url": "https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing",
           "score": 70,
-          "comments": 47
+          "comments": 24
         },
         {
-          "title": "What changes when you turn a Linux box into a router",
-          "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-          "score": 182,
-          "comments": 45
+          "title": "When legal sports betting surges, so do Americans' financial problems",
+          "url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
+          "score": 40,
+          "comments": 16
         },
         {
-          "title": "The Technocracy Movement of the 1930s",
-          "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
-          "score": 117,
-          "comments": 93
+          "title": "OpenClaw privilege escalation vulnerability",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+          "score": 485,
+          "comments": 223
         },
         {
-          "title": "Go on Embedded Systems and WebAssembly",
-          "url": "https://tinygo.org/",
-          "score": 168,
-          "comments": 23
-        },
-        {
-          "title": "Build your own Dial-up ISP with a Raspberry Pi",
-          "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
-          "score": 173,
-          "comments": 30
-        },
-        {
-          "title": "Big-Endian Testing with QEMU",
-          "url": "https://www.hanshq.net/big-endian-qemu.html",
-          "score": 99,
-          "comments": 107
-        },
-        {
-          "title": "F-15E jet shot down over Iran",
-          "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-          "score": 510,
-          "comments": 1138
-        },
-        {
-          "title": "The house is a work of art: Frank Lloyd Wright",
-          "url": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
-          "score": 88,
-          "comments": 40
-        },
-        {
-          "title": "How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",
-          "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
-          "score": 109,
-          "comments": 47
+          "title": "iNaturalist",
+          "url": "https://www.inaturalist.org/",
+          "score": 500,
+          "comments": 120
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 67080,
-          "change_24h": 0.1,
-          "change_7d": 1.17,
-          "market_cap": 1343533248547
+          "price": 67317,
+          "change_24h": 0.76,
+          "change_7d": 0.77,
+          "market_cap": 1346955674645
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2050.01,
-          "change_24h": -0.59,
-          "change_7d": 2.66,
-          "market_cap": 247699674316
+          "price": 2056.62,
+          "change_24h": 0.37,
+          "change_7d": 1.84,
+          "market_cap": 248154442604
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 80.18,
-          "change_24h": 0.02,
-          "change_7d": -3.32,
-          "market_cap": 45942910989
+          "price": 80.91,
+          "change_24h": 0.93,
+          "change_7d": -2.79,
+          "market_cap": 46360443613
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.091054,
-          "change_24h": -0.33,
-          "change_7d": -0.37,
-          "market_cap": 14001712438
+          "price": 0.092367,
+          "change_24h": 0.24,
+          "change_7d": -0.13,
+          "market_cap": 14192612183
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.244796,
-          "change_24h": -0.44,
-          "change_7d": -1.52,
-          "market_cap": 9028988106
+          "price": 0.247492,
+          "change_24h": -0.67,
+          "change_7d": -1.06,
+          "market_cap": 9130068004
         }
       ]
     },
@@ -214,22 +214,27 @@
         {
           "name": "Siren",
           "symbol": "SIREN",
-          "market_cap_rank": 185
+          "market_cap_rank": 105
         },
         {
-          "name": "Puffer",
-          "symbol": "PUFFER",
-          "market_cap_rank": 915
+          "name": "StakeStone",
+          "symbol": "STO",
+          "market_cap_rank": 455
         },
         {
-          "name": "edgeX",
-          "symbol": "EDGE",
-          "market_cap_rank": 120
+          "name": "Plasma",
+          "symbol": "XPL",
+          "market_cap_rank": 133
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 108
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 130
         },
         {
           "name": "Bitcoin",
@@ -237,29 +242,24 @@
           "market_cap_rank": 1
         },
         {
-          "name": "pippin",
-          "symbol": "PIPPIN",
-          "market_cap_rank": 532
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 36
+        },
+        {
+          "name": "edgeX",
+          "symbol": "EDGE",
+          "market_cap_rank": 128
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 108
         },
         {
           "name": "Sui",
           "symbol": "SUI",
           "market_cap_rank": 32
-        },
-        {
-          "name": "StakeStone",
-          "symbol": "STO",
-          "market_cap_rank": 580
-        },
-        {
-          "name": "Algorand",
-          "symbol": "ALGO",
-          "market_cap_rank": 64
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 128
         }
       ]
     },
@@ -268,46 +268,37 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "US Job Market Rebounds Strongly in March with 178,000 New Jobs",
-          "summary": "The U.S. added 178,000 jobs in March, significantly exceeding economist expectations, with the unemployment rate declining to 4.3%. The rebound reversed February's unexpected job losses, though underlying wage growth remains pressured by inflation.",
-          "source": "Labor Department / OPB",
-          "url": "https://www.opb.org/article/2026/04/03/employers-added-178000-jobs-as-labor-market-rebounds/"
+          "title": "US Adds 178,000 Jobs in March, Beating Forecasts Despite Iran War Concerns",
+          "summary": "The US economy added 178,000 nonfarm payroll jobs in March, surpassing expectations of 60,000, with unemployment falling to 4.3%; however, markets remain cautious due to the ongoing Iran war impacting growth and inflation.[1][2]",
+          "source": "MSNBC / tastylive",
+          "url": "https://www.youtube.com/watch?v=HIzGAM1Jc1U"
         },
         {
-          "title": "Oil Prices Surge Above $100 as Iran Conflict Disrupts Supply",
-          "summary": "WTI crude oil prices have neared $100 per barrel following airstrikes on Iran, triggering a four-week stock market decline and pushing U.S. gasoline prices above $4 per gallon for the first time since 2022.",
-          "source": "SouthState Bank / Fox Business",
+          "title": "Markets May Reject Strong Jobs Data Amid Iran War Recession Fears",
+          "summary": "Despite upbeat March jobs report with payrolls topping forecasts and unemployment at 4.3%, stocks and bonds may decline as the Fed struggles with inflation from the Iran war, while labor force participation hits a low.[2]",
+          "source": "tastylive",
+          "url": "https://www.tastylive.com/news-insights/why-markets-may-reject-upbeat-us-jobs-data-amid-the-iran-war"
+        },
+        {
+          "title": "Iran Air Strikes Cause Oil Surge to Near $100, Trigger Four-Week Stock Slump",
+          "summary": "Air strikes on Iran disrupted energy supplies, driving WTI oil prices toward $100 and leading to a four-week decline in stocks amid March market turmoil.[3]",
+          "source": "SouthState Bank",
           "url": "https://www.southstatebank.com/wealth/on-point-market-commentary/supply-disruption-leads-to-surge-in-oil-and-slump-in-stocks"
         },
         {
-          "title": "Fed Officials Warn of Energy-Driven Inflation Risks",
-          "summary": "Federal Reserve Chair Jerome Powell and other officials warned that rising energy prices from the Iran conflict could spread inflation across multiple economic sectors, with Goldman Sachs revising inflation forecasts higher for 2026.",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/category/economic-indicators"
-        },
-        {
-          "title": "30-Year Mortgage Rates Rise to 6.46%",
-          "summary": "The average rate on a 30-year fixed mortgage increased to 6.46% this week, up from 6.38% the previous week, reflecting broader market pressures from energy-driven inflation concerns.",
-          "source": "Freddie Mac / Fox Business",
-          "url": "https://www.foxbusiness.com/category/economic-indicators"
-        },
-        {
-          "title": "Airlines Raise Baggage Fees Amid Fuel Cost Surge",
-          "summary": "United Airlines and JetBlue announced baggage fee increases of $9-$10, citing surging jet fuel prices linked to the Iran conflict and global oil supply disruptions.",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/category/economic-indicators"
+          "title": "Atlanta Fed Downgrades Q1 Growth to 1% Amid Flat Job Market and Rising Inflation",
+          "summary": "The Atlanta Fed cut its first-quarter growth estimate to nearly 1%, citing a flat job market, inflation above target, and risks from the Iran war.[1]",
+          "source": "MSNBC",
+          "url": "https://www.youtube.com/watch?v=HIzGAM1Jc1U"
         }
       ],
       "citations": [
-        "https://www.foxbusiness.com/category/economic-indicators",
-        "https://realeconomy.rsmus.com/hiring-surged-in-march-but-the-gain-was-more-noise-than-signal/",
-        "https://www.opb.org/article/2026/04/03/employers-added-178000-jobs-as-labor-market-rebounds/",
-        "https://www.dol.gov/newsroom/releases/osec/osec20260403",
-        "https://www.southstatebank.com/wealth/on-point-market-commentary/supply-disruption-leads-to-surge-in-oil-and-slump-in-stocks",
-        "https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html"
+        "https://www.youtube.com/watch?v=HIzGAM1Jc1U",
+        "https://www.tastylive.com/news-insights/why-markets-may-reject-upbeat-us-jobs-data-amid-the-iran-war",
+        "https://www.southstatebank.com/wealth/on-point-market-commentary/supply-disruption-leads-to-surge-in-oil-and-slump-in-stocks"
       ]
     },
     "crypto_news": {
@@ -315,48 +306,40 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "ONG Leads Crypto Gainers with 38.39% Surge in 24 Hours",
-          "summary": "Ontology Gas (ONG) topped the 24-hour gainers with a 38.39% price increase to $0.0911 on $32.86M volume, followed by YB up 28.71% to $0.15 on $59.66M volume. Other notable gainers include IKA (+19.90%), PTB (+19.34%), and EDGE (+18.87%).",
-          "source": "MEXC",
-          "url": "https://www.mexc.com/news/1002397"
-        },
-        {
           "title": "$156 Million in Crypto Futures Liquidations Over Past 24 Hours",
-          "summary": "Crypto derivatives markets saw $156M in liquidations, led by ETH ($47.06M) and BTC ($46.07M), followed by SOL ($11.48M) and XRP ($3.91M). This highlights ongoing market volatility amid recent price movements.",
+          "summary": "Crypto futures markets saw $156 million in liquidations, led by ETH at $47.06 million and BTC at $46.07 million, followed by SOL and XRP. This underscores ongoing market volatility amid stable prices.",
           "source": "KuCoin",
           "url": "https://www.kucoin.com/news/flash/data-156m-in-crypto-futures-liquidations-in-past-24-hours"
         },
         {
-          "title": "Bitmine Acquires 40,000 ETH Worth $82 Million",
-          "summary": "Bitmine Immersion Technologies bought approximately 40,000 ETH (~$82M) via multiple transfers from FalconX wallets, increasing its Ethereum holdings. The purchase occurred as ETH traded around $2,049, signaling institutional interest.",
-          "source": "Stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/did-a-whale-just-scoop-ethereum-arkham-data-points-to-tom-lee-bitmine/cZJT2BjRI86"
+          "title": "Bitcoin Stabilizes Near $67,000 as Markets Stay Muted",
+          "summary": "Bitcoin traded around $67,000 with minimal movement after recent volatility between $65,700 and $69,200, while the total crypto market cap held below $2.4 trillion. Ethereum hovered near $2,050, down slightly.",
+          "source": "crypto.news",
+          "url": "https://crypto.news/crypto-market-update-bitcoin-cools-at-67k-as-pi-token-stabilizes-above-0-17/"
         },
         {
-          "title": "Bitcoin Stabilizes Near $67K Amid Muted Markets",
-          "summary": "Bitcoin traded around $66,871-$67K with a 0.34% gain, while Ethereum dipped 0.18% to $2,050. Markets remain volatile with rising liquidations and mixed altcoin performances.",
-          "source": "Economic Times",
-          "url": "https://economictimes.com/markets/cryptocurrency/bitcoin-holds-near-67k-as-crypto-markets-stay-muted-volatility-seen-rising-ahead/articleshow/130014542.cms"
+          "title": "Pi Network's PI Token Stabilizes Above $0.17 After Losses",
+          "summary": "PI token steadied above $0.17 following a sharp decline, pausing its downward trend amid broader flat altcoin performance. VeChain gained 9% while HASH dropped 10%.",
+          "source": "crypto.news",
+          "url": "https://crypto.news/crypto-market-update-bitcoin-cools-at-67k-as-pi-token-stabilizes-above-0-17/"
         },
         {
-          "title": "High Trading Volumes for Solana and Other Altcoins",
-          "summary": "Solana (SOL) saw high volume at $3.23B with 1.19% gain to $80.53, while EDGE surged 50.88% on $174.63M volume and ARIA gained 15.51% on $75.46M. JuChain (JU) recorded massive $2.27B volume.",
-          "source": "CryptoSlate",
-          "url": "https://cryptoslate.com/highest-volume/"
+          "title": "SIREN Token Surges 45.8% to $0.256 in 24 Hours",
+          "summary": "SIREN token experienced a dramatic 45.76% price increase, reaching $0.256 and entering the top 170 by market cap. The surge marks one of the strongest altcoin moves in the period.",
+          "source": "MEXC",
+          "url": "https://www.mexc.com/news/1004573"
         }
       ],
       "citations": [
-        "https://www.mexc.com/news/1002397",
-        "https://cryptorank.io/news/feed/bd412-top-crypto-gainers-losers-analysis",
         "https://www.kucoin.com/news/flash/data-156m-in-crypto-futures-liquidations-in-past-24-hours",
-        "https://cryptopotato.com/bitcoin-calms-at-67k-pi-networks-pi-token-finally-stabilizes-weekend-watch/",
-        "https://cryptoslate.com/highest-volume/",
-        "https://stocktwits.com/news-articles/markets/cryptocurrency/did-a-whale-just-scoop-ethereum-arkham-data-points-to-tom-lee-bitmine/cZJT2BjRI86",
+        "https://www.weex.com/news/detail/data-in-the-past-24-hours-the-total-liquidation-across-the-network-was-490196-million-with-long-positions-liquidated-at-212395-million-and-short-positions-liquidated-at-2778-million-624264",
+        "https://crypto.news/crypto-market-update-bitcoin-cools-at-67k-as-pi-token-stabilizes-above-0-17/",
         "https://economictimes.com/markets/cryptocurrency/bitcoin-holds-near-67k-as-crypto-markets-stay-muted-volatility-seen-rising-ahead/articleshow/130014542.cms",
-        "https://www.binance.com/en/square/post/308739341443441"
+        "https://www.binance.com/en/square/post/308739341443441",
+        "https://www.mexc.com/news/1004573"
       ]
     },
     "ai_news": {
@@ -367,53 +350,55 @@
       "count": 7,
       "items": [
         {
-          "title": "Tohoku University Demonstrates Living Brain Cells for Machine Learning",
-          "summary": "Researchers at Tohoku University and Future University Hakodate trained living rat cortical neurons in a reservoir computing framework to perform supervised temporal pattern learning tasks, producing complex time-series signals comparable to artificial systems. The breakthrough uses microfluidic devices for precise network control and suggests biological neural networks as alternatives to traditional ML models.",
-          "source": "TechXplore",
-          "url": "https://techxplore.com/news/2026-04-brain-cells-enable-machine.html"
+          "title": "Microsoft Launches Three New In-House AI Models Targeting OpenAI and Google",
+          "summary": "Microsoft released three foundational AI models built entirely in-house, including a state-of-the-art speech transcription system, as a direct challenge to competitors.",
+          "source": "VentureBeat via Aixploria",
+          "url": "https://www.aixploria.com/en/ai-news-today/"
         },
         {
-          "title": "Microsoft Announces $13B Investment in Japan for AI and Cyber Defense",
-          "summary": "Microsoft plans to invest $13 billion in Japan to expand AI and cyber defense capabilities, causing Sakura Internet's stock to jump 20%. The move highlights growing enterprise AI infrastructure investments in Asia.",
-          "source": "AsiaOne / Mint",
+          "title": "Arcee Releases Open-Source Trinity-Large-Thinking Model for Enterprise Customization",
+          "summary": "Arcee unveiled Trinity-Large-Thinking, a powerful U.S.-made open-source AI model that enterprises can download and customize.",
+          "source": "VentureBeat via Aixploria",
+          "url": "https://www.aixploria.com/en/ai-news-today/"
+        },
+        {
+          "title": "OpenAI Expands COO Brad Lightcap’s Role as AGI Chief Takes Medical Leave",
+          "summary": "OpenAI is reshuffling leadership with COO Brad Lightcap taking on expanded responsibilities amid the AGI chief's medical leave and looming IPO plans.",
+          "source": "Indian Express via NewsNow",
           "url": "https://www.newsnow.com/us/Science/AI"
         },
         {
-          "title": "OpenAI Acquires Tech Talk Show TBPN in First Media Purchase",
-          "summary": "OpenAI bought Silicon Valley's TBPN, a popular tech-focused talk show, rooted in decade-long ties with its founder, aiming to drive AI conversations. This marks OpenAI's entry into media amid its expanding 'side quests'.",
-          "source": "Silicon Republic / Ars Technica / The Next Web",
+          "title": "Take-Two Lays Off AI Team Head and Members Following CEO's Doubts",
+          "summary": "Take-Two Interactive laid off the head of its AI team and several members after the CEO expressed doubts about AI.",
+          "source": "Game Developer via NewsNow",
           "url": "https://www.newsnow.com/us/Science/AI"
         },
         {
-          "title": "Take-Two Lays Off AI Team Including Head of Artificial Intelligence",
-          "summary": "Take-Two Interactive laid off an unspecified portion of its AI team, including the Head of AI, as part of ongoing industry restructuring. This follows similar cuts at other firms amid AI focus shifts.",
-          "source": "PC Gamer / GameRant",
+          "title": "Claude Subscribers Lose Access to Third-Party Tools Unless Paying More",
+          "summary": "Anthropic's Claude subscribers have lost access to OpenClaw and other third-party tools unless they upgrade to higher payment tiers.",
+          "source": "XDA-Developers via NewsNow",
           "url": "https://www.newsnow.com/us/Science/AI"
         },
         {
-          "title": "Meta Cuts 200 Bay Area Jobs to Invest in AI Infrastructure",
-          "summary": "Meta is eliminating approximately 200 positions in the San Francisco Bay Area while redirecting resources to bolster AI infrastructure. Oracle is also reportedly laying off staff for similar AI-focused restructuring.",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/category/artificial-intelligence"
+          "title": "Gemini Overtakes Perplexity as No. 2 Chatbot for Website Referrals",
+          "summary": "Google's Gemini has surpassed Perplexity to become the second-leading chatbot in driving website referrals.",
+          "source": "MediaPost via NewsNow",
+          "url": "https://www.newsnow.com/us/Science/AI"
         },
         {
-          "title": "AI Talent Costs Surge with Higher Base Salaries for Top Experts",
-          "summary": "Startups are offering higher base salaries over equity to compete for elite AI talent, driving up costs amid intense demand. This trend reflects the booming AI job market.",
-          "source": "HR Executive / Wall Street Journal",
-          "url": "https://hrexecutive.com/ai-talent-is-getting-pricier-plus-news-from-tom-brady-sap-and-more/"
-        },
-        {
-          "title": "IBM and Arm Partner on Dual-Architecture Systems for AI Workloads",
-          "summary": "IBM and Arm are collaborating to develop dual-architecture enterprise systems optimized for AI workloads, enhancing efficiency in data processing and machine learning tasks.",
-          "source": "The Fast Mode",
+          "title": "Shopify Enables Merchants to Sell Directly via ChatGPT and AI Channels",
+          "summary": "Shopify has integrated features allowing merchants to sell products directly through ChatGPT and other AI channels.",
+          "source": "Small Business Trends via NewsNow",
           "url": "https://www.newsnow.com/us/Science/AI"
         }
       ],
       "citations": [
+        "https://www.aixploria.com/en/ai-news-today/",
         "https://www.newsnow.com/us/Science/AI",
+        "https://www.informationweek.com/machine-learning-ai/ai-innovations",
         "https://www.foxbusiness.com/category/artificial-intelligence",
-        "https://techxplore.com/news/2026-04-brain-cells-enable-machine.html",
-        "https://hrexecutive.com/ai-talent-is-getting-pricier-plus-news-from-tom-brady-sap-and-more/",
+        "https://www.popsci.com/technology/humans-beat-ai-at-video-games/",
+        "https://www.maitlandhigh.com.au/the-shocking-truth-50-of-developers-face-ai-takeover-ex-tech-giant-insider-reveals/",
         "https://www.thetimes.com/topic/artificial-intelligence"
       ]
     },
@@ -422,48 +407,41 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "title": "State of Decay 3 Alpha Playtest Announced",
-          "summary": "Undead Labs has announced an alpha playtest for State of Decay 3, allowing select players to sign up via the official website for early access. The game will feature improved four-player co-op, enhanced base-building, resource strategies, and intense combat, with no release date revealed yet.",
-          "source": "YouTube - IzPrebuilt & Various Channels",
+          "summary": "Microsoft has announced an alpha playtest for State of Decay 3, allowing selected players to sign up via the official website for early access. The announcement highlights improved four-player co-op compared to State of Decay 2, though no release date was revealed.",
+          "source": "IzPrebuilt YouTube",
           "url": "https://www.youtube.com/watch?v=fbnyUTtiXYY"
         },
         {
-          "title": "Crimson Desert Receives Major Patch Update",
-          "summary": "The latest Crimson Desert patch significantly increases camp stash inventory capacity and enables fast travel to Abyss Nexuses, while fixing a broken traversal ability, improving PS5 Pro PSSR, 4K upscaling on Xbox Series X, and addressing stability issues across platforms.",
-          "source": "YouTube - Gaming Channel",
-          "url": "https://www.youtube.com/watch?v=FOlDFDANWzg"
+          "title": "Hytale Reveals Major Updates Including Infinite World Height",
+          "summary": "Hytale announced significant changes such as infinite world height and the potential elimination of workstations, alongside a massive overhaul of crafting, progression, exploration, and end-game content in true early access style.",
+          "source": "Hytale News YouTube",
+          "url": "https://www.youtube.com/watch?v=FJI_hse0DUQ"
         },
         {
-          "title": "Rumors Swirl of Star Fox Return on Nintendo Switch",
-          "summary": "Leaker Nate the Hate claims a new Star Fox game is coming to Nintendo Switch this year, fueled by Fox McCloud's inclusion in the Super Mario Galaxy movie and recent Nintendo leaks, though the leaker's track record is mixed.",
-          "source": "IGN Nintendo Voice Chat",
-          "url": "https://www.youtube.com/watch?v=YmTqoeCn1g4"
+          "title": "Fortnite Teases New Content Including Save the World F2P and Toy Story Collaboration",
+          "summary": "Fortnite revealed upcoming updates, including Save the World going free-to-play on the same day as a major event, with Toy Story content arriving very soon.",
+          "source": "iRush YouTube",
+          "url": "https://www.youtube.com/watch?v=tQyyjxz-uPA"
         },
         {
-          "title": "Last of Us Online Director Learned of Cancellation Just 24 Hours Prior",
-          "summary": "The director of the canceled Last of Us Online multiplayer project revealed they were informed of the cancellation only 24 hours before it was public.",
-          "source": "Weapon Wheel Podcast",
-          "url": "https://www.youtube.com/watch?v=pO17wi-2qTg"
-        },
-        {
-          "title": "Resident Evil Celebrates 30 Years with Enduring Fan Obsession",
-          "summary": "BBC discusses Resident Evil's 30th anniversary, highlighting its role in spawning the survival horror genre, with insights from Resident Evil Requiem's producer on maintaining freshness amid zombie tales and intricate gameplay.",
-          "source": "BBC News",
-          "url": "https://www.youtube.com/watch?v=itjoMHt0itU"
+          "title": "Last Epoch Gears Up for Uber Abberoth Content",
+          "summary": "Last Epoch is preparing for the Uber Abberoth update, as covered in recent content focusing on builds, guides, and season developments.",
+          "source": "Raxxanterax YouTube",
+          "url": "https://www.youtube.com/watch?v=f4hODy-I_k8"
         }
       ],
       "citations": [
         "https://www.youtube.com/watch?v=fbnyUTtiXYY",
-        "https://www.youtube.com/watch?v=LV18DrHXzMo",
-        "https://www.youtube.com/watch?v=FOlDFDANWzg",
-        "https://www.youtube.com/watch?v=YmTqoeCn1g4",
-        "https://www.youtube.com/watch?v=pO17wi-2qTg",
-        "https://www.youtube.com/watch?v=itjoMHt0itU",
-        "https://www.espn.com/video/clip/_/id/48390407",
-        "https://www.espn.com/video/clip/_/id/48391259"
+        "https://www.youtube.com/watch?v=FJI_hse0DUQ",
+        "https://www.youtube.com/watch?v=tQyyjxz-uPA",
+        "https://www.youtube.com/watch?v=3eV_bjzTqss",
+        "https://www.youtube.com/watch?v=C1OK4CnrXO4",
+        "https://www.youtube.com/watch?v=f4hODy-I_k8",
+        "https://www.espn.com/video/clip/_/id/48390675"
       ]
     },
     "tech_news": {
@@ -471,45 +449,29 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 2,
       "items": [
         {
-          "title": "MIT Engineers Develop Lightning Strike Prediction Tool for Aircraft and Wind Turbines",
-          "summary": "MIT engineers have designed a simulation tool to predict lightning strikes on modern aircraft, which could also reduce damage to wind turbines. The model enhances safety for aviation and renewable energy infrastructure.",
-          "source": "Interesting Engineering",
-          "url": "https://interestingengineering.com/science"
+          "title": "Sony Interactive Entertainment Acquires Cinemersive Labs for 2D-to-3D Conversion Tools",
+          "summary": "Sony has acquired UK-based startup Cinemersive Labs, which develops tools to convert 2D photos and videos into 3D volumetric photographs. The startup will join Sony's Visual Computing Group to enhance PlayStation-related technologies.",
+          "source": "Techmeme",
+          "url": "https://techmeme.com"
         },
         {
-          "title": "US Scientists Create Superconducting Qubit Lasting 15x Longer Than Standard",
-          "summary": "Researchers have built a superconducting qubit that maintains coherence 15 times longer than industry standards by redesigning it with a two-pronged approach. This advances quantum computing stability.",
-          "source": "Interesting Engineering",
-          "url": "https://interestingengineering.com/science"
-        },
-        {
-          "title": "NASA and JAXA Test X-59 Supersonic Model in Mach 1.4 Wind Tunnel",
-          "summary": "NASA and JAXA conducted wind tunnel tests on a hand-sized X-59 model at Mach 1.4 speeds to gather data on quiet supersonic flight. The tests support development of low-boom supersonic aircraft.",
-          "source": "SciTechDaily",
-          "url": "https://scitechdaily.com/news/technology/"
-        },
-        {
-          "title": "New Optical Chip Enables Ultra-Fast Computing and Data Processing",
-          "summary": "Scientists developed a silicon photonics-based optical chip for next-generation ultra-fast computing and data processing. It promises significant speed improvements in tech hardware.",
-          "source": "SciTechDaily",
-          "url": "https://scitechdaily.com/news/technology/"
-        },
-        {
-          "title": "Harvard Textile Reduces Wind Drag by Up to 20% for Better Performance",
-          "summary": "Harvard researchers created a new textile that performs better in high wind speeds by cutting drag up to 20%. It has potential in sports gear and engineering applications.",
-          "source": "Interesting Engineering",
-          "url": "https://interestingengineering.com/science"
+          "title": "OpenAI COO Brad Lightcap Transitions to Special Projects Role; Fidji Simo on Medical Leave",
+          "summary": "OpenAI's COO Brad Lightcap is moving to a special projects role reporting to Sam Altman, while another top executive Fidji Simo takes medical leave for several weeks. This leadership change occurs amid ongoing company developments.",
+          "source": "Techmeme",
+          "url": "https://techmeme.com"
         }
       ],
       "citations": [
-        "https://economictimes.indiatimes.com/tech",
-        "https://www.youtube.com/watch?v=W1Mws_qxCRU",
-        "https://interestingengineering.com/science",
+        "https://techmeme.com",
+        "https://www.technewsworld.com",
+        "https://www.foxbusiness.com/category/artificial-intelligence",
+        "https://www.informationweek.com/machine-learning-ai/ai-innovations",
         "https://scitechdaily.com/news/technology/",
-        "https://phys.org/weekly-news/"
+        "https://phys.org/weekly-news/",
+        "https://www.newsfilecorp.com/news/technology"
       ]
     }
   }
