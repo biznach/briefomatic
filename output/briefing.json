@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T00:31:26.452017+00:00",
-  "generated_at_human": "2026-04-05 00:31 UTC",
+  "generated_at": "2026-04-05T06:28:47.278690+00:00",
+  "generated_at_human": "2026-04-05 06:28 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Introduction to Computer Music (2009) [pdf]",
+          "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+          "score": 114,
+          "comments": 27
+        },
+        {
           "title": "Show HN: A game where you build a GPU",
           "url": "https://jaso1024.com/mvidia/",
-          "score": 467,
-          "comments": 127
+          "score": 617,
+          "comments": 146
+        },
+        {
+          "title": "What if the browser built the UI for you?",
+          "url": "https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/",
+          "score": 28,
+          "comments": 38
         },
         {
           "title": "OpenScreen is an open-source alternative to Screen Studio",
           "url": "https://github.com/siddharthvaddem/openscreen",
-          "score": 56,
-          "comments": 10
-        },
-        {
-          "title": "How many products does Microsoft have named 'Copilot'?",
-          "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-          "score": 359,
-          "comments": 184
+          "score": 196,
+          "comments": 34
         },
         {
           "title": "LLM Wiki – example of an \"idea file\"",
           "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-          "score": 32,
-          "comments": 8
-        },
-        {
-          "title": "Embarrassingly simple self-distillation improves code generation",
-          "url": "https://arxiv.org/abs/2604.01193",
-          "score": 533,
-          "comments": 162
-        },
-        {
-          "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-          "url": "https://sllm.cloud",
-          "score": 120,
-          "comments": 62
-        },
-        {
-          "title": "Ruckus: Racket for iOS",
-          "url": "https://ruckus.defn.io/",
-          "score": 59,
-          "comments": 2
-        },
-        {
-          "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
-          "url": "https://github.com/teamchong/turboquant-wasm",
-          "score": 132,
-          "comments": 5
-        },
-        {
-          "title": "Show HN: I made open source, zero power PCB hackathon badges",
-          "url": "https://github.com/KaiPereira/Overglade-Badges",
-          "score": 33,
-          "comments": 2
-        },
-        {
-          "title": "The Indie Internet Index – submit your favorite sites",
-          "url": "https://iii.social",
-          "score": 92,
-          "comments": 16
+          "score": 133,
+          "comments": 36
         },
         {
           "title": "German implementation of eIDAS will require an Apple/Google account to function",
           "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-          "score": 30,
-          "comments": 22
+          "score": 94,
+          "comments": 55
         },
         {
-          "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-          "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-          "score": 345,
-          "comments": 151
+          "title": "Rubysyn: Clarifying Ruby's Syntax and Semantics",
+          "url": "https://github.com/squadette/rubysyn/blob/master/README.md",
+          "score": 19,
+          "comments": 0
+        },
+        {
+          "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
+          "url": "https://zml.ai/posts/zml-smi/",
+          "score": 14,
+          "comments": 3
+        },
+        {
+          "title": "How many products does Microsoft have named 'Copilot'?",
+          "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+          "score": 536,
+          "comments": 261
+        },
+        {
+          "title": "Show HN: I built a small app for FSI German Course",
+          "url": "https://detawk.com/",
+          "score": 13,
+          "comments": 2
+        },
+        {
+          "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+          "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+          "score": 215,
+          "comments": 49
+        },
+        {
+          "title": "Show HN: I made open source, zero power PCB hackathon badges",
+          "url": "https://github.com/KaiPereira/Overglade-Badges",
+          "score": 77,
+          "comments": 8
+        },
+        {
+          "title": "The Indie Internet Index – submit your favorite sites",
+          "url": "https://iii.social",
+          "score": 125,
+          "comments": 24
+        },
+        {
+          "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+          "url": "https://sllm.cloud",
+          "score": 143,
+          "comments": 71
+        },
+        {
+          "title": "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",
+          "url": "https://contrapunk.com/",
+          "score": 37,
+          "comments": 5
         },
         {
           "title": "Components of a Coding Agent",
           "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-          "score": 152,
-          "comments": 60
+          "score": 210,
+          "comments": 67
         },
         {
-          "title": "Advice to Young People, the Lies I Tell Myself (2024)",
+          "title": "Advice to young people, the lies I tell myself (2024)",
           "url": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
-          "score": 3,
-          "comments": 1
+          "score": 82,
+          "comments": 24
         },
         {
-          "title": "Some Unusual Trees",
-          "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-          "score": 245,
-          "comments": 70
+          "title": "Ruckus: Racket for iOS",
+          "url": "https://ruckus.defn.io/",
+          "score": 111,
+          "comments": 9
         },
         {
-          "title": "AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy",
-          "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
-          "score": 8,
-          "comments": 0
+          "title": "A case study in testing with 100+ Claude agents in parallel",
+          "url": "https://imbue.com/product/mngr_part_2/",
+          "score": 42,
+          "comments": 29
         },
         {
-          "title": "Emotion concepts and their function in a large language model",
-          "url": "https://www.anthropic.com/research/emotion-concepts-function",
-          "score": 136,
-          "comments": 143
+          "title": "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
+          "url": "https://static.laszlokorte.de/escher/",
+          "score": 52,
+          "comments": 10
         },
         {
-          "title": "The CMS is dead, long live the CMS",
-          "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
-          "score": 117,
-          "comments": 74
-        },
-        {
-          "title": "Breaking Enigma with Index of Coincidence on a Commodore 64",
-          "url": "https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/",
-          "score": 17,
-          "comments": 3
-        },
-        {
-          "title": "Training mRNA Language Models Across 25 Species for $165",
-          "url": "https://news.ycombinator.com/item?id=47606244",
-          "score": 108,
-          "comments": 27
-        },
-        {
-          "title": "IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf]",
-          "url": "https://bitsavers.org/pdf/ibm/3278/GA33-3056-0_3270_Information_Display_System_Color_and_Programmed_Symbols_3278_3279_3287_Sep1979.pdf",
-          "score": 31,
-          "comments": 8
-        },
-        {
-          "title": "Plague Ships (2020)",
-          "url": "https://www.afloat.com.au/feature/plague-ships/",
-          "score": 36,
+          "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+          "url": "https://github.com/teamchong/turboquant-wasm",
+          "score": 148,
           "comments": 6
         },
         {
-          "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
-          "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
-          "score": 153,
-          "comments": 55
+          "title": "The East India Company in Japan",
+          "url": "https://www.historytoday.com/archive/history-matters/east-india-company-japan",
+          "score": 7,
+          "comments": 0
         },
         {
-          "title": "Electrical Transformer Manufacturing Is Throttling the Electrified Future",
+          "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+          "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+          "score": 406,
+          "comments": 176
+        },
+        {
+          "title": "Electrical transformer manufacturing is throttling the electrified future",
           "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
-          "score": 57,
-          "comments": 48
+          "score": 68,
+          "comments": 61
         },
         {
-          "title": "Scientists observe an immune signaling complex forming inside cells",
-          "url": "https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research",
-          "score": 91,
-          "comments": 7
+          "title": "Writing Lisp is AI resistant and I'm sad",
+          "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+          "score": 59,
+          "comments": 53
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 67244,
-          "change_24h": 0.44,
-          "change_7d": 1.39,
-          "market_cap": 1345513784800
+          "price": 66753,
+          "change_24h": -0.23,
+          "change_7d": 0.1,
+          "market_cap": 1335888634585
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2063.72,
-          "change_24h": 0.51,
-          "change_7d": 2.67,
-          "market_cap": 248991701083
+          "price": 2034.51,
+          "change_24h": -0.93,
+          "change_7d": 1.49,
+          "market_cap": 245552026151
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 80.72,
-          "change_24h": 0.54,
-          "change_7d": -1.58,
-          "market_cap": 46241137332
+          "price": 79.63,
+          "change_24h": -0.82,
+          "change_7d": -3.74,
+          "market_cap": 45614421790
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.091904,
-          "change_24h": 0.57,
-          "change_7d": 1.18,
-          "market_cap": 14126399693
+          "price": 0.09011,
+          "change_24h": -1.07,
+          "change_7d": -0.99,
+          "market_cap": 13847816388
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.247982,
-          "change_24h": 0.95,
-          "change_7d": -0.19,
-          "market_cap": 9147947800
+          "price": 0.242742,
+          "change_24h": -0.94,
+          "change_7d": -1.07,
+          "market_cap": 8952259073
         }
       ]
     },
@@ -212,34 +212,44 @@
       "count": 10,
       "items": [
         {
+          "name": "Layer3",
+          "symbol": "L3",
+          "market_cap_rank": 635
+        },
+        {
           "name": "Siren",
           "symbol": "SIREN",
-          "market_cap_rank": 116
+          "market_cap_rank": 108
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 110
         },
         {
-          "name": "pippin",
-          "symbol": "PIPPIN",
-          "market_cap_rank": 500
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 130
+          "name": "Palladium Network",
+          "symbol": "PLLD",
+          "market_cap_rank": 484
         },
         {
           "name": "edgeX",
           "symbol": "EDGE",
-          "market_cap_rank": 128
+          "market_cap_rank": 121
         },
         {
-          "name": "Core",
-          "symbol": "CORE",
-          "market_cap_rank": 594
+          "name": "ZKsync",
+          "symbol": "ZK",
+          "market_cap_rank": 198
+        },
+        {
+          "name": "StakeStone",
+          "symbol": "STO",
+          "market_cap_rank": 460
+        },
+        {
+          "name": "pippin",
+          "symbol": "PIPPIN",
+          "market_cap_rank": 472
         },
         {
           "name": "Bitcoin",
@@ -247,19 +257,9 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Canton",
-          "symbol": "CC",
-          "market_cap_rank": 21
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 16
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 36
+          "name": "Core",
+          "symbol": "CORE",
+          "market_cap_rank": 556
         }
       ]
     },
@@ -268,43 +268,14 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
-      "items": [
-        {
-          "title": "US Economy Adds 178,000 Jobs in March, Unemployment Falls to 4.3%",
-          "summary": "The labor market rebounded strongly in March with 178,000 jobs added, nearly three times economist expectations, while the unemployment rate decreased to 4.3%. This marks the first complete month of job growth since the Iran conflict began.",
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/04/03/jobs-march-unemployment-trump"
-        },
-        {
-          "title": "Average US Mortgage Rates Climb to 6.46%, Highest in Nearly 7 Months",
-          "summary": "Long-term mortgage rates have reached their highest level in nearly seven months, reflecting broader economic pressures amid the Iran conflict and energy price volatility.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/alerts/Economy"
-        },
-        {
-          "title": "Gas Prices Surge Past $4 Per Gallon Amid Iran War",
-          "summary": "U.S. average gas prices have exceeded $4 per gallon for the first time since 2022, driven by global fuel price increases related to the ongoing Iran conflict.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/alerts/Economy"
-        },
-        {
-          "title": "Oracle Reportedly Lays Off Thousands as Part of AI Investment Shift",
-          "summary": "Oracle has announced significant workforce reductions as the company redirects resources toward artificial intelligence investments.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/alerts/Economy"
-        },
-        {
-          "title": "US Jobless Aid Filings Fall to 202,000 Despite Economic Uncertainty",
-          "summary": "Initial jobless claims have declined to 202,000, indicating that layoffs remain low despite ongoing concerns about the Iran conflict's economic impact.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/alerts/Economy"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://abcnews.com/alerts/Economy",
-        "https://www.axios.com/2026/04/03/jobs-march-unemployment-trump",
-        "https://www.youtube.com/watch?v=G5t73Vhc_0E"
+        "https://www.mprnews.org/business",
+        "https://www.youtube.com/watch?v=rR2ZyKy36kc",
+        "https://fred.stlouisfed.org/series/EMVMACROINTEREST",
+        "https://economictimes.com/small-biz/trade/exports/insights/charting-the-global-economy-oil-storms-higher-on-war-escalation/articleshow/130033922.cms",
+        "https://www.stonex.com/en/insights/bull-or-bear-what-is-the-prevailing-wind-for-risk-appetite/"
       ]
     },
     "crypto_news": {
@@ -312,60 +283,66 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 8,
       "items": [
         {
-          "title": "SIREN Token Surges 217% in 24 Hours Amid High Trading Volume",
-          "summary": "SIREN token recorded a massive 217.44% price increase to $0.49343, with $181.66 million in 24-hour trading volume against a $351.24 million market cap. The surge highlights strong capital inflows and market interest.",
-          "source": "MEXC",
-          "url": "https://www.mexc.com/news/1004851"
-        },
-        {
-          "title": "Crypto Liquidations Reach $59.82M with Shorts Leading Losses",
-          "summary": "Total crypto liquidations hit $59.82 million in the past 24 hours, with short positions suffering $38.93 million in losses compared to $20.89 million for longs. Bitcoin and Ethereum saw significantly higher short liquidations, indicating upward price pressure.",
+          "title": "Crypto Liquidations Surge to $60M in 24 Hours with Shorts Dominating Losses",
+          "summary": "Total crypto liquidations reached $59.82 million over the past 24 hours, with short positions accounting for $38.93 million compared to $20.89 million in longs; Bitcoin and Ethereum saw significantly higher short liquidations.",
           "source": "MEXC",
           "url": "https://www.mexc.com/news/1005020"
         },
         {
-          "title": "Top Gainers: EVER Surges 82%, RLS 54%, POLYX 25% in 24 Hours",
-          "summary": "Everscale (EVER) led with an 82.07% gain to $0.0067, followed by RLS at 54.41% to $0.0036 with $7.95M volume, and Polymesh (POLYX) at 25.22% with $72.24M volume. These moves suggest protocol updates or partnerships driving interest.",
-          "source": "CryptoRank",
-          "url": "https://cryptorank.io/news/feed/e3983-bitcoin-world-crypto-gainers-losers-6"
+          "title": "Bitcoin Trades Around $67,000 Amid Bearish Sentiment and Failed Safe-Haven Narrative",
+          "summary": "Bitcoin hovered near $67,000 after declining from $70,000, with bearish sentiment rising and its safe-haven status questioned amid geopolitical tensions and oil price surges.",
+          "source": "Crypto.news, Economies.com, Altfins",
+          "url": "https://crypto.news/crypto-market-update-bitcoin-cools-at-67k-as-pi-token-stabilizes-above-0-17/"
         },
         {
-          "title": "14.9M Chainlink (LINK) Tokens Worth $126M Transferred to Binance",
-          "summary": "A massive 14.9 million LINK inflow to Binance on April 3rd raises concerns of potential sell-side pressure, with LINK price lagging at $8.7 showing only 0.5% 24-hour gain. Analysts warn of further downside amid market uncertainty.",
-          "source": "altFINS",
-          "url": "https://altfins.com/crypto-news/crypto-news-summary/264459"
+          "title": "XRP Rises 3.23% to $1.35 on Ripple Partnership and ETF Buzz",
+          "summary": "XRP gained 3.23% amid optimism from Ripple’s Convera partnership and regulatory progress; SEC acknowledged Canary’s spot XRP ETF filing, potentially launching soon.",
+          "source": "Economies.com, TheStreet",
+          "url": "https://www.economies.com/crypto/news"
         },
         {
-          "title": "Bitcoin Stabilizes at $67K as Pi Network's PI Token Finds footing",
-          "summary": "Bitcoin price calmed around $67K with minimal movement, while Pi Network's PI token stabilized after volatility. HASH led losers, but VET re-entered gainers in the past 24 hours.",
-          "source": "CryptoPotato",
-          "url": "https://cryptopotato.com/bitcoin-calms-at-67k-pi-networks-pi-token-finally-stabilizes-weekend-watch/"
+          "title": "Block Launches Free Bitcoin Faucet After 16 Years",
+          "summary": "Jack Dorsey's Block announced a free Bitcoin faucet, reviving the promotional tool and stirring optimism amid market downturns.",
+          "source": "Altfins",
+          "url": "https://altfins.com/crypto-news/news-sentiment/d/7952"
         },
         {
-          "title": "Ethereum Foundation Approaches 70,000 Staked ETH Milestone",
-          "summary": "The Ethereum Foundation nears its 70,000 ETH staking target, with ETH price holding steady above $2,000 showing no major 24-hour change. This development underscores ongoing network progress.",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/newsbtc:e70e60bf1094b:0-ethereum-foundation-nears-70-000-staked-eth-target-details/"
+          "title": "Pi Network's PI Token Stabilizes Above $0.17 After Losses",
+          "summary": "PI token held above $0.17 following a sharp decline, while VeChain climbed 9% and HASH dropped 10% in notable altcoin moves.",
+          "source": "Crypto.news",
+          "url": "https://crypto.news/crypto-market-update-bitcoin-cools-at-67k-as-pi-token-stabilizes-above-0-17/"
         },
         {
-          "title": "BitMine Acquires 40,000 ETH Worth $82M Signaling Institutional Interest",
-          "summary": "BitMine purchased 40,000 ETH valued at $82.07 million, reflecting strong institutional accumulation in Ethereum amid stable prices.",
-          "source": "MEXC",
-          "url": "https://www.mexc.com/news/1004851"
+          "title": "Bitcoin and Ethereum Steady Despite Trump’s Iran Ultimatum",
+          "summary": "BTC at $67,404 and ETH at $2,073 saw slight 1% gains as markets awaited Middle East developments after President Trump’s 48-hour warning to Iran.",
+          "source": "DL News",
+          "url": "https://www.dlnews.com/articles/markets/bitcoin-price-stready-as-trump-threatens-iran/"
+        },
+        {
+          "title": "FLOKI Surges on Elon Musk’s 'Dog CEO' Revival",
+          "summary": "Floki meme coin rallied double digits after Elon Musk referenced his viral 'dog CEO' joke.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/crypto/trading"
+        },
+        {
+          "title": "High Volume Altcoins: AriaAI Up 15.82%, JuChain +2.24% with Massive Gains",
+          "summary": "Top volume cryptos included AriaAI (+15.82% to $0.56) and JuChain (+2.24% amid 84% weekly surge), per live rankings.",
+          "source": "CryptoSlate",
+          "url": "https://cryptoslate.com/highest-volume/"
         }
       ],
       "citations": [
-        "https://cryptorank.io/news/feed/e3983-bitcoin-world-crypto-gainers-losers-6",
-        "https://www.mexc.com/news/1004851",
-        "https://altfins.com/crypto-news/crypto-news-summary/264459",
-        "https://cryptopotato.com/bitcoin-calms-at-67k-pi-networks-pi-token-finally-stabilizes-weekend-watch/",
+        "https://www.economies.com/crypto/news",
+        "https://altfins.com/crypto-news/news-sentiment/d/7952",
+        "https://www.dlnews.com/articles/markets/bitcoin-price-stready-as-trump-threatens-iran/",
+        "https://cryptoslate.com/highest-volume/",
+        "https://www.thestreet.com/crypto/trading",
+        "https://crypto.news/crypto-market-update-bitcoin-cools-at-67k-as-pi-token-stabilizes-above-0-17/",
         "https://www.mexc.com/news/1005020",
-        "https://www.mexc.co/news/1004867",
-        "https://www.binance.com/en/square/post/308739341443441",
-        "https://www.tradingview.com/news/newsbtc:e70e60bf1094b:0-ethereum-foundation-nears-70-000-staked-eth-target-details/"
+        "https://www.mexc.co/news/1004905"
       ]
     },
     "ai_news": {
@@ -373,16 +350,77 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 10,
+      "items": [
+        {
+          "title": "OpenAI Undergoes Major C-Suite Overhaul",
+          "summary": "OpenAI is experiencing significant leadership changes with COO Brad Lightcap shifting out of his role and Fidji Simo, the AGI CEO, taking a medical leave of absence, signaling another round of executive restructuring at the company.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.com/tech/artificial-intelligence"
+        },
+        {
+          "title": "Meta Pauses Mercor Collaboration Following Data Breach",
+          "summary": "Meta has halted its work with AI training startup Mercor after a cyberattack exposed sensitive AI industry data, raising concerns about security in the AI development ecosystem.",
+          "source": "WIRED",
+          "url": "https://www.newsnow.com/ng/World/Science/AI"
+        },
+        {
+          "title": "Luma AI Raises $900 Million at $4 Billion Valuation",
+          "summary": "Video generation platform Luma AI secured $900 million in funding, bringing its valuation to approximately $4 billion, with CEO Amit Jain emphasizing the capital-intensive nature of the domain.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.com/tech/artificial-intelligence"
+        },
+        {
+          "title": "AMD, Cisco, and Saudi's Humain Launch AI Joint Venture",
+          "summary": "A new joint venture between AMD, Cisco, and Saudi Arabia's Humain will launch with a 100-megawatt data center project in Saudi Arabia, with Luma AI contracted as the first major customer.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.com/tech/artificial-intelligence"
+        },
+        {
+          "title": "Google Opens Largest AI Infrastructure Center Outside US in Taiwan",
+          "summary": "Alphabet's Google inaugurated its largest artificial intelligence infrastructure hardware engineering centre outside the United States in Taiwan, demonstrating long-term commitment to the region.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.com/tech/artificial-intelligence"
+        },
+        {
+          "title": "Nvidia and Menlo Micro Accelerate AI Chip Testing by 30-90%",
+          "summary": "Nvidia and Menlo Micro developed new switching chips that significantly speed up AI-chip testing, addressing a major production bottleneck as demand for AI chips surges.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.com/tech/artificial-intelligence"
+        },
+        {
+          "title": "IBM Expands FedRAMP Authorization for AI Solutions",
+          "summary": "IBM announced that 11 of its AI and automation software solutions, including products from the watsonx portfolio, have received Federal Risk and Authorization Management Program (FedRAMP) authorization.",
+          "source": "IBM Newsroom",
+          "url": "https://newsroom.ibm.com/latest-news-artificial-intelligence"
+        },
+        {
+          "title": "Moonbounce Raises $12 Million for AI Content Moderation",
+          "summary": "Moonbounce secured $12 million in funding to expand its AI control engine that converts content moderation policies into consistent, predictable AI systems.",
+          "source": "TechCrunch",
+          "url": "https://www.aixploria.com/en/ai-news-today/"
+        },
+        {
+          "title": "Take-Two Lays Off Head of AI Division",
+          "summary": "Take-Two, owner of Rockstar Games, laid off the head of its AI division along with an undisclosed number of staff members.",
+          "source": "Engadget",
+          "url": "https://www.aixploria.com/en/ai-news-today/"
+        },
+        {
+          "title": "Toonstar Partners with HarperCollins to Create AI-Generated Digital Shows",
+          "summary": "AI animation studio Toonstar is collaborating with HarperCollins to convert book franchises into digital shows using artificial intelligence technology.",
+          "source": "Engadget",
+          "url": "https://www.aixploria.com/en/ai-news-today/"
+        }
+      ],
       "citations": [
+        "https://economictimes.com/tech/artificial-intelligence",
         "https://www.aixploria.com/en/ai-news-today/",
-        "https://www.informationweek.com/machine-learning-ai/ai-innovations",
+        "https://www.newsnow.com/ng/World/Science/AI",
+        "https://llm-stats.com/ai-news",
         "https://newsroom.ibm.com/latest-news-artificial-intelligence",
-        "https://www.foxbusiness.com/category/artificial-intelligence",
-        "https://www.sciencedaily.com/news/matter_energy/robotics/",
-        "https://techxplore.com/news/2026-03-ai-companions-comfort-lonely-users.html",
-        "https://www.thetimes.com/topic/artificial-intelligence"
+        "https://www.informationweek.com/machine-learning-ai/ai-innovations",
+        "https://techxplore.com/news/2026-03-ai-companions-comfort-lonely-users.html"
       ]
     },
     "gaming": {
@@ -390,16 +428,49 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 5,
+      "items": [
+        {
+          "title": "Starfield PS5 Launch and Major Updates Announced",
+          "summary": "Starfield is set to launch on PS5 on April 7th alongside a big free update called Free Lanes and a new paid DLC, Terran Armada. The updates include new locations and Unity changes.",
+          "source": "YouTube - Gaming News Video",
+          "url": "https://www.youtube.com/watch?v=KtRXJaAWHAU"
+        },
+        {
+          "title": "Capcom Adds DRM to 30-Year-Old Resident Evil Ports",
+          "summary": "Capcom has implemented Enigma DRM, described as an 'ice lock,' on 30-year-old Resident Evil games, affecting playability including on Steam Deck. The ports have seen some popularity despite criticism as lazy.",
+          "source": "YouTube - Gaming News Roundup",
+          "url": "https://www.youtube.com/watch?v=mSWIyUxpMyY"
+        },
+        {
+          "title": "Legacy of Kain Series Faces New Setback",
+          "summary": "Legacy of Kain has reportedly 'died again,' marking another challenge for the series amid ongoing development issues.",
+          "source": "YouTube - Gaming News Roundup",
+          "url": "https://www.youtube.com/watch?v=mSWIyUxpMyY"
+        },
+        {
+          "title": "Former Bethesda Devs Criticize Studio Changes",
+          "summary": "Ex-Bethesda developers discuss how growth from Fallout 4 to Starfield has compromised creative processes, work environment, and access to Todd Howard's leadership. They note ambitious but disappointing launches like Starfield.",
+          "source": "YouTube - Gaming Industry Discussion",
+          "url": "https://www.youtube.com/watch?v=YpaX6OlLZVI"
+        },
+        {
+          "title": "Breath of Fire Series Revival Announced",
+          "summary": "Falcom is bringing back the Breath of Fire RPG series, sparking excitement but concerns over the developer's bigger problems.",
+          "source": "YouTube - NEW RPG NEWS",
+          "url": "https://www.youtube.com/watch?v=OBLwcozkNKM"
+        }
+      ],
       "citations": [
-        "https://www.youtube.com/watch?v=2d2HkSDwAJw",
-        "https://www.youtube.com/watch?v=MTIRVjuHbus",
+        "https://www.youtube.com/watch?v=KtRXJaAWHAU",
+        "https://www.youtube.com/watch?v=mSWIyUxpMyY",
+        "https://www.youtube.com/watch?v=RPmjlSrGZcc",
+        "https://www.youtube.com/watch?v=643xUkwymng",
         "https://www.youtube.com/watch?v=YpaX6OlLZVI",
-        "https://www.youtube.com/watch?v=OSDCEYqsAA4",
-        "https://www.nhl.com/video/fla-at-pit-recap-6392585336112",
-        "https://www.youtube.com/watch?v=Qpo6ByqJaMc",
-        "https://www.youtube.com/watch?v=EOvl-6k2WNY"
+        "https://www.youtube.com/watch?v=LCECdXdlDSw",
+        "https://www.nhl.com/video/vgk-at-edm-recap-6392594870112",
+        "https://www.youtube.com/watch?v=G_EmjgmrQkA",
+        "https://www.youtube.com/watch?v=OBLwcozkNKM"
       ]
     },
     "tech_news": {
@@ -407,16 +478,62 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 8,
+      "items": [
+        {
+          "title": "Microsoft Forces Windows 11 25H2 Installation on More Computers",
+          "summary": "Microsoft is forcibly upgrading unmanaged Windows 11 24H2 PCs to version 25H2, expanding its automatic update rollout across more systems.",
+          "source": "BleepingComputer.com",
+          "url": "https://www.bleepingcomputer.com"
+        },
+        {
+          "title": "Samsung Galaxy S26 Ultra Camera Bug Fixed",
+          "summary": "Samsung confirmed a camera bug affecting the Galaxy S26 Ultra and released a fix to address the issue.",
+          "source": "Phone Arena",
+          "url": "https://www.phonearena.com"
+        },
+        {
+          "title": "Google Pixel 11 Pro XL Renders Revealed",
+          "summary": "CAD-based renders of the Google Pixel 11 Pro XL have leaked, showing the device's bold new camera bar design and completing the Pixel 11 family lineup.",
+          "source": "GSMArena.com",
+          "url": "https://www.gsmarena.com"
+        },
+        {
+          "title": "Apple Releases iOS 26.5 Beta 1 for Developers",
+          "summary": "Apple has released a new version of iOS 26.5 Beta 1 for developers, though no official release date has been announced.",
+          "source": "Phone Arena",
+          "url": "https://www.phonearena.com"
+        },
+        {
+          "title": "Apple CarPlay Gains Google App Integration",
+          "summary": "Apple CarPlay has received a significant update with integration of a major Google app before Android Auto.",
+          "source": "BGR",
+          "url": "https://bgr.com"
+        },
+        {
+          "title": "Samsung Galaxy S26 Series Receives Deep Discounts",
+          "summary": "The Samsung Galaxy S26, S26+, and S26 Ultra are all receiving significant price cuts in weekly deals.",
+          "source": "GSMArena.com",
+          "url": "https://www.gsmarena.com"
+        },
+        {
+          "title": "iFixit Teardown: AirPods Max 2 Shows Same Design and Repairability Issues",
+          "summary": "iFixit's teardown of the AirPods Max 2 reveals the device maintains the same design as its predecessor with unchanged repairability concerns.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com"
+        },
+        {
+          "title": "NASA Solves Artemis II Microsoft Outlook Login Issues",
+          "summary": "NASA successfully resolved Microsoft Outlook login glitches that affected the Artemis II mission, demonstrating the importance of IT support even for space operations.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com"
+        }
+      ],
       "citations": [
-        "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-apples-50th-celebrations-to-the-artemis-ii-launch",
+        "https://techmeme.com",
         "https://www.newsnow.co.uk/h/Technology",
-        "https://www.sciencedaily.com/news/computers_math/educational_technology/",
-        "https://thetechportal.com",
-        "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-4-11-p-m-edt/article_1be3f518-e2d3-5c48-b9fe-108f1e9c0d01.html",
         "https://scitechdaily.com/news/technology/",
-        "https://phys.org/weekly-news/"
+        "https://www.youtube.com/watch?v=wR3kFcQKNB4"
       ]
     }
   }
