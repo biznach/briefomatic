@@ -1,23 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-04-04 18:10 UTC*
+*Generated: 2026-04-05 00:31 UTC*
 
-1. **Market Overview**: The US economy added 178,000 nonfarm payroll jobs in March, surpassing expectations, with unemployment falling to 4.3%. However, markets remain cautious due to the ongoing Iran war impacting growth and inflation. Bitcoin has stabilized near $67,000, while the total crypto market cap held below $2.4 trillion. Ethereum hovered near $2,050, down slightly. The S&P 500 and Dow Jones Industrial Average have seen a four-week decline due to oil price surges and inflation concerns.
+1. **Market Overview**: The US economy added 178,000 jobs in March, exceeding expectations, with the unemployment rate falling to 4.3%. Average US mortgage rates have climbed to 6.46%, the highest in nearly 7 months. Gas prices have surged past $4 per gallon due to the Iran conflict. In the crypto market, Bitcoin and Ethereum prices have seen minimal movement, with Bitcoin stabilizing at around $67K and Ethereum holding steady above $2,000. The SIREN token surged 217% in 24 hours, while top gainers included EVER, RLS, and POLYX.
 
-2. **Tech & AI**: Microsoft has launched three new in-house AI models, including a state-of-the-art speech transcription system, challenging competitors like OpenAI and Google. Arcee has released an open-source AI model, Trinity-Large-Thinking, for enterprise customization. OpenAI is reshuffling its leadership, with COO Brad Lightcap taking on expanded responsibilities amid the AGI chief's medical leave. Take-Two Interactive has laid off its AI team head and members after the CEO expressed doubts about AI.
+2. **Tech & AI**: Oracle has reportedly laid off thousands of employees as part of a shift towards AI investments. There have been significant developments in AI and tech, including the release of new models and tools, such as TurboQuant-WASM, which brings Google's vector quantization to the browser. Additionally, Apple has approved a driver that allows Nvidia eGPUs to work with Arm Macs, and IBM has made progress in its AI endeavors.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, Take-Two Interactive's layoff of its AI team head and members may impact the gaming industry's adoption of AI technologies.
+3. **Gaming & Entertainment**: A game where players build a GPU has been showcased on Hacker News, generating significant interest. There have been no other notable gaming news developments in the provided data.
 
 4. **Key Insights**:
-* The US job market is showing resilience despite global uncertainties, with 178,000 jobs added in March.
-* The Iran war is causing oil price surges and inflation concerns, impacting stock markets and the economy.
-* AI development is accelerating, with Microsoft and Arcee releasing new models, while OpenAI faces leadership changes.
-* Crypto markets are experiencing volatility, with $156 million in futures liquidations and significant price movements in altcoins like SIREN and PI token.
-* The adoption of AI in industries like gaming may be slowed by doubts about its effectiveness and leadership changes in key companies.
+* The US labor market has shown resilience with strong job growth in March, despite economic uncertainty.
+* Crypto markets have seen significant price movements, with some tokens experiencing large gains and others facing potential sell-side pressure.
+* Institutional interest in Ethereum is strong, with BitMine acquiring 40,000 ETH worth $82M.
+* AI and tech companies are continuing to invest in and develop new technologies, including AI models and tools.
+* The global economy is facing challenges due to the Iran conflict, with gas prices surging and mortgage rates increasing.
 
 5. **Watch List**: 
-* US economic data and job market trends
-* Oil prices and their impact on inflation and stock markets
-* Developments in AI, including new model releases and company announcements
-* Crypto market movements, particularly in Bitcoin, Ethereum, and altcoins like SIREN and PI token
-* The impact of the Iran war on global markets and economies
+* US economic developments, particularly job growth and unemployment rates.
+* Crypto market movements, including Bitcoin and Ethereum prices.
+* AI and tech company announcements, particularly those related to new model releases and investments.
+* Global economic trends, including the impact of the Iran conflict on gas prices and mortgage rates.
+* Institutional investment in cryptocurrencies, particularly Ethereum.
