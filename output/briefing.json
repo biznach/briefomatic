@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T00:30:03.422256+00:00",
-  "generated_at_human": "2026-04-06 00:30 UTC",
+  "generated_at": "2026-04-06T06:40:20.171505+00:00",
+  "generated_at_human": "2026-04-06 06:40 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
-          "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-          "score": 65,
-          "comments": 47
+          "title": "Show HN: I built a tiny LLM to demystify how language models work",
+          "url": "https://github.com/arman-bd/guppylm",
+          "score": 296,
+          "comments": 25
+        },
+        {
+          "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
+          "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+          "score": 150,
+          "comments": 32
         },
         {
           "title": "Gemma 4 on iPhone",
           "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-          "score": 371,
-          "comments": 94
+          "score": 550,
+          "comments": 143
         },
         {
-          "title": "LÖVE: 2D Game Framework for Lua",
-          "url": "https://github.com/love2d/love",
-          "score": 180,
-          "comments": 76
+          "title": "Show HN: I made a YouTube search form with advanced filters",
+          "url": "https://playlists.at/youtube/search/",
+          "score": 187,
+          "comments": 114
         },
         {
-          "title": "Artemis II crew see first glimpse of far side of Moon [video]",
-          "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-          "score": 392,
-          "comments": 299
+          "title": "The 1987 game \"The Last Ninja\" was 40 kilobytes",
+          "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+          "score": 44,
+          "comments": 17
         },
         {
-          "title": "Eight years of wanting, three months of building with AI",
-          "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-          "score": 585,
-          "comments": 182
-        },
-        {
-          "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-          "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-          "score": 166,
-          "comments": 46
-        },
-        {
-          "title": "Caveman: Why use many token when few token do trick",
-          "url": "https://github.com/JuliusBrussee/caveman",
-          "score": 679,
-          "comments": 305
+          "title": "An open-source 240-antenna array to bounce signals off the Moon",
+          "url": "https://moonrf.com/",
+          "score": 46,
+          "comments": 12
         },
         {
           "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
           "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-          "score": 158,
-          "comments": 85
+          "score": 348,
+          "comments": 193
+        },
+        {
+          "title": "LÖVE: 2D Game Framework for Lua",
+          "url": "https://github.com/love2d/love",
+          "score": 269,
+          "comments": 105
+        },
+        {
+          "title": "Winners of the 2026 Kokuyo Design Awards",
+          "url": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
+          "score": 28,
+          "comments": 2
+        },
+        {
+          "title": "Case study: recovery of a corrupted 12 TB multi-device pool",
+          "url": "https://github.com/kdave/btrfs-progs/issues/1107",
+          "score": 37,
+          "comments": 4
+        },
+        {
+          "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+          "url": "https://github.com/kessler/gemma-gem",
+          "score": 50,
+          "comments": 8
+        },
+        {
+          "title": "Signals, the push-pull based algorithm",
+          "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+          "score": 12,
+          "comments": 0
+        },
+        {
+          "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+          "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+          "score": 238,
+          "comments": 57
+        },
+        {
+          "title": "Why Switzerland has 25 Gbit internet and America doesn't",
+          "url": "https://sschueller.github.io/posts/the-free-market-lie/",
+          "score": 378,
+          "comments": 289
+        },
+        {
+          "title": "We replaced Node.js with Bun for 5x throughput",
+          "url": "https://trigger.dev/blog/firebun",
+          "score": 38,
+          "comments": 20
+        },
+        {
+          "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+          "url": "https://github.com/fikrikarim/parlor",
+          "score": 27,
+          "comments": 2
+        },
+        {
+          "title": "Rendering arbitrary-scale emojis using the Slug algorithm",
+          "url": "https://leduyquang753.name.vn/blog/2026/4/4/rendering-arbitrary-scale-emojis-using-the-slug-algorithm",
+          "score": 12,
+          "comments": 0
+        },
+        {
+          "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+          "url": "https://news.ycombinator.com/item?id=47613622",
+          "score": 8,
+          "comments": 1
+        },
+        {
+          "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+          "url": "https://github.com/mikf/gallery-dl/discussions/9304",
+          "score": 107,
+          "comments": 30
+        },
+        {
+          "title": "Sheets Spreadsheets in Your Terminal",
+          "url": "https://github.com/maaslalani/sheets",
+          "score": 33,
+          "comments": 7
+        },
+        {
+          "title": "Employers use your personal data to figure out the lowest salary you'll accept",
+          "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+          "score": 163,
+          "comments": 77
+        },
+        {
+          "title": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
+          "url": "https://github.com/mohshomis/modo",
+          "score": 35,
+          "comments": 6
         },
         {
           "title": "Music for Programming",
           "url": "https://musicforprogramming.net",
-          "score": 88,
-          "comments": 30
+          "score": 151,
+          "comments": 62
         },
         {
-          "title": "A brief history of instant coffee",
-          "url": "https://worksinprogress.co/issue/a-brief-history-of-instant-coffee/",
-          "score": 31,
-          "comments": 23
-        },
-        {
-          "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
-          "url": "https://sschueller.github.io/posts/the-free-market-lie/",
-          "score": 157,
-          "comments": 123
+          "title": "Usenet Archives",
+          "url": "https://usenetarchives.com",
+          "score": 21,
+          "comments": 2
         },
         {
           "title": "A tail-call interpreter in (nightly) Rust",
           "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
-          "score": 125,
-          "comments": 19
-        },
-        {
-          "title": "Computational Physics (2nd Edition) (2025)",
-          "url": "https://websites.umich.edu/~mejn/cp2/",
-          "score": 94,
-          "comments": 12
-        },
-        {
-          "title": "The Mechanics of Steins Gate (2023) [pdf]",
-          "url": "https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf",
-          "score": 25,
-          "comments": 5
-        },
-        {
-          "title": "Wavelets on Graphs via Spectral Graph Theory (2009)",
-          "url": "https://arxiv.org/abs/0912.3848",
-          "score": 15,
-          "comments": 1
-        },
-        {
-          "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
-          "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
-          "score": 150,
-          "comments": 24
-        },
-        {
-          "title": "OpenJDK: Panama",
-          "url": "https://openjdk.org/projects/panama/",
-          "score": 27,
-          "comments": 5
-        },
-        {
-          "title": "LibreOffice – Let's put an end to the speculation",
-          "url": "https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/",
-          "score": 151,
-          "comments": 93
-        },
-        {
-          "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
-          "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
-          "score": 318,
-          "comments": 210
-        },
-        {
-          "title": "Friendica – A Decentralized Social Network",
-          "url": "https://friendi.ca/",
-          "score": 120,
-          "comments": 45
-        },
-        {
-          "title": "From birds to brains: My path to the fusiform face area (2024)",
-          "url": "https://www.kavliprize.org/nancy-kanwisher-autobiography",
-          "score": 34,
-          "comments": 0
-        },
-        {
-          "title": "Introducing GEN-1 [video]",
-          "url": "https://www.youtube.com/watch?v=SY2xyrmV44Y",
-          "score": 29,
-          "comments": 4
-        },
-        {
-          "title": "Italian TV Copyright-Strikes Nvidia over Nvidia's Own DLSS 5 Footage",
-          "url": "https://twitter.com/NikTek/status/2040898312262324362",
-          "score": 16,
-          "comments": 5
-        },
-        {
-          "title": "Baby's Second Garbage Collector",
-          "url": "https://www.matheusmoreira.com/articles/babys-second-garbage-collector",
-          "score": 49,
-          "comments": 14
-        },
-        {
-          "title": "Musician says AI company is cloning her music, filing claims against her",
-          "url": "https://twitter.com/unlimited_ls/status/2040577536136974444",
-          "score": 90,
-          "comments": 5
+          "score": 152,
+          "comments": 27
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 69146,
-          "change_24h": 2.83,
-          "change_7d": 4.81,
-          "market_cap": 1384832938527
+          "price": 68867,
+          "change_24h": 3.08,
+          "change_7d": 1.95,
+          "market_cap": 1378099269827
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2121.68,
-          "change_24h": 2.84,
-          "change_7d": 6.98,
-          "market_cap": 256004303040
+          "price": 2121.82,
+          "change_24h": 4.07,
+          "change_7d": 3.66,
+          "market_cap": 256049679823
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 82.31,
-          "change_24h": 1.97,
-          "change_7d": 1.17,
-          "market_cap": 47153930314
+          "price": 81.18,
+          "change_24h": 1.84,
+          "change_7d": -2.98,
+          "market_cap": 46520427928
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.093116,
-          "change_24h": 1.32,
-          "change_7d": 3.02,
-          "market_cap": 14314785992
+          "price": 0.092069,
+          "change_24h": 2.03,
+          "change_7d": -1.1,
+          "market_cap": 14152645390
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.254364,
-          "change_24h": 2.6,
-          "change_7d": 6.19,
-          "market_cap": 9378485382
+          "price": 0.256162,
+          "change_24h": 5.45,
+          "change_7d": 4.05,
+          "market_cap": 9449163108
         }
       ]
     },
@@ -212,54 +212,54 @@
       "count": 10,
       "items": [
         {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "Siren",
+          "symbol": "SIREN",
+          "market_cap_rank": 102
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 107
+        },
+        {
+          "name": "Drift Protocol",
+          "symbol": "DRIFT",
+          "market_cap_rank": 734
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 31
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 34
+        },
+        {
+          "name": "StakeStone",
+          "symbol": "STO",
+          "market_cap_rank": 554
+        },
+        {
           "name": "Hyperliquid",
           "symbol": "HYPE",
           "market_cap_rank": 15
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 105
-        },
-        {
-          "name": "Siren",
-          "symbol": "SIREN",
-          "market_cap_rank": 110
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 129
-        },
-        {
-          "name": "Layer3",
-          "symbol": "L3",
-          "market_cap_rank": 729
-        },
-        {
           "name": "Pi Network",
           "symbol": "PI",
           "market_cap_rank": 47
-        },
-        {
-          "name": "Algorand",
-          "symbol": "ALGO",
-          "market_cap_rank": 66
-        },
-        {
-          "name": "edgeX",
-          "symbol": "EDGE",
-          "market_cap_rank": 127
-        },
-        {
-          "name": "SPX6900",
-          "symbol": "SPX",
-          "market_cap_rank": 148
-        },
-        {
-          "name": "Ondo",
-          "symbol": "ONDO",
-          "market_cap_rank": 61
         }
       ]
     },
@@ -268,12 +268,61 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 8,
+      "items": [
+        {
+          "title": "US Stocks Mixed Amid Trump Iran Escalation Threats",
+          "summary": "US President Trump's warnings of significant escalation in the Iran war shadowed stock markets, with stocks closing mixed after earlier gains; oil prices soared over 10% on Thursday due to energy shocks. Dow closed up 1,000 points on March 31 as Trump signaled possible de-escalation.[2][3]",
+          "source": "Bloomberg, ABC News",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "title": "OPEC+ Plans Symbolic May Oil Quota Increase Despite Middle East Conflict",
+          "summary": "OPEC+ members intend to raise production quotas for May in a symbolic gesture, as war in the Middle East limits output and shipments from key producers. This comes amid rising global energy prices and supply disruptions.[2]",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "title": "Gas Prices Surge Past $4/Gallon Amid Iran War",
+          "summary": "US gas prices exceeded $4 per gallon for the first time since 2022, driven by the Iran conflict, with oil prices up and surcharges impacting shipping costs like Amazon's 3.5% fee on sellers. Expectations are for continued rises.[3]",
+          "source": "ABC News",
+          "url": "https://abcnews.com/business"
+        },
+        {
+          "title": "Indian Rupee Rallies on RBI Intervention",
+          "summary": "The Indian rupee extended its biggest surge in 12 years after the Reserve Bank of India doubled down on curbing speculation, potentially spurring demand for gold and property. India also removing 2,000 rupee notes.[2]",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "title": "Upcoming US Inflation Data in Focus",
+          "summary": "Key US inflation reports, including March CPI and February PCE, are set for release this week, alongside Middle East developments; WSJ poll projects CPI at 1.3% YoY. Markets await amid global tensions.[1]",
+          "source": "Morningstar / Dow Jones",
+          "url": "https://www.morningstar.com/news/dow-jones/20260405500/week-ahead-for-fx-bonds-us-inflation-data-will-be-watched-alongside-middle-east-developments"
+        },
+        {
+          "title": "Trump Imposes 100% Tariffs on Some Pharmaceuticals",
+          "summary": "US President Trump signed an executive order imposing 100% tariffs on certain pharmaceuticals, escalating trade measures amid broader geopolitical tensions.[3]",
+          "source": "ABC News",
+          "url": "https://abcnews.com/business"
+        },
+        {
+          "title": "Barito Renewables Shares Hit Two-Year Low on Ownership Concerns",
+          "summary": "Indonesian firm PT Barito Renewables Energy's shares fell to a two-year low after the stock exchange flagged its highly concentrated shareholder base.[2]",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/markets"
+        },
+        {
+          "title": "South Korea BOK Expected to Hold Rates at 2.50%",
+          "summary": "South Korea's central bank is consensus-expected to maintain its policy rate at 2.50% amid Middle East uncertainty, inflation risks, and leadership transition.[1]",
+          "source": "Morningstar / Dow Jones",
+          "url": "https://www.morningstar.com/news/dow-jones/20260405500/week-ahead-for-fx-bonds-us-inflation-data-will-be-watched-alongside-middle-east-developments"
+        }
+      ],
       "citations": [
-        "https://www.morningstar.com/news/dow-jones/20260405304/week-ahead-for-fx-bonds-us-inflation-data-will-be-watched-alongside-middle-east-developments",
-        "https://www.youtube.com/watch?v=efDX_izn_4Y",
-        "https://www.youtube.com/watch?v=0-Se8KA40Uw"
+        "https://www.morningstar.com/news/dow-jones/20260405500/week-ahead-for-fx-bonds-us-inflation-data-will-be-watched-alongside-middle-east-developments",
+        "https://www.bloomberg.com/markets",
+        "https://abcnews.com/business"
       ]
     },
     "crypto_news": {
@@ -281,46 +330,41 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Drift Protocol on Solana Suffers $286 Million Exploit via Social Engineering",
-          "summary": "Solana-based Drift Protocol, the largest perpetual futures exchange, lost $286 million in a sophisticated six-month social engineering attack where hackers posed as a quantitative trading firm to breach the security council. The incident highlights ongoing DeFi security risks and has sparked calls for hardware wallet usage.",
-          "source": "CryptoTicker",
-          "url": "https://cryptoticker.io/en/crypto-news-today-bitcoin-stability-ethereum-glamsterdam-2026/"
+          "title": "Bitcoin Surges to $69,500 Amid $250M+ Liquidations of Short Positions",
+          "summary": "Bitcoin rallied to $69,500 with trading volume up 62%, triggering over $250 million in liquidations, mostly bearish shorts, as the global crypto market cap rose nearly 2% to $2.36-$2.44 trillion. Ethereum hit $2,130, XRP and Dogecoin also gained amid heightened market activity.",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/04/51651300/over-250m-liquidations-24-hours-bearish-shorts-coinglass"
         },
         {
-          "title": "Ethereum Finalizes Glamsterdam Upgrade Scope for Early 2026",
-          "summary": "Ethereum developers have finalized the scope for the Glamsterdam hard fork, scheduled for the first half of 2026, aiming to boost scalability and maintain competitiveness against chains like Solana. This upgrade is seen as a game-changer for Ethereum's roadmap.",
-          "source": "CryptoTicker",
-          "url": "https://cryptoticker.io/en/crypto-news-today-bitcoin-stability-ethereum-glamsterdam-2026/"
+          "title": "Crypto Rally Fueled by Trump's Mixed Signals on Iran Conflict",
+          "summary": "Cryptocurrencies rebounded despite Trump's threats to Iran's infrastructure and Strait of Hormuz deadline, with mixed hardline and negotiation tones boosting sentiment; Bitcoin up 2.8% to $69,200 and Ether up 3.7% in early Asia trading.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-06/bitcoin-ticks-up-even-as-trump-s-iran-war-threats-cloud-markets"
         },
         {
-          "title": "Bitcoin Traders Turn Defensive as Put Volume Outpaces Calls 54.87% to 45.13%",
-          "summary": "Bitcoin futures open interest dropped to $46.94B amid contracting positions on major exchanges like Binance and CME, with Deribit put volume significantly outpacing calls, signaling short-term hedging. BTC trades around $66,810-$67,000 with slight dips but institutional support holding steady.",
-          "source": "CryptoNews",
-          "url": "https://cryptonews.net/news/bitcoin/32657811/"
+          "title": "Drift Protocol Suffers $285M Loss in Social Engineering Attack",
+          "summary": "Drift Protocol faced a major security breach via social engineering, resulting in $285 million losses due to vulnerabilities, amid rising AI-driven threats to crypto security highlighted by Ledger's Charles Guillemet.",
+          "source": "altFINS",
+          "url": "https://altfins.com/crypto-news/news-sentiment/d/7961"
         },
         {
-          "title": "$129 Million in Crypto Liquidations, Longs Hit Harder at $70M",
-          "summary": "Network-wide liquidations reached $129 million in the past 24 hours, with longs liquidated for $70.25 million versus $47.86 million in shorts; Bitcoin shorts saw $21.7M liquidated while Ethereum longs lost $30.7M. This reflects volatile trading amid market pressure.",
-          "source": "WEEX / Coinglass",
-          "url": "https://www.weex.com/news/detail/data-in-the-past-24-hours-the-total-liquidation-across-the-network-was-117-million-usd-with-long-positions-liquidated-at-694798-million-usd-and-short-positions-liquidated-at-47863-million-usd-625422"
-        },
-        {
-          "title": "Bitcoin Sentiment Dips to 5-Week Fear Level Amid Price Stall Below $66,800",
-          "summary": "Social sentiment for Bitcoin has hit a 5-week fear low as price action stalls below $66,800, entering the week under doubt despite liquidity spikes and institutional inflows providing some support.",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/newsbtc:4d8228533094b:0-bitcoin-sentiment-hits-5-week-fear-level-is-a-reversal-coming/"
+          "title": "Crypto Futures Liquidations Exceed $209M in 24 Hours, Bitcoin Dominant",
+          "summary": "Perpetual futures liquidations topped $209 million, with Bitcoin accounting for the largest share, reflecting volatile trading tied to broader market rebounds and geopolitical tensions.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/309470832478353"
         }
       ],
       "citations": [
-        "https://cryptoticker.io/en/crypto-news-today-bitcoin-stability-ethereum-glamsterdam-2026/",
-        "https://cryptonews.net/news/bitcoin/32657811/",
-        "https://www.weex.com/news/detail/data-in-the-past-24-hours-the-total-liquidation-across-the-network-was-117-million-usd-with-long-positions-liquidated-at-694798-million-usd-and-short-positions-liquidated-at-47863-million-usd-625422",
-        "https://news.bitcoin.com/traders-hedge-hard-bitcoin-put-volume-outpaces-calls-54-87-to-45-13/",
+        "https://www.benzinga.com/crypto/cryptocurrency/26/04/51651300/over-250m-liquidations-24-hours-bearish-shorts-coinglass",
+        "https://en.bloomingbit.io/feed/news/109300",
+        "https://www.bloomberg.com/news/articles/2026-04-06/bitcoin-ticks-up-even-as-trump-s-iran-war-threats-cloud-markets",
         "https://altfins.com/crypto-news/news-sentiment/d/7961",
-        "https://www.tradingview.com/news/newsbtc:4d8228533094b:0-bitcoin-sentiment-hits-5-week-fear-level-is-a-reversal-coming/",
+        "https://cryptorank.io/news/feed/b4773-bitcoin-price-surpasses-68000-milestone-5",
+        "https://www.youtube.com/watch?v=xPusQb5EC1g",
+        "https://www.binance.com/en/square/post/309470832478353",
         "https://www.investing.com/news/cryptocurrency-news/8"
       ]
     },
@@ -329,66 +373,41 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 4,
       "items": [
         {
-          "title": "OpenAI Expands COO Brad Lightcap’s Role as AGI Chief Steps Away on Medical Leave",
-          "summary": "OpenAI is reshuffling leadership with COO Brad Lightcap taking on expanded responsibilities amid the AGI chief's medical leave, as IPO plans loom.",
-          "source": "Indian Express",
-          "url": "https://www.newsnow.co.uk/h/Science/AI"
+          "title": "Anthropic Source Code Leak Reveals Claude's Memory Architecture and Kairos System",
+          "summary": "A publishing error on March 31st exposed Claude Code's source maps, revealing Anthropic's undisclosed autonomous mode called 'Kairos,' a three-layer memory architecture with automatic dream-like memory consolidation, and anti-distillation mechanisms designed to prevent competitor model copying.",
+          "source": "YouTube - AI Research Channel",
+          "url": "https://www.youtube.com/watch?v=1raL1Oc4m9g"
         },
         {
-          "title": "Anthropic Cuts Claude Subscribers Off from OpenClaw in Cost Crackdown",
-          "summary": "Anthropic requires Claude Code subscribers to pay extra for OpenClaw usage and has restricted access in a move to control costs.",
-          "source": "TechCrunch",
-          "url": "https://www.newsnow.co.uk/h/Science/AI"
+          "title": "Anthropic Achieves Unprecedented Growth: $1B to $19B ARR in 14 Months",
+          "summary": "Anthropic has experienced the fastest growth trajectory in AI history, scaling from $1 billion to over $19 billion in annual recurring revenue in just 14 months, driven by Claude's rapid adoption and the company's focus on AI coding capabilities.",
+          "source": "YouTube - Growth Strategy Analysis",
+          "url": "https://www.youtube.com/watch?v=k-H4nsOTuxU"
         },
         {
-          "title": "Microsoft Ships New AI Models, Signals Independence from OpenAI",
-          "summary": "Microsoft launches its own AI models to compete with Google and OpenAI, indicating a push to build an independent AI empire.",
-          "source": "Digital Trends",
-          "url": "https://www.newsnow.co.uk/h/Science/AI"
+          "title": "Andrej Karpathy Develops No-Code AI Memory System Using LLMs",
+          "summary": "Karpathy has created an AI-powered 'second brain' system that uses large language models to convert messy notes into a clean, linked wiki, reducing coding time while enabling knowledge queries through an AI interface.",
+          "source": "YouTube - AI Tools",
+          "url": "https://www.youtube.com/watch?v=_iENSAKA63k"
         },
         {
-          "title": "Take-Two Lays Off Entire AI Team Despite Prior Embrace of Technology",
-          "summary": "GTA VI maker Take-Two Interactive has disbanded its entire AI division, including its head, following CEO doubts on AI.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/gta-vi-maker-take-two-lays-off-its-entire-ai-team-after-saying-it-was-actively-embracing-the-tech/articleshow/130034014.cms"
-        },
-        {
-          "title": "Meta Freezes AI Data Work After Breach Exposes Training Secrets",
-          "summary": "Meta has halted AI data operations following a security breach that risked exposing proprietary training data.",
-          "source": "The Next Web",
-          "url": "https://www.newsnow.co.uk/h/Science/AI"
-        },
-        {
-          "title": "Journalist Faces Backlash for Revealing Use of AI in Writing Process",
-          "summary": "A journalist received public criticism after admitting to using AI for research, fact-checking, and data analysis, sparking debate on AI's role in journalism.",
-          "source": "National Today",
-          "url": "https://nationaltoday.com/us/ny/new-york/news/2026/04/05/journalist-faces-backlash-after-revealing-use-of-ai/"
-        },
-        {
-          "title": "FIU and Baptist Health Develop AI-Powered Digital Stethoscope for Early Heart Disease Detection",
-          "summary": "Researchers combine AI and sound analysis with digital stethoscopes to detect heart disease early, achieving 95% accuracy for healthy sounds and 85% for diseased ones.",
-          "source": "Baptist Health",
-          "url": "https://baptisthealth.net/baptist-health-news/how-fiu-and-baptist-health-are-using-ai-and-sound-to-detect-heart-disease-earlier"
-        },
-        {
-          "title": "$2B Chasing Anthropic, $600M OpenAI Shares Unsold in Secondary Markets",
-          "summary": "Secondary markets show heavy investment interest in Anthropic with $2B chasing shares, while $600M of OpenAI stock remains unsold, repricing the AI investment race.",
-          "source": "Silicon Canals",
-          "url": "https://www.newsnow.co.uk/h/Science/AI"
+          "title": "Claude Code Introduces Advanced Planning Features",
+          "summary": "Anthropic has released improved planning capabilities in Claude Code, with infrastructure for testing unreleased models to measure user acceptance and inform model quality improvements.",
+          "source": "YouTube - Claude Code Updates",
+          "url": "https://www.youtube.com/watch?v=UNhA17l6CWw"
         }
       ],
       "citations": [
-        "https://www.aixploria.com/en/ai-news-today/",
-        "https://www.newsnow.co.uk/h/Science/AI",
-        "https://newsroom.ibm.com/latest-news-artificial-intelligence",
-        "https://timesofindia.indiatimes.com/technology/tech-news/gta-vi-maker-take-two-lays-off-its-entire-ai-team-after-saying-it-was-actively-embracing-the-tech/articleshow/130034014.cms",
-        "https://nationaltoday.com/us/ny/new-york/news/2026/04/05/journalist-faces-backlash-after-revealing-use-of-ai/",
-        "https://baptisthealth.net/baptist-health-news/how-fiu-and-baptist-health-are-using-ai-and-sound-to-detect-heart-disease-earlier",
-        "https://www.sciencedaily.com/news/matter_energy/robotics/",
-        "https://www.youtube.com/watch?v=Xly7a6zTWMQ"
+        "https://www.youtube.com/watch?v=_iENSAKA63k",
+        "https://www.youtube.com/watch?v=1raL1Oc4m9g",
+        "https://www.youtube.com/watch?v=k-H4nsOTuxU",
+        "https://www.youtube.com/watch?v=UNhA17l6CWw",
+        "https://www.youtube.com/watch?v=OrKZcA28V_8",
+        "https://www.youtube.com/watch?v=rp2GypKwAaU",
+        "https://www.youtube.com/watch?v=PPLCpJ8eFCA"
       ]
     },
     "gaming": {
@@ -396,14 +415,46 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 5,
+      "items": [
+        {
+          "title": "Street Fighter 6 Reveals Ingrid Trailer, Sparking Speculation on Future Changes",
+          "summary": "Capcom released a trailer for Ingrid in Street Fighter 6, generating buzz due to her unusual space god character and potential links to a canceled game, Capcom Fighting Allstars. Fans speculate this could lead to system mechanic changes, guest characters, and collaborations like Capcom vs. SNK 3.",
+          "source": "YouTube - Top Hat Gaming Man",
+          "url": "https://www.youtube.com/watch?v=9teuEmSV0H0"
+        },
+        {
+          "title": "'Star Citizen' Nears Major Milestone After 14 Years in Development",
+          "summary": "Star Citizen is approaching a significant milestone with its single-player campaign Squadron 42, featuring stars like Mark Hamill, Gillian Anderson, and Henry Cavill, backed by over a billion dollars in funding.",
+          "source": "9 News Australia",
+          "url": "https://www.youtube.com/watch?v=-K6RCEpQ8RI"
+        },
+        {
+          "title": "Evercade Announces Nexus 64 Themed Version and Multiplayer Features",
+          "summary": "Evercade revealed the Nexus 64, an N64-colored version of the Nexus handheld, with new multiplayer options allowing one cartridge across multiple systems without internet.",
+          "source": "YouTube - DF Retro Super Show",
+          "url": "https://www.youtube.com/watch?v=rQm8aWhGZ5Y"
+        },
+        {
+          "title": "LEGO Fortnite x NINJAGO Adds Katana as New Best Weapon",
+          "summary": "The LEGO Fortnite Odyssey x NINJAGO update introduces the katana, hailed as the strongest weapon yet, with new stun tricks, glitches, secondary attacks, and katana builds.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=qnvnJjvqW10"
+        },
+        {
+          "title": "Roblox Rivals Update News: Bugs, Canceled Content, and Easter Absence",
+          "summary": "Roblox Rivals features updates on game-breaking bugs like Daisy’s extra bug nets, a canceled update, no Easter event, fake games, and secrets on the Graveyard map.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=pWCQU0EKsDs"
+        }
+      ],
       "citations": [
-        "https://www.youtube.com/watch?v=c_gCp_kJgGU",
-        "https://www.youtube.com/watch?v=-BuW0kJgZcE",
+        "https://www.youtube.com/watch?v=9teuEmSV0H0",
         "https://www.youtube.com/watch?v=pWCQU0EKsDs",
-        "https://www.youtube.com/watch?v=L2F1onhpqBg",
-        "https://www.youtube.com/watch?v=rQm8aWhGZ5Y"
+        "https://www.youtube.com/watch?v=qnvnJjvqW10",
+        "https://www.youtube.com/watch?v=-K6RCEpQ8RI",
+        "https://www.youtube.com/watch?v=rQm8aWhGZ5Y",
+        "https://www.youtube.com/watch?v=84pzpkWhTvc"
       ]
     },
     "tech_news": {
@@ -411,38 +462,28 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "Samsung to Discontinue Messages App in US by July 2026",
-          "summary": "Samsung announced it will end support for its Messages app in the US in July 2026, providing instructions for users on older Android versions to switch to Google Messages.",
-          "source": "Techmeme / 9to5Google",
+          "title": "Microsoft Forces Windows 11 24H2 to 25H2 Update with No Opt-Out",
+          "summary": "Microsoft is automatically updating Windows 11 24H2 devices to version 25H2 using an ML-based system, with no full opt-out option ahead of 24H2's end-of-support on October 13.",
+          "source": "Tom's Hardware via Techmeme",
           "url": "https://techmeme.com/index.html"
         },
         {
-          "title": "Planet Labs Withholds Satellite Imagery of Iran on US Government Request",
-          "summary": "US satellite provider Planet Labs is indefinitely restricting access to imagery of Iran and conflict regions following a request from the US government.",
-          "source": "Techmeme / Reuters",
-          "url": "https://techmeme.com/index.html"
-        },
-        {
-          "title": "Suspected North Korean Hackers Steal $270M from Drift in Elaborate Scheme",
-          "summary": "Attackers posing as a quant trading firm conducted a 6+ month operation, including in-person meetings and a $1M deposit, to steal $270M from Drift.",
-          "source": "Techmeme / CoinDesk",
-          "url": "https://techmeme.com/index.html"
-        },
-        {
-          "title": "Apple Signs Third-Party Driver for eGPUs on Apple Silicon Macs",
-          "summary": "Apple has approved a Tiny Corp driver for AMD or Nvidia eGPUs on Apple Silicon Macs, targeted at AI research rather than graphics acceleration.",
-          "source": "Techmeme / AppleInsider",
+          "title": "Wipro Acquires Mindsprint for $375M and Signs $1B Contract with Olam",
+          "summary": "Indian IT giant Wipro has agreed to buy Singapore-based Olam's IT services arm Mindsprint for $375 million and secured an eight-year, $1 billion contract with Olam.",
+          "source": "Reuters via Techmeme",
           "url": "https://techmeme.com/index.html"
         }
       ],
       "citations": [
         "https://techmeme.com/index.html",
-        "https://newsroom.ibm.com/latest-news-artificial-intelligence",
+        "https://www.technewsworld.com",
+        "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-03-29/",
+        "https://www.sciencedaily.com/news/computers_math/educational_technology/",
         "https://scitechdaily.com/news/technology/",
-        "https://www.youtube.com/watch?v=paLkwEiYVKs"
+        "https://www.goodnewsnetwork.org/tag/technology/"
       ]
     }
   }
