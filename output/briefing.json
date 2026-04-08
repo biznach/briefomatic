@@ -1,163 +1,11 @@
 {
-  "generated_at": "2026-04-08T12:21:35.632073+00:00",
-  "generated_at_human": "2026-04-08 12:21 UTC",
+  "generated_at": "2026-04-08T18:28:04.120805+00:00",
+  "generated_at_human": "2026-04-08 18:28 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "category": "tech_ai_nerd",
-      "count": 25,
-      "items": [
-        {
-          "title": "The Git Commands I Run Before Reading Any Code",
-          "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-          "score": 352,
-          "comments": 80
-        },
-        {
-          "title": "Veracrypt Project Update",
-          "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-          "score": 451,
-          "comments": 130
-        },
-        {
-          "title": "I've sold out",
-          "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
-          "score": 117,
-          "comments": 71
-        },
-        {
-          "title": "Revision Demoparty 2026: Razor1911 [video]",
-          "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-          "score": 220,
-          "comments": 79
-        },
-        {
-          "title": "Project Glasswing: Securing critical software for the AI era",
-          "url": "https://www.anthropic.com/glasswing",
-          "score": 1336,
-          "comments": 674
-        },
-        {
-          "title": "Your File System Is Already A Graph Database",
-          "url": "https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/",
-          "score": 42,
-          "comments": 9
-        },
-        {
-          "title": "Lunar Flyby",
-          "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-          "score": 781,
-          "comments": 185
-        },
-        {
-          "title": "Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)",
-          "url": "https://indraneelpatil.github.io/blog/2026/robot-vacuum/",
-          "score": 47,
-          "comments": 8
-        },
-        {
-          "title": "Audio Reactive LED Strips Are Diabolically Hard",
-          "url": "https://scottlawsonbc.com/post/audio-led",
-          "score": 31,
-          "comments": 5
-        },
-        {
-          "title": "Protect your shed",
-          "url": "https://dylanbutler.dev/blog/protect-your-shed/",
-          "score": 193,
-          "comments": 54
-        },
-        {
-          "title": "Explore union types in C# 15",
-          "url": "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/",
-          "score": 23,
-          "comments": 2
-        },
-        {
-          "title": "System Card: Claude Mythos Preview [pdf]",
-          "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-          "score": 738,
-          "comments": 529
-        },
-        {
-          "title": "GLM-5.1: Towards Long-Horizon Tasks",
-          "url": "https://z.ai/blog/glm-5.1",
-          "score": 553,
-          "comments": 226
-        },
-        {
-          "title": "Native Americans had dice 12k years ago",
-          "url": "https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426",
-          "score": 83,
-          "comments": 33
-        },
-        {
-          "title": "Slightly safer vibecoding by adopting old hacker habits",
-          "url": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
-          "score": 128,
-          "comments": 69
-        },
-        {
-          "title": "How to get better at guitar",
-          "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
-          "score": 368,
-          "comments": 181
-        },
-        {
-          "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
-          "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-          "score": 420,
-          "comments": 96
-        },
-        {
-          "title": "Mario and Earendil",
-          "url": "https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/",
-          "score": 14,
-          "comments": 2
-        },
-        {
-          "title": "S3 Files",
-          "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
-          "score": 320,
-          "comments": 92
-        },
-        {
-          "title": "A truck driver spent 20 years making a scale model of every building in NYC",
-          "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-          "score": 349,
-          "comments": 59
-        },
-        {
-          "title": "Show HN: An interactive map of Tolkien's Middle-earth",
-          "url": "https://middle-earth-interactive-map.web.app/",
-          "score": 225,
-          "comments": 41
-        },
-        {
-          "title": "Binary obfuscation used in AAA Games",
-          "url": "https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html",
-          "score": 108,
-          "comments": 48
-        },
-        {
-          "title": "Cloudflare targets 2029 for full post-quantum security",
-          "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
-          "score": 347,
-          "comments": 108
-        },
-        {
-          "title": "The Clock",
-          "url": "https://blog.senko.net/the-clock",
-          "score": 83,
-          "comments": 30
-        },
-        {
-          "title": "US and Iran agree to provisional ceasefire",
-          "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-          "score": 520,
-          "comments": 1551
-        }
-      ]
+      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/47656518.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
+      "items": []
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -167,42 +15,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 71753,
-          "change_24h": 4.94,
-          "change_7d": 4.74,
-          "market_cap": 1436165257483
+          "price": 71382,
+          "change_24h": 4.05,
+          "change_7d": 3.75,
+          "market_cap": 1427945760326
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2249.69,
-          "change_24h": 7.95,
-          "change_7d": 5.38,
-          "market_cap": 271724046035
+          "price": 2214.48,
+          "change_24h": 5.7,
+          "change_7d": 3.24,
+          "market_cap": 267175907183
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 84.37,
-          "change_24h": 6.6,
-          "change_7d": 1.24,
-          "market_cap": 48471749667
+          "price": 83.33,
+          "change_24h": 4.13,
+          "change_7d": -2.15,
+          "market_cap": 47853844407
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.094078,
-          "change_24h": 4.14,
-          "change_7d": 1.81,
-          "market_cap": 14468212445
+          "price": 0.093591,
+          "change_24h": 1.96,
+          "change_7d": 0.21,
+          "market_cap": 14384861881
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.257309,
-          "change_24h": 6.47,
-          "change_7d": 3.67,
-          "market_cap": 9500109687
+          "price": 0.253751,
+          "change_24h": 4.11,
+          "change_7d": 1.85,
+          "market_cap": 9368892116
         }
       ]
     },
@@ -217,14 +65,39 @@
           "market_cap_rank": 122
         },
         {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 20
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 107
+        },
+        {
+          "name": "Siren",
+          "symbol": "SIREN",
+          "market_cap_rank": 104
+        },
+        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 20
+          "name": "Enjin Coin",
+          "symbol": "ENJ",
+          "market_cap_rank": 424
+        },
+        {
+          "name": "Jupiter",
+          "symbol": "JUP",
+          "market_cap_rank": 93
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 15
         },
         {
           "name": "Ethereum",
@@ -232,34 +105,9 @@
           "market_cap_rank": 2
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 14
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 33
-        },
-        {
-          "name": "OpenVPP",
-          "symbol": "OVPP",
-          "market_cap_rank": 981
-        },
-        {
-          "name": "Aave",
-          "symbol": "AAVE",
-          "market_cap_rank": 54
-        },
-        {
           "name": "Sui",
           "symbol": "SUI",
           "market_cap_rank": 30
-        },
-        {
-          "name": "Plasma",
-          "symbol": "XPL",
-          "market_cap_rank": 132
         }
       ]
     },
@@ -268,45 +116,31 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 3,
       "items": [
         {
-          "title": "Iran Ceasefire Sparks Risk Asset Recovery Across Markets",
-          "summary": "News of a two-week ceasefire in Iran and safe passage through the Strait of Hormuz has triggered a sharp recovery in global risk assets, with higher equities, bullish yield curve steepening, and broad currency recovery against the dollar as investors assess sustainability of peace.",
-          "source": "ING THINK",
-          "url": "https://think.ing.com/articles/fx-daily-global-fx-comes-back-from-the-brink/"
+          "title": "Fed Chair Powell Delivers Speech Amid Key US Economic Data Releases",
+          "summary": "Fed Chair Powell spoke at 02:30 PM UTC following releases of Dallas Fed Manufacturing Index (-0.2 vs. 0.2 expected), Chicago PMI (52.8), and other indicators like ADP Employment (63K) and Retail Sales (-0.2% MoM). These events highlight ongoing monitoring of US labor market and inflation trends.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/calendar"
         },
         {
-          "title": "Economic Concerns Mount as Gas Prices Surge Amid Iran War",
-          "summary": "Gas prices have climbed to their highest level in four years due to the Iran conflict, adding inflationary pressure to the economy and eroding consumer confidence, with polling showing 76% of Americans view the economy as 'fair' or 'poor' and Republican approval on economic handling declining.",
-          "source": "ABC3340",
-          "url": "https://abc3340.com/news/nation-world/economic-concerns-grow-as-gas-prices-surge-posing-risk-for-gop-midterm-elections-inflation-iran-war-tariffs"
-        },
-        {
-          "title": "Federal Reserve: Inflation Remains Above 2% Target Despite Modest Growth",
-          "summary": "A Federal Reserve policymaker reports the U.S. economy is growing at its potential pace with resilient consumer spending, but core inflation has risen 3.0% over 12 months with little progress in lowering it, while the labor market remains roughly in balance but susceptible to shocks.",
-          "source": "Federal Reserve",
-          "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm"
-        },
-        {
-          "title": "Tax Refunds Running 14% Higher Than Last Year, Supporting Consumer Spending",
-          "summary": "Treasury data shows household tax refunds are currently running 14% higher than the prior year, providing a positive boost to consumer spending during tax filing season.",
-          "source": "Apollo",
-          "url": "https://www.apollo.com/wealth/the-daily-spark"
-        },
-        {
-          "title": "Consumer Inflation Expectations Rise to 3.4% Amid Middle East Tensions",
-          "summary": "The New York Fed's survey shows consumers now expect inflation to reach 3.4% within a year, up from 3% in February before the Middle East conflict escalated.",
+          "title": "Oil Prices Dip on De-escalation News",
+          "summary": "Oil prices declined following reports of de-escalation in geopolitical tensions. This comes amid broader market movements including emerging markets rally.",
           "source": "Marketplace",
           "url": "https://www.marketplace.org"
+        },
+        {
+          "title": "Emerging Markets Stocks Surge 5% on US-Iran Developments",
+          "summary": "MSCI emerging markets stock index jumped 5%, marking its biggest daily gain since November 2022, driven by US-Iran news; oil prices dropped 13% while EM bonds rallied amid easing fiscal pressures.",
+          "source": "Fidelity",
+          "url": "https://www.fidelity.com/news/article/us-economy"
         }
       ],
       "citations": [
-        "https://abc3340.com/news/nation-world/economic-concerns-grow-as-gas-prices-surge-posing-risk-for-gop-midterm-elections-inflation-iran-war-tariffs",
-        "https://think.ing.com/articles/fx-daily-global-fx-comes-back-from-the-brink/",
-        "https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm",
-        "https://www.apollo.com/wealth/the-daily-spark",
-        "https://www.marketplace.org"
+        "https://tradingeconomics.com/united-states/calendar",
+        "https://www.marketplace.org",
+        "https://www.fidelity.com/news/article/us-economy"
       ]
     },
     "crypto_news": {
@@ -314,9 +148,47 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
-      "citations": []
+      "count": 5,
+      "items": [
+        {
+          "title": "Bitcoin Surges Past $72K on US-Iran Ceasefire News",
+          "summary": "Bitcoin rallied over 4-5% to nearly $72,000 following a two-week ceasefire deal between the US and Iran announced by President Trump, boosting crypto market cap to $2.45-2.52 trillion. Ethereum rose 6-7% to around $2,243-$2,248, with XRP up 5%.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/crypto-rallies-as-ceasefire-lifts-bitcoin-and-altcoins-higher-200678043"
+        },
+        {
+          "title": "Crypto Market Cap Jumps 4% Amid Global Risk-On Rally",
+          "summary": "Total crypto market capitalization increased 4% to $2.45 trillion, driven by Middle East ceasefire easing geopolitical tensions and crashing oil prices below $100/barrel. Standout gainers include ZEC (+22%), ICP (+13%), Avalanche (+9.5%), and ORDI (+9.48%).",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/crypto-rallies-as-ceasefire-lifts-bitcoin-and-altcoins-higher-200678043"
+        },
+        {
+          "title": "Top Crypto Gainers: ORDI Leads with 9.48% Surge",
+          "summary": "ORDI (ORDER) topped 24-hour gainers at +9.48% to $0.0587 with $16.76M volume, followed by MOG (+3.57%), TREE (+3.03%), amid broader market rally from ceasefire news.",
+          "source": "CryptoRank.io",
+          "url": "https://cryptorank.io/news/feed/9f7e1-bitcoin-world-crypto-gainers-losers-10"
+        },
+        {
+          "title": "Crypto Fund Inflows Rise $224M, XRP Sees Largest Jump",
+          "summary": "Global crypto fund investments increased by $224 million last week, with XRP leading at $120 million—the largest since mid-December 2025—followed by Bitcoin ($107M) and Solana ($35M); Ethereum saw $53M outflows.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/crypto-rallies-as-ceasefire-lifts-bitcoin-and-altcoins-higher-200678043"
+        },
+        {
+          "title": "Bitcoin Active Addresses Hit Lowest Since 2013",
+          "summary": "Bitcoin network daily active addresses dropped to the lowest level since autumn 2013, negatively impacting transaction fees and mining profitability despite price surge.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/crypto-rallies-as-ceasefire-lifts-bitcoin-and-altcoins-higher-200678043"
+        }
+      ],
+      "citations": [
+        "https://www.investing.com/analysis/crypto-rallies-as-ceasefire-lifts-bitcoin-and-altcoins-higher-200678043",
+        "https://cryptorank.io/news/feed/9f7e1-bitcoin-world-crypto-gainers-losers-10",
+        "https://www.dlnews.com/articles/markets/bitcoin-price-surges-72k-amid-global-rally-after-trump-ceasefire/",
+        "https://www.trendingtopics.eu/us-iran-ceasefire-sends-bitcoin-surging-past-72000-as-oil-crashes/",
+        "https://www.youtube.com/watch?v=xxK-bMGLSww",
+        "https://www.binance.com/en/square/post/310269567506481"
+      ]
     },
     "ai_news": {
       "source": "perplexity",
@@ -326,43 +198,42 @@
       "count": 5,
       "items": [
         {
-          "title": "Anthropic Hits $30 Billion Run Rate as Enterprise Demand Accelerates",
-          "summary": "Anthropic has reached a $30 billion run rate, driven by increasing enterprise adoption of its AI services. The company continues to expand its market presence amid strong demand for its Claude models.",
+          "title": "Anthropic's Claude Mythos AI Model Uncovers Thousands of Zero-Day Vulnerabilities",
+          "summary": "Anthropic's new Claude Mythos preview model has identified thousands of zero-day vulnerabilities in every major operating system and web browser, prompting Project Glasswing—a partnership with big tech to proactively patch these critical bugs before wider release.",
+          "source": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades"
+        },
+        {
+          "title": "DARPA Launches MATHBAC Program for AI Agent-to-Agent Communication",
+          "summary": "DARPA announced the Mathematics of Boosting Agentic Communication (MATHBAC) program, offering up to $2 million in grants to develop foundational math and protocols for AI agents to collaborate on scientific discoveries and hypothesis generation.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/2026/04/08/darpa_wants_ai_agent_communication/"
+        },
+        {
+          "title": "Intel Joins Elon Musk's $25 Billion Terafab AI Chip Project",
+          "summary": "Intel has partnered with Elon Musk's Terafab project, aimed at producing AI chips to power humanoid robots and data centers, marking a significant collaboration in AI hardware development.",
+          "source": "The Straits Times",
+          "url": "https://www.newsnow.co.uk/h/Science/AI"
+        },
+        {
+          "title": "Anthropic Reaches $30 Billion Run Rate Amid Enterprise AI Demand",
+          "summary": "Anthropic reports accelerating enterprise demand for its AI models, achieving a $30 billion annual run rate as companies rush to adopt advanced AI solutions.",
           "source": "PYMNTS.com",
-          "url": "https://www.pymnts.com"
+          "url": "https://www.newsnow.co.uk/h/Science/AI"
         },
         {
-          "title": "Anthropic Debuts Project Glasswing with Mythos AI Model for Software Security",
-          "summary": "Anthropic has launched Project Glasswing, leveraging its new Mythos AI model to identify and address software vulnerabilities. The initiative represents a significant partnership effort to reinforce software security through advanced AI capabilities.",
-          "source": "SiliconANGLE",
-          "url": "https://www.siliconangle.com"
-        },
-        {
-          "title": "Intel Joins Elon Musk's Terafab AI Chip Project",
-          "summary": "Intel has partnered with Elon Musk's $25 billion Terafab initiative to develop AI chips for humanoid robots and data center applications. The collaboration aims to advance AI infrastructure and computational capabilities.",
-          "source": "CNET",
-          "url": "https://www.cnet.com"
-        },
-        {
-          "title": "FBI Reports $893 Million in AI-Driven Scams",
-          "summary": "The FBI has flagged approximately $893 million in fraudulent activities powered by artificial intelligence. The report highlights growing concerns about AI misuse in criminal schemes.",
+          "title": "FBI Reports $893 Million in Losses from AI-Driven Scams",
+          "summary": "The FBI has flagged over $893 million in financial losses attributed to AI-powered scams, highlighting growing risks in the AI era.",
           "source": "PYMNTS.com",
-          "url": "https://www.pymnts.com"
-        },
-        {
-          "title": "Google Updates Gemini with Enhanced Mental Health Safeguards",
-          "summary": "Google has rolled out new safety measures in Gemini to better handle suicide and self-harm-related queries, providing users with mental health resources. The update comes as AI companies face increased scrutiny over content moderation.",
-          "source": "KQED",
-          "url": "https://www.kqed.org"
+          "url": "https://www.newsnow.co.uk/h/Science/AI"
         }
       ],
       "citations": [
-        "https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades",
+        "https://www.theregister.com/2026/04/08/darpa_wants_ai_agent_communication/",
         "https://www.newsnow.co.uk/h/Science/AI",
-        "https://www.mejba.me/blog/ai-developments-april-2026-roundup",
-        "https://newsroom.ibm.com/latest-news-artificial-intelligence",
-        "https://t2conline.com/the-ai-gold-rush-is-burning-cash-and-forcing-businesses-to-rethink-strategy/",
-        "https://www.youtube.com/watch?v=nCYCWVgOhBM"
+        "https://mitsloan.mit.edu/ideas-made-to-matter/how-to-accelerate-ai-transformation",
+        "https://www.youtube.com/watch?v=hNrURiDJYjo"
       ]
     },
     "gaming": {
@@ -370,26 +241,73 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 9,
       "items": [
         {
-          "title": "EXD Extra Dimensional Launching April 16 - Praised as Best PC VR Game in Years",
-          "summary": "A new indie PC VR game called EXD Extra Dimensional is set to release on April 16, 2026, and has already garnered significant praise for its fantastic visuals, realistic physics, unique story, and engaging writing. It's being hailed as the best PC VR experience since Vertigo 2.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=R3LYoTRX9O0"
+          "title": "Grand Theft Auto 6 Delayed to May 2026",
+          "summary": "Rockstar Games has delayed Grand Theft Auto VI to May 26, 2026, delivering the anticipated but dreaded news to fans awaiting the massive open-world title.",
+          "source": "CBR",
+          "url": "https://www.cbr.com/category/game-news/"
         },
         {
-          "title": "Crimson Desert Receives Positive Reception After 175+ Hours of Gameplay",
-          "summary": "Gaming reviewer DrybearGamers has published an extensive review of Crimson Desert after investing over 175 hours in the game, indicating strong engagement and suggesting it could be a 500+ hour completion experience.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=QW1VpTNRXaM"
+          "title": "Nintendo Takes Legal Action Against Alleged Switch 2 Leaker",
+          "summary": "Nintendo is suing accessory maker Genki for allegedly misleading consumers and leaking Switch 2 information.",
+          "source": "CBR",
+          "url": "https://www.cbr.com/category/game-news/"
+        },
+        {
+          "title": "Elder Scrolls: Oblivion Remake Officially Confirmed",
+          "summary": "Bethesda has confirmed the Elder Scrolls IV: Oblivion remake with a cryptic teaser, with a possible surprise reveal date coming soon; players are already glitching out of the map in the remastered version.",
+          "source": "CBR",
+          "url": "https://www.cbr.com/category/game-news/"
+        },
+        {
+          "title": "New Wheel of Time AAA RPG Announced",
+          "summary": "A full-fledged AAA video game adaptation of The Wheel of Time is announced by a studio behind the hit live-action series, potentially rivaling Game of Thrones games.",
+          "source": "CBR",
+          "url": "https://www.cbr.com/category/game-news/"
+        },
+        {
+          "title": "Nioh 3 Announced with Immediate Playable Demo",
+          "summary": "Team Ninja and Koei Tecmo announce Nioh 3 during Sony’s State of Play, allowing soulslike fans to play a demo right now on PS5; full release set for 2026.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        },
+        {
+          "title": "Star Fox New Game Announcement Leaked for This Month",
+          "summary": "Prominent leaker NateTheHate claims a new classic-style Star Fox game will be announced this month via Nintendo, fueled by the character's appearance in the Super Mario Galaxy Movie.",
+          "source": "CGMagazine",
+          "url": "https://www.cgmagonline.com/news/star-fox-leak-claims-new-game-to-be-shown/"
+        },
+        {
+          "title": "Bloodstained Sequel The Scarlet Engagement Revealed",
+          "summary": "Developer ArtPlay unveils The Scarlet Engagement, a new entry in the Bloodstained series that diverges significantly from the original, shown at June PlayStation State of Play.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        },
+        {
+          "title": "Final Fantasy Tactics Remaster and Other Big Reveals at State of Play",
+          "summary": "June 2025's PlayStation State of Play features major announcements including Final Fantasy Tactics remaster launching in September, Metal Gear Solid, Digimon, Silent Hill f release date, and more.",
+          "source": "ScreenRant",
+          "url": "https://screenrant.com/game-news/"
+        },
+        {
+          "title": "Double Dragon and River City Creator Yoshihisa Kishimoto Passes Away",
+          "summary": "Yoshihisa Kishimoto, creator of Double Dragon and River City series, has passed away, as reported in a fresh Game Informer article.",
+          "source": "Twin Galaxies",
+          "url": "https://www.twingalaxies.com/newsDetails/6958"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=R3LYoTRX9O0",
-        "https://www.youtube.com/watch?v=QW1VpTNRXaM",
-        "https://www.youtube.com/watch?v=UWHr-_w3D5Q",
-        "https://www.youtube.com/watch?v=yaZD0F58CEY"
+        "https://www.cbr.com/category/game-news/",
+        "https://gamerant.com/gaming/",
+        "https://www.cgmagonline.com/news/star-fox-leak-claims-new-game-to-be-shown/",
+        "https://screenrant.com/game-news/",
+        "https://www.thegamer.com/category/game-news/",
+        "https://gameinformer.com/news",
+        "https://gamerant.com",
+        "https://www.the-independent.com/games",
+        "https://www.twingalaxies.com/newsDetails/6958"
       ]
     },
     "tech_news": {
@@ -399,7 +317,13 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": []
+      "citations": [
+        "https://www.techmeme.com/?full=t",
+        "https://www.anthropic.com/glasswing",
+        "https://ground.news/interest/tech",
+        "https://scitechdaily.com/news/technology/",
+        "https://www.pewresearch.org/topic/internet-technology/"
+      ]
     }
   }
 }
