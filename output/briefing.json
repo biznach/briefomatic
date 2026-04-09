@@ -1,11 +1,163 @@
 {
-  "generated_at": "2026-04-08T18:28:04.120805+00:00",
-  "generated_at_human": "2026-04-08 18:28 UTC",
+  "generated_at": "2026-04-09T00:25:17.564169+00:00",
+  "generated_at_human": "2026-04-09 00:25 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/47656518.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-      "items": []
+      "category": "tech_ai_nerd",
+      "count": 25,
+      "items": [
+        {
+          "title": "I ported Mac OS X to the Nintendo Wii",
+          "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+          "score": 1170,
+          "comments": 208
+        },
+        {
+          "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+          "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+          "score": 156,
+          "comments": 22
+        },
+        {
+          "title": "Git commands I run before reading any code",
+          "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+          "score": 1757,
+          "comments": 380
+        },
+        {
+          "title": "Understanding the Kalman filter with a simple radar example",
+          "url": "https://kalmanfilter.net",
+          "score": 196,
+          "comments": 28
+        },
+        {
+          "title": "Muse Spark: Scaling towards personal superintelligence",
+          "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+          "score": 249,
+          "comments": 278
+        },
+        {
+          "title": "They're made out of meat (1991)",
+          "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+          "score": 387,
+          "comments": 107
+        },
+        {
+          "title": "Expanding Swift's IDE Support",
+          "url": "https://swift.org/blog/expanding-swift-ide-support/",
+          "score": 70,
+          "comments": 34
+        },
+        {
+          "title": "ML promises to be profoundly weird",
+          "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+          "score": 353,
+          "comments": 390
+        },
+        {
+          "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+          "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+          "score": 510,
+          "comments": 531
+        },
+        {
+          "title": "Pgit: I Imported the Linux Kernel into PostgreSQL",
+          "url": "https://oseifert.ch/blog/linux-kernel-pgit",
+          "score": 61,
+          "comments": 8
+        },
+        {
+          "title": "Show HN: Is Hormuz open yet?",
+          "url": "https://www.ishormuzopenyet.com/",
+          "score": 214,
+          "comments": 79
+        },
+        {
+          "title": "John Deere to pay $99M in right-to-repair settlement",
+          "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+          "score": 143,
+          "comments": 35
+        },
+        {
+          "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+          "url": "https://arxiv.org/abs/2604.05091",
+          "score": 249,
+          "comments": 48
+        },
+        {
+          "title": "Automatic registration for US Military draft to begin in December",
+          "url": "https://thehill.com/policy/defense/5822914-automatic-registration-military-draft/",
+          "score": 22,
+          "comments": 9
+        },
+        {
+          "title": "Understanding Traceroute",
+          "url": "https://tech.stonecharioteer.com/posts/2026/traceroute/",
+          "score": 77,
+          "comments": 10
+        },
+        {
+          "title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
+          "url": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html",
+          "score": 275,
+          "comments": 192
+        },
+        {
+          "title": "Show HN: Orange Juice – Small UX improvements that make HN easier to read",
+          "url": "http://oj-hn.com/",
+          "score": 80,
+          "comments": 108
+        },
+        {
+          "title": "What Does It Mean to \"Write Like You Talk\"?",
+          "url": "https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you",
+          "score": 4,
+          "comments": 0
+        },
+        {
+          "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
+          "url": "https://thales.me/posts/why-i-built-snapstate/",
+          "score": 11,
+          "comments": 15
+        },
+        {
+          "title": "What does ⍋⍋ even mean? (2023)",
+          "url": "https://blog.wilsonb.com/posts/2023-08-04-what-does-grade-grade-even-mean.html",
+          "score": 32,
+          "comments": 15
+        },
+        {
+          "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+          "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+          "score": 251,
+          "comments": 129
+        },
+        {
+          "title": "Ask HN: Any interesting niche hobbies?",
+          "url": "https://news.ycombinator.com/item?id=47654062",
+          "score": 236,
+          "comments": 368
+        },
+        {
+          "title": "Exposing and Understanding Scrolling Transfer Functions (2012) [pdf]",
+          "url": "https://direction.bordeaux.inria.fr/~roussel/publications/2012-UIST-scrolling-tf.pdf",
+          "score": 6,
+          "comments": 0
+        },
+        {
+          "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
+          "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
+          "score": 173,
+          "comments": 160
+        },
+        {
+          "title": "US cities are axing Flock Safety surveillance technology",
+          "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+          "score": 614,
+          "comments": 355
+        }
+      ]
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -15,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 71382,
-          "change_24h": 4.05,
-          "change_7d": 3.75,
-          "market_cap": 1427945760326
+          "price": 70959,
+          "change_24h": -1.32,
+          "change_7d": 4.18,
+          "market_cap": 1419818034534
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2214.48,
-          "change_24h": 5.7,
-          "change_7d": 3.24,
-          "market_cap": 267175907183
+          "price": 2189.06,
+          "change_24h": -2.29,
+          "change_7d": 2.34,
+          "market_cap": 264139024648
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 83.33,
-          "change_24h": 4.13,
-          "change_7d": -2.15,
-          "market_cap": 47853844407
+          "price": 82.53,
+          "change_24h": -2.9,
+          "change_7d": 1.79,
+          "market_cap": 47333168190
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.093591,
-          "change_24h": 1.96,
-          "change_7d": 0.21,
-          "market_cap": 14384861881
+          "price": 0.092231,
+          "change_24h": -2.53,
+          "change_7d": 0.04,
+          "market_cap": 14187725309
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.253751,
-          "change_24h": 4.11,
-          "change_7d": 1.85,
-          "market_cap": 9368892116
+          "price": 0.25025,
+          "change_24h": -4.88,
+          "change_7d": 1.12,
+          "market_cap": 9228624834
         }
       ]
     },
@@ -60,24 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 122
-        },
-        {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 20
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 107
-        },
-        {
-          "name": "Siren",
-          "symbol": "SIREN",
-          "market_cap_rank": 104
+          "name": "Enjin Coin",
+          "symbol": "ENJ",
+          "market_cap_rank": 413
         },
         {
           "name": "Bitcoin",
@@ -85,14 +222,14 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Enjin Coin",
-          "symbol": "ENJ",
-          "market_cap_rank": 424
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
         },
         {
-          "name": "Jupiter",
-          "symbol": "JUP",
-          "market_cap_rank": 93
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 105
         },
         {
           "name": "Hyperliquid",
@@ -100,14 +237,29 @@
           "market_cap_rank": 15
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Fartcoin",
+          "symbol": "FARTCOIN",
+          "market_cap_rank": 164
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 123
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 33
+        },
+        {
+          "name": "Optimism",
+          "symbol": "OP",
+          "market_cap_rank": 155
         },
         {
           "name": "Sui",
           "symbol": "SUI",
-          "market_cap_rank": 30
+          "market_cap_rank": 31
         }
       ]
     },
@@ -116,31 +268,46 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Fed Chair Powell Delivers Speech Amid Key US Economic Data Releases",
-          "summary": "Fed Chair Powell spoke at 02:30 PM UTC following releases of Dallas Fed Manufacturing Index (-0.2 vs. 0.2 expected), Chicago PMI (52.8), and other indicators like ADP Employment (63K) and Retail Sales (-0.2% MoM). These events highlight ongoing monitoring of US labor market and inflation trends.",
-          "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/united-states/calendar"
+          "title": "FOMC Minutes Released; March CPI Data Expected Friday",
+          "summary": "The Federal Reserve released minutes from its March 17-18 meeting on Wednesday, April 8, 2026. The March Consumer Price Index will be released Friday, April 10, marking the first inflation print to fully capture the period following the Middle East conflict-driven oil price spike.",
+          "source": "Kraken Blog",
+          "url": "https://blog.kraken.com/economic-brief/fomc-minutes-and-cpi-the-macro-week"
         },
         {
-          "title": "Oil Prices Dip on De-escalation News",
-          "summary": "Oil prices declined following reports of de-escalation in geopolitical tensions. This comes amid broader market movements including emerging markets rally.",
-          "source": "Marketplace",
-          "url": "https://www.marketplace.org"
+          "title": "Fed Maintains Cautious Stance on Rate Cuts Amid Inflation Concerns",
+          "summary": "The Federal Reserve's March projections maintained a median forecast of one rate cut in 2026, but seven committee members now project zero cuts. A hot March CPI print could add pressure to this already cautious posture.",
+          "source": "Kraken Blog",
+          "url": "https://blog.kraken.com/economic-brief/fomc-minutes-and-cpi-the-macro-week"
         },
         {
-          "title": "Emerging Markets Stocks Surge 5% on US-Iran Developments",
-          "summary": "MSCI emerging markets stock index jumped 5%, marking its biggest daily gain since November 2022, driven by US-Iran news; oil prices dropped 13% while EM bonds rallied amid easing fiscal pressures.",
-          "source": "Fidelity",
-          "url": "https://www.fidelity.com/news/article/us-economy"
+          "title": "2025 Tariffs Significantly Boosted Core Goods Prices",
+          "summary": "Federal Reserve analysis confirms that tariffs implemented in 2025 raised core goods PCE prices by 3.1 percent through February 2026, explaining the entirety of excess inflation in the core goods category and contributing 0.8 percent to overall core PCE inflation.",
+          "source": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/econres/notes/feds-notes/detecting-tariff-effects-on-consumer-prices-in-real-time-part-II-20260408.html"
+        },
+        {
+          "title": "Oil Prices Drop Below $100 Following Iran Ceasefire",
+          "summary": "Oil prices plunged more than 15 percent after news of a two-week ceasefire between the U.S. and Iran, bringing crude below $100 per barrel and easing inflation pressures from the earlier Middle East conflict.",
+          "source": "The National News Desk",
+          "url": "https://www.youtube.com/watch?v=mpU3LClrImI"
+        },
+        {
+          "title": "Major Bank Earnings Week: Goldman Sachs and JPMorgan Reports",
+          "summary": "Goldman Sachs reported Q1 2026 earnings Monday before market open, with Q4 2025 results showing a four-year high in deal backlog. JPMorgan reports Tuesday alongside PPI data, with CEO Dimon's commentary on consumer credit and the oil shock expected to influence broader market positioning.",
+          "source": "Kraken Blog",
+          "url": "https://blog.kraken.com/economic-brief/fomc-minutes-and-cpi-the-macro-week"
         }
       ],
       "citations": [
+        "https://blog.kraken.com/economic-brief/fomc-minutes-and-cpi-the-macro-week",
         "https://tradingeconomics.com/united-states/calendar",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/detecting-tariff-effects-on-consumer-prices-in-real-time-part-II-20260408.html",
         "https://www.marketplace.org",
-        "https://www.fidelity.com/news/article/us-economy"
+        "https://www.youtube.com/watch?v=mpU3LClrImI",
+        "https://www.google.com/finance/?hl=en"
       ]
     },
     "crypto_news": {
@@ -148,46 +315,52 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Bitcoin Surges Past $72K on US-Iran Ceasefire News",
-          "summary": "Bitcoin rallied over 4-5% to nearly $72,000 following a two-week ceasefire deal between the US and Iran announced by President Trump, boosting crypto market cap to $2.45-2.52 trillion. Ethereum rose 6-7% to around $2,243-$2,248, with XRP up 5%.",
-          "source": "Investing.com",
+          "title": "Bitcoin Surges Past $72K on US-Iran Ceasefire News, Triggering Short Squeeze",
+          "summary": "Bitcoin hit an intraday high of $72,379 before settling around $71.8K-$72K, up 4-4.8% in 24 hours, driven by a US-Iran ceasefire announcement boosting risk assets and wiping out over $400M in short positions. Crypto market cap rose 4% to $2.45T-$2.51T amid heightened volatility.[1][2][3][4][6]",
+          "source": "BitcoinWorld, Investing.com, YouTube, TrendingTopics, TradingView",
+          "url": "https://cryptorank.io/news/feed/686d7-bitcoin-market-crypto-gainers-losers"
+        },
+        {
+          "title": "Top Crypto Gainers: K Rockets 85%, DRIFT +47%, L3 +30% in Volatile Rally",
+          "summary": "K led with an 85.83% surge to $0.0024, followed by DRIFT (+46.94% to $0.0388 with $33M volume), L3 (+30.26%), RSC (+28.62%), and ORDER (+22.36%), amid broader market rally influenced by ceasefire news.[1]",
+          "source": "CryptoRank / BitcoinWorld",
+          "url": "https://cryptorank.io/news/feed/686d7-bitcoin-market-crypto-gainers-losers"
+        },
+        {
+          "title": "Altcoins Rally: ZEC +22%, ICP +13%, AVAX +9.5%; ETH +6.5%, XRP +5.4%",
+          "summary": "ZEC gained 22%, ICP 13%, Avalanche 9.5%, Ethereum rose 6.54% to $2,243, and XRP 5.38% to $1.38, outperforming amid ceasefire-driven optimism and market cap surge.[2][4]",
+          "source": "Investing.com, TrendingTopics",
           "url": "https://www.investing.com/analysis/crypto-rallies-as-ceasefire-lifts-bitcoin-and-altcoins-higher-200678043"
         },
         {
-          "title": "Crypto Market Cap Jumps 4% Amid Global Risk-On Rally",
-          "summary": "Total crypto market capitalization increased 4% to $2.45 trillion, driven by Middle East ceasefire easing geopolitical tensions and crashing oil prices below $100/barrel. Standout gainers include ZEC (+22%), ICP (+13%), Avalanche (+9.5%), and ORDI (+9.48%).",
-          "source": "Investing.com",
+          "title": "Crypto Fund Inflows Rise $224M Last Week, Led by XRP ($120M) and BTC ($107M)",
+          "summary": "Global crypto fund investments increased by $224M, with XRP seeing the largest inflow since mid-Dec 2025 ($120M), Bitcoin $107M, Solana $35M, while Ethereum dipped $53M.[2]",
+          "source": "Investing.com / CoinShares",
           "url": "https://www.investing.com/analysis/crypto-rallies-as-ceasefire-lifts-bitcoin-and-altcoins-higher-200678043"
         },
         {
-          "title": "Top Crypto Gainers: ORDI Leads with 9.48% Surge",
-          "summary": "ORDI (ORDER) topped 24-hour gainers at +9.48% to $0.0587 with $16.76M volume, followed by MOG (+3.57%), TREE (+3.03%), amid broader market rally from ceasefire news.",
-          "source": "CryptoRank.io",
-          "url": "https://cryptorank.io/news/feed/9f7e1-bitcoin-world-crypto-gainers-losers-10"
+          "title": "Cango Sells 2,000 BTC in March to Reduce Loans, Cuts Production Cost 19%",
+          "summary": "Bitcoin miner Cango sold 2,000 BTC last month to cut Bitcoin-backed loans to $30.6M, strengthening its balance sheet for AI/energy pivot; production cost fell to $68K per coin.[5]",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/crypto/markets/another-crypto-company-sells-bitcoin-amid-50-crash"
         },
         {
-          "title": "Crypto Fund Inflows Rise $224M, XRP Sees Largest Jump",
-          "summary": "Global crypto fund investments increased by $224 million last week, with XRP leading at $120 million—the largest since mid-December 2025—followed by Bitcoin ($107M) and Solana ($35M); Ethereum saw $53M outflows.",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/analysis/crypto-rallies-as-ceasefire-lifts-bitcoin-and-altcoins-higher-200678043"
-        },
-        {
-          "title": "Bitcoin Active Addresses Hit Lowest Since 2013",
-          "summary": "Bitcoin network daily active addresses dropped to the lowest level since autumn 2013, negatively impacting transaction fees and mining profitability despite price surge.",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/analysis/crypto-rallies-as-ceasefire-lifts-bitcoin-and-altcoins-higher-200678043"
+          "title": "Morgan Stanley Launches Bitcoin Spot ETF as Wall Street Expands Crypto Access",
+          "summary": "Morgan Stanley introduced a Bitcoin spot ETF amid surging prices, signaling Wall Street's push into crypto products, tokenization, and institutional adoption.[3]",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=iFqt-11CNt4"
         }
       ],
       "citations": [
+        "https://cryptorank.io/news/feed/686d7-bitcoin-market-crypto-gainers-losers",
         "https://www.investing.com/analysis/crypto-rallies-as-ceasefire-lifts-bitcoin-and-altcoins-higher-200678043",
-        "https://cryptorank.io/news/feed/9f7e1-bitcoin-world-crypto-gainers-losers-10",
-        "https://www.dlnews.com/articles/markets/bitcoin-price-surges-72k-amid-global-rally-after-trump-ceasefire/",
+        "https://www.youtube.com/watch?v=iFqt-11CNt4",
         "https://www.trendingtopics.eu/us-iran-ceasefire-sends-bitcoin-surging-past-72000-as-oil-crashes/",
-        "https://www.youtube.com/watch?v=xxK-bMGLSww",
-        "https://www.binance.com/en/square/post/310269567506481"
+        "https://www.thestreet.com/crypto/markets/another-crypto-company-sells-bitcoin-amid-50-crash",
+        "https://www.tradingview.com/news/invezz:4ddd2472e094b:0-bitcoin-reclaims-72k-after-ceasefire-news-sparks-short-squeeze/"
       ]
     },
     "ai_news": {
@@ -195,45 +368,39 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Anthropic's Claude Mythos AI Model Uncovers Thousands of Zero-Day Vulnerabilities",
-          "summary": "Anthropic's new Claude Mythos preview model has identified thousands of zero-day vulnerabilities in every major operating system and web browser, prompting Project Glasswing—a partnership with big tech to proactively patch these critical bugs before wider release.",
-          "source": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades"
+          "title": "AI Trained Like Rubik's Cube Solver Simplifies Particle Physics Equations",
+          "summary": "Physicist David Shih developed an AI system inspired by Rubik's Cube solving that achieves nearly perfect simplification of complex equations in particle physics, surpassing prior machine learning methods. The breakthrough highlights AI's potential for symbolic reasoning to discover new laws of nature.",
+          "source": "phys.org",
+          "url": "https://phys.org/news/2026-04-ai-rubik-cube-solver-particle.html"
         },
         {
-          "title": "DARPA Launches MATHBAC Program for AI Agent-to-Agent Communication",
-          "summary": "DARPA announced the Mathematics of Boosting Agentic Communication (MATHBAC) program, offering up to $2 million in grants to develop foundational math and protocols for AI agents to collaborate on scientific discoveries and hypothesis generation.",
-          "source": "The Register",
-          "url": "https://www.theregister.com/2026/04/08/darpa_wants_ai_agent_communication/"
+          "title": "AI Agents Flood GitHub with 14x More Code, Causing System Outages",
+          "summary": "AI agents are overwhelming Microsoft GitHub with 14 times more code than last year, leading to system outages as discussed by reporter Aaron Holmes.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=Mc3I3Aua2iw"
         },
         {
-          "title": "Intel Joins Elon Musk's $25 Billion Terafab AI Chip Project",
-          "summary": "Intel has partnered with Elon Musk's Terafab project, aimed at producing AI chips to power humanoid robots and data centers, marking a significant collaboration in AI hardware development.",
-          "source": "The Straits Times",
-          "url": "https://www.newsnow.co.uk/h/Science/AI"
+          "title": "15 New AI Breakthroughs Baffle Scientists, Including Zero-Shot Learning and Reward Hacking",
+          "summary": "Recent AI advancements include models achieving 83% accuracy in zero-shot image recognition without specific training and rapid reward hacking from just 1% bad data, challenging scientists' understanding.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=a18whsKY_rw"
         },
         {
-          "title": "Anthropic Reaches $30 Billion Run Rate Amid Enterprise AI Demand",
-          "summary": "Anthropic reports accelerating enterprise demand for its AI models, achieving a $30 billion annual run rate as companies rush to adopt advanced AI solutions.",
-          "source": "PYMNTS.com",
-          "url": "https://www.newsnow.co.uk/h/Science/AI"
-        },
-        {
-          "title": "FBI Reports $893 Million in Losses from AI-Driven Scams",
-          "summary": "The FBI has flagged over $893 million in financial losses attributed to AI-powered scams, highlighting growing risks in the AI era.",
-          "source": "PYMNTS.com",
-          "url": "https://www.newsnow.co.uk/h/Science/AI"
+          "title": "AI Seen as 'Great Equalizer' for Small Broadband Operators",
+          "summary": "Cable One COO Ken Johnson states AI is leveling the playing field, enabling smaller and midsized broadband operators to compete effectively against larger rivals.",
+          "source": "Light Reading",
+          "url": "https://www.lightreading.com/ai-machine-learning/ai-viewed-as-great-equalizer-for-small-midsized-broadband-operators"
         }
       ],
       "citations": [
-        "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades",
-        "https://www.theregister.com/2026/04/08/darpa_wants_ai_agent_communication/",
-        "https://www.newsnow.co.uk/h/Science/AI",
-        "https://mitsloan.mit.edu/ideas-made-to-matter/how-to-accelerate-ai-transformation",
-        "https://www.youtube.com/watch?v=hNrURiDJYjo"
+        "https://www.youtube.com/watch?v=a18whsKY_rw",
+        "https://phys.org/news/2026-04-ai-rubik-cube-solver-particle.html",
+        "https://www.youtube.com/watch?v=Mc3I3Aua2iw",
+        "https://www.lightreading.com/ai-machine-learning/ai-viewed-as-great-equalizer-for-small-midsized-broadband-operators",
+        "https://substack.com/home/post/p-193438373"
       ]
     },
     "gaming": {
@@ -241,73 +408,53 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 9,
+      "count": 6,
       "items": [
         {
-          "title": "Grand Theft Auto 6 Delayed to May 2026",
-          "summary": "Rockstar Games has delayed Grand Theft Auto VI to May 26, 2026, delivering the anticipated but dreaded news to fans awaiting the massive open-world title.",
-          "source": "CBR",
-          "url": "https://www.cbr.com/category/game-news/"
-        },
-        {
-          "title": "Nintendo Takes Legal Action Against Alleged Switch 2 Leaker",
-          "summary": "Nintendo is suing accessory maker Genki for allegedly misleading consumers and leaking Switch 2 information.",
-          "source": "CBR",
-          "url": "https://www.cbr.com/category/game-news/"
-        },
-        {
-          "title": "Elder Scrolls: Oblivion Remake Officially Confirmed",
-          "summary": "Bethesda has confirmed the Elder Scrolls IV: Oblivion remake with a cryptic teaser, with a possible surprise reveal date coming soon; players are already glitching out of the map in the remastered version.",
-          "source": "CBR",
-          "url": "https://www.cbr.com/category/game-news/"
-        },
-        {
-          "title": "New Wheel of Time AAA RPG Announced",
-          "summary": "A full-fledged AAA video game adaptation of The Wheel of Time is announced by a studio behind the hit live-action series, potentially rivaling Game of Thrones games.",
-          "source": "CBR",
-          "url": "https://www.cbr.com/category/game-news/"
-        },
-        {
-          "title": "Nioh 3 Announced with Immediate Playable Demo",
-          "summary": "Team Ninja and Koei Tecmo announce Nioh 3 during Sony’s State of Play, allowing soulslike fans to play a demo right now on PS5; full release set for 2026.",
+          "title": "Nintendo Switch 2 Launches June 5 with System Update",
+          "summary": "Nintendo has released system update version 20.1.1 for the original Switch just days ahead of the Switch 2's June 5 launch, fixing outstanding issues before the new console arrives.",
           "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "url": "https://gamerant.com"
         },
         {
-          "title": "Star Fox New Game Announcement Leaked for This Month",
-          "summary": "Prominent leaker NateTheHate claims a new classic-style Star Fox game will be announced this month via Nintendo, fueled by the character's appearance in the Super Mario Galaxy Movie.",
-          "source": "CGMagazine",
-          "url": "https://www.cgmagonline.com/news/star-fox-leak-claims-new-game-to-be-shown/"
+          "title": "Starfield Expansion Terran Armada Releases Alongside PS5 Launch",
+          "summary": "The Terran Armada expansion for Starfield released on Tuesday, coinciding with the game's launch on PlayStation 5 after previous exclusivity.",
+          "source": "Gamereactor",
+          "url": "https://www.gamereactor.eu/blogs/jonas/"
         },
         {
-          "title": "Bloodstained Sequel The Scarlet Engagement Revealed",
-          "summary": "Developer ArtPlay unveils The Scarlet Engagement, a new entry in the Bloodstained series that diverges significantly from the original, shown at June PlayStation State of Play.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "title": "Xbox Summer Showcase and Gears of War: E-Day Direct Scheduled for June 7",
+          "summary": "Xbox has officially scheduled its summer gaming announcements, with a dedicated Gears of War: E-Day Direct planned for June 7.",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/news"
         },
         {
-          "title": "Final Fantasy Tactics Remaster and Other Big Reveals at State of Play",
-          "summary": "June 2025's PlayStation State of Play features major announcements including Final Fantasy Tactics remaster launching in September, Metal Gear Solid, Digimon, Silent Hill f release date, and more.",
-          "source": "ScreenRant",
-          "url": "https://screenrant.com/game-news/"
+          "title": "PS5 Dashboard Refresh Enters Beta Testing",
+          "summary": "Sony is testing a new update for the PS5 that redesigns the console's dashboard interface for select beta testers.",
+          "source": "Spawn Wave",
+          "url": "https://www.youtube.com/watch?v=SANAw_o0zaw"
         },
         {
-          "title": "Double Dragon and River City Creator Yoshihisa Kishimoto Passes Away",
-          "summary": "Yoshihisa Kishimoto, creator of Double Dragon and River City series, has passed away, as reported in a fresh Game Informer article.",
-          "source": "Twin Galaxies",
-          "url": "https://www.twingalaxies.com/newsDetails/6958"
+          "title": "Stop Killing Games Backs French Consumer Lawsuit Against Ubisoft Over The Crew",
+          "summary": "The consumer advocacy group Stop Killing Games is supporting a major French lawsuit against Ubisoft regarding The Crew's shutdown, potentially reshaping game ownership rights in the EU.",
+          "source": "Bellular News",
+          "url": "https://www.youtube.com/watch?v=-4zzhAjRa9c"
+        },
+        {
+          "title": "Thick As Thieves Shifts Focus to Single-Player and Co-Op",
+          "summary": "Developer Otherside Entertainment has abandoned the PvPvE mode for its immersive sim heist game Thick As Thieves to concentrate on single-player and cooperative gameplay.",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/news"
         }
       ],
       "citations": [
-        "https://www.cbr.com/category/game-news/",
         "https://gamerant.com/gaming/",
-        "https://www.cgmagonline.com/news/star-fox-leak-claims-new-game-to-be-shown/",
-        "https://screenrant.com/game-news/",
-        "https://www.thegamer.com/category/game-news/",
+        "https://www.youtube.com/watch?v=SANAw_o0zaw",
+        "https://www.youtube.com/watch?v=-4zzhAjRa9c",
         "https://gameinformer.com/news",
         "https://gamerant.com",
-        "https://www.the-independent.com/games",
-        "https://www.twingalaxies.com/newsDetails/6958"
+        "https://www.gamereactor.eu/blogs/jonas/",
+        "https://www.pcgamer.com/games/news/"
       ]
     },
     "tech_news": {
@@ -318,11 +465,12 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.techmeme.com/?full=t",
+        "https://www.youtube.com/watch?v=RRJiA9lYy3Y",
         "https://www.anthropic.com/glasswing",
-        "https://ground.news/interest/tech",
+        "https://timesofindia.indiatimes.com/technology/tech-news/amazon-google-nvidia-and-other-tech-stocks-rise-as-donald-trump-announce-ceasefire-in-iran-us-war/articleshow/130119863.cms",
+        "https://www.techbrew.com",
         "https://scitechdaily.com/news/technology/",
-        "https://www.pewresearch.org/topic/internet-technology/"
+        "https://www.zoom.com/en/blog/?page=67"
       ]
     }
   }
