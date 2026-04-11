@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T18:19:00.716914+00:00",
-  "generated_at_human": "2026-04-10 18:19 UTC",
+  "generated_at": "2026-04-11T00:28:33.869602+00:00",
+  "generated_at_human": "2026-04-11 00:28 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,52 +8,124 @@
       "count": 25,
       "items": [
         {
-          "title": "You can't trust macOS Privacy and Security settings",
-          "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-          "score": 247,
-          "comments": 102
+          "title": "Filing the Corners Off MacBooks",
+          "url": "https://kentwalters.com/posts/corners/",
+          "score": 228,
+          "comments": 137
         },
         {
-          "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-          "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-          "score": 181,
-          "comments": 65
+          "title": "Sam Altman's response to Molotov cocktail incident",
+          "url": "https://blog.samaltman.com/2279512",
+          "score": 88,
+          "comments": 132
+        },
+        {
+          "title": "Artemis II safely splashes down",
+          "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+          "score": 88,
+          "comments": 21
+        },
+        {
+          "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+          "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+          "score": 202,
+          "comments": 108
         },
         {
           "title": "1D Chess",
           "url": "https://rowan441.github.io/1dchess/chess.html",
-          "score": 223,
-          "comments": 44
+          "score": 629,
+          "comments": 119
+        },
+        {
+          "title": "Installing Every* Firefox Extension",
+          "url": "https://jack.cab/blog/every-firefox-extension",
+          "score": 84,
+          "comments": 13
+        },
+        {
+          "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+          "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+          "score": 385,
+          "comments": 105
         },
         {
           "title": "Industrial design files for Keychron keyboards and mice",
           "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-          "score": 111,
-          "comments": 23
+          "score": 280,
+          "comments": 88
         },
         {
-          "title": "Helium Is Hard to Replace",
-          "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
-          "score": 113,
-          "comments": 59
+          "title": "AI assistance when contributing to the Linux kernel",
+          "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+          "score": 141,
+          "comments": 110
         },
         {
-          "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
-          "url": "https://twill.ai",
-          "score": 11,
+          "title": "JSON formatter Chrome plugin now closed and injecting adware",
+          "url": "https://github.com/callumlocke/json-formatter",
+          "score": 130,
+          "comments": 70
+        },
+        {
+          "title": "Italo Calvino: A Traveller in a World of Uncertainty",
+          "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+          "score": 6,
           "comments": 0
+        },
+        {
+          "title": "Helium is hard to replace",
+          "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+          "score": 241,
+          "comments": 158
+        },
+        {
+          "title": "Watgo – A WebAssembly Toolkit for Go",
+          "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+          "score": 71,
+          "comments": 5
         },
         {
           "title": "CPU-Z and HWMonitor compromised",
           "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
-          "score": 111,
-          "comments": 56
+          "score": 247,
+          "comments": 81
         },
         {
-          "title": "Bluesky April 2026 Outage Post-Mortem",
-          "url": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2",
-          "score": 65,
-          "comments": 9
+          "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
+          "url": "https://fluidcad.io/",
+          "score": 99,
+          "comments": 20
+        },
+        {
+          "title": "What is RISC-V and why it matters to Canonical",
+          "url": "https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical",
+          "score": 82,
+          "comments": 52
+        },
+        {
+          "title": "Nowhere Is Safe",
+          "url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
+          "score": 104,
+          "comments": 144
+        },
+        {
+          "title": "Vinyl Cache and Varnish Cache",
+          "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html",
+          "score": 21,
+          "comments": 2
+        },
+        {
+          "title": "The Bra-and-Girdle Maker That Fashioned the Impossible for NASA",
+          "url": "https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/",
+          "score": 14,
+          "comments": 1
+        },
+        {
+          "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+          "url": "https://twill.ai",
+          "score": 44,
+          "comments": 46
         },
         {
           "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
@@ -62,100 +134,28 @@
           "comments": 0
         },
         {
+          "title": "Bluesky April 2026 Outage Post-Mortem",
+          "url": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2",
+          "score": 131,
+          "comments": 64
+        },
+        {
           "title": "Clojure on Fennel Part One: Persistent Data Structures",
           "url": "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/",
-          "score": 64,
-          "comments": 1
+          "score": 123,
+          "comments": 10
+        },
+        {
+          "title": "Intel 486 CPU announced April 10, 1989",
+          "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
+          "score": 129,
+          "comments": 134
         },
         {
           "title": "A compelling title that is cryptic enough to get you to take action on it",
           "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
-          "score": 26,
-          "comments": 17
-        },
-        {
-          "title": "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
-          "url": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf",
-          "score": 88,
-          "comments": 19
-        },
-        {
-          "title": "The difficulty of making sure your website is broken",
-          "url": "https://letsencrypt.org/2026/04/10/test-sites.html",
-          "score": 15,
-          "comments": 7
-        },
-        {
-          "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
-          "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
-          "score": 452,
-          "comments": 229
-        },
-        {
-          "title": "How NASA built Artemis II’s fault-tolerant computer",
-          "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-          "score": 562,
-          "comments": 215
-        },
-        {
-          "title": "I still prefer MCP over skills",
-          "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
-          "score": 395,
-          "comments": 325
-        },
-        {
-          "title": "RSoC 2026: A new CPU scheduler for Redox OS",
-          "url": "https://www.redox-os.org/news/rsoc-dwrr/",
-          "score": 21,
-          "comments": 3
-        },
-        {
-          "title": "Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia",
-          "url": "https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia",
-          "score": 117,
-          "comments": 51
-        },
-        {
-          "title": "C++: Freestanding Standard Library",
-          "url": "https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding",
-          "score": 29,
-          "comments": 4
-        },
-        {
-          "title": "A new trick brings stability to quantum operations",
-          "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
-          "score": 210,
-          "comments": 47
-        },
-        {
-          "title": "France to ditch Windows for Linux to reduce reliance on US tech",
-          "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-          "score": 271,
-          "comments": 108
-        },
-        {
-          "title": "HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X",
-          "url": "https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/",
-          "score": 19,
-          "comments": 0
-        },
-        {
-          "title": "Native Instant Space Switching on macOS",
-          "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-          "score": 605,
-          "comments": 291
-        },
-        {
-          "title": "Deterministic Primality Testing for Limited Bit Width",
-          "url": "https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/",
-          "score": 18,
-          "comments": 3
-        },
-        {
-          "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
-          "url": "https://kerkour.com/rust-supply-chain-nightmare",
-          "score": 77,
-          "comments": 42
+          "score": 147,
+          "comments": 82
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 73075,
-          "change_24h": 1.54,
-          "change_7d": 9.07,
-          "market_cap": 1463029123560
+          "price": 72905,
+          "change_24h": 1.68,
+          "change_7d": 8.98,
+          "market_cap": 1458829384716
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2246.69,
-          "change_24h": 1.65,
-          "change_7d": 9.34,
-          "market_cap": 271369674714
+          "price": 2240.34,
+          "change_24h": 2.5,
+          "change_7d": 9.18,
+          "market_cap": 270416813300
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 84.9,
-          "change_24h": 1.12,
-          "change_7d": 5.41,
-          "market_cap": 48762273570
+          "price": 84.72,
+          "change_24h": 2.1,
+          "change_7d": 5.71,
+          "market_cap": 48647521839
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.093953,
-          "change_24h": 0.81,
-          "change_7d": 2.2,
-          "market_cap": 14431702598
+          "price": 0.093708,
+          "change_24h": 1.63,
+          "change_7d": 2.26,
+          "market_cap": 14413165049
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.255349,
-          "change_24h": 0.25,
-          "change_7d": 2.84,
-          "market_cap": 9424014103
+          "price": 0.253817,
+          "change_24h": 0.18,
+          "change_7d": 2.97,
+          "market_cap": 9373823597
         }
       ]
     },
@@ -214,22 +214,12 @@
         {
           "name": "Bittensor",
           "symbol": "TAO",
-          "market_cap_rank": 37
+          "market_cap_rank": 38
         },
         {
-          "name": "OpenVPP",
-          "symbol": "OVPP",
-          "market_cap_rank": 961
-        },
-        {
-          "name": "RaveDAO",
-          "symbol": "RAVE",
-          "market_cap_rank": 120
-        },
-        {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 19
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 119
         },
         {
           "name": "Pudgy Penguins",
@@ -237,29 +227,39 @@
           "market_cap_rank": 108
         },
         {
+          "name": "RaveDAO",
+          "symbol": "RAVE",
+          "market_cap_rank": 117
+        },
+        {
+          "name": "Falcon Finance",
+          "symbol": "FF",
+          "market_cap_rank": 153
+        },
+        {
+          "name": "Pepe",
+          "symbol": "PEPE",
+          "market_cap_rank": 53
+        },
+        {
           "name": "World Liberty Financial",
           "symbol": "WLFI",
-          "market_cap_rank": 38
+          "market_cap_rank": 37
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 116
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 19
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 13
+          "name": "Dogecoin",
+          "symbol": "DOGE",
+          "market_cap_rank": 10
         },
         {
-          "name": "Dash",
-          "symbol": "DASH",
-          "market_cap_rank": 97
-        },
-        {
-          "name": "Aria.AI",
-          "symbol": "ARIA",
-          "market_cap_rank": 262
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 31
         }
       ]
     },
@@ -271,27 +271,29 @@
       "count": 3,
       "items": [
         {
-          "title": "Canadian Employment Data Meets Expectations, Fuels Hawkish BoC Bets Amid Oil Price Drop",
-          "summary": "Canadian jobs added 14.1K (vs 15K expected), with unemployment falling to 6.7%, supporting hawkish Bank of Canada outlook despite inconsistent trends. WTI plunged 15% on US-Iran ceasefire news, pressuring CAD but preserving medium-term strength as oil exporter.",
-          "source": "MarketPulse",
-          "url": "https://www.marketpulse.com/markets/usdcad-top-range-employment-oil-prices-cad-outlook/"
+          "title": "Inflation Triples in Latest CPI Report Amid Iran War Gas Price Spike",
+          "summary": "The Consumer Price Index showed inflation tripled last month, driven by a massive spike in gas prices linked to the Iran war, with pump prices over 21% higher and average weekly earnings falling nearly 1%. The White House calls it a short-term disruption dependent on the shaky ceasefire and Strait of Hormuz reopening.[1]",
+          "source": "MSNBC/YouTube",
+          "url": "https://www.youtube.com/watch?v=caKKRSbwFh0"
         },
         {
-          "title": "US-Iran Ceasefire Sparks 15% WTI Crude Plunge, Easing War Premium but Strait of Hormuz Tensions Linger",
-          "summary": "A feeble US-Iran ceasefire removed a 15% premium from WTI prices, weakening CAD short-term but highlighting Canada's oil export advantages amid ongoing Hormuz uncertainties. Markets await negotiation clarity on global oil flows.",
-          "source": "MarketPulse",
-          "url": "https://www.marketpulse.com/markets/usdcad-top-range-employment-oil-prices-cad-outlook/"
+          "title": "Tenth District Energy Activity Unchanged Despite Higher Oil Prices",
+          "summary": "Q1 energy survey shows steady drilling and business activity in the Tenth District, with revenues and profits at highest since Q2 2022 due to elevated oil prices, but firms expect limited drilling increases ahead needing $79/barrel WTI for substantial growth.[2]",
+          "source": "Kansas City Fed",
+          "url": "https://www.kansascityfed.org/surveys/energy-survey/tenth-district-energy-activity-was-unchanged/"
         },
         {
-          "title": "Scotiabank Warns of Oil Shock's Disproportionate Hit to Low-Income Canadian Households",
-          "summary": "A sustained $10/bbl WTI rise could add $1B in annual food/energy costs for Canada's lowest income quintiles, equating to $5B shock under current projections; targeted relief considered without altering macro outlook. Prime Minister Carney weighs consumer support options.",
-          "source": "Scotiabank",
-          "url": "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.insights-views.distributional-considerations-of-oil-shock-in-canada--april-9--2026-.html"
+          "title": "Markets Rally on Middle East Ceasefire but Remain Fragile",
+          "summary": "A two-week US-Iran ceasefire sparked a relief rally with narrowing credit spreads, equity gains, and lower rate expectations, though gains partially reversed amid ceasefire cracks; analysts eye 'buy-on-peace' return to pre-war valuations amid resilient global economy and tech productivity boosts.[4]",
+          "source": "BNP Paribas Asset Management",
+          "url": "https://www.bnpparibas-am.com/en-us/institutional/front-of-mind/view-from-the-markets-peace-then-what/"
         }
       ],
       "citations": [
-        "https://www.marketpulse.com/markets/usdcad-top-range-employment-oil-prices-cad-outlook/",
-        "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.insights-views.distributional-considerations-of-oil-shock-in-canada--april-9--2026-.html"
+        "https://www.youtube.com/watch?v=caKKRSbwFh0",
+        "https://www.kansascityfed.org/surveys/energy-survey/tenth-district-energy-activity-was-unchanged/",
+        "https://tradingeconomics.com/united-states/calendar",
+        "https://www.bnpparibas-am.com/en-us/institutional/front-of-mind/view-from-the-markets-peace-then-what/"
       ]
     },
     "crypto_news": {
@@ -302,36 +304,37 @@
       "count": 4,
       "items": [
         {
-          "title": "UXLINK Surges 154% Leading Crypto Gainers",
-          "summary": "UXLINK skyrocketed 154.64% to $0.0036 with $1.83M volume, topping gainers amid altcoin momentum. Other top performers include MDT (+74.81% to $0.0115), DATA (+58.82%), CHILLGUY (+21.36%), and NAP (+19.09%).",
-          "source": "CryptoRank",
-          "url": "https://cryptorank.io/news/feed/2c918-bitcoin-world-crypto-gainers-losers-13"
-        },
-        {
-          "title": "Bitcoin Hovers Near $72K Amid Fragile US-Iran Truce",
-          "summary": "Bitcoin traded up 1% at $71,696 over the past 24 hours, reaching near $72,000 after a weekly 8% gain fueled by Middle East de-escalation and $56M in bearish liquidations. Traders remain cautious on ceasefire stability.",
+          "title": "Bitcoin and Ethereum Rally on Softer-Than-Expected Inflation Data",
+          "summary": "Bitcoin surged to $73,111 and Ethereum reached $2,250 following the release of March inflation data showing core inflation increased just 0.2% for the month. The rally was also boosted by optimism around US-Iran ceasefire talks, with analysts suggesting potential Federal Reserve rate cuts could benefit risk assets like cryptocurrency.",
           "source": "DL News",
-          "url": "https://www.dlnews.com/articles/markets/bitcoin-near-72k-as-traders-weigh-fragile-iran-truce-prospects-for-price/"
+          "url": "https://www.dlnews.com/articles/markets/bitcoin-ethereum-rise-on-inflation-data-and-iran-talks/"
         },
         {
-          "title": "Bitcoin Tops $72,000 on $300M Short Squeeze",
-          "summary": "Bitcoin surpassed $72,000 amid Middle East de-escalation, with over $300 million in liquidations across 24 hours signaling bullish momentum from short squeezes.",
-          "source": "FXStreet",
-          "url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-overview-bitcoin-tops-72-000-on-short-squeeze-while-privacy-coins-rally-202604100343"
+          "title": "Trump-Backed WLFI Token Plummets Over 12% Amid Liquidity Crisis",
+          "summary": "World Liberty Financial's WLFI token dropped approximately 14.5% after reports revealed the project had pledged 5 billion WLFI tokens as collateral to borrow $75 million in stablecoins, effectively draining a lending pool and preventing other depositors from withdrawing funds. The crisis deepened when the team quietly scrapped a proposal to unlock $427 million worth of tokens.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/crypto/markets/trump-backed-token-falls-over-12-amid-liquidity-debt-concerns"
         },
         {
-          "title": "Binance Update: BTC Trades Between $70.5K-$73.1K",
-          "summary": "Bitcoin fluctuated between $70,523 and $73,145 in the past 24 hours, currently at $71,765 up 0.68% as of 09:30 UTC.",
-          "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/310977353132081"
+          "title": "Bittensor Faces Governance Crisis as Major Subnet Operator Exits",
+          "summary": "Bittensor (TAO) experienced a sharp price drop following a governance crisis triggered by the exit of major subnet operator Covenant AI. The incident highlights ongoing concerns about altcoin stability and project management.",
+          "source": "altFINS",
+          "url": "https://altfins.com/crypto-news/news-sentiment/d/8019"
+        },
+        {
+          "title": "Bitcoin Accumulation Deepens as Market Shows Mixed Signals",
+          "summary": "Bitcoin accumulation is intensifying with long-term conviction building, raising the likelihood of a bull run. However, analysts predict Bitcoin's market bottom won't occur until late 2026, with potential cycle lows expected around $55,000-$60,000.",
+          "source": "altFINS",
+          "url": "https://altfins.com/crypto-news/news-sentiment/d/8019"
         }
       ],
       "citations": [
-        "https://cryptorank.io/news/feed/2c918-bitcoin-world-crypto-gainers-losers-13",
-        "https://www.dlnews.com/articles/markets/bitcoin-near-72k-as-traders-weigh-fragile-iran-truce-prospects-for-price/",
-        "https://www.binance.com/en/square/post/310977353132081",
+        "https://www.dlnews.com/articles/markets/bitcoin-ethereum-rise-on-inflation-data-and-iran-talks/",
+        "https://www.thestreet.com/crypto/markets/trump-backed-token-falls-over-12-amid-liquidity-debt-concerns",
+        "https://altfins.com/crypto-news/news-sentiment/d/8019",
+        "https://www.binance.com/en/square/post/311064091918065",
         "https://www.youtube.com/watch?v=OZK5hdKfb18",
-        "https://www.fxstreet.com/cryptocurrencies/news/crypto-overview-bitcoin-tops-72-000-on-short-squeeze-while-privacy-coins-rally-202604100343"
+        "https://www.youtube.com/watch?v=1nsIy7PWXyY"
       ]
     },
     "ai_news": {
@@ -339,42 +342,52 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Anthropic Releases Claude Mythos (Project Glasswing)",
-          "summary": "Anthropic has launched Claude Mythos, also known as Project Glasswing, described as the biggest AI update in 2026, revolutionizing prompting techniques and making older methods obsolete for AI projects.",
-          "source": "YouTube - Claude Mythos Insane",
-          "url": "https://www.youtube.com/watch?v=cluQ8xm_65A"
+          "title": "Anthropic Announces Mythos AI Model but Withholds Release Over Cybersecurity Risks",
+          "summary": "Anthropic revealed its advanced AI model Mythos, capable of identifying critical software flaws, but is not releasing it publicly due to safety concerns and potential exploitation. The announcement prompted urgent meetings by Treasury Secretary Scott Bessent and Fed Chair Jerome Powell with Wall Street leaders on heightened cyber risks.[1][4]",
+          "source": "CBS News / Bloomberg",
+          "url": "https://www.youtube.com/watch?v=K0lYvhIo8Jw"
         },
         {
-          "title": "TypeScript AI Demo Day Showcases Production AI Applications",
-          "summary": "Teams presented real-world AI applications built in TypeScript during the TypeScript AI Demo Day in San Francisco on April 9, 2026, sharing lessons from running AI systems in production.",
-          "source": "YouTube - No Priors",
-          "url": "https://www.youtube.com/watch?v=IgLN0abipOk"
+          "title": "Google Releases Gemma 4 Family of Open-Source Models",
+          "summary": "Google launched the Gemma 4 family of open-source AI models, highlighted as a key development in accessible AI tools for developers and researchers.[2]",
+          "source": "AI News YouTube",
+          "url": "https://www.youtube.com/watch?v=tILZuOvro6I"
         },
         {
-          "title": "Covenant AI Exits Bittensor Subnets Templar, Basilica, and Grail",
-          "summary": "Covenant AI, led by Samuel, has exited Bittensor subnets 3 (Templar), 39 (Basilica), and 81 (Grail), discussed in a recent community X Space with Const (Jacob Steves).",
-          "source": "YouTube - Bittensor Community",
-          "url": "https://www.youtube.com/watch?v=Y6rbyhhKHV8"
+          "title": "Meta Unveils Muse Spark Multimodal AI Models",
+          "summary": "Meta introduced Muse Spark, new multimodal models focused on personal-agent capabilities, leading benchmarks in coding and visual reasoning alongside other launches.[2][3]",
+          "source": "AI News YouTube / The AI Daily Brief",
+          "url": "https://www.youtube.com/watch?v=tILZuOvro6I"
         },
         {
-          "title": "Google Explains State-of-the-Art AI Video Generation Architecture",
-          "summary": "Google Developers released a video breaking down the complex architecture behind state-of-the-art AI video models, from prompt to output.",
-          "source": "YouTube - Google for Developers",
-          "url": "https://www.youtube.com/watch?v=Y5zHHoLrvAE"
+          "title": "Z.ai Open-Sources GLM 5.1, Tops Coding Benchmarks",
+          "summary": "Z.ai released GLM 5.1 open-source model, achieving top scores on SweetBench Pro (58.4), surpassing GPT 5.4 and Opus 4.6, signaling narrowing US-China AI gap.[3]",
+          "source": "The AI Daily Brief",
+          "url": "https://www.youtube.com/watch?v=20lZc0cOpOw"
+        },
+        {
+          "title": "Anthropic Acquires Coefficient Bio and Updates Claude Tools",
+          "summary": "Anthropic acquired biotech firm Coefficient Bio and rolled out updates including Claude Code, Microsoft 365 connector, and restrictions on third-party Claude usage.[2]",
+          "source": "AI News YouTube",
+          "url": "https://www.youtube.com/watch?v=tILZuOvro6I"
+        },
+        {
+          "title": "OpenAI Plans Staggered Rollout of New Model for Cybersecurity Reasons",
+          "summary": "OpenAI announced a delayed release of its latest model due to similar cybersecurity risks as Anthropic's Mythos, amid industry-wide safety concerns.[3]",
+          "source": "The AI Daily Brief",
+          "url": "https://www.youtube.com/watch?v=20lZc0cOpOw"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=NS87hy5uWZI",
-        "https://www.youtube.com/watch?v=bta18wTOr_k",
-        "https://www.youtube.com/watch?v=0UH-z4BTblg",
-        "https://www.youtube.com/watch?v=cluQ8xm_65A",
-        "https://www.youtube.com/watch?v=Y6rbyhhKHV8",
-        "https://www.youtube.com/watch?v=IgLN0abipOk",
-        "https://www.youtube.com/watch?v=Y5zHHoLrvAE",
-        "https://www.youtube.com/watch?v=fI9Z1-SPfaI"
+        "https://www.youtube.com/watch?v=K0lYvhIo8Jw",
+        "https://www.youtube.com/watch?v=tILZuOvro6I",
+        "https://www.youtube.com/watch?v=20vZc0cOpOw",
+        "https://www.youtube.com/watch?v=JJTeSmRq7WQ",
+        "https://www.youtube.com/watch?v=KqjWm2bexUc",
+        "https://www.youtube.com/watch?v=GDeEATJcbJo"
       ]
     },
     "gaming": {
@@ -382,45 +395,69 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 9,
       "items": [
         {
-          "title": "Windrose Pirate Survival Game Announces 2026 Release Date",
-          "summary": "The upcoming survival game Windrose, a pirate-themed title, has revealed its release date for this year, generating significant hype with over a million wishlists. It was highlighted alongside other survival game updates like Enshrouded and new Don't Starve content at the Triple-I Initiative Showcase.",
-          "source": "YouTube - Jade PG",
-          "url": "https://www.youtube.com/watch?v=wrd0-AqoJOY"
+          "title": "Xbox Game Pass Confirms June 2025 Wave 1 Lineup",
+          "summary": "Microsoft has unveiled the full list of games coming to Xbox Game Pass in the first wave of June 2025 ahead of the Xbox Games Showcase.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "Naughty Dog Canceled The Last of Us Online 24 Hours Before Reveal",
-          "summary": "After 7 years of development, Naughty Dog canceled The Last of Us Online multiplayer mode when it was nearly 80% complete, just one day before its planned public announcement. The game director described the decision as soul-crushing for the team.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=LjNQzykPh7o"
+          "title": "No More Heroes Developer Announces New Ultraviolent Sci-Fi Game",
+          "summary": "Suda51 and Grasshopper Manufacture reveal their latest over-the-top action game combining No More Heroes and Dead Rising vibes.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "Roblox Game 'Project Power' Stolen from Original Developers",
-          "summary": "Popular Roblox game Project Power, inspired by Invincible, has been stolen from its original developers who are no longer earning revenue from it. A creator urges players to boycott the hijacked version amid ongoing drama.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=Lbm0GyjLN1o"
+          "title": "Helldivers 2 Reveals ‘Force of Law’ Warbond",
+          "summary": "Helldivers 2 surprises fans with a new Force of Law Warbond coming soon to the cooperative shooter.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "Rumors Swirl of Unannounced Nintendo Games Including Zelda Remake and Star Fox",
-          "summary": "Recent leaks point to potential unannounced 2026 titles from Nintendo like a Zelda: Ocarina of Time remake and new Star Fox game. State of a K3 is slated for a community alpha playtest next month, likely delaying its full release.",
-          "source": "YouTube - Next-Gen Console Watch",
-          "url": "https://www.youtube.com/watch?v=1cZaSDP2OXs"
+          "title": "Xbox Schedules Summer Showcase and Gears of War: E-Day Direct for June 7",
+          "summary": "Xbox announces its summer gaming showcase along with a dedicated Gears of War: E-Day Direct on June 7.",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/news"
         },
         {
-          "title": "Frostrail Zombie Train Survival Game Revealed at Triple-I Showcase",
-          "summary": "New co-op survival game Frostrail, where players control a train to escape zombie hordes while gathering resources, was unveiled and has already surpassed one million wishlists.",
-          "source": "YouTube - Jade PG",
-          "url": "https://www.youtube.com/watch?v=wrd0-AqoJOY"
+          "title": "Immersive Sim Heist Game Thick As Thieves Shifts to Single-Player and Co-Op",
+          "summary": "Otherside Entertainment abandons PvPvE mode in its promising immersive sim heist game to focus solely on single-player and co-op.",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/news"
+        },
+        {
+          "title": "First Three Resident Evil Titles and Breath of Fire IV Now on Steam",
+          "summary": "The original versions of Resident Evil 1-3 and Breath of Fire IV are now available on PC via Steam.",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/news"
+        },
+        {
+          "title": "Epic Games Announces Major Changes to Fortnite's V-Bucks Impacting Xbox Users",
+          "summary": "Epic Games reveals changes to Fortnite's V-Bucks system that directly affect Xbox players.",
+          "source": "UNILAD Tech",
+          "url": "https://www.uniladtech.com/gaming"
+        },
+        {
+          "title": "GTA 6 Insider Teases Major New Feature That Could Produce Millionaires",
+          "summary": "A GTA 6 insider claims a key feature will create millionaires and hints at significant details.",
+          "source": "UNILAD Tech",
+          "url": "https://www.uniladtech.com/gaming"
+        },
+        {
+          "title": "Project Helix Price Tag Leaks as Xbox Fans React to Next Console Cost",
+          "summary": "Leaks reveal the high price tag for Xbox's Project Helix console, sparking concern among fans.",
+          "source": "UNILAD Tech",
+          "url": "https://www.uniladtech.com/gaming"
         }
       ],
       "citations": [
         "https://www.youtube.com/watch?v=1cZaSDP2OXs",
-        "https://www.youtube.com/watch?v=wrd0-AqoJOY",
-        "https://www.youtube.com/watch?v=oM9b7dyY6ek",
-        "https://www.youtube.com/watch?v=Lbm0GyjLN1o",
-        "https://www.youtube.com/watch?v=LjNQzykPh7o"
+        "https://gamerant.com/gaming/",
+        "https://gameinformer.com/news",
+        "https://www.youtube.com/watch?v=xwyI2PrKoL8",
+        "https://www.uniladtech.com/gaming"
       ]
     },
     "tech_news": {
@@ -428,32 +465,9 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
-      "items": [
-        {
-          "title": "Intel Secures Multiyear Deal with Google for Xeon Processors and IPUs in Data Centers",
-          "summary": "Intel announced that Google has committed to using future generations of Xeon processors and customized infrastructure processing units for networking, security, and storage. The agreement supports Intel's push into data center spending, boosting its stock by up to 3.6%.",
-          "source": "Bloomberg (via YouTube)",
-          "url": "https://www.youtube.com/watch?v=ZOMvERYEfR0"
-        },
-        {
-          "title": "Vibhor Jain Appointed CEO of ONDC",
-          "summary": "Vibhor Jain was named Managing Director and CEO of the government-backed open ecommerce network ONDC, effective April 7, following his role as acting CEO. The appointment coincides with a revenue surge and new leadership additions aimed at benefiting farmers, artisans, and small businesses.",
-          "source": "Economic Times",
-          "url": "https://economictimes.indiatimes.com/tech"
-        },
-        {
-          "title": "TCS Reports Strong Q4 FY26 Results with 12% Profit Jump",
-          "summary": "Tata Consultancy Services posted a 12% year-over-year profit increase to Rs 13,718 crore and 10% revenue growth, driven by mega deals amid rising AI demand. Attrition rose to 13.7%, with 2,356 employees added during the quarter.",
-          "source": "Economic Times",
-          "url": "https://economictimes.indiatimes.com/tech"
-        }
-      ],
-      "citations": [
-        "https://www.youtube.com/watch?v=ZOMvERYEfR0",
-        "https://economictimes.indiatimes.com/tech",
-        "https://scitechdaily.com/news/technology/"
-      ]
+      "count": 0,
+      "items": [],
+      "citations": []
     }
   }
 }
