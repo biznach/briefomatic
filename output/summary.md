@@ -1,18 +1,18 @@
 # Daily Briefing
 
-*Generated: 2026-04-15 18:27 UTC*
+*Generated: 2026-04-16 00:35 UTC*
 
-1. **Market Overview**: The global economy is expected to grow at 3.1% this year, with inflation rising to 4.4%, according to the IMF. The US Producer Price Index rose 0.5% in March, with goods prices surging 1.6%. In the crypto market, Bitcoin surged 5% to $75,000 amid hopes of US-Iran peace progress, while Ethereum jumped 7% to nearly $2,400. The crypto market saw $257 million in liquidations over 24 hours, with long positions hit hardest.
+1. **Market Overview**: The S&P 500 and Nasdaq have hit fresh record highs, driven by corporate developments and optimism over a potential end to the Iran war. Bitcoin and Ethereum prices have seen significant movements, with Bitcoin's price rally halting below $76,000 and Ethereum's price increasing by 1.17% in the last 24 hours. The crypto market has faced $257 million in liquidations over 24 hours, with long positions being hit the hardest.
 
-2. **Tech & AI**: Notable tech and AI developments include Google's Gemma 4 running natively on iPhone with full offline AI inference, and the release of Gemini Robotics-ER 1.6. Additionally, there are concerns about AI-assisted cognition endangering human development, and the potential for AI to replace certain jobs. The development of Libretto, a tool for making AI browser automations deterministic, is also noteworthy.
+2. **Tech & AI**: Significant tech and AI developments include the launch of the Gemini app on Mac, the release of ChatGPT for Excel, and CRISPR taking an important step toward silencing Down syndrome's extra chromosome. Additionally, there have been notable advancements in compiler development and JIT compilers.
 
-3. **Gaming & Entertainment**: A notable gaming news item is the running of Doom on a 40-year-old printer controller, the Agfa Compugraphic 9000PS. This showcases the versatility and creativity of gamers and developers in pushing the boundaries of what is possible with old technology.
+3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, YouTube has announced that it now lets users turn off Shorts, and Live Nation has been found to have illegally monopolized the ticketing market.
 
 4. **Key Insights**:
-* The IMF's downgrade of global growth to 3.1% and warning of inflation surge to 4.4% may impact investor sentiment and market volatility.
-* The surge in Bitcoin and Ethereum prices amid hopes of US-Iran peace progress highlights the potential for geopolitical events to influence crypto markets.
-* The development of AI tools like Gemma 4 and Libretto may have significant implications for the future of work and human development.
-* The growth of crypto exchange-traded products, with $1.1 billion in inflows, indicates increasing institutional interest in the crypto market.
-* Regulatory scrutiny of Big Tech pricing practices, such as the EU's order for Meta to roll back WhatsApp AI fees, may impact the tech industry's revenue models.
+* The S&P 500 and Nasdaq have reached record highs, indicating a positive market trend.
+* The crypto market has seen significant liquidations, with long positions being affected the most.
+* There have been notable advancements in AI, compiler development, and CRISPR technology.
+* YouTube has introduced a feature to turn off Shorts, and Live Nation has been found guilty of monopolizing the ticketing market.
+* The US import prices have risen 0.8% in March, with fuel prices jumping 2.9% due to higher petroleum costs.
 
-5. **Watch List**: Items to monitor in the coming days include the US-Iran peace progress and its potential impact on crypto markets, the development of AI tools and their implications for human development, and regulatory updates on Big Tech pricing practices. Additionally, the growth of crypto exchange-traded products and the potential for increased institutional investment in the crypto market should be watched closely. The IMF's global growth forecast and inflation warnings should also be monitored for potential impacts on market volatility.
+5. **Watch List**: Items to monitor in the coming days include the ongoing US-Iran ceasefire developments, the crypto market's response to liquidations, and the potential impact of CRISPR's advancements on the medical field. Additionally, the performance of the S&P 500 and Nasdaq, as well as the prices of Bitcoin and Ethereum, should be closely watched. The developments in the ticketing market following Live Nation's guilty verdict and the introduction of new AI models and technologies are also worth monitoring.
