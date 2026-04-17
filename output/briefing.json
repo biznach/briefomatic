@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T06:40:19.770467+00:00",
-  "generated_at_human": "2026-04-17 06:40 UTC",
+  "generated_at": "2026-04-17T12:22:28.152171+00:00",
+  "generated_at_human": "2026-04-17 12:22 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,82 +8,112 @@
       "count": 25,
       "items": [
         {
+          "title": "Ada, Its Design, and the Language That Built the Languages",
+          "url": "https://www.iqiipi.com/the-quiet-colossus.html",
+          "score": 113,
+          "comments": 54
+        },
+        {
           "title": "Claude Opus 4.7",
           "url": "https://www.anthropic.com/news/claude-opus-4-7",
-          "score": 1644,
-          "comments": 1161
+          "score": 1813,
+          "comments": 1302
+        },
+        {
+          "title": "FIM – Linux framebuffer image viewer",
+          "url": "https://www.nongnu.org/fbi-improved/",
+          "score": 78,
+          "comments": 38
         },
         {
           "title": "Codex for almost everything",
           "url": "https://openai.com/index/codex-for-almost-everything/",
-          "score": 801,
-          "comments": 401
+          "score": 911,
+          "comments": 472
+        },
+        {
+          "title": "Average Is All You Need",
+          "url": "https://rawquery.dev/blog/average-is-all-you-need",
+          "score": 14,
+          "comments": 0
+        },
+        {
+          "title": "中文 Literacy Speedrun II: Character Cyclotron",
+          "url": "https://blog.kevinzwu.com/character-cyclotron/",
+          "score": 28,
+          "comments": 10
         },
         {
           "title": "CadQuery is an open-source Python library for building 3D CAD models",
           "url": "https://cadquery.github.io/",
-          "score": 106,
-          "comments": 18
+          "score": 166,
+          "comments": 42
         },
         {
           "title": "A Python Interpreter Written in Python",
           "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
-          "score": 26,
-          "comments": 7
-        },
-        {
-          "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-          "url": "https://github.com/gainsec/autoprober",
-          "score": 149,
-          "comments": 32
-        },
-        {
-          "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
-          "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-          "score": 58,
-          "comments": 11
-        },
-        {
-          "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
-          "url": "https://clojure.org/about/documentary",
-          "score": 165,
-          "comments": 43
-        },
-        {
-          "title": "A Better R Programming Experience Thanks to Tree-sitter",
-          "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-          "score": 115,
-          "comments": 11
-        },
-        {
-          "title": "ReBot-DevArm: open-source Robotic Arm",
-          "url": "https://github.com/Seeed-Projects/reBot-DevArm",
-          "score": 37,
-          "comments": 2
-        },
-        {
-          "title": "Android CLI: Build Android apps 3x faster using any agent",
-          "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-          "score": 194,
-          "comments": 65
-        },
-        {
-          "title": "Playdate’s handheld changed how Duke University teaches game design",
-          "url": "https://news.play.date/news/duke-playdate-education/",
-          "score": 123,
-          "comments": 44
-        },
-        {
-          "title": "Discourse Is Not Going Closed Source",
-          "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
-          "score": 72,
-          "comments": 28
+          "score": 83,
+          "comments": 23
         },
         {
           "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
           "url": "https://chapel-lang.org/blog/posts/30years/",
-          "score": 12,
-          "comments": 0
+          "score": 71,
+          "comments": 34
+        },
+        {
+          "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+          "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+          "score": 94,
+          "comments": 19
+        },
+        {
+          "title": "Human Accelerated Region 1",
+          "url": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
+          "score": 66,
+          "comments": 31
+        },
+        {
+          "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+          "url": "https://clojure.org/about/documentary",
+          "score": 244,
+          "comments": 64
+        },
+        {
+          "title": "Android CLI: Build Android apps 3x faster using any agent",
+          "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+          "score": 259,
+          "comments": 102
+        },
+        {
+          "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+          "url": "https://github.com/gainsec/autoprober",
+          "score": 198,
+          "comments": 40
+        },
+        {
+          "title": "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
+          "url": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
+          "score": 11,
+          "comments": 1
+        },
+        {
+          "title": "How Big Tech wrote secrecy into EU law to hide data centres' environmental toll",
+          "url": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint",
+          "score": 62,
+          "comments": 17
+        },
+        {
+          "title": "Playdate’s handheld changed how Duke University teaches game design",
+          "url": "https://news.play.date/news/duke-playdate-education/",
+          "score": 173,
+          "comments": 84
+        },
+        {
+          "title": "ReBot-DevArm: open-source Robotic Arm",
+          "url": "https://github.com/Seeed-Projects/reBot-DevArm",
+          "score": 70,
+          "comments": 16
         },
         {
           "title": "Substrate AI Is Hiring Harness Engineers",
@@ -92,70 +122,40 @@
           "comments": 0
         },
         {
+          "title": "A Better R Programming Experience Thanks to Tree-sitter",
+          "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+          "score": 136,
+          "comments": 22
+        },
+        {
+          "title": "Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth (2006)",
+          "url": "https://ieeexplore.ieee.org/document/1715264",
+          "score": 33,
+          "comments": 11
+        },
+        {
+          "title": "PROBoter – Open-source platform for automated PCB analysis",
+          "url": "https://www.schutzwerk.com/en/blog/proboter-01/",
+          "score": 17,
+          "comments": 0
+        },
+        {
           "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
           "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-          "score": 1017,
-          "comments": 444
+          "score": 1141,
+          "comments": 481
         },
         {
           "title": "A Git helper tool that breaks large merges into parallelizable tasks",
           "url": "https://github.com/mwallner/mergetopus",
-          "score": 17,
-          "comments": 3
-        },
-        {
-          "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
-          "url": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
-          "score": 35,
-          "comments": 19
+          "score": 44,
+          "comments": 11
         },
         {
           "title": "US Bill Mandates On-Device Age Verification",
           "url": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
-          "score": 80,
-          "comments": 31
-        },
-        {
-          "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-          "url": "https://blog.cloudflare.com/ai-platform/",
-          "score": 264,
-          "comments": 60
-        },
-        {
-          "title": "Everything we like is a psyop?",
-          "url": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
-          "score": 206,
-          "comments": 123
-        },
-        {
-          "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
-          "score": 191,
-          "comments": 41
-        },
-        {
-          "title": "The future of everything is lies, I guess: Where do we go from here?",
-          "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-          "score": 577,
-          "comments": 614
-        },
-        {
-          "title": "Human Accelerated Region 1",
-          "url": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
-          "score": 19,
-          "comments": 1
-        },
-        {
-          "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
-          "url": "https://www.zatanna.ai/kampala",
-          "score": 85,
-          "comments": 65
-        },
-        {
-          "title": "GPT‑Rosalind for life sciences research",
-          "url": "https://openai.com/index/introducing-gpt-rosalind/",
-          "score": 87,
-          "comments": 22
+          "score": 221,
+          "comments": 145
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 74786,
-          "change_24h": -0.19,
-          "change_7d": 3.76,
-          "market_cap": 1497403250618
+          "price": 75742,
+          "change_24h": 1.4,
+          "change_7d": 5.31,
+          "market_cap": 1514269251328
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2325.49,
-          "change_24h": -1.16,
-          "change_7d": 5.96,
-          "market_cap": 280750655398
+          "price": 2357.93,
+          "change_24h": 0.74,
+          "change_7d": 7.29,
+          "market_cap": 284377785051
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 87.79,
-          "change_24h": 2.94,
-          "change_7d": 5.32,
-          "market_cap": 50520378512
+          "price": 88.24,
+          "change_24h": 3.38,
+          "change_7d": 6.0,
+          "market_cap": 50776275407
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.097198,
-          "change_24h": 0.87,
-          "change_7d": 4.84,
-          "market_cap": 14956930070
+          "price": 0.099047,
+          "change_24h": 2.32,
+          "change_7d": 7.47,
+          "market_cap": 15217343374
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.253622,
-          "change_24h": 1.66,
-          "change_7d": 0.41,
-          "market_cap": 9372928675
+          "price": 0.25825,
+          "change_24h": 3.46,
+          "change_7d": 3.21,
+          "market_cap": 9543578652
         }
       ]
     },
@@ -212,34 +212,19 @@
       "count": 10,
       "items": [
         {
-          "name": "Siren",
-          "symbol": "SIREN",
-          "market_cap_rank": 57
-        },
-        {
-          "name": "SOON",
-          "symbol": "SOON",
-          "market_cap_rank": 307
-        },
-        {
           "name": "RaveDAO",
           "symbol": "RAVE",
           "market_cap_rank": 24
         },
         {
-          "name": "ORDI",
-          "symbol": "ORDI",
-          "market_cap_rank": 197
+          "name": "Siren",
+          "symbol": "SIREN",
+          "market_cap_rank": 104
         },
         {
-          "name": "Based",
-          "symbol": "BASED",
-          "market_cap_rank": 641
-        },
-        {
-          "name": "Moonriver",
-          "symbol": "MOVR",
-          "market_cap_rank": 655
+          "name": "Asteroid Shiba",
+          "symbol": "ASTEROID",
+          "market_cap_rank": 787
         },
         {
           "name": "Pudgy Penguins",
@@ -247,19 +232,34 @@
           "market_cap_rank": 107
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 120
+          "name": "Moonriver",
+          "symbol": "MOVR",
+          "market_cap_rank": 596
         },
         {
-          "name": "Asteroid Shiba",
-          "symbol": "ASTEROID",
-          "market_cap_rank": 950
+          "name": "ORDI",
+          "symbol": "ORDI",
+          "market_cap_rank": 222
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "SOON",
+          "symbol": "SOON",
+          "market_cap_rank": 358
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 46
+        },
+        {
+          "name": "Sapien",
+          "symbol": "SAPIEN",
+          "market_cap_rank": 663
         }
       ]
     },
@@ -268,46 +268,51 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "S&P 500 Hits New Record High Amid US-Iran Talks Optimism",
-          "summary": "US stocks closed higher with S&P 500 up 1.2% to 6,967, Nasdaq advancing 2%, and Dow gaining 318 points, driven by hopes of US-Iran talks to reopen Strait of Hormuz. Communication services and consumer discretionary led gains while energy lagged on falling oil prices.",
+          "title": "S&P 500 Reaches New Record High Amid Market Rally",
+          "summary": "The S&P 500 rose 0.3% to a new record high, while the Nasdaq gained 0.4% to 24,100 and the Dow added 115 points. US stocks closed higher for a second consecutive session on Tuesday, with the S&P 500 rising 1.2% to 6,967.",
           "source": "Trading Economics",
           "url": "https://tradingeconomics.com/united-states/stock-market"
         },
         {
-          "title": "Oil Prices Surge and Remain Volatile Due to Middle East Conflict",
-          "summary": "Oil prices have spiked amid ongoing Middle East tensions, pushing CPI inflation to 3.3% in March from 2.4% in February, while core inflation held at 2.6%. SF Fed warns of clouded economic outlook with higher input costs for fertilizers, aluminum, and plastics.",
-          "source": "San Francisco Fed",
+          "title": "Inflation Jumps to 3.3% in March Amid Oil Price Surge",
+          "summary": "Consumer price inflation surged to 3.3% in March from 2.4% in February, driven primarily by higher energy costs from Middle East conflict disruptions. Core inflation remained stable at 2.6%.",
+          "source": "Federal Reserve Bank of San Francisco",
           "url": "https://www.frbsf.org/research-and-insights/publications/fedviews/2026/04/sf-fedviews-april-16-2026/"
         },
         {
-          "title": "Mixed Bank Earnings: JPMorgan and Wells Fargo Drop, BlackRock and Citi Rise",
-          "summary": "JPMorgan fell 0.7% after cutting net interest income guidance, Wells Fargo tumbled 5.7% on weak results, while BlackRock gained 3% and Citigroup 2.6% on strong earnings. J&J rebounded 0.9% after raising 2026 revenue outlook.",
+          "title": "Oil Markets Remain Volatile Amid Middle East Tensions",
+          "summary": "Oil prices have surged and remained volatile in response to ongoing Middle East conflict, with disruptions to Strait of Hormuz supply continuing 25 days after the Israeli-American offensive against Iran. Oil futures suggest partial recovery by Q3 2026.",
+          "source": "Federal Reserve Bank of San Francisco / Coface",
+          "url": "https://www.frbsf.org/research-and-insights/publications/fedviews/2026/04/sf-fedviews-april-16-2026/"
+        },
+        {
+          "title": "Major Bank Earnings Mixed; JPMorgan Down, BlackRock and Citigroup Up",
+          "summary": "JPMorgan fell 0.7% after revising down net interest income guidance, while Wells Fargo tumbled 5.7% on disappointing results. BlackRock gained 3% and Citigroup rose 2.6% on strong earnings.",
           "source": "Trading Economics",
           "url": "https://tradingeconomics.com/united-states/stock-market"
         },
         {
-          "title": "American Airlines Jumps 8% on Potential Merger Reports",
-          "summary": "American Airlines shares surged 8% following reports that United Airlines CEO proposed a merger. This came amid broader market gains buoyed by geopolitical optimism.",
+          "title": "J&J Raises 2026 Revenue Outlook; American Airlines Jumps on Merger Reports",
+          "summary": "Johnson & Johnson rebounded 0.9% higher after raising its 2026 revenue outlook. American Airlines jumped 8% following reports that United Airlines CEO Scott Kirby proposed a potential merger.",
           "source": "Trading Economics",
           "url": "https://tradingeconomics.com/united-states/stock-market"
         },
         {
-          "title": "Argentina Inflation Ticks Up to 2.9% Monthly Amid Middle East War Fears",
-          "summary": "Argentina's monthly inflation rose to 2.9% in early 2026, with full-year forecasts revised higher due to removed price controls, utility hikes, and expected energy/food price impacts from Middle East conflict. President Milei's reforms show partial success but face stalling stabilization.",
-          "source": "PIIE",
-          "url": "https://www.piie.com/blogs/realtime-economics/2026/orbans-fall-sends-warning-signal-argentina-and-brazil"
+          "title": "US-Iran Talks Optimism Boosts Market Sentiment",
+          "summary": "Investor sentiment was buoyed by growing optimism that the US and Iran could soon resume talks, raising hopes for a potential agreement to end the conflict and reopen the Strait of Hormuz.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/stock-market"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=ijR0rQPjByU",
         "https://tradingeconomics.com/united-states/stock-market",
         "https://www.frbsf.org/research-and-insights/publications/fedviews/2026/04/sf-fedviews-april-16-2026/",
-        "https://www.piie.com/blogs/realtime-economics/2026/orbans-fall-sends-warning-signal-argentina-and-brazil",
-        "https://www.foxnews.com/category/us/economy",
-        "https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/weekly-market-recap/"
+        "https://www.coface.com/news-economy-and-insights",
+        "https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/weekly-market-recap/",
+        "https://www.imf.org/en/blogs"
       ]
     },
     "crypto_news": {
@@ -315,64 +320,58 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 7,
       "items": [
         {
-          "title": "Bitcoin Holds at $74,000 with 5% Rally as Market Cap Hits $2.52 Trillion",
-          "summary": "Bitcoin rallied 5.15% to $74,438 and Ethereum jumped 8.80% toward $2,400, expanding the total crypto market cap by 4.53% to $2.52 trillion amid a short squeeze liquidating $549 million, mostly shorts.",
-          "source": "MEXC",
-          "url": "https://www.mexc.com/news/1032216"
+          "title": "Bitcoin Gathers Momentum Near $75K Resistance Level",
+          "summary": "Bitcoin holds steady around $75,000, testing a key resistance at the 61.8% retracement and March highs, with market cap at $2.55T up 0.56% in 24 hours. Top performers include APT (+7.2%), AAVE (+6.4%), and IOTA (+5.2%).",
+          "source": "FXEmpire",
+          "url": "https://www.fxempire.com/forecasts/article/bitcoin-is-gathering-momentum-around-75k-1592296"
         },
         {
-          "title": "$321 Million in Crypto Contracts Liquidated Across Network",
-          "summary": "Total cryptocurrency futures liquidations reached $321 million in the past 24 hours, with $170 million in longs and $151 million in shorts; BTC liquidations at $107 million and ETH at $85 million.",
-          "source": "PANews",
-          "url": "https://www.panewslab.com/en/articles/019d96e9-e7d7-745f-a42f-1bba554d34f4"
+          "title": "Bitcoin Developer Proposal to Freeze 1.7M BTC Vulnerable to Quantum Attacks",
+          "summary": "A Bitcoin developer group proposed BIP-361 to freeze 1.7 million BTC in obsolete P2PK addresses at risk from quantum computing threats.",
+          "source": "FXEmpire",
+          "url": "https://www.fxempire.com/forecasts/article/bitcoin-is-gathering-momentum-around-75k-1592296"
         },
         {
-          "title": "XRP Surges 4.4% to $1.40 on Ripple's Partnership with Kyobo Life Insurance",
-          "summary": "Ripple's XRP led gains among major cryptos with a 4.4% jump after announcing a partnership with South Korea’s Kyobo Life Insurance to tokenize government bond settlement, flipping retail sentiment to bullish.",
-          "source": "Stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/xrp-pops-bitcoin-halts-what-crypto-traders-are-watching-before-jobless-claims/cZJv0wYRID4"
+          "title": "Solana Stalls at Long-Term Support, Needs $105 Breakout",
+          "summary": "Solana outperformed the market by bouncing off key support but failed to rally beyond it for two months; bulls need consolidation above $105 to target 200-week MA and prior highs.",
+          "source": "FXEmpire",
+          "url": "https://www.fxempire.com/forecasts/article/bitcoin-is-gathering-momentum-around-75k-1592296"
         },
         {
-          "title": "RaveDAO, Polkadot, and Ethena Lead Altcoin Gains as Bitcoin Stabilizes",
-          "summary": "Bitcoin holds steady at $74,000 amid Trump's 'good deal' comment, while RaveDAO, Polkadot, and Ethena extend gains over the last 24 hours; overall market up 0.9% to $2.6 trillion.",
-          "source": "FXStreet",
-          "url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-overview-bitcoin-holds-at-74-000-amid-trumps-good-deal-comment-ravedao-polkadot-ethena-lead-gains-202604170353"
+          "title": "Crypto Market Cap Hits $2.55T with 1.02% Gain, Tied to Stock Rally",
+          "summary": "Cryptocurrency market capitalization reaches $2.55T, up 1.02% in 24 hours, showing 75% correlation with S&P 500 amid US stock highs and geopolitical ceasefires.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/313449527349250"
         },
         {
-          "title": "Ethereum Foundation Executive Josh Stark Announces Departure",
-          "summary": "Josh Stark, executive at the Ethereum Foundation, has announced his departure, marking a notable change in Ethereum's leadership.",
-          "source": "PANews",
-          "url": "https://www.panewslab.com/en/articles/019d96e9-e7d7-745f-a42f-1bba554d34f4"
+          "title": "Kraken Expert Predicts Bitcoin to $80K on Middle East De-escalation and Earnings",
+          "summary": "Bitcoin up 0.7% to $75,116 in 24 hours after 12% two-week rally; Kraken VP sees $80K breakout if Middle East conflict eases and US corporate earnings remain strong.",
+          "source": "DL News",
+          "url": "https://www.dlnews.com/articles/markets/will-bitcoin-be-back-to-80k-price-kraken-expert-predicts-two-key-triggers/"
         },
         {
-          "title": "Uniswap Launches Official Developer Platform with API Dashboards and AI Toolkits",
-          "summary": "Uniswap has released the official version of its developer platform, introducing API dashboards and AI toolkits to enhance development.",
-          "source": "PANews",
-          "url": "https://www.panewslab.com/en/articles/019d96e9-e7d7-745f-a42f-1bba554d34f4"
+          "title": "Charles Schwab Announces Cryptocurrency Trading Launch",
+          "summary": "Charles Schwab plans to launch crypto trading for clients after missing revenue expectations, amid broader market shifts bridging traditional finance and digital assets.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/313449527349250"
         },
         {
-          "title": "Rhea Finance Hit by Attack, $7.6 Million Stolen via Fake Token Contracts",
-          "summary": "Security agency reports Rhea Finance suffered an attack involving fake token contracts, resulting in approximately $7.6 million stolen.",
-          "source": "PANews",
-          "url": "https://www.panewslab.com/en/articles/019d96e9-e7d7-745f-a42f-1bba554d34f4"
-        },
-        {
-          "title": "Spektr Raises $20 Million in Series A Funding for Financial Compliance",
-          "summary": "Financial compliance startup Spektr, focused on crypto, secured $20 million in Series A funding led by NEA.",
-          "source": "PANews",
-          "url": "https://www.panewslab.com/en/articles/019d96e9-e7d7-745f-a42f-1bba554d34f4"
+          "title": "DeXe Leads Gainers with 20% Surge, RaveDAO Down 32%",
+          "summary": "Top 24-hour gainers: DeXe (+20.12%), Siren (+13.98%), Aave (+5.97%); biggest losers: RaveDAO (-32.55%), JUST (-12.71%).",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency"
         }
       ],
       "citations": [
-        "https://www.mexc.com/news/1032216",
-        "https://www.panewslab.com/en/articles/019d96e9-e7d7-745f-a42f-1bba554d34f4",
-        "https://www.fxstreet.com/cryptocurrencies/news/crypto-overview-bitcoin-holds-at-74-000-amid-trumps-good-deal-comment-ravedao-polkadot-ethena-lead-gains-202604170353",
-        "https://stocktwits.com/news-articles/markets/cryptocurrency/xrp-pops-bitcoin-halts-what-crypto-traders-are-watching-before-jobless-claims/cZJv0wYRID4",
-        "https://www.binance.com/en/square/post/313374305859282",
-        "https://www.youtube.com/watch?v=oIxqEE5aqX4"
+        "https://www.fxempire.com/forecasts/article/bitcoin-is-gathering-momentum-around-75k-1592296",
+        "https://economictimes.indiatimes.com/markets/cryptocurrency",
+        "https://www.binance.com/en/square/post/313449527349250",
+        "https://www.dlnews.com/articles/markets/will-bitcoin-be-back-to-80k-price-kraken-expert-predicts-two-key-triggers/",
+        "https://economictimes.com/markets/cryptocurrency/crypto-influencers/bitcoin-holds-near-74600-ethereum-steady-above-2300-amid-volatility-technicals-signal-strength/articleshow/130326810.cms",
+        "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-is-gathering-momentum-around-75k-202604170950"
       ]
     },
     "ai_news": {
@@ -383,38 +382,35 @@
       "count": 4,
       "items": [
         {
-          "title": "Anthropic Releases Claude Opus 4.7, Best Public AI Coding Model",
-          "summary": "Claude Opus 4.7 achieves 64.3% on SWE-Bench Pro, surpassing previous version's 53.4% and competitors like GPT 5.4 (57.7%) and Gemini 3.1 Pro (54.2%). Anthropic notes a stronger restricted model, Mythos Preview, at 77.8% deemed too dangerous for public use.",
-          "source": "AI News & Strategy Daily | Nate B Jones",
-          "url": "https://www.youtube.com/watch?v=CnE2Su9CwHE"
+          "title": "Concerns Mount Over Anthropic's Powerful New Mythos AI Model",
+          "summary": "Experts warn that Anthropic's Mythos AI model, designed to detect software security flaws, is too powerful for public release and risks falling into the wrong hands. Former AI CEO Matt Shumer discussed the emerging concerns on CBS News.",
+          "source": "CBS News",
+          "url": "https://www.youtube.com/watch?v=lUHQIwrqo-8"
         },
         {
-          "title": "Neuroscientist Builds AI That Refuses Answers, Outperforms All Models",
-          "summary": "A neuroscientist developed an AI that only asks questions and refuses direct answers, beating every existing model including those trained on billions of users' data. The approach highlights risks of dependency on answer-providing AIs, akin to GPS effects on memory.",
-          "source": "Robot Proof Author (Neuroscientist Interview)",
-          "url": "https://www.youtube.com/watch?v=rVkZmdcpSdE"
+          "title": "Cybersecurity Firm Demonstrates Hackers' Use of AI to Breach Networks",
+          "summary": "A cybersecurity firm showcased how hackers are leveraging AI for network breaches amid U.S. warnings of Iranian cyberattacks and FBI reports of $21 billion in cybercrime losses last year.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/cybersecurity-firm-shows-how-hackers-are-using-ai-to-breach-networks/"
         },
         {
-          "title": "Google's Gemini 3 Family Advances with 77.1% ARC-AGI-2 Score and Low-Cost Options",
-          "summary": "Gemini 3 lineup includes Flash-Lite at $0.25 per million tokens, real-time voice with Flash Live, scoring 77.1% on ARC-AGI-2 (from under 5% prior). Compares favorably to GPT-4o, Llama 3, and Claude 3 in benchmarks.",
-          "source": "BitBiased AI",
-          "url": "https://www.youtube.com/watch?v=9LVfjiPfpUg"
+          "title": "New Trailer Features AI-Generated Val Kilmer After His Death",
+          "summary": "The trailer for 'As Deep as the Grave' includes an AI-generated version of Val Kilmer, who died in 2025, with approval from his children for the long-planned project.",
+          "source": "NBC News",
+          "url": "https://www.youtube.com/watch?v=HmVxgnEs23s"
         },
         {
-          "title": "$1 AI Guardrails Counter Rising LLM Attacks in Production Systems",
-          "summary": "Talk details six common attack vectors like prompt injection, RAG poisoning, and agentic escalation, now baseline threats. Highlights websites embedding manipulative prompts to bias AI decisions, with documented overruling of AI-based processes.",
-          "source": "AI Security Conference Talk",
-          "url": "https://www.youtube.com/watch?v=YZHPEkfy2kc"
+          "title": "Israeli Military Admits Using AI-Generated Photo of Killed Lebanese Journalist",
+          "summary": "The IDF admitted to posting a photoshopped, AI-generated image of journalist Ali Shoeib in Hezbollah uniform to portray him as a terrorist, following criticism from the Foreign Press Association.",
+          "source": "France 24",
+          "url": "https://www.youtube.com/watch?v=orhh2JpDe8I"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=rVkZmdcpSdE",
-        "https://www.youtube.com/watch?v=CnE2Su9CwHE",
-        "https://www.youtube.com/watch?v=YZHPEkfy2kc",
-        "https://www.youtube.com/watch?v=58pSrMtC470",
-        "https://www.youtube.com/watch?v=9LVfjiPfpUg",
-        "https://www.youtube.com/watch?v=oKb5efXUqlI",
-        "https://www.youtube.com/watch?v=1PK-9UrqbJk"
+        "https://www.youtube.com/watch?v=lUHQIwrqo-8",
+        "https://www.cbsnews.com/video/cybersecurity-firm-shows-how-hackers-are-using-ai-to-breach-networks/",
+        "https://www.youtube.com/watch?v=HmVxgnEs23s",
+        "https://www.youtube.com/watch?v=orhh2JpDe8I"
       ]
     },
     "gaming": {
@@ -426,43 +422,43 @@
       "items": [
         {
           "title": "Battlefield 6 Reveals 2026 Roadmap with New Maps, Naval Warfare, and Proximity Chat",
-          "summary": "Battlefield 6 announced a detailed 2026 roadmap including Season 3, 4, and 5 maps, naval warfare features, and proximity chat. The update covers developments through the end of the year.",
-          "source": "jackfrags (YouTube)",
+          "summary": "Battlefield 6 announced a detailed 2026 roadmap including Seasons 3, 4, and 5 with 7 new maps, naval warfare features, and proximity chat. The update outlines major content drops through the end of the year.",
+          "source": "jackfrags on YouTube",
           "url": "https://www.youtube.com/watch?v=mnGBjMhadTM"
         },
         {
-          "title": "Major Nintendo Switch 2 Leaks Including AAA Games like Starfield and Diablo",
-          "summary": "New leaks reveal AAA titles such as Starfield, Diablo, and others rated for Nintendo Switch 2, alongside rumors of raids on Splatoon leakers and potential remakes. Nintendo's Spotlight Sale highlights third-party deals.",
-          "source": "YouTube (Nintendo Switch 2 News)",
+          "title": "PlayStation Plus April 2026 Game Catalog Revealed as Disappointing Lineup",
+          "summary": "The PS Plus Game Catalog for April 2026 includes The Crew Motorfest, Horizon Zero Dawn Remastered, Football Manager 26, Console Warriors, Abyss, and more, drawing criticism for being underwhelming.",
+          "source": "GameCross on YouTube",
+          "url": "https://www.youtube.com/watch?v=mBlJfj_lHT0"
+        },
+        {
+          "title": "Major Nintendo Switch 2 Leaks: Starfield, DMC5, Diablo, and Multiple Remakes Rumored",
+          "summary": "New leaks suggest Nintendo Switch 2 will feature big AAA titles like Starfield, Devil May Cry 5, Diablo, Resident Evil remakes, Guardians of the Galaxy, and potential Ocarina of Time and Super Metroid remakes.",
+          "source": "YouTube Channel (Nintendo News)",
           "url": "https://www.youtube.com/watch?v=sjfzZNSSt3A"
         },
         {
-          "title": "Helldivers 2 Developers Fix Super Earth Error and Address Nerfs",
-          "summary": "Arrowhead Game Studios fixed a Super Earth error, updated known issues, and players discovered nerfs to FRV and Sentry Stratagem. Sony filed a new controller patent.",
+          "title": "Helldivers 2 Updates: Super Earth Error Fixed, Sentry and FRV Nerfs Discovered",
+          "summary": "Arrowhead Game Studios fixed a Super Earth error and updated known issues in Helldivers 2, while players found nerfs to FRV and Sentry stratagems. Sony also filed a patent for a new PlayStation controller concept.",
           "source": "YouTube (Helldivers 2 News)",
           "url": "https://www.youtube.com/watch?v=oJPdI1iUyQ8"
         },
         {
-          "title": "Fall Guys Receives Limited Fortnite Crossover Mode After Hiatus",
-          "summary": "Fall Guys developer Mediatonic announced a single limited-time 3v3 map mode for Fortnite following a multi-month hiatus. The update comes amid past Epic Games layoffs affecting the studio.",
-          "source": "YouTube (Death of a Game: Fall Guys)",
-          "url": "https://www.youtube.com/watch?v=Gnvcq3W5Mqk"
-        },
-        {
-          "title": "2026 Video Game News Roundup: Switch 2 Rumors, Pokemon Issues, and Studio Closures",
-          "summary": "Tim discusses key 2026 news including Nintendo Switch 2 boost mode, Pokemon controversies, leaks on Ocarina of Time remake, Super Metroid rumors, and Blue Point Studio shutting down.",
-          "source": "Kinda Funny Gamescast (YouTube)",
-          "url": "https://www.youtube.com/watch?v=d2K80K2mqS0"
+          "title": "League of Legends Patch Brings Perfect Comet Rework and Dark Harvest Changes",
+          "summary": "The latest League of Legends update features a highly praised Comet rework following Deathfire Touch release, with Dark Harvest reportedly nerfed significantly.",
+          "source": "Azzapp on YouTube",
+          "url": "https://www.youtube.com/watch?v=Wq-CMDFQcAs"
         }
       ],
       "citations": [
         "https://www.youtube.com/watch?v=sjfzZNSSt3A",
         "https://www.youtube.com/watch?v=oJPdI1iUyQ8",
         "https://www.youtube.com/watch?v=mnGBjMhadTM",
-        "https://www.youtube.com/watch?v=Gnvcq3W5Mqk",
         "https://www.youtube.com/watch?v=d2K80K2mqS0",
-        "https://www.youtube.com/watch?v=2kXjIN23B9w",
-        "https://www.youtube.com/watch?v=4VSCo-_JHdE"
+        "https://www.youtube.com/watch?v=4VSCo-_JHdE&vl=en",
+        "https://www.youtube.com/watch?v=Wq-CMDFQcAs",
+        "https://www.youtube.com/watch?v=mBlJfj_lHT0"
       ]
     },
     "tech_news": {
@@ -474,46 +470,48 @@
       "items": [
         {
           "title": "Quantum Motion Deploys First Full-Stack Silicon Quantum Computer",
-          "summary": "Quantum Motion has achieved a milestone by deploying the first full-stack quantum computer using standard silicon chip fabrication processes, potentially accelerating scalable quantum systems.[1]",
+          "summary": "Quantum Motion has achieved a milestone by deploying the first full-stack quantum computer using standard silicon chip fabrication, potentially accelerating scalable quantum systems.",
           "source": "TechNewsWorld",
           "url": "https://www.technewsworld.com"
         },
         {
           "title": "Google and Qualcomm Push Android PCs into Mainstream",
-          "summary": "Google and Qualcomm are advancing Android PCs to challenge Microsoft and Apple, aiming to scale the mobile OS to desktops and reshape personal computing.[1]",
+          "summary": "Google and Qualcomm are advancing Android PCs to challenge Microsoft and Apple, aiming to scale the mobile OS to desktops and reshape personal computing.",
           "source": "TechNewsWorld",
           "url": "https://www.technewsworld.com"
         },
         {
           "title": "Amazon Faces Class-Action Lawsuit Over 'Bricking' Fire TV Sticks",
-          "summary": "A class-action suit accuses Amazon of intentionally disabling early Fire TV streaming sticks to force upgrades, drawing significant consumer backlash.[2]",
+          "summary": "A class-action suit accuses Amazon of intentionally disabling early Fire TV streaming sticks to force upgrades, drawing significant customer backlash.",
           "source": "CNET",
-          "url": "https://www.cnet.com"
+          "url": "https://www.newsnow.co.uk/h/Technology"
+        },
+        {
+          "title": "YouTube Introduces Option to Turn Off Shorts Entirely",
+          "summary": "YouTube now allows users to disable Shorts completely on mobile devices, addressing user preferences for a customized viewing experience.",
+          "source": "Mashable",
+          "url": "https://www.newsnow.co.uk/h/Technology"
         },
         {
           "title": "iPad Air Reportedly Switching to OLED Displays Next Year",
-          "summary": "Sources claim the iPad Air will upgrade to OLED screens, potentially marking one of its biggest enhancements, though another iPad model might launch it first.[2]",
+          "summary": "Sources claim the iPad Air will upgrade to OLED screens, potentially marking one of its biggest enhancements, though another iPad model might launch it first.",
           "source": "T3",
-          "url": "https://www.t3.com"
+          "url": "https://www.newsnow.co.uk/h/Technology"
         },
         {
-          "title": "YouTube Introduces Option to Disable Shorts Entirely on Mobile",
-          "summary": "YouTube now allows users to turn off Shorts completely on mobile devices, addressing user preferences for a customized viewing experience.[2]",
-          "source": "GSMArena",
-          "url": "https://www.gsmarena.com"
-        },
-        {
-          "title": "Samsung Expands Galaxy A55 One UI 8.5 Beta to More Countries",
-          "summary": "The One UI 8.5 beta program for Galaxy A55 is now live in additional countries, bringing features originally for Galaxy S26 to older models like S24.[2]",
+          "title": "Samsung Expands Galaxy A55 One UI 8.5 Beta Program",
+          "summary": "The One UI 8.5 beta for Galaxy A55 is now live in more countries, bringing features originally planned for Galaxy S26 to older devices like S24.",
           "source": "SamMobile",
-          "url": "https://www.sammobile.com"
+          "url": "https://www.newsnow.co.uk/h/Technology"
         }
       ],
       "citations": [
         "https://www.technewsworld.com",
+        "https://interestingengineering.com",
         "https://www.newsnow.co.uk/h/Technology",
         "https://technologymagazine.com/technology",
-        "https://www.informationweek.com/latest-news"
+        "https://research.ibm.com",
+        "https://www.csis.org/programs/strategic-technologies-program"
       ]
     }
   }
