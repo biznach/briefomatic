@@ -1,18 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-04-21 00:34 UTC*
+*Generated: 2026-04-21 06:40 UTC*
 
-1. **Market Overview**: The S&P 500 has ended its five-week losing streak, despite ongoing US-Iran tensions and oil price surges. Bitcoin's price has dropped below $75,000, while Ethereum's price is below $2,300. The total crypto market cap has fallen 0.81% in 24 hours but is up 5% weekly. Major indices such as the S&P 500 have seen significant movements, with the index hitting record highs above 7,000 before pulling back.
+1. **Market Overview**: The S&P 500 has fallen 2% for the fifth straight week amid Middle East tensions, with US 10-year Treasury yields rising to 4.43% and Brent crude climbing to $112 per barrel. Bitcoin has held firm near $76K due to strong institutional buying, while Ethereum saw a 17.91% decline in 30 days following the $292 million KelpDAO hack. Major cryptocurrencies like Bitcoin, Ethereum, and Solana have seen moderate gains, with Bitcoin up 1.67% and Ethereum up 1.6% in the last 24 hours.
 
-2. **Tech & AI**: Notable developments include John Ternus becoming the new Apple CEO, with Tim Cook taking on the role of Executive Chairman. Additionally, there have been significant advancements in AI-generated music, with 44% of songs uploaded to Deezer's platform being AI-generated. Other notable developments include the release of Qwen3.6-Max-Preview, which promises smarter and sharper AI capabilities, and the launch of Kimi vendor verifier, which helps verify the accuracy of inference providers.
+2. **Tech & AI**: John Ternus is set to become the new Apple CEO, with Tim Cook taking on the role of Executive Chairman. Anthropic has announced that OpenClaw-style Claude CLI usage is allowed again. Additionally, there have been developments in AI tools, such as Mediator.ai, which uses Nash bargaining and LLMs to systematize fairness. Qwen3.6-Max-Preview has also been released, boasting smarter and sharper capabilities.
 
-3. **Gaming & Entertainment**: There is limited gaming news in the provided data. However, it's worth noting that the tech and AI developments, such as advancements in rendering techniques and AI-generated content, may have implications for the gaming industry in the future.
+3. **Gaming & Entertainment**: Multiple unannounced Nintendo Switch 2 games have surfaced online, including titles like Mega Man 64. The leak suggests multiple publishers are preparing games for the platform ahead of official announcements. There is also an expected reveal of Assassin's Creed Black Flag Reync this week.
 
 4. **Key Insights**:
-* The crypto market has seen significant inflows, with $1.4B flowing into crypto funds in the largest weekly total since early in the year.
-* The S&P 500 has ended its five-week losing streak, despite ongoing US-Iran tensions and oil price surges.
-* AI-generated music is becoming increasingly prevalent, with 44% of songs uploaded to Deezer's platform being AI-generated.
-* Significant advancements are being made in AI capabilities, including the release of Qwen3.6-Max-Preview and the launch of Kimi vendor verifier.
-* The EU has announced plans to require all phones sold in the region to have replaceable batteries from 2027.
+* The Middle East conflict is driving energy security concerns and AI-driven infrastructure investments.
+* Institutional demand for Bitcoin is strong, with Michael Saylor's MicroStrategy buying $1 billion in Bitcoin via preferred stock.
+* The DeFi TVL has dropped across top 20 chains following the $292 million KelpDAO hack.
+* Apple's leadership change may impact the company's future direction and strategy.
+* The EU is set to require all phones sold in the region to have replaceable batteries from 2027.
 
-5. **Watch List**: Items to monitor in the coming days include the ongoing US-Iran tensions and their impact on oil prices and the stock market, the performance of the S&P 500 and other major indices, the continued development and adoption of AI-generated music and other AI capabilities, and the potential implications of the EU's plans for replaceable phone batteries on the tech industry. Additionally, the crypto market and major cryptocurrencies such as Bitcoin and Ethereum should be monitored for any significant price movements or developments.
+5. **Watch List**: 
+* Middle East tensions and their impact on energy prices and global markets.
+* Bitcoin and Ethereum price movements, particularly in response to institutional buying and DeFi hacks.
+* Apple's transition to new leadership and potential strategic shifts.
+* Developments in AI tools and their applications, such as Mediator.ai and Qwen3.6-Max-Preview.
+* Upcoming game releases and announcements, including the Nintendo Switch 2 and Assassin's Creed Black Flag Reync.
