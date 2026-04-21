@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T18:22:52.566464+00:00",
-  "generated_at_human": "2026-04-20 18:22 UTC",
+  "generated_at": "2026-04-21T00:34:18.597626+00:00",
+  "generated_at_human": "2026-04-21 00:34 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,52 +8,124 @@
       "count": 25,
       "items": [
         {
+          "title": "John Ternus to become Apple CEO",
+          "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+          "score": 1050,
+          "comments": 541
+        },
+        {
+          "title": "Jujutsu megamerges for fun and profit",
+          "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+          "score": 100,
+          "comments": 21
+        },
+        {
           "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
           "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-          "score": 309,
-          "comments": 181
+          "score": 518,
+          "comments": 266
+        },
+        {
+          "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+          "url": "https://github.com/gizmo64k/soulplayer-c64",
+          "score": 65,
+          "comments": 16
+        },
+        {
+          "title": "Kimi vendor verifier – verify accuracy of inference providers",
+          "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+          "score": 149,
+          "comments": 12
+        },
+        {
+          "title": "Even 'uncensored' models can't say what they want",
+          "url": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+          "score": 74,
+          "comments": 55
         },
         {
           "title": "ggsql: A Grammar of Graphics for SQL",
           "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-          "score": 236,
+          "score": 339,
+          "comments": 71
+        },
+        {
+          "title": "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
+          "url": "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html",
+          "score": 29,
+          "comments": 4
+        },
+        {
+          "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+          "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+          "score": 137,
           "comments": 56
         },
         {
-          "title": "GitHub's Fake Star Economy",
-          "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-          "score": 547,
-          "comments": 294
+          "title": "Monero Community Crowdfunding System",
+          "url": "https://ccs.getmonero.org/ideas/",
+          "score": 48,
+          "comments": 20
         },
         {
-          "title": "At long last, InfoWars is ours",
-          "url": "https://theonion.com/at-long-last-infowars-is-ours/",
-          "score": 176,
-          "comments": 49
+          "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+          "url": "https://words.filippo.io/128-bits/",
+          "score": 113,
+          "comments": 52
         },
         {
-          "title": "The Theory of Interstellar Trade [pdf] (1978)",
-          "url": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
-          "score": 34,
-          "comments": 8
+          "title": "All phones sold in the EU to have replaceable batteries from 2027",
+          "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+          "score": 921,
+          "comments": 772
+        },
+        {
+          "title": "Modern Rendering Culling Techniques",
+          "url": "https://krupitskas.com/posts/modern_culling_techniques/",
+          "score": 72,
+          "comments": 12
         },
         {
           "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
           "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-          "score": 136,
-          "comments": 146
+          "score": 278,
+          "comments": 268
         },
         {
-          "title": "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
-          "url": "https://mastodon.social/@jdm_/116429380667467307",
-          "score": 119,
-          "comments": 73
+          "title": "F-35 is built for the wrong war",
+          "url": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+          "score": 175,
+          "comments": 318
         },
         {
-          "title": "We accepted surveillance as default",
-          "url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
+          "title": "Kefir C17/C23 Compiler",
+          "url": "https://sr.ht/~jprotopopov/kefir/",
           "score": 116,
-          "comments": 43
+          "comments": 5
+        },
+        {
+          "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+          "url": "https://prismml.com/news/ternary-bonsai",
+          "score": 11,
+          "comments": 3
+        },
+        {
+          "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+          "url": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
+          "score": 127,
+          "comments": 69
+        },
+        {
+          "title": "WebUSB Extension for Firefox",
+          "url": "https://github.com/ArcaneNibble/awawausb",
+          "score": 191,
+          "comments": 174
+        },
+        {
+          "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+          "score": 256,
+          "comments": 120
         },
         {
           "title": "Bloom (YC P26) Is Hiring",
@@ -62,100 +134,28 @@
           "comments": 0
         },
         {
-          "title": "Kimi K2.6: Advancing Open-Source Coding",
-          "url": "https://www.kimi.com/blog/kimi-k2-6",
-          "score": 296,
-          "comments": 141
+          "title": "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
+          "url": "https://mastodon.social/@jdm_/116429380667467307",
+          "score": 184,
+          "comments": 99
         },
         {
-          "title": "The Palantir's Stasi Protocols",
-          "url": "https://professorsigmund.com/praxis/palantir-stasi-protocols.html",
-          "score": 9,
-          "comments": 1
+          "title": "Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks",
+          "url": "https://github.com/zeroecco/holos",
+          "score": 21,
+          "comments": 15
         },
         {
-          "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
-          "score": 203,
-          "comments": 87
-        },
-        {
-          "title": "Kefir C17/C23 Compiler",
-          "url": "https://sr.ht/~jprotopopov/kefir/",
-          "score": 17,
-          "comments": 0
-        },
-        {
-          "title": "Atlassian enables default data collection to train AI",
-          "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
-          "score": 327,
-          "comments": 75
+          "title": "Writing string.h functions using string instructions in asm x86-64 (2025)",
+          "url": "https://pmasschelier.github.io/x86_64_strings/",
+          "score": 39,
+          "comments": 4
         },
         {
           "title": "Sauna effect on heart rate",
           "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
-          "score": 265,
-          "comments": 158
-        },
-        {
-          "title": "Chernobyl's last wedding",
-          "url": "https://www.bbc.com/news/articles/c0q92lx8q75o",
-          "score": 29,
-          "comments": 6
-        },
-        {
-          "title": "WebUSB Extension for Firefox",
-          "url": "https://github.com/ArcaneNibble/awawausb",
-          "score": 113,
-          "comments": 93
-        },
-        {
-          "title": "Larry Tesler: A Personal History of Modeless Text Editing and Cut/Copy-Paste (2012)",
-          "url": "https://dl.acm.org/doi/epdf/10.1145/2212877.2212896",
-          "score": 19,
-          "comments": 6
-        },
-        {
-          "title": "All phones sold in the EU to have replaceable batteries from 2027",
-          "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-          "score": 634,
-          "comments": 516
-        },
-        {
-          "title": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
-          "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic",
-          "score": 101,
-          "comments": 18
-        },
-        {
-          "title": "Show HN: Alien – Self-hosting with remote management (written in Rust)",
-          "url": "https://news.ycombinator.com/item?id=47835599",
-          "score": 39,
-          "comments": 10
-        },
-        {
-          "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-          "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-          "score": 206,
-          "comments": 246
-        },
-        {
-          "title": "At Long Last, InfoWars Is Ours",
-          "url": "https://theonion.info/",
-          "score": 137,
-          "comments": 1
-        },
-        {
-          "title": "I'm never buying another Kindle",
-          "url": "https://www.androidauthority.com/amazon-kindle-2026-3657863/",
-          "score": 123,
-          "comments": 105
-        },
-        {
-          "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
-          "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
-          "score": 124,
-          "comments": 23
+          "score": 355,
+          "comments": 195
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 76207,
-          "change_24h": 1.96,
-          "change_7d": 5.57,
-          "market_cap": 1527423022971
+          "price": 75893,
+          "change_24h": 2.17,
+          "change_7d": 1.64,
+          "market_cap": 1519319242602
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2332.25,
-          "change_24h": 1.64,
-          "change_7d": 4.74,
-          "market_cap": 281640186544
+          "price": 2315.83,
+          "change_24h": 1.6,
+          "change_7d": -1.64,
+          "market_cap": 279509916531
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 86.14,
-          "change_24h": 1.25,
-          "change_7d": 3.32,
-          "market_cap": 49572893147
+          "price": 85.48,
+          "change_24h": 1.8,
+          "change_7d": -0.96,
+          "market_cap": 49195106137
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.095403,
-          "change_24h": 1.27,
-          "change_7d": 3.73,
-          "market_cap": 14680245846
+          "price": 0.095341,
+          "change_24h": 1.54,
+          "change_7d": 1.42,
+          "market_cap": 14677558011
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.249241,
-          "change_24h": 1.67,
-          "change_7d": 3.97,
-          "market_cap": 9216665578
+          "price": 0.248424,
+          "change_24h": 1.68,
+          "change_7d": 0.43,
+          "market_cap": 9186336018
         }
       ]
     },
@@ -212,54 +212,54 @@
       "count": 10,
       "items": [
         {
-          "name": "Aave",
-          "symbol": "AAVE",
-          "market_cap_rank": 56
-        },
-        {
           "name": "RaveDAO",
           "symbol": "RAVE",
-          "market_cap_rank": 219
+          "market_cap_rank": 150
+        },
+        {
+          "name": "Aave",
+          "symbol": "AAVE",
+          "market_cap_rank": 55
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 106
+          "market_cap_rank": 108
         },
         {
           "name": "Asteroid Shiba",
           "symbol": "ASTEROID",
-          "market_cap_rank": 231
+          "market_cap_rank": 211
         },
         {
-          "name": "LayerZero",
-          "symbol": "ZRO",
-          "market_cap_rank": 118
+          "name": "Pieverse",
+          "symbol": "PIEVERSE",
+          "market_cap_rank": 165
         },
         {
-          "name": "wojak",
-          "symbol": "WOJAK",
-          "market_cap_rank": 814
+          "name": "ORDI",
+          "symbol": "ORDI",
+          "market_cap_rank": 283
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         },
         {
           "name": "Monad",
           "symbol": "MON",
-          "market_cap_rank": 119
+          "market_cap_rank": 121
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Siren",
+          "symbol": "SIREN",
+          "market_cap_rank": 100
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 39
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 13
+          "name": "Aerodrome Finance",
+          "symbol": "AERO",
+          "market_cap_rank": 125
         }
       ]
     },
@@ -268,13 +268,52 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 6,
+      "items": [
+        {
+          "title": "S&P 500 Ends Five-Straight Weekly Losses Amid Middle East Tensions",
+          "summary": "The S&P 500 fell 2% for its fifth consecutive weekly loss, the first since 2022, as US-Iran tensions flared, dashing ceasefire hopes and pushing oil prices higher. US stock futures dropped 0.6-0.7% early Monday ahead of key earnings.[1][2]",
+          "source": "BlackRock Investment Institute",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary"
+        },
+        {
+          "title": "Oil Prices Surge to $112/Barrel on Strait of Hormuz Uncertainty",
+          "summary": "Brent crude climbed to $112 per barrel after Iran reopened then reportedly closed the Strait of Hormuz amid ceasefire talks, raising inflation concerns and questioning central bank rate cut plans. Elevated prices test if policy rates can keep pace with inflation.[1][2]",
+          "source": "BlackRock Investment Institute",
+          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary"
+        },
+        {
+          "title": "S&P 500 Hits Record High Above 7000 Before Pullback",
+          "summary": "The S&P 500 rallied to all-time highs above 7000 for the first time since January, rebounding from a near-correction in just 11 days on de-escalation hopes, but futures slipped Sunday on renewed Iran tensions. Narrow market breadth persists despite records.[3]",
+          "source": "Morningstar",
+          "url": "https://www.morningstar.com/news/marketwatch/2026042079/the-sp-500-has-blown-past-7000-in-an-epic-comeback-rally-heres-why-it-can-keep-going"
+        },
+        {
+          "title": "Markets Price 99.5% Chance Fed Holds Rates Steady in April",
+          "summary": "CME FedWatch tool shows near-certainty of unchanged Fed rates at the April meeting amid oil shock and inflation risks. US 10-year Treasury yields rose to 4.43%, with 10-year at 4.274% and two-year at 3.741% in recent trading.[1][2]",
+          "source": "Dailymotion / CME Group",
+          "url": "https://www.dailymotion.com/video/xa638gm"
+        },
+        {
+          "title": "Earnings Week Kicks Off with Tesla, Intel, UnitedHealth, GE Reports",
+          "summary": "A heavy slate of corporate earnings from April 20-24 includes Tesla, Intel, UnitedHealth Group, and GE Aerospace, potentially influencing sentiment in tech, healthcare, and industrials sectors. Results could set market tone amid geopolitical jitters.[2]",
+          "source": "Dailymotion",
+          "url": "https://www.dailymotion.com/video/xa638gm"
+        },
+        {
+          "title": "Wells Fargo CEO Stresses Fed Independence Amid Trump Comments",
+          "summary": "Wells Fargo CEO Charlie Scharf emphasized Federal Reserve independence as 'critically important' while noting President Trump can voice his views, in a Monday interview at the Economic Club of Washington DC.[4][6]",
+          "source": "Bloomberg Television",
+          "url": "https://www.youtube.com/watch?v=0mLdPhHeMtc"
+        }
+      ],
       "citations": [
+        "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
+        "https://www.dailymotion.com/video/xa638gm",
+        "https://www.morningstar.com/news/marketwatch/2026042079/the-sp-500-has-blown-past-7000-in-an-epic-comeback-rally-heres-why-it-can-keep-going",
+        "https://www.youtube.com/watch?v=0mLdPhHeMtc",
         "https://tradingeconomics.com/united-states/calendar",
-        "https://fortune.com/2026/04/20/kevin-warsh-rate-cut-yield-balance-sheet-reduction-ideas/",
-        "https://research.danskebank.com/research/",
-        "https://www.imf.org/external/datamapper/index.php"
+        "https://www.youtube.com/watch?v=0xem6a_8W3g"
       ]
     },
     "crypto_news": {
@@ -285,41 +324,43 @@
       "count": 5,
       "items": [
         {
-          "title": "Crypto Market Dips 0.81% in 24 Hours but Remains in Uptrend with $2.53T Capitalization",
-          "summary": "The total cryptocurrency market capitalization stands at $2.53T, down 0.81% over the past 24 hours but up 5% weekly. Bitcoin trades just below $75K after retreating from $78K highs, with top performers SUSHI (+2.5%), IOTA (+2%), NEAR (+2%), and underperformers ZEC (−4.1%), ALGO (−2.5%), ETH (−0.4%).",
+          "title": "Kelp DAO Suffers $300M Exploit Triggering $9B Panic Withdrawal from Aave",
+          "summary": "Hackers exploited Kelp DAO's bridge via LayerZero, stealing 116,500 rsETH worth nearly $300M, leading to $9B outflows from Aave and slashing its TVL by over a third to $17.5B. Kelp paused the protocol 46 minutes after the attack on Sunday.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/crypto/markets/massive-crypto-hack-triggers-9-billion-panic-withdrawal"
+        },
+        {
+          "title": "Crypto Market Dips 0.81% to $2.53T Amid US-Iran Tensions, BTC Below $75K",
+          "summary": "Total crypto market cap fell 0.81% in 24 hours but up 5% weekly; Bitcoin dropped to ~$74K-75K (-1.11%), Ethereum below $2,300 (-2.37%), linked to stock market reactions to US-Iran clashes. Top performers: SUSHI (+2.5%), IOTA (+2%), NEAR (+2%).",
           "source": "Investing.com",
           "url": "https://www.investing.com/analysis/crypto-market-has-taken-a-step-back-while-remaining-in-an-uptrend-200678778"
         },
         {
-          "title": "Nearly $1B in Bitcoin ETF Inflows Signal Strong Institutional Interest",
-          "summary": "Net inflows into spot Bitcoin ETFs reached $996.4 million last week, including $663 million on Friday—the highest since January 15—while US spot Ethereum ETFs saw $275.8 million weekly inflows. Bitcoin holds steady above $75,000 after Friday's highs over $78,000.",
-          "source": "YouTube / CoinDesk",
-          "url": "https://www.youtube.com/watch?v=--BPY5Bh8AA"
+          "title": "Spot BTC ETFs See $996M Inflows, ETH ETFs $276M Weekly as Market Pulls Back",
+          "summary": "Net inflows into spot Bitcoin ETFs reached $996.4M, while US spot Ethereum ETFs recorded $275.8M weekly; BTC hash rate recovered to 992 EH/s despite price retreat viewed as uptrend pullback.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/crypto-market-has-taken-a-step-back-while-remaining-in-an-uptrend-200678778"
         },
         {
-          "title": "KelpDAO Hack Causes Collateral Damage to Aave, AAVE Token Drops 1% to $90",
-          "summary": "DeFi platform Aave's AAVE token fell 1% to $90 amid fallout from the KelpDAO weekend hack. Major tokens like ETH, XRP, and SOL held steady over the past 24 hours despite the incident.",
-          "source": "YouTube / CoinDesk",
-          "url": "https://www.youtube.com/watch?v=--BPY5Bh8AA"
+          "title": "SocialFi and AI Sectors Buck Downtrend with Gains Amid Broader Market Dip",
+          "summary": "SocialFi rose 1.92% (TON +1.49%, CHZ +4.60%), AI up 0.95% (PIEVERSE +77.43%, VVV +4.89%); other sectors like DeFi (-2.24%), Layer 2 (-2.28%) declined due to macro factors.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/314413796743362"
         },
         {
-          "title": "$7.9B Bitcoin Options Expiry on Deribit Looms Friday, Key Levels at $75K and $62K",
-          "summary": "Roughly $7.9 billion in Bitcoin options expire on Deribit this Friday, April 24, with $395M call open interest at $75,000 and $330M put interest at $62,000. Bitcoin currently trades at $75,348, sitting at a critical juncture.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/crypto/markets/over-8b-option-expiry-could-send-golds-biggest-rival-tumbling"
-        },
-        {
-          "title": "Bitcoin Mining Profitability Surges as Difficulty Drops 2.43%",
-          "summary": "Bitcoin mining difficulty decreased 2.43% on April 17, driving hashprice above $36 per PH/s—the highest since January 31. Network hash rate recovered to ~992 EH/s from ~978 EH/s.",
-          "source": "Bitcoin Foundation",
-          "url": "https://bitcoinfoundation.org/news/bitcoin/btc-mining-profitability/"
+          "title": "$1.4B Flows into Crypto Funds in Largest Weekly Total Since Early Year",
+          "summary": "Crypto investment funds recorded $1.4B inflows, the biggest weekly total since early in the year, amid ongoing market volatility and ETF demand resurgence.",
+          "source": "CryptoPotato",
+          "url": "https://cryptopotato.com"
         }
       ],
       "citations": [
         "https://www.investing.com/analysis/crypto-market-has-taken-a-step-back-while-remaining-in-an-uptrend-200678778",
-        "https://www.youtube.com/watch?v=--BPY5Bh8AA",
-        "https://www.thestreet.com/crypto/markets/over-8b-option-expiry-could-send-golds-biggest-rival-tumbling",
-        "https://bitcoinfoundation.org/news/bitcoin/btc-mining-profitability/"
+        "https://www.binance.com/en/square/post/314413796743362",
+        "https://www.thestreet.com/crypto/markets/massive-crypto-hack-triggers-9-billion-panic-withdrawal",
+        "https://cryptoadventure.com/bitcoin-up-24-from-february-lows-but-breakout-in-doubt/",
+        "https://cryptoslate.com/biggest-gainers/",
+        "https://cryptopotato.com"
       ]
     },
     "ai_news": {
@@ -327,44 +368,37 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Anthropic Releases Mythos AI Model in Limited Gated Program Amid Cybersecurity Concerns",
-          "summary": "Anthropic has launched Mythos, a powerful new AI model, through Project Glass Wing, restricting access to major organizations like AWS, Google, and JP Morgan Chase due to its ability to exploit weak security systems, as demonstrated by UK researchers. Finance leaders warn it could threaten banking infrastructure, prompting discussions in Canada and the White House.",
-          "source": "World News Tonight",
-          "url": "https://www.youtube.com/watch?v=dSa0yfej3zU"
+          "title": "Google Plans Release of New AI Chips to Challenge Nvidia",
+          "summary": "Google is preparing to launch specialized AI chips focused on inference, separate from training chips, amid growing demand and leveraging its TPUs for models like Gemini. This move aims to compete directly with Nvidia in the AI hardware market.",
+          "source": "Bloomberg Technology",
+          "url": "https://www.youtube.com/watch?v=utdN_Qj9O6M"
         },
         {
-          "title": "Anthropic Withholds Public Release of Mythos Over Cybersecurity Risks",
-          "summary": "Anthropic decided against publicly releasing Mythos after assessing its cybersecurity capabilities, instead providing gated access to defenders including Microsoft, Nvidia, and Crowdstrike to address vulnerabilities before wider deployment.",
-          "source": "Dave Plummer YouTube",
-          "url": "https://www.youtube.com/watch?v=vELETrEp27k"
-        },
-        {
-          "title": "Humanoid Robot Breaks Human Record in Beijing Half Marathon",
-          "summary": "Autonomous humanoid robots in Beijing beat a human record in a half marathon, highlighting China's rapid progress in robotics and AI technology.",
-          "source": "Bloomberg",
-          "url": "https://www.youtube.com/watch?v=XWmVqXpF84A"
+          "title": "Leaks Suggest GPT-5.5 from OpenAI Shows Substantial Performance Jumps",
+          "summary": "Recent leaks on Twitter indicate GPT-5.5 could one-shot many applications and close the gap with leading models like Anthropic's Opus 4.7, potentially allowing OpenAI to reclaim the top spot in AI benchmarks.",
+          "source": "YouTube AI News",
+          "url": "https://www.youtube.com/watch?v=0yR3osYvt8g"
         },
         {
           "title": "Gen Z Expresses Growing Anger and Fears Over AI Job Displacement",
-          "summary": "Gen Z influencers report a shift from excitement to anger toward AI, citing concerns about job losses and inadequate college preparation for the AI era.",
+          "summary": "Gen Z influencers highlight a shift from excitement to concern about AI, with escalating fears of job losses as the younger generation sours on the technology.",
           "source": "Fox News",
           "url": "https://www.foxnews.com/video/6393464314112"
         },
         {
-          "title": "Pentagon Advances AI for Warfare with Project Maven",
-          "summary": "The U.S. Defense Department expands Project Maven, using AI to analyze drone footage, identify targets, and accelerate battlefield decisions for more efficient warfare.",
-          "source": "Bloomberg YouTube",
-          "url": "https://www.youtube.com/watch?v=6jj6WnHHJPw"
+          "title": "Adobe CEO Addresses AI Impacts Amid Stock Concerns",
+          "summary": "Adobe CEO Shantanu Narayen discusses the company's AI integrations and counters bearish sentiments on software stocks driven by AI-related worries.",
+          "source": "CNBC",
+          "url": "https://www.youtube.com/watch?v=NVvYjtmPMqY"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=dSa0yfej3zU",
-        "https://www.youtube.com/watch?v=6jj6WnHHJPw",
-        "https://www.youtube.com/watch?v=XWmVqXpF84A",
-        "https://www.youtube.com/watch?v=vELETrEp27k",
+        "https://www.youtube.com/watch?v=utdN_Qj9O6M",
+        "https://www.youtube.com/watch?v=0yR3osYvt8g",
+        "https://www.youtube.com/watch?v=NVvYjtmPMqY",
         "https://www.foxnews.com/video/6393464314112",
         "https://www.youtube.com/watch?v=8ad3L_TkDqk"
       ]
@@ -377,38 +411,37 @@
       "count": 4,
       "items": [
         {
-          "title": "Multiple Unannounced Nintendo Switch 2 Games Rated and Leaked Online",
-          "summary": "Several unannounced Nintendo Switch 2 titles have appeared online through ratings, with more mystery games from another company surfacing recently. This continues a trend of leaks over the past weeks, building anticipation for the console.",
-          "source": "YouTube Gaming News",
+          "title": "Neverwinter Announces Module 33 First Look, New Event, and Roadmap Tease",
+          "summary": "Neverwinter revealed a first look at Module 33 this week, including a new ice-themed zone teaser, trial loot improvements with reroll tokens, arena buffs, bug fixes, and a better-than-recruitment event. A roadmap reveal is expected tomorrow alongside today's patch notes.",
+          "source": "YouTube - Neverwinter News",
+          "url": "https://www.youtube.com/watch?v=XQKwlgGNtKU"
+        },
+        {
+          "title": "Multiple Unannounced Nintendo Switch 2 Games Rated Online",
+          "summary": "Several unannounced Switch 2 games have appeared in online ratings, including mystery titles from another company, alongside rumors of Assassin's Creed Black Flag remaster reveal this week.",
+          "source": "YouTube - Gaming News",
           "url": "https://www.youtube.com/watch?v=25Fr8SuG8iE"
         },
         {
           "title": "Valve Hints at Steam Machine Update and New Steam Controller",
-          "summary": "Documents suggest Valve is planning a Steam Machine revival and a new Steam controller, with Brad Lynch confirming receipt of large quantities of video cards. This could signal major hardware developments from the company.",
-          "source": "YouTube Gaming News",
+          "summary": "Documents suggest Valve is updating the Steam Machine, with mentions of a new Steam controller and large quantity shipments, as per insider Brad Lynch.",
+          "source": "YouTube - Gaming News",
           "url": "https://www.youtube.com/watch?v=25Fr8SuG8iE"
         },
         {
-          "title": "Pragmata Launches to Critical Acclaim on Steam",
-          "summary": "Pragmata released last Friday, earning a 97% 'Overwhelmingly Positive' rating on Steam and an 86 Metascore from 96 reviews. The game has been praised after extensive playtesting.",
-          "source": "YouTube Gaming Review",
-          "url": "https://www.youtube.com/watch?v=_pYOJg1Wo7g"
-        },
-        {
-          "title": "Crimson Desert Receives Massive Content Update and Sales Milestone",
-          "summary": "Pearl Abyss announced a huge new content patch for Crimson Desert, alongside reaching 5 million units sold and nearly 100k concurrent players. The update promises significant changes and expansions.",
-          "source": "YouTube Gaming News",
-          "url": "https://www.youtube.com/watch?v=zXTNqiG7SJI"
+          "title": "Indie Game Elementallis Finally Gets Release Date Next Week",
+          "summary": "After years of silence, indie game Elementallis has a confirmed release date just a week from tomorrow, highlighted in the latest indie gaming roundup for April 20-26.",
+          "source": "YouTube - Indie Gaming This Week",
+          "url": "https://www.youtube.com/watch?v=DHxuqnkjM6s"
         }
       ],
       "citations": [
+        "https://www.youtube.com/watch?v=XQKwlgGNtKU",
         "https://www.youtube.com/watch?v=25Fr8SuG8iE",
-        "https://www.youtube.com/watch?v=_pYOJg1Wo7g",
-        "https://www.youtube.com/watch?v=zXTNqiG7SJI",
-        "https://www.nhl.com/video/uta-at-vgk-condensed-game-6393458067112",
+        "https://www.youtube.com/watch?v=DHxuqnkjM6s",
         "https://www.youtube.com/watch?v=q-4RmE3Bc3g",
-        "https://www.espn.com/video/clip?id=48538434",
-        "https://www.nhl.com/video/sabres-charge-past-bruins-with-three-goal-rally-6393481039112"
+        "https://www.euronews.com/video/2026/04/20/watch-skydiver-crashes-into-stadium-scoreboard-in-virginia",
+        "https://www.youtube.com/watch?v=3PLOyJKtGKw"
       ]
     },
     "tech_news": {
@@ -416,55 +449,25 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 2,
       "items": [
         {
-          "title": "Blue Origin Reuses New Glenn Booster for First Time but Misplaces Satellite in Orbit",
-          "summary": "Blue Origin successfully reused its New Glenn rocket's first-stage booster named 'Never Tell Me The Odds' during its third launch on April 19 from Cape Canaveral, but the second stage placed AST SpaceMobile’s BlueBird 7 satellite into a lower-than-planned orbit, making it unusable.",
-          "source": "Tech Startups",
-          "url": "https://techstartups.com/2026/04/20/top-tech-news-today-april-20-2026/"
-        },
-        {
-          "title": "Quantum Computing Milestone: Fermionic Atom Gates Reach 99% Accuracy",
-          "summary": "Two independent research teams achieved a breakthrough in quantum computing by demonstrating collisional quantum gates using fermionic atoms with over 99% accuracy, marking a long-sought milestone for logic operations via direct physical overlap.",
+          "title": "Blue Origin's New Glenn Rocket Grounded After Failed Launch",
+          "summary": "Blue Origin's New Glenn rocket launch failed due to a bad engine, placing a satellite in the wrong orbit and grounding the vehicle. The company is investigating the anomaly that doomed the mission.",
           "source": "Phys.org",
           "url": "https://phys.org"
         },
         {
-          "title": "Samsung Teases Project Luna AI Robot Concept",
-          "summary": "Samsung revealed Project Luna, a new round-screen AI robot assistant with a swiveling head, showcased through a short video highlighting the company's hardware ambitions.",
-          "source": "Tech Startups",
-          "url": "https://techstartups.com/2026/04/20/top-tech-news-today-april-20-2026/"
-        },
-        {
-          "title": "Six New Isolated Millisecond Pulsars Discovered by China's FAST Telescope",
-          "summary": "Astronomers using the Five-hundred-meter Aperture Spherical radio Telescope (FAST) discovered six new isolated millisecond pulsars in galactic globular clusters NGC 6517 and NGC 7078.",
-          "source": "Phys.org",
-          "url": "https://phys.org"
-        },
-        {
-          "title": "Snap Lays Off 16% of Full-Time Staff Amid AI Embrace",
-          "summary": "Snap announced layoffs affecting 16% of its full-time employees as the company shifts focus toward AI integration.",
-          "source": "YouTube - This Week in Tech",
-          "url": "https://www.youtube.com/watch?v=SVPA2mqd_R8"
-        },
-        {
-          "title": "Netflix Cofounder Reed Hastings Steps Down from Company",
-          "summary": "Billionaire Netflix cofounder Reed Hastings is leaving the company after years of leadership.",
-          "source": "YouTube - This Week in Tech",
-          "url": "https://www.youtube.com/watch?v=SVPA2mqd_R8"
-        },
-        {
-          "title": "Roblox Settles with Nevada for $12 Million",
-          "summary": "Roblox agreed to a $12 million settlement with Nevada, addressing unspecified issues in the gaming platform.",
-          "source": "YouTube - This Week in Tech",
-          "url": "https://www.youtube.com/watch?v=SVPA2mqd_R8"
+          "title": "Google Announces New AI Inference Chips to Challenge Nvidia",
+          "summary": "Google is introducing new chips dedicated to AI inference to compete with Nvidia in the fast-growing semiconductor market for running AI models. The TPUs are gaining traction among AI developers, including rivals.",
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2026-04-20/google-challenges-nvidia-with-new-chips-to-speed-up-ai"
         }
       ],
       "citations": [
+        "https://www.youtube.com/watch?v=i10L9039IqM",
         "https://www.latimes.com/business/story/2026-04-20/google-challenges-nvidia-with-new-chips-to-speed-up-ai",
-        "https://techstartups.com/2026/04/20/top-tech-news-today-april-20-2026/",
-        "https://www.youtube.com/watch?v=SVPA2mqd_R8",
+        "https://www.techexplorist.com",
         "https://phys.org"
       ]
     }
