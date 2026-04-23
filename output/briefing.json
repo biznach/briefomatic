@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T12:23:56.604092+00:00",
-  "generated_at_human": "2026-04-23 12:23 UTC",
+  "generated_at": "2026-04-23T18:26:05.724674+00:00",
+  "generated_at_human": "2026-04-23 18:26 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,40 +8,112 @@
       "count": 25,
       "items": [
         {
-          "title": "I am building a cloud",
-          "url": "https://crawshaw.io/blog/building-a-cloud",
-          "score": 503,
-          "comments": 245
+          "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+          "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+          "score": 388,
+          "comments": 187
         },
         {
-          "title": "Alberta startup sells no-tech tractors for half price",
-          "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-          "score": 1853,
-          "comments": 606
+          "title": "'Hairdryer used to trick weather sensor' to win $34,000 Polymarket bet",
+          "url": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
+          "score": 153,
+          "comments": 122
+        },
+        {
+          "title": "Introducing GPT-5.5",
+          "url": "https://openai.com/index/introducing-gpt-5-5/",
+          "score": 187,
+          "comments": 48
+        },
+        {
+          "title": "An update on recent Claude Code quality reports",
+          "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+          "score": 88,
+          "comments": 55
+        },
+        {
+          "title": "Incident with Multple GitHub Services",
+          "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
+          "score": 90,
+          "comments": 50
+        },
+        {
+          "title": "French government agency confirms breach as hacker offers to sell data",
+          "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+          "score": 276,
+          "comments": 95
+        },
+        {
+          "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+          "url": "https://blog.meshcore.io/2026/04/23/the-split",
+          "score": 34,
+          "comments": 14
+        },
+        {
+          "title": "A DIY Watch You Can Actually Wear",
+          "url": "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682",
+          "score": 63,
+          "comments": 32
+        },
+        {
+          "title": "I am building a cloud",
+          "url": "https://crawshaw.io/blog/building-a-cloud",
+          "score": 843,
+          "comments": 430
         },
         {
           "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
           "url": "https://github.com/russellromney/honker",
-          "score": 11,
-          "comments": 1
+          "score": 175,
+          "comments": 26
         },
         {
           "title": "Your hex editor should color-code bytes",
           "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-          "score": 172,
-          "comments": 45
+          "score": 405,
+          "comments": 116
+        },
+        {
+          "title": "The Ferrari of Espresso Machines Is Fueling a Hot Resale Market",
+          "url": "https://www.nytimes.com/2026/04/20/dining/la-marzocco-espresso-machine.html",
+          "score": 28,
+          "comments": 34
+        },
+        {
+          "title": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
+          "url": "https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force",
+          "score": 153,
+          "comments": 95
         },
         {
           "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
           "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-          "score": 647,
-          "comments": 163
+          "score": 791,
+          "comments": 178
         },
         {
-          "title": "Sneaky spam in conversational replies to blog posts",
-          "url": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
-          "score": 8,
+          "title": "Palantir Employees Are Starting to Wonder If They're the Bad Guys",
+          "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+          "score": 67,
+          "comments": 41
+        },
+        {
+          "title": "If America's so rich, how'd it get so sad?",
+          "url": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
+          "score": 176,
+          "comments": 324
+        },
+        {
+          "title": "I spent years trying to make CSS states predictable",
+          "url": "https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/",
+          "score": 5,
           "comments": 0
+        },
+        {
+          "title": "Writing a C Compiler, in Zig (2025)",
+          "url": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
+          "score": 98,
+          "comments": 32
         },
         {
           "title": "Jiga (YC W21) Is Hiring",
@@ -50,112 +122,40 @@
           "comments": 0
         },
         {
-          "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
+          "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
           "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-          "score": 3,
-          "comments": 0
-        },
-        {
-          "title": "Writing a C Compiler, in Zig",
-          "url": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
-          "score": 26,
-          "comments": 6
+          "score": 334,
+          "comments": 116
         },
         {
           "title": "We found a stable Firefox identifier linking all your private Tor identities",
           "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-          "score": 760,
-          "comments": 223
+          "score": 866,
+          "comments": 260
         },
         {
-          "title": "5x5 Pixel font for tiny screens",
-          "url": "https://maurycyz.com/projects/mcufont/",
-          "score": 674,
-          "comments": 138
-        },
-        {
-          "title": "Isopods of the world",
-          "url": "https://isopod.site/",
-          "score": 30,
-          "comments": 9
-        },
-        {
-          "title": "Our newsroom AI policy",
-          "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-          "score": 85,
-          "comments": 55
-        },
-        {
-          "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
-          "url": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
-          "score": 106,
-          "comments": 20
+          "title": "A Renaissance gambling dispute spawned probability theory",
+          "url": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
+          "score": 69,
+          "comments": 10
         },
         {
           "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
           "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
-          "score": 105,
-          "comments": 37
+          "score": 240,
+          "comments": 82
         },
         {
-          "title": "Over-editing refers to a model modifying code beyond what is necessary",
-          "url": "https://nrehiew.github.io/blog/minimal_editing/",
-          "score": 380,
-          "comments": 219
+          "title": "Alberta startup sells no-tech tractors for half price",
+          "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+          "score": 2062,
+          "comments": 708
         },
         {
-          "title": "Highlights from Git 2.54",
-          "url": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-          "score": 35,
-          "comments": 10
-        },
-        {
-          "title": "The Onion to Take over InfoWars",
-          "url": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
-          "score": 221,
-          "comments": 66
-        },
-        {
-          "title": "Website streamed live directly from a model",
-          "url": "https://flipbook.page/",
-          "score": 313,
-          "comments": 84
-        },
-        {
-          "title": "Email could have been X.400 times better",
-          "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-          "score": 18,
-          "comments": 8
-        },
-        {
-          "title": "An amateur historian's favorite books about the Silk Road",
-          "url": "https://bookdna.com/best-books/silk-road",
-          "score": 33,
-          "comments": 14
-        },
-        {
-          "title": "Work with the Garage Door Up",
-          "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
-          "score": 3,
-          "comments": 0
-        },
-        {
-          "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
-          "url": "https://tempest.homemade.systems",
-          "score": 86,
-          "comments": 27
-        },
-        {
-          "title": "Technical, cognitive, and intent debt",
-          "url": "https://martinfowler.com/fragments/2026-04-02.html",
-          "score": 276,
-          "comments": 72
-        },
-        {
-          "title": "Ping-pong robot beats top-level human players",
-          "url": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
-          "score": 132,
-          "comments": 173
+          "title": "5x5 Pixel font for tiny screens",
+          "url": "https://maurycyz.com/projects/mcufont/",
+          "score": 767,
+          "comments": 151
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 77670,
-          "change_24h": -0.8,
-          "change_7d": 4.18,
-          "market_cap": 1554919763797
+          "price": 77940,
+          "change_24h": -1.28,
+          "change_7d": 4.94,
+          "market_cap": 1560475636057
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2327.67,
-          "change_24h": -3.07,
-          "change_7d": -0.22,
-          "market_cap": 281089688766
+          "price": 2311.91,
+          "change_24h": -3.62,
+          "change_7d": -0.23,
+          "market_cap": 279094058411
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 85.97,
-          "change_24h": -2.73,
-          "change_7d": 1.04,
-          "market_cap": 49478815459
+          "price": 85.41,
+          "change_24h": -3.13,
+          "change_7d": -1.39,
+          "market_cap": 49186531477
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.096621,
-          "change_24h": -1.3,
-          "change_7d": 0.41,
-          "market_cap": 14872976561
+          "price": 0.096164,
+          "change_24h": -1.2,
+          "change_7d": -1.63,
+          "market_cap": 14804704847
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.247794,
-          "change_24h": -3.05,
-          "change_7d": -0.24,
-          "market_cap": 9162427481
+          "price": 0.246486,
+          "change_24h": -2.8,
+          "change_7d": -1.99,
+          "market_cap": 9112829193
         }
       ]
     },
@@ -212,39 +212,19 @@
       "count": 10,
       "items": [
         {
-          "name": "Spark",
-          "symbol": "SPK",
-          "market_cap_rank": 212
-        },
-        {
           "name": "CHIP",
           "symbol": "CHIP",
-          "market_cap_rank": 174
+          "market_cap_rank": 187
         },
         {
-          "name": "RaveDAO",
-          "symbol": "RAVE",
-          "market_cap_rank": 149
+          "name": "Spark",
+          "symbol": "SPK",
+          "market_cap_rank": 238
         },
         {
-          "name": "OpenGradient",
-          "symbol": "OPG",
-          "market_cap_rank": 380
-        },
-        {
-          "name": "Asteroid Shiba",
-          "symbol": "ASTEROID",
-          "market_cap_rank": 225
-        },
-        {
-          "name": "Aave",
-          "symbol": "AAVE",
-          "market_cap_rank": 55
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Moonriver",
+          "symbol": "MOVR",
+          "market_cap_rank": 610
         },
         {
           "name": "Pudgy Penguins",
@@ -252,9 +232,29 @@
           "market_cap_rank": 100
         },
         {
-          "name": "Canton",
-          "symbol": "CC",
-          "market_cap_rank": 21
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 40
+        },
+        {
+          "name": "Asteroid Shiba",
+          "symbol": "ASTEROID",
+          "market_cap_rank": 229
+        },
+        {
+          "name": "Katana",
+          "symbol": "KAT",
+          "market_cap_rank": 649
+        },
+        {
+          "name": "RaveDAO",
+          "symbol": "RAVE",
+          "market_cap_rank": 154
         },
         {
           "name": "Solana",
@@ -271,10 +271,9 @@
       "count": 0,
       "items": [],
       "citations": [
+        "https://www.youtube.com/watch?v=DR9-ZXk46sQ",
         "https://tradingeconomics.com/calendar",
-        "https://tradingeconomics.com/united-states/calendar",
-        "https://www.federalreserve.gov/recentpostings.htm",
-        "https://www.imf.org/en/blogs"
+        "https://tradingeconomics.com/united-states/calendar"
       ]
     },
     "crypto_news": {
@@ -282,46 +281,39 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Bitcoin Surges Past $79,000 on ETF Inflows and Short Squeeze",
-          "summary": "Bitcoin reached an 11-week high above $79,000 amid $1.5 billion in ETF inflows, $330 million in liquidations, and momentum from a reported Iran ceasefire extension by Trump. The price is consolidating around $77,000-$79,000 with eyes on $80,000 resistance.",
-          "source": "Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency"
+          "title": "Bitcoin Rallies to $79,000 on ETF Inflows and Short Squeeze",
+          "summary": "Bitcoin surged 4.3% over 24 hours to reach $78,794.56, hitting a two-month high of $79,180 as $1.5 billion in spot Bitcoin ETF inflows provided support. The rally triggered approximately $200 million in short liquidations.",
+          "source": "Investing News Network / CNBC",
+          "url": "https://investingnews.com/cryptocurrency-market-recap/"
         },
         {
-          "title": "Bitcoin Rally Liquidates $200M in Short Positions",
-          "summary": "Bitcoin's sharp rally to $79,000 caught shorts offside, leading to over $200 million in liquidations and contributing to the price surge near multi-month highs.",
-          "source": "TradingView",
-          "url": "https://www.tradingview.com/news/newsbtc:185c5e928094b:0-bitcoin-rally-catches-shorts-offside-200m-liquidated-as-price-hits-79-000/"
+          "title": "Altcoins Rally Alongside Bitcoin: Solana Up 2.7%, XRP Up 1.6%",
+          "summary": "Major altcoins gained ground as Solana (SOL) traded at $87.37 with a 2.7% 24-hour increase, while XRP rose 1.6% to $1.44, reflecting broader market strength driven by institutional ETF activity.",
+          "source": "Investing News Network",
+          "url": "https://investingnews.com/cryptocurrency-market-recap/"
         },
         {
-          "title": "Arbitrum Security Council Freezes $71M ETH Linked to Kelp Exploit",
-          "summary": "Arbitrum froze 30,766 ETH (worth $71 million) tied to the Kelp exploit, recovering about a quarter of stolen funds via a governance-controlled wallet amid rising DeFi security concerns.",
-          "source": "YouTube (Crypto News Video)",
-          "url": "https://www.youtube.com/watch?v=0CtKLk7c5qk"
+          "title": "Tron Founder Justin Sun Sues Trump-Linked World Liberty Financial Over WLFI Token Dispute",
+          "summary": "Justin Sun filed a federal lawsuit in California against World Liberty Financial, alleging the development team maliciously blacklisted his wallet, stripped voting rights, and threatened to destroy his holdings. Sun had invested $75 million in WLFI tokens, making him the project's largest individual backer.",
+          "source": "Investing News Network",
+          "url": "https://investingnews.com/cryptocurrency-market-recap/"
         },
         {
-          "title": "Circle Faces Class Action Lawsuit Over Hack Response",
-          "summary": "Circle is sued for failing to freeze tokens during a hack without a court order, highlighting stablecoin security risks as wet markets also freeze assets post-exploits.",
-          "source": "YouTube (Crypto News Video)",
-          "url": "https://www.youtube.com/watch?v=0CtKLk7c5qk"
-        },
-        {
-          "title": "Crypto Market Cap Dips 0.8% to $2.6T as Altcoins Face Pressure",
-          "summary": "The total crypto market capitalization fell 0.8% to $2.6 trillion in the past 24 hours, with altcoins under pressure while Bitcoin holds firm near recent highs.",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/analysis/crypto-market-pauses-as-bitcoin-holds-firm-200679026"
+          "title": "Crypto Market Shows Mixed Signals: ETF Support Offset by DeFi Stress",
+          "summary": "Amberdata analysts identified four interconnected trends indicating the post-rally recovery driven by derivatives is ending, with ETF inflows providing spot support but perpetuals showing weakness, DeFi lending stressed, and stablecoin supply contracting.",
+          "source": "Investing News Network",
+          "url": "https://investingnews.com/cryptocurrency-market-recap/"
         }
       ],
       "citations": [
+        "https://investingnews.com/cryptocurrency-market-recap/",
+        "https://www.binance.com/en/square/post/315577982567106",
         "https://economictimes.indiatimes.com/markets/cryptocurrency",
-        "https://www.binance.com/en-IN/square/post/315577982567106",
-        "https://www.investing.com/analysis/crypto-market-pauses-as-bitcoin-holds-firm-200679026",
-        "https://www.youtube.com/watch?v=0CtKLk7c5qk",
-        "https://bitcoinfoundation.org/news/bitcoin/bitcoin-price-eyes-80k-institutional-demand/",
-        "https://www.tradingview.com/news/newsbtc:185c5e928094b:0-bitcoin-rally-catches-shorts-offside-200m-liquidated-as-price-hits-79-000/"
+        "https://www.tradingview.com/news/newsbtc:185c5e928094b:0-bitcoin-rally-catches-shorts-offside-200m-liquidated-as-price-hits-79-000/",
+        "https://www.youtube.com/watch?v=o9tmfxvSvNM"
       ]
     },
     "ai_news": {
@@ -329,40 +321,34 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "OpenAI Releases GPT Image 2.5 with Massive Leap in Photorealism",
-          "summary": "GPT Image 2.5 achieves the biggest jump in AI image generation in over a year, featuring perfect photorealistic human faces, advanced lighting, accurate text in images, and flawless screenshots. It scores a +300 Elo jump on LLM Arena, enabling production-grade ads and fake dashboards from text prompts.",
-          "source": "YouTube - AI Explained",
+          "title": "OpenAI Releases GPT Image 2.5 with Major Photorealism Leap",
+          "summary": "OpenAI's GPT Image 2.5 achieves the biggest jump in AI image generation in over a year, featuring perfect photorealistic human faces, advanced lighting, accurate complex text, flawless screenshots, and multiple images within images. It scores a +300 Elo jump on LLM Arena, enabling production-grade ads and fake dashboards from text prompts.[1]",
+          "source": "YouTube - AI Commentary",
           "url": "https://www.youtube.com/watch?v=HFYMVRbVuYY"
         },
         {
-          "title": "Seedance 2.0 Launches as Powerful AI Video Generation Tool",
-          "summary": "Higgsfield releases Seedance 2.0, hailed as the most powerful video generation model, supporting one-prompt product ads with multi-angles, camera movement, consistent characters, and integration into real-world videos. Workflows demonstrated for turning blockouts into final renders using ComfyUI.",
-          "source": "YouTube - Matt Loui & Purz",
-          "url": "https://www.youtube.com/watch?v=-k6BAe27dDU"
+          "title": "Seedance 2.0 Enables AI-Driven Workflow from Blockout to Final Render",
+          "summary": "Seedance 2.0 introduces a ComfyUI workflow that transforms raw CG playblasts into final rendered shots, preserving animation and camera while using AI for consistency and production-ready styles. This hybrid pipeline is expected to boost indie studios and reduce traditional rendering needs.[6]",
+          "source": "YouTube - Seedance Demo",
+          "url": "https://www.youtube.com/watch?v=5DfpOf6VPR4"
         },
         {
-          "title": "AI Agent Operates Real San Francisco Storefront and Hires Employees",
-          "summary": "An AI agent is running a physical storefront in San Francisco, managing operations and hiring human employees, marking a practical application of AI in retail.",
+          "title": "AI Agent Operates Real San Francisco Storefront and Hires Humans",
+          "summary": "An AI agent is running a physical storefront in San Francisco, managing operations and even hiring human employees, marking a practical advancement in AI autonomy for real-world business.[3][4]",
           "source": "ABC News",
-          "url": "https://abcnews.com/video/132300246/"
-        },
-        {
-          "title": "Abundly Demos Human + AI-Agent Development Team for Daily Releases",
-          "summary": "Abundly showcases an AI agent system with Cursor for coding, Backlogger for tickets, Releaser for deployments, and Grace for stakeholder coordination, enabling daily platform releases alongside human engineers.",
-          "source": "YouTube - Abundly",
-          "url": "https://www.youtube.com/watch?v=uo_2agdiAlg"
+          "url": "https://abcnews.com/video/132306053/"
         }
       ],
       "citations": [
         "https://www.youtube.com/watch?v=HFYMVRbVuYY",
+        "https://www.youtube.com/watch?v=reYsMCwRXAA",
+        "https://abcnews.com/video/132306053/",
         "https://abcnews.com/video/132300246/",
-        "https://www.youtube.com/watch?v=uo_2agdiAlg",
-        "https://www.youtube.com/watch?v=5DfpOf6VPR4",
-        "https://www.youtube.com/watch?v=-k6BAe27dDU",
-        "https://www.youtube.com/watch?v=Bv0nJov99CE"
+        "https://www.youtube.com/watch?v=a68BzKEVaqY",
+        "https://www.youtube.com/watch?v=5DfpOf6VPR4"
       ]
     },
     "gaming": {
@@ -370,14 +356,58 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 7,
+      "items": [
+        {
+          "title": "Annapurna Announces Switch 2 Ports of Five Games",
+          "summary": "Annapurna has announced Switch 2 ports of five games, with Sayonara Wild Hearts and Lorelei and the Laser Eyes releasing today. Owners of Switch versions can upgrade for free, with Stray coming next month.",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "Xbox Game Pass Cuts Prices and Removes Launch-Day Call of Duty Games",
+          "summary": "Xbox is cutting Game Pass prices, with Game Pass Ultimate dropping from $29.99 to $22.99 per month. However, new Call of Duty games will no longer launch day-one on the service.",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "Ecco the Dolphin Complete Collection Announced",
+          "summary": "Ecco the Dolphin Complete has been announced, containing the first two games and a new 'contemporary' game, with development led by original creator Ed Annunziata.",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "Nintendo Sued Over Switch 2 Tariff Price Increases",
+          "summary": "Players have sued Nintendo, claiming they should receive tariff refunds from the US government after Nintendo raised prices on some Switch 2 accessories due to Trump's widespread tariffs.",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "Koei Tecmo Revises Profit Forecast Upward by 50%",
+          "summary": "Koei Tecmo has revised its FY2026 profit forecast 50% higher than originally predicted, citing strong game sales and investments.",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "Crimson Desert Version 1.04 Patch Released",
+          "summary": "Crimson Desert's Version 1.04 patch is now rolling out on PC and consoles, adding difficulty levels, graphical improvements, and new storage items.",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "Google Exec: Almost Every Major Studio Uses AI in Game Development",
+          "summary": "Google Cloud's games boss states that almost every major studio uses AI tools, though not all disclose it, citing Capcom as one major studio openly using AI.",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        }
+      ],
       "citations": [
-        "https://www.youtube.com/watch?v=nM0LAdhXIx4",
-        "https://www.nhl.com/video/ana-edm-poehling-scores-shg-against-connor-ingram-6393687562112",
-        "https://www.youtube.com/watch?v=RDpBuiu0ql8",
-        "https://www.nhl.com/video/all-of-wednesday-s-playoff-goals-6393694751112",
-        "https://www.youtube.com/watch?v=eNv1HMeZx6c"
+        "https://www.videogameschronicle.com/category/news/",
+        "https://www.thegamer.com",
+        "https://gamerant.com/gaming/",
+        "https://www.youtube.com/watch?v=eoB_Dn80jJY&vl=id",
+        "https://gameinformer.com/news",
+        "https://www.gamingbible.com/news"
       ]
     },
     "tech_news": {
@@ -385,51 +415,46 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Quantum Motion Deploys First Full-Stack Silicon Quantum Computer",
-          "summary": "Quantum Motion has achieved a milestone by deploying the first full-stack quantum computer using standard silicon chip fabrication processes. This development could accelerate the path to scalable quantum computing systems.",
-          "source": "TechNewsWorld",
-          "url": "https://www.technewsworld.com"
+          "title": "SpaceX Plans Substantial Capital Expenditures for In-House GPU Manufacturing",
+          "summary": "SpaceX is planning major investments in manufacturing its own GPUs as part of its push into AI infrastructure ahead of a potential IPO, aiming to reduce reliance on external chip suppliers. This ties into Elon Musk's Terafab project involving SpaceX, Tesla, and xAI.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/04/23/top-tech-news-today-april-23-2026/"
         },
         {
-          "title": "Google and Qualcomm Push Android PCs into Mainstream",
-          "summary": "Google and Qualcomm are advancing Android PCs to challenge Microsoft and Apple in personal computing. The initiative aims to scale the mobile OS to desktops for a unified computing experience.",
-          "source": "TechNewsWorld",
-          "url": "https://www.technewsworld.com"
-        },
-        {
-          "title": "TSMC Delays Use of ASML's High-NA EUV Machines Until 2030",
-          "summary": "TSMC announced it will hold off on deploying ASML's advanced high-NA EUV lithography machines, costing over €350M each, for chip production through 2029 to reduce costs.",
+          "title": "TSMC Delays Adoption of ASML's High-NA EUV Machines Until After 2029",
+          "summary": "TSMC will hold off on using ASML's advanced high-NA EUV lithography machines, costing over €350M each, for chip production through 2029 to cut costs. The decision reflects efforts to manage expenses in semiconductor manufacturing.",
           "source": "Techmeme",
           "url": "https://www.techmeme.com"
         },
         {
-          "title": "Tesla Plans to Use Intel's 14A Process for Terafab Chip Project",
-          "summary": "Elon Musk stated Tesla will utilize Intel's next-generation 14A manufacturing process for chips at its Terafab project, positioning Tesla as Intel's first major customer for this technology.",
+          "title": "Tesla to Use Intel's 14A Process for Chips at Terafab Project",
+          "summary": "Elon Musk announced Tesla plans to utilize Intel's next-generation 14A manufacturing process for chips at its Terafab facility, positioning Tesla as the first major customer. This supports Tesla's expanded spending on robotics and infrastructure.",
           "source": "Techmeme",
           "url": "https://www.techmeme.com"
+        },
+        {
+          "title": "Tesla Boosts Capital Spending to $25 Billion for Robotics and Infrastructure",
+          "summary": "Tesla has increased its capital expenditure plan to $25 billion, nearly triple the previous year's amount, focusing on robotics and related projects. The surge underscores aggressive expansion in hardware manufacturing.",
+          "source": "Bloomberg Daybreak Europe",
+          "url": "https://www.youtube.com/watch?v=9-r5en-kONs"
         },
         {
           "title": "Cloudsmith Raises $72M in Series C Funding",
-          "summary": "Cloudsmith, a cloud-native platform for managing software artifacts, secured $72 million in Series C funding after a $23M Series B in 2025. The funding supports its software component protection services.",
+          "summary": "Cloudsmith, a cloud-native platform for managing and securing software artifacts, secured $72 million in Series C funding after a $23M Series B in 2025. The investment supports growth in software supply chain security.",
           "source": "Techmeme",
           "url": "https://www.techmeme.com"
-        },
-        {
-          "title": "Deutsche Telekom Explores Merger with T-Mobile US",
-          "summary": "Deutsche Telekom is seeking a potential combination with T-Mobile US amid global telecom sector consolidation. This follows discussions of major telecom mergers and financial stresses in the industry.",
-          "source": "Bloomberg Tech (YouTube)",
-          "url": "https://www.youtube.com/watch?v=4Z_SFa27tB0"
         }
       ],
       "citations": [
-        "https://www.technewsworld.com",
+        "https://techstartups.com/2026/04/23/top-tech-news-today-april-23-2026/",
         "https://www.techmeme.com",
-        "https://www.youtube.com/watch?v=4Z_SFa27tB0",
         "https://www.investing.com/news/technology-news",
-        "https://www.youtube.com/watch?v=HGN4f-h1eW0"
+        "https://www.youtube.com/watch?v=4Z_SFa27tB0",
+        "https://www.youtube.com/watch?v=9-r5en-kONs",
+        "https://phys.org"
       ]
     }
   }
