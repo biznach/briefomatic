@@ -1,163 +1,11 @@
 {
-  "generated_at": "2026-04-25T18:15:27.170776+00:00",
-  "generated_at_human": "2026-04-25 18:15 UTC",
+  "generated_at": "2026-04-26T00:35:31.079141+00:00",
+  "generated_at_human": "2026-04-26 00:35 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "category": "tech_ai_nerd",
-      "count": 25,
-      "items": [
-        {
-          "title": "Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
-          "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
-          "score": 107,
-          "comments": 23
-        },
-        {
-          "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-          "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-          "score": 337,
-          "comments": 63
-        },
-        {
-          "title": "The Free Universal Construction Kit",
-          "url": "https://fffff.at/free-universal-construction-kit/",
-          "score": 44,
-          "comments": 7
-        },
-        {
-          "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-          "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-          "score": 438,
-          "comments": 255
-        },
-        {
-          "title": "Martin Galway's music source files from 1980's Commodore 64 games",
-          "url": "https://github.com/MartinGalway/C64_music",
-          "score": 114,
-          "comments": 16
-        },
-        {
-          "title": "Google plans to invest up to $40B in Anthropic",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-          "score": 745,
-          "comments": 717
-        },
-        {
-          "title": "What's Missing in the 'Agentic' Story",
-          "url": "https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains",
-          "score": 47,
-          "comments": 33
-        },
-        {
-          "title": "Desmond Morris, 98, Dies; Zoologist Saw Links Between Humans and Apes",
-          "url": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html",
-          "score": 44,
-          "comments": 4
-        },
-        {
-          "title": "GPT 5.5 biosafety bounty",
-          "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-          "score": 67,
-          "comments": 59
-        },
-        {
-          "title": "Insights into firewood use by early Middle Pleistocene hominins",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0277379126001824",
-          "score": 26,
-          "comments": 6
-        },
-        {
-          "title": "Discret 11, the French TV encryption of the 80s",
-          "url": "https://fabiensanglard.net/discret11/",
-          "score": 70,
-          "comments": 11
-        },
-        {
-          "title": "Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center",
-          "url": "https://boilingsteam.com/framework-laptop-13-pro-announced/",
-          "score": 32,
-          "comments": 4
-        },
-        {
-          "title": "A web-based RDP client built with Go WebAssembly and grdp",
-          "url": "https://github.com/nakagami/grdpwasm",
-          "score": 74,
-          "comments": 33
-        },
-        {
-          "title": "Lambda Calculus Benchmark for AI",
-          "url": "https://victortaelin.github.io/lambench/",
-          "score": 90,
-          "comments": 28
-        },
-        {
-          "title": "Which one is more important: more parameters or more computation? (2021)",
-          "url": "https://parl.ai/projects/params_vs_compute/",
-          "score": 16,
-          "comments": 1
-        },
-        {
-          "title": "What Async Promised and What It Delivered",
-          "url": "https://causality.blog/essays/what-async-promised/",
-          "score": 58,
-          "comments": 31
-        },
-        {
-          "title": "A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf] (2023)",
-          "url": "https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf",
-          "score": 36,
-          "comments": 16
-        },
-        {
-          "title": "HEALPix",
-          "url": "https://en.wikipedia.org/wiki/HEALPix",
-          "score": 30,
-          "comments": 5
-        },
-        {
-          "title": "Plain text has been around for decades and it’s here to stay",
-          "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-          "score": 219,
-          "comments": 109
-        },
-        {
-          "title": "Replace IBM Quantum back end with /dev/urandom",
-          "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-          "score": 274,
-          "comments": 41
-        },
-        {
-          "title": "A 3D Body from Eight Questions – No Photo, No GPU",
-          "url": "https://clad.you/blog/posts/questionnaire-mlp/",
-          "score": 119,
-          "comments": 22
-        },
-        {
-          "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-          "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-          "score": 490,
-          "comments": 121
-        },
-        {
-          "title": "Paraloid B-72",
-          "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-          "score": 252,
-          "comments": 47
-        },
-        {
-          "title": "My audio interface has SSH enabled by default",
-          "url": "https://hhh.hn/rodecaster-duo-fw/",
-          "score": 294,
-          "comments": 88
-        },
-        {
-          "title": "Humpback whales are forming super-groups",
-          "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-          "score": 181,
-          "comments": 95
-        }
-      ]
+      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/47884625.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
+      "items": []
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -167,42 +15,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 77293,
-          "change_24h": -0.18,
-          "change_7d": 1.8,
-          "market_cap": 1547579851105
+          "price": 77511,
+          "change_24h": 0.18,
+          "change_7d": 2.35,
+          "market_cap": 1550996282241
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2310.96,
-          "change_24h": -0.03,
-          "change_7d": -2.11,
-          "market_cap": 278943449872
+          "price": 2316.06,
+          "change_24h": 0.12,
+          "change_7d": -1.48,
+          "market_cap": 279401426086
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 85.73,
-          "change_24h": -0.73,
-          "change_7d": -1.24,
-          "market_cap": 49360382370
+          "price": 86.09,
+          "change_24h": -0.06,
+          "change_7d": -0.27,
+          "market_cap": 49542284384
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.097655,
-          "change_24h": -0.28,
-          "change_7d": 2.19,
-          "market_cap": 15045451367
+          "price": 0.097826,
+          "change_24h": -0.3,
+          "change_7d": 3.01,
+          "market_cap": 15047260459
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.248647,
-          "change_24h": -1.15,
-          "change_7d": -0.25,
-          "market_cap": 9195738359
+          "price": 0.249665,
+          "change_24h": -0.05,
+          "change_7d": -0.14,
+          "market_cap": 9225281289
         }
       ]
     },
@@ -214,22 +62,22 @@
         {
           "name": "Ultima",
           "symbol": "ULTIMA",
-          "market_cap_rank": 258
-        },
-        {
-          "name": "Hyperlane",
-          "symbol": "HYPER",
-          "market_cap_rank": 455
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 100
+          "market_cap_rank": 260
         },
         {
           "name": "Official Trump",
           "symbol": "TRUMP",
-          "market_cap_rank": 94
+          "market_cap_rank": 91
+        },
+        {
+          "name": "Axie Infinity",
+          "symbol": "AXS",
+          "market_cap_rank": 156
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 99
         },
         {
           "name": "USD.AI",
@@ -237,24 +85,24 @@
           "market_cap_rank": 227
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "Block Street",
-          "symbol": "BSB",
-          "market_cap_rank": 216
-        },
-        {
           "name": "ApeCoin",
           "symbol": "APE",
-          "market_cap_rank": 210
+          "market_cap_rank": 213
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 13
         },
         {
           "name": "RaveDAO",
           "symbol": "RAVE",
-          "market_cap_rank": 170
+          "market_cap_rank": 166
+        },
+        {
+          "name": "Block Street",
+          "symbol": "BSB",
+          "market_cap_rank": 221
         },
         {
           "name": "Solana",
@@ -268,51 +116,45 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "title": "US Justice Department Drops Probe into Fed Chair Jerome Powell",
-          "summary": "The US Justice Department has dropped its investigation into Federal Reserve Chair Jerome Powell, related to Fed renovations or other matters, easing potential drama around the Fed leadership. This development comes amid ongoing economic uncertainties.",
+          "summary": "The DOJ has dropped its investigation into Federal Reserve Chair Jerome Powell, though a partial reversal keeps some drama alive. This follows earlier probes into Fed renovations and removes a key uncertainty for the central bank.",
           "source": "CBS Los Angeles",
           "url": "https://www.newsnow.co.uk/h/World+News/US/Economy"
         },
         {
-          "title": "US Unemployment Claims Rise to 214,000 in April Amid Labor Market Uncertainty",
-          "summary": "New US unemployment claims reached 214,000 in April, signaling an 'uncertainty' test for the labor market. This reflects mixed economic signals with high PMI but low consumer confidence.",
+          "title": "US Unemployment Claims Rise to 214,000 Amid Labor Market Uncertainty",
+          "summary": "New unemployment claims reached 214,000 in April, signaling uncertainty in the US labor market. This comes as economists highlight mixed signals with high PMI but low consumer confidence.",
           "source": "Iraqi News Agency",
           "url": "https://www.newsnow.co.uk/h/World+News/US/Economy"
         },
         {
-          "title": "Gallup Poll: 47% of Americans Rate Economy as 'Poor,' 73% Say It's Worsening",
-          "summary": "Nearly half of Americans (47%) describe current economic conditions as 'poor,' up 7 points from March, with 73% believing the economy is deteriorating. The Gallup Economic Confidence Index fell to -38, the lowest since November 2023.",
-          "source": "6ABC",
-          "url": "https://6abc.com/post/americans-are-unhappy-economy-reeling-high-prices-polls-say/18966050/"
+          "title": "Americans' Economic Pessimism Hits New Lows with 47% Rating Conditions Poor",
+          "summary": "Gallup polls show 47% of Americans rating current economic conditions as poor, up 7 points from March, with 73% saying the economy is worsening. The Economic Confidence Index dropped to -38, the lowest since November 2023.",
+          "source": "ABC7 News",
+          "url": "https://abc7news.com/post/americans-are-unhappy-economy-reeling-high-prices-polls-say/18966050/"
         },
         {
-          "title": "US Treasury Sanctions Chinese Refinery Hengli for Iranian Oil Purchases",
-          "summary": "The US Treasury's 'Economic Fury' action sanctioned China-based Hengli Petrochemical for buying billions in Iranian oil, targeting Iran's petroleum sector and shadow fleet to curb aggression and nuclear activities.",
-          "source": "US Department of the Treasury",
-          "url": "https://home.treasury.gov/news/press-releases/sb0472"
-        },
-        {
-          "title": "Comex Gold Drops $53/oz, Silver Down $3.7/oz Amid Oil Rebound",
-          "summary": "Gold and silver prices fell with Comex gold down $53 per ounce and silver down $3.7 per ounce, influenced by an oil rebound and focus on Fed outlook amid Iran tensions.",
-          "source": "Mint",
+          "title": "Economists Predict Dire Inflation Outlook Amid Iran War Tensions",
+          "summary": "Economists warn of rising inflation pressures due to the Iran war, with calls for the Fed to respond to oil shocks. Gold prices gained on Iran talks optimism while Comex gold dropped $53/oz earlier.",
+          "source": "The Independent",
           "url": "https://www.newsnow.co.uk/h/World+News/US/Economy"
         },
         {
-          "title": "Economists Predict Dire Inflation Amid Iran War Tensions",
-          "summary": "Economists warn of worsening inflation due to the Iran war, with calls for the Fed to respond to oil shocks to build credibility. Gold gains on Iran talks optimism.",
-          "source": "The Independent",
+          "title": "Mixed US Economic Signals: High PMI Contrasts Low Consumer Confidence",
+          "summary": "US economy shows high PMI but low consumer confidence, creating mixed signals amid ongoing inflation concerns. Polls indicate most voters blame external factors for economic woes.",
+          "source": "Cryptopolitan",
           "url": "https://www.newsnow.co.uk/h/World+News/US/Economy"
         }
       ],
       "citations": [
         "https://www.newsnow.co.uk/h/World+News/US/Economy",
-        "https://6abc.com/post/americans-are-unhappy-economy-reeling-high-prices-polls-say/18966050/",
         "https://tradingeconomics.com/calendar",
-        "https://home.treasury.gov/news/press-releases/sb0472",
-        "https://www.marketplace.org"
+        "https://abc7news.com/post/americans-are-unhappy-economy-reeling-high-prices-polls-say/18966050/",
+        "https://tradingeconomics.com/united-states/calendar",
+        "https://paulkrugman.substack.com/p/talking-vibes-with-jared-bernstein"
       ]
     },
     "crypto_news": {
@@ -320,39 +162,52 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Bitcoin Consolidates Near $77,590 Amid Market Uncertainty",
-          "summary": "Bitcoin traded between $77,264 and $78,479 over the past 24 hours, currently at $77,590 (up 0.12%). The cryptocurrency is pressing against key overhead resistance as the market awaits clear directional signals.",
-          "source": "Binance",
+          "title": "Crypto Futures Liquidations Exceed $137M-185M with BTC, ETH, APE Leading Losses",
+          "summary": "Crypto futures markets saw massive liquidations totaling $137M to $185M in the past 24 hours, primarily long positions in Bitcoin ($12.6M-$14.4M), Ethereum ($6.3M-$24.7M), and APE ($82M). This reflects high volatility and leverage amid market corrections.",
+          "source": "CryptoRank, WEEX, CoinGlass",
+          "url": "https://cryptorank.io/news/feed/72687-crypto-futures-liquidations-surge-5"
+        },
+        {
+          "title": "Bitcoin Trades Sideways Around $77K with Minor Fluctuations",
+          "summary": "Bitcoin traded between $77,264-$78,479, closing at $77,590 (up 0.12%) amid $137M+ liquidations, while other reports note consolidation near $74,500-$78,000 and a 0.9% decline. Large holders (sharks) continue silent accumulation despite uncertainty.",
+          "source": "Binance Square, TradingView, Economic Times",
           "url": "https://www.binance.com/en/square/post/316285774382786"
         },
         {
-          "title": "Crypto Market Sees $185 Million in Liquidations",
-          "summary": "The cryptocurrency market experienced $185 million in total liquidations in the past 24 hours, affecting 99,824 traders. Bitcoin liquidations reached $14.4 million and Ethereum $10.1 million, with the largest single liquidation at $4.7 million on Binance's BTC-USDT pair.",
-          "source": "WEEX",
-          "url": "https://www.weex.com/news/detail/data-in-the-past-24-hours-the-entire-network-has-liquidated-185-million-with-both-long-and-short-positions-being-liquidated-712212"
+          "title": "Solana Foundation Lends USDT to Aave, Plans Weekend Integration",
+          "summary": "The Solana Foundation lent USDT to Aave and announced plans to integrate Aave on Solana this weekend, boosting DeFi prospects on the chain. Meanwhile, BNB Chain led with 50.8M active users over 30 days.",
+          "source": "MEXC",
+          "url": "https://www.mexc.com/news/flash"
         },
         {
-          "title": "Altcoins Show Mixed Performance With Notable Gainers",
-          "summary": "Algorand, Cosmos Hub, and Zcash led gains with increases of 5.71%, 5.17%, and 4.63% respectively, while some altcoins like Stable declined 13.17% over the period.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency"
+          "title": "Ethereum Shows Resilience with Best Month Since August 2025",
+          "summary": "Ethereum formed higher lows over 8 years and marked its best month since August 2025, signaling positive momentum. 14 participants joined DeFi United, contributing 69,642 ETH ($161M).",
+          "source": "MEXC",
+          "url": "https://www.mexc.com/news/flash"
         },
         {
-          "title": "Bitcoin 'Sharks' Accumulate Amid Market Consolidation",
-          "summary": "Large traders are quietly accumulating Bitcoin positions as the market experiences minimal price action, with Bitcoin declining 0.9% over the past 24 hours following a relatively flat trading week.",
-          "source": "TradingView/NewsBTC",
-          "url": "https://www.tradingview.com/news/newsbtc:ce62894e5094b:0-bitcoin-sharks-silently-accumulate-amid-market-uncertainty-details/"
+          "title": "AWS Integrates Chainlink for Blockchain-Cloud Interoperability",
+          "summary": "Amazon Web Services (AWS) integrated Chainlink, highlighting advancements in blockchain-cloud interoperability. XRP showed bullish signals with mid-day confirmation and potential market impact.",
+          "source": "MEXC",
+          "url": "https://www.mexc.com/news/flash"
+        },
+        {
+          "title": "TRADOOR Token Crashes 90% Below $1 Amid Warnings on Risky Assets",
+          "summary": "TRADOOR token plummeted over 90% below $1, prompting warnings against high-risk tokens. 90% of Solana tokens face value challenges, with a new launchpad claiming prevention measures.",
+          "source": "MEXC",
+          "url": "https://www.mexc.com/news/flash"
         }
       ],
       "citations": [
+        "https://cryptorank.io/news/feed/72687-crypto-futures-liquidations-surge-5",
         "https://www.binance.com/en/square/post/316285774382786",
-        "https://www.weex.com/news/detail/data-in-the-past-24-hours-the-entire-network-has-liquidated-185-million-with-both-long-and-short-positions-being-liquidated-712212",
+        "https://www.mexc.com/news/flash",
+        "https://www.weex.com/news/detail/data-in-the-past-24-hours-the-total-liquidation-across-the-network-was-173-million-usd-with-long-positions-liquidated-at-107-million-usd-and-short-positions-liquidated-at-660149-million-usd-712272",
         "https://economictimes.indiatimes.com/markets/cryptocurrency",
-        "https://www.tradingview.com/news/newsbtc:ce62894e5094b:0-bitcoin-sharks-silently-accumulate-amid-market-uncertainty-details/",
-        "https://www.investing.com/analysis/bitcoin-tests-80k-while-market-waits-for-clear-direction-200679139"
+        "https://www.tradingview.com/news/newsbtc:ce62894e5094b:0-bitcoin-sharks-silently-accumulate-amid-market-uncertainty-details/"
       ]
     },
     "ai_news": {
@@ -360,52 +215,35 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 3,
       "items": [
         {
-          "title": "Tencent Releases Hy3 Preview and Ling 2.6 Flash AI Models",
-          "summary": "Tencent unveiled Hy3 preview, a high-efficiency Mixture-of-Experts model for agentic workflows with configurable reasoning levels, and Ling-2.6-1T, a trillion-parameter instant model using 'fast thinking' to cut costs while maintaining top performance.[2]",
+          "title": "DeepSeek Releases DeepSeek-V4 with Drastically Reduced Costs",
+          "summary": "Chinese startup DeepSeek released DeepSeek-V4 on Friday with ultra-long context support of one million tokens and drastically reduced compute and memory costs. The model is adapted to run on Huawei chip technology and available as an open-source preview version.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=ON-a-bh4oDg"
+        },
+        {
+          "title": "Tencent Releases Hy3 Preview and Ling-2.6-1T AI Models",
+          "summary": "Tencent unveiled Hy3 preview, a high-efficiency Mixture-of-Experts model for agentic workflows with configurable reasoning levels. inclusionAI also released Ling-2.6-1T, a trillion-parameter model designed for fast execution with costs roughly a quarter of comparable models.",
           "source": "YouTube",
           "url": "https://www.youtube.com/watch?v=hCJOsNkovl8"
         },
         {
-          "title": "ComfyUI Raises $30M at $500M Valuation for Open-Source AI Infrastructure",
-          "summary": "ComfyUI announced a $30M financing round led by Craft Ventures, bringing total funding to $47M, to develop open-source AI tools for creative professionals.[5]",
+          "title": "Claude Opus 4.6 Demonstrates Advanced Task Completion Capabilities",
+          "summary": "As of February 2026, Claude Opus 4.6 can complete tasks that would take humans nearly 12 hours, highlighting significant advances in AI productivity and autonomous task execution.",
           "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=K2WkUxov0Tw"
-        },
-        {
-          "title": "Intel Reports Strong AI-Driven Data Center Revenue Beat",
-          "summary": "Intel's data center segment generated $5.1B in quarterly revenue, exceeding expectations, with CEO Lip-Bu Tan highlighting the shift to inference and agentic AI boosting demand for Intel CPUs and packaging.[3]",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=TGtgqm6JHaM"
-        },
-        {
-          "title": "America's Largest AI Robot Data Factory Opens in Watertown, Massachusetts",
-          "summary": "Tutor Intelligence launched Data Factory One, the largest AI robot data facility in the US, training robots on simple human tasks like a 'kindergarten for robots'.[1]",
-          "source": "WBZ-TV via YouTube",
-          "url": "https://www.youtube.com/watch?v=9sjfGfBkTuU"
-        },
-        {
-          "title": "Thrive Launches Thrive Eternal AI Initiative",
-          "summary": "Thrive announced the launch of Thrive Eternal, a major new AI project amid discussions on industry developments including Cursor's SpaceX deal.[3]",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=TGtgqm6JHaM"
-        },
-        {
-          "title": "Tech Industry Layoffs Surge, Impacting AI and Machine Learning Workers",
-          "summary": "Mounting layoffs across tech, including recent Meta cuts, are leaving thousands jobless in a crowded market, straining workers in AI-related fields.[6]",
-          "source": "KPIX CBS NEWS BAY AREA via YouTube",
-          "url": "https://www.youtube.com/watch?v=t9GtojsahBc"
+          "url": "https://www.youtube.com/watch?v=Hx5dIJ3H8p4"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=9sjfGfBkTuU",
+        "https://www.youtube.com/watch?v=ON-a-bh4oDg",
+        "https://www.youtube.com/watch?v=y4wAIXjTK2E",
+        "https://www.youtube.com/watch?v=Hx5dIJ3H8p4",
         "https://www.youtube.com/watch?v=hCJOsNkovl8",
-        "https://www.youtube.com/watch?v=TGtgqm6JHaM",
         "https://www.youtube.com/watch?v=RT09WX9_hqY",
-        "https://www.youtube.com/watch?v=K2WkUxov0Tw",
-        "https://www.youtube.com/watch?v=t9GtojsahBc"
+        "https://www.youtube.com/watch?v=2HluWQN7Ix4",
+        "https://www.youtube.com/watch?v=8hylGVjjGTM&vl=en"
       ]
     },
     "gaming": {
@@ -416,39 +254,39 @@
       "count": 4,
       "items": [
         {
-          "title": "Biggest Game Releases of May 2026 Announced",
-          "summary": "May 2026 features major releases including Forza Horizon 6, Indiana Jones and the Great Circle on Switch 2, LEGO Batman: Legacy of the Dark Knight, 007: First Light, and Lumentale: Memories of Trey.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=vum2n2aay5s"
+          "title": "Insomniac's Marvel's Venom Game Rumors: Cancellation Claims Debunked",
+          "summary": "Shocking claims emerged that Insomniac's Venom video game and DLC were cancelled after Tony Todd's passing, but developers, insiders, and Jason Schreier pushed back, confirming it's still in development with potential PS5/PS6 cross-gen release.",
+          "source": "YouTube - Gaming News Channel",
+          "url": "https://www.youtube.com/watch?v=m7KJnDjwQ4U"
         },
         {
-          "title": "This Week in Fighting Game News Covers Multiple Updates",
-          "summary": "Recent fighting game developments include Street Fighter 6, Dragon Ball FighterZ, Invincible Vs. open beta recap, 2XKO, Avatar Legends, and Guilty Gear Strive, with Riot boosting prize pools for EVO and Battle Coliseum to $75,000.",
-          "source": "Sajam YouTube",
-          "url": "https://www.youtube.com/watch?v=B_18SoqKQRs"
+          "title": "World of Warcraft Patch 12.0.5 Launches with Major Bugs",
+          "summary": "WoW's Patch 12.0.5 is described as the buggiest in history, featuring broken bonus rolls, disabled strafing, and AFK issues in Decor Duel despite hotfixes.",
+          "source": "YouTube - HazelNuttyGames",
+          "url": "https://www.youtube.com/watch?v=APwLqRp6V8k"
         },
         {
-          "title": "Black Desert Online April 24 Glab Patch Introduces Massive Updates",
-          "summary": "The April 24th BDO Glab patch brings huge PvP updates, AoS changes, class balance, node wars return including two-hour sessions, and Siege rework.",
-          "source": "BlueSquadron YouTube",
-          "url": "https://www.youtube.com/watch?v=uR33I4s1_fc"
+          "title": "Biggest Gaming Leaks and News: Sony PS5 Pro, Nintendo Lawsuit, Xbox Changes",
+          "summary": "Weekly roundup covers PS5 Pro surprises, Nintendo lawsuit, Xbox Game Pass fixes under Asha Sharma, Minds Eye scandal, and Rockstar creator payment issues.",
+          "source": "YouTube - DailyHubRanx",
+          "url": "https://www.youtube.com/watch?v=FHlZEc7-Lbo"
         },
         {
-          "title": "Clash of Clans Update Sneak Peek Reveals New Troops and Features",
-          "summary": "New update includes troop and defense level increases, Sky Wagon Siege Machine, Logger Guardian, Electro Fangs Equipment, ranked mode improvements, and new leagues for CWL.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=3nnL5Bk1z14"
+          "title": "CMON Invests in NFTs Amid Board Game Lawsuit News",
+          "summary": "CMON announces investment in NFTs; separately, Watch It Played and Game Night Picks face lawsuit, with updates on upcoming board games like Earthborne: Trailblazer.",
+          "source": "YouTube - Board Game News",
+          "url": "https://www.youtube.com/watch?v=6U6T3WrImlM"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=vum2n2aay5s",
-        "https://www.youtube.com/watch?v=B_18SoqKQRs",
-        "https://www.youtube.com/watch?v=uR33I4s1_fc",
-        "https://www.youtube.com/watch?v=3nnL5Bk1z14",
-        "https://www.espn.com/video/clip/_/id/48588646",
-        "https://www.youtube.com/watch?v=Cv2vIZBdlZI",
-        "https://www.vikings.com/video/draft-room-call-domonique-orange-becomes-a-viking",
-        "https://www.azcardinals.com/video/one-on-one-with-jeremiyah-love"
+        "https://www.youtube.com/watch?v=m7KJnDjwQ4U",
+        "https://www.nhl.com/video/car-ott-stankoven-scores-ppg-against-linus-ullmark-6393888630112",
+        "https://www.youtube.com/watch?v=6U6T3WrImlM",
+        "https://www.azcardinals.com/video/highlights-carson-beck-s-top-plays",
+        "https://www.youtube.com/watch?v=FHlZEc7-Lbo",
+        "https://www.youtube.com/watch?v=npB8dqN9knM",
+        "https://www.youtube.com/watch?v=APwLqRp6V8k",
+        "https://www.vikings.com/video/draft-room-call-domonique-orange-becomes-a-viking"
       ]
     },
     "tech_news": {
@@ -456,40 +294,45 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "NASA's Curiosity Rover Discovers Most Diverse Organic Molecules On Mars",
-          "summary": "NASA's Curiosity Rover has discovered the most diverse organic molecules ever found on Mars, raising hopes of ancient life and providing guidance for future planetary missions.",
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/science"
+          "title": "Citizen Lab Uncovers Two Spying Campaigns Exploiting SS7 and Diameter Protocols in 2G-5G Networks",
+          "summary": "Security researchers detailed two campaigns abusing weaknesses in telecom protocols across 2G, 3G, 4G, and 5G networks to track locations globally.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com"
         },
         {
-          "title": "NASA Shuts Off Key Instrument On Voyager 1 To Extend Mission",
-          "summary": "NASA has shut off a key instrument on Voyager 1 that measured low-energy charged particles to preserve power and keep humanity's first interstellar explorer operational.",
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/science"
+          "title": "Tin Can's $100 Retro Wi-Fi Landline Phone Gains Traction in Schools to Reduce Smartphone Use",
+          "summary": "The viral Tin Can phone is being distributed by schools to students' homes to curb smartphone dependency.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com"
         },
         {
-          "title": "Robot Defeats Elite Table Tennis Players In Real Time",
-          "summary": "A breakthrough robot has demonstrated the ability to defeat elite table tennis players in real-time competition, marking a significant advancement in physical AI applications.",
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/science"
+          "title": "Samsung Mobile Division Faces First Annual Loss Due to RAM and Storage Shortages",
+          "summary": "Co-CEO TM Roh warned leaders of potential first-ever yearly loss for MX division amid escalating component shortages and costs.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com"
         },
         {
-          "title": "Security Researchers Uncover Two Spying Campaigns Exploiting Telecom Infrastructure",
-          "summary": "Citizen Lab has detailed two separate spying campaigns abusing weaknesses in SS7 and Diameter protocols across 2G, 3G, 4G, and 5G networks to track people's locations.",
-          "source": "TechCrunch via Techmeme",
+          "title": "Intel Shares Hit Record High on Strong Outlook Under CEO Lip-Bu Tan's Turnaround Efforts",
+          "summary": "Intel's upbeat forecast, strengthened balance sheet, and operational improvements signal progress in company recovery.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com"
+        },
+        {
+          "title": "$16B Financing Closes for Oracle's Massive Michigan Data Center",
+          "summary": "Bank of America sold $14B in bonds to fund the giant campus after prolonged negotiations.",
+          "source": "Techmeme",
           "url": "https://www.techmeme.com"
         }
       ],
       "citations": [
-        "https://www.technewsworld.com",
         "https://www.techmeme.com",
-        "https://interestingengineering.com/culture",
-        "https://www.eetimes.com/tag/advanced-technology/",
-        "https://www.newsfilecorp.com/news/technology",
-        "https://www.ndtv.com/science"
+        "https://llm-stats.com/ai-news",
+        "https://www.investing.com/news/technology-news",
+        "https://7news.com.au/technology",
+        "https://www.newsfilecorp.com/news/technology"
       ]
     }
   }
