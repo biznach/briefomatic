@@ -1,25 +1,26 @@
 # Daily Briefing
 
-*Generated: 2026-04-28 00:38 UTC*
+*Generated: 2026-04-28 06:56 UTC*
 
 **Market Overview**
-The cryptocurrency market has seen significant movements, with Bitcoin surging to $79,480 before reversing to $77,800. Ethereum and Solana have also experienced price fluctuations, with Ethereum down 2.77% and Solana down 2.23% in the last 24 hours. The macro market news is limited, but oil prices above $100 and a potential Fed rate hold may contribute to market volatility.
+The S&P 500 has posted its fifth consecutive weekly loss, with a 2% decline, amid Middle East tensions and a surge in oil prices to $112/barrel. The US Treasury yields have risen to 4.43% due to inflation concerns. In the crypto market, Bitcoin has dropped below $78K, with over $125 million in liquidations, while Ethereum has hit an intraday low of $2,267. The global crypto market capitalization has reached $2.64 trillion.
 
 **Tech & AI**
-Microsoft and OpenAI have ended their exclusive and revenue-sharing deal, marking a significant shift in the AI landscape. Researchers from MIT have developed EnergAIzer, a tool that predicts power consumption for AI workloads, addressing the growing energy demands of data centers. Additionally, 83% of leaders predict data infrastructure limits for AI growth within two years, and Lenovo reports that 70% of enterprise AI use is uncontrolled, posing risks and slowing ROI.
+Notable developments include the end of the exclusive partnership between OpenAI and Microsoft, signaling shifts in major AI industry collaborations. Additionally, there have been advancements in generative video technology, with realistic explosions, motion, and scale comparable to professional productions. Quantum computing's potential to reshape various industries has also been highlighted, although Wall Street remains divided on investment prospects.
 
 **Gaming & Entertainment**
-Notable gaming news includes the announcement of Nioh 3 with a PS5 demo available now, and the reveal of Bloodstained sequel 'The Scarlet Engagement'. Final Fantasy Tactics - The Ivalice Chronicles is set for a September launch. These developments indicate a busy period for the gaming industry, with several highly anticipated titles on the horizon.
+There is no significant gaming news in the provided data.
 
 **Key Insights**
-* The cryptocurrency market is experiencing significant price movements, with Bitcoin and Ethereum leading the charge.
-* AI is becoming increasingly central to various industries, including insurance, where it is transforming underwriting, claims processing, and fraud detection.
-* Data infrastructure limits may soon hinder AI growth, with 83% of leaders predicting this outcome within two years.
-* The gaming industry is seeing a surge in new announcements and releases, with several highly anticipated titles on the horizon.
+* The S&P 500's decline and rising US Treasury yields indicate market concerns about inflation and economic growth.
+* The crypto market has experienced significant liquidations, with Bitcoin and Ethereum prices retreating amid surging trading volumes and bearish sentiment.
+* Advancements in AI, such as generative video technology and quantum computing, have the potential to reshape various industries.
+* The end of the exclusive partnership between OpenAI and Microsoft may lead to changes in AI industry collaborations and market dynamics.
+* Oil price surges and Middle East tensions are contributing to market volatility.
 
 **Watch List**
-* Bitcoin and Ethereum price movements
-* AI adoption and infrastructure developments
-* Gaming industry releases and announcements
-* Oil prices and potential Fed rate hold
-* Microsoft and OpenAI's post-deal strategies and partnerships
+* US Federal Reserve's policy decision on April 28-29
+* Oil price movements and their impact on the market
+* Developments in the AI industry, particularly in quantum computing and generative video technology
+* Crypto market trends and potential shifts in market dynamics
+* Economic data releases, including labor market data, to assess the state of the economy
