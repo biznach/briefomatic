@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T12:35:20.012008+00:00",
-  "generated_at_human": "2026-04-29 12:35 UTC",
+  "generated_at": "2026-04-29T18:32:41.095879+00:00",
+  "generated_at_human": "2026-04-29 18:32 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,40 +8,112 @@
       "count": 25,
       "items": [
         {
+          "title": "Zed 1.0",
+          "url": "https://zed.dev/blog/zed-1-0",
+          "score": 937,
+          "comments": 314
+        },
+        {
+          "title": "We need a federation of forges",
+          "url": "https://blog.tangled.org/federation/",
+          "score": 395,
+          "comments": 206
+        },
+        {
+          "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+          "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+          "score": 92,
+          "comments": 15
+        },
+        {
+          "title": "Ramp's Sheets AI Exfiltrates Financials",
+          "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+          "score": 22,
+          "comments": 1
+        },
+        {
+          "title": "Copy Fail – CVE-2026-31431",
+          "url": "https://copy.fail/",
+          "score": 15,
+          "comments": 3
+        },
+        {
+          "title": "Online age verification is the hill to die on",
+          "url": "https://x.com/GlennMeder/status/2049088498163216560",
+          "score": 343,
+          "comments": 218
+        },
+        {
           "title": "Soft launch of open-source code platform for government",
           "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-          "score": 213,
-          "comments": 74
+          "score": 447,
+          "comments": 110
         },
         {
-          "title": "Ghostty is leaving GitHub",
-          "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-          "score": 2804,
-          "comments": 831
+          "title": "Third Editor Fired in Elsevier's Citation Cartel Crackdown",
+          "url": "https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation",
+          "score": 78,
+          "comments": 27
         },
         {
-          "title": "Bugs Rust won't catch",
-          "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-          "score": 384,
-          "comments": 189
+          "title": "Cursor Camp",
+          "url": "https://neal.fun/cursor-camp/",
+          "score": 96,
+          "comments": 13
         },
         {
-          "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-          "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-          "score": 68,
-          "comments": 14
+          "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+          "url": "https://github.com/GliaX/Stethoscope",
+          "score": 69,
+          "comments": 34
         },
         {
-          "title": "How ChatGPT serves ads",
-          "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-          "score": 389,
-          "comments": 257
+          "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+          "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+          "score": 90,
+          "comments": 34
         },
         {
-          "title": "Before GitHub",
-          "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-          "score": 521,
-          "comments": 159
+          "title": "How to Build the Future: Demis Hassabis [video]",
+          "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
+          "score": 20,
+          "comments": 6
+        },
+        {
+          "title": "Laws of UX",
+          "url": "https://lawsofux.com/",
+          "score": 16,
+          "comments": 2
+        },
+        {
+          "title": "Rise of the Forward Deployed Engineer",
+          "url": "https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/",
+          "score": 14,
+          "comments": 7
+        },
+        {
+          "title": "Mistral Medium 3.5",
+          "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+          "score": 243,
+          "comments": 142
+        },
+        {
+          "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
+          "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+          "score": 49,
+          "comments": 35
+        },
+        {
+          "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
+          "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
+          "score": 24,
+          "comments": 8
+        },
+        {
+          "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
+          "url": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
+          "score": 65,
+          "comments": 23
         },
         {
           "title": "Stardex Is Hiring a Founding Customer Success Lead",
@@ -50,112 +122,40 @@
           "comments": 0
         },
         {
-          "title": "HardenedBSD Is Now Officially on Radicle",
-          "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-          "score": 93,
-          "comments": 22
-        },
-        {
-          "title": "Why Law Is Law-Shaped",
-          "url": "https://lawvm.org/why-law-is-law-shaped/",
-          "score": 53,
-          "comments": 23
-        },
-        {
-          "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-          "url": "https://github.com/rocky-data/rocky",
-          "score": 72,
-          "comments": 11
-        },
-        {
-          "title": "Tell HN: An update from the new Tindie team",
-          "url": "https://news.ycombinator.com/item?id=47945522",
-          "score": 59,
-          "comments": 39
-        },
-        {
-          "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-          "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
-          "score": 180,
-          "comments": 43
-        },
-        {
-          "title": "Show HN: Rip.so – a graveyard for dead internet things",
-          "url": "https://rip.so",
-          "score": 87,
-          "comments": 65
-        },
-        {
-          "title": "Withnail's Coat and I",
-          "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
-          "score": 98,
-          "comments": 11
-        },
-        {
-          "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
-          "url": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
-          "score": 39,
-          "comments": 0
-        },
-        {
-          "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-          "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-          "score": 286,
-          "comments": 94
-        },
-        {
-          "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-          "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-          "score": 389,
-          "comments": 83
-        },
-        {
-          "title": "I won a championship that doesn't exist",
-          "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
-          "score": 184,
-          "comments": 104
-        },
-        {
-          "title": "Gallium oxide electronics withstand extreme cold",
-          "url": "https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/",
-          "score": 54,
+          "title": "GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+          "url": "https://github.com/DOS-History/Paterson-Listings",
+          "score": 81,
           "comments": 4
         },
         {
-          "title": "Who owns the code Claude Code wrote?",
-          "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-          "score": 440,
-          "comments": 404
+          "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+          "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+          "score": 90,
+          "comments": 18
         },
         {
-          "title": "Talkie: a 13B vintage language model from 1930",
-          "url": "https://talkie-lm.com/introducing-talkie",
-          "score": 715,
-          "comments": 296
+          "title": "Bugs Rust won't catch",
+          "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+          "score": 558,
+          "comments": 312
         },
         {
-          "title": "Coffee with a splash of physics: how to make the most out of your brew",
-          "url": "https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/",
-          "score": 4,
-          "comments": 0
+          "title": "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
+          "url": "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari",
+          "score": 44,
+          "comments": 43
         },
         {
-          "title": "Warp is now open-source",
-          "url": "https://www.warp.dev/blog/warp-is-now-open-source",
-          "score": 298,
-          "comments": 84
+          "title": "Ghostty is leaving GitHub",
+          "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+          "score": 3233,
+          "comments": 958
         },
         {
-          "title": "Your phone is about to stop being yours",
-          "url": "https://keepandroidopen.org/en/",
-          "score": 1459,
-          "comments": 693
-        },
-        {
-          "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
-          "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-          "score": 130,
-          "comments": 6
+          "title": "Before GitHub",
+          "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+          "score": 617,
+          "comments": 203
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 77033,
-          "change_24h": 1.03,
-          "change_7d": -1.42,
-          "market_cap": 1542394643917
+          "price": 75014,
+          "change_24h": -1.57,
+          "change_7d": -4.75,
+          "market_cap": 1504111960871
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2310.73,
-          "change_24h": 1.55,
-          "change_7d": -3.33,
-          "market_cap": 278877078353
+          "price": 2223.62,
+          "change_24h": -3.06,
+          "change_7d": -7.35,
+          "market_cap": 269293128114
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 84.01,
-          "change_24h": 0.8,
-          "change_7d": -4.88,
-          "market_cap": 48416139409
+          "price": 81.54,
+          "change_24h": -2.64,
+          "change_7d": -6.98,
+          "market_cap": 47150970159
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.106883,
-          "change_24h": 8.35,
-          "change_7d": 8.86,
-          "market_cap": 16463300112
+          "price": 0.101186,
+          "change_24h": 1.62,
+          "change_7d": 3.98,
+          "market_cap": 15651783186
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.248738,
-          "change_24h": 1.49,
-          "change_7d": -2.69,
-          "market_cap": 9195359388
+          "price": 0.239216,
+          "change_24h": -3.07,
+          "change_7d": -5.38,
+          "market_cap": 8866987905
         }
       ]
     },
@@ -212,54 +212,54 @@
       "count": 10,
       "items": [
         {
-          "name": "Gensyn",
-          "symbol": "AI",
-          "market_cap_rank": 491
-        },
-        {
           "name": "Ultima",
           "symbol": "ULTIMA",
-          "market_cap_rank": 265
+          "market_cap_rank": 273
         },
         {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 46
-        },
-        {
-          "name": "Solidus Ai Tech",
-          "symbol": "AITECH",
-          "market_cap_rank": 864
-        },
-        {
-          "name": "Pharos",
-          "symbol": "PROS",
-          "market_cap_rank": 255
-        },
-        {
-          "name": "Pump.fun",
-          "symbol": "PUMP",
-          "market_cap_rank": 85
-        },
-        {
-          "name": "Dogecoin",
-          "symbol": "DOGE",
-          "market_cap_rank": 10
+          "name": "Gensyn",
+          "symbol": "AI",
+          "market_cap_rank": 418
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 89
+          "market_cap_rank": 88
+        },
+        {
+          "name": "Pump.fun",
+          "symbol": "PUMP",
+          "market_cap_rank": 86
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Fluent",
           "symbol": "BLEND",
-          "market_cap_rank": 569
+          "market_cap_rank": 654
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 130
+          "name": "Pharos",
+          "symbol": "PROS",
+          "market_cap_rank": 266
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 45
+        },
+        {
+          "name": "RaveDAO",
+          "symbol": "RAVE",
+          "market_cap_rank": 183
         }
       ]
     },
@@ -268,43 +268,12 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
-      "items": [
-        {
-          "title": "Five Major Tech Firms Report Earnings This Week",
-          "summary": "Heavy hitters among five tech firms that drive the U.S. economy are reporting earnings this week. These companies play a pivotal role in economic performance.",
-          "source": "Marketplace",
-          "url": "https://www.marketplace.org"
-        },
-        {
-          "title": "Fed May Diverge from Other Central Banks on Interest Rates",
-          "summary": "The Federal Reserve may soon diverge from other central banks in its interest rate decisions. This potential split highlights differing monetary policy paths.",
-          "source": "Marketplace",
-          "url": "https://www.marketplace.org"
-        },
-        {
-          "title": "Consumers Continue Spending Despite Low Economic Confidence",
-          "summary": "U.S. consumers are still spending amid low confidence in the economy. This resilience supports ongoing economic activity.",
-          "source": "Marketplace",
-          "url": "https://www.marketplace.org"
-        },
-        {
-          "title": "Median Weekly Earnings Rise 3.4% in Q1 2026",
-          "summary": "Median weekly earnings for full-time U.S. workers reached $1,235 in the first quarter of 2026, up 3.4% from the previous year. This reflects wage growth amid economic data releases.",
-          "source": "Bureau of Labor Statistics",
-          "url": "https://www.bls.gov/opub/ted/"
-        },
-        {
-          "title": "Key U.S. Economic Data Released Including Housing Starts and Jobless Claims",
-          "summary": "Recent U.S. data shows Housing Starts MoM at -0.7% and 7.2%, Jobless Claims 4-week Average at 210.75K, and PCE Prices QoQ Adv at 2.9%. Upcoming releases include ADP Employment Change and S&P/Case-Shiller Home Prices.",
-          "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/calendar"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://tradingeconomics.com/calendar",
-        "https://www.marketplace.org",
-        "https://www.bls.gov/opub/ted/"
+        "https://realeconomy.rsmus.com/market-minute-what-to-expect-in-first-quarter-gdp/",
+        "https://www.youtube.com/watch?v=4PimjMdsRgU",
+        "https://tradingeconomics.com/calendar"
       ]
     },
     "crypto_news": {
@@ -312,9 +281,41 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
-      "citations": []
+      "count": 4,
+      "items": [
+        {
+          "title": "Crypto Futures Liquidations Exceed $142 Million in 24 Hours",
+          "summary": "The cryptocurrency market saw over $142 million in futures liquidations, with Ethereum at $69.16 million (mostly shorts) and Bitcoin at $67.77 million (mostly longs), alongside Solana's $5.28 million hit primarily by longs amid a sharp market shakeout.",
+          "source": "MEXC",
+          "url": "https://www.mexc.com/news/1061199"
+        },
+        {
+          "title": "Crypto Perpetual Futures Record $142.2 Million Liquidations",
+          "summary": "Estimated liquidations in crypto perpetual futures reached $142.2 million over the past 24 hours, highlighting ongoing market volatility according to NS3 data.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/317648367330081"
+        },
+        {
+          "title": "Bitcoin Holds Near $76K After Rebound from Dip",
+          "summary": "Bitcoin remains firm near $76,000, rebounding from a dip with strong buying interest, marking its strongest level since February amid easing Middle East tensions; it recently hit a two-month high near $78,000.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency"
+        },
+        {
+          "title": "Crypto Market Capitalization Stable at $2.57 Trillion",
+          "summary": "The total crypto market cap hovered around $2.57 trillion over the past 24 hours with minimal change, as assets moved in various directions following a growth phase.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/crypto-market-takes-a-breather-after-growth-phase-200679350"
+        }
+      ],
+      "citations": [
+        "https://www.mexc.com/news/1061199",
+        "https://economictimes.indiatimes.com/markets/cryptocurrency",
+        "https://www.binance.com/en/square/post/317648367330081",
+        "https://www.investing.com/analysis/crypto-market-takes-a-breather-after-growth-phase-200679350",
+        "https://cryptoslate.com/top-news/",
+        "https://www.youtube.com/watch?v=mjNDSeL1IpI&vl=en"
+      ]
     },
     "ai_news": {
       "source": "perplexity",
@@ -324,53 +325,58 @@
       "count": 7,
       "items": [
         {
-          "title": "Poolside AI Launches Laguna XS.2 and M.1 Agentic Coding Models",
-          "summary": "Poolside AI released open-weight Laguna XS.2 (33B/3B-active) and M.1 (225B MoE) models that outperform Claude Haiku 4.5 on SWE-bench Pro for coding tasks.",
-          "source": "VentureBeat",
-          "url": "https://aiweekly.co/ai-news-today"
+          "title": "DeepSeek V4 Released, Competes with Top Language Models",
+          "summary": "DeepSeek V4 emerges as a next-gen language model challenging leading competitors in performance. Highlighted in weekly AI updates covering major advancements.",
+          "source": "YouTube - AI Research Video",
+          "url": "https://www.youtube.com/watch?v=x1iQXig22oI"
         },
         {
-          "title": "Xiaomi Open-Sources 1T-Param MiMo-V2.5 Model",
-          "summary": "Xiaomi released its 1 trillion parameter MiMo-V2.5 model under MIT license, surpassing DeepSeek V4-Pro on key benchmarks.",
-          "source": "VentureBeat",
-          "url": "https://aiweekly.co/ai-news-today"
+          "title": "Happy Horse 1.0 Launched as #1 Free AI Video Generator",
+          "summary": "Happy Horse 1.0 is touted as the top free AI video generator gaining widespread attention. Part of a wave of updates in video generation tools.",
+          "source": "YouTube - AI Research Video",
+          "url": "https://www.youtube.com/watch?v=x1iQXig22oI"
         },
         {
-          "title": "Amazon Launches 'Join the Chat' AI Audio Q&A on Product Pages",
-          "summary": "Amazon introduced 'Join the Chat', an AI-powered audio Q&A feature directly on product pages to enhance customer interaction.",
-          "source": "TechCrunch",
-          "url": "https://aiweekly.co/ai-news-today"
+          "title": "GPT Image 2 Unveiled as New Image Generation Leader",
+          "summary": "GPT Image 2 pushes image generation quality to new heights, crowned the new king in the field. Featured in recent AI model breakthroughs.",
+          "source": "YouTube - AI Research Video",
+          "url": "https://www.youtube.com/watch?v=x1iQXig22oI"
         },
         {
-          "title": "Claude Code Faces Regression with Widespread Subagent Refusals",
-          "summary": "Hacker News discusses a Claude Code issue where 'malware reminder on every read' triggers refusals in subagents, gaining significant attention.",
-          "source": "news.ycombinator.com",
-          "url": "https://aiweekly.co/ai-news-today"
+          "title": "GPT-5.5 Update Teased with Potential Major Implications",
+          "summary": "Speculation around GPT-5.5 update suggests significant enhancements for OpenAI's ecosystem. Discussed amid this week's top AI developments.",
+          "source": "YouTube - AI Research Video",
+          "url": "https://www.youtube.com/watch?v=x1iQXig22oI"
         },
         {
-          "title": "Japan Airlines Deploys Humanoid Robots at Haneda Airport",
-          "summary": "Japan Airlines started humanoid robot demonstrations at Haneda Airport to address the aviation labor shortage.",
-          "source": "The Japan Times",
-          "url": "https://aiweekly.co/ai-news-today"
+          "title": "Microsoft Releases Advanced World Model and ML Research Agent",
+          "summary": "Microsoft quietly launched a highly useful world model and an AI agent capable of autonomous machine learning research on local machines. Additional multimodal model merges understanding and generation.",
+          "source": "YouTube - AI Research Video",
+          "url": "https://www.youtube.com/watch?v=x1iQXig22oI"
         },
         {
-          "title": "True Anomaly Raises $650M for Space Interceptors",
-          "summary": "True Anomaly secured $650M in Series D funding at $2.2B valuation to develop space interceptors linked to Trump's Golden Dome initiative.",
-          "source": "CNBC",
-          "url": "https://aiweekly.co/ai-news-today"
+          "title": "Andrej Karpathy Discusses Agentic Engineering Over Vibe Coding",
+          "summary": "Andrej Karpathy, Eureka Labs founder, explains the shift from vibe coding to agentic engineering, viewing LLMs as 'ghosts' requiring new judgment. Delivered at AI Ascent 2026.",
+          "source": "YouTube - Sequoia AI Ascent",
+          "url": "https://www.youtube.com/watch?v=96jN2OCOfLs"
         },
         {
-          "title": "U.S. Army Research Lab Awards Palantir $91M AI Contract",
-          "summary": "Palantir received a $91.2 million two-year contract from the U.S. Army Research Laboratory for AI and machine learning development.",
-          "source": "HPCwire",
-          "url": "https://hpcwire.com/bigdatawire/this-just-in/u-s-army-research-lab-selects-palantir-technologies-inc-for-91m-artificial-intelligence-and-machine-learning-development/"
+          "title": "Open CoDesign and Claude Design Open Sourced for Creators",
+          "summary": "Open CoDesign and Claude Design go open source, drawing interest from creators in design tools. Part of ongoing AI tool advancements.",
+          "source": "YouTube - AI Research Video",
+          "url": "https://www.youtube.com/watch?v=x1iQXig22oI"
         }
       ],
       "citations": [
-        "https://aiweekly.co/ai-news-today",
-        "https://www.artificialintelligence-news.com/artificial-intelligence-news/",
-        "https://hpcwire.com/bigdatawire/this-just-in/u-s-army-research-lab-selects-palantir-technologies-inc-for-91m-artificial-intelligence-and-machine-learning-development/",
-        "https://www.foxbusiness.com/category/artificial-intelligence"
+        "https://www.youtube.com/watch?v=x1iQXig22oI",
+        "https://www.youtube.com/watch?v=96jN2OCOfLs",
+        "https://www.youtube.com/watch?v=mEeiw-9OC2Q",
+        "https://www.youtube.com/watch?v=wApaJjvNZFs",
+        "https://www.youtube.com/watch?v=WfdRQdd9Rn8",
+        "https://www.deeplearning.ai/courses/ai-prompting-for-everyone",
+        "https://www.youtube.com/watch?v=OcTMwjqje5Q",
+        "https://www.youtube.com/watch?v=LHUIqy_mK4A",
+        "https://www.youtube.com/watch?v=rBoha8uYStA"
       ]
     },
     "gaming": {
@@ -378,47 +384,58 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "The Division Resurgence Launches PC Early Access",
-          "summary": "Ubisoft's The Division Resurgence has shadow-dropped a dedicated PC client in early access today, available for download now across platforms including Steam later this summer for full launch. Maintenance is complete, and developers are hosting a stream to discuss the release.",
-          "source": "YouTube - Kamicazi Von Doom & Others",
-          "url": "https://www.youtube.com/watch?v=UFS5gBwYlPY"
-        },
-        {
           "title": "Nvidia Announces New GPU with Increased VRAM",
-          "summary": "Nvidia revealed a new GPU featuring more VRAM, highlighted in recent tech discussions alongside other hardware updates. This comes amid broader industry talks on gaming hardware advancements.",
-          "source": "YouTube - Tech News Roundup",
+          "summary": "Nvidia has announced a new GPU featuring more VRAM, potentially impacting gaming performance upgrades. This comes alongside discussions on selling old hardware to fund upgrades.",
+          "source": "YouTube - Nvidia GPU News",
           "url": "https://www.youtube.com/watch?v=LdI1Kk7lOvU"
         },
         {
-          "title": "Xbox Project Helix Faces Memory Shortages Impacting Pricing and Availability",
-          "summary": "Xbox confirmed that Project Helix, aimed at leading performance in console and PC gaming, is affected by memory shortages, influencing its pricing and release timeline. Valve also commented on Steam Deck 2 developments.",
-          "source": "YouTube - Tech News Roundup",
+          "title": "Valve Confirms Steam Deck 2 in Development",
+          "summary": "Valve has officially confirmed that the Steam Deck 2 is in development, though no release date, price, or specs have been revealed yet.",
+          "source": "YouTube - Steam Deck News",
+          "url": "https://www.youtube.com/watch?v=BRfAymsPitA"
+        },
+        {
+          "title": "Xbox Project Helix Faces Memory Shortages",
+          "summary": "Xbox confirms that Project Helix pricing and availability are affected by memory shortages, but it is expected to lead performance in console and PC gaming.",
+          "source": "YouTube - Gaming News Roundup",
           "url": "https://www.youtube.com/watch?v=LdI1Kk7lOvU"
         },
         {
-          "title": "PlayStation Introduces 30-Day Online Check-In for Digital Games",
-          "summary": "Sony now requires an online login every 30 days to play digital PlayStation games, alongside price increases in additional regions. This policy change has sparked discussions in gaming communities.",
-          "source": "YouTube - Tech News Roundup",
+          "title": "PlayStation Introduces 30-Day Online Login for Digital Games",
+          "summary": "PlayStation now requires an online login every 30 days to play digital games, sparking backlash, alongside price increases in additional regions.",
+          "source": "YouTube - Console News",
           "url": "https://www.youtube.com/watch?v=LdI1Kk7lOvU"
         },
         {
-          "title": "Marathon Sees Rapid Player Decline and Server Issues",
-          "summary": "Bungie's Marathon is experiencing a fast drop in player numbers and crashes, with community reports indicating significant challenges shortly after launch.",
-          "source": "YouTube - LUCKYY10P",
-          "url": "https://www.youtube.com/watch?v=Vp4ZDg_wEiI"
+          "title": "The Blood of Dawn Walker Release Date Announced",
+          "summary": "The open-world dark fantasy action RPG The Blood of Dawn Walker will launch on PlayStation 5, Xbox Series, PC via Steam and Microsoft Store on September 3rd.",
+          "source": "YouTube - Game Releases",
+          "url": "https://www.youtube.com/watch?v=sFOw8u9MG-o"
+        },
+        {
+          "title": "Publishers Add 14-Day Online Check-Ins to Games",
+          "summary": "Publishers like 2K and Nuvo have implemented mandatory 14-day online check-ins for titles including NBA 2K25, NBA 2K26, and Marvel's Midnight Suns.",
+          "source": "YouTube - DRM Updates",
+          "url": "https://www.youtube.com/watch?v=sFOw8u9MG-o"
+        },
+        {
+          "title": "GameNative Receives Major Update for Android Windows Emulation",
+          "summary": "GameNative emulator for Android adds Epic EOSDRM support, online play, multicontroller, Steam cloud fixes, HDR, FSR 1.0, and more.",
+          "source": "YouTube - Emulation News",
+          "url": "https://www.youtube.com/watch?v=BRfAymsPitA"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=UFS5gBwYlPY",
         "https://www.youtube.com/watch?v=LdI1Kk7lOvU",
-        "https://www.youtube.com/watch?v=lvrE_xJeKfM",
-        "https://www.nhl.com/bruins/video/locker-room-raw-pastrnak-swayman-6394139076112",
+        "https://www.youtube.com/watch?v=sFOw8u9MG-o",
+        "https://www.youtube.com/watch?v=BRfAymsPitA",
+        "https://www.nhl.com/bruins/video/locker-room-raw-h-lindholm-kuraly-6394139360112",
         "https://www.youtube.com/watch?v=Vp4ZDg_wEiI",
-        "https://www.youtube.com/watch?v=1FFsRu3cqfE",
-        "https://www.youtube.com/watch?v=NW3MoveZ5-Q"
+        "https://www.youtube.com/watch?v=m6fDEoCAIgo"
       ]
     },
     "tech_news": {
@@ -426,50 +443,56 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 7,
       "items": [
         {
-          "title": "Valve's Steam Controller Arrives",
-          "summary": "Valve has released its Steam Controller, marking a significant hardware launch for the gaming platform. Reviewers are weighing in on the device's features and performance.",
-          "source": "The Independent, Mashable",
-          "url": "https://www.newsnow.co.uk/h/Technology"
+          "title": "European Commission Issues Preliminary DSA Findings Against Meta",
+          "summary": "The European Commission accused Meta of failing to prevent under-13 users from accessing Instagram and Facebook, potentially leading to hefty fines under the Digital Services Act.",
+          "source": "Bloomberg",
+          "url": "https://www.techmeme.com"
         },
         {
-          "title": "Samsung Galaxy S26 Plus Review: Reliable but Flawed",
-          "summary": "Two months after launch, the Samsung Galaxy S26 Plus is being evaluated as a simple and reliable device, though reviewers have identified one major flaw affecting the user experience.",
-          "source": "Phone Arena",
-          "url": "https://www.newsnow.co.uk/h/Technology"
+          "title": "Apple Plans New Siri Camera Mode in iOS 27",
+          "summary": "Apple is set to integrate Visual Intelligence into the iPhone camera app as a new Siri mode, embedding advanced features more deeply into iOS 27.",
+          "source": "Financial Times",
+          "url": "https://www.techmeme.com"
         },
         {
-          "title": "Samsung Galaxy Glasses Get Early Look",
-          "summary": "Details have surfaced about Samsung's first Galaxy Glasses, with early reviews and specifications emerging ahead of an official announcement.",
-          "source": "TrustedReviews, ExtremeTech",
-          "url": "https://www.newsnow.co.uk/h/Technology"
+          "title": "Cognizant Agrees to Acquire Astreya for $600M",
+          "summary": "Cognizant will buy Astreya, a provider of IT services for data centers, AI labs, and networks, in a deal expected to close in Q2.",
+          "source": "DatacenterDynamics",
+          "url": "https://www.techmeme.com"
         },
         {
-          "title": "Motorola Razr Plus (2026) Design Leaks Before Official Launch",
-          "summary": "The full design of Motorola's Razr Plus (2026) has leaked online shortly before its official premiere, revealing the device's appearance and features.",
-          "source": "Phone Arena",
-          "url": "https://www.newsnow.co.uk/h/Technology"
+          "title": "OpenLight Raises $50M in Series A Extension",
+          "summary": "Photonics chip designer OpenLight secured $50M in additional funding after a $34M raise in August 2025, focusing on custom application-specific chips.",
+          "source": "DatacenterDynamics",
+          "url": "https://www.techmeme.com"
+        },
+        {
+          "title": "Nvidia Fixes 8GB RAM Issue on RTX 5070 GPU",
+          "summary": "Nvidia addressed the 8GB RAM limitation on one of its GPUs by offering a higher-RAM version at nearly double the price.",
+          "source": "Ars Technica",
+          "url": "https://www.alltop.com/tech"
         },
         {
           "title": "Apple Introduces Cheaper App Store Subscription Options",
-          "summary": "Apple has launched commitment-based monthly subscriptions for the App Store, offering users more affordable pricing tiers for app purchases.",
-          "source": "TechCrunch, UberGizmo",
+          "summary": "Apple launched commitment-based monthly subscriptions and a cheaper option for App Store subscriptions to provide more flexible billing.",
+          "source": "TechCrunch",
           "url": "https://www.newsnow.co.uk/h/Technology"
         },
         {
-          "title": "Ghostty Abandons GitHub Over Reliability Issues",
-          "summary": "The Ghostty project is leaving GitHub due to chronic reliability failures, with its new hosting location still undetermined.",
-          "source": "XDA-Developers",
+          "title": "Motorola Razr Plus (2026) Design Leaks Ahead of Premiere",
+          "summary": "Full design details of Motorola's upcoming Razr Plus (2026) foldable phone have leaked shortly before its official announcement.",
+          "source": "Phone Arena",
           "url": "https://www.newsnow.co.uk/h/Technology"
         }
       ],
       "citations": [
-        "https://www.techmeme.com",
-        "https://www.technewsworld.com",
         "https://www.newsnow.co.uk/h/Technology",
-        "https://www.businesswire.com/newsroom/industry/technology",
+        "https://www.techmeme.com",
+        "https://www.alltop.com/tech",
+        "https://www.artificialintelligence-news.com",
         "https://www.ladbible.com/technology"
       ]
     }
