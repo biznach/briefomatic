@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T00:39:55.665431+00:00",
-  "generated_at_human": "2026-04-30 00:39 UTC",
+  "generated_at": "2026-04-30T06:54:44.811134+00:00",
+  "generated_at_human": "2026-04-30 06:54 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,70 +8,142 @@
       "count": 25,
       "items": [
         {
+          "title": "Where the goblins came from",
+          "url": "https://openai.com/index/where-the-goblins-came-from/",
+          "score": 389,
+          "comments": 192
+        },
+        {
+          "title": "Craig Venter has died",
+          "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+          "score": 198,
+          "comments": 35
+        },
+        {
           "title": "Zed 1.0",
           "url": "https://zed.dev/blog/zed-1-0",
-          "score": 1475,
-          "comments": 479
+          "score": 1739,
+          "comments": 560
         },
         {
-          "title": "Copy Fail – CVE-2026-31431",
+          "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+          "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+          "score": 96,
+          "comments": 55
+        },
+        {
+          "title": "Noctua releases official 3D CAD models for its cooling fans",
+          "url": "https://www.noctua.at/en/3d-cad-models",
+          "score": 110,
+          "comments": 19
+        },
+        {
+          "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+          "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+          "score": 146,
+          "comments": 59
+        },
+        {
+          "title": "Copy Fail",
           "url": "https://copy.fail/",
-          "score": 509,
-          "comments": 240
+          "score": 837,
+          "comments": 317
         },
         {
-          "title": "OpenTrafficMap",
-          "url": "https://opentrafficmap.org/",
-          "score": 133,
-          "comments": 27
+          "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+          "url": "https://burrito.bio/essays/biology-is-a-burrito",
+          "score": 64,
+          "comments": 9
         },
         {
-          "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-          "url": "https://github.com/anthropics/claude-code/issues/53262",
-          "score": 960,
-          "comments": 392
-        },
-        {
-          "title": "> Be Alexandra Elbakyan",
-          "url": "https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m",
-          "score": 46,
-          "comments": 5
+          "title": "Functional programmers need to take a look at Zig",
+          "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+          "score": 71,
+          "comments": 45
         },
         {
           "title": "Cursor Camp",
           "url": "https://neal.fun/cursor-camp/",
-          "score": 557,
-          "comments": 99
+          "score": 841,
+          "comments": 136
+        },
+        {
+          "title": "London to Calcutta by Bus (2022)",
+          "url": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
+          "score": 30,
+          "comments": 7
         },
         {
           "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
           "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-          "score": 233,
-          "comments": 56
+          "score": 315,
+          "comments": 73
         },
         {
-          "title": "DRAM Crunch: Lessons for System Design",
-          "url": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
-          "score": 26,
+          "title": "OpenTrafficMap",
+          "url": "https://opentrafficmap.org/",
+          "score": 218,
+          "comments": 50
+        },
+        {
+          "title": "Who Is That Knocking at My (SSH) Door?",
+          "url": "https://sheep.horse/2026/4/who_is_that_knocking_at_my_%28ssh%29_door.html",
+          "score": 15,
+          "comments": 0
+        },
+        {
+          "title": "Mike: open-source legal AI",
+          "url": "https://mikeoss.com/",
+          "score": 67,
+          "comments": 22
+        },
+        {
+          "title": "Monad Tutorials Timeline",
+          "url": "https://wiki.haskell.org/Monad_tutorials_timeline",
+          "score": 11,
           "comments": 1
+        },
+        {
+          "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+          "url": "https://github.com/anthropics/claude-code/issues/53262",
+          "score": 1084,
+          "comments": 459
+        },
+        {
+          "title": "Creating a Color Palette from an Image",
+          "url": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
+          "score": 53,
+          "comments": 8
         },
         {
           "title": "Why I still reach for Lisp and Scheme instead of Haskell",
           "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-          "score": 157,
-          "comments": 47
+          "score": 206,
+          "comments": 98
+        },
+        {
+          "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+          "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+          "score": 39,
+          "comments": 89
         },
         {
           "title": "Laws of UX",
           "url": "https://lawsofux.com/",
-          "score": 172,
-          "comments": 30
+          "score": 240,
+          "comments": 35
         },
         {
-          "title": "Vera: a programming language designed for machines to write",
-          "url": "https://github.com/aallan/vera",
-          "score": 32,
-          "comments": 16
+          "title": "Consequences of passing too few register parameters to a C function",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
+          "score": 50,
+          "comments": 22
+        },
+        {
+          "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+          "url": "https://github.com/GliaX/Stethoscope",
+          "score": 237,
+          "comments": 104
         },
         {
           "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
@@ -80,82 +152,10 @@
           "comments": 0
         },
         {
-          "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
-          "url": "https://github.com/GliaX/Stethoscope",
-          "score": 183,
-          "comments": 75
-        },
-        {
-          "title": "Third Editor Fired in Elsevier's Citation Cartel Crackdown",
-          "url": "https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation",
-          "score": 237,
-          "comments": 77
-        },
-        {
-          "title": "Ramp's Sheets AI Exfiltrates Financials",
-          "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-          "score": 97,
-          "comments": 32
-        },
-        {
-          "title": "Soft launch of open-source code platform for government",
-          "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-          "score": 520,
-          "comments": 118
-        },
-        {
-          "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
-          "url": "https://jivx.com/kyoto-bloom",
-          "score": 222,
-          "comments": 59
-        },
-        {
-          "title": "We need a federation of forges",
-          "url": "https://blog.tangled.org/federation/",
-          "score": 513,
-          "comments": 323
-        },
-        {
-          "title": "Postgres's lateral joins allow for quite the good eDSL",
-          "url": "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/",
-          "score": 46,
-          "comments": 3
-        },
-        {
-          "title": "Online age verification is the hill to die on",
-          "url": "https://x.com/GlennMeder/status/2049088498163216560",
-          "score": 713,
-          "comments": 447
-        },
-        {
-          "title": "How to Build the Future: Demis Hassabis [video]",
-          "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
-          "score": 79,
-          "comments": 40
-        },
-        {
-          "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
-          "url": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-          "score": 26,
-          "comments": 11
-        },
-        {
-          "title": "What can we gain by losing infinity?",
-          "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-          "score": 6,
-          "comments": 0
-        },
-        {
-          "title": "The Lingua Franca of LaTeX",
-          "url": "https://increment.com/open-source/the-lingua-franca-of-latex/",
-          "score": 6,
+          "title": "A grounded conceptual model for ownership types in Rust",
+          "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+          "score": 27,
           "comments": 1
-        },
-        {
-          "title": "Ghostty is leaving GitHub",
-          "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-          "score": 3337,
-          "comments": 991
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 76075,
-          "change_24h": -0.3,
-          "change_7d": -2.71,
-          "market_cap": 1521630396286
+          "price": 75734,
+          "change_24h": -1.58,
+          "change_7d": -2.94,
+          "market_cap": 1516402142393
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2264.73,
-          "change_24h": -0.92,
-          "change_7d": -5.57,
-          "market_cap": 272939822449
+          "price": 2246.42,
+          "change_24h": -3.25,
+          "change_7d": -4.34,
+          "market_cap": 271106325094
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 83.66,
-          "change_24h": -0.22,
-          "change_7d": -4.32,
-          "market_cap": 48086356650
+          "price": 82.88,
+          "change_24h": -2.19,
+          "change_7d": -3.58,
+          "market_cap": 47745340863
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.106727,
-          "change_24h": 7.2,
-          "change_7d": 10.64,
-          "market_cap": 16373266733
+          "price": 0.106195,
+          "change_24h": 4.02,
+          "change_7d": 10.63,
+          "market_cap": 16356672182
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.245887,
-          "change_24h": -0.28,
-          "change_7d": -1.8,
-          "market_cap": 9090270688
+          "price": 0.245506,
+          "change_24h": -1.33,
+          "change_7d": -0.55,
+          "market_cap": 9075118496
         }
       ]
     },
@@ -214,17 +214,12 @@
         {
           "name": "Ultima",
           "symbol": "ULTIMA",
-          "market_cap_rank": 275
+          "market_cap_rank": 276
         },
         {
-          "name": "Plume",
-          "symbol": "PLUME",
-          "market_cap_rank": 400
-        },
-        {
-          "name": "Fluent",
-          "symbol": "BLEND",
-          "market_cap_rank": 606
+          "name": "Gensyn",
+          "symbol": "AI",
+          "market_cap_rank": 368
         },
         {
           "name": "Bitcoin",
@@ -232,34 +227,39 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Gensyn",
-          "symbol": "AI",
-          "market_cap_rank": 379
-        },
-        {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 4
-        },
-        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
           "market_cap_rank": 88
         },
         {
-          "name": "World Liberty Financial",
-          "symbol": "WLFI",
-          "market_cap_rank": 44
+          "name": "Bio Protocol",
+          "symbol": "BIO",
+          "market_cap_rank": 314
         },
         {
-          "name": "Dogecoin",
-          "symbol": "DOGE",
-          "market_cap_rank": 10
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 140
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Plume",
+          "symbol": "PLUME",
+          "market_cap_rank": 394
+        },
+        {
+          "name": "Pharos",
+          "symbol": "PROS",
+          "market_cap_rank": 277
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 38
         }
       ]
     },
@@ -268,31 +268,25 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 2,
       "items": [
         {
-          "title": "Fed Holds Interest Rates Steady with Record Dissents",
-          "summary": "The Federal Reserve decided to keep interest rates unchanged, marking the most FOMC dissents since October 1992. Jerome Powell plans to remain on the Fed board, citing concerns over central bank independence.",
-          "source": "Marketplace",
-          "url": "https://www.marketplace.org"
+          "title": "FOMC Keeps Rates Unchanged with Hawkish Evolution and Powell to Stay as Governor",
+          "summary": "The Federal Reserve decided to maintain interest rates at the FOMC meeting, with minor statement tweaks noting Middle East uncertainty, elevated inflation, and solid growth. Chair Powell announced he will remain as a Governor after his term ends May 15 amid legal concerns, while dissenters pushed for removing easing bias, signaling hawkish shifts; Senate advances Kevin Warsh's nomination as next Chair.",
+          "source": "NYSE",
+          "url": "https://www.nyse.com/index"
         },
         {
-          "title": "Jerome Powell Speaks After Potentially Final Fed Meeting",
-          "summary": "Federal Reserve Chair Jerome Powell addressed the market following the Fed's rate hold decision on April 29, 2026, amid discussions of it being his last meeting. CNBC analysts highlight strategies for stocks with mega cap earnings looming.",
-          "source": "CNBC",
-          "url": "https://www.youtube.com/watch?v=jxJbvBeoPgY"
-        },
-        {
-          "title": "Make-or-Break Day for Stocks Amid Rising Energy Prices",
-          "summary": "Markets face high stakes with uncomfortable rises in energy prices, including gasoline contracts at 52-week highs and spot WTI near $107. Investment committee discusses top strategies ahead of Fed news and earnings.",
-          "source": "CNBC",
-          "url": "https://www.youtube.com/watch?v=jxJbvBeoPgY"
+          "title": "Key US Economic Data Releases Scheduled for Today Including ADP Employment, Housing Starts, and PCE Prices",
+          "summary": "Upcoming economic indicators include US ADP Employment Change at 12:55 PM (exp. 54.75K), Housing Starts MoM at 12:30 PM (exp. -0.7%), PCE Prices QoQ Adv at 12:30 PM (exp. 2.9%), and Fed Balance Sheet at 8:30 PM ($6.707T prior). Other data like Jobless Claims 4-week Average (exp. 210.75K) and Durable Goods Orders also due.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/calendar"
         }
       ],
       "citations": [
-        "https://www.marketplace.org",
-        "https://www.youtube.com/watch?v=jxJbvBeoPgY",
-        "https://tradingeconomics.com/calendar"
+        "https://tradingeconomics.com/calendar",
+        "https://www.nyse.com/index",
+        "https://www.bls.gov/opub/ted/"
       ]
     },
     "crypto_news": {
@@ -300,52 +294,45 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Bitcoin Holds Firm Near $76K After Rebounding from Dip",
-          "summary": "Bitcoin is consolidating near $74,500-$76,000 after hitting a 10-week high of $78,000, supported by strong buying interest amid easing Middle East tensions. Technical indicators suggest potential breakout to $84,000.",
+          "title": "Dogecoin Leads Meme Sector Gains with 7.40% Rise",
+          "summary": "The Meme sector surged 3.89% in the past 24 hours, led by Dogecoin's 7.40% increase according to SoSoValue data. Dogecoin also tops broader market gainers amid positive momentum.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/317958954311265"
+        },
+        {
+          "title": "Fed Decision Triggers $500 Million in Crypto Liquidations",
+          "summary": "The Federal Reserve's decision led to $500 million in cryptocurrency liquidations over the last 24 hours. Terra Classic and Dogecoin are leading gains in the aftermath.",
+          "source": "FXStreet",
+          "url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-overview-fed-decision-triggers-500-million-in-liquidations-terra-classic-dogecoin-lead-gains-202604300348"
+        },
+        {
+          "title": "US Seizes Nearly $500M in Iranian Crypto in Operation Economic Fury",
+          "summary": "The US government seized approximately $500 million in cryptocurrency linked to Iran as part of Operation Economic Fury, plunging the regime into crisis. Treasury Secretary nominee Bessent highlighted the action.",
+          "source": "NewsNow",
+          "url": "https://www.newsnow.com/us/?search=crypto"
+        },
+        {
+          "title": "Bitcoin Holds Steady Near $76K After Fed Rebound",
+          "summary": "Bitcoin remains firm near $76K, rebounding from a dip with strong buying interest, marking its strongest level since February amid Middle East hopes. It shows a slight -1.08% change in recent updates.",
           "source": "The Economic Times",
           "url": "https://economictimes.indiatimes.com/markets/cryptocurrency"
         },
         {
-          "title": "Bitcoin Sees Record $176.8B Inflows in April Despite 3-Year Low Trading Volume",
-          "summary": "Bitcoin recorded $176.8 billion in inflows in April 2026, reversing five months of outflows, but trading volume dropped 21% to $141.76 billion over 30 days, hitting a 3-year low and raising sustainability concerns.",
-          "source": "AMBCrypto",
-          "url": "https://ambcrypto.com/bitcoin-sees-176-8b-in-inflows-but-trading-volume-just-hit-3-year-low/"
-        },
-        {
-          "title": "Crypto Perpetual Futures Liquidations Reach $142.2 Million in 24 Hours",
-          "summary": "The crypto perpetual futures market saw approximately $142.2 million in liquidations over the past 24 hours, reflecting heightened volatility amid recent price movements.",
-          "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/317648367330081"
-        },
-        {
-          "title": "Crypto Market Capitalization Stable at $2.57 Trillion Amid Mixed Asset Movements",
-          "summary": "The overall crypto market cap remained steady around $2.57 trillion in the past 24 hours, with individual assets showing varied directions following a growth phase.",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/analysis/crypto-market-takes-a-breather-after-growth-phase-200679350"
-        },
-        {
-          "title": "Institutions Buy 93,000 Bitcoin as Paul Tudor Jones Praises It Amid FOMC Anticipation",
-          "summary": "Institutions purchased 93,000 Bitcoin in the last 30 days, with BlackRock's IBIT seeing $983 million inflows; Paul Tudor Jones called Bitcoin the greatest scarcity asset ahead of a pivotal FOMC meeting.",
-          "source": "YouTube - Bitcoin Analysis",
-          "url": "https://www.youtube.com/watch?v=xbYRGKf6cS8"
-        },
-        {
-          "title": "CLARITY Act Anticipated as Major Boost for Crypto Regulation",
-          "summary": "Discussions highlight the upcoming CLARITY Act as a significant regulatory development expected to provide much-needed clarity for the crypto industry.",
-          "source": "YouTube - CryptosRUs Interview",
+          "title": "CLARITY Act Buzz Fuels Bitcoin Price Speculation to $250K",
+          "summary": "Discussions around the anticipated CLARITY Act are generating optimism, with analysts suggesting it could propel Bitcoin toward $250K. The regulatory clarity is seen as a major catalyst for crypto.",
+          "source": "Altcoin Daily (YouTube)",
           "url": "https://www.youtube.com/watch?v=qnSXxMWAGxk"
         }
       ],
       "citations": [
+        "https://www.binance.com/en/square/post/317958954311265",
         "https://economictimes.indiatimes.com/markets/cryptocurrency",
-        "https://www.youtube.com/watch?v=xbYRGKf6cS8",
-        "https://ambcrypto.com/bitcoin-sees-176-8b-in-inflows-but-trading-volume-just-hit-3-year-low/",
-        "https://www.binance.com/en/square/post/317648367330081",
-        "https://www.investing.com/analysis/crypto-market-takes-a-breather-after-growth-phase-200679350",
-        "https://www.youtube.com/watch?v=qnSXxMWAGxk"
+        "https://www.fxstreet.com/cryptocurrencies/news/crypto-overview-fed-decision-triggers-500-million-in-liquidations-terra-classic-dogecoin-lead-gains-202604300348",
+        "https://www.youtube.com/watch?v=qnSXxMWAGxk",
+        "https://www.newsnow.com/us/?search=crypto"
       ]
     },
     "ai_news": {
@@ -356,11 +343,10 @@
       "count": 0,
       "items": [],
       "citations": [
+        "https://www.youtube.com/watch?v=XWmWmTDRdbY",
         "https://www.artificialintelligence-news.com",
-        "https://www.mitsloanme.com/article/ai-compute-costs-exceed-workforce-costs-nvidia-executive-says/",
-        "https://www.youtube.com/watch?v=L8I28W36wC4",
-        "https://techxplore.com/news/2026-04-everyday-devices-ai-faster-personal.html",
-        "https://www.youtube.com/watch?v=h6Fpbk2FVjA"
+        "https://www.youtube.com/shorts/uevOW7dv0pk",
+        "https://www.science.org/doi/10.1126/sciadv.aec1433"
       ]
     },
     "gaming": {
@@ -368,77 +354,67 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 8,
       "items": [
         {
-          "title": "Nioh 3 Announced with PS5 Demo Available Now",
-          "summary": "Team Ninja and Koei Tecmo revealed Nioh 3 during June's PlayStation State of Play, allowing soulslike fans to play a demo immediately on PS5. The game is slated for a 2026 release.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "title": "Grand Theft Auto 6 Delayed to May 2026",
+          "summary": "Rockstar Games has delayed Grand Theft Auto 6 to May 26, 2026, delivering the anticipated bad news to fans.[1]",
+          "source": "CBR",
+          "url": "https://www.cbr.com/category/game-news/"
         },
         {
-          "title": "Bloodstained Sequel 'The Scarlet Engagement' Revealed at State of Play",
-          "summary": "ArtPlay announced a new Bloodstained game, The Scarlet Engagement, during the June PlayStation State of Play, diverging significantly from the original Ritual of the Night.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "title": "The Blood of Dawnwalker Launches",
+          "summary": "The Blood of Dawnwalker has launched, highlighted in the daily gaming news digest for April 29, 2026.[7]",
+          "source": "Twin Galaxies",
+          "url": "https://www.twingalaxies.com/newsDetails/7140"
         },
         {
-          "title": "Final Fantasy Tactics - The Ivalice Chronicles Set for September Launch",
-          "summary": "A remaster of Final Fantasy Tactics titled The Ivalice Chronicles was revealed and is launching in September, highlighted during June's State of Play.",
-          "source": "TheGamer",
-          "url": "https://www.thegamer.com"
-        },
-        {
-          "title": "Silent Hill f Release Date Advanced Significantly",
-          "summary": "Silent Hill f is coming sooner than expected, as announced in the June 2025 PlayStation State of Play alongside other major franchise reveals.",
-          "source": "TheGamer",
-          "url": "https://www.thegamer.com"
-        },
-        {
-          "title": "Xbox Game Pass June 2025 Wave 1 Lineup Confirmed",
-          "summary": "Microsoft unveiled the full list of games joining Xbox Game Pass in the first wave of June 2025, ahead of the Xbox Games Showcase.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
-        },
-        {
-          "title": "No More Heroes Dev Reveals New Ultraviolent Sci-Fi Game",
-          "summary": "Suda51 and Grasshopper Manufacture announced a new over-the-top action game blending No More Heroes and Dead Rising elements.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
-        },
-        {
-          "title": "Helldivers 2 Unveils 'Force of Law' Warbond",
-          "summary": "Helldivers 2 revealed the new Force of Law Warbond, available soon for players in the cooperative shooter.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
-        },
-        {
-          "title": "Dragon Ball Project: Multi Name and Network Test Dates Revealed",
-          "summary": "The real name of Dragon Ball Project: Multi was disclosed along with dates for a new network test.",
-          "source": "TheGamer",
-          "url": "https://www.thegamer.com"
-        },
-        {
-          "title": "Original Four Mortal Kombat Games Coming to PS4 and PS5",
-          "summary": "Players will soon access the original four Mortal Kombat titles on PS4 and PS5.",
-          "source": "TheGamer",
-          "url": "https://www.thegamer.com"
-        },
-        {
-          "title": "Marathon Faces Crisis with Dwindling Players and Free-to-Play Rumors",
-          "summary": "Marathon is in crisis amid flops in updates, player mockery, sales, and rumors of going free-to-play following Sony's investment.",
+          "title": "Xbox Earnings Decline Across Hardware, Game Pass, and Content",
+          "summary": "Microsoft reports Xbox revenue down sharply, including hardware sales and Game Pass, despite overall company growth in cloud and AI.[6]",
           "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=bEb4KTzjVIM"
+          "url": "https://www.youtube.com/watch?v=tqdW8hGForE"
+        },
+        {
+          "title": "Nintendo Sues Alleged Switch 2 Leaker Genki",
+          "summary": "Nintendo takes legal action against accessory maker Genki for allegedly misleading consumers regarding Switch 2 information.[1]",
+          "source": "CBR",
+          "url": "https://www.cbr.com/category/game-news/"
+        },
+        {
+          "title": "New Wheel of Time AAA RPG Announced",
+          "summary": "A full-fledged AAA video game adaptation of The Wheel of Time is announced by a studio behind the live-action series.[1]",
+          "source": "CBR",
+          "url": "https://www.cbr.com/category/game-news/"
+        },
+        {
+          "title": "Sony Responds to PlayStation DRM Policy Backlash",
+          "summary": "Sony officially addresses the massive backlash sparked by PlayStation's new DRM policy.[1]",
+          "source": "CBR",
+          "url": "https://www.cbr.com/category/game-news/"
+        },
+        {
+          "title": "Far Far West Co-op FPS Launches April 28, 2026",
+          "summary": "Chaotic Wild West co-op FPS Far Far West launches on April 28, 2026.[5]",
+          "source": "DLCompare",
+          "url": "https://www.dlcompare.com/gaming-news"
+        },
+        {
+          "title": "New Details on Forza Horizon 6 Revealed",
+          "summary": "Playground Games confirms new features for Forza Horizon 6, enhancing the racing experience.[5]",
+          "source": "DLCompare",
+          "url": "https://www.dlcompare.com/gaming-news"
         }
       ],
       "citations": [
+        "https://www.cbr.com/category/game-news/",
         "https://www.thegamer.com",
         "https://gamerant.com/gaming/",
         "https://screenrant.com/game-news/",
-        "https://www.youtube.com/watch?v=bEb4KTzjVIM",
-        "https://www.engadget.com/category/gaming-buying-guides/",
-        "https://www.youtube.com/watch?v=3aalNSVkOOc",
-        "https://gameinformer.com"
+        "https://www.dlcompare.com/gaming-news",
+        "https://www.youtube.com/watch?v=tqdW8hGForE",
+        "https://www.twingalaxies.com/newsDetails/7140",
+        "https://gameinformer.com",
+        "https://gamerant.com"
       ]
     },
     "tech_news": {
@@ -446,59 +422,41 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 9,
+      "count": 6,
       "items": [
         {
-          "title": "Alphabet Reports Q1 Revenue Up 22% YoY to $109.9B, Stock Jumps 6%+",
-          "summary": "Alphabet announced first-quarter earnings with revenue of $109.9B (vs. $107.2B estimate) and Google Cloud revenue up 63% to $20B. The company's profit soared 81% YoY to $62.6B, driven by its AI investments.",
-          "source": "Bloomberg/Techmeme",
+          "title": "Alphabet Reports Q1 Revenue Up 22% to $109.9B, Google Cloud Up 63% to $20B",
+          "summary": "Alphabet announced strong Q1 2026 financial results with revenue beating estimates, driven by Google Cloud growth, sending GOOG shares up over 6% after hours. Paid subscriptions reached 350M, up 25M quarter-over-quarter.",
+          "source": "Techmeme",
           "url": "https://www.techmeme.com"
         },
         {
-          "title": "Samsung Reports Q1 Revenue Up 69% YoY to ~$90.2B with Record Operating Profit",
-          "summary": "Samsung Electronics reported first-quarter revenue of ~$90.2B and operating profit up 756% to ~$38.5B, driven by AI-linked memory demand.",
-          "source": "Financial Times/Techmeme",
+          "title": "Qualcomm Q2 Revenue at $10.6B, Hyperscaler to Use Chips Later This Year",
+          "summary": "Qualcomm reported Q2 revenue slightly down year-over-year but highlighted progress in data centers with a top hyperscaler set to adopt its chips, boosting QCOM shares by 12%+ after hours.",
+          "source": "Techmeme",
           "url": "https://www.techmeme.com"
         },
         {
-          "title": "Qualcomm Reports Q2 Revenue Down 3% YoY but Jumps 12%+ on Data Center Progress",
-          "summary": "Qualcomm reported Q2 revenue of $10.6B (down 3% YoY) but rallied after announcing a top hyperscaler will begin using its chips later this year, signaling headway in the data center market.",
-          "source": "CNBC/Techmeme",
+          "title": "SoftBank Plans US Robotics Company Roze for Data Centers with $100B Valuation",
+          "summary": "SoftBank is creating a new AI and robotics firm called Roze in the US to build data centers, aiming for a $100B valuation and potential IPO as early as 2026.",
+          "source": "Techmeme",
           "url": "https://www.techmeme.com"
         },
         {
-          "title": "Motorola Launches Razr Fold with Native Stylus Support",
-          "summary": "Motorola introduced its first book-style foldable phone, the Razr Fold, featuring native stylus support, a capability not found in Samsung's most recent flagship.",
+          "title": "Motorola Launches Razr Family Including First Book-Style Foldable with Stylus Support",
+          "summary": "Motorola unveiled its latest Razr series, featuring the Razr Fold as its first book-style foldable with native stylus support, differentiating from competitors like Samsung.",
           "source": "Engadget",
           "url": "https://www.engadget.com"
         },
         {
-          "title": "Valve's Steam Controller Arrives",
-          "summary": "Valve has released its Steam Controller, with reviewers sharing their initial impressions of the device.",
-          "source": "The Independent/NewsNow",
+          "title": "Huawei's HarmonyOS Now on Over 55M Phones Amid China Push for Domestic Software",
+          "summary": "Huawei reported HarmonyOS running on more than 55 million phones as China accelerates adoption of homegrown software alternatives.",
+          "source": "NewsNow / South China Morning Post",
           "url": "https://www.newsnow.co.uk/h/Technology"
         },
         {
-          "title": "Amazon Announces Major Expansion with OpenAI Partnership",
-          "summary": "Amazon announced a major expansion of its partnership with OpenAI involving co-development of a new platform, as the company's $200 billion AI investment begins showing results with AWS segment sales growth of 24% in Q4.",
-          "source": "AP News",
-          "url": "https://www.wdrb.com"
-        },
-        {
-          "title": "EU Investigates Meta for Inadequate Child Protection on Instagram and Facebook",
-          "summary": "A preliminary EU investigation found that Meta is not adequately keeping minors off Instagram and Facebook.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
-        },
-        {
-          "title": "Humanoid Robots to Work as Baggage Handlers at Tokyo Airport",
-          "summary": "Tokyo airport is deploying humanoid robots to work as baggage handlers.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
-        },
-        {
-          "title": "Uber Adds Hotel Booking Feature to Its App",
-          "summary": "Uber is expanding its app functionality to include hotel booking capabilities for users traveling away from home.",
+          "title": "EU Probes Meta for Insufficient Child Protection on Instagram and Facebook",
+          "summary": "The EU launched a preliminary investigation finding Meta failing to adequately protect minors on its platforms, potentially leading to regulatory actions.",
           "source": "Engadget",
           "url": "https://www.engadget.com"
         }
@@ -506,8 +464,9 @@
       "citations": [
         "https://www.techmeme.com",
         "https://www.newsnow.co.uk/h/Technology",
-        "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-4-50-p-m-edt/article_daeb0003-0bba-5ff3-8ecf-d37cc4388099.html",
-        "https://www.engadget.com"
+        "https://www.engadget.com",
+        "https://www.theinformation.com/technology",
+        "https://www.popularmechanics.com/technology/"
       ]
     }
   }
