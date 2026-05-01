@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T18:31:57.002879+00:00",
-  "generated_at_human": "2026-04-30 18:31 UTC",
+  "generated_at": "2026-05-01T00:42:21.511556+00:00",
+  "generated_at_human": "2026-05-01 00:42 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Rivian allows you to disable all internet connectivity",
+          "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+          "score": 425,
+          "comments": 169
+        },
+        {
+          "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+          "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+          "score": 398,
+          "comments": 172
+        },
+        {
           "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
           "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-          "score": 153,
-          "comments": 26
+          "score": 403,
+          "comments": 118
+        },
+        {
+          "title": "Opus 4.7 knows the real Kelsey",
+          "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+          "score": 119,
+          "comments": 59
+        },
+        {
+          "title": "CopyFail was not disclosed to distro developers?",
+          "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+          "score": 350,
+          "comments": 283
         },
         {
           "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
           "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-          "score": 138,
-          "comments": 31
-        },
-        {
-          "title": "Belgium stops decommissioning nuclear power plants",
-          "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-          "score": 592,
-          "comments": 480
+          "score": 315,
+          "comments": 103
         },
         {
           "title": "I built a Game Boy emulator in F#",
           "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-          "score": 55,
-          "comments": 12
+          "score": 196,
+          "comments": 47
         },
         {
-          "title": "CopyFail Was Not Disclosed to Distros",
-          "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-          "score": 82,
-          "comments": 25
+          "title": "ClawIRC – IRC Chat for Agents",
+          "url": "https://clawirc.com/",
+          "score": 4,
+          "comments": 0
         },
         {
           "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
           "url": "https://twitter.com/theo/status/2049645973350363168",
-          "score": 462,
-          "comments": 308
+          "score": 923,
+          "comments": 520
         },
         {
-          "title": "How an Oil Refinery Works",
+          "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
+          "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
+          "score": 28,
+          "comments": 3
+        },
+        {
+          "title": "How an oil refinery works",
           "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-          "score": 195,
-          "comments": 40
+          "score": 307,
+          "comments": 92
         },
         {
-          "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
-          "url": "https://honker.dev/",
-          "score": 84,
-          "comments": 17
+          "title": "Reverse Engineering SimTower",
+          "url": "https://phulin.me/blog/simtower",
+          "score": 97,
+          "comments": 15
+        },
+        {
+          "title": "Belgium stops decommissioning nuclear power plants",
+          "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+          "score": 735,
+          "comments": 682
+        },
+        {
+          "title": "The upsell game – Vercel upselling tactics revealed",
+          "url": "https://theupsellgame.com/",
+          "score": 74,
+          "comments": 12
+        },
+        {
+          "title": "New mechanical panoramic film camera from Jeff Bridges",
+          "url": "https://wideluxx.com",
+          "score": 61,
+          "comments": 24
         },
         {
           "title": "You can beat the binary search",
           "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-          "score": 144,
-          "comments": 70
+          "score": 241,
+          "comments": 115
         },
         {
-          "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-          "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-          "score": 242,
-          "comments": 90
+          "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+          "url": "https://honker.dev/",
+          "score": 168,
+          "comments": 49
+        },
+        {
+          "title": "The Accidental Ancestor – How Verifying Numbers Shaped Modern Hashing",
+          "url": "https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html",
+          "score": 6,
+          "comments": 0
+        },
+        {
+          "title": "Full-Text Search with DuckDB",
+          "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+          "score": 82,
+          "comments": 19
+        },
+        {
+          "title": "AI discovery reveals DNA isn’t locked away in cells after all",
+          "url": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
+          "score": 11,
+          "comments": 2
+        },
+        {
+          "title": "The Church Rock Uranium Mill Spill",
+          "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
+          "score": 51,
+          "comments": 4
+        },
+        {
+          "title": "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
+          "url": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
+          "score": 16,
+          "comments": 1
         },
         {
           "title": "I aggregated 28 US Government auction sites into one search",
           "url": "https://bidprowl.com",
-          "score": 172,
-          "comments": 52
+          "score": 233,
+          "comments": 71
         },
         {
-          "title": "10Gb/s Ethernet: what I did to get it working in my home",
-          "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
-          "score": 45,
-          "comments": 22
+          "title": "Does Postgres Scale?",
+          "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+          "score": 74,
+          "comments": 30
         },
         {
-          "title": "Recovering files from beyond the grave using PhotoRec",
-          "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
-          "score": 7,
-          "comments": 0
-        },
-        {
-          "title": "Mozilla's opposition to Chrome's Prompt API",
-          "url": "https://github.com/mozilla/standards-positions/issues/1213",
-          "score": 446,
-          "comments": 182
-        },
-        {
-          "title": "A 1960s art school experiment that redefined creativity",
-          "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
-          "score": 38,
-          "comments": 6
-        },
-        {
-          "title": "Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
-          "url": "https://github.com/carlovalenti/TRiP",
-          "score": 13,
-          "comments": 1
-        },
-        {
-          "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-          "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-          "score": 235,
-          "comments": 147
-        },
-        {
-          "title": "The Zig project's rationale for their anti-AI contribution policy",
-          "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-          "score": 579,
-          "comments": 359
-        },
-        {
-          "title": "Noctua releases official 3D CAD models for its cooling fans",
-          "url": "https://www.noctua.at/en/3d-cad-models",
-          "score": 447,
-          "comments": 98
-        },
-        {
-          "title": "How Semiconductors Were Made in America",
-          "url": "https://www.siliconimist.com/p/semiconductors-made-in-america",
-          "score": 6,
-          "comments": 1
-        },
-        {
-          "title": "Where the goblins came from",
-          "url": "https://openai.com/index/where-the-goblins-came-from/",
-          "score": 971,
-          "comments": 580
-        },
-        {
-          "title": "Kubereboot/Kured: Kubernetes Reboot Daemon",
-          "url": "https://github.com/kubereboot/kured",
+          "title": "A Milestone in Formalization: The Sphere Packing Problem in Dimension 8",
+          "url": "https://www.alphaxiv.org/abs/2604.23468",
           "score": 8,
           "comments": 0
-        },
-        {
-          "title": "The Science Behind Honey's Eternal Shelf Life (2013)",
-          "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
-          "score": 45,
-          "comments": 25
-        },
-        {
-          "title": "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
-          "url": "https://pomax.github.io/bezierinfo/",
-          "score": 94,
-          "comments": 19
-        },
-        {
-          "title": "What can we gain by losing infinity?",
-          "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-          "score": 77,
-          "comments": 84
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 76267,
-          "change_24h": 1.55,
-          "change_7d": -2.36,
-          "market_cap": 1527204922882
+          "price": 76441,
+          "change_24h": 0.51,
+          "change_7d": -2.3,
+          "market_cap": 1530527906568
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2255.2,
-          "change_24h": 1.39,
-          "change_7d": -2.38,
-          "market_cap": 272220893809
+          "price": 2261.19,
+          "change_24h": -0.11,
+          "change_7d": -2.99,
+          "market_cap": 272891962077
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 83.05,
-          "change_24h": 1.82,
-          "change_7d": -3.29,
-          "market_cap": 47841455182
+          "price": 83.2,
+          "change_24h": -0.46,
+          "change_7d": -3.41,
+          "market_cap": 47923515533
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.105673,
-          "change_24h": 4.24,
-          "change_7d": 10.16,
-          "market_cap": 16286573674
+          "price": 0.106772,
+          "change_24h": -0.03,
+          "change_7d": 9.75,
+          "market_cap": 16448135453
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.245837,
-          "change_24h": 2.72,
-          "change_7d": -0.16,
-          "market_cap": 9091091800
+          "price": 0.246115,
+          "change_24h": 0.08,
+          "change_7d": -1.53,
+          "market_cap": 9100030414
         }
       ]
     },
@@ -214,12 +214,12 @@
         {
           "name": "MegaETH",
           "symbol": "MEGA",
-          "market_cap_rank": 197
+          "market_cap_rank": 185
         },
         {
           "name": "AITECH Cloud Network",
           "symbol": "ACN",
-          "market_cap_rank": 794
+          "market_cap_rank": 811
         },
         {
           "name": "Pudgy Penguins",
@@ -227,24 +227,14 @@
           "market_cap_rank": 86
         },
         {
-          "name": "Gensyn",
-          "symbol": "AI",
-          "market_cap_rank": 476
+          "name": "Asteroid Shiba",
+          "symbol": "ASTEROID",
+          "market_cap_rank": 221
         },
         {
           "name": "Terra Luna Classic",
           "symbol": "LUNC",
-          "market_cap_rank": 111
-        },
-        {
-          "name": "Pharos",
-          "symbol": "PROS",
-          "market_cap_rank": 304
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 38
+          "market_cap_rank": 112
         },
         {
           "name": "Bitcoin",
@@ -252,14 +242,24 @@
           "market_cap_rank": 1
         },
         {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 136
+        },
+        {
+          "name": "Orca",
+          "symbol": "ORCA",
+          "market_cap_rank": 249
+        },
+        {
           "name": "Solana",
           "symbol": "SOL",
           "market_cap_rank": 7
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 14
+          "name": "RaveDAO",
+          "symbol": "RAVE",
+          "market_cap_rank": 193
         }
       ]
     },
@@ -271,34 +271,36 @@
       "count": 4,
       "items": [
         {
-          "title": "US GDP Grows 2% in Q1 2026, Below Expectations Amid AI Boom and Inflation Pressures",
-          "summary": "The US economy expanded at a 2% annualized rate in the first quarter of 2026, slower than the 2.2% forecast, driven by an 8.7% surge in AI-related business investment but tempered by slowing consumer spending at 1.6% and elevated inflation with PCE price index at 4.5%. Energy prices hit wartime highs due to the Iran war, pushing gasoline to $4.30/gallon and Brent crude over $126/barrel.[1][2]",
-          "source": "CBS News / Bureau of Economic Analysis",
+          "title": "US Q1 GDP Grows at 2% Annual Rate Amid Slowdown",
+          "summary": "The US economy expanded at a 2% annualized rate in Q1 2026, below the 2.2% forecast but rebounding from prior quarter, driven by AI investment up 8.7% while consumer spending slowed to 1.6%. Inflation pressures from Iran war-related energy spikes cloud the outlook.",
+          "source": "CBS News",
           "url": "https://www.cbsnews.com/news/gdp-economic-growth-first-quarter-2026/"
         },
         {
-          "title": "US PCE Inflation Surges to 4.5% in Q1, Well Above Fed's 2% Target",
-          "summary": "The personal consumption expenditures (PCE) price index rose 4.5% annualized in Q1 2026, up from 2.9% last quarter, with core PCE at 4.3%, signaling persistent inflationary pressures amid the Iran war's impact on energy costs.[1][2]",
-          "source": "Bureau of Economic Analysis",
-          "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-1st-quarter-2026"
+          "title": "PCE Inflation Rises to 3.5% YoY, Exceeding Fed Target",
+          "summary": "March PCE price index surged 3.5% year-over-year, up from 2.8% in February, fueled by higher oil and gas prices from the Iran war; Fed holds rates at 3.5%-3.75% amid inflation concerns despite strong jobs data.",
+          "source": "WLOS",
+          "url": "https://wlos.com/news/nation-world/economy-hanging-in-there-as-reports-show-rising-inflation-slow-growth-2026-q1-gdp-march-pce-price-index-iran-war-rising-gas-prices-weekly-jobless-claims-federal-reserve-interest-rate-decision"
         },
         {
-          "title": "US Initial Jobless Claims Drop to 189K, Signaling Resilient Labor Market",
-          "summary": "Initial jobless claims fell to 189K, beating expectations of 215K, while the 4-week average eased to 207.5K, indicating ongoing strength in the US job market despite economic headwinds.[3]",
-          "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/calendar"
+          "title": "Weekly Jobless Claims Hit Lowest Level Since 1969",
+          "summary": "Initial jobless claims came in at record lows, signaling a low-hire, low-fire labor market with unemployment remaining historically low, providing positive offset to inflation and growth slowdown.",
+          "source": "WLOS",
+          "url": "https://wlos.com/news/nation-world/economy-hanging-in-there-as-reports-show-rising-inflation-slow-growth-2026-q1-gdp-march-pce-price-index-iran-war-rising-gas-prices-weekly-jobless-claims-federal-reserve-interest-rate-decision"
         },
         {
-          "title": "US New Home Sales Plunge 17.6% in March Amid High Rates and Costs",
-          "summary": "New home sales dropped sharply by 17.6% month-over-month to 0.587 million units, missing forecasts and reversing prior gains, reflecting housing market weakness.[3]",
-          "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/calendar"
+          "title": "Iran War Drives Gasoline to $4.30/Gallon, Brent Crude Over $126",
+          "summary": "Energy prices skyrocketed due to Iran conflict disrupting Strait of Hormuz oil flows, pushing US gasoline to $4.30 per gallon—highest since 2022—and Brent crude to wartime highs above $126/barrel.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/gdp-economic-growth-first-quarter-2026/"
         }
       ],
       "citations": [
+        "https://wlos.com/news/nation-world/economy-hanging-in-there-as-reports-show-rising-inflation-slow-growth-2026-q1-gdp-march-pce-price-index-iran-war-rising-gas-prices-weekly-jobless-claims-federal-reserve-interest-rate-decision",
         "https://www.cbsnews.com/news/gdp-economic-growth-first-quarter-2026/",
-        "https://www.bea.gov/news/2026/gdp-advance-estimate-1st-quarter-2026",
-        "https://tradingeconomics.com/calendar"
+        "https://tradingeconomics.com/calendar",
+        "https://tradingeconomics.com/united-states/calendar",
+        "https://www.bls.gov/opub/ted/"
       ]
     },
     "crypto_news": {
@@ -306,63 +308,39 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 4,
       "items": [
         {
-          "title": "Dogecoin Surges to Two-Month High Above $0.10",
-          "summary": "Dogecoin's price has risen above $0.10, marking a two-month high with a 138% increase in trading volume, amid a broader market decline. It leads gainers with up to 6.19% rise while overall crypto market cap falls 1.09% to $2.53 trillion.",
-          "source": "altFINS",
-          "url": "https://altfins.com/crypto-news/news-sentiment/d/8189"
+          "title": "Dogecoin Leads Meme Sector Surge with 7.40% Gain",
+          "summary": "The Meme sector rose 3.89% in the past 24 hours, driven by Dogecoin's 7.40% increase. Other gainers include Aptos up 4.84% and Rain up 4.56%.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/317958954311265"
         },
         {
-          "title": "$492 Million in Crypto Liquidations Over Past 24 Hours",
-          "summary": "The cryptocurrency market saw $492 million in liquidations in the last 24 hours, primarily affecting long positions, amid a 1.09% drop in total market cap to $2.53 trillion.",
+          "title": "$492 Million in Crypto Liquidations Amid Market Bloodbath",
+          "summary": "The cryptocurrency market saw $492 million in liquidations over the last 24 hours, primarily affecting long positions. This reflects heightened volatility following recent price dips.",
           "source": "TradingView",
           "url": "https://www.tradingview.com/news/u_today:dd94bf263094b:0-half-billion-cryptocurrency-market-bloodbath-might-start-something-ugly/"
         },
         {
-          "title": "Bitcoin Faces Sell Wall Between $80,500 and $82,000",
-          "summary": "Large traders have built a significant sell wall on Bitcoin between $80,500 and $82,000, contributing to market resistance as BTC holds near $76K after a dip.",
-          "source": "altFINS",
-          "url": "https://altfins.com/crypto-news/news-sentiment/d/8189"
+          "title": "Over 500 Ethereum Wallets Drained in Major Exploit",
+          "summary": "Attackers drained more than 500 dormant Ethereum wallets, some inactive for up to seven years, causing up to $800K in losses. Funds were swapped via ThorChain and bridged to Bitcoin network.",
+          "source": "MEXC",
+          "url": "https://www.mexc.com/news/1065675"
         },
         {
-          "title": "Solana Price Drops to $81.90, Hits Record Low RSI",
-          "summary": "Solana's price fell 2.15% to $81.90, testing support at $81.65 with the lowest Relative Strength Index (RSI) on record, signaling potential further decline to $78.80.",
-          "source": "altFINS",
-          "url": "https://altfins.com/crypto-news/news-sentiment/d/8189"
-        },
-        {
-          "title": "Tether Proposes Merger of Bitcoin Treasury, Mining, and Financial Services",
-          "summary": "Tether plans a three-way merger of its bitcoin treasury, mining operations, and financial services to streamline efficiency.",
-          "source": "altFINS",
-          "url": "https://altfins.com/crypto-news/news-sentiment/d/8189"
-        },
-        {
-          "title": "Coinbase to List WRON and MEGA Tokens, Expands AI and Virtual Services",
-          "summary": "Coinbase is expanding services by listing WRON and MEGA tokens to enhance AI and virtual asset support and improve market visibility.",
-          "source": "altFINS",
-          "url": "https://altfins.com/crypto-news/news-sentiment/d/8189"
-        },
-        {
-          "title": "Meta Adds USDC Payments for Content Creators via MetaMask, Phantom, Binance",
-          "summary": "Meta has introduced USDC as a payment option for creators, enabling quick transactions through MetaMask, Phantom, and Binance wallets.",
-          "source": "altFINS",
-          "url": "https://altfins.com/crypto-news/news-sentiment/d/8189"
-        },
-        {
-          "title": "Ethereum Eyes Potential 140% Rally if Key Resistance Breaks",
-          "summary": "Ethereum is positioned for a possible 140% rally upon overcoming key resistance, despite current struggles and a 2.21% price drop.",
-          "source": "altFINS",
-          "url": "https://altfins.com/crypto-news/news-sentiment/d/8189"
+          "title": "Bitcoin Holds Near $76K Despite 3% Dip and Record Inflows",
+          "summary": "Bitcoin traded near $76K after a 3% decline from $79K, supported by record nine-day inflows of $2.12 billion. Ethereum fell 2.21% while Dogecoin gained 6.19%.",
+          "source": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency"
         }
       ],
       "citations": [
-        "https://altfins.com/crypto-news/news-sentiment/d/8189",
-        "https://www.investing.com/analysis/the-crypto-market-is-falling-but-dogecoin-is-on-the-rise-200679425",
         "https://economictimes.indiatimes.com/markets/cryptocurrency",
-        "https://www.youtube.com/watch?v=-V1AyyzAZUs",
-        "https://www.tradingview.com/news/u_today:dd94bf263094b:0-half-billion-cryptocurrency-market-bloodbath-might-start-something-ugly/"
+        "https://www.binance.com/en/square/post/317958954311265",
+        "https://www.mexc.com/news/1065675",
+        "https://www.tradingview.com/news/u_today:dd94bf263094b:0-half-billion-cryptocurrency-market-bloodbath-might-start-something-ugly/",
+        "https://www.youtube.com/watch?v=-V1AyyzAZUs"
       ]
     },
     "ai_news": {
@@ -370,71 +348,65 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 9,
+      "count": 8,
       "items": [
         {
-          "title": "Google DeepMind Unveils Vision Banana, Outperforming Specialized Vision Models",
-          "summary": "Vision Banana, built by instruction-tuning Nano Banana Pro, beats five specialized models in tasks like semantic segmentation (0.699 mIoU vs. SAM 3's 0.652) and depth estimation (0.882 vs. UniK3D's 0.823). This breakthrough positions image generation as a universal interface for visual understanding.",
-          "source": "Devflokers",
-          "url": "https://www.devflokers.com/blog/ai-news-last-24-hours-april-29-30-2026-roundup"
+          "title": "Google Signs Classified AI Deal with Pentagon",
+          "summary": "Google has joined OpenAI and xAI as a U.S. Department of Defense contractor, agreeing to supply AI models for classified use including mission planning and weapons targeting. The agreement requires Google to adjust its AI safety settings and filters.",
+          "source": "MIT Sloan Management Review - AI Dispatch",
+          "url": "https://www.mitsloanme.com/article/ai-dispatch-24-30-april-2026/"
         },
         {
-          "title": "OpenAI Secures 10GW of US AI Compute Capacity Ahead of 2029 Goal",
-          "summary": "OpenAI signed contracts for 10GW of compute, adding over 3GW in the past 90 days, accelerating data center expansion plans years early. This supports ambitious scaling for advanced models.",
-          "source": "Techmeme",
-          "url": "https://www.techmeme.com"
+          "title": "OpenAI Plans AI-Centric Smartphone Launch by 2028",
+          "summary": "OpenAI is reportedly developing next-generation smartphone processors in partnership with Qualcomm and MediaTek, with mass production anticipated by 2028 to rival Apple's iPhone.",
+          "source": "MIT Sloan Management Review - AI Dispatch",
+          "url": "https://www.mitsloanme.com/article/ai-dispatch-24-30-april-2026/"
         },
         {
-          "title": "Mistral AI Raises $830M in Debt for NVIDIA-Powered Data Center Near Paris",
-          "summary": "Mistral AI secured $830 million to construct a major data center, enhancing its compute infrastructure for AI development. The funding underscores Europe's push in AI hardware.",
-          "source": "Devflokers",
-          "url": "https://www.devflokers.com/blog/ai-news-last-24-hours-april-29-30-2026-roundup"
+          "title": "Microsoft and OpenAI Revise Partnership Agreement",
+          "summary": "Microsoft and OpenAI announced amendments to their partnership that end Microsoft's revenue-share payments, strip cloud exclusivity, and convert Microsoft's intellectual property license to a non-exclusive arrangement.",
+          "source": "MIT Sloan Management Review - AI Dispatch",
+          "url": "https://www.mitsloanme.com/article/ai-dispatch-24-30-april-2026/"
         },
         {
-          "title": "Google Launches TPU 8i and 8t Chips with 80% Better Performance-Per-Dollar",
-          "summary": "TPU 8i offers 80% improvement in performance-per-dollar for agentic workflows, while TPU 8t boosts training speed 3x. Announced alongside Gemini Enterprise for secure AI deployment.",
-          "source": "Devflokers; AI Agent Store",
-          "url": "https://www.devflokers.com/blog/ai-news-last-24-hours-april-29-30-2026-roundup"
-        },
-        {
-          "title": "NVIDIA Releases Nemotron 3 Nano Omni for Multimodal AI Agents",
-          "summary": "Nemotron 3 Nano Omni processes video, audio, images, and text, making AI agents 9x faster and cheaper without quality loss. It targets efficient multimodal applications.",
-          "source": "AI Agent Store",
-          "url": "https://aiagentstore.ai/ai-agent-news/this-week"
-        },
-        {
-          "title": "Auctor Raises $20M Led by Sequoia for AI Enterprise Software Implementation",
-          "summary": "Auctor secured $20 million to develop an 'AI System of Action' automating enterprise software deployments. The funding highlights investor focus on AI operational tools.",
-          "source": "Devflokers",
-          "url": "https://www.devflokers.com/blog/ai-news-last-24-hours-april-29-30-2026-roundup"
-        },
-        {
-          "title": "Featherless.ai Raises $20M Series A for Serverless AI Inference",
-          "summary": "Serverless platform Featherless.ai, supporting 30,000+ open models, raised $20M co-led by AMD Ventures and Airbus Ventures. It enables scalable, cost-effective model deployment.",
-          "source": "Techmeme",
-          "url": "https://www.techmeme.com"
-        },
-        {
-          "title": "Starcloud Raises $170M for AI Data Centers in Low Earth Orbit",
-          "summary": "Starcloud became a unicorn 17 months post-founding with $170M to build orbital AI data centers. This innovative approach addresses terrestrial compute constraints.",
-          "source": "Devflokers",
-          "url": "https://www.devflokers.com/blog/ai-news-last-24-hours-april-29-30-2026-roundup"
-        },
-        {
-          "title": "Big Tech Hyperscalers to Spend $700B on AI Infrastructure in 2026",
-          "summary": "Major tech firms project $700 billion in AI infrastructure spending this year with no slowdown visible. SoftBank plans to IPO AI robotics firm Roze amid the frenzy.",
-          "source": "Fortune",
+          "title": "Big Tech's AI Infrastructure Spending Reaches $700 Billion Annually",
+          "summary": "Combined capital expenditures from Alphabet, Amazon, Meta, and Microsoft exceeded $130 billion in the latest quarter, with annual AI spending projected to surpass $700 billion in 2026, up from $410 billion last year.",
+          "source": "Fortune - Eye on AI",
           "url": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/"
+        },
+        {
+          "title": "SoftBank Plans $100 Billion AI and Robotics IPO",
+          "summary": "SoftBank Group is preparing to spin out and take public a new AI and robotics company called 'Roze,' targeting a valuation of up to $100 billion in what would be one of the largest AI IPOs to date.",
+          "source": "Fortune - Eye on AI",
+          "url": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/"
+        },
+        {
+          "title": "UAE Plans to Run 50% of Government on Agentic AI Within Two Years",
+          "summary": "UAE Prime Minister Sheikh Mohammed bin Rashid Al Maktoum announced a directive for the country to have 50% of federal government operations running on agentic AI within two years.",
+          "source": "MIT Sloan Management Review - AI Dispatch",
+          "url": "https://www.mitsloanme.com/article/ai-dispatch-24-30-april-2026/"
+        },
+        {
+          "title": "OpenAI's o1 Model Shows Promise in Medical Diagnosis",
+          "summary": "Research testing OpenAI's advanced o1 language model found it could accurately diagnose patients with various medical conditions, demonstrating AI's potential to match or exceed doctor performance in diagnostic tasks.",
+          "source": "Science Magazine",
+          "url": "https://www.science.org/content/article/ai-starting-beat-doctors-making-correct-diagnoses"
+        },
+        {
+          "title": "LLMs Help Scientists Identify Unexplored Research Topics",
+          "summary": "Researchers at Germany's Karlsruhe Institute of Technology used the LLaMa-2-13B model to analyze materials science publications and generate predictions for future research areas more precisely than traditional algorithms.",
+          "source": "Physics World",
+          "url": "https://physicsworld.com/a/ai-could-help-human-scientists-pick-promising-research-topics/"
         }
       ],
       "citations": [
-        "https://www.devflokers.com/blog/ai-news-last-24-hours-april-29-30-2026-roundup",
-        "https://www.techmeme.com",
-        "https://aiagentstore.ai/ai-agent-news/this-week",
-        "https://www.youtube.com/watch?v=4qv6NIpY9Fo",
-        "https://llm-stats.com/ai-news",
+        "https://www.mitsloanme.com/article/ai-dispatch-24-30-april-2026/",
+        "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/victim-of-ai-agent-that-deleted-companys-entire-database-gets-their-data-back-cloud-provider-recovers-critical-files-and-broadens-its-48-hour-delayed-delete-policy",
+        "https://www.science.org/content/article/ai-starting-beat-doctors-making-correct-diagnoses",
         "https://www.artificialintelligence-news.com/artificial-intelligence-news/",
-        "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/"
+        "https://physicsworld.com/a/ai-could-help-human-scientists-pick-promising-research-topics/",
+        "https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next"
       ]
     },
     "gaming": {
@@ -442,28 +414,46 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 5,
       "items": [
         {
-          "title": "RAID Shadow Legends Announces Dual Events for May 1st",
-          "summary": "RAID Shadow Legends is launching a 2x event for summoning epic and legendary champions from ancient shards and a simultaneous 10x event for glorious palace summons starting Friday, May 1st.",
-          "source": "RAID Shadow Legends News & Guides",
-          "url": "https://www.youtube.com/watch?v=Q6xSVvjCqnM"
+          "title": "TMNT VR Game Launches for Quest and PC",
+          "summary": "The first Teenage Mutant Ninja Turtles VR game, built from the ground up for VR, has released today for Quest and PC platforms.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=TP6vavm0dAw"
         },
         {
-          "title": "Valorant Implements Ranked Reset After One Game",
-          "summary": "Valorant has rolled out a soft ranked reset, where players receive their new rank immediately after playing just one game.",
-          "source": "Valorant News",
-          "url": "https://www.youtube.com/watch?v=2cuQPgHWfc8"
+          "title": "007: First Light James Bond Game Previewed",
+          "summary": "New gameplay footage and impressions of 007: First Light, a upcoming action-adventure James Bond game, suggest it could be the best in the series.",
+          "source": "Video Games Chronicle (VGC)",
+          "url": "https://www.youtube.com/watch?v=PrGKl7KXC9I"
+        },
+        {
+          "title": "Where Winds Meet Releases Patch Notes and Events",
+          "summary": "Latest patch notes and events for Where Winds Meet have been announced, including tips on gear materials and new content.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=z66wxf88pgg"
+        },
+        {
+          "title": "Diablo Immortal Introduces Auto Battle Terror Rifts Meta",
+          "summary": "New auto battle strategies using Terror Rifts are the top meta for efficient farming and rewards in Diablo Immortal following recent updates.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=DhQJphNYz3k"
+        },
+        {
+          "title": "Guild Wars 2 Windrose Update Review After 34 Hours",
+          "summary": "Early review of Guild Wars 2's Windrose update praises ship combat similarities to Assassin's Creed Black Flag and sea shanties.",
+          "source": "YouTube (Mukluk)",
+          "url": "https://www.youtube.com/watch?v=JdlThcr9ivc"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=Q6xSVvjCqnM",
-        "https://www.youtube.com/watch?v=2cuQPgHWfc8",
-        "https://www.youtube.com/watch?v=U-9QTDO7pwQ",
+        "https://www.youtube.com/watch?v=z66wxf88pgg",
+        "https://www.youtube.com/watch?v=TP6vavm0dAw",
+        "https://www.youtube.com/watch?v=PrGKl7KXC9I",
+        "https://www.youtube.com/watch?v=rFuEUzN2lR8",
         "https://www.youtube.com/watch?v=DhQJphNYz3k",
-        "https://www.youtube.com/watch?v=tOZh3-yDlR0",
-        "https://www.formula1.com/en/video/miami-build-up-on-the-cooldown-room.1863814163224665704"
+        "https://www.youtube.com/watch?v=JdlThcr9ivc"
       ]
     },
     "tech_news": {
@@ -471,13 +461,24 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 2,
+      "items": [
+        {
+          "title": "Apple Reports Q2 Revenue Up 17% to $111.18B, Beats Estimates with Record iPhone and Services Revenue",
+          "summary": "Apple announced Q2 earnings with revenue of $111.18 billion, up 17% year-over-year and surpassing $109.66 billion estimates, alongside net income up 19% to $29.6 billion and a new $100 billion share buyback authorization. Tim Cook noted iPhone sales were constrained by chip supply despite strong demand.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com"
+        },
+        {
+          "title": "Atlassian Q3 Revenue Surges 32% to $1.79B, Raises Annual Forecast as Stock Jumps 17%",
+          "summary": "Atlassian reported third-quarter revenue of $1.79 billion, exceeding $1.69 billion estimates and up 32% year-over-year, prompting an upward revision to its full-year revenue guidance. The company's stock rose over 17% in after-hours trading.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com"
+        }
+      ],
       "citations": [
-        "https://www.businesswire.com/newsroom/industry/technology",
-        "https://www.computerworld.com",
-        "https://www.engadget.com",
-        "https://www.jmir.org/2026/1/e99230"
+        "https://www.techmeme.com",
+        "https://www.youtube.com/watch?v=G-KhOq9ExRE"
       ]
     }
   }
