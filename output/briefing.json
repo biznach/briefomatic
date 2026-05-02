@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T06:41:21.475799+00:00",
-  "generated_at_human": "2026-05-02 06:41 UTC",
+  "generated_at": "2026-05-02T12:19:50.680362+00:00",
+  "generated_at_human": "2026-05-02 12:19 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,58 +8,100 @@
       "count": 25,
       "items": [
         {
-          "title": "Why does it take so long to release black fan versions?",
-          "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-          "score": 43,
-          "comments": 13
+          "title": "How fast is a macOS VM, and how small could it be?",
+          "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+          "score": 56,
+          "comments": 14
         },
         {
-          "title": "Ask.com has closed",
-          "url": "https://www.ask.com/",
-          "score": 190,
-          "comments": 98
+          "title": "Why does it take so long to release black fan versions?",
+          "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+          "score": 326,
+          "comments": 150
+        },
+        {
+          "title": "Why are there both TMP and TEMP environment variables? (2015)",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+          "score": 63,
+          "comments": 27
+        },
+        {
+          "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+          "url": "https://github.com/bruin-data/dac",
+          "score": 30,
+          "comments": 5
+        },
+        {
+          "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+          "url": "https://iesna.eu/?wasm=skyglow_demo",
+          "score": 21,
+          "comments": 5
+        },
+        {
+          "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+          "url": "https://mljar.com/",
+          "score": 22,
+          "comments": 3
         },
         {
           "title": "Ti-84 Evo",
           "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-          "score": 409,
-          "comments": 366
+          "score": 476,
+          "comments": 402
         },
         {
-          "title": "Job Postings for Software Engineers Are Rapidly Rising",
-          "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
-          "score": 117,
-          "comments": 52
+          "title": "Dotcl: Common Lisp Implementation on .NET",
+          "url": "https://github.com/dotcl/dotcl",
+          "score": 42,
+          "comments": 2
+        },
+        {
+          "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+          "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+          "score": 20,
+          "comments": 10
+        },
+        {
+          "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
+          "url": "https://piruet.app",
+          "score": 14,
+          "comments": 19
         },
         {
           "title": "Artemis II Photo Timeline",
           "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-          "score": 157,
-          "comments": 12
+          "score": 237,
+          "comments": 20
         },
         {
           "title": "New research suggests people can communicate and practice skills while dreaming",
           "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-          "score": 307,
-          "comments": 173
+          "score": 361,
+          "comments": 209
         },
         {
-          "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
-          "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
-          "score": 19,
-          "comments": 3
+          "title": "Bitmap and tilemap generation from a single example",
+          "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+          "score": 34,
+          "comments": 7
         },
         {
           "title": "To Restore an Island Paradise, Add Fungi",
           "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-          "score": 43,
-          "comments": 4
+          "score": 73,
+          "comments": 14
+        },
+        {
+          "title": "Ask.com has closed",
+          "url": "https://www.ask.com/",
+          "score": 303,
+          "comments": 154
         },
         {
           "title": "K3k: Kubernetes in Kubernetes",
           "url": "https://github.com/rancher/k3k",
-          "score": 19,
-          "comments": 8
+          "score": 71,
+          "comments": 39
         },
         {
           "title": "CollectWise (YC F24) Is Hiring",
@@ -68,94 +110,52 @@
           "comments": 0
         },
         {
-          "title": "I built the Playwright for desktop apps. 80% token savings",
-          "url": "https://github.com/lahfir/agent-desktop",
-          "score": 42,
-          "comments": 12
+          "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+          "url": "https://snewpapers.com/",
+          "score": 14,
+          "comments": 8
+        },
+        {
+          "title": "SFO Gate Explorer",
+          "url": "https://www.flysfo.com/passengers/services/gate-explorer",
+          "score": 3,
+          "comments": 1
         },
         {
           "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
           "url": "https://news.ycombinator.com/item?id=47975676",
-          "score": 150,
-          "comments": 210
+          "score": 170,
+          "comments": 223
         },
         {
-          "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-          "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-          "score": 124,
-          "comments": 158
+          "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+          "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
+          "score": 44,
+          "comments": 9
         },
         {
-          "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-          "url": "https://github.com/microsoft/lib0xc",
-          "score": 130,
-          "comments": 49
+          "title": "DeepSeek V4–almost on the frontier, a fraction of the price",
+          "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+          "score": 177,
+          "comments": 87
+        },
+        {
+          "title": "GameStop Preparing Offer for eBay",
+          "url": "https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de",
+          "score": 12,
+          "comments": 2
         },
         {
           "title": "Ask HN: Who is hiring? (May 2026)",
           "url": "https://news.ycombinator.com/item?id=47975571",
-          "score": 251,
-          "comments": 264
+          "score": 270,
+          "comments": 287
         },
         {
-          "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-          "url": "https://www.nature.com/articles/s41467-026-71526-5",
-          "score": 42,
-          "comments": 12
-        },
-        {
-          "title": "Integer Overflow Checking Cost",
-          "url": "https://danluu.com/integer-overflow/",
-          "score": 9,
-          "comments": 2
-        },
-        {
-          "title": "Sourcefeed – a pop-up RSS service",
-          "url": "https://www.sourcefeed.app/",
-          "score": 18,
-          "comments": 3
-        },
-        {
-          "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-          "url": "https://github.com/darrylmorley/whatcable",
-          "score": 479,
-          "comments": 137
-        },
-        {
-          "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
-          "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-          "score": 57,
-          "comments": 12
-        },
-        {
-          "title": "The smelly baby problem",
-          "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-          "score": 159,
-          "comments": 100
-        },
-        {
-          "title": "Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
-          "url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
-          "score": 10,
-          "comments": 4
-        },
-        {
-          "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
-          "url": "https://github.com/whohas/whohas",
-          "score": 135,
-          "comments": 32
-        },
-        {
-          "title": "Create an MP4 video of a web page scrolling at a steady speed",
-          "url": "https://github.com/upenn/web-scroll-video",
-          "score": 14,
-          "comments": 4
-        },
-        {
-          "title": "Apocalypse Early Warning System",
-          "url": "https://ews.kylemcdonald.net/",
-          "score": 154,
-          "comments": 82
+          "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+          "url": "https://github.com/microsoft/lib0xc",
+          "score": 152,
+          "comments": 57
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 78181,
-          "change_24h": 1.58,
-          "change_7d": 0.84,
-          "market_cap": 1565457273381
+          "price": 78128,
+          "change_24h": 0.63,
+          "change_7d": 0.42,
+          "market_cap": 1563849998836
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2300.29,
-          "change_24h": 0.98,
-          "change_7d": -0.68,
-          "market_cap": 277602763376
+          "price": 2301.83,
+          "change_24h": 0.34,
+          "change_7d": -0.79,
+          "market_cap": 277735069570
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 83.61,
-          "change_24h": -0.28,
-          "change_7d": -3.16,
-          "market_cap": 48177043188
+          "price": 83.81,
+          "change_24h": -0.43,
+          "change_7d": -2.96,
+          "market_cap": 48288979903
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.107765,
-          "change_24h": -0.72,
-          "change_7d": 9.53,
-          "market_cap": 16596298869
+          "price": 0.107471,
+          "change_24h": -1.27,
+          "change_7d": 9.67,
+          "market_cap": 16553852708
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.247301,
-          "change_24h": -0.37,
-          "change_7d": -1.59,
-          "market_cap": 9144348491
+          "price": 0.248002,
+          "change_24h": -0.1,
+          "change_7d": -1.47,
+          "market_cap": 9169067303
         }
       ]
     },
@@ -214,17 +214,17 @@
         {
           "name": "LAB",
           "symbol": "LAB",
-          "market_cap_rank": 244
-        },
-        {
-          "name": "AITECH Cloud Network",
-          "symbol": "ACN",
-          "market_cap_rank": 789
+          "market_cap_rank": 208
         },
         {
           "name": "MegaETH",
           "symbol": "MEGA",
-          "market_cap_rank": 197
+          "market_cap_rank": 203
+        },
+        {
+          "name": "AITECH Cloud Network",
+          "symbol": "ACN",
+          "market_cap_rank": 736
         },
         {
           "name": "Pudgy Penguins",
@@ -232,34 +232,34 @@
           "market_cap_rank": 86
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 37
+          "name": "Bio Protocol",
+          "symbol": "BIO",
+          "market_cap_rank": 270
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 128
         },
         {
-          "name": "Collector Crypt",
-          "symbol": "CARDS",
-          "market_cap_rank": 620
-        },
-        {
-          "name": "RaveDAO",
-          "symbol": "RAVE",
-          "market_cap_rank": 200
+          "name": "Terra Luna Classic",
+          "symbol": "LUNC",
+          "market_cap_rank": 115
         },
         {
           "name": "Gensyn",
           "symbol": "AI",
-          "market_cap_rank": 523
+          "market_cap_rank": 556
         },
         {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 45
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 13
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
         }
       ]
     },
@@ -271,49 +271,48 @@
       "count": 6,
       "items": [
         {
-          "title": "Fed Holds Interest Rates Steady Amid Iran War Risks",
-          "summary": "The Federal Reserve kept its main interest rate unchanged on Wednesday, citing risks to inflation and jobs from the ongoing Iran war, which has driven Brent crude oil to $119 per barrel. Fed Chair Jerome Powell highlighted economic uncertainty and solid growth, with four dissents on the statement's easing bias.",
-          "source": "WardsAuto",
-          "url": "https://www.wardsauto.com/news/fed-holds-main-rate-steady-notes-risks-to-jobs-inflation-from-iran-war/818981/"
+          "title": "Fed Chair Powell Announces No Rate Change, Cites Middle East Conflict and Inflation Pressures",
+          "summary": "The Federal Reserve maintained the federal funds rate target at 3.5% to 3.75%, with Powell stating he had 'no choice' amid inflation at 3.5% PCE driven by Middle East oil price surges and economic uncertainty. Economic activity remains solid with resilient consumer spending, though housing is weak.",
+          "source": "YouTube/The Financial Express",
+          "url": "https://www.youtube.com/watch?v=NRdvbYx2OWc"
         },
         {
-          "title": "US National Debt Surpasses 100% of GDP",
-          "summary": "The US national debt held by the public exceeded 100% of GDP for the first time since World War II in March, now at $38.97 trillion as of May 1. Projections indicate it could double over the next three decades due to increased spending.",
+          "title": "US National Debt Surpasses 100% of GDP, Hits Record $38.97 Trillion",
+          "summary": "The US national debt held by the public exceeded 100% of GDP for the first time since WWII, reaching $38,967,833,861,543 as of May 1, 2026, amid projections to double in three decades due to spending.",
           "source": "Fox Business",
           "url": "https://www.foxbusiness.com/category/economy"
         },
         {
-          "title": "Q1 GDP Grows 2%, Below Expectations",
-          "summary": "US first-quarter GDP expanded at 2%, slightly under the forecasted 2.3%, driven by AI/computer equipment investment and consumer spending. This comes amid rising energy prices and war-related pressures.",
+          "title": "Q1 GDP Grows 2%, Below Expectations; AI Investment and Consumer Spending Drive Growth",
+          "summary": "US first-quarter GDP expanded at 2%, slightly under the 2.3% forecast, supported by equipment investment in AI/computers and resilient consumer spending.",
           "source": "Fox Business",
           "url": "https://www.foxbusiness.com/category/economy"
         },
         {
-          "title": "Gas Prices Surge to $4.39 per Gallon Nationally",
-          "summary": "The AAA national average for regular gas rose over nine cents in one day to $4.392, fueled by the US naval blockade in the Strait of Hormuz crippling Iran's economy and spiking oil prices.",
+          "title": "Gas Prices Surge to $4.39 National Average as Oil Tensions Rise",
+          "summary": "AAA national average gas price jumped 9 cents in one day to $4.392, linked to Middle East conflict and US naval blockade impacting Iran's economy and global oil supply.",
           "source": "Fox Business",
           "url": "https://www.foxbusiness.com/category/economy"
         },
         {
-          "title": "30-Year Mortgage Rates Climb to 6.3%",
-          "summary": "The average 30-year fixed mortgage rate increased to 6.3% this week from 6.23%, according to Freddie Mac data released Thursday, amid persistent inflation and economic uncertainty.",
+          "title": "30-Year Mortgage Rates Climb to 6.3% Amid Economic Pressures",
+          "summary": "The average 30-year fixed mortgage rate rose to 6.3% from 6.23% the prior week, per Freddie Mac data, reflecting higher borrowing costs.",
           "source": "Fox Business",
           "url": "https://www.foxbusiness.com/category/economy"
         },
         {
-          "title": "Powell Pledges to Remain as Fed Governor Post-Term",
-          "summary": "Fed Chair Jerome Powell stated he will not retire after his term ends next month, committing to serve as a constructive governor without acting as a shadow chair.",
+          "title": "Powell Pledges to Remain as Fed Governor Post-Term, Rejects Retirement",
+          "summary": "Fed Chair Jerome Powell stated he will not retire after his term ends next month, committing to serve as a constructive Fed governor amid discussions on his future and Fed independence.",
           "source": "Fox Business",
           "url": "https://www.foxbusiness.com/category/economy"
         }
       ],
       "citations": [
-        "https://www.wardsauto.com/news/fed-holds-main-rate-steady-notes-risks-to-jobs-inflation-from-iran-war/818981/",
+        "https://www.youtube.com/watch?v=NRdvbYx2OWc",
         "https://www.foxbusiness.com/category/economy",
         "https://www.newyorkfed.org/research/calendars/nationalecon_cal",
-        "https://www.youtube.com/watch?v=nPG9eof1W0s",
-        "https://tradingeconomics.com/calendar",
-        "https://www.federalreserve.gov/econres/feds/files/2026023pap.pdf"
+        "https://tradingeconomics.com/united-states/calendar",
+        "https://www.federalreserve.gov"
       ]
     },
     "crypto_news": {
@@ -321,57 +320,24 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 2,
       "items": [
         {
-          "title": "Bitcoin and Ethereum Rebound as US CPI Data Looms",
-          "summary": "Bitcoin trades at $78,318 (+2.31%) and Ethereum at $2,296.69 (+1.49%), rebounding amid high Treasury yields and ETF outflows, with US April CPI data expected to drive volatility today.",
-          "source": "Phemex",
-          "url": "https://phemex.com/news/article/phemex-crypto-market-daily-bitcoin-ethereum-rebound-as-us-cpi-looms-doge-whale-activity-surges-may-02-78094"
+          "title": "Crypto Market Hit by $560M in Liquidations Amid US-Iran Tensions",
+          "summary": "Over the past 24 hours, more than $560 million worth of cryptocurrency positions have been liquidated, closely tied to escalating US-Iran tensions impacting market volatility.",
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/crypto-market-hit-by-560m-in-liquidations-amid-us-iran-tensions/"
         },
         {
-          "title": "Bitcoin and Dogecoin Surge as Tether Profits Soar",
-          "summary": "Bitcoin and Dogecoin lead gains with BTC at $78,345 (+2.63%) and DOGE at $0.1090 (+2.35%), fueled by Tether's strong profits, though dormant Ethereum wallets were drained and oil prices sparked a dip.",
-          "source": "altfins",
-          "url": "https://altfins.com/crypto-news/"
-        },
-        {
-          "title": "Ripple Unlocks Over a Billion XRP Worth $1.3 Billion",
-          "summary": "Ripple released over a billion XRP tokens, injecting $1.3 billion into the market and putting traders on alert for potential price volatility amid fragile indicators.",
-          "source": "AMBCrypto via altfins",
-          "url": "https://altfins.com/crypto-news/"
-        },
-        {
-          "title": "Binance Records $216M Net USDT Inflow in 24 Hours",
-          "summary": "Binance saw a $216 million net inflow of USDT, signaling potential boosts to exchange liquidity and broader crypto market activity.",
-          "source": "altfins",
-          "url": "https://altfins.com/crypto-news/"
-        },
-        {
-          "title": "US Debt Hits 100% of GDP for First Time Since WWII",
-          "summary": "US national debt reached 100% of GDP, a level not seen since WWII, with CBO warning of 120% by 2036, amid ongoing crypto market movements.",
-          "source": "CoinStats",
-          "url": "https://coinstats.app/news/"
-        },
-        {
-          "title": "Bitcoin Slips Below Key Holder Cost Basis Ahead of $1.74B Options Expiry",
-          "summary": "Bitcoin's put-call ratio rose to 0.73 with dropping volume as it slips below holder cost basis, ahead of a massive $1.74 billion options expiry.",
-          "source": "TradingView / NewsBTC",
-          "url": "https://www.tradingview.com/news/newsbtc:13ee18a37094b:0-bitcoin-slips-below-key-holder-cost-basis-ahead-of-1-74b-options-expiry/"
-        },
-        {
-          "title": "Big Tech Earnings Fuel Crypto Rally with Bitcoin Up 2.7%",
-          "summary": "Big Tech earnings sparked a risk rally, pushing Bitcoin up 2.7% to near $78K in the past 24 hours, though weekly gains are modest at 0.6%.",
-          "source": "CryptoBriefing",
-          "url": "https://cryptobriefing.com/big-tech-earnings-crypto-rally/"
+          "title": "Bitcoin Next Breakout Could Shock Everyone as Price Nears Key Levels",
+          "summary": "Bitcoin has risen from $2,000 yesterday to approach $783 with potential to push into the 80s amid low liquidity, signaling a possible rapid breakout; discussions include Trump comments on Iran oil blockade and upcoming Clarity Act announcement.",
+          "source": "YouTube - Thinking Crypto",
+          "url": "https://www.youtube.com/watch?v=CyP_eAnY5bc"
         }
       ],
       "citations": [
-        "https://phemex.com/news/article/phemex-crypto-market-daily-bitcoin-ethereum-rebound-as-us-cpi-looms-doge-whale-activity-surges-may-02-78094",
-        "https://coinstats.app/news/",
-        "https://altfins.com/crypto-news/",
-        "https://www.tradingview.com/news/newsbtc:13ee18a37094b:0-bitcoin-slips-below-key-holder-cost-basis-ahead-of-1-74b-options-expiry/",
-        "https://cryptobriefing.com/big-tech-earnings-crypto-rally/"
+        "https://cryptobriefing.com/crypto-market-hit-by-560m-in-liquidations-amid-us-iran-tensions/",
+        "https://www.youtube.com/watch?v=CyP_eAnY5bc"
       ]
     },
     "ai_news": {
@@ -379,10 +345,54 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 6,
+      "items": [
+        {
+          "title": "GPT-5.5 Achieves Top Position on AI Benchmarks",
+          "summary": "OpenAI's GPT-5.5 has claimed the top spot on independent AI benchmarks within 24 hours of release, scoring 60 points and representing a significant architectural redesign from previous versions.",
+          "source": "AI News Coverage",
+          "url": "https://www.youtube.com/watch?v=kXxrzTrMWMo"
+        },
+        {
+          "title": "DeepSeek V4 Pro Dominates Open-Source AI Race",
+          "summary": "China's DeepSeek V4 Pro, a government-backed model with 1.6 trillion parameters, is rapidly winning the open-source AI competition while US labs increasingly close their models, creating potential strategic dependencies.",
+          "source": "Exciting AI Updates Weekly",
+          "url": "https://www.youtube.com/watch?v=Z-Qvqfv5760"
+        },
+        {
+          "title": "Anthropic Launches Claude for Creative Work Integration",
+          "summary": "Anthropic released official Claude connectors for creative applications including Blender, Adobe Creative Cloud, Ableton, Splice, Canva, SketchUp, and Resolume, with a 240,000 euro corporate donation to Blender.",
+          "source": "Blender AI Integration News",
+          "url": "https://www.youtube.com/watch?v=RPSNy0Itwo4"
+        },
+        {
+          "title": "Apple's Internal AI Practices Revealed Through Leaked Files",
+          "summary": "Apple accidentally shipped internal CLAUDE.md files in a production app, exposing that engineers use Anthropic's Claude model and an internal LLM called Juno AI for development and customer support.",
+          "source": "Apple AI Leak Coverage",
+          "url": "https://www.youtube.com/watch?v=c8K7YjZ86Pw"
+        },
+        {
+          "title": "Stripe Launches AI Agent Commerce Tools",
+          "summary": "Stripe introduced Stripe Projects, the Machine Payments Protocol, and Link Wallet for Agents, enabling AI agents to autonomously build, buy, and sell products.",
+          "source": "Stripe Sessions Event",
+          "url": "https://www.youtube.com/watch?v=RPSNy0Itwo4"
+        },
+        {
+          "title": "Grok 4.3 Beta and Expanded AI Model Leaderboards",
+          "summary": "New AI model releases including Grok 4.3 Beta are competing on updated leaderboards, with growing context windows and agentic harnesses becoming standard requirements for all major AI models.",
+          "source": "Exciting AI Updates Weekly",
+          "url": "https://www.youtube.com/watch?v=Z-Qvqfv5760"
+        }
+      ],
       "citations": [
-        "https://www.deeplearning.ai/courses/ai-prompting-for-everyone"
+        "https://www.youtube.com/watch?v=kXxrzTrMWMo",
+        "https://www.youtube.com/watch?v=Z-Qvqfv5760",
+        "https://www.youtube.com/watch?v=RPSNy0Itwo4",
+        "https://www.youtube.com/watch?v=kYkIdXwW2AE",
+        "https://www.youtube.com/watch?v=c8K7YjZ86Pw",
+        "https://www.youtube.com/watch?v=3-wtaAXOAII",
+        "https://www.deeplearning.ai/courses/ai-prompting-for-everyone",
+        "https://www.youtube.com/watch?v=mpHPi2BdsCE"
       ]
     },
     "gaming": {
@@ -390,76 +400,45 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 5,
       "items": [
         {
-          "title": "Grand Theft Auto 6 Delayed to May 2026",
-          "summary": "Rockstar Games has delayed Grand Theft Auto 6 to May 26, 2026, delivering the anticipated but dreaded news to fans.",
-          "source": "CBR",
-          "url": "https://www.cbr.com/category/game-news/"
+          "title": "Heroes of Might and Magic: Olden Era Launches in Early Access with Massive Success",
+          "summary": "Heroes of Might and Magic: Olden Era has launched into Early Access, selling over 250,000 copies in less than 24 hours and receiving over 90% positive Steam reviews. Co-op mode and teams are confirmed to be coming soon.",
+          "source": "YouTube - Gaming Channel",
+          "url": "https://www.youtube.com/watch?v=dFmQ3LwkaUY"
         },
         {
-          "title": "Nintendo Sues Alleged Switch 2 Leaker Genki",
-          "summary": "Nintendo is taking legal action against accessory maker Genki for allegedly misleading consumers regarding Switch 2 information.",
-          "source": "CBR",
-          "url": "https://www.cbr.com/category/game-news/"
+          "title": "New VR Games Released: Five Nights at Freddy's, TMNT, and More",
+          "summary": "This week's VR releases include Five Nights at Freddy's: Secret Of The Mimic on PSVR 2 and PCVR, One More Delve on Quest and PCVR, Teenage Mutant Ninja Turtles: Empire City on PCVR and Quest, and Microsoft Flight Simulator on PSVR 2 and PCVR.",
+          "source": "YouTube - VR News",
+          "url": "https://www.youtube.com/watch?v=oqEKCvcMMd8"
         },
         {
-          "title": "Nioh 3 Announced for 2026 with PS5 Demo Now Available",
-          "summary": "Nioh 3 is set for release in 2026, and players can try its demo on PS5 immediately.",
-          "source": "TheGamer",
-          "url": "https://www.thegamer.com"
+          "title": "Upcoming VR Titles Announced: Into The Radius 2 and Others",
+          "summary": "Upcoming VR games include A Long Survive in May on PSVR 2 and PCVR, Paranormal Activity: The Lost Soul on Quest and PCVR, and Into The Radius 2 on Quest and PCVR.",
+          "source": "YouTube - VR News",
+          "url": "https://www.youtube.com/watch?v=oqEKCvcMMd8"
         },
         {
-          "title": "Final Fantasy Tactics - The Ivalice Chronicles Launches September 2026",
-          "summary": "A remaster of Final Fantasy Tactics titled The Ivalice Chronicles is scheduled for launch in September.",
-          "source": "TheGamer",
-          "url": "https://www.thegamer.com"
+          "title": "Nintendo Switch 2 News: Indiana Jones and the Great Circle Footage and Release Date",
+          "summary": "New footage and hands-on previews for Indiana Jones and the Great Circle, set for release on May 12th for Nintendo Switch 2. Rumors also swirl around Tomodachi Life and other titles like Borderlands 4 and Hogwarts Legacy.",
+          "source": "YouTube - Sunbro Nation",
+          "url": "https://www.youtube.com/watch?v=-940Jf8c2VY"
         },
         {
-          "title": "Silent Hill f Release Date Revealed Earlier Than Expected",
-          "summary": "Silent Hill f is coming sooner than anticipated, as announced in recent showcases.",
-          "source": "TheGamer",
-          "url": "https://www.thegamer.com"
-        },
-        {
-          "title": "DC Comics Video Game Franchise Returns in 2026",
-          "summary": "A new DC Universe video game has been confirmed via listing for a 2026 release.",
-          "source": "CBR",
-          "url": "https://www.cbr.com/category/game-news/"
-        },
-        {
-          "title": "Subnautica 2 Enters Early Access on May 14",
-          "summary": "The highly anticipated Subnautica sequel will launch into early access on May 14 after significant development drama.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/category/gaming/"
-        },
-        {
-          "title": "Elder Scrolls: Oblivion Remake Confirmed with Teaser",
-          "summary": "Bethesda has officially confirmed the Oblivion remake with a cryptic teaser, hinting at a sooner-than-expected reveal.",
-          "source": "CBR",
-          "url": "https://www.cbr.com/category/game-news/"
-        },
-        {
-          "title": "Star Wars: Galactic Racer Releases October 6",
-          "summary": "Star Wars: Galactic Racer is landing on PC, PS5, and Xbox Series X/S on October 6, with a collector's edition available.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/category/gaming/"
-        },
-        {
-          "title": "PlayStation State of Play Reveals Major Titles Including Digimon and Bloodstained",
-          "summary": "June's PlayStation State of Play showcased Final Fantasy Tactics remaster, Silent Hill f date, Digimon updates, new Bloodstained game, and more.",
-          "source": "TheGamer",
-          "url": "https://www.thegamer.com"
+          "title": "Battlefield 6 Season 3 Update Details Revealed",
+          "summary": "Battlefield 6 Season 3 brings major updates including mortar improvements, vehicle changes, ping system enhancements, matchmaking updates, menu overhauls, REDSEC gameplay, and new modes like ranked battle royale quads.",
+          "source": "YouTube - Battlefield News",
+          "url": "https://www.youtube.com/watch?v=XB6E0y9MUxw"
         }
       ],
       "citations": [
-        "https://www.thegamer.com",
-        "https://www.cbr.com/category/game-news/",
-        "https://screenrant.com/game-news/",
-        "https://opencritic.com",
-        "https://www.engadget.com/category/gaming/",
-        "https://www.pcgamer.com/movies-tv/far-cry-4-director-pushes-back-against-far-cry-tv-showrunner-calling-game-stories-pointless-and-executes-a-drive-by-on-alien-earth-which-turned-into-a-kind-of-weird-peter-pan-gets-a-dog-story/"
+        "https://www.youtube.com/watch?v=oqEKCvcMMd8",
+        "https://www.youtube.com/watch?v=dFmQ3LwkaUY",
+        "https://www.youtube.com/watch?v=-940Jf8c2VY",
+        "https://www.youtube.com/watch?v=XB6E0y9MUxw",
+        "https://www.cbsnews.com/video/game-chicken-between-us-iran-continue-for-now-national-security-analyst-says/"
       ]
     },
     "tech_news": {
@@ -467,70 +446,64 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 9,
+      "count": 8,
       "items": [
         {
-          "title": "Ubuntu and Canonical Servers Down After Sustained Cyberattack",
-          "summary": "Servers operated by Ubuntu and its parent company Canonical have been offline for over a day due to a sustained, cross-border cyberattack. This disruption affects critical infrastructure for the popular Linux distribution.",
+          "title": "Canonical and Ubuntu servers offline after sustained cross-border attack",
+          "summary": "Servers operated by Ubuntu and its parent company Canonical have been down for over a day following a sustained, cross-border cyber attack that began on Thursday.",
           "source": "Ars Technica",
           "url": "https://www.techmeme.com"
         },
         {
-          "title": "Samsung Ordered to Pay ZTE $392M for Patent Infringement",
-          "summary": "A UK court has ruled that Samsung must pay ZTE $392 million for patents essential for phone network access. Samsung faces additional similar lawsuits from ZTE in China, Germany, and Brazil.",
+          "title": "UK court orders Samsung to pay ZTE $392M for patents",
+          "summary": "A UK court has ordered Samsung to pay ZTE $392 million for patents essential for phone network access, with Samsung facing similar lawsuits in China, Germany, and Brazil.",
           "source": "Reuters",
           "url": "https://www.techmeme.com"
         },
         {
-          "title": "Apple Discontinues Cheapest Mac Mini Model",
-          "summary": "Apple has appears to have discontinued its entry-level Mac mini, with the compact desktop now starting at $799 and including 512GB of storage as standard.",
+          "title": "Nissan abandons plans for US EV plant",
+          "summary": "Nissan has scrapped its plans to build a US electric vehicle plant that was intended to produce 200,000 EVs annually.",
           "source": "Engadget",
           "url": "https://www.engadget.com"
         },
         {
-          "title": "Nissan Abandons Plans for US EV Plant",
-          "summary": "Nissan has scrapped its plans to build an electric vehicle plant in the US, which was intended to produce 200,000 EVs annually.",
+          "title": "Microsoft's Xbox mode rolling out to Windows 11 PCs",
+          "summary": "Microsoft is bringing its console-like Xbox mode interface to Windows 11 PCs, enhancing gaming experience on personal computers.",
           "source": "Engadget",
           "url": "https://www.engadget.com"
         },
         {
-          "title": "Quantum Motion Deploys First Full-Stack Silicon Quantum Computer",
-          "summary": "Quantum Motion has achieved a milestone by deploying the first full-stack quantum computer using standard silicon chip fabrication processes, potentially accelerating scalable quantum systems.",
-          "source": "TechNewsWorld",
-          "url": "https://www.technewsworld.com"
-        },
-        {
-          "title": "Google and Qualcomm Push Android PCs into Mainstream",
-          "summary": "Google and Qualcomm are advancing Android PCs to challenge Microsoft and Apple, aiming to scale the mobile OS to desktops and reshape personal computing.",
-          "source": "TechNewsWorld",
-          "url": "https://www.technewsworld.com"
-        },
-        {
-          "title": "Microsoft's Xbox Mode Rolls Out to Windows 11 PCs",
-          "summary": "Microsoft is bringing its console-like Xbox mode to Windows 11 PCs, providing a unified gaming interface across platforms.",
+          "title": "Oura adds detailed hormonal health insights to Series 3 and 4 rings",
+          "summary": "Oura is introducing more comprehensive hormonal health tracking to its Series 3 and 4 smart rings, including potential side effects of birth control methods.",
           "source": "Engadget",
           "url": "https://www.engadget.com"
         },
         {
-          "title": "Copernicus Sentinel-1D Satellite Now Fully Operational",
-          "summary": "The Sentinel-1D satellite, launched last November, has completed its in-orbit commissioning and is now live, completing Europe's radar mission with all four Sentinel-1 satellites deployed.",
+          "title": "Meta acquires Assured Robot Intelligence for robotics development",
+          "summary": "Meta has acquired Assured Robot Intelligence, a startup building AI models for robots, with the team joining Meta Superintelligence Labs.",
+          "source": "Bloomberg",
+          "url": "https://www.techmeme.com"
+        },
+        {
+          "title": "TSMC completes full exit from UK chip designer Arm with $231M share sale",
+          "summary": "TSMC has sold its remaining shares in Arm for $231 million, marking a complete exit from the UK-based chip designer.",
+          "source": "Silicon Republic",
+          "url": "https://www.siliconrepublic.com"
+        },
+        {
+          "title": "Sentinel-1D satellite becomes fully operational for Europe's radar mission",
+          "summary": "The Copernicus Sentinel-1D satellite, launched last November, has completed its in-orbit commissioning and is now fully operational, completing Europe's four-satellite Sentinel-1 constellation.",
           "source": "Phys.org",
           "url": "https://phys.org"
-        },
-        {
-          "title": "Oura Ring Adds Detailed Hormonal Health Insights",
-          "summary": "Oura has introduced more comprehensive hormonal health tracking to its Series 3 and 4 rings, including monitoring potential side effects of various birth control methods.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
         }
       ],
       "citations": [
-        "https://www.technewsworld.com",
+        "https://www.artificialintelligence-news.com",
         "https://www.techmeme.com",
         "https://www.engadget.com",
-        "https://www.youtube.com/watch?v=pR5bkPsMVT4",
-        "https://phys.org",
-        "https://www.informationweek.com"
+        "https://www.techtarget.com",
+        "https://www.siliconrepublic.com",
+        "https://phys.org"
       ]
     }
   }
