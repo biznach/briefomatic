@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T12:40:18.675517+00:00",
-  "generated_at_human": "2026-05-07 12:40 UTC",
+  "generated_at": "2026-05-07T18:36:44.204215+00:00",
+  "generated_at_human": "2026-05-07 18:36 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,40 +8,112 @@
       "count": 25,
       "items": [
         {
-          "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-          "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-          "score": 1526,
-          "comments": 500
+          "title": "The map that keeps Burning Man honest",
+          "url": "https://www.not-ship.com/burning-man-moop/",
+          "score": 365,
+          "comments": 161
         },
         {
-          "title": "Indian matchbox labels as a visual archive",
-          "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-          "score": 26,
+          "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "score": 161,
+          "comments": 54
+        },
+        {
+          "title": "Agents need control flow, not more prompts",
+          "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+          "score": 76,
+          "comments": 34
+        },
+        {
+          "title": "DeepSeek 4 Flash local inference engine for Metal",
+          "url": "https://github.com/antirez/ds4",
+          "score": 95,
+          "comments": 31
+        },
+        {
+          "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+          "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+          "score": 14,
           "comments": 2
         },
         {
-          "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-          "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-          "score": 56,
-          "comments": 20
+          "title": "Child marriages plunged when girls stayed in school in Nigeria",
+          "url": "https://www.nature.com/articles/d41586-026-00720-8",
+          "score": 244,
+          "comments": 156
         },
         {
-          "title": "Appearing productive in the workplace",
-          "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-          "score": 1302,
-          "comments": 515
+          "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+          "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+          "score": 185,
+          "comments": 51
+        },
+        {
+          "title": "PySimpleGUI 6",
+          "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+          "score": 42,
+          "comments": 13
+        },
+        {
+          "title": "The Self-Cancelling Subscription",
+          "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+          "score": 98,
+          "comments": 42
+        },
+        {
+          "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+          "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+          "score": 31,
+          "comments": 4
+        },
+        {
+          "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+          "url": "https://ratex.lites.dev/",
+          "score": 120,
+          "comments": 73
+        },
+        {
+          "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
+          "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
+          "score": 36,
+          "comments": 10
+        },
+        {
+          "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+          "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+          "score": 142,
+          "comments": 129
+        },
+        {
+          "title": "I want to live like Costco people",
+          "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+          "score": 51,
+          "comments": 116
         },
         {
           "title": "SQLite Is a Library of Congress Recommended Storage Format",
           "url": "https://sqlite.org/locrsf.html",
-          "score": 356,
-          "comments": 95
+          "score": 549,
+          "comments": 167
         },
         {
-          "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-          "url": "https://ahk.cardor.dev",
-          "score": 20,
-          "comments": 4
+          "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
+          "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+          "score": 54,
+          "comments": 53
+        },
+        {
+          "title": "Appearing productive in the workplace",
+          "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+          "score": 1494,
+          "comments": 603
+        },
+        {
+          "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+          "url": "https://github.com/ReviewStage/stage-cli",
+          "score": 9,
+          "comments": 3
         },
         {
           "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
@@ -50,112 +122,40 @@
           "comments": 0
         },
         {
-          "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
-          "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
-          "score": 41,
-          "comments": 36
+          "title": "Speedup in Lattice Boltzmann Cylinder Flow",
+          "url": "https://github.com/alikamp/Parks-KPBM-Scaling",
+          "score": 39,
+          "comments": 3
         },
         {
-          "title": "Permacomputing Principles",
-          "url": "https://permacomputing.net/principles/",
-          "score": 179,
-          "comments": 85
+          "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+          "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+          "score": 153,
+          "comments": 67
         },
         {
-          "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-          "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
-          "score": 36,
-          "comments": 21
-        },
-        {
-          "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-          "url": "https://aniket.foo/posts/20260505-netboot/",
-          "score": 119,
-          "comments": 64
-        },
-        {
-          "title": "Photoshop's challenges with focus, pt. 2",
-          "url": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/",
-          "score": 75,
-          "comments": 22
-        },
-        {
-          "title": "Chevrolet Performance eCrate package (400v/200hp)",
-          "url": "https://www.chevrolet.com/performance-parts/crate-engines/ecrate",
-          "score": 74,
-          "comments": 45
-        },
-        {
-          "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
-          "url": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
-          "score": 38,
-          "comments": 13
-        },
-        {
-          "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-          "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-          "score": 641,
-          "comments": 704
-        },
-        {
-          "title": "SingleRide: Longest route on NYC Subway without visiting the same station twice",
-          "url": "https://singleride.nyc/",
-          "score": 35,
-          "comments": 13
-        },
-        {
-          "title": "RSS feeds send me more traffic than Google",
-          "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-          "score": 150,
-          "comments": 35
-        },
-        {
-          "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-          "url": "https://arxiv.org/abs/2605.03546",
-          "score": 81,
-          "comments": 42
-        },
-        {
-          "title": "The brave souls who bought a used, 340k-mile rental camper van",
-          "url": "https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van",
-          "score": 19,
-          "comments": 5
-        },
-        {
-          "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-          "url": "https://ratex.lites.dev/",
-          "score": 4,
-          "comments": 1
-        },
-        {
-          "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-          "url": "https://github.com/darkrishabh/agent-skills-eval",
-          "score": 36,
-          "comments": 15
-        },
-        {
-          "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-          "url": "https://unsloth.ai/blog/nvidia-collab",
-          "score": 72,
-          "comments": 10
-        },
-        {
-          "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-          "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-          "score": 333,
-          "comments": 345
-        },
-        {
-          "title": "Show HN: Trust – Coding Rust like it's 1989",
+          "title": "Show HN: TRUST – Coding Rust like it's 1989",
           "url": "https://github.com/wojtczyk/trust",
-          "score": 53,
-          "comments": 16
+          "score": 80,
+          "comments": 53
         },
         {
-          "title": "From Supabase to Clerk to Better Auth",
-          "url": "https://blog.val.town/better-auth",
-          "score": 267,
-          "comments": 194
+          "title": "ZAYA1-8B matches DeepSeek-R1 on math with less than 1B active parameters",
+          "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+          "score": 60,
+          "comments": 49
+        },
+        {
+          "title": "Indian matchbox labels as a visual archive",
+          "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
+          "score": 130,
+          "comments": 31
+        },
+        {
+          "title": "Printing Blogs",
+          "url": "https://fi-le.net/print/",
+          "score": 11,
+          "comments": 1
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 81038,
-          "change_24h": -1.54,
-          "change_7d": 6.65,
-          "market_cap": 1622650353051
+          "price": 80201,
+          "change_24h": -1.36,
+          "change_7d": 5.2,
+          "market_cap": 1605628696447
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2333.41,
-          "change_24h": -3.08,
-          "change_7d": 3.25,
-          "market_cap": 281670936997
+          "price": 2302.81,
+          "change_24h": -1.83,
+          "change_7d": 2.01,
+          "market_cap": 277819225756
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 89.88,
-          "change_24h": 0.15,
-          "change_7d": 8.35,
-          "market_cap": 51865412584
+          "price": 88.95,
+          "change_24h": 0.22,
+          "change_7d": 7.15,
+          "market_cap": 51351418921
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.111441,
-          "change_24h": -4.07,
-          "change_7d": 5.04,
-          "market_cap": 17170004018
+          "price": 0.10847,
+          "change_24h": -4.05,
+          "change_7d": 2.66,
+          "market_cap": 16716837180
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.269753,
-          "change_24h": -0.73,
-          "change_7d": 9.63,
-          "market_cap": 9967494186
+          "price": 0.263906,
+          "change_24h": -0.79,
+          "change_7d": 7.19,
+          "market_cap": 9759514249
         }
       ]
     },
@@ -212,19 +212,14 @@
       "count": 10,
       "items": [
         {
-          "name": "LAB",
-          "symbol": "LAB",
-          "market_cap_rank": 156
-        },
-        {
           "name": "Firo",
           "symbol": "FIRO",
-          "market_cap_rank": 869
+          "market_cap_rank": 875
         },
         {
-          "name": "B3 (Base)",
-          "symbol": "B3",
-          "market_cap_rank": 391
+          "name": "Jito",
+          "symbol": "JTO",
+          "market_cap_rank": 153
         },
         {
           "name": "Toncoin",
@@ -232,24 +227,24 @@
           "market_cap_rank": 20
         },
         {
-          "name": "wojak",
-          "symbol": "WOJAK",
-          "market_cap_rank": 726
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 89
-        },
-        {
-          "name": "Dogs",
-          "symbol": "DOGS",
-          "market_cap_rank": 551
-        },
-        {
           "name": "Billions Network",
           "symbol": "BILL",
-          "market_cap_rank": 201
+          "market_cap_rank": 184
+        },
+        {
+          "name": "wojak",
+          "symbol": "WOJAK",
+          "market_cap_rank": 692
+        },
+        {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 16
+        },
+        {
+          "name": "Nillion",
+          "symbol": "NIL",
+          "market_cap_rank": 642
         },
         {
           "name": "Ondo",
@@ -257,9 +252,14 @@
           "market_cap_rank": 52
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 15
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 89
         }
       ]
     },
@@ -271,40 +271,42 @@
       "count": 5,
       "items": [
         {
-          "title": "Fed Chair Powell's Term as Chair Ends May 15 Amid Criticism of Policy Errors and Persistent Inflation",
-          "summary": "Mohamed El-Erian criticizes Jerome Powell's tenure for policy missteps, missing the 2% inflation target for six years, poor communication, and underestimating post-pandemic inflation that peaked at 9.1%; Powell will remain on the Fed Board, breaking tradition. Inflation remains structurally sticky above target, exacerbated by geopolitical tensions like strikes on Iran.",
-          "source": "Stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/fed-chair-powell-biggest-success-was-political-not-economic-el-erian/cZXbGbpRef7"
+          "title": "US Stocks Surge on Tech Earnings and US-Iran Peace Hopes",
+          "summary": "US tech sector and broader market rebounded strongly in the past 24 hours, driven by optimistic US-Iran peace negotiations and strong earnings from AI companies like AMD and Super Micro, pushing Nasdaq and S&P 500 to new highs while Dow exits correction.",
+          "source": "Moomoo",
+          "url": "https://www.moomoo.com/community/feed/u-s-tech-sector-news-roundup-rising-rising-rising-it-116530662342661"
         },
         {
-          "title": "US Equities Mixed in Overnight Trading: SPY +0.04%, QQQ -0.11%, DIA +0.15%",
-          "summary": "Major US stock indexes showed slight movements in Wednesday's overnight session amid ongoing market activity, with S&P 500 ETF up marginally while Nasdaq ETF dipped.",
-          "source": "Stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/fed-chair-powell-biggest-success-was-political-not-economic-el-erian/cZXbGbpRef7"
+          "title": "Core PCE Inflation Surges to 4.1% Amid AI Demand and Iran Supply Shock",
+          "summary": "Core PCE inflation rose sharply from 2.4% in November 2025 to 4.1% in February 2026, driven by AI-related microchip price inflation colliding with Iran conflict supply disruptions, complicating Fed rate cut outlook in a stagflationary environment.",
+          "source": "PIMCO",
+          "url": "https://www.pimco.com/us/en/insights/us-inflation-measures-tell-two-different-stories"
         },
         {
-          "title": "Federal Reserve Issues FOMC Statement on May 1",
-          "summary": "The Federal Reserve released its latest FOMC statement on May 1, 2026, providing updates on monetary policy amid ongoing economic reviews including the 2025 framework review and Fed Listens initiative.",
-          "source": "Federal Reserve Board",
-          "url": "https://www.federalreserve.gov"
+          "title": "Gas Prices Surge to $4.54 National Average Amid Strait of Hormuz Tensions",
+          "summary": "AAA national average gas price hit $4.536 due to US-Iran tensions and Strait of Hormuz closure, with Chevron CEO warning of global oil shortages and prices up over 41%, squeezing consumer budgets and restaurant sales.",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/category/economic-indicators"
         },
         {
-          "title": "Key US Economic Data Releases Today: ADP Employment, PPI, Core Inflation",
-          "summary": "Upcoming US releases include ADP Employment Change at 12:30 PM (exp. 70K), PPI MoM, Core Inflation Rate MoM (exp. 0.2%), and PPI YoY (exp. 3.6%), critical for gauging labor market and inflation trends.",
+          "title": "ADP Employment Change at 109K, Beating Estimates",
+          "summary": "US ADP Employment Change reported 109K jobs added, above economists' 99K estimate, though prior month revised lower to 62K; White House predicts 4% GDP growth fueled by AI factory investments.",
+          "source": "Fox Business / Trading Economics",
+          "url": "https://www.foxbusiness.com/category/economic-indicators"
+        },
+        {
+          "title": "Trump Warns of Strikes on Iran if Strait Not Reopened",
+          "summary": "President Trump threatened targeting Iran's electric plants, oil wells, and Kharg Island if no deal is reached and Strait of Hormuz not reopened, amid reports of a South Korean vessel struck there, impacting markets.",
           "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/united-states/calendar"
-        },
-        {
-          "title": "Global Economic Calendar Highlights: EA PPI, US Treasury Auction, BR PMIs",
-          "summary": "Euro Area PPI YoY at 09:00 AM (exp. 1.6%), UK Gilt Auction, German Bund Auction, Brazil S&P Global Services PMI (exp. 49), and Mexico Industrial Production among key global events today.",
-          "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/calendar"
+          "url": "https://tradingeconomics.com/stream"
         }
       ],
       "citations": [
+        "https://www.moomoo.com/community/feed/u-s-tech-sector-news-roundup-rising-rising-rising-it-116530662342661",
+        "https://tradingeconomics.com/stream",
+        "https://www.pimco.com/us/en/insights/us-inflation-measures-tell-two-different-stories",
+        "https://www.foxbusiness.com/category/economic-indicators",
         "https://tradingeconomics.com/calendar",
-        "https://tradingeconomics.com/united-states/calendar",
-        "https://stocktwits.com/news-articles/markets/equity/fed-chair-powell-biggest-success-was-political-not-economic-el-erian/cZXbGbpRef7",
         "https://www.federalreserve.gov"
       ]
     },
@@ -313,46 +315,38 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Ripple Teams Up with Crypto ISAC to Share North Korean Hacker Intelligence",
-          "summary": "Ripple is distributing threat intelligence on North Korean Lazarus Group cyberattacks, including profiles of suspected IT workers, wallet addresses, and indicators of compromise, to bolster industry defenses against social engineering campaigns.",
+          "title": "Coinbase Lays Off 14% of Workforce Amid Crypto Downturn and AI Shift",
+          "summary": "Coinbase is cutting about 700 employees (14% of staff) due to sluggish markets and AI advancements, introducing 'AI-native pods' with single-person teams handling multiple roles. US laid-off workers receive 16 weeks pay, equity vesting, and healthcare.",
           "source": "Investing News Network",
           "url": "https://investingnews.com/cryptocurrency-market-recap/"
         },
         {
-          "title": "ZCash (ZEC) Price Surges Over 20% After Multicoin Capital Reveals Large Position",
-          "summary": "ZEC jumped more than 20% following a tweet from Multicoin Capital disclosing a large position built since February, viewing it as insurance against government seizures of visible wealth.",
+          "title": "ZEC Price Surges Over 20% After Multicoin Capital Reveals Large Position",
+          "summary": "ZCash's ZEC token jumped over 20% (peaking at 30%) following Multicoin Capital's X post about building a major position since February, viewing it as insurance against government scrutiny of visible wealth.",
           "source": "Investing News Network",
           "url": "https://investingnews.com/cryptocurrency-market-recap/"
         },
         {
-          "title": "Bitcoin Rally Stalls, Drops 1.5% to $80,800 Amid $420M Liquidations",
-          "summary": "Bitcoin fell 1.5% to around $80,800 after stalling near $82,000, with the broader crypto market down 1.4% and over $420 million in leveraged positions liquidated.",
-          "source": "StockTwits",
-          "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-rally-stalls-ahead-of-jobless-claims-as-crude-oil-extends-decline/cZXbB1tReft"
-        },
-        {
-          "title": "Bitcoin Hits $82,700 on US-Iran Deal Optimism Before Slipping to $80,000",
-          "summary": "Bitcoin surged to $82,700 amid hopes for a US-Iran deal easing energy concerns but retreated to $80,000 as doubts emerged, with analysts highlighting strong spot demand.",
+          "title": "Bitcoin Hits $82,700 on US-Iran Deal Optimism Before Retreating to $80,000",
+          "summary": "Bitcoin surged to $82,700 amid hopes for a US-Iran deal easing energy concerns, triggering a $242 million short squeeze, but pulled back to $80,000 as doubts emerged; analysts highlight strong spot demand.",
           "source": "The Economic Times",
           "url": "https://economictimes.com/markets/cryptocurrency/bitcoin-slips-back-to-80000-after-reaching-82700-on-us-iran-deal-optimism-242-million-short-squeeze-fueled-rally/articleshow/130880779.cms"
         },
         {
-          "title": "Crypto Market Weakens as Smart Contract Platform Index Drops Over 2%",
-          "summary": "The overall cryptocurrency market declined, with the CoinDesk Smart Contract Platform Index falling more than 2% in the past 24 hours.",
-          "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/320562914408514"
+          "title": "Bitcoin Trades in Tight Range Near $82,000 Resistance After Breakout",
+          "summary": "Bitcoin moved between $81,250-$82,320 on May 6, reaching $81,760 intraday, with $82,000 now key resistance amid ongoing volatility.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/bitcoin-breakout-puts-82000-resistance-at-the-center-of-the-trade-200679826"
         }
       ],
       "citations": [
         "https://investingnews.com/cryptocurrency-market-recap/",
-        "https://www.binance.com/en/square/post/320562914408514",
-        "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-rally-stalls-ahead-of-jobless-claims-as-crude-oil-extends-decline/cZXbB1tReft",
+        "https://www.binance.com/en/square/post/320532504148177",
         "https://economictimes.com/markets/cryptocurrency/bitcoin-slips-back-to-80000-after-reaching-82700-on-us-iran-deal-optimism-242-million-short-squeeze-fueled-rally/articleshow/130880779.cms",
-        "https://www.investing.com/analysis/bitcoin-breakout-puts-82000-resistance-at-the-center-of-the-trade-200679826",
-        "https://cryptoslate.com/news/"
+        "https://www.investing.com/analysis/bitcoin-breakout-puts-82000-resistance-at-the-center-of-the-trade-200679826"
       ]
     },
     "ai_news": {
@@ -360,28 +354,45 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 5,
       "items": [
         {
-          "title": "AI Helping Ease UK's NHS Burden",
-          "summary": "The selective use of AI in the NHS is helping free up clinicians' time by reducing the burden of basic administrative work.",
-          "source": "Artificial Intelligence News",
-          "url": "https://www.artificialintelligence-news.com"
+          "title": "White House Proposes Federal AI Safety Vetting Process",
+          "summary": "The Trump administration is developing a process for federal government review of powerful AI models before release, following Anthropic's voluntary postponement of its Mythos model due to safety concerns and recent incidents of AI-related harms.",
+          "source": "TechXplore",
+          "url": "https://techxplore.com/news/2026-05-white-house-vet-powerful-ai.html"
         },
         {
-          "title": "Google Tests Remy AI Agent for Gemini",
-          "summary": "Google is testing Remy, an internal Gemini AI agent designed to act for users, monitor relevant information, and learn their preferences, as focus shifts to user control.",
-          "source": "Artificial Intelligence News",
-          "url": "https://www.artificialintelligence-news.com"
+          "title": "CERN Deploys Machine Learning to Enhance LHC Trigger Systems",
+          "summary": "ATLAS and CMS experiments at CERN are integrating AI and machine learning into their trigger systems to process collision data in real time, significantly improving their ability to identify rare events and search for new physics beyond the Standard Model.",
+          "source": "CERN",
+          "url": "https://home.cern/experiments/smarter-decisions-at-the-speed-of-collisions/"
+        },
+        {
+          "title": "Alibaba Launches AI Data Center with 10,000 Zhenwu Chips",
+          "summary": "Alibaba, in partnership with China Telecom, has launched a new AI-focused data center in southern China powered by 10,000 Zhenwu chips to support large-scale AI operations.",
+          "source": "Open Data Science",
+          "url": "https://opendatascience.com"
+        },
+        {
+          "title": "Samsung Reports Record AI Chip Demand with Eight-Fold Profit Increase",
+          "summary": "Samsung Electronics delivered record-breaking results with an eight-fold increase in operating profit, driven by surging demand for AI chips in the market.",
+          "source": "Open Data Science",
+          "url": "https://opendatascience.com"
+        },
+        {
+          "title": "Tech Giants Face Pressure Over AI Data Center Electricity Costs",
+          "summary": "As Google, Meta, Microsoft, and Amazon collectively plan to spend $364 billion on data center construction this year, debate intensifies over whether tech companies or consumers should bear the massive electricity costs required to power AI infrastructure.",
+          "source": "Close Up",
+          "url": "https://www.closeup.org/who-should-pay-for-the-electricity-that-powers-ai/"
         }
       ],
       "citations": [
-        "https://www.artificialintelligence-news.com",
-        "https://ai.meta.com/research/publications/neuralbench-a-unifying-framework-to-benchmark-neuroai-models/",
+        "https://home.cern/experiments/smarter-decisions-at-the-speed-of-collisions/",
+        "https://www.youtube.com/watch?v=oIx7a1ei5PE",
+        "https://techxplore.com/news/2026-05-white-house-vet-powerful-ai.html",
         "https://opendatascience.com",
-        "https://aithority.com/machine-learning/ai-drives-customer-loyalty-but-doubles-abandonment-when-digital-experiences-fail/",
-        "https://www.youtube.com/watch?v=uo1uy3nahtU",
-        "https://www.ycombinator.com/companies/industry/Machine%20Learning"
+        "https://www.closeup.org/who-should-pay-for-the-electricity-that-powers-ai/"
       ]
     },
     "gaming": {
@@ -389,40 +400,15 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "Top DD9 Finisher OG Diamond Dave Quits Marvel Strike Force After Scopely Issues",
-          "summary": "OG Diamond Dave, who placed seventh in Dark Dimension 9 with three diamond Annihilus characters, announced he is quitting the game due to recent Scopely disasters.",
-          "source": "YouTube - OG Diamond Dave",
-          "url": "https://www.youtube.com/watch?v=NR7gvgTdFM0"
-        },
-        {
-          "title": "Chinese COD Supply Drops Opened in 2026 with Insane Luck",
-          "summary": "Content creator opens free and purchased Chinese Call of Duty supply drops worth over $150 in Battle Teams 2, a game similar to COD Mobile, revealing new items and skins.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=56METGcpBL4"
-        },
-        {
-          "title": "Cheaters Return Stronger in NBA 2K26",
-          "summary": "New update highlights the return of advanced cheaters in NBA 2K26, posing challenges for fair play.",
-          "source": "YouTube - AllCityToo",
-          "url": "https://www.youtube.com/watch?v=kteUG9r_1qM"
-        },
-        {
-          "title": "New Legendary Tekteon Fissureflesh Predicted as Top 3 in Raid Shadow Legends",
-          "summary": "Test server footage shows the upcoming Argonite Void Legendary as a broken hybrid for PVE and PVP with support, damage, and control, potentially causing power creep.",
-          "source": "YouTube - Aftershock Media Group",
-          "url": "https://www.youtube.com/watch?v=r7yEaF6TZls"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=NR7gvgTdFM0",
-        "https://www.youtube.com/watch?v=56METGcpBL4",
-        "https://www.youtube.com/watch?v=kteUG9r_1qM",
+        "https://www.youtube.com/watch?v=gx2n6_EYPgE",
         "https://www.nhl.com/canadiens/video/postgame-buf-st-louis-6394834638112",
-        "https://www.youtube.com/watch?v=r7yEaF6TZls",
-        "https://www.youtube.com/watch?v=r1QtFv5hnLM"
+        "https://www.youtube.com/watch?v=vCMDdyFU7zo",
+        "https://www.youtube.com/watch?v=Y4oCwTpr0nQ",
+        "https://www.youtube.com/watch?v=r1QtFv5hnLM",
+        "https://www.youtube.com/watch?v=ufJ1Mu_99nc"
       ]
     },
     "tech_news": {
@@ -434,9 +420,10 @@
       "items": [],
       "citations": [
         "https://www.techmeme.com",
-        "https://www.engadget.com",
-        "https://www.artificialintelligence-news.com",
-        "https://www.youtube.com/watch?v=dWz-8BAwmA8"
+        "https://economictimes.com/tech/it/articlelist/78570530.cms",
+        "https://www.businesswire.com/newsroom/industry/technology",
+        "https://www.siliconrepublic.com",
+        "https://www.youtube.com/watch?v=KdLJbpi-QwY"
       ]
     }
   }
