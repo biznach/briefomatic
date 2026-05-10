@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T18:21:12.088374+00:00",
-  "generated_at_human": "2026-05-09 18:21 UTC",
+  "generated_at": "2026-05-10T00:41:19.507933+00:00",
+  "generated_at_human": "2026-05-10 00:41 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+          "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+          "score": 376,
+          "comments": 364
+        },
+        {
           "title": "Internet Archive Switzerland",
-          "url": "https://internetarchive.ch/",
-          "score": 347,
-          "comments": 51
+          "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+          "score": 520,
+          "comments": 76
         },
         {
-          "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-          "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-          "score": 24,
-          "comments": 12
+          "title": "The Serial TTL connector we deserve",
+          "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+          "score": 26,
+          "comments": 24
         },
         {
-          "title": "PipeDream on the Acorn Archimedes",
-          "url": "https://stonetools.ghost.io/pipedream-archimedes/",
-          "score": 52,
-          "comments": 15
+          "title": "Rust but Lisp",
+          "url": "https://github.com/ThatXliner/rust-but-lisp",
+          "score": 49,
+          "comments": 24
         },
         {
-          "title": "LLMs Corrupt Your Documents When You Delegate",
-          "url": "https://arxiv.org/abs/2604.15597",
-          "score": 227,
-          "comments": 85
+          "title": "I’ve banned query strings",
+          "url": "https://chrismorgan.info/no-query-strings",
+          "score": 247,
+          "comments": 133
         },
         {
-          "title": "Google broke reCAPTCHA for de-googled Android users",
-          "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-          "score": 1357,
-          "comments": 491
-        },
-        {
-          "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
-          "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-          "score": 133,
-          "comments": 80
-        },
-        {
-          "title": "How LEDs are made (2014)",
-          "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
-          "score": 94,
-          "comments": 12
-        },
-        {
-          "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-          "url": "https://twitter.com/trq212/status/2052809885763747935",
-          "score": 350,
-          "comments": 210
-        },
-        {
-          "title": "I Will Not Add Query Strings to Your URLs",
-          "url": "https://susam.net/no-query-strings.html",
-          "score": 17,
-          "comments": 1
+          "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+          "url": "https://github.com/nooga/let-go",
+          "score": 79,
+          "comments": 20
         },
         {
           "title": "Zed Editor Theme-Builder",
           "url": "https://zed.dev/theme-builder",
-          "score": 11,
-          "comments": 2
+          "score": 147,
+          "comments": 43
+        },
+        {
+          "title": "Local privilege escalation via execve()",
+          "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+          "score": 69,
+          "comments": 54
+        },
+        {
+          "title": "Making your own programming language is easier than you think (but also harder)",
+          "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+          "score": 33,
+          "comments": 8
+        },
+        {
+          "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+          "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+          "score": 103,
+          "comments": 55
+        },
+        {
+          "title": "Production engineering when trading billions of dollars a day [video]",
+          "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
+          "score": 83,
+          "comments": 20
+        },
+        {
+          "title": "Distributing Mac software is increasing my cortisol levels",
+          "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+          "score": 186,
+          "comments": 120
+        },
+        {
+          "title": "LLMs corrupt your documents when you delegate",
+          "url": "https://arxiv.org/abs/2604.15597",
+          "score": 340,
+          "comments": 130
         },
         {
           "title": "A recent experience with ChatGPT 5.5 Pro",
           "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-          "score": 518,
-          "comments": 375
+          "score": 593,
+          "comments": 420
         },
         {
-          "title": "Mythical Man Month",
-          "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-          "score": 296,
-          "comments": 174
+          "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+          "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
+          "score": 10,
+          "comments": 0
         },
         {
-          "title": "America's carpet capital: an empire and its toxic legacy",
-          "url": "https://apnews.com/projects/pfas-forever-stained/",
-          "score": 129,
-          "comments": 76
+          "title": "Meta's embrace of A.I. is making its employees miserable",
+          "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+          "score": 258,
+          "comments": 227
         },
         {
-          "title": "OpenAI’s WebRTC problem",
-          "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-          "score": 421,
-          "comments": 131
+          "title": "The hypocrisy of cyberlibertarianism",
+          "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+          "score": 249,
+          "comments": 204
         },
         {
-          "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
-          "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
-          "score": 131,
-          "comments": 37
+          "title": "France Moves to Break Encrypted Messaging",
+          "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+          "score": 44,
+          "comments": 14
         },
         {
-          "title": "Introduction to Beaver Triples",
-          "url": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
+          "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+          "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+          "score": 374,
+          "comments": 271
+        },
+        {
+          "title": "Getting arrested in Japan",
+          "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+          "score": 116,
+          "comments": 114
+        },
+        {
+          "title": "I caught the car",
+          "url": "https://undecidability.net/senior/",
+          "score": 37,
+          "comments": 31
+        },
+        {
+          "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+          "url": "https://twitter.com/trq212/status/2052809885763747935",
+          "score": 409,
+          "comments": 235
+        },
+        {
+          "title": "Surfel-based global illumination on the web",
+          "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
           "score": 8,
-          "comments": 3
+          "comments": 0
         },
         {
-          "title": "Show HN: I wrote a flight simulator in my own programming language",
-          "url": "https://github.com/navid-m/flightsim",
-          "score": 16,
-          "comments": 5
-        },
-        {
-          "title": "David Attenborough's 100th Birthday",
-          "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-          "score": 789,
-          "comments": 153
-        },
-        {
-          "title": "Apple is increasing my cortisol levels",
-          "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+          "title": "Random tie knots (2014)",
+          "url": "https://tieknots.how/",
           "score": 10,
           "comments": 1
         },
         {
-          "title": "Reviving the IBM Selectric Composer Fonts (2023)",
-          "url": "https://www.kutilek.de/selectric/",
-          "score": 48,
-          "comments": 5
-        },
-        {
-          "title": "Building the TD4 4-Bit CPU",
-          "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
-          "score": 33,
-          "comments": 11
-        },
-        {
-          "title": "What causes lightning? The answer keeps getting more interesting",
-          "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
-          "score": 149,
-          "comments": 37
-        },
-        {
-          "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
-          "url": "https://mochijs.com/",
-          "score": 12,
-          "comments": 4
-        },
-        {
-          "title": "Killswitch: Per-function short-circuit mitigation primitive",
-          "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
-          "score": 64,
-          "comments": 14
-        },
-        {
-          "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-          "url": "https://www.wiisfi.com/",
-          "score": 324,
-          "comments": 88
+          "title": "PipeDream on the Acorn Archimedes",
+          "url": "https://stonetools.ghost.io/pipedream-archimedes/",
+          "score": 74,
+          "comments": 36
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 80816,
-          "change_24h": 0.71,
-          "change_7d": 3.1,
-          "market_cap": 1618684350775
+          "price": 80706,
+          "change_24h": 0.65,
+          "change_7d": 2.41,
+          "market_cap": 1616173356001
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2330.09,
-          "change_24h": 0.54,
-          "change_7d": 0.93,
-          "market_cap": 281240090791
+          "price": 2326.17,
+          "change_24h": 0.69,
+          "change_7d": 0.03,
+          "market_cap": 280747378945
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 93.23,
-          "change_24h": 1.32,
-          "change_7d": 10.97,
-          "market_cap": 53841315208
+          "price": 93.08,
+          "change_24h": 0.75,
+          "change_7d": 10.23,
+          "market_cap": 53764485934
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.109625,
-          "change_24h": 0.93,
-          "change_7d": 0.87,
-          "market_cap": 16896331779
+          "price": 0.108759,
+          "change_24h": -0.77,
+          "change_7d": -0.06,
+          "market_cap": 16768758984
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.272337,
-          "change_24h": -0.02,
-          "change_7d": 9.05,
-          "market_cap": 10069382967
+          "price": 0.271363,
+          "change_24h": -1.29,
+          "change_7d": 8.16,
+          "market_cap": 10037898526
         }
       ]
     },
@@ -212,24 +212,14 @@
       "count": 10,
       "items": [
         {
+          "name": "wojak",
+          "symbol": "WOJAK",
+          "market_cap_rank": 669
+        },
+        {
           "name": "Venice Token",
           "symbol": "VVV",
           "market_cap_rank": 86
-        },
-        {
-          "name": "Billions Network",
-          "symbol": "BILL",
-          "market_cap_rank": 155
-        },
-        {
-          "name": "aura",
-          "symbol": "AURA",
-          "market_cap_rank": 630
-        },
-        {
-          "name": "wojak",
-          "symbol": "WOJAK",
-          "market_cap_rank": 660
         },
         {
           "name": "Pudgy Penguins",
@@ -237,14 +227,29 @@
           "market_cap_rank": 89
         },
         {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 28
+          "name": "Aerodrome Finance",
+          "symbol": "AERO",
+          "market_cap_rank": 114
         },
         {
-          "name": "Firo",
-          "symbol": "FIRO",
-          "market_cap_rank": 865
+          "name": "Billions Network",
+          "symbol": "BILL",
+          "market_cap_rank": 157
+        },
+        {
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 45
+        },
+        {
+          "name": "Bio Protocol",
+          "symbol": "BIO",
+          "market_cap_rank": 271
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Solana",
@@ -252,14 +257,9 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 15
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 36
         }
       ]
     },
@@ -268,51 +268,31 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 3,
       "items": [
         {
-          "title": "US ADP Employment Change Expected at 109K for Latest Report",
-          "summary": "The upcoming US ADP Employment Change is forecasted at 109K, compared to prior 61K consensus and 99K actual, scheduled for 12:30 PM amid key economic data releases. This private payrolls figure often previews nonfarm payrolls and influences Fed rate expectations.",
-          "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/calendar"
+          "title": "Amgen Q1 2026 Earnings Beat Expectations Despite Stock Decline",
+          "summary": "Amgen reported Q1 2026 EPS of $5.15, beating forecasts by 7.29%, with revenue of $8.62 billion slightly above the expected $8.59 billion. However, the stock fell 2.43% in after-hours trading following the announcement.",
+          "source": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-amgen-q1-2026-beats-eps-forecast-stock-dips-93CH-4674655?ampMode=1"
         },
         {
-          "title": "Euro Area PPI YoY Comes in at 2.1%",
-          "summary": "Euro Area Producer Price Index year-over-year rose 2.1%, beating forecasts of -3% and previous 1.8%, at 09:00 AM. This data impacts ECB inflation outlook and monetary policy decisions.",
-          "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/calendar"
+          "title": "Solana ETFs See Significant Inflows as Wall Street Interest Grows",
+          "summary": "Spot Solana ETFs attracted approximately $33 million in net inflows over the past week, including a strong $6.7 million surge on Thursday, indicating growing institutional interest in the cryptocurrency.",
+          "source": "MEXC",
+          "url": "https://www.mexc.co/en-PH/news/1080194"
         },
         {
-          "title": "Meta and Microsoft Stocks Decline After Disappointing Earnings",
-          "summary": "Shares of Meta and Microsoft fell following their latest earnings reports, as discussed by Barron's Roundtable panelists. Investors are advised to focus on key market considerations amid the downturn.",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/category/us-markets"
-        },
-        {
-          "title": "Broad Market Rally Driven by Tech Earnings and Gold Surge",
-          "summary": "Markets rallied broadly with investors turning to gold and metals amid Middle East peace hopes and robust tech earnings, according to Hennion & Walsh CIO Kevin Mahn. Northwestern Mutual CIO attributes gains to resilient growth and stable labor market.",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/category/us-markets"
-        },
-        {
-          "title": "Apple Highlights AI Investments in Q2 Earnings Report",
-          "summary": "Apple's second-quarter earnings featured CEO Tim Cook emphasizing major investments in artificial intelligence. The report contributed to market discussions on Big Tech performance.",
-          "source": "Fox Business",
-          "url": "https://www.foxbusiness.com/category/us-markets"
-        },
-        {
-          "title": "Upcoming CPI Data Expected to Show 0.6% MoM and 3.7% YoY Rise",
-          "summary": "Headline CPI for April is forecasted to increase 0.6% month-over-month and 3.7% year-over-year, with core CPI at 0.3% MoM and 2.7% YoY. This week's light calendar also features April nonfarm payrolls.",
-          "source": "Kiplinger",
-          "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+          "title": "U.S. Congressman Proposes Bitcoin Reserve Bill with Capital Gains Tax Elimination",
+          "summary": "A U.S. Congressman has proposed legislation to establish a Bitcoin reserve while eliminating capital gains taxes on Bitcoin transactions, signaling potential policy shifts toward cryptocurrency.",
+          "source": "MEXC",
+          "url": "https://www.mexc.co/en-PH/news/1080194"
         }
       ],
       "citations": [
-        "https://tradingeconomics.com/calendar",
-        "https://www.foxbusiness.com/category/us-markets",
-        "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
-        "https://www.marketplace.org",
-        "https://www.stlouisfed.org/publications"
+        "https://www.mexc.co/en-PH/news/1080194",
+        "https://investing.com/news/transcripts/earnings-call-transcript-amgen-q1-2026-beats-eps-forecast-stock-dips-93CH-4674655?ampMode=1",
+        "https://tradingeconomics.com/calendar"
       ]
     },
     "crypto_news": {
@@ -320,59 +300,55 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "Crypto Market Sees $179M in Liquidations Over 24 Hours, Shorts Hit Hardest",
-          "summary": "The cryptocurrency market experienced $179 million in liquidations in the past 24 hours, with short positions accounting for $129 million and long positions $50.15 million; BTC and ETH saw $12.68M and $18.52M liquidated respectively, affecting 77,665 traders.",
-          "source": "KuCoin",
-          "url": "https://www.kucoin.com/news/flash/crypto-market-sees-179m-in-liquidations-over-24-hours-short-positions-hit-hardest"
-        },
-        {
-          "title": "Crypto Market Liquidations Reach $202M in 24 Hours",
-          "summary": "Total cryptocurrency liquidations hit $202 million over the past 24 hours, with Bitcoin shorts liquidated for $19.48 million and longs for $8.44 million, alongside significant Ethereum position liquidations.",
-          "source": "Binance Square",
+          "title": "Crypto Market Experiences $202 Million in Liquidations Over 24 Hours",
+          "summary": "The cryptocurrency market witnessed $202 million in liquidations, with short positions accounting for $153 million and long positions for $49.065 million. Bitcoin and Ethereum experienced significant liquidations, with 81,778 traders liquidated globally, and the largest single liquidation occurring on Hyperliquid's SOL-USD pair valued at $4.6826 million.",
+          "source": "Binance",
           "url": "https://www.binance.com/en/square/post/05-09-2026-crypto-market-experiences-202-million-in-liquidations-over-24-hours-321228889534385"
         },
         {
-          "title": "Bitcoin Briefly Slips Below $80,000 But Options Traders Bet on Quick Recovery",
-          "summary": "Bitcoin dropped below $80,000 in the last 24 hours amid profit-taking and over-leveraged position unwinding, but recovered to $80,360 as options markets show strong risk appetite and no signs of deeper breakdown.",
+          "title": "Bitcoin Briefly Slips Below $80,000 but Options Traders Remain Bullish",
+          "summary": "Bitcoin experienced a brief dip below $80,000 during the past 24 hours but quickly rebounded following positive market sentiment. Options traders are betting the pullback won't last, with on-chain metrics and resilient options markets pointing toward a potential structural breakout.",
           "source": "CryptoSlate",
           "url": "https://cryptoslate.com/bitcoin-briefly-slips-below-80000-but-options-traders-are-betting-the-dip-wont-last/"
         },
         {
-          "title": "Bitcoin Holds Near $80,000 After Rejection at $82,500 Amid ETF Outflows",
-          "summary": "Bitcoin traded near $80,000 following a rejection at $82,500, with cautious sentiment triggered by ETF outflows on Thursday.",
-          "source": "Economic Times",
-          "url": "https://economictimes.com/markets/cryptocurrency/bitcoin-holds-near-80000-after-rejection-at-82500-etf-outflows-trigger-cautious-sentiment/articleshow/130972440.cms"
+          "title": "Trump Announces Russia-Ukraine Ceasefire, Bitcoin Rallies to $80K",
+          "summary": "US President Trump announced a three-day ceasefire between Russia and Ukraine, which positively impacted the cryptocurrency market. Bitcoin rallied approximately $1,000 following the announcement, with altcoins including ONDO, SIREN, JUP, ICP, and VVV seeing impressive double-digit gains.",
+          "source": "CryptoPotato",
+          "url": "https://cryptopotato.com/crypto-news/"
         },
         {
-          "title": "Coinbase Reports $394M Q1 Loss and Major Outage",
-          "summary": "Coinbase posted a $394 million Q1 loss due to $482 million in unrealized crypto investment losses tied to Bitcoin's price slide, followed by an hours-long outage from an AWS data center overheating.",
-          "source": "Investing News",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
+          "title": "DeepBook (DEEP) Surges 23% Following Predict Debut",
+          "summary": "DeepBook token rallied more than 23% in the last 24 hours, significantly outperforming the broader crypto market which was up only 0.70%. The surge was primarily driven by the new Predict product launch, with DEEP breaking out of a 100-day consolidation period.",
+          "source": "AMBCrypto",
+          "url": "https://ambcrypto.com/deepbook-up-23-after-predict-debut-can-deep-escape-its-100-day-rut/"
         },
         {
-          "title": "Hut 8 Revenue Triples to $71M, Signs $9.8B AI Lease",
-          "summary": "Bitcoin miner Hut 8 reported Q1 revenue of $71 million, up threefold year-over-year, and inked a 15-year $9.8 billion lease to provide AI computing power from a Texas facility.",
-          "source": "Investing News",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
+          "title": "Bybit Expands Perpetual Contracts to Include TradFi Assets",
+          "summary": "Bybit, the world's second-largest cryptocurrency exchange by trading volume, has expanded its perpetual contracts offerings to include seven new traditional finance assets, including US stocks and global ETFs covering Asian markets.",
+          "source": "altFINS",
+          "url": "https://altfins.com/crypto-news/"
         },
         {
-          "title": "SoFi to Launch SoFiUSD on Solana Network",
-          "summary": "Regulated US bank SoFi announced expansion of SoFiUSD to Solana, becoming the first nationally chartered US bank to accept direct Solana network deposits.",
-          "source": "Investing News",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
+          "title": "Ethereum Whales Begin Selling Despite Market Strength",
+          "summary": "While Bitcoin targets $200,000 with macro strength and XRP draws significant investment, Ethereum whales are actively selling positions. Market analysts express concerns about TON volatility and potential centralization issues related to ETF inflows.",
+          "source": "altFINS",
+          "url": "https://altfins.com/crypto-news/"
         }
       ],
       "citations": [
         "https://www.kucoin.com/news/flash/crypto-market-sees-179m-in-liquidations-over-24-hours-short-positions-hit-hardest",
-        "https://investingnews.com/cryptocurrency-market-recap/",
-        "https://www.investing.com/analysis/bitcoin-short-carry-builds-pressure-beneath-the-80000-tape-200680003",
-        "https://cryptoslate.com/bitcoin-briefly-slips-below-80000-but-options-traders-are-betting-the-dip-wont-last/",
         "https://www.binance.com/en/square/post/05-09-2026-crypto-market-experiences-202-million-in-liquidations-over-24-hours-321228889534385",
+        "https://cryptopotato.com/crypto-news/",
+        "https://www.mexc.com/news/1079678",
+        "https://ambcrypto.com/deepbook-up-23-after-predict-debut-can-deep-escape-its-100-day-rut/",
+        "https://altfins.com/crypto-news/",
+        "https://cryptoslate.com/bitcoin-briefly-slips-below-80000-but-options-traders-are-betting-the-dip-wont-last/",
         "https://economictimes.com/markets/cryptocurrency/bitcoin-holds-near-80000-after-rejection-at-82500-etf-outflows-trigger-cautious-sentiment/articleshow/130972440.cms",
-        "https://www.fidelity.com/news/article/default/202605081527BENZINGAFULLNGTH52426823"
+        "https://www.youtube.com/watch?v=eW_s72BD_YY"
       ]
     },
     "ai_news": {
@@ -380,33 +356,11 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 3,
-      "items": [
-        {
-          "title": "Anthropic Releases Claude Mythos, Achieving 77.8% on SWE-bench Pro and 14.5-Hour Autonomous Task Horizon",
-          "summary": "Anthropic announced Claude Mythos, scoring nearly 20 points higher than competitors on SWE-bench Pro and demonstrating a 50% task horizon of 14 hours and 30 minutes on meter evaluation, far surpassing other models in unsupervised task completion.",
-          "source": "YouTube - AI News Channel",
-          "url": "https://www.youtube.com/watch?v=CzEZzG9ZtGw"
-        },
-        {
-          "title": "Google Chrome Introduces Experimental Prompt API for AI Models like Gemini in JavaScript",
-          "summary": "Chrome's new Prompt API enables direct use of AI models such as Gemini from JavaScript, with Mozilla raising concerns about web neutrality and interoperability; Google and Microsoft are exploring interoperability solutions.",
-          "source": "YouTube - midudev",
-          "url": "https://www.youtube.com/watch?v=I6BZwm7ibWQ"
-        },
-        {
-          "title": "ServiceNow Announces Autonomous Data Governance, Analytics, and CRM at Knowledge Event",
-          "summary": "ServiceNow unveiled autonomous data governance capabilities, conversational AI-driven data analytics, and autonomous CRM providing a unified customer view with pre-triaged support cases, emphasizing agentic AI integration.",
-          "source": "YouTube - ServiceNow Knowledge",
-          "url": "https://www.youtube.com/watch?v=q8kaVEkTWho"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=CzEZzG9ZtGw",
-        "https://www.youtube.com/watch?v=I6BZwm7ibWQ",
-        "https://www.deeplearning.ai/courses/ai-prompting-for-everyone",
-        "https://www.youtube.com/watch?v=q8kaVEkTWho",
-        "https://www.youtube.com/watch?v=4jg9cBwqsvw"
+        "https://www.foxbusiness.com/category/artificial-intelligence",
+        "https://opendatascience.com"
       ]
     },
     "gaming": {
@@ -414,67 +368,52 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 6,
       "items": [
         {
-          "title": "Nioh 3 Announced with PS5 Demo Available Now",
-          "summary": "Team Ninja and Koei Tecmo revealed Nioh 3 during June's PlayStation State of Play, allowing soulslike fans to play a demo immediately on PS5.",
-          "source": "GameRant",
-          "url": "https://gamerant.com"
+          "title": "The Division 2 Bloody Red Hunter Returns with New Title Update",
+          "summary": "Weekend news update highlights the return of the Bloody Red Hunter and a new title update for The Division 2, discussing what players can expect next.",
+          "source": "YouTube - The Division 2 News",
+          "url": "https://www.youtube.com/watch?v=SgUMU0Xd2tY"
         },
         {
-          "title": "Xbox Game Pass Confirms June 2025 Wave 1 Lineup",
-          "summary": "Microsoft unveiled the full list of games joining Xbox Game Pass in the first wave of June 2025 ahead of the Xbox Games Showcase.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "title": "Star Citizen Reveals 2026 Plans Including Ship Updates and Odin Battle Cruiser",
+          "summary": "Major announcements for Star Citizen in 2026 include ship reveals like the Odin Battle Cruiser, detailed plans, potential delays, and a return to the game.",
+          "source": "YouTube - Star Citizen News",
+          "url": "https://www.youtube.com/watch?v=GdBk9rcnueg"
         },
         {
-          "title": "Bloodstained Sequel 'The Scarlet Engagement' Revealed at State of Play",
-          "summary": "Developer ArtPlay announced the next Bloodstained game, looking vastly different from Ritual of the Night, during June's PlayStation State of Play.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "title": "Phasmophobia Big Fix Patch Arrives May 12th with Alan Wake Event",
+          "summary": "A significant fix patch for Phasmophobia is set for May 12th, coinciding with the Alan Wake event, addressing key issues in the co-op ghost hunting game.",
+          "source": "YouTube - Phasmophobia Update",
+          "url": "https://www.youtube.com/watch?v=JAkLQI2v-1E"
         },
         {
-          "title": "Sony Records $560 Million Loss on Bungie Acquisition Amid Struggles",
-          "summary": "Sony reports a massive new loss on its Bungie purchase as Marathon faces issues and Destiny 2 player numbers decline sharply.",
-          "source": "Kotaku via YouTube",
-          "url": "https://kotaku.com/sony-records-new-560-million-loss-on-bungie-acquisition-as-marathon-struggles-and-destiny-2-nosedives-2000694100"
+          "title": "Resident Evil Requiem VR Mod Adds Manual Reloading and Full Body Presence",
+          "summary": "The latest VR mod update for Resident Evil Requiem introduces manual reloading for pistols and SMGs, full body presence, holsters, performance boosts, and visual upgrades, making it feel like a native VR experience.",
+          "source": "YouTube - VR Mod News",
+          "url": "https://www.youtube.com/watch?v=FHADF5L3kqs"
         },
         {
-          "title": "Final Fantasy Tactics - The Ivalice Chronicles Set for September Launch",
-          "summary": "A remaster of Final Fantasy Tactics titled The Ivalice Chronicles was announced for release in September during June's State of Play.",
-          "source": "TheGamer",
-          "url": "https://www.thegamer.com"
+          "title": "Nintendo Announces Rhythm Heaven for Switch 2 on July 2nd, 2026",
+          "summary": "Nintendo revealed Rhythm Heaven releasing July 2nd, 2026, on Switch 2, alongside Tomodachi Life selling over 3.8 million units in two weeks.",
+          "source": "YouTube - Nintendo News",
+          "url": "https://www.youtube.com/watch?v=oyyhcvyYHuI"
         },
         {
-          "title": "Silent Hill f Release Date Revealed, Coming Sooner Than Expected",
-          "summary": "The upcoming Silent Hill f received a release date at June's PlayStation State of Play, arriving earlier than anticipated.",
-          "source": "TheGamer",
-          "url": "https://www.thegamer.com"
-        },
-        {
-          "title": "Helldivers 2 Announces ‘Force of Law’ Warbond",
-          "summary": "Helldivers 2 revealed a new Force of Law Warbond, giving players fresh content in the cooperative shooter.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
-        },
-        {
-          "title": "Original Four Mortal Kombat Games Coming to PS4 and PS5",
-          "summary": "Players will soon access the first four Mortal Kombat titles on PlayStation 4 and 5.",
-          "source": "TheGamer",
-          "url": "https://www.thegamer.com"
+          "title": "Vitality Wins BLAST Rivals Grand Slam, Debated as Greatest Esports Team Ever",
+          "summary": "Vitality completes the BLAST Rivals Fort Worth Grand Slam on May 9th, sparking debate on whether they are the greatest esports team in history, surpassing NaVi in recent finals; discussion also covers CS2 animgraph2 update.",
+          "source": "YouTube - Thorin and Pimp Esports Podcast",
+          "url": "https://www.youtube.com/watch?v=Sq3CCJ9p3yo"
         }
       ],
       "citations": [
-        "https://www.thegamer.com",
-        "https://gamerant.com/gaming/",
-        "https://www.youtube.com/watch?v=aqraRkdAE5s",
-        "https://screenrant.com/game-news/",
-        "https://opencritic.com",
-        "https://www.youtube.com/watch?v=hmKFtuzUcv4",
-        "https://www.engadget.com/category/gaming/",
-        "https://www.restart.run",
-        "https://videogamepositioning.substack.com/p/the-game-that-proved-your-price-tag-bca"
+        "https://www.youtube.com/watch?v=SgUMU0Xd2tY",
+        "https://www.youtube.com/watch?v=GdBk9rcnueg",
+        "https://www.youtube.com/watch?v=JAkLQI2v-1E&vl=en",
+        "https://www.youtube.com/watch?v=FHADF5L3kqs",
+        "https://www.youtube.com/watch?v=oyyhcvyYHuI",
+        "https://www.youtube.com/watch?v=Sq3CCJ9p3yo"
       ]
     },
     "tech_news": {
@@ -485,72 +424,73 @@
       "count": 10,
       "items": [
         {
-          "title": "Intel Signs Preliminary Deal to Produce Chips for Apple",
-          "summary": "Intel has reportedly signed a preliminary agreement to manufacture chips for Apple, echoing their past partnership and potentially hedging Apple's chip strategy.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
+          "title": "Apple AirPods with Built-in Camera in Final Testing Stage",
+          "summary": "Apple's new AirPods featuring an integrated camera are currently in the final testing phase, according to analyst Mark Gurman, signaling the company's continued innovation in wearable design.",
+          "source": "GSMArena.com",
+          "url": "https://www.gsmarena.com"
         },
         {
-          "title": "Nintendo Raises Switch 2 Prices Amid Chip Crisis",
-          "summary": "Nintendo is increasing prices for the Switch 2 due to ongoing chip shortages, despite selling 19.86 million units last year, and forecasts a sales drop next year.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
+          "title": "Microsoft's New CPU Trick Addresses Windows 11 App Stutters",
+          "summary": "Microsoft has introduced a new Low Latency Profile and K2 project designed to fix performance issues and app stuttering in Windows 11.",
+          "source": "PC World",
+          "url": "https://www.pcworld.com"
         },
         {
-          "title": "Coinbase Outage Blamed on AWS Datacenter Overheating",
-          "summary": "Crypto trading platform Coinbase suffered a major outage due to multiple chiller failures causing overheating in an AWS US-EAST-1 datacenter, resolved after impacting services.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/coinbase-outage-crypto-trading-platform-goes-down-a-day-after-ceo-brian-armstrong-predicted-a-future-where-non-technical-people-will-be-able-to-write-code/articleshow/130976924.cms"
+          "title": "Samsung Producing Advanced OLED Panels for iPhone 18 Pro Series",
+          "summary": "Samsung has begun manufacturing advanced OLED display panels for Apple's upcoming iPhone 18 Pro lineup.",
+          "source": "SamMobile",
+          "url": "https://www.sammobile.com"
         },
         {
-          "title": "Instructure Hackers Claim Data Theft from 9,000 Schools",
-          "summary": "Hackers attacking Instructure claim to have stolen data from nearly 9,000 schools, locked students out of the Canvas platform, and demand negotiation by May 12.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
-        },
-        {
-          "title": "Discord Suffers Outage from API System Issues",
-          "summary": "Discord experienced a widespread outage affecting some users, caused by problems with its API systems, but services have since been restored.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
-        },
-        {
-          "title": "Sony Partners with TSMC for Image Sensor Production",
-          "summary": "Sony is collaborating with TSMC to build a new facility for advanced image sensor manufacturing using the chip giant's expertise.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
-        },
-        {
-          "title": "Instagram Removes End-to-End Encryption from Direct Messages",
-          "summary": "Meta has discontinued end-to-end encryption for Instagram DMs, allowing access to chat content and raising privacy concerns for users.",
-          "source": "NewsNow / gHacks",
-          "url": "https://www.newsnow.co.uk/h/Technology"
-        },
-        {
-          "title": "Microsoft's New CPU Trick Fixes Windows 11 App Stutters",
-          "summary": "Microsoft introduces a new CPU optimization feature and Low Latency Profile in Windows 11, along with the K2 project, to eliminate app stuttering issues.",
-          "source": "NewsNow / PC World",
-          "url": "https://www.newsnow.co.uk/h/Technology"
+          "title": "Meta Removes End-to-End Encryption from Instagram Direct Messages",
+          "summary": "Instagram is shutting down end-to-end encryption for direct messages, giving Meta access to chat content starting today.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com"
         },
         {
           "title": "Samsung Galaxy Watch Can Predict Fainting Up to 5 Minutes in Advance",
-          "summary": "Samsung claims its Galaxy Watch can detect signs of fainting up to five minutes ahead, enhancing health monitoring capabilities.",
-          "source": "NewsNow / ExtremeTech",
-          "url": "https://www.newsnow.co.uk/h/Technology"
+          "summary": "Samsung announced that its Galaxy Watch can now predict fainting episodes up to five minutes before they occur using advanced health monitoring technology.",
+          "source": "ExtremeTech",
+          "url": "https://www.extremetech.com"
         },
         {
-          "title": "Google and Qualcomm Push Android PCs into Mainstream",
-          "summary": "Google and Qualcomm are advancing Android PCs to challenge Microsoft and Apple, aiming to scale the mobile OS to desktops for unified computing.",
-          "source": "TechNewsWorld",
-          "url": "https://www.technewsworld.com"
+          "title": "JDownloader Website Hacked to Distribute Python RAT Malware",
+          "summary": "The JDownloader download manager website was compromised to distribute malicious Windows and Linux installers containing a Python-based remote access trojan.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com"
+        },
+        {
+          "title": "NVIDIA Confirms GeForce NOW Data Breach Affecting Armenian Users",
+          "summary": "NVIDIA has confirmed that user information from GeForce NOW has been exposed in a data breach affecting Armenian users.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com"
+        },
+        {
+          "title": "Coinbase Experiences Service Disruption Due to AWS Regional Failure",
+          "summary": "Crypto trading platform Coinbase went down due to increased temperatures causing a regional failure in AWS US-EAST-1 region, though the outage has since been resolved.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com"
+        },
+        {
+          "title": "Instructure Hackers Claim Data Theft from Nearly 9,000 Schools",
+          "summary": "Hackers claim to have stolen data from nearly 9,000 schools through the Canvas learning management platform and have set a May 12 deadline for ransom negotiations.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
+        },
+        {
+          "title": "Intel Signs Preliminary Deal to Produce Chips for Apple",
+          "summary": "Intel has reportedly signed a preliminary agreement to manufacture chips for Apple, marking a significant partnership between the two tech giants.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
         }
       ],
       "citations": [
-        "https://www.technewsworld.com",
         "https://www.newsnow.co.uk/h/Technology",
+        "https://www.bleepingcomputer.com",
         "https://www.engadget.com",
         "https://timesofindia.indiatimes.com/technology/tech-news/coinbase-outage-crypto-trading-platform-goes-down-a-day-after-ceo-brian-armstrong-predicted-a-future-where-non-technical-people-will-be-able-to-write-code/articleshow/130976924.cms",
-        "https://phys.org"
+        "https://phys.org",
+        "https://www.siliconrepublic.com"
       ]
     }
   }
