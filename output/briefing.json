@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T18:39:34.794643+00:00",
-  "generated_at_human": "2026-05-11 18:39 UTC",
+  "generated_at": "2026-05-12T00:38:36.148445+00:00",
+  "generated_at_human": "2026-05-12 00:38 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,112 @@
       "count": 25,
       "items": [
         {
-          "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-          "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-          "score": 187,
-          "comments": 49
+          "title": "Postmortem: TanStack npm supply-chain compromise",
+          "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+          "score": 466,
+          "comments": 149
+        },
+        {
+          "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+          "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+          "score": 192,
+          "comments": 35
+        },
+        {
+          "title": "If AI writes your code, why use Python?",
+          "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+          "score": 77,
+          "comments": 78
+        },
+        {
+          "title": "Library for fast mapping of Java records to native memory",
+          "url": "https://github.com/mamba-studio/TypedMemory",
+          "score": 99,
+          "comments": 23
+        },
+        {
+          "title": "GitLab announces workforce reduction and end of their CREDIT values",
+          "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+          "score": 268,
+          "comments": 254
+        },
+        {
+          "title": "Google says criminal hackers used AI to find a major software flaw",
+          "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+          "score": 105,
+          "comments": 79
         },
         {
           "title": "Nullsoft, 1997-2004 (2004)",
           "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-          "score": 98,
-          "comments": 31
+          "score": 212,
+          "comments": 70
         },
         {
           "title": "Ratty – A terminal emulator with inline 3D graphics",
           "url": "https://ratty-term.org/",
-          "score": 500,
-          "comments": 167
-        },
-        {
-          "title": "Show HN: TikTok but for Scientific Papers",
-          "url": "https://andreaturchet.github.io/website/index.html",
-          "score": 42,
-          "comments": 29
-        },
-        {
-          "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-          "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-          "score": 154,
-          "comments": 8
+          "score": 604,
+          "comments": 194
         },
         {
           "title": "Gmail registration now requires scanning a QR code and sending a text message",
           "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-          "score": 369,
-          "comments": 229
+          "score": 550,
+          "comments": 393
         },
         {
-          "title": "AMÁLIA and the future of European Portuguese LLMs",
-          "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-          "score": 74,
-          "comments": 30
+          "title": "I let AI build a tool to help me figure out what was waking me up at night",
+          "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+          "score": 52,
+          "comments": 51
+        },
+        {
+          "title": "Griffin PowerMate driver for modern macOS",
+          "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+          "score": 21,
+          "comments": 8
+        },
+        {
+          "title": "Can we code our way out of gentrification?",
+          "url": "https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification",
+          "score": 5,
+          "comments": 0
+        },
+        {
+          "title": "Silverback Imfura took a chance, and ended up alone",
+          "url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
+          "score": 24,
+          "comments": 9
+        },
+        {
+          "title": "Abstract Machines for Logic Programs",
+          "url": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
+          "score": 5,
+          "comments": 0
+        },
+        {
+          "title": "Interfaze: A new model architecture built for high accuracy at scale",
+          "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+          "score": 104,
+          "comments": 27
+        },
+        {
+          "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+          "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+          "score": 210,
+          "comments": 11
+        },
+        {
+          "title": "The rise and fall of snake oil",
+          "url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
+          "score": 24,
+          "comments": 12
+        },
+        {
+          "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+          "url": "https://github.com/ab-613/opengravity",
+          "score": 39,
+          "comments": 16
         },
         {
           "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
@@ -56,106 +122,40 @@
           "comments": 0
         },
         {
-          "title": "Interfaze: A new model architecture built for high accuracy at scale",
-          "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-          "score": 23,
-          "comments": 3
+          "title": "Interaction Models",
+          "url": "https://thinkingmachines.ai/blog/interaction-models/",
+          "score": 72,
+          "comments": 8
         },
         {
-          "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
-          "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
-          "score": 127,
-          "comments": 42
+          "title": "AMÁLIA and the future of European Portuguese LLMs",
+          "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+          "score": 115,
+          "comments": 57
         },
         {
-          "title": "I'm going back to writing code by hand",
-          "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-          "score": 812,
-          "comments": 486
+          "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+          "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+          "score": 352,
+          "comments": 107
         },
         {
-          "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-          "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-          "score": 4,
-          "comments": 0
+          "title": "Show HN: E2a – Open-source email gateway for AI agents",
+          "url": "https://github.com/Mnexa-AI/e2a",
+          "score": 17,
+          "comments": 2
         },
         {
-          "title": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
-          "url": "https://imtomt.github.io/ymawky/",
-          "score": 61,
-          "comments": 23
-        },
-        {
-          "title": "Microsoft Israel chief leaves amid ethical controversy",
-          "url": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
-          "score": 54,
-          "comments": 28
-        },
-        {
-          "title": "Software engineering may no longer be a lifetime career",
-          "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
-          "score": 164,
-          "comments": 297
-        },
-        {
-          "title": "Holding Community Space",
-          "url": "https://supernuclear.substack.com/p/building-a-space-people-never-want",
-          "score": 14,
-          "comments": 6
-        },
-        {
-          "title": "Should you leave red herrings about yourself online?",
-          "url": "https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online",
-          "score": 27,
-          "comments": 24
-        },
-        {
-          "title": "Running local models on an M4 with 24GB memory",
-          "url": "https://jola.dev/posts/running-local-models-on-m4",
-          "score": 498,
-          "comments": 151
-        },
-        {
-          "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
-          "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
-          "score": 82,
-          "comments": 53
-        },
-        {
-          "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-          "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-          "score": 300,
-          "comments": 175
-        },
-        {
-          "title": "Guitar tuner that uses phone accelerometer",
-          "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
-          "score": 124,
-          "comments": 70
-        },
-        {
-          "title": "Hardware Attestation as Monopoly Enabler",
-          "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-          "score": 2004,
-          "comments": 674
-        },
-        {
-          "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-          "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-          "score": 316,
-          "comments": 91
-        },
-        {
-          "title": "The Boston Library Where You Still Can Borrow a Giant Puppet",
+          "title": "The Boston library where you still can borrow a giant puppet",
           "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
-          "score": 4,
-          "comments": 0
+          "score": 45,
+          "comments": 7
         },
         {
-          "title": "Obsidian plugin was abused to deploy a remote access trojan",
-          "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-          "score": 325,
-          "comments": 196
+          "title": "Counting Fast in Erlang with:counters and:atomics",
+          "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
+          "score": 68,
+          "comments": 3
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 81987,
-          "change_24h": 0.83,
-          "change_7d": 1.89,
-          "market_cap": 1642212837280
+          "price": 81526,
+          "change_24h": -0.25,
+          "change_7d": 2.13,
+          "market_cap": 1633187551490
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2339.41,
-          "change_24h": -0.81,
-          "change_7d": -1.42,
-          "market_cap": 282338653651
+          "price": 2333.54,
+          "change_24h": -1.07,
+          "change_7d": -0.55,
+          "market_cap": 281589766256
         },
         {
           "name": "Solana",
           "symbol": "SOL",
           "price": 97.47,
-          "change_24h": 0.82,
-          "change_7d": 14.7,
-          "market_cap": 56341407283
+          "change_24h": 1.06,
+          "change_7d": 15.93,
+          "market_cap": 56316371752
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.111157,
-          "change_24h": -0.01,
-          "change_7d": -0.18,
-          "market_cap": 17148321631
+          "price": 0.111401,
+          "change_24h": 0.23,
+          "change_7d": 1.16,
+          "market_cap": 17174253253
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.28122,
-          "change_24h": -2.03,
-          "change_7d": 12.24,
-          "market_cap": 10405460175
+          "price": 0.28042,
+          "change_24h": -0.15,
+          "change_7d": 12.1,
+          "market_cap": 10368666289
         }
       ]
     },
@@ -214,22 +214,17 @@
         {
           "name": "Zano",
           "symbol": "ZANO",
-          "market_cap_rank": 202
-        },
-        {
-          "name": "Osmosis",
-          "symbol": "OSMO",
-          "market_cap_rank": 456
-        },
-        {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 82
+          "market_cap_rank": 205
         },
         {
           "name": "wojak",
           "symbol": "WOJAK",
-          "market_cap_rank": 580
+          "market_cap_rank": 617
+        },
+        {
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 83
         },
         {
           "name": "Sui",
@@ -242,14 +237,9 @@
           "market_cap_rank": 91
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Akash Network",
-          "symbol": "AKT",
-          "market_cap_rank": 177
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Ondo",
@@ -257,9 +247,19 @@
           "market_cap_rank": 45
         },
         {
-          "name": "Octra",
-          "symbol": "OCT",
-          "market_cap_rank": 826
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 36
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "LAB",
+          "symbol": "LAB",
+          "market_cap_rank": 136
         }
       ]
     },
@@ -268,32 +268,58 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 7,
       "items": [
         {
-          "title": "US Stocks Edge Higher Amid Iran Tensions and Surging Oil Prices",
-          "summary": "Dow Jones rose 0.01% to 49,613.98, S&P 500 gained 0.24%, and Nasdaq up 0.09% in Monday morning trading, while oil surged past $100 per barrel after President Trump's rejection of Iran's proposal; VIX climbed 5.12% ahead of key CPI and PPI data.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.com/news/international/us/us-stock-market-today-dow-jones-sp-500-and-nasdaq-navigate-iran-tensions-and-inflation-fears-could-soaring-oil-prices-and-ai-mania-trigger-wall-streets-next-big-warning/articleshow/131017070.cms"
+          "title": "US Existing Home Sales Disappoint in April Amid High Mortgage Rates",
+          "summary": "US existing home sales in April came in below expectations at an annualized rate of 4 million units, with unsold inventory rising to 1.35 million units and 16 weeks of supply due to high mortgage rates.",
+          "source": "interest.co.nz",
+          "url": "https://www.interest.co.nz/economy/138468/us-data-lackluster-bond-yields-rise-canadians-worry-about-geopolitics-hurting-their"
         },
         {
-          "title": "Billionaire Ken Griffin Warns Prolonged Strait of Hormuz Closure Could Trigger Global Recession",
-          "summary": "Citadel founder Ken Griffin predicts a global recession if the Strait of Hormuz remains closed for 6-12 months, driving energy prices materially higher; US recession odds near 49% per Moody's, with inflation above Fed target limiting rate cuts.",
-          "source": "The Street",
-          "url": "https://www.thestreet.com/crypto/markets/billionaire-hedge-fund-manager-sends-blunt-recession-warning"
+          "title": "Economists Anticipate Rising April CPI Led by Energy Prices",
+          "summary": "The upcoming April CPI report is expected to show significant inflation increases driven by gas and energy costs amid Middle East supply disruptions, while core inflation remains stable.",
+          "source": "Marketplace.org",
+          "url": "https://www.marketplace.org/story/2026/05/11/economists-expect-april-cpi-to-show-rising-inflation"
         },
         {
-          "title": "BlackRock: US Equities Hit Records Despite Oil Spike, But Strait Reopening Key to Resilience",
-          "summary": "S&P 500 up 10% in April on strong earnings and AI growth, with mega-cap tech leading; BlackRock overweight US and EM stocks but warns US economy vulnerable if Middle East oil disruptions persist and Strait of Hormuz stays closed.",
+          "title": "S&P 500 Gains 10% in April on Strong Earnings and AI Momentum",
+          "summary": "US stocks hit records with S&P 500 up 10% in April, fueled by upward revisions in corporate earnings especially in mega-cap tech and AI revenues, despite high oil prices from Middle East tensions.",
           "source": "BlackRock Investment Institute",
           "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications/weekly-commentary"
+        },
+        {
+          "title": "China April CPI Rises to +1.2% YoY with Producer Prices Turning Positive",
+          "summary": "China's April CPI increased 1.2% year-on-year and fuel costs surged 4.6%, while producer prices rose 3.5% YoY for the first time since October 2022; vehicle sales were marginally lower than last year.",
+          "source": "interest.co.nz",
+          "url": "https://www.interest.co.nz/economy/138468/us-data-lackluster-bond-yields-rise-canadians-worry-about-geopolitics-hurting-their"
+        },
+        {
+          "title": "Fed Signals Caution on Rate Cuts Amid Persistent Inflation Risks",
+          "summary": "The Fed held rates steady with weakened conviction for further cuts, citing risks from wage growth and core services inflation; ECB signaled potential hikes ahead.",
+          "source": "BlackRock Investment Institute",
+          "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications/weekly-commentary"
+        },
+        {
+          "title": "US Stock Market Faces Key Week with Inflation Data and Iran Tensions",
+          "summary": "Wall Street enters a critical week monitoring inflation reports, consumer spending, and Iran conflict developments amid resilient labor market from recent strong jobs data.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.com/markets/us-stocks/news/us-stock-market-us-market-enters-a-critical-week-with-inflation-and-iran-tensions-in-focus/articleshow/131003210.cms"
+        },
+        {
+          "title": "Bitcoin Price at $81,983 Up 0.6% with Low Volatility",
+          "summary": "Bitcoin traded at US$81,983, up 0.6% from yesterday with 24-hour volatility under +/-1.4%.",
+          "source": "interest.co.nz",
+          "url": "https://www.interest.co.nz/economy/138468/us-data-lackluster-bond-yields-rise-canadians-worry-about-geopolitics-hurting-their"
         }
       ],
       "citations": [
-        "https://economictimes.com/news/international/us/us-stock-market-today-dow-jones-sp-500-and-nasdaq-navigate-iran-tensions-and-inflation-fears-could-soaring-oil-prices-and-ai-mania-trigger-wall-streets-next-big-warning/articleshow/131017070.cms",
-        "https://www.thestreet.com/crypto/markets/billionaire-hedge-fund-manager-sends-blunt-recession-warning",
+        "https://www.interest.co.nz/economy/138468/us-data-lackluster-bond-yields-rise-canadians-worry-about-geopolitics-hurting-their",
+        "https://www.marketplace.org/story/2026/05/11/economists-expect-april-cpi-to-show-rising-inflation",
         "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications/weekly-commentary",
-        "https://tradingeconomics.com/calendar"
+        "https://tradingeconomics.com/calendar",
+        "https://economictimes.com/markets/us-stocks/news/us-stock-market-us-market-enters-a-critical-week-with-inflation-and-iran-tensions-in-focus/articleshow/131003210.cms",
+        "https://www.youtube.com/watch?v=4ilgAQnDeqk"
       ]
     },
     "crypto_news": {
@@ -301,46 +327,51 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Crypto Futures See $218 Million in Liquidations Over 24 Hours",
-          "summary": "The cryptocurrency derivatives market experienced $218 million in liquidations in the past 24 hours, led by Bitcoin at $91.5 million and Ethereum at $44 million, with Solana and XRP also seeing notable losses amid heightened volatility.",
-          "source": "Phemex",
-          "url": "https://phemex.com/news/article/crypto-futures-see-218-million-in-liquidations-over-24-hours-80508"
-        },
-        {
-          "title": "Over $163M in Crypto Long Positions Liquidated in 24 Hours",
-          "summary": "More than $163 million in long crypto positions were liquidated across major exchanges as prices fell, with Bitcoin and Ethereum futures accounting for the majority of the forced closures.",
-          "source": "MEXC News",
-          "url": "https://www.mexc.com/news/1082011"
-        },
-        {
-          "title": "Circle Raises $222M for Arc Token Presale at $3B Valuation",
-          "summary": "Circle Internet Group raised $222 million in a presale for its Arc institutional Layer 1 blockchain from investors including BlackRock, a16z, and Apollo; the stock rose 2% following the announcement and strong Q1 earnings.",
+          "title": "Circle Stock Surges After $222M Raise Led by BlackRock for Arc Blockchain",
+          "summary": "Circle Internet Group raised $222 million in presale for its institutional Layer 1 blockchain Arc from investors including BlackRock, ARK Invest, and a16z, at a $3B valuation; stock rose 2% to $116.23 amid Q1 earnings with $694M revenue and 28% USDC circulation growth.",
           "source": "TheStreet",
           "url": "https://www.thestreet.com/crypto/markets/major-crypto-stock-rises-after-blackrock-investment"
         },
         {
-          "title": "Bitcoin Whale Moves $41M in BTC After 12 Years Dormant",
-          "summary": "A dormant Bitcoin wallet transferred 500 BTC worth $41 million on May 10, amid similar whale activities preceding exchange deposits, with BTC trading near $80,900.",
-          "source": "Bitcoin Foundation",
-          "url": "https://bitcoinfoundation.org/news/bitcoin/whale-moves-btc/"
+          "title": "Over $163M in Crypto Long Positions Liquidated in 24 Hours",
+          "summary": "More than $163 million in long positions were liquidated across exchanges, primarily Bitcoin and Ethereum futures, amid market declines; follows $253M long liquidations on May 8.",
+          "source": "MEXC News",
+          "url": "https://www.mexc.com/news/1082011"
+        },
+        {
+          "title": "Over $163M in Crypto Long Positions Liquidated in 24 Hours",
+          "summary": "Crypto markets saw over $163M in long position liquidations in 24 hours, highlighting ongoing leverage-driven selloffs in 2026.",
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/163m-crypto-long-liquidations-24-hours/"
+        },
+        {
+          "title": "Bitcoin Falls Below $81K Amid Iran-US Tensions and Market Volatility",
+          "summary": "Bitcoin dropped below $81K after failing to hold breakout levels, with markets eyeing Iran-US risks, oil shocks, and upcoming events like CPI and CLARITY Act vote; TON and Zcash surge.",
+          "source": "YouTube (Crypto Channel)",
+          "url": "https://www.youtube.com/watch?v=zmr2nK_hKVg"
         },
         {
           "title": "XRP Breaks $1.45 Resistance on Heavy Volume",
-          "summary": "XRP surged from $1.42 to a high of $1.51 over 24 hours on heavy volume, marking a 6.5% range with a decisive breakout during peak trading hours.",
+          "summary": "XRP surged from $1.4176 to $1.5073, breaking $1.45 resistance with high volume, outpacing Bitcoin in a 6.5% 24-hour range.",
           "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/321967180581474"
+          "url": "https://www.binance.com/es-MX/square/post/321967180581474"
+        },
+        {
+          "title": "Dormant Bitcoin Whale Moves $41M BTC After 12 Years",
+          "summary": "A bitcoin wallet dormant for 12 years transferred 500 BTC worth $41M on May 10, amid patterns of whale movements preceding exchange deposits; BTC near $80,900.",
+          "source": "Bitcoin Foundation",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/whale-moves-btc/"
         }
       ],
       "citations": [
-        "https://phemex.com/news/article/crypto-futures-see-218-million-in-liquidations-over-24-hours-80508",
-        "https://www.mexc.com/news/1082011",
         "https://www.thestreet.com/crypto/markets/major-crypto-stock-rises-after-blackrock-investment",
+        "https://www.mexc.com/news/1082011",
         "https://cryptobriefing.com/163m-crypto-long-liquidations-24-hours/",
-        "https://www.binance.com/en/square/post/321967180581474",
-        "https://www.youtube.com/watch?v=mmkawpZjtPA",
+        "https://www.youtube.com/watch?v=zmr2nK_hKVg",
+        "https://www.binance.com/es-MX/square/post/321967180581474",
         "https://bitcoinfoundation.org/news/bitcoin/whale-moves-btc/"
       ]
     },
@@ -349,36 +380,51 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 6,
       "items": [
         {
-          "title": "TAO Rises 4% in 24 Hours: Bittensor AI Crypto Token Hits $320",
-          "summary": "Bittensor's TAO token surged 4.1% to $320.54 with $306.4M trading volume, boosting its $3.07B market cap amid AI crypto trends.",
-          "source": "Yellow.com",
-          "url": "https://yellow.com/news/tao-rises-4-percent-24-hours-bittensor-ai-crypto-trade"
+          "title": "Google Disrupts AI-Driven Cyberattack Exploiting Zero-Day Vulnerability",
+          "summary": "Google revealed it thwarted a criminal group's use of an AI large language model to discover and exploit a previously unknown zero-day vulnerability in a company's online system administration tool, notifying the affected firm and law enforcement before any damage occurred.",
+          "source": "WFTV",
+          "url": "https://www.wftv.com/news/business/google-disrupts/X3WJKHR6IE6FFNCZVLVXJBYSLQ/"
         },
         {
-          "title": "The AI Paradox: More Humanlike Means Less Autonomous",
-          "summary": "AI executives from Google DeepMind and Anthropic predict AGI by 2030 or sooner at Davos, but increasing humanlikeness may reduce true autonomy in machines.",
-          "source": "Predictive Analytics World",
-          "url": "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-ai-paradox-more-humanlike-means-less_autonomous/14169/"
+          "title": "Google Halts Hackers Using AI to Target Unknown Digital Weakness",
+          "summary": "Google's threat intelligence team disrupted prominent threat actors employing AI to bypass two-factor authentication via a zero-day exploit, highlighting growing cybersecurity risks from AI-powered hacking not linked to Google's Gemini or Anthropic's Claude Mythos.",
+          "source": "KSAT",
+          "url": "https://www.ksat.com/business/2026/05/11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defense/"
         },
         {
-          "title": "Microsoft CEO Nadella to Testify in Musk vs. Altman AI Trial Week 3",
-          "summary": "Satya Nadella testifies Monday in Elon Musk's lawsuit against OpenAI and Sam Altman over non-profit promises, with Musk warning of AGI arriving next year.",
-          "source": "ABC7 News",
-          "url": "https://abc7news.com/live-updates/elon-musk-sam-altman-live-updates-microsoft-ceo-satya-nadella-testify-week-3-trial-begins/19080697/"
+          "title": "Anthropic's Mythos AI Model Sparks Cybersecurity Panic and Regulation Calls",
+          "summary": "Anthropic's advanced Mythos model, noted for exceptional hacking and cybersecurity capabilities, is limited to trusted organizations, prompting US government evaluations of top AI models from Google, Microsoft, xAI, and others amid mixed Trump administration signals.",
+          "source": "KSAT",
+          "url": "https://www.ksat.com/business/2026/05/11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defense/"
+        },
+        {
+          "title": "Anthropic Partners with SpaceX for Massive Compute Capacity",
+          "summary": "Anthropic announced SpaceX will provide 300 megawatts of computing power using over 220,000 NVIDIA GPUs by month's end, with interest in space-based AI data centers; the deal boosts Anthropic's rate limits amid surging demand.",
+          "source": "YouTube (AI Discussion)",
+          "url": "https://www.youtube.com/watch?v=38Q4mhLQEv8"
+        },
+        {
+          "title": "Meta Poaches Four More Researchers from OpenAI",
+          "summary": "Meta has hired OpenAI researchers Shengjia Zhao, Jiahui Yu, Shuchao Bi, and Hongyu Ren, continuing its talent acquisition from the rival AI firm.",
+          "source": "Economic Times AI",
+          "url": "https://ai.economictimes.com"
+        },
+        {
+          "title": "China's AI Rise Challenges US Chip Controls Under Trump",
+          "summary": "China's rapid AI progress, including DeepSeek's shift to Huawei chips, questions the efficacy of US export restrictions on Nvidia tech, forcing Trump to consider escalation or relaxation amid Beijing-Washington tech rivalry.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/economy/global-economy/article/3353180/chinas-ai-ascent-leaves-trump-stark-choice-escalate-or-relax-chip-controls"
         }
       ],
       "citations": [
-        "https://aiweekly.co/ai-news-today/google-ai-news",
-        "https://yellow.com/news/tao-rises-4-percent-24-hours-bittensor-ai-crypto-trade",
-        "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-ai-paradox-more-humanlike-means-less_autonomous/14169/",
         "https://ai.economictimes.com",
-        "https://techxplore.com/news/2026-05-google-disrupts-hackers-ai-exploit.html",
-        "https://abc7news.com/live-updates/elon-musk-sam-altman-live-updates-microsoft-ceo-satya-nadella-testify-week-3-trial-begins/19080697/",
-        "https://www.prnewswire.com/news-releases/new-ai-tool-predicts-how-cells-choose-their-future-helping-uncover-hidden-drivers-of-development-302768491.html",
-        "https://www.finextra.com/newsarticle/47729/mas-to-train-ai-on-live-bank-account-data-to-combat-financial-crime"
+        "https://www.wftv.com/news/business/google-disrupts/X3WJKHR6IE6FFNCZVLVXJBYSLQ/",
+        "https://www.ksat.com/business/2026/05/11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defense/",
+        "https://www.scmp.com/economy/global-economy/article/3353180/chinas-ai-ascent-leaves-trump-stark-choice-escalate-or-relax-chip-controls",
+        "https://www.youtube.com/watch?v=38Q4mhLQEv8"
       ]
     },
     "gaming": {
@@ -386,53 +432,46 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Nintendo Reveals Star Fox 64 Remake for Switch 2",
-          "summary": "Nintendo has announced a remake of Star Fox 64 coming to the Nintendo Switch 2 sooner than expected. The reveal was highlighted in the latest DF Direct Weekly episode.",
-          "source": "Digital Foundry Direct Weekly",
-          "url": "https://www.youtube.com/watch?v=JvYOHdPOt7g"
+          "title": "Farming Simulator 25 Announces Freightliner, Deberti, Axial Flow 260 and More",
+          "summary": "New content update for Farming Simulator 25 revealed, including Freightliner trucks, Deberti equipment, and the Axial Flow 260 combine harvester.",
+          "source": "DjGoHam Gaming (YouTube)",
+          "url": "https://www.youtube.com/watch?v=Sz0gy2xf69Y"
         },
         {
-          "title": "Nintendo Increases Prices for Switch 2 Console",
-          "summary": "Nintendo has raised the price of its upcoming Switch 2 console, sparking concern among fans and industry watchers. Details were discussed in DF Direct Weekly.",
-          "source": "Digital Foundry Direct Weekly",
-          "url": "https://www.youtube.com/watch?v=JvYOHdPOt7g"
+          "title": "Backrooms Horror Video Game Releasing Next Week on Consoles",
+          "summary": "The Backrooms, a new liminal horror game from Puppet Combo, launches May 14th on Xbox, PlayStation, and Nintendo Switch, but not on PC.",
+          "source": "Horror News (YouTube)",
+          "url": "https://www.youtube.com/watch?v=OOVDqxNaHM4"
         },
         {
-          "title": "Next Call of Duty to Drop PS4 and Last-Gen Support",
-          "summary": "Activision confirms the upcoming Call of Duty title will leave behind last-generation hardware like the PS4. This shift was covered in recent gaming news roundup.",
-          "source": "Digital Foundry Direct Weekly",
-          "url": "https://www.youtube.com/watch?v=JvYOHdPOt7g"
+          "title": "Longlegs Horror Sequel Announced for 2028",
+          "summary": "A sequel to the horror film Longlegs is confirmed for release in 2028.",
+          "source": "Horror News (YouTube)",
+          "url": "https://www.youtube.com/watch?v=OOVDqxNaHM4"
         },
         {
-          "title": "Pragmata Receives Surprise PS5 Pro Resolution Boost",
-          "summary": "Pragmata has gained an undocumented resolution increase on the PlayStation 5 Pro, continuing its saga of performance updates. Additional Switch 2 optimizations were also noted.",
-          "source": "Digital Foundry Direct Weekly",
-          "url": "https://www.youtube.com/watch?v=JvYOHdPOt7g"
+          "title": "Indie Gaming Highlights: 11-17 May 2026 Features Gold Gold Adventure and Mad King Redemption",
+          "summary": "Weekly indie game roundup showcases upcoming titles like Gold Gold Adventure and Mad King Redemption, along with other releases for the week.",
+          "source": "The Best Indie Games (YouTube)",
+          "url": "https://www.youtube.com/watch?v=DquL2oCa6cE"
         },
         {
-          "title": "Mobile Legends Patch 2.1.80 Brings 21 Hero Changes and Street Fighter Collab",
-          "summary": "The advanced server for Mobile Legends patch 2.1.80 introduces major buffs and nerfs to 21 heroes, including big QoL for Yin and nerfs to Ruby, plus new Street Fighter collaboration content.",
-          "source": "Kazuki Official",
-          "url": "https://www.youtube.com/watch?v=pQEhW4ozHwo"
-        },
-        {
-          "title": "Nvidia GTX 10-Series Marks 10th Anniversary",
-          "summary": "The panel on DF Direct Weekly celebrated the 10th anniversary of Nvidia's Pascal architecture behind the GTX 10-series GPUs.",
-          "source": "Digital Foundry Direct Weekly",
-          "url": "https://www.youtube.com/watch?v=JvYOHdPOt7g"
+          "title": "Bungie Faces Challenges but Creator Believes It Can Be Saved with Marathon and Destiny Strategies",
+          "summary": "Analysis of Bungie's position using Steam charts and Sony reports suggests paths to recovery for Marathon and Destiny 2 amid industry difficulties.",
+          "source": "Timbo (YouTube)",
+          "url": "https://www.youtube.com/watch?v=jLBylnsv8rY"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=JvYOHdPOt7g",
-        "https://www.youtube.com/watch?v=pQEhW4ozHwo",
-        "https://www.youtube.com/watch?v=8YoRBYeK02M",
-        "https://www.youtube.com/watch?v=P5ruprSwpck",
-        "https://www.youtube.com/watch?v=RNSBpoYQmsU",
-        "https://www.youtube.com/watch?v=xxiaYTQX8PI",
-        "https://www.youtube.com/watch?v=EXys6J1O6rc"
+        "https://www.youtube.com/watch?v=Sz0gy2xf69Y",
+        "https://www.youtube.com/watch?v=OOVDqxNaHM4",
+        "https://www.youtube.com/shorts/iGib8phS9FQ",
+        "https://www.youtube.com/watch?v=jLBylnsv8rY",
+        "https://www.youtube.com/watch?v=_gb2nDPn6io",
+        "https://www.youtube.com/watch?v=DquL2oCa6cE"
       ]
     },
     "tech_news": {
@@ -440,19 +479,26 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 1,
+      "count": 2,
       "items": [
         {
-          "title": "KTEK Aerosystems Meets $10M IPO Target in Under 24 Hours with 3x Oversubscription",
-          "summary": "KTEK Aerosystems Ltd (ASX: KTK) achieved its full $10 million IPO target in less than 24 hours, attracting over $30 million in bids from institutional investors including Regal Funds Management and Thorney Investment Group. The company is set to list on the ASX on May 18, 2026.",
-          "source": "Newshub Medianet",
-          "url": "https://newshub.medianet.com.au/2026/05/ktek-meets-full-10m-ipo-target-in-under-24-hours-as-instos-bid-for-more-than-entire-book/152463/"
+          "title": "Stablecoins Transforming Global Remittances for Filipinos",
+          "summary": "Filipinos working overseas send $35 billion home annually, with a growing portion using stablecoins for cheaper, near-instant cross-border payments. The GENIUS Act and bank interest are accelerating stablecoin adoption despite their small current share of global payments.",
+          "source": "Bloomberg Markets & Finance",
+          "url": "https://www.youtube.com/watch?v=NF6XTB8uGYU"
+        },
+        {
+          "title": "Amerigo Scientific Launches Lipid-Based Transfection Reagents for Stem Cell Research",
+          "summary": "Amerigo Scientific has introduced a new portfolio of advanced lipid-based transfection reagents designed specifically to enhance stem cell research and engineering.",
+          "source": "24-7PressRelease.com",
+          "url": "https://www.24-7pressrelease.com"
         }
       ],
       "citations": [
-        "https://newshub.medianet.com.au/2026/05/ktek-meets-full-10m-ipo-target-in-under-24-hours-as-instos-bid-for-more-than-entire-book/152463/",
-        "https://en.yenisafak.com/world/hezbollah-claims-24-attacks-on-israeli-targets-in-southern-lebanon-in-24-hours-3718130",
-        "https://www.independent.co.uk/life-style/health-and-families/no-talking-one-day-study-b2974444.html"
+        "https://www.ksat.com/business/2026/05/11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defense/",
+        "https://www.24-7pressrelease.com",
+        "https://www.engadget.com",
+        "https://www.youtube.com/watch?v=NF6XTB8uGYU"
       ]
     }
   }
