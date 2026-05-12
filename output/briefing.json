@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T12:43:32.502137+00:00",
-  "generated_at_human": "2026-05-12 12:43 UTC",
+  "generated_at": "2026-05-12T18:39:13.403631+00:00",
+  "generated_at_human": "2026-05-12 18:39 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,40 +8,112 @@
       "count": 25,
       "items": [
         {
+          "title": "Googlebook",
+          "url": "https://googlebook.google/",
+          "score": 109,
+          "comments": 116
+        },
+        {
+          "title": "Rendering the Sky, Sunsets, and Planets",
+          "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+          "score": 297,
+          "comments": 24
+        },
+        {
+          "title": "Why senior developers fail to communicate their expertise",
+          "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+          "score": 97,
+          "comments": 36
+        },
+        {
+          "title": "Dead.letter (CVE-2026-45185) Humans vs. LLM for Unauthenticated RCE Race on Exim",
+          "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+          "score": 16,
+          "comments": 4
+        },
+        {
+          "title": "Instructure pays ransom to Canvas hackers",
+          "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
+          "score": 126,
+          "comments": 94
+        },
+        {
+          "title": "Bambu Lab is abusing the open source social contract",
+          "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+          "score": 725,
+          "comments": 246
+        },
+        {
+          "title": "When life gives you lemons, write better error messages",
+          "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
+          "score": 36,
+          "comments": 8
+        },
+        {
           "title": "Learning Software Architecture",
           "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-          "score": 179,
-          "comments": 25
+          "score": 436,
+          "comments": 81
+        },
+        {
+          "title": "The Future of Obsidian Plugins",
+          "url": "https://obsidian.md/blog/future-of-plugins/",
+          "score": 120,
+          "comments": 61
+        },
+        {
+          "title": "Reimagining the mouse pointer for the AI era",
+          "url": "https://deepmind.google/blog/ai-pointer/",
+          "score": 21,
+          "comments": 7
+        },
+        {
+          "title": "Show HN: Agentic interface for mainframes and COBOL",
+          "url": "https://www.hypercubic.ai/hopper",
+          "score": 21,
+          "comments": 4
+        },
+        {
+          "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+          "url": "https://voker.ai",
+          "score": 27,
+          "comments": 12
         },
         {
           "title": "Screenshots of Old Desktop OSes",
           "url": "http://www.typewritten.org/Media/",
-          "score": 303,
-          "comments": 134
+          "score": 569,
+          "comments": 291
+        },
+        {
+          "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+          "url": "https://github.com/statewright/statewright",
+          "score": 13,
+          "comments": 1
         },
         {
           "title": "Postmortem: TanStack NPM supply-chain compromise",
           "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-          "score": 906,
-          "comments": 376
+          "score": 1024,
+          "comments": 433
         },
         {
-          "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-          "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-          "score": 97,
-          "comments": 46
+          "title": "The Real Story of Troy",
+          "url": "https://storica.club/blog/troy-was-real/",
+          "score": 23,
+          "comments": 10
         },
         {
-          "title": "A HN post with negative points – how?",
-          "url": "https://news.ycombinator.com/item?id=48104663",
-          "score": 32,
-          "comments": 17
+          "title": "Dnsmasq-Discuss: Security – Important",
+          "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+          "score": 4,
+          "comments": 0
         },
         {
-          "title": "Docker images are MB; a full game engine compiles to 35MB WASM",
-          "url": "https://bogomolov.work/blog/posts/wasm-vs-docker/",
-          "score": 26,
-          "comments": 22
+          "title": "Canada's Bill C-22 Is a Repackaged Version of Last Year's Surveillance Nightmare",
+          "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+          "score": 39,
+          "comments": 11
         },
         {
           "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
@@ -50,112 +122,40 @@
           "comments": 0
         },
         {
+          "title": "Profiling.sampling – Statistical Profiler",
+          "url": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
+          "score": 73,
+          "comments": 20
+        },
+        {
+          "title": "The Surprisingly Long Life of the Vacuum Tube",
+          "url": "https://www.construction-physics.com/p/the-surprisingly-long-life-of-the",
+          "score": 44,
+          "comments": 25
+        },
+        {
+          "title": "Testing UPS Output Waveforms",
+          "url": "https://www.lttlabs.com/articles/2026/05/12/ups-exploration",
+          "score": 11,
+          "comments": 3
+        },
+        {
           "title": "They Live (1988) inspired Adblocker",
           "url": "https://github.com/davmlaw/they_live_adblocker",
-          "score": 329,
-          "comments": 104
+          "score": 494,
+          "comments": 158
+        },
+        {
+          "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
+          "score": 163,
+          "comments": 146
         },
         {
           "title": "If AI writes your code, why use Python?",
           "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-          "score": 591,
-          "comments": 630
-        },
-        {
-          "title": "Coursera and Udemy are now one company",
-          "url": "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/",
-          "score": 54,
-          "comments": 14
-        },
-        {
-          "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-          "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-          "score": 374,
-          "comments": 72
-        },
-        {
-          "title": "Optimize for change not application performance",
-          "url": "https://www.echooff.dev/blog/developer-experience-is-a-performance-feature",
-          "score": 20,
-          "comments": 6
-        },
-        {
-          "title": "Rtwatch: Watch videos with friends using WebRTC",
-          "url": "https://github.com/pion/rtwatch",
-          "score": 43,
-          "comments": 6
-        },
-        {
-          "title": "Claude Platform on AWS",
-          "url": "https://claude.com/blog/claude-platform-on-aws",
-          "score": 162,
-          "comments": 71
-        },
-        {
-          "title": "Music has scales / raagas. What about storytelling in movies and prestige shows?",
-          "url": "https://arc.quanten.co/archetype",
-          "score": 24,
-          "comments": 29
-        },
-        {
-          "title": "Extremely Low Frequencies",
-          "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
-          "score": 108,
-          "comments": 8
-        },
-        {
-          "title": "Chasing Chicago's movable bridges (2014)",
-          "url": "https://aresluna.org/seesaws-for-giants/",
-          "score": 5,
-          "comments": 0
-        },
-        {
-          "title": "Toxicity on Social Media – The Noisy Room",
-          "url": "https://thenoisyroom.com",
-          "score": 100,
-          "comments": 67
-        },
-        {
-          "title": "Google says criminal hackers used AI to find a major software flaw",
-          "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-          "score": 202,
-          "comments": 147
-        },
-        {
-          "title": "I let AI build a tool to help me figure out what was waking me up at night",
-          "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-          "score": 204,
-          "comments": 215
-        },
-        {
-          "title": "Unitree GD01: China's $537k rideable transformer robot is now in production",
-          "url": "https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/",
-          "score": 50,
-          "comments": 34
-        },
-        {
-          "title": "Software Internals Book Club",
-          "url": "https://eatonphil.com/bookclub.html",
-          "score": 118,
-          "comments": 20
-        },
-        {
-          "title": "I hate soldering",
-          "url": "https://user8.bearblog.dev/rant/",
-          "score": 142,
-          "comments": 132
-        },
-        {
-          "title": "Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy",
-          "url": "https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy",
-          "score": 26,
-          "comments": 3
-        },
-        {
-          "title": "Boriel BASIC",
-          "url": "https://zxbasic.readthedocs.io/en/docs/",
-          "score": 54,
-          "comments": 19
+          "score": 800,
+          "comments": 838
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 80927,
-          "change_24h": -0.29,
-          "change_7d": 0.15,
-          "market_cap": 1620886741592
+          "price": 80597,
+          "change_24h": -1.7,
+          "change_7d": -0.82,
+          "market_cap": 1613801827825
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2290.07,
-          "change_24h": -1.85,
-          "change_7d": -3.72,
-          "market_cap": 276514664903
+          "price": 2280.08,
+          "change_24h": -2.54,
+          "change_7d": -3.6,
+          "market_cap": 275146664888
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 95.41,
-          "change_24h": 0.42,
-          "change_7d": 12.42,
-          "market_cap": 54999201427
+          "price": 94.54,
+          "change_24h": -3.03,
+          "change_7d": 10.62,
+          "market_cap": 54598832212
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.109468,
-          "change_24h": -0.63,
-          "change_7d": -2.19,
-          "market_cap": 16868690646
+          "price": 0.109099,
+          "change_24h": -1.85,
+          "change_7d": -4.17,
+          "market_cap": 16819312357
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.27489,
-          "change_24h": -1.74,
-          "change_7d": 6.36,
-          "market_cap": 10151253096
+          "price": 0.27056,
+          "change_24h": -3.78,
+          "change_7d": 5.02,
+          "market_cap": 10004741085
         }
       ]
     },
@@ -214,52 +214,52 @@
         {
           "name": "Firo",
           "symbol": "FIRO",
-          "market_cap_rank": 824
+          "market_cap_rank": 819
         },
         {
           "name": "Zano",
           "symbol": "ZANO",
-          "market_cap_rank": 207
+          "market_cap_rank": 203
+        },
+        {
+          "name": "Sun Token",
+          "symbol": "SUN",
+          "market_cap_rank": 134
         },
         {
           "name": "Billions Network",
           "symbol": "BILL",
-          "market_cap_rank": 133
+          "market_cap_rank": 121
         },
         {
-          "name": "LAB",
-          "symbol": "LAB",
-          "market_cap_rank": 141
+          "name": "Saga",
+          "symbol": "SAGA",
+          "market_cap_rank": 928
+        },
+        {
+          "name": "Neiro",
+          "symbol": "NEIRO",
+          "market_cap_rank": 590
         },
         {
           "name": "wojak",
           "symbol": "WOJAK",
-          "market_cap_rank": 601
+          "market_cap_rank": 612
         },
         {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 85
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 37
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 93
-        },
-        {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 23
+          "name": "Toncoin",
+          "symbol": "TON",
+          "market_cap_rank": 20
         },
         {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 96
         }
       ]
     },
@@ -268,39 +268,9 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "S&P 500 Posts Fifth Consecutive Weekly Loss Amid Middle East Tensions",
-          "summary": "The S&P 500 fell 2% last week, marking its first five-week losing streak since 2022, as markets grapple with Middle East conflict uncertainty and elevated oil prices pushing Brent crude to $112 per barrel.",
-          "source": "BlackRock Investment Institute",
-          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary"
-        },
-        {
-          "title": "U.S. Treasury Yields Rise to 4.43% as Inflation Concerns Mount",
-          "summary": "U.S. 10-year Treasury yields climbed to 4.43% amid elevated oil prices and inflation concerns, shifting the central bank debate from potential rate cuts to whether policy rates can keep pace with rising inflation.",
-          "source": "BlackRock Investment Institute",
-          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary"
-        },
-        {
-          "title": "Norway's Norges Bank Hikes Policy Rate in May, Plans Additional Increase",
-          "summary": "Norway's central bank raised its policy rate in May and is expected to implement one more rate hike in 2026 as inflation remains above target, driven by higher oil and commodity prices.",
-          "source": "Nordea",
-          "url": "https://www.nordea.com/en/news/norway-economic-outlook-inflation-in-focus"
-        },
-        {
-          "title": "AI-Driven Power Demand and Middle East Supply Shock Unlock Energy Infrastructure Investment",
-          "summary": "BlackRock identifies dual forces—AI-driven power demand and Middle East conflict-driven energy security concerns—creating thematic investment opportunities across energy, infrastructure, and commodities sectors.",
-          "source": "BlackRock Investment Institute",
-          "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary"
-        }
-      ],
-      "citations": [
-        "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
-        "https://www.nordea.com/en/news/norway-economic-outlook-inflation-in-focus",
-        "https://tradingeconomics.com/calendar",
-        "https://www.bloomberg.com/economics-v2"
-      ]
+      "count": 0,
+      "items": [],
+      "citations": []
     },
     "crypto_news": {
       "source": "perplexity",
@@ -310,55 +280,57 @@
       "count": 7,
       "items": [
         {
-          "title": "Circle Secures $222 Million Presale for Arc Blockchain",
-          "summary": "Stablecoin powerhouse Circle Internet Group raised $222 million in a token presale for its Arc blockchain, achieving a $3 billion valuation with backing from Andreessen Horowitz, BlackRock, and Apollo Funds. The layer-1 blockchain emphasizes regulatory compliance and privacy using zero-knowledge proofs.",
-          "source": "Investing News",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
+          "title": "Ripple Prime Secures $200M Debt Facility from Neuberger Berman",
+          "summary": "Ripple announced a $200 million debt facility partnership with Neuberger Specialty Finance to expand its multi-asset prime brokerage platform amid rising institutional demand. The deal supports financing for institutional clients using XRP and other assets.",
+          "source": "altFINS / Business Wire",
+          "url": "https://altfins.com/crypto-news/"
         },
         {
-          "title": "Senate Preps for Clarity Act Vote on Cryptocurrency Regulation",
-          "summary": "The Senate is preparing to vote on the Clarity Act, marking a significant regulatory development for the cryptocurrency industry.",
-          "source": "Investing News",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
+          "title": "Crypto.com Receives UAE Stored Value Facilities License",
+          "summary": "Crypto.com has been granted a UAE SVF license, enabling virtual asset payments for government services and expanding its regulatory footprint in the region.",
+          "source": "altFINS",
+          "url": "https://altfins.com/crypto-news/"
         },
         {
-          "title": "Crypto Market Experiences $410 Million in Liquidations",
-          "summary": "The cryptocurrency market saw approximately $410 million in liquidations over 24 hours, with $165 million in long positions and $240 million in short positions liquidated due to Bitcoin price volatility between $80,000-$82,000.",
+          "title": "Ethereum Price Drops to $2,290 Amid Market Correction",
+          "summary": "Ethereum traded at $2,290.85 at 9:15 a.m. ET on May 12, down $40 from yesterday and $205 from a year ago, reflecting ongoing volatility and profit-taking pressures.",
+          "source": "Fortune",
+          "url": "https://fortune.com/article/price-of-ethereum-05-12-2026/"
+        },
+        {
+          "title": "Monero Hits New All-Time High Despite Regulatory Delistings",
+          "summary": "Monero (XMR) reached a price high not seen in eight years in January 2026, with on-chain transaction volume up 30-35% amid EU regulatory pressures forcing 73 exchanges to delist it, boosting non-custodial ecosystem growth.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/322265831464258"
+        },
+        {
+          "title": "Toncoin Leads $187M Token Unlock Wave This Month",
+          "summary": "Toncoin (TON) tops the list with $86.77 million in tokens unlocking this month, representing nearly half of the $187.65 million total from seven major projects entering circulation.",
           "source": "MEXC",
-          "url": "https://www.mexc.com/news/1083494"
+          "url": "https://www.mexc.com/news/1083843"
         },
         {
-          "title": "Solana Gains 15% on $39 Million ETF Inflows",
-          "summary": "Solana (SOL) surged 15% to $97 following $39 million in weekly spot ETF inflows, demonstrating strong institutional interest in the blockchain platform.",
-          "source": "altFINS",
-          "url": "https://altfins.com/crypto-news/news-sentiment/d/8303"
+          "title": "Coinbase Reports Q1 Results with Record Trading Volume Market Share",
+          "summary": "Coinbase achieved an all-time high crypto trading volume market share of 8.6% in Q1, driven by product innovation across exchange, stablecoins, payments, and onchain adoption.",
+          "source": "Business Wire",
+          "url": "https://www.businesswire.com/newsroom/industry/professional-services/cryptocurrency"
         },
         {
-          "title": "Bitcoin Consolidates Near $81,000 as Major Altcoins Face Selling Pressure",
-          "summary": "Bitcoin remains range-bound below $84,000 while Ethereum, Solana, Binance Coin, and Ripple experience selling pressure in a broad market pullback.",
-          "source": "TradingView/CoinPedia",
-          "url": "https://www.tradingview.com/news/coinpedia:a85136509094b:0-crypto-market-news-today-btc-eth-consolidates-while-h-b-prices-lead-the-markets/"
-        },
-        {
-          "title": "$737.7 Million in Token Unlocks Expected During Second Week of May 2026",
-          "summary": "The crypto market faces significant token unlocks totaling $737.7 million this week, with Connex, Avalanche, and Arbitrum leading the releases.",
-          "source": "BeInCrypto",
-          "url": "https://beincrypto.com/index.html"
-        },
-        {
-          "title": "Hedera (HBAR) Climbs to $0.097 Signaling Potential Breakout",
-          "summary": "Hedera Hashgraph's native token HBAR reached $0.097 with a $4.2 billion market cap, indicating a potential recovery from its long-term downtrend.",
-          "source": "altFINS",
-          "url": "https://altfins.com/crypto-news/news-sentiment/d/8303"
+          "title": "Corpay Partners with BVNK for Stablecoin Wallets",
+          "summary": "Corpay partnered with BVNK to integrate stablecoin wallets, allowing global customers to send, receive, store, and convert stablecoins alongside fiat balances.",
+          "source": "Business Wire",
+          "url": "https://www.businesswire.com/newsroom/industry/professional-services/cryptocurrency"
         }
       ],
       "citations": [
-        "https://investingnews.com/cryptocurrency-market-recap/",
-        "https://www.mexc.com/news/1083494",
-        "https://www.binance.com/en/square/post/322214683384161",
-        "https://altfins.com/crypto-news/news-sentiment/d/8303",
-        "https://beincrypto.com/index.html",
-        "https://www.tradingview.com/news/coinpedia:a85136509094b:0-crypto-market-news-today-btc-eth-consolidates-while-h-b-prices-lead-the-markets/"
+        "https://altfins.com/crypto-news/",
+        "https://fortune.com/article/price-of-ethereum-05-12-2026/",
+        "https://www.fameex.com/en-US/news/crypto-news-recap-20260512",
+        "https://www.binance.com/en/square/post/322265831464258",
+        "https://www.mexc.com/news/1083843",
+        "https://markets.businessinsider.com/news/stocks/crypto-market-news-alphapepe-announces-8-500-holders-milestone-as-xrp-price-prediction-targets-5-00-1036140192",
+        "https://www.investing.com/analysis/3-altcoins-showing-strong-technical-setups-despite-cautious-crypto-market-200680141",
+        "https://www.businesswire.com/newsroom/industry/professional-services/cryptocurrency"
       ]
     },
     "ai_news": {
@@ -366,62 +338,14 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 8,
-      "items": [
-        {
-          "title": "Meta Hires Four More OpenAI Researchers",
-          "summary": "Meta has reportedly hired four additional researchers from OpenAI: Shengjia Zhao, Jiahui Yu, Shuchao Bi, and Hongyu Ren, according to a person familiar with the hires.",
-          "source": "Economic Times AI",
-          "url": "https://ai.economictimes.com"
-        },
-        {
-          "title": "OpenAI's ChatGPT Experiences Downtime",
-          "summary": "Users are reporting issues with ChatGPT, including problems loading prompts, leading to widespread outages.",
-          "source": "Economic Times AI",
-          "url": "https://ai.economictimes.com"
-        },
-        {
-          "title": "Apple to Open AI Technology to Developers",
-          "summary": "Apple plans to allow developers access to its underlying AI technology, potentially expanding its ecosystem.",
-          "source": "Economic Times AI",
-          "url": "https://ai.economictimes.com"
-        },
-        {
-          "title": "US-UAE AI Data Campus Deal Not Finalized",
-          "summary": "A multi-billion dollar deal between the US and UAE for an AI data campus remains far from completion, sources indicate.",
-          "source": "Economic Times AI",
-          "url": "https://ai.economictimes.com"
-        },
-        {
-          "title": "ITER Develops Fusion World Model with AI",
-          "summary": "ITER is training a 'fusion world model' using AI on a GPU cluster to simulate tokamak behavior, predict faults, and transfer knowledge from existing machines for improved operations.",
-          "source": "ITER",
-          "url": "https://www.iter.org/fr/node/20687/how-fusion-teaching-ai-new-tricks-iter"
-        },
-        {
-          "title": "68% of Students Use AI for Math Help",
-          "summary": "A new survey reveals 68% of students rely on AI tools for math assignments or exams, with 10% using them daily, highlighting AI's growing role in education.",
-          "source": "eSchool News",
-          "url": "https://www.eschoolnews.com/digital-learning/2026/05/12/in-a-new-survey-ai-scores-high-as-a-math-learning-tool/"
-        },
-        {
-          "title": "OpenAI Launches AI Consulting Arm Valued at $14 Billion",
-          "summary": "OpenAI has launched a new AI consulting division valued at $14 billion, expanding its services beyond core model development.",
-          "source": "Axios",
-          "url": "https://www.axios.com/technology/automation-and-ai"
-        },
-        {
-          "title": "AI Learning Gap Raises Investor Concerns",
-          "summary": "Investors express worries over gaps in AI learning capabilities, potentially impacting development and adoption paces.",
-          "source": "Axios",
-          "url": "https://www.axios.com/technology/automation-and-ai"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://ai.economictimes.com",
-        "https://www.iter.org/fr/node/20687/how-fusion-teaching-ai-new-tricks-iter",
-        "https://www.eschoolnews.com/digital-learning/2026/05/12/in-a-new-survey-ai-scores-high-as-a-math-learning-tool/",
-        "https://www.axios.com/technology/automation-and-ai"
+        "https://www.youtube.com/watch?v=d6TjBn4a7K4",
+        "https://www.deeplearning.ai/courses/ai-prompting-for-everyone",
+        "https://www.youtube.com/watch?v=B5LZnYYoLtY",
+        "https://www.youtube.com/watch?v=4uQXb6mqy6A",
+        "https://www.youtube.com/watch?v=qk_F3yzXxA0"
       ]
     },
     "gaming": {
@@ -429,14 +353,38 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 4,
+      "items": [
+        {
+          "title": "Nintendo Confirms More Unannounced Switch 2 Games for 2026 and Valve Prepares Steam Machine Launch",
+          "summary": "During an investor Q&A, Nintendo revealed additional unannounced games planned for 2026, while Valve is reportedly setting up an order reservation system for the Steam Machine.",
+          "source": "YouTube (Gaming News Channel)",
+          "url": "https://www.youtube.com/watch?v=I_vo4bC5qYY"
+        },
+        {
+          "title": "Crimson Desert Announces DLC Content and Expansions",
+          "summary": "Nexon revealed plans to expand Crimson Desert with DLC and other content to broaden the game's scope.",
+          "source": "YouTube (Gaming News Channel)",
+          "url": "https://www.youtube.com/watch?v=8smIyJ36fUc"
+        },
+        {
+          "title": "Helldivers 2 Players Upset Over New Update Decision in Galactic War",
+          "summary": "A recent update in Helldivers 2's ongoing galactic civilizations war has sparked backlash among players.",
+          "source": "YouTube (Gaming News Channel)",
+          "url": "https://www.youtube.com/watch?v=tLoogmmiP48"
+        },
+        {
+          "title": "Ken Levine Reflects on BioShock, Judas, and 30 Years of Game Design Evolution",
+          "summary": "In an IGN interview, Ken Levine discusses his career from Looking Glass Studios to Ghost Story Games, covering iconic titles like BioShock and the upcoming Judas.",
+          "source": "IGN (via YouTube)",
+          "url": "https://www.youtube.com/watch?v=agqqjUd2bIY"
+        }
+      ],
       "citations": [
-        "https://www.youtube.com/watch?v=3o79lDlMAeg",
-        "https://www.youtube.com/watch?v=GgX82beGF2k",
-        "https://www.youtube.com/watch?v=2IyjDtp7sJQ",
-        "https://www.youtube.com/watch?v=nHnax_CC-7o",
-        "https://www.youtube.com/watch?v=1EzSGR4GnFQ"
+        "https://www.youtube.com/watch?v=I_vo4bC5qYY",
+        "https://www.youtube.com/watch?v=8smIyJ36fUc",
+        "https://www.youtube.com/watch?v=tLoogmmiP48",
+        "https://www.youtube.com/watch?v=agqqjUd2bIY"
       ]
     },
     "tech_news": {
@@ -444,41 +392,104 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 15,
       "items": [
         {
-          "title": "Jeff Clarke's Mission to Save Dell PCs",
-          "summary": "Jeff Clarke is taking over Dell's PC business to reverse years of drift, restore the XPS halo, and compete in an AI era where fundamentals still win.",
+          "title": "Sony Launches New Wearable Air Conditioner That Runs Even Cooler",
+          "summary": "Sony has introduced a new wearable air conditioner designed to provide enhanced cooling performance.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
+        },
+        {
+          "title": "Googlebooks Announced as Android-Based Evolution of Chromebooks",
+          "summary": "Google teased its new Googlebooks laptop lineup, evolving Chromebooks into an Android-based platform.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
+        },
+        {
+          "title": "Android 17 Released with Improved iOS File Sharing and Forced Breaks for Addictive Apps",
+          "summary": "The latest Android 17 update includes better file sharing compatibility with iOS and features to enforce breaks from addictive applications, along with new 3D Emoji.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
+        },
+        {
+          "title": "Rivian Rolls Out AI-Powered Voice Assistant to All Gen 1, Gen 2 Vehicles and Upcoming R2",
+          "summary": "Rivian's new voice assistant is being deployed across its vehicle lineup, enhancing in-car interactions.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
+        },
+        {
+          "title": "Forza Horizon 6 Leaks a Week Ahead of Launch via Unencrypted Steam Files",
+          "summary": "Pirates downloaded and shared unencrypted files from Steam, leaking details of Forza Horizon 6 just before its official release.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
+        },
+        {
+          "title": "iOS Begins Rolling Out End-to-End Encrypted RCS Messaging in Beta with Lock Icon on Android",
+          "summary": "Apple is starting beta rollout of end-to-end encrypted RCS messaging for iOS, visible with a new lock icon in Android chats.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
+        },
+        {
+          "title": "Percona Refocuses on Fast-Impact Database Services for AI Readiness and Talent Shortages",
+          "summary": "Percona is offering structured database services to boost enterprise performance and prepare open-source platforms amid talent shortages.",
           "source": "TechNewsWorld",
           "url": "https://www.technewsworld.com"
         },
         {
-          "title": "AI PCs' Unmet Promise Dragging Down Adoption",
-          "summary": "AI PCs were marketed as transformative, but confusing messaging, underpowered hardware, and a lack of compelling use cases have left buyers unconvinced.",
+          "title": "Amazon Expands Alexa+ to the Web Amid Intensifying AI Competition",
+          "summary": "Amazon is launching Alexa+ on the web to extend its assistant beyond devices, targeting agentic workflows against rivals.",
           "source": "TechNewsWorld",
           "url": "https://www.technewsworld.com"
         },
         {
-          "title": "Percona's Fast-Impact Database Services Aim to Speed AI Readiness",
-          "summary": "Percona is refocusing on fast, structured database services to help enterprises overcome talent shortages, improve performance, and prepare open-source data platforms for AI readiness.",
+          "title": "Gartner Advises Organizations to Block AI Browsers Due to Security Risks",
+          "summary": "Gartner warns that AI-powered browsers pose data exposure and security threats, recommending avoidance for enterprises.",
           "source": "TechNewsWorld",
           "url": "https://www.technewsworld.com"
         },
         {
-          "title": "The Android PC: Google's Second Shot at the Unified Computing Dream",
-          "summary": "Google and Qualcomm are pushing Android PCs into the mainstream, aiming to reshape personal computing by scaling the dominant mobile OS to desktops and challenging Microsoft and Apple.",
+          "title": "Spectral Compute's Compiler Tech Threatens Nvidia's $5 Trillion Dominance via CUDA Alternatives",
+          "summary": "New compiler technology from Spectral could enable broader hardware options, challenging Nvidia's CUDA lock-in in the AI market.",
           "source": "TechNewsWorld",
           "url": "https://www.technewsworld.com"
         },
         {
-          "title": "Silicon Computing Poised To Make Quantum Leap",
-          "summary": "Quantum Motion has deployed the first full-stack quantum computer built using standard silicon chip fabrication, a milestone that could accelerate scalable quantum systems.",
+          "title": "Google and Qualcomm Push Android PCs as Mainstream Challenge to Microsoft and Apple",
+          "summary": "The Android PC initiative aims to scale Android to desktops, pursuing Google's vision of unified computing.",
           "source": "TechNewsWorld",
           "url": "https://www.technewsworld.com"
+        },
+        {
+          "title": "Quantum Motion Deploys First Full-Stack Silicon Quantum Computer Using Standard Chip Fabrication",
+          "summary": "This milestone uses conventional silicon processes, potentially accelerating scalable quantum computing development.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
+        },
+        {
+          "title": "Seven Smart Rings Developed to Translate Sign Language into Instant Text",
+          "summary": "A South Korean startup's smart rings convert hand movements into text, aiming to overcome sign language barriers.",
+          "source": "Tech Xplore",
+          "url": "https://techxplore.com"
+        },
+        {
+          "title": "Carnegie Mellon Team Invents Tiny Thermal Barcode for Pixel-Precise Heat Manipulation",
+          "summary": "The technology digitizes thermal radiation like pixels, published in Science Advances with broad potential applications.",
+          "source": "Tech Xplore",
+          "url": "https://techxplore.com"
+        },
+        {
+          "title": "Key Discovery Boosts EV Driving Range and Battery Lifespan Simultaneously",
+          "summary": "Researchers found a crucial clue to improve both electric vehicle range and battery durability.",
+          "source": "Tech Xplore",
+          "url": "https://techxplore.com"
         }
       ],
       "citations": [
-        "https://www.technewsworld.com"
+        "https://www.engadget.com",
+        "https://www.technewsworld.com",
+        "https://techxplore.com",
+        "https://www.youtube.com/watch?v=t9cCDioB1bc"
       ]
     }
   }
