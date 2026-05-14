@@ -1,21 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-05-13 18:40 UTC*
+*Generated: 2026-05-14 00:44 UTC*
 
-Here's your executive briefing for May 13, 2026:
+Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The US markets are mixed, with the S&P 500 and Nasdaq slipping due to hotter-than-expected CPI data, while the Dow rose slightly. Oil prices remain elevated at $106 Brent amid geopolitical tensions. In the crypto market, Bitcoin holds above $80,000 despite the inflation data, while Ethereum is the only top-10 cryptocurrency trading in negative territory this week. Major cryptocurrencies like Bitcoin, Ethereum, and Solana have seen significant price movements, with Bitcoin maintaining its position above $80,000 and Solana gaining nearly 10%.
+1. **Market Overview**: The S&P 500 and NASDAQ slipped from recent record highs due to hotter-than-expected CPI data, raising concerns about persistent inflation. The Dow Jones gained 56 points, supported by healthcare shares. Bitcoin is trading above $80,000, with strong buyer confidence despite macroeconomic uncertainty. Major cryptocurrencies such as Ethereum, Solana, and Dogecoin experienced mixed price movements, with Ethereum down 0.79% and Dogecoin up 3.89% in the last 24 hours.
 
-2. **Tech & AI**: There have been significant developments in the tech and AI space, including the introduction of Agent View in Claude Code by Anthropic, which enables users to run multiple sessions in parallel. Additionally, there have been notable advancements in open-source software, with initiatives like Open Source Resistance and the development of new programming languages and tools.
+2. **Tech & AI**: Notable tech developments include the emergence of Linux gaming, with Windows APIs becoming Linux kernel features, and the launch of Ardent (YC P26), offering Postgres sandboxes in seconds with zero migration. Additionally, there is a growing interest in AI safety, with discussions on the "other half of AI safety" and the importance of preserving software history, such as the Fisher-Price Pixter.
 
-3. **Gaming & Entertainment**: There is no significant gaming news to report at this time. However, there have been developments in related areas, such as the preservation of vintage gaming consoles and the creation of new games using innovative technologies.
+3. **Gaming & Entertainment**: There is a notable trend in Linux gaming, with improvements in performance due to Windows APIs being integrated into the Linux kernel. Additionally, a new roguelike game, Xs of Y, has been released, which names itself every run and is written in 4kLoC.
 
 4. **Key Insights**:
-* The US inflation rate has surged to 3.8%, driven by the Iran conflict and gas prices above $4.50/gallon, with 77% of Americans blaming Trump's policies for higher living costs.
-* Bitcoin's resilience above $80,000 despite hotter-than-expected US inflation data signals strong buyer confidence and a potential behavioral shift.
-* Ethereum's underperformance, with the ETH/BTC ratio falling to a 10-month low, contrasts with Bitcoin's stability and Solana's gains.
-* The surge in XRP trading volumes in South Korea may precede sharper price expansions, echoing historical retail front-running patterns.
-* The US 10-Year Yield has climbed to 4.45% post-CPI, increasing bets on delayed Fed rate cuts or potential tightening.
+* The US is winning the AI race in terms of commercialization, with significant investments and developments in the field.
+* Inflation concerns are rising, with hotter-than-expected CPI data, which may impact the stock market and cryptocurrency prices.
+* Institutional adoption of cryptocurrencies is increasing, with Charles Schwab launching direct spot crypto trading for $12 trillion in client assets.
+* Regulatory clarity is emerging, with the potential for the CLARITY Act to drive Bitcoin's price to $100,000 to $230,000 in 2026.
+* The tech industry is experiencing significant developments, including improvements in Linux gaming and the launch of new AI-powered tools and services.
 
 5. **Watch List**: 
-Items to monitor in the coming days include the potential impact of the US inflation rate on the economy, the performance of Bitcoin and other cryptocurrencies, and the development of new technologies and innovations in the tech and AI space. Additionally, the situation in the Middle East and its effects on oil prices and global markets should be closely watched. The upcoming Fed meeting and potential rate hikes or cuts will also be crucial in determining the direction of the markets.
+* Inflation data and its impact on the stock market and cryptocurrency prices.
+* Regulatory developments, such as the CLARITY Act, and their potential impact on the cryptocurrency market.
+* Institutional adoption of cryptocurrencies, including Charles Schwab's direct spot crypto trading launch.
+* Linux gaming and its potential to disrupt the gaming industry.
+* AI safety and its growing importance in the tech industry.
