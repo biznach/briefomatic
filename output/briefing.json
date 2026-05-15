@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T00:41:33.322264+00:00",
-  "generated_at_human": "2026-05-15 00:41 UTC",
+  "generated_at": "2026-05-15T07:09:37.390619+00:00",
+  "generated_at_human": "2026-05-15 07:09 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Mullvad exit IPs are surprisingly identifying",
+          "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+          "score": 290,
+          "comments": 144
+        },
+        {
           "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
           "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-          "score": 564,
-          "comments": 338
+          "score": 767,
+          "comments": 406
+        },
+        {
+          "title": "How Claude Code works in large codebases",
+          "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+          "score": 125,
+          "comments": 82
+        },
+        {
+          "title": "Access to frontier AI will soon be limited by economic and security constraints",
+          "url": "https://writing.antonleicht.me/p/cut-off",
+          "score": 96,
+          "comments": 52
         },
         {
           "title": "A few words on DS4",
           "url": "https://antirez.com/news/165",
-          "score": 87,
-          "comments": 27
+          "score": 266,
+          "comments": 100
+        },
+        {
+          "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+          "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+          "score": 56,
+          "comments": 7
+        },
+        {
+          "title": "Solar-based sleep patterns compared to modern norms",
+          "url": "https://dylan.gr/1775146616",
+          "score": 21,
+          "comments": 7
+        },
+        {
+          "title": "Gyroflow: Video stabilization using gyroscope data",
+          "url": "https://github.com/gyroflow/gyroflow",
+          "score": 64,
+          "comments": 9
         },
         {
           "title": "First public macOS kernel memory corruption exploit on Apple M5",
           "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-          "score": 227,
-          "comments": 40
+          "score": 330,
+          "comments": 73
         },
         {
           "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
           "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-          "score": 470,
-          "comments": 120
+          "score": 554,
+          "comments": 140
         },
         {
           "title": "Codex is now in the ChatGPT mobile app",
           "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-          "score": 140,
-          "comments": 59
+          "score": 294,
+          "comments": 145
         },
         {
           "title": "New Nginx Exploit",
           "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-          "score": 276,
-          "comments": 61
+          "score": 351,
+          "comments": 73
         },
         {
-          "title": "Have a Coherent AI Policy",
-          "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
-          "score": 17,
-          "comments": 7
+          "title": "UK government replaces Palantir software with internally-built refugee system",
+          "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+          "score": 91,
+          "comments": 21
+        },
+        {
+          "title": "reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
+          "url": "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops",
+          "score": 31,
+          "comments": 22
         },
         {
           "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
           "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
-          "score": 51,
-          "comments": 14
+          "score": 88,
+          "comments": 38
         },
         {
           "title": "RISC-V Router",
           "url": "https://router.start9.com/",
-          "score": 55,
-          "comments": 31
+          "score": 111,
+          "comments": 56
+        },
+        {
+          "title": "Coldkey – Post-quantum age key generation and paper backup tool",
+          "url": "https://github.com/pike00/coldkey",
+          "score": 9,
+          "comments": 0
+        },
+        {
+          "title": "Rewrite Bun in Rust has been merged",
+          "url": "https://github.com/oven-sh/bun/pull/30412",
+          "score": 600,
+          "comments": 661
+        },
+        {
+          "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+          "url": "https://www.openvehicles.com/home",
+          "score": 68,
+          "comments": 10
+        },
+        {
+          "title": "LLM Policy for Rust Compiler",
+          "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+          "score": 63,
+          "comments": 26
+        },
+        {
+          "title": "HDD Firmware Hacking",
+          "url": "https://icode4.coffee/?p=1465",
+          "score": 173,
+          "comments": 20
         },
         {
           "title": "Porting 3D Movie Maker to Linux",
           "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
-          "score": 66,
-          "comments": 12
+          "score": 110,
+          "comments": 22
         },
         {
-          "title": "Elevated error rates on Opus 4.7",
-          "url": "https://status.claude.com/incidents/8z7l5zcy0v3b",
-          "score": 5,
-          "comments": 3
+          "title": "More than sixty percent of the United States is experiencing drought conditions",
+          "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+          "score": 176,
+          "comments": 72
         },
         {
           "title": "New arXiv policy: 1-year ban for hallucinated references",
           "url": "https://twitter.com/tdietterich/status/2055000956144935055",
-          "score": 233,
-          "comments": 74
+          "score": 458,
+          "comments": 149
         },
         {
           "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
           "url": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
           "score": 1,
           "comments": 0
-        },
-        {
-          "title": "HDD Firmware Hacking",
-          "url": "https://icode4.coffee/?p=1465",
-          "score": 126,
-          "comments": 11
-        },
-        {
-          "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
-          "url": "https://www.openvehicles.com/home",
-          "score": 22,
-          "comments": 5
-        },
-        {
-          "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
-          "url": "https://gynvael.coldwind.pl/?id=372",
-          "score": 96,
-          "comments": 152
-        },
-        {
-          "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-          "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-          "score": 63,
-          "comments": 14
-        },
-        {
-          "title": "More than sixty percent of the United States is experiencing drought conditions",
-          "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
-          "score": 49,
-          "comments": 12
-        },
-        {
-          "title": "Amazonbot is finally respecting robots.txt",
-          "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
-          "score": 125,
-          "comments": 26
-        },
-        {
-          "title": "Computer Hobby Movement in Canada",
-          "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
-          "score": 182,
-          "comments": 72
-        },
-        {
-          "title": "The Power of a Free Popsicle (2018)",
-          "url": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
-          "score": 64,
-          "comments": 26
-        },
-        {
-          "title": "A message from President Kornbluth about funding and the talent pipeline",
-          "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-          "score": 568,
-          "comments": 636
-        },
-        {
-          "title": "Do teachers need advanced degrees?",
-          "url": "https://www.cremieux.xyz/p/do-teachers-need-advanced-degrees",
-          "score": 7,
-          "comments": 8
-        },
-        {
-          "title": "The Biochemical Beauty of Retatrutide: How GLP-1s Work",
-          "url": "https://acesounderglass.com/2025/10/13/the-biochemical-beauty-of-retatrutide-how-glp-1s-actually-work/",
-          "score": 38,
-          "comments": 34
-        },
-        {
-          "title": "What's in a GGUF, besides the weights – and what's still missing?",
-          "url": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
-          "score": 79,
-          "comments": 38
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 81499,
-          "change_24h": 2.42,
-          "change_7d": 1.85,
-          "market_cap": 1633536237948
+          "price": 80614,
+          "change_24h": 1.07,
+          "change_7d": 1.42,
+          "market_cap": 1614626320480
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2294.08,
-          "change_24h": 1.24,
-          "change_7d": 0.13,
-          "market_cap": 277087523234
+          "price": 2255.14,
+          "change_24h": -0.45,
+          "change_7d": -0.83,
+          "market_cap": 272164093153
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 92.51,
-          "change_24h": 1.46,
-          "change_7d": 4.62,
-          "market_cap": 53485252686
+          "price": 91.0,
+          "change_24h": -0.06,
+          "change_7d": 3.46,
+          "market_cap": 52586078660
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.116747,
-          "change_24h": 1.76,
-          "change_7d": 8.27,
-          "market_cap": 18011217450
+          "price": 0.114617,
+          "change_24h": 0.21,
+          "change_7d": 7.92,
+          "market_cap": 17687449816
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.27212,
-          "change_24h": 2.49,
-          "change_7d": 4.1,
-          "market_cap": 10070885760
+          "price": 0.267286,
+          "change_24h": 0.79,
+          "change_7d": 2.36,
+          "market_cap": 9888280066
         }
       ]
     },
@@ -212,19 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Firo",
-          "symbol": "FIRO",
-          "market_cap_rank": 849
-        },
-        {
           "name": "Zano",
           "symbol": "ZANO",
           "market_cap_rank": 205
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 98
         },
         {
           "name": "Hyperliquid",
@@ -232,19 +222,9 @@
           "market_cap_rank": 13
         },
         {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 4
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 89
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 98
         },
         {
           "name": "Bitcoin",
@@ -252,14 +232,34 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Billions Network",
-          "symbol": "BILL",
-          "market_cap_rank": 105
+          "name": "LAB",
+          "symbol": "LAB",
+          "market_cap_rank": 153
         },
         {
-          "name": "NEAR Protocol",
-          "symbol": "NEAR",
-          "market_cap_rank": 45
+          "name": "Billions Network",
+          "symbol": "BILL",
+          "market_cap_rank": 104
+        },
+        {
+          "name": "Kishu Inu",
+          "symbol": "KISHU",
+          "market_cap_rank": 642
+        },
+        {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 16
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 141
+        },
+        {
+          "name": "TROLL",
+          "symbol": "TROLL",
+          "market_cap_rank": 255
         }
       ]
     },
@@ -268,43 +268,50 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Fed cuts rates 25 bps and ends balance-sheet runoff amid shutdown-limited data",
-          "summary": "The Federal Reserve lowered interest rates by another 0.25 percentage point and announced it will stop shrinking its balance sheet. The decision drew two dissents in opposite directions, underscoring internal debate over whether policy should be eased further or held steady.",
-          "source": "First Trust Economics Blog",
-          "url": "https://www.ftportfolios.com/economicsblog/"
+          "title": "US Stock Market Rallies on Trade Optimism and AI Demand",
+          "summary": "The Dow Jones, S&P 500, and Nasdaq surged following renewed optimism from a U.S.-China trade summit and strong AI sector performance. The Dow Jones climbed over 260 points with technology stocks leading gains, particularly Nvidia and Cisco.",
+          "source": "Economic Times",
+          "url": "https://economictimes.com/news/international/us/us-stock-market-jumps-sharply-today-as-dow-jones-reclaims-50000-why-the-dow-sp-500-and-nasdaq-are-all-in-green-after-u-s-china-trade-summit-boost/articleshow/131096576.cms"
         },
         {
-          "title": "US government shutdown deal reached to reopen operations through January",
-          "summary": "Congressional parties reportedly reached a deal to reopen the government at least through the end of January, which would restore federal workers to their jobs with back pay and reverse some shutdown-era layoffs. The agreement also leaves room for a Senate vote on extending enhanced Obamacare subsidies.",
-          "source": "First Trust Economics Blog",
-          "url": "https://www.ftportfolios.com/economicsblog/"
+          "title": "Cisco Surges 14% on Earnings Beat and AI Restructuring",
+          "summary": "Cisco Systems jumped to $116.40 after posting third-quarter results that beat Wall Street estimates on revenue and guidance, while announcing plans to cut nearly 4,000 jobs as part of a strategic shift toward AI-focused operations.",
+          "source": "Economic Times",
+          "url": "https://economictimes.com/news/international/us/us-stock-market-jumps-sharply-today-as-dow-jones-reclaims-50000-why-the-dow-sp-500-and-nasdaq-are-all-in-green-after-u-s-china-trade-summit-boost/articleshow/131096576.cms"
         },
         {
-          "title": "September CPI came in slightly below expectations, but inflation remains above target",
-          "summary": "The latest CPI data showed headline inflation rising 0.3% month over month versus 0.4% expected, while core CPI rose 0.2% versus 0.3% expected. On a year-over-year basis, both headline and core inflation were reported at 3.0%, still above the Fed’s 2% target.",
-          "source": "First Trust Economics Blog",
-          "url": "https://www.ftportfolios.com/economicsblog/"
+          "title": "US Government Clears Chinese Companies to Purchase Nvidia AI Chips",
+          "summary": "The United States government has approved approximately 10 Chinese companies to purchase Nvidia's H200 artificial intelligence chips, though actual deliveries have not yet commenced.",
+          "source": "Economic Times",
+          "url": "https://economictimes.com/news/international/us/us-stock-market-jumps-sharply-today-as-dow-jones-reclaims-50000-why-the-dow-sp-500-and-nasdaq-are-all-in-green-after-u-s-china-trade-summit-boost/articleshow/131096576.cms"
         },
         {
-          "title": "U.S. labor market data mixed as ADP and Challenger reports point to slowing conditions",
-          "summary": "Recent U.S. labor-market indicators were mixed, with ADP employment change at 109K against a 61K consensus and Challenger job cuts at 60.62K. Traders are watching these releases closely because the shutdown has limited the flow of official data.",
-          "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/calendar"
+          "title": "Initial Jobless Claims Rise Above Forecast",
+          "summary": "Initial jobless claims came in at 211,000 for the week ending May 9, exceeding both the prior reading of 199,000 and the 205,000 forecast, while continuing claims rose by 24,000 to 1.78 million.",
+          "source": "Economic Times",
+          "url": "https://economictimes.com/news/international/us/us-stock-market-jumps-sharply-today-as-dow-jones-reclaims-50000-why-the-dow-sp-500-and-nasdaq-are-all-in-green-after-u-s-china-trade-summit-boost/articleshow/131096576.cms"
         },
         {
-          "title": "Tariff debate continues as economists assess limited near-term damage to growth",
-          "summary": "A Brookings analysis argues that the second Trump administration’s tariff increases are historically large, but the broader economy has so far not shown severe damage. The piece suggests that pass-through effects, demand shifts, and policy offsets may be muting the immediate impact.",
-          "source": "Brookings",
-          "url": "https://www.brookings.edu/articles/why-havent-tariffs-significantly-damaged-the-economy/"
+          "title": "Fed May Abandon Rate-Cut Bias Amid Inflation Concerns",
+          "summary": "Seema Shah, Chief Global Strategist at Principal Asset Management, warns that investors are underpricing the prospect that the Federal Reserve may need to abandon its bias toward cutting interest rates.",
+          "source": "Bloomberg Television",
+          "url": "https://www.youtube.com/watch?v=fj2PcSZBSyw"
+        },
+        {
+          "title": "April CPI Rises 3.8% Year-Over-Year",
+          "summary": "The Consumer Price Index for All Urban Consumers rose 0.6% seasonally adjusted in April 2026 and 3.8% over the past 12 months, indicating persistent inflation pressures.",
+          "source": "U.S. Bureau of Labor Statistics",
+          "url": "https://www.bls.gov/cpi/"
         }
       ],
       "citations": [
-        "https://www.ftportfolios.com/economicsblog/",
+        "https://economictimes.com/news/international/us/us-stock-market-jumps-sharply-today-as-dow-jones-reclaims-50000-why-the-dow-sp-500-and-nasdaq-are-all-in-green-after-u-s-china-trade-summit-boost/articleshow/131096576.cms",
         "https://tradingeconomics.com/calendar",
-        "https://www.brookings.edu/articles/why-havent-tariffs-significantly-damaged-the-economy/"
+        "https://www.bls.gov/cpi/",
+        "https://www.youtube.com/watch?v=fj2PcSZBSyw"
       ]
     },
     "crypto_news": {
@@ -312,47 +319,9 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
-      "items": [
-        {
-          "title": "Bitcoin nears $82,000 as U.S. crypto bill clears Senate committee",
-          "summary": "Bitcoin traded near $81,400 and briefly touched $82,000 after a Senate committee advanced the Digital Asset Market Clarity Act on a 15-9 vote. The move came alongside more than $1 billion in spot trading volume and renewed bullish momentum across crypto markets.",
-          "source": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-price-surges-3-past-82k"
-        },
-        {
-          "title": "Bitcoin jumps above $82,000 amid short squeeze and regulatory optimism",
-          "summary": "Bitcoin surged more than $2,000 in four hours and broke above $82,000, with reporting attributing part of the move to a $145 million short squeeze. The rally also followed progress on the Clarity Act and rising institutional interest.",
-          "source": "Pluang",
-          "url": "https://pluang.com/en/news-feed/bitcoin-melampaui-82000-dolar-didorong-oleh-short-squeeze-dan-kliring-act"
-        },
-        {
-          "title": "JPMorgan says Bitcoin remains the clear institutional winner in crypto",
-          "summary": "JPMorgan analysts said Bitcoin continues to outperform Ether and altcoins across key institutional metrics, even as the broader market rebounds. The bank expects crypto inflows to exceed 2025 levels in 2026, led increasingly by institutions.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/crypto/markets/jpmorgan-sees-one-clear-winner-in-crypto-right-now"
-        },
-        {
-          "title": "CME Group plans first multi-crypto index futures product",
-          "summary": "CME Group said it plans to launch Nasdaq CME Crypto Index futures on June 8, pending regulatory approval. The product would give institutional investors exposure to a basket of major cryptocurrencies including Bitcoin, Ether, XRP and Solana.",
-          "source": "Pluang",
-          "url": "https://pluang.com/en/news-feed/bitcoin-melampaui-82000-dolar-didorong-oleh-short-squeeze-dan-kliring-act"
-        },
-        {
-          "title": "Strategy’s STRC preferred stock tops $1.24 billion in issuance volume",
-          "summary": "Strategy Inc.’s STRC program continued scaling its Bitcoin accumulation effort, with live trackers showing more than $1.24 billion in issuance volume and an estimated 11,709 BTC acquired. The structure has become one of the largest corporate Bitcoin-buying vehicles on record.",
-          "source": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-price-surges-3-past-82k"
-        }
-      ],
-      "citations": [
-        "https://bitcoinmagazine.com/news/bitcoin-price-surges-3-past-82k",
-        "https://www.youtube.com/watch?v=D484xGdlor8",
-        "https://www.binance.com/en/square/post/323032610046305",
-        "https://pluang.com/en/news-feed/bitcoin-melampaui-82000-dolar-didorong-oleh-short-squeeze-dan-kliring-act",
-        "https://www.thestreet.com/crypto/markets/jpmorgan-sees-one-clear-winner-in-crypto-right-now",
-        "https://www.youtube.com/watch?v=TB5ijR76Tbg"
-      ]
+      "count": 0,
+      "items": [],
+      "citations": []
     },
     "ai_news": {
       "source": "perplexity",
@@ -361,131 +330,57 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": []
+      "citations": [
+        "https://www.youtube.com/watch?v=sRnMuiBopSQ",
+        "https://www.youtube.com/watch?v=jwtpMSRAPAQ",
+        "https://www.youtube.com/watch?v=DLP9CagE3dU",
+        "https://www.youtube.com/watch?v=6Q_6lftbgfg",
+        "https://www.youtube.com/watch?v=XvKiTfd6Xvo"
+      ]
     },
     "gaming": {
       "source": "perplexity",
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 7,
-      "items": [
-        {
-          "title": "Capcom reports record annual sales, driven by Resident Evil",
-          "summary": "Capcom said it sold more games in its latest fiscal year than in any year in its history, with Resident Evil helping drive the strong results. The company highlighted the series’ continued strength across its back catalog and newer releases.",
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "Red Dead Redemption 2 added to May’s PlayStation Plus game catalog",
-          "summary": "Sony is adding Red Dead Redemption 2 to the PlayStation Plus game catalog this month, alongside Star Wars Outlaws and other titles. The lineup gives subscribers a mix of blockbuster and recent releases to claim and play.",
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "Nintendo headquarters threatened in Japan, prompting arrest",
-          "summary": "A Japanese man was arrested after allegedly threatening to blow up Nintendo’s headquarters. The incident follows similar threats that previously forced Nintendo to cancel live events in 2024.",
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "Assassin’s Creed Black Flag Resynced sets up a real-world treasure hunt",
-          "summary": "Ubisoft’s Assassin’s Creed Black Flag Resynced promotion will include a real-life treasure hunt with a prize valued at half a million dollars. The hunt is scheduled to begin later this year and could run for two to five years.",
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "Saros sales seen as soft after two-week launch, analyst estimates",
-          "summary": "An analytics firm estimates that Saros sold just over 300,000 copies in its first two weeks, describing the launch as lukewarm. The report suggests the game may struggle to break even, though players who bought it are spending significant time with it.",
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "Indiana Jones and the Great Circle shown running on Switch 2",
-          "summary": "Video footage shared by VGC shows Indiana Jones and the Great Circle running on Switch 2 in both docked and handheld modes. The footage suggests one of 2024’s standout games is already being demonstrated on Nintendo’s next console.",
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "Forza Horizon 6 studio warns about bans after pirated leak",
-          "summary": "Playground Games said it will hand out franchise-wide and hardware bans to anyone caught playing a pirated leaked build of Forza Horizon 6. The studio also said the leak was not caused by a preloading issue.",
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        }
-      ],
-      "citations": [
-        "https://www.videogameschronicle.com/category/news/"
-      ]
+      "count": 0,
+      "items": [],
+      "citations": []
     },
     "tech_news": {
       "source": "perplexity",
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 9,
+      "count": 4,
       "items": [
         {
-          "title": "Sony's Xperia 1 VIII Features Bigger Camera Sensors and New Design",
-          "summary": "Sony has unveiled its latest flagship smartphone with enhanced camera sensors and a redesigned form factor, though the company continues to exclude the US market from its release plans.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
+          "title": "Jeff Clarke takes over Dell's PC business to revive growth",
+          "summary": "Dell has put Jeff Clarke in charge of its PC business as the company works to reverse years of drift and better compete in a tougher hardware market. The move centers on restoring the XPS brand and sharpening Dell’s focus on fundamentals in the PC era.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
         },
         {
-          "title": "Microsoft's Unreleased Cloud Controller Spotted in the Wild",
-          "summary": "A compact cloud controller for Xbox Cloud Gaming has been discovered, reportedly using Wi-Fi for direct connection to reduce latency during gameplay.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
+          "title": "Amazon expands Alexa+ to the web",
+          "summary": "Amazon is bringing Alexa+ to the web, extending its assistant beyond dedicated devices and into browser-based use. The rollout is part of a broader push to compete more directly in the digital assistant and agentic workflow market.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
         },
         {
-          "title": "Spotify Adopts Apple's HTTP Live Streaming for Video Podcasts",
-          "summary": "Spotify and its hosting platforms are implementing Apple's video podcast technology, enabling Apple Podcasts to play Spotify-hosted video content.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
+          "title": "Google and Qualcomm push Android PCs toward the mainstream",
+          "summary": "Google and Qualcomm are working to bring Android PCs to the desktop, aiming to unify mobile and personal computing around Android. The effort is being positioned as a challenge to Microsoft and Apple in the PC market.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
         },
         {
-          "title": "Microsoft Retires Copilot Mode on Edge Browser",
-          "summary": "Microsoft is discontinuing the dedicated Copilot Mode on Edge as Copilot features are now integrated throughout the browser experience, with mobile support added.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
-        },
-        {
-          "title": "AMD Launches AI-Targeted PCIe Cards for Current Servers",
-          "summary": "AMD has released the Instinct MI350P PCIe cards designed for companies seeking gradual AI investment without major hardware overhauls.",
-          "source": "Network World",
-          "url": "https://www.networkworld.com"
-        },
-        {
-          "title": "AWS Experiences US-East-1 Outage Due to Data Center Cooling Failure",
-          "summary": "A thermal event in AWS's primary US region caused a cooling system failure, leading to server overheating and service impairments to EC2 and EBS.",
-          "source": "Network World",
-          "url": "https://www.networkworld.com"
-        },
-        {
-          "title": "PCI Express 8.0 Specification Targets High-Bandwidth Applications",
-          "summary": "The PCI group has begun development on the PCI Express 8.0 specification scheduled for 2028, designed to support bandwidth-intensive applications and edge computing.",
-          "source": "Network World",
-          "url": "https://www.networkworld.com"
-        },
-        {
-          "title": "Insta360 Launches Retro-Themed Go 3S Bundle at Lower Price Point",
-          "summary": "Insta360 is releasing a special edition Go 3S Retro Bundle that offers nostalgic styling at a price lower than the previous model.",
-          "source": "Daily Tech News Show",
-          "url": "https://dailytechnewsshow.com"
-        },
-        {
-          "title": "US Carriers Partner to Improve Satellite Connectivity",
-          "summary": "The three major US carriers are collaborating to enhance satellite connectivity coverage across the country.",
-          "source": "Daily Tech News Show",
-          "url": "https://dailytechnewsshow.com"
+          "title": "Quantum Motion unveils first full-stack quantum computer built with standard silicon fabrication",
+          "summary": "Quantum Motion says it has deployed the first full-stack quantum computer made using standard silicon chip manufacturing techniques. The milestone could help make future quantum systems more scalable and manufacturable.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
         }
       ],
       "citations": [
-        "https://www.engadget.com",
-        "https://www.techmeme.com",
-        "https://techxplore.com",
-        "https://www.networkworld.com",
-        "https://dailytechnewsshow.com",
-        "https://www.govtech.com/spotlight/ai-arms-race-new-tech-is-changing-government-cybersecurity"
+        "https://www.technewsworld.com"
       ]
     }
   }
