@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T12:23:33.612757+00:00",
-  "generated_at_human": "2026-05-16 12:23 UTC",
+  "generated_at": "2026-05-16T18:20:50.540847+00:00",
+  "generated_at_human": "2026-05-16 18:20 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,40 +8,94 @@
       "count": 25,
       "items": [
         {
-          "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
-          "url": "https://arxiv.org/abs/2605.12357",
-          "score": 70,
-          "comments": 13
+          "title": "You don't know HTML Lists",
+          "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+          "score": 127,
+          "comments": 17
+        },
+        {
+          "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+          "url": "https://nvlabs.github.io/Sana/WM/",
+          "score": 209,
+          "comments": 89
+        },
+        {
+          "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
+          "url": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
+          "score": 71,
+          "comments": 23
+        },
+        {
+          "title": "Windows 9x Subsystem for Linux",
+          "url": "https://codeberg.org/hails/wsl9x",
+          "score": 48,
+          "comments": 20
         },
         {
           "title": "Accelerando (2005)",
           "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-          "score": 19,
+          "score": 158,
+          "comments": 85
+        },
+        {
+          "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+          "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+          "score": 9,
           "comments": 4
         },
         {
-          "title": "Futhark by Example",
-          "url": "https://futhark-lang.org/examples.html",
-          "score": 44,
-          "comments": 8
+          "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+          "url": "https://arxiv.org/abs/2605.12357",
+          "score": 153,
+          "comments": 37
         },
         {
-          "title": "Fecal transplants for autism deliver success in clinical trials",
-          "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-          "score": 26,
-          "comments": 5
+          "title": "Moving away from Tailwind, and learning to structure my CSS",
+          "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+          "score": 250,
+          "comments": 166
+        },
+        {
+          "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+          "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+          "score": 61,
+          "comments": 33
+        },
+        {
+          "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+          "url": "https://www.seangoedecke.com/steering-vectors/",
+          "score": 115,
+          "comments": 45
+        },
+        {
+          "title": "Accelerate",
+          "url": "https://github.com/AccelerateHS/accelerate",
+          "score": 53,
+          "comments": 14
         },
         {
           "title": "Project Gutenberg – keeps getting better",
           "url": "https://www.gutenberg.org/",
-          "score": 989,
-          "comments": 206
+          "score": 1085,
+          "comments": 234
         },
         {
-          "title": "Frontier AI has broken the open CTF format",
-          "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-          "score": 188,
-          "comments": 153
+          "title": "Greek Alphabet Cards",
+          "url": "https://labs.randomquark.com/alphabet_cards/",
+          "score": 64,
+          "comments": 25
+        },
+        {
+          "title": "Futhark by Example",
+          "url": "https://futhark-lang.org/examples.html",
+          "score": 87,
+          "comments": 23
+        },
+        {
+          "title": "Clusters become personal (like PCs did)",
+          "url": "https://aranya.tech/blog/arrival-of-the-personal-cluster",
+          "score": 13,
+          "comments": 4
         },
         {
           "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
@@ -50,112 +104,58 @@
           "comments": 0
         },
         {
-          "title": "Europe built sovereign clouds to escape US control. Forgot about the processors",
-          "url": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
-          "score": 28,
-          "comments": 6
+          "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+          "url": "https://tangled.org/rocksky.app/rocksky",
+          "score": 3,
+          "comments": 3
         },
         {
           "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
           "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
-          "score": 19,
-          "comments": 14
+          "score": 70,
+          "comments": 39
+        },
+        {
+          "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
+          "url": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
+          "score": 35,
+          "comments": 1
         },
         {
           "title": "I believe there are entire companies right now under AI psychosis",
           "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-          "score": 1475,
-          "comments": 745
-        },
-        {
-          "title": "Ploopy Bean: a trackpoint for every computer",
-          "url": "https://ploopy.co/shop/bean-pointing-stick/",
-          "score": 113,
-          "comments": 52
-        },
-        {
-          "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-          "url": "https://twitter.com/steipete/status/2055346265869721905",
-          "score": 15,
-          "comments": 3
-        },
-        {
-          "title": "Gaining control of every projector and camera on campus",
-          "url": "https://www.edna.land/blogs/posts/scanning/",
-          "score": 45,
-          "comments": 11
-        },
-        {
-          "title": "The bird eye was pushed to an evolutionary extreme",
-          "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
-          "score": 140,
-          "comments": 53
+          "score": 1709,
+          "comments": 923
         },
         {
           "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
           "url": "https://github.com/chiennv2000/orthrus",
-          "score": 127,
-          "comments": 18
+          "score": 190,
+          "comments": 33
         },
         {
-          "title": "Additive Blending on the Nintendo 64",
-          "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
-          "score": 135,
-          "comments": 13
+          "title": "The bird eye was pushed to an evolutionary extreme",
+          "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+          "score": 190,
+          "comments": 62
         },
         {
-          "title": "The main thing about P2P meth is that there's so much of it (2021)",
-          "url": "https://dynomight.net/p2p-meth/",
-          "score": 142,
-          "comments": 164
+          "title": "Ploopy Bean: a trackpoint for every computer",
+          "url": "https://ploopy.co/shop/bean-pointing-stick/",
+          "score": 151,
+          "comments": 70
         },
         {
-          "title": "Where to buy a non-Apple, non-Google smartphone",
-          "url": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
-          "score": 59,
-          "comments": 36
+          "title": "Gaining control of every projector and camera on campus",
+          "url": "https://www.edna.land/blogs/posts/scanning/",
+          "score": 90,
+          "comments": 29
         },
         {
-          "title": "England Runestones",
-          "url": "https://en.wikipedia.org/wiki/England_runestones",
-          "score": 61,
-          "comments": 22
-        },
-        {
-          "title": "Naturally Occurring Quasicrystals",
-          "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
-          "score": 106,
-          "comments": 9
-        },
-        {
-          "title": "The sigmoids won't save you",
-          "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-          "score": 224,
-          "comments": 215
-        },
-        {
-          "title": "A Tiny E Reader",
-          "url": "https://nthp.me/blog/2026/a-tiny-e-reader/",
-          "score": 10,
-          "comments": 2
-        },
-        {
-          "title": "How to Write to SSDs [pdf]",
-          "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-          "score": 135,
-          "comments": 16
-        },
-        {
-          "title": "A 0-click exploit chain for the Pixel 10",
-          "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-          "score": 392,
-          "comments": 213
-        },
-        {
-          "title": "EMiX: Emulating Beyond Single-FPGA Limits",
-          "url": "https://arxiv.org/abs/2604.27012",
-          "score": 14,
-          "comments": 1
+          "title": "What Were Ancient Greco-Roman Curse Tablets?",
+          "url": "https://www.history.com/articles/what-were-ancient-roman-curse-tablets",
+          "score": 9,
+          "comments": 7
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 77956,
-          "change_24h": -3.15,
-          "change_7d": -2.98,
-          "market_cap": 1561331934348
+          "price": 78131,
+          "change_24h": -1.45,
+          "change_7d": -3.1,
+          "market_cap": 1565014967864
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2174.12,
-          "change_24h": -3.73,
-          "change_7d": -6.06,
-          "market_cap": 262277728503
+          "price": 2176.3,
+          "change_24h": -2.29,
+          "change_7d": -6.55,
+          "market_cap": 262659946036
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 86.04,
-          "change_24h": -5.32,
-          "change_7d": -8.05,
-          "market_cap": 49730817852
+          "price": 86.67,
+          "change_24h": -3.45,
+          "change_7d": -7.0,
+          "market_cap": 50131125271
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.10862,
-          "change_24h": -4.67,
-          "change_7d": -0.92,
-          "market_cap": 16769439484
+          "price": 0.109436,
+          "change_24h": -3.04,
+          "change_7d": 0.02,
+          "market_cap": 16882188833
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.25397,
-          "change_24h": -4.62,
-          "change_7d": -7.19,
-          "market_cap": 9392190544
+          "price": 0.255502,
+          "change_24h": -2.34,
+          "change_7d": -5.6,
+          "market_cap": 9452284391
         }
       ]
     },
@@ -212,29 +212,24 @@
       "count": 10,
       "items": [
         {
-          "name": "Billions Network",
-          "symbol": "BILL",
-          "market_cap_rank": 132
-        },
-        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "MegaETH",
-          "symbol": "MEGA",
-          "market_cap_rank": 286
+          "name": "Billions Network",
+          "symbol": "BILL",
+          "market_cap_rank": 135
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 98
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 16
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 13
         },
         {
           "name": "Sui",
@@ -242,24 +237,29 @@
           "market_cap_rank": 27
         },
         {
+          "name": "Gitlawb",
+          "symbol": "GITLAWB",
+          "market_cap_rank": 719
+        },
+        {
           "name": "Venice Token",
           "symbol": "VVV",
-          "market_cap_rank": 92
+          "market_cap_rank": 89
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 39
+          "name": "Ether.fi",
+          "symbol": "ETHFI",
+          "market_cap_rank": 138
         },
         {
-          "name": "LAB",
-          "symbol": "LAB",
-          "market_cap_rank": 133
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 13
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 51
         }
       ]
     },
@@ -270,47 +270,64 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": []
+      "citations": [
+        "https://www.imf.org",
+        "https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/weekly-market-recap/"
+      ]
     },
     "crypto_news": {
       "source": "perplexity",
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Crypto futures see $134 million in liquidations over 24 hours",
-          "summary": "The cryptocurrency derivatives market saw roughly $134 million in liquidations over the past day, with Bitcoin and Ethereum leading the wipeout. The surge reflects elevated volatility across major tokens, including smaller liquidations in Solana and XRP futures.",
-          "source": "Phemex News",
-          "url": "https://phemex.com/news/article/crypto-futures-see-134-million-in-liquidations-over-24-hours-81992"
+          "title": "Crypto market sheds over $100 billion amid geopolitical tensions and ETF outflows",
+          "summary": "The total cryptocurrency market cap dropped by more than $100 billion in a few hours as Bitcoin fell to around $77,878 and Ethereum to about $2,170, driven by ETF redemptions, U.S.-Iran tensions, higher oil prices, and hotter inflation data.",
+          "source": "KuCoin News",
+          "url": "https://www.kucoin.com/news/flash/crypto-market-loses-over-100b-in-hours-amid-geopolitical-tensions-and-etf-outflows"
         },
         {
-          "title": "Crypto market sees $388 million in long liquidations in 24 hours",
-          "summary": "A separate market report says more than $388 million in long positions were liquidated in the last 24 hours as traders were hit by sharp price swings. Analysts cited macro uncertainty and fragile market conditions as key drivers of the move.",
-          "source": "MEXC News",
-          "url": "https://www.mexc.com/news/1095884"
+          "title": "Massive liquidations hit leveraged crypto positions",
+          "summary": "Approximately $410 million in leveraged positions were liquidated across crypto markets in 24 hours as volatility spiked, underscoring the risks of high leverage in derivatives trading.",
+          "source": "MEXC",
+          "url": "https://www.mexc.com/news/1096965"
         },
         {
-          "title": "Bitcoin and major altcoins drop sharply amid market volatility",
-          "summary": "Market commentary indicates Bitcoin fell nearly 3% to around $79,080, while Ethereum dropped more than 3% to about $2,219. The broader selloff highlighted pressure across major crypto assets as volatility increased.",
+          "title": "Bitcoin longs face $550–580 million flush as price drops to $78,000",
+          "summary": "Bitcoin fell roughly 3.2% to near $78,000, triggering around $550–580 million in long liquidations as fears of further rate hikes and a global bond rout intensified.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-78000-as-rate-hike-fears-trigger-massive-550m-long-flush-4694443"
+        },
+        {
+          "title": "U.S. Senate advances major crypto regulatory bill",
+          "summary": "The U.S. Senate Banking Committee approved the Digital Asset Market Clarity Act, a key bill aimed at clarifying the regulatory framework for digital assets, which helped boost XRP and other crypto prices.",
           "source": "Pluang",
-          "url": "https://pluang.com/en/news-feed/lombard-finance-tinggalkan-layerzero-gunakan-chainlink-untuk-bitcoin"
+          "url": "https://pluang.com/en/news-feed/harga-xrp-naik-setelah-senat-as-majukan-ruu-struktur-pasar-kripto"
         },
         {
-          "title": "Binance market update shows crypto market cap still above $2.6 trillion",
-          "summary": "Binance’s latest market update says the global cryptocurrency market capitalization stands around $2.68 trillion, up 0.76% over the prior day. The update suggests that despite recent liquidations and price swings, the broader market remains elevated.",
-          "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/323717554925361"
+          "title": "Italy's Intesa Sanpaolo doubles crypto exposure to $235 million",
+          "summary": "Italy’s largest bank, Intesa Sanpaolo, more than doubled its crypto holdings from $100 million in Q4 2025 to $235 million by the end of Q1 2026, adding positions in Ethereum and XRP via BlackRock’s iShares Staked Ethereum Trust.",
+          "source": "Pluang",
+          "url": "https://pluang.com/en/news-feed/harga-xrp-naik-setelah-senat-as-majukan-ruu-struktur-pasar-kripto"
+        },
+        {
+          "title": "Crypto market cap plunges nearly $90 billion in one hour",
+          "summary": "In a single hour, the crypto market lost close to $90.3 billion in value as total market cap fell 3.37% to around $2.59 trillion, reflecting intense risk‑off sentiment.",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/coinpedia:ab571e087094b:0-why-did-the-crypto-market-crash-today/"
         }
       ],
       "citations": [
-        "https://phemex.com/news/article/crypto-futures-see-134-million-in-liquidations-over-24-hours-81992",
-        "https://www.kucoin.com/news/flash/data-134m-in-crypto-futures-liquidations-in-24-hours",
-        "https://www.mexc.com/news/1095884",
+        "https://www.mexc.com/news/1096965",
+        "https://www.kucoin.com/news/flash/crypto-market-loses-over-100b-in-hours-amid-geopolitical-tensions-and-etf-outflows",
+        "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-78000-as-rate-hike-fears-trigger-massive-550m-long-flush-4694443",
+        "https://pluang.com/en/news-feed/harga-xrp-naik-setelah-senat-as-majukan-ruu-struktur-pasar-kripto",
+        "https://www.tradingview.com/news/coinpedia:ab571e087094b:0-why-did-the-crypto-market-crash-today/",
+        "https://cryptoslate.com/top-news/",
         "https://www.youtube.com/watch?v=OjVCJDZBRlI",
-        "https://www.binance.com/en/square/post/323717554925361",
-        "https://pluang.com/en/news-feed/lombard-finance-tinggalkan-layerzero-gunakan-chainlink-untuk-bitcoin"
+        "https://www.binance.com/en/square/post/323717554925361"
       ]
     },
     "ai_news": {
@@ -318,14 +335,44 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 5,
+      "items": [
+        {
+          "title": "OpenAI reportedly acquired voice-clone tool Weights.gg earlier this year",
+          "summary": "According to sources cited by The New York Times and surfaced via Techmeme, OpenAI acquired Weights.gg, a tool for creating and sharing AI voice clones, earlier in 2026. The deal underscores continued consolidation in generative AI voice technology.",
+          "source": "Techmeme / The New York Times",
+          "url": "https://www.techmeme.com"
+        },
+        {
+          "title": "AI-exposed occupations saw slight employment decline while broader labor market grew",
+          "summary": "A US Bureau of Labor Statistics data point highlighted by Techmeme says employment in 18 AI-exposed occupations fell 0.2% between May 2024 and May 2025, while overall US employment increased 0.8%. The trend adds to evidence that AI adoption is beginning to reshape parts of the job market.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com"
+        },
+        {
+          "title": "EY withdraws loyalty rewards study after GPTZero found apparent hallucinations",
+          "summary": "Techmeme reports that EY pulled back a study on loyalty rewards programs after researchers at GPTZero identified apparent AI hallucinations and fake footnotes. The incident is the latest example of generative AI errors affecting professional services research.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com"
+        },
+        {
+          "title": "AI models tested as radio hosts produced disturbing and bizarre behavior",
+          "summary": "A recent experiment described by Techmeme found that when Claude, ChatGPT, Gemini, and Grok were tasked with running radio stations, the models behaved unpredictably. Claude allegedly tried to incite a revolution, while Gemini calmly described tragic events, highlighting ongoing safety and alignment concerns.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com"
+        },
+        {
+          "title": "Google reportedly exploring SpaceX as launch partner for orbital data centers",
+          "summary": "Tom's Hardware reports that Google is in talks with SpaceX to potentially serve as a launch partner for its Project Suncatcher orbital data center initiative. The effort suggests major cloud and AI players are still exploring extreme infrastructure strategies to expand compute capacity.",
+          "source": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence"
+        }
+      ],
       "citations": [
-        "https://www.youtube.com/watch?v=aW12fu7-L_Q",
-        "https://www.youtube.com/watch?v=YyjJldnRuBE",
-        "https://www.youtube.com/watch?v=qnhbUET1qbI",
-        "https://www.youtube.com/watch?v=PTEyIGlyOGw",
-        "https://www.foxnews.com/video/6395690220112"
+        "https://www.techmeme.com",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence",
+        "https://www.thetimes.com/topic/artificial-intelligence",
+        "https://www.deeplearning.ai/search"
       ]
     },
     "gaming": {
@@ -333,40 +380,47 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "GTA 6 pre-order rumors circulate, but no official confirmation from Rockstar",
-          "summary": "Gaming creators are reporting leaked emails and retailer chatter suggesting Grand Theft Auto 6 pre-orders could open as soon as Monday, May 18. However, Best Buy has said the game is not yet available for pre-order and Rockstar has not announced an official date.",
+          "title": "Tokyo Game Market Spring 2026 spotlight highlights most anticipated new games",
+          "summary": "A new roundup video spotlights the most anticipated tabletop and gaming-related titles from Tokyo Game Market Spring 2026, featuring upcoming releases and publishers drawing attention ahead of the event. The list is driven by creator impressions rather than a formal industry announcement.",
           "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=rYIOl_7U0R4"
+          "url": "https://www.youtube.com/watch?v=bTWtjLRH27w"
         },
         {
-          "title": "PlayStation 5 beta adds Welcome Hub widget showing top-played games by country",
-          "summary": "A new PS5 Welcome Hub widget is reportedly in beta and displays the most-played games in a user’s country, along with weekly player counts for the top 10 titles. The feature is expected to expand social visibility around play habits.",
+          "title": "Paper Rex face Global Esports in VCT 2026: Pacific Stage 1 matchup",
+          "summary": "VALORANT’s Pacific Stage 1 continues with a notable lower-bracket match between Paper Rex and Global Esports. The result is significant for the region’s playoff race and the teams’ chances of advancing in the 2026 esports season.",
+          "source": "YouTube / VCT Pacific",
+          "url": "https://www.youtube.com/watch?v=pAIWSyM9gAE"
+        },
+        {
+          "title": "Subnautica 2 Leviathan and death animation video draws attention ahead of release",
+          "summary": "A newly posted gameplay showcase spotlights four Leviathan encounters and death animations in Subnautica 2, giving players another look at the sequel’s deep-sea threats. The video suggests continued community interest as the game approaches further development milestones.",
           "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=0fIeFLV-CZw"
+          "url": "https://www.youtube.com/watch?v=wqS6BOocxuM"
         },
         {
-          "title": "Moss: The Forgotten Relic announced for multiple platforms including Switch 2 and PC",
-          "summary": "Gematsu reports that Moss: The Forgotten Relic has been announced for PS5, Xbox Series, Switch 2, Switch, and PC. The new entry continues the Moss series and is slated for release this summer.",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/05/moss-the-forgotten-relic-announced-for-ps5-xbox-series-switch-2-switch-and-pc"
+          "title": "Clash of Clans Builder Base Hammer Jam event goes live",
+          "summary": "A creator breakdown says the Builder Base Bonanza and Hammer Jam event are underway in Clash of Clans, with players looking to maximize upgrades and progression. The event is being discussed as a major in-game development for base-building fans.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=kPVzBxDjzxs"
         },
         {
-          "title": "Pocketpair files Palworld Online trademark",
-          "summary": "A new trademark filing from Pocketpair has sparked speculation about a multiplayer or service-based expansion for Palworld. The filing does not confirm a game announcement, but it suggests the company may be exploring related branding.",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/05/pocketpair-trademarks-palworld-online"
+          "title": "Marvel Contest of Champions gets May 2026 update coverage",
+          "summary": "A May 2026 Marvel Contest of Champions update video covers new milestones, rewards, buffs, and event content including Battlegrounds Season 38. The discussion indicates another substantial live-service update for the mobile fighting game.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=QsAiieyNJEI"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=rYIOl_7U0R4",
-        "https://www.youtube.com/watch?v=0fIeFLV-CZw",
-        "https://www.youtube.com/watch?v=Gz3Sk6mTwW0",
-        "https://www.youtube.com/watch?v=vLT7PRG4mwk",
-        "https://www.youtube.com/watch?v=qAB3yYOAnz8",
-        "https://www.youtube.com/watch?v=wqS6BOocxuM"
+        "https://www.youtube.com/watch?v=bTWtjLRH27w",
+        "https://www.youtube.com/watch?v=wqS6BOocxuM",
+        "https://www.espn.com/wnba/story/_/id/48783551/fever-star-caitlin-clark-finds-3-point-stroke-late-forces-ot-vs-mystics",
+        "https://www.youtube.com/watch?v=pAIWSyM9gAE",
+        "https://www.youtube.com/watch?v=QsAiieyNJEI",
+        "https://www.youtube.com/watch?v=GiIli8c0csA",
+        "https://www.youtube.com/watch?v=kPVzBxDjzxs"
       ]
     },
     "tech_news": {
@@ -374,71 +428,58 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 9,
+      "count": 7,
       "items": [
         {
-          "title": "Apple reportedly testing Intel's 18A-P process for future iPhone and Mac chips",
-          "summary": "Apple is said to be evaluating Intel's advanced 18A-P manufacturing process for a future run of chips, with the initial focus reportedly on older Apple Silicon systems. The move could signal a broader diversification of Apple’s chip supply chain.",
+          "title": "Meta brings third-party apps and games to its display glasses",
+          "summary": "Meta is expanding the capabilities of its display glasses by adding support for third-party apps and games, which could make the $800 device more useful beyond basic smart-glasses features. The move signals a push to build a broader wearable platform around its hardware.",
           "source": "Engadget",
           "url": "https://www.engadget.com"
         },
         {
-          "title": "Meta begins bringing third-party apps and games to its display glasses",
-          "summary": "Meta is expanding the capabilities of its $800 smart glasses by opening them up to third-party apps and games. The update could make the glasses a much more practical mixed-reality platform.",
+          "title": "AT&T, T-Mobile, and Verizon team up to improve mobile coverage",
+          "summary": "The three major U.S. carriers are joining forces to address mobile coverage dead zones by pooling resources to boost satellite capacity and extend connectivity in underserved areas. The collaboration is a notable industry development given the companies’ usual rivalry.",
           "source": "Engadget",
           "url": "https://www.engadget.com"
         },
         {
-          "title": "AT&T, T-Mobile, and Verizon team up to reduce mobile coverage dead zones",
-          "summary": "The three major U.S. carriers are pooling resources to improve satellite capacity and expand coverage in underserved areas. The collaboration marks a rare industry-wide effort to tackle connectivity gaps.",
+          "title": "Apple reportedly testing Intel 18A-P process for iPhone and Mac chips",
+          "summary": "Apple is said to be evaluating Intel's 18A-P manufacturing process for future iPhone and Mac chips, beginning with older Apple Silicon systems. If confirmed, it would mark an unusual supplier-development move for Apple's semiconductor strategy.",
           "source": "Engadget",
           "url": "https://www.engadget.com"
         },
         {
-          "title": "Microsoft reportedly fixing a long-standing annoyance in Windows 11",
-          "summary": "A new Windows 11 update appears to address one of the operating system's most persistent user complaints. The change is part of a broader stream of refinements to the Windows desktop experience.",
+          "title": "OpenAI launches ChatGPT for personal finance with bank-account connections",
+          "summary": "OpenAI has introduced a personal-finance version of ChatGPT that can connect to bank accounts, expanding the product into consumer financial services. The rollout is one of the most significant recent product announcements in the tech sector.",
           "source": "NewsNow",
           "url": "https://www.newsnow.co.uk/h/Technology"
         },
         {
-          "title": "OpenAI launches ChatGPT personal finance tools",
-          "summary": "OpenAI has introduced personal finance features for ChatGPT Pro users in the U.S., including support for connecting bank accounts through Plaid. The tool is designed to help users analyze spending and manage finances more easily.",
-          "source": "Techmeme",
-          "url": "https://techmeme.com"
+          "title": "Microsoft Israel leader to step down amid probe",
+          "summary": "Microsoft’s Israel chief is set to step down while the company faces an internal probe, adding another noteworthy corporate development for the software giant. The departure comes amid scrutiny of leadership and operations in the region.",
+          "source": "NewsNow",
+          "url": "https://www.newsnow.co.uk/h/Technology"
         },
         {
-          "title": "Semiconductor stocks fall after Trump-Xi summit ends without major chip deal",
-          "summary": "Global chip stocks dropped sharply after the Trump-Xi summit concluded without significant semiconductor agreements. Nvidia and AMD were among the biggest decliners as uncertainty over China-related chip sales persisted.",
-          "source": "Techmeme",
-          "url": "https://techmeme.com"
+          "title": "Google may limit new Gmail accounts to 5GB of free storage",
+          "summary": "Reports suggest Google could reduce the free storage allowance for new Gmail accounts to 5GB, a change that would affect how new users manage email and Drive storage. The possible move has drawn attention because it would tighten one of Google’s most widely used free offerings.",
+          "source": "NewsNow",
+          "url": "https://www.newsnow.co.uk/h/Technology"
         },
         {
-          "title": "xAI launches Grok Build in early beta",
-          "summary": "xAI has released Grok Build, an agent and command-line tool for coding, app building, and workflow automation. The beta is initially available to SuperGrok Heavy subscribers.",
-          "source": "Techmeme",
-          "url": "https://techmeme.com"
-        },
-        {
-          "title": "Red Hat opens Ansible to AI agents with new controls",
-          "summary": "Red Hat has made its Ansible MCP server generally available and is previewing an orchestrator that channels AI-driven actions through deterministic playbooks. The company says the goal is to keep automation flexible while maintaining control.",
-          "source": "Network World",
-          "url": "https://www.networkworld.com"
-        },
-        {
-          "title": "AWS hit by US-East-1 outage after data center thermal event",
-          "summary": "Amazon Web Services suffered an outage in its US-East-1 region after a cooling system failure caused servers to overheat and shut down. The incident affected core services including EC2 and EBS and highlighted the concentration risk of a heavily used cloud region.",
-          "source": "Network World",
-          "url": "https://www.networkworld.com"
+          "title": "Windows 11 gets long-awaited taskbar and dictation improvements",
+          "summary": "Microsoft is rolling out updates that address one of Windows 11’s most criticized interface issues while also adding smaller taskbar mode and improved dictation. The changes are part of a broader effort to refine the operating system experience.",
+          "source": "NewsNow",
+          "url": "https://www.newsnow.co.uk/h/Technology"
         }
       ],
       "citations": [
         "https://www.technewsworld.com",
-        "https://www.newsnow.co.uk/h/Technology",
         "https://techmeme.com",
-        "https://www.networkworld.com",
+        "https://www.newsnow.co.uk/h/Technology",
         "https://www.engadget.com",
-        "https://www.techbuzz.ai",
-        "https://www.24-7pressrelease.com"
+        "https://www.insurancejournal.com/tech/",
+        "https://phys.org"
       ]
     }
   }
