@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T00:45:21.102991+00:00",
-  "generated_at_human": "2026-05-19 00:45 UTC",
+  "generated_at": "2026-05-19T07:15:54.611109+00:00",
+  "generated_at_human": "2026-05-19 07:15 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "Click",
-          "url": "https://clickclickclick.click/",
-          "score": 149,
-          "comments": 27
+          "title": "The last six months in LLMs in five minutes",
+          "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+          "score": 283,
+          "comments": 165
         },
         {
-          "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+          "title": "Codex-maxxing",
+          "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+          "score": 55,
+          "comments": 33
+        },
+        {
+          "title": "Click (2016)",
+          "url": "https://clickclickclick.click/",
+          "score": 275,
+          "comments": 68
+        },
+        {
+          "title": "Turn your Android phone into a ham radio transceiver",
+          "url": "https://www.kv4p.com/",
+          "score": 51,
+          "comments": 11
+        },
+        {
+          "title": "Anyone on the Internet Can Ring Your Doorbell",
+          "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
+          "score": 80,
+          "comments": 44
+        },
+        {
+          "title": "PyTorch Landscape",
+          "url": "https://pytorch.landscape2.io",
+          "score": 21,
+          "comments": 0
+        },
+        {
+          "title": "Peter Neumann has died",
+          "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+          "score": 35,
+          "comments": 1
+        },
+        {
+          "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
           "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-          "score": 59,
-          "comments": 21
+          "score": 197,
+          "comments": 110
+        },
+        {
+          "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+          "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+          "score": 95,
+          "comments": 19
         },
         {
           "title": "Anthropic acquires Stainless",
           "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-          "score": 348,
-          "comments": 242
+          "score": 426,
+          "comments": 289
         },
         {
-          "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-          "url": "https://hyperpolyglot.org/lisp",
-          "score": 120,
-          "comments": 25
+          "title": "Cursor Introduces Composer 2.5",
+          "url": "https://cursor.com/blog/composer-2-5",
+          "score": 106,
+          "comments": 61
+        },
+        {
+          "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+          "url": "https://github.com/2b2tplace/1m_release",
+          "score": 136,
+          "comments": 81
         },
         {
           "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
           "url": "https://archestra.ai/blog/only-responsible-ai",
-          "score": 396,
-          "comments": 186
+          "score": 460,
+          "comments": 216
         },
         {
-          "title": "We let AIs run radio stations",
-          "url": "https://andonlabs.com/blog/andon-fm",
-          "score": 141,
-          "comments": 148
-        },
-        {
-          "title": "The Quiet Renovation at Bitwarden",
-          "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-          "score": 505,
-          "comments": 236
-        },
-        {
-          "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-          "url": "https://github.com/zakirullin/files.md",
-          "score": 528,
-          "comments": 273
+          "title": "Make ZIP files smaller with ZIP Shrinker",
+          "url": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
+          "score": 8,
+          "comments": 1
         },
         {
           "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
           "url": "https://isabisabel.com/gacha/",
-          "score": 18,
-          "comments": 2
+          "score": 132,
+          "comments": 51
         },
         {
-          "title": "The Futility of Lava Lamps: What Random Means",
-          "url": "https://loup-vaillant.fr/articles/lava-lamps-and-randomness",
-          "score": 38,
-          "comments": 19
+          "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+          "url": "https://hyperpolyglot.org/lisp",
+          "score": 151,
+          "comments": 35
+        },
+        {
+          "title": "We let AIs run radio stations",
+          "url": "https://andonlabs.com/blog/andon-fm",
+          "score": 234,
+          "comments": 197
+        },
+        {
+          "title": "Peter Salus has died",
+          "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+          "score": 109,
+          "comments": 8
+        },
+        {
+          "title": "When can the C++ compiler devirtualize a call?",
+          "url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
+          "score": 52,
+          "comments": 12
+        },
+        {
+          "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+          "url": "https://github.com/harmont-dev/hsrs",
+          "score": 15,
+          "comments": 0
+        },
+        {
+          "title": "Polypad",
+          "url": "https://polypad.amplify.com/",
+          "score": 6,
+          "comments": 1
+        },
+        {
+          "title": "AI eats the world (Spring 26) [pdf]",
+          "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+          "score": 203,
+          "comments": 113
+        },
+        {
+          "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+          "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+          "score": 10,
+          "comments": 0
         },
         {
           "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
           "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-          "score": 748,
-          "comments": 386
+          "score": 914,
+          "comments": 452
         },
         {
-          "title": "Agora-1: The Multi-Agent World Model",
-          "url": "https://odyssey.ml/introducing-agora-1",
-          "score": 77,
-          "comments": 16
-        },
-        {
-          "title": "Earth's Radio Bubble: Every signal we've ever sent into space",
-          "url": "https://www.thescientificdrop.com/2026/05/earths-radio-bubble-every-signal-weve.html",
-          "score": 14,
-          "comments": 6
-        },
-        {
-          "title": "Designing an FPGA Calculator from Scratch",
-          "url": "https://baltazarstudios.com/calculator/",
-          "score": 40,
-          "comments": 2
-        },
-        {
-          "title": "Two computers, one monitor, zero fiddling (2025)",
-          "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
-          "score": 164,
-          "comments": 89
-        },
-        {
-          "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-          "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
-          "score": 199,
-          "comments": 86
-        },
-        {
-          "title": "Understanding Singleflight in Go",
-          "url": "https://www.codingexplorations.com/blog/understanding-singleflight-in-golang-a-solution-for-eliminating-redundant-work",
-          "score": 47,
-          "comments": 6
-        },
-        {
-          "title": "The Fil-C Optimized Calling Convention",
-          "url": "https://fil-c.org/calling_convention",
-          "score": 104,
-          "comments": 18
-        },
-        {
-          "title": "Loopmaster – Livecoding Music IDE",
-          "url": "https://loopmaster.xyz/",
-          "score": 58,
-          "comments": 17
-        },
-        {
-          "title": "Coding on Paper",
-          "url": "https://wickstrom.tech/2026-05-16-coding-on-paper.html",
-          "score": 29,
-          "comments": 1
-        },
-        {
-          "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
-          "url": "https://modal.com/blog/truly-serverless-gpus",
-          "score": 67,
-          "comments": 16
-        },
-        {
-          "title": "Show HN: InsForge – Open-source Heroku for coding agents",
-          "url": "https://github.com/InsForge/InsForge",
-          "score": 29,
-          "comments": 6
-        },
-        {
-          "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
-          "score": 250,
-          "comments": 375
-        },
-        {
-          "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
-          "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
-          "score": 117,
-          "comments": 47
-        },
-        {
-          "title": "Project Glasswing: what Mythos showed us",
-          "url": "https://blog.cloudflare.com/cyber-frontier-models/",
-          "score": 273,
-          "comments": 101
+          "title": "Why is it called Kent House?",
+          "url": "https://diamondgeezer.blogspot.com/2026/05/kent-house.html",
+          "score": 19,
+          "comments": 3
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 77110,
-          "change_24h": 0.12,
-          "change_7d": -5.65,
-          "market_cap": 1544590722400
+          "price": 77072,
+          "change_24h": 0.31,
+          "change_7d": -5.12,
+          "market_cap": 1542999814627
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2135.41,
-          "change_24h": 1.22,
-          "change_7d": -8.73,
-          "market_cap": 257729652227
+          "price": 2137.3,
+          "change_24h": 1.09,
+          "change_7d": -7.5,
+          "market_cap": 257852373747
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 85.57,
-          "change_24h": 0.74,
-          "change_7d": -12.07,
-          "market_cap": 49484097429
+          "price": 85.31,
+          "change_24h": 0.79,
+          "change_7d": -11.71,
+          "market_cap": 49320204359
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.104922,
-          "change_24h": -1.93,
-          "change_7d": -5.84,
-          "market_cap": 16188259769
+          "price": 0.104408,
+          "change_24h": 0.06,
+          "change_7d": -5.4,
+          "market_cap": 16100871232
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.252153,
-          "change_24h": 0.64,
-          "change_7d": -10.22,
-          "market_cap": 9328629108
+          "price": 0.251956,
+          "change_24h": 1.16,
+          "change_7d": -9.27,
+          "market_cap": 9316997467
         }
       ]
     },
@@ -212,24 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Ronin",
-          "symbol": "RON",
-          "market_cap_rank": 305
-        },
-        {
-          "name": "Zano",
-          "symbol": "ZANO",
-          "market_cap_rank": 200
-        },
-        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 97
-        },
-        {
-          "name": "Ondo",
-          "symbol": "ONDO",
-          "market_cap_rank": 47
+          "market_cap_rank": 99
         },
         {
           "name": "Hyperliquid",
@@ -237,24 +222,39 @@
           "market_cap_rank": 12
         },
         {
+          "name": "Billions Network",
+          "symbol": "BILL",
+          "market_cap_rank": 147
+        },
+        {
+          "name": "Ronin",
+          "symbol": "RON",
+          "market_cap_rank": 327
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 139
+        },
+        {
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 47
+        },
+        {
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 53
+        },
+        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
-        },
-        {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 86
-        },
-        {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 5
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
         },
         {
           "name": "Zcash",
@@ -268,9 +268,34 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
-      "citations": []
+      "count": 3,
+      "items": [
+        {
+          "title": "Stocks fall as oil rises and bond yields stay in focus",
+          "summary": "U.S. equities weakened while crude prices climbed, with investors watching Treasury yields and inflation risks tied to higher energy costs. Market commentary highlighted concern that a renewed oil shock could keep rates elevated and pressure stocks.",
+          "source": "Bloomberg Television",
+          "url": "https://www.youtube.com/watch?v=3Euo9YeUays"
+        },
+        {
+          "title": "Global economy seen as more fragile amid geopolitical and inflation risks",
+          "summary": "A macro outlook discussion warned that conflict-related disruption to oil shipping could lift inflation worldwide and force interest rates higher. The analysis argued that financial markets remain vulnerable to shocks from energy, tariffs, and geopolitics.",
+          "source": "Money Tree Investing via YouTube",
+          "url": "https://www.youtube.com/watch?v=JpCFhM8Hpm8"
+        },
+        {
+          "title": "University of Michigan says AI boom is supporting the U.S. economy",
+          "summary": "The University of Michigan’s May 2026 outlook said the U.S. economy continued expanding in the first quarter, with AI-related investment helping bolster growth. The forecast also reflects ongoing attention to inflation, rates, and the durability of the expansion.",
+          "source": "University of Michigan",
+          "url": "https://lsa.umich.edu/content/dam/econ-assets/Econdocs/RSQE%20PDFs/RSQE_May26_US_Forecast.pdf"
+        }
+      ],
+      "citations": [
+        "https://www.youtube.com/watch?v=JpCFhM8Hpm8",
+        "https://tradingeconomics.com/calendar",
+        "https://lsa.umich.edu/content/dam/econ-assets/Econdocs/RSQE%20PDFs/RSQE_May26_US_Forecast.pdf",
+        "https://portlandmaine.gov/?date=5-1-2025&contentId=9cafa8dc-fb8d-4d62-941d-afab8e6f0f0c",
+        "https://www.youtube.com/watch?v=3Euo9YeUays"
+      ]
     },
     "crypto_news": {
       "source": "perplexity",
@@ -280,35 +305,35 @@
       "count": 4,
       "items": [
         {
-          "title": "Bitcoin tumbles below $77,000 as ETF outflows and liquidations deepen crypto rout",
-          "summary": "Bitcoin fell into the $76,000 region, with Ethereum, XRP, and Dogecoin also sliding as fear in the market intensified. Coinglass data cited in the report showed 124,022 traders liquidated in 24 hours for $816.06 million, while spot Bitcoin ETFs logged $290.4 million in net outflows and spot Ethereum ETFs saw $65.7 million in outflows.",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/05/52645933/bitcoin-drops-below-77000-ethereum-xrp-dogecoin-slide-up-to-4-on-cascade-fears"
+          "title": "Bitcoin drops below $77,000 as $657M–$661M in crypto positions are liquidated",
+          "summary": "Bitcoin fell to around $76,700-$76,900, its weakest level in more than two weeks, amid a broad risk-off move in crypto markets. Across the network, roughly $657 million to $661 million in liquidations were reported in 24 hours, with long positions taking the biggest hit.",
+          "source": "Binance Square / YouTube market coverage",
+          "url": "https://www.binance.com/en/square/post/324413365583010"
         },
         {
-          "title": "Bitcoin extends four-day decline amid macro pressure and risk-off sentiment",
-          "summary": "A market recap published by Binance Square said Bitcoin fell below $77,000 on May 18, marking four straight daily declines, while Ethereum sank toward $2,100 and major altcoins broadly weakened. The report linked the move to weak rate-cut expectations, elevated Treasury yields, and geopolitical tensions.",
+          "title": "Crypto market selloff intensifies as Ethereum slips near $2,100",
+          "summary": "Ethereum and major altcoins including Solana and XRP also weakened in the latest crypto drawdown, with broad selling pressure hitting the sector. Market commentary cited higher Treasury yields and fading expectations for near-term Fed rate cuts as key macro headwinds.",
           "source": "Binance Square",
           "url": "https://www.binance.com/en/square/post/324413365583010"
         },
         {
-          "title": "Crypto markets face fresh fear as Bitcoin tests lower support levels",
-          "summary": "Market commentary highlighted Bitcoin technical weakness after repeated rejection near key resistance, with traders warning that a breakdown could open downside toward the $50,000 area. The analysis pointed to bear-flag and megaphone-pattern support levels now being watched closely by bulls and bears.",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/05/52645933/bitcoin-drops-below-77000-ethereum-xrp-dogecoin-slide-up-to-4-on-cascade-fears"
+          "title": "CLARITY Act momentum seen as priced in after Senate Banking Committee approval",
+          "summary": "Crypto market coverage noted that the CLARITY Act passed the Senate Banking Committee by a 15-9 vote, a major step toward a comprehensive U.S. digital asset regulatory framework. Traders, however, appeared to treat the development as largely priced in rather than an immediate bullish catalyst.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/324413365583010"
         },
         {
-          "title": "NewsNow crypto roundup highlights bitcoin-backed insurance, ETF flows, and treasury buying",
-          "summary": "A live crypto news aggregator compiled several notable developments, including reported bitcoin-backed shipping insurance activity in the Strait of Hormuz, Strategy's large Bitcoin purchases, and continued ETF-related volatility. It also flagged multiple project and treasury updates across Ethereum, XRP, and Solana ecosystems.",
+          "title": "Crypto NewsNow roundup highlights ETH weakness, bridge exploit, and corporate treasury buying",
+          "summary": "A live crypto news feed tracked several notable developments, including Ethereum weakness, an $11.58 million cross-chain exploit involving the Verus-Ethereum bridge, and continued corporate accumulation of ETH. The roundup also flagged ongoing activity in crypto treasury strategies and regulated product launches.",
           "source": "NewsNow",
           "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
         }
       ],
       "citations": [
-        "https://www.benzinga.com/crypto/cryptocurrency/26/05/52645933/bitcoin-drops-below-77000-ethereum-xrp-dogecoin-slide-up-to-4-on-cascade-fears",
         "https://www.youtube.com/watch?v=TcHQoVj2y-0",
         "https://www.newsnow.com/us/Business/Cryptocurrencies",
-        "https://www.binance.com/en/square/post/324413365583010"
+        "https://www.binance.com/en/square/post/324413365583010",
+        "https://www.youtube.com/watch?v=JncREqd9krI"
       ]
     },
     "ai_news": {
@@ -319,10 +344,9 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=9mHKGm2s6hY",
-        "https://www.youtube.com/watch?v=5rX8pS53Kcc",
-        "https://www.morningstar.com/stocks/3-misunderstood-stocks-buy",
-        "https://www.youtube.com/watch?v=yZUEf6KheGI"
+        "https://www.youtube.com/watch?v=uLn06Po5uDE",
+        "https://www.youtube.com/watch?v=8ib4Qnh2HFE",
+        "https://intelligencebriefing.substack.com/p/how-mlops-llmops-drive-successful-ai-projects"
       ]
     },
     "gaming": {
@@ -330,46 +354,53 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Virtuos says it wants to bring GTA 5 and Red Dead Redemption 2 to Switch",
-          "summary": "Port specialist Virtuos said it would like to work on bringing major Rockstar titles such as GTA 5 and Red Dead Redemption 2 to Nintendo Switch. The company previously handled the Switch port of L.A. Noire, underscoring its console-porting experience.",
+          "title": "Nintendo announces Pictonico, a mobile game that turns photos into mini-games",
+          "summary": "Nintendo has revealed Pictonico, a new mobile title that uses users’ photos as the basis for mini-games. The app is scheduled to launch later this month.",
           "source": "Video Games Chronicle",
           "url": "https://www.videogameschronicle.com/category/news/"
         },
         {
-          "title": "Subnautica 2 sells 2 million in 12 hours amid huge player surge",
-          "summary": "Subnautica 2 launched to strong demand, reportedly selling 2 million copies in just 12 hours. The early access release also drew more than 600,000 concurrent players, making it one of the week’s biggest gaming launches.",
+          "title": "Ghost of Yotei: Legends has received its last major update",
+          "summary": "Sucker Punch has confirmed that Ghost of Yotei: Legends will not receive any more major content updates. The multiplayer mode will remain playable, but future support appears limited to maintenance.",
           "source": "Video Games Chronicle",
           "url": "https://www.videogameschronicle.com/category/news/"
         },
         {
-          "title": "Two unannounced Xbox controllers leak, including Elite Series 3 and a Cloud pad",
-          "summary": "New Xbox controller hardware appears to have surfaced ahead of any official announcement, including a possible Elite Series 3 and a controller aimed at cloud gaming. The leak suggests Microsoft may be preparing a broader refresh of its accessory lineup.",
+          "title": "Subnautica 2 launches strong in early access with massive player counts",
+          "summary": "Subnautica 2 has gotten off to a very strong start, earning solid early reviews and drawing huge concurrent player numbers. Developers have also shared an early access roadmap outlining substantial upcoming additions.",
           "source": "Video Games Chronicle",
           "url": "https://www.videogameschronicle.com/category/news/"
         },
         {
-          "title": "Best Buy affiliates told GTA 6 pre-orders start next week, fueling trailer speculation",
-          "summary": "A report says Best Buy has told affiliates that GTA 6 pre-orders will begin next week, prompting speculation that Rockstar or Take-Two may be preparing a new trailer or marketing beat. The timing lines up with Take-Two’s upcoming financial results.",
+          "title": "Amazon reportedly cancels its Lord of the Rings MMO",
+          "summary": "Reports say Amazon has canceled its Lord of the Rings MMO, a project that had already been affected by layoffs in Amazon’s games division. The move marks another setback for the company’s internal gaming ambitions.",
+          "source": "YouTube / gaming news recap citing reported coverage",
+          "url": "https://www.youtube.com/watch?v=aZhEFLfzU4c"
+        },
+        {
+          "title": "Two unannounced Xbox controllers reportedly surface",
+          "summary": "Microsoft appears to be preparing new Xbox hardware accessories, including a possible Elite Series 3 controller and a cloud-focused pad. The devices have surfaced in recent reporting, but Microsoft has not officially announced them.",
           "source": "Video Games Chronicle",
           "url": "https://www.videogameschronicle.com/category/news/"
         },
         {
-          "title": "Nintendo adds more Virtual Boy games to Switch Online",
-          "summary": "Nintendo’s latest update has reportedly added most of the Virtual Boy’s game library to Nintendo Switch Online, with five new titles available now. The rollout continues Nintendo’s steady expansion of its classic-game offerings.",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/category/news/"
+          "title": "Forza Horizon 6 continues to dominate discussion after early access launch",
+          "summary": "Forza Horizon 6 is drawing major attention as one of 2026’s biggest releases, with reports of strong early access interest and high player counts. Reviews and previews highlight its expanded world, multiplayer systems, and seasonal live events.",
+          "source": "Red Bull",
+          "url": "https://www.redbull.com/int-en/forza-horizon-6-review"
         }
       ],
       "citations": [
-        "https://www.videogameschronicle.com/category/news/",
         "https://www.youtube.com/watch?v=aZhEFLfzU4c",
-        "https://www.youtube.com/watch?v=tHb6KwNpYn4",
-        "https://www.youtube.com/watch?v=CNEeBQaHhYs",
-        "https://www.youtube.com/watch?v=QnRrR4Ko5Bw",
-        "https://www.foxnews.com/outkick-sports/reds-vs-phillies-betting-preview-cincinnati-play-despite-4-12-skid-16-games"
+        "https://www.allkeyshop.com/blog/en-us/best-new-games-releasing-may-18-24-news-d/",
+        "https://www.videogameschronicle.com/category/news/",
+        "https://www.youtube.com/watch?v=V8hLGNbowa0",
+        "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-may-2026-week-21",
+        "https://www.redbull.com/int-en/forza-horizon-6-review",
+        "https://steamcommunity.com/app/3041230/discussions/0/837249543665927749/?l=swedish&ctp=5"
       ]
     },
     "tech_news": {
@@ -377,59 +408,49 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 6,
       "items": [
         {
-          "title": "Jury rules against Elon Musk in OpenAI lawsuit over timing of claims",
-          "summary": "A jury ruled against Elon Musk, finding he waited too long to sue Sam Altman and OpenAI. The decision is a notable legal setback in one of the tech industry’s highest-profile disputes.",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/"
+          "title": "Google’s latest non-AI app icon redesign is rolling out",
+          "summary": "Google is rolling out updated app icons with a more modern look and clearer visual distinction between products. The change appears to be part of a broader refresh across Google’s consumer apps.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
         },
         {
-          "title": "Microsoft is testing an adjustable taskbar and Start menu",
-          "summary": "Microsoft is experimenting with UI changes for Windows, including an adjustable taskbar and updated Start menu behavior. The test suggests continued refinement of core Windows navigation and productivity features.",
-          "source": "NewsNow Tech roundup",
-          "url": "https://www.newsnow.com/us/Tech"
+          "title": "Sony’s luxury 10th-anniversary ColleXion headphones leak",
+          "summary": "A leak shows Sony’s upcoming anniversary headphones with extra padding, polished metal accents, and studio-oriented sound branding. The premium design suggests Sony is targeting the high-end audio market with a special-edition product.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
         },
         {
-          "title": "Google Pixel 3D emoji for Android 17 leaked",
-          "summary": "New leaks show more of Google’s 3D emoji design work for Android 17. The images offer an early look at cosmetic changes expected for the next Android release.",
-          "source": "9to5Google",
-          "url": "https://9to5google.com/"
+          "title": "Sony raises PlayStation Plus prices for one- and three-month plans",
+          "summary": "Sony is increasing PS Plus pricing for shorter subscription tiers, citing ongoing market conditions. The move affects players who prefer monthly or quarterly access over annual plans.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
         },
         {
-          "title": "Boox built an e-reader that resembles the Kindle Scribe concept",
-          "summary": "Boox has introduced a new e-reader that appears to deliver a feature set similar to what Amazon’s Kindle Scribe was expected to offer. The device is drawing attention as a notable move in the e-reader market.",
-          "source": "XDA-Developers",
-          "url": "https://www.xda-developers.com/"
+          "title": "Microsoft is removing Teams’ “Together mode”",
+          "summary": "Microsoft is discontinuing Together mode in Teams, saying it adds too much implementation complexity. The company will instead steer users toward the standard gallery view for meetings.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
         },
         {
-          "title": "OpenAI adds bank-account linking for ChatGPT Pro users",
-          "summary": "OpenAI is rolling out a feature that lets ChatGPT Pro users connect bank accounts, expanding the product’s personal finance capabilities. The move points to a broader push to make ChatGPT more useful for financial management tasks.",
-          "source": "Cryptopolitan",
-          "url": "https://cryptopolitan.com/"
+          "title": "New crash data raises questions about Tesla robotaxi safety",
+          "summary": "Fresh data indicates two crashes since July 2025 involving Tesla robotaxis while remote operators were controlling the vehicles. The reports add to scrutiny over the safety and oversight of autonomous ride services.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
         },
         {
-          "title": "OpenAI previews personal finance features in ChatGPT Pro",
-          "summary": "OpenAI has begun previewing finance-related tools inside ChatGPT Pro. The update expands the platform beyond general chat into more specialized consumer assistance.",
-          "source": "SiliconANGLE",
-          "url": "https://siliconangle.com/"
-        },
-        {
-          "title": "Samsung’s Exynos 2800 may deliver stronger on-device performance",
-          "summary": "Samsung’s next Exynos chip is reportedly set for major upgrades that could improve on-device capabilities. The development is significant for Samsung’s future phones and its chipset strategy.",
-          "source": "SamMobile",
-          "url": "https://www.sammobile.com/"
-        },
-        {
-          "title": "Linux developers face a wave of AI-generated bug reports",
-          "summary": "Linux maintainers are dealing with a surge of low-quality bug reports that appear to be AI-generated, prompting frustration from project leaders. The issue highlights growing software-maintenance problems tied to automated submissions.",
-          "source": "XDA-Developers",
-          "url": "https://www.xda-developers.com/"
+          "title": "Google I/O 2026 kicks off with major product announcements expected",
+          "summary": "Google’s keynote is set to highlight a slate of new product news, with Android XR updates also possible. The event is likely to be one of the week’s biggest technology announcements.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
         }
       ],
       "citations": [
-        "https://www.newsnow.com/us/Tech"
+        "https://www.technewsworld.com",
+        "https://www.youtube.com/watch?v=vbefonjFZsk",
+        "https://www.engadget.com"
       ]
     }
   }
