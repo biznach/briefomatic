@@ -1,26 +1,26 @@
 # Daily Briefing
 
-*Generated: 2026-05-20 12:54 UTC*
+*Generated: 2026-05-20 18:49 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+**Market Overview**
+The current market sentiment is mixed, with U.S. equity futures slightly higher and European equities mixed. The S&P 500 futures are up 0.24%, while Bitcoin has fallen to around $76,000 amid heavy liquidations and ETF outflows. The crypto market is experiencing a sharp pullback, with Ether and XRP also weakening due to broader risk-off sentiment.
 
-1. **Market Overview**: Major cryptocurrencies such as Bitcoin and Ethereum have seen mixed price movements over the past 24 hours, with Bitcoin holding near $77,000 and Ethereum trading around $2,132. The overall crypto market has experienced $159 million in liquidations, with both long and short positions being flushed out. In the macro markets, investors are watching Federal Reserve commentary and Treasury yields, with a focus on inflation and growth data.
+**Tech & AI**
+Google has unveiled Gemini Omni, a new multimodal AI model family focused on video creation and editing. Additionally, Google has introduced Gemini 3.5 Flash, a faster and more efficient model with strong token throughput. The company has also previewed anti-gravity tooling aimed at multi-agent orchestration. These developments highlight Google's continued investment in AI and machine learning.
 
-2. **Tech & AI**: Notable tech and AI developments include Google's announcement of new accessibility features, Apple's unveiling of new accessibility features, and the introduction of Gemini 3.5. Additionally, there have been discussions around the manipulation of Google's AI search results and the company's efforts to combat this issue. Infomaniak has also transitioned to a foundation model to protect user data privacy.
+**Gaming & Entertainment**
+There is no significant gaming news in the provided data.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
+**Key Insights**
+* The crypto market is experiencing a sharp pullback, with Bitcoin falling to around $76,000.
+* Google has made significant announcements in the AI space, including the introduction of Gemini Omni and Gemini 3.5 Flash.
+* The CLARITY Act has advanced in Congress, marking a significant step for U.S. crypto market structure reform.
+* HIVE Digital Technologies has announced a $3.5 billion AI gigafactory plan in Toronto, expanding its infrastructure ambitions beyond crypto mining.
+* The Federal Reserve has highlighted consumer financial health metrics, underscoring its interest in how financial innovation can affect consumer outcomes.
 
-4. **Key Insights**:
-* Bitcoin and Ethereum are experiencing price volatility, with Bitcoin holding near $77,000 and Ethereum trading around $2,132.
-* The crypto market has seen $159 million in liquidations over the past 24 hours, with both long and short positions being flushed out.
-* Investors are watching Federal Reserve commentary and Treasury yields, with a focus on inflation and growth data.
-* Google and Apple have announced new accessibility features, highlighting the growing importance of accessibility in tech.
-* There is a growing focus on AI-blockchain financial systems, with Japan's ruling party backing a plan to blend AI and blockchain into the country's financial system.
-
-5. **Watch List**: Items to monitor in the coming days include:
-* Bitcoin and Ethereum price movements
-* Federal Reserve commentary and Treasury yields
-* Inflation and growth data
-* Developments in AI-blockchain financial systems
-* Google's efforts to combat AI search result manipulation
-* Apple's new accessibility features and their impact on the market.
+**Watch List**
+* Bitcoin and crypto market movements
+* Google's AI developments, including Gemini Omni and Gemini 3.5 Flash
+* The CLARITY Act and its potential impact on U.S. crypto market structure reform
+* HIVE Digital Technologies' AI gigafactory plan and its potential impact on the industry
+* Federal Reserve announcements and their potential impact on the economy and financial markets
