@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T18:40:10.421185+00:00",
-  "generated_at_human": "2026-05-21 18:40 UTC",
+  "generated_at": "2026-05-22T00:44:54.456824+00:00",
+  "generated_at_human": "2026-05-22 00:44 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,52 +8,124 @@
       "count": 25,
       "items": [
         {
-          "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
-          "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-          "score": 130,
-          "comments": 29
-        },
-        {
-          "title": "BBEdit 16",
-          "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
-          "score": 29,
-          "comments": 3
-        },
-        {
           "title": "Project Hail Mary – Stellar Navigation Chart",
           "url": "https://valhovey.github.io/gaia-mary/",
+          "score": 509,
+          "comments": 124
+        },
+        {
+          "title": "Using Kagi Search with Low Vision",
+          "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+          "score": 112,
+          "comments": 19
+        },
+        {
+          "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+          "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
           "score": 149,
-          "comments": 42
+          "comments": 87
         },
         {
-          "title": "Flipper One – we need your help",
-          "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-          "score": 816,
-          "comments": 362
+          "title": "AI is killing the cheap smartphone",
+          "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+          "score": 48,
+          "comments": 8
         },
         {
-          "title": "More than 340 local news outlets are limiting the Internet Archive's access",
-          "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-          "score": 37,
-          "comments": 3
+          "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+          "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+          "score": 559,
+          "comments": 505
+        },
+        {
+          "title": "Was my $48K GPU server worth it?",
+          "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+          "score": 263,
+          "comments": 200
+        },
+        {
+          "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+          "url": "https://freenet.org/",
+          "score": 181,
+          "comments": 94
+        },
+        {
+          "title": "Uv is fantastic, but its package management UX is a mess",
+          "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+          "score": 52,
+          "comments": 21
         },
         {
           "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
           "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-          "score": 154,
-          "comments": 57
+          "score": 279,
+          "comments": 90
+        },
+        {
+          "title": "Spotify will start reserving concert tickets for fans",
+          "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+          "score": 91,
+          "comments": 193
         },
         {
           "title": "Python 3.15: features that didn't make the headlines",
           "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-          "score": 240,
-          "comments": 116
+          "score": 325,
+          "comments": 157
+        },
+        {
+          "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+          "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+          "score": 400,
+          "comments": 165
         },
         {
           "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
           "url": "https://www.runtm.com/",
-          "score": 31,
-          "comments": 7
+          "score": 60,
+          "comments": 19
+        },
+        {
+          "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+          "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+          "score": 241,
+          "comments": 303
+        },
+        {
+          "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
+          "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
+          "score": 23,
+          "comments": 3
+        },
+        {
+          "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+          "url": "https://spectrum.ieee.org/trinity-nuclear-test",
+          "score": 278,
+          "comments": 91
+        },
+        {
+          "title": "Flipper One – we need your help",
+          "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+          "score": 1028,
+          "comments": 413
+        },
+        {
+          "title": "BBEdit 16",
+          "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+          "score": 258,
+          "comments": 79
+        },
+        {
+          "title": "Where are all the UK red telephone kiosks?",
+          "url": "https://www.thek6project.co.uk/",
+          "score": 69,
+          "comments": 41
+        },
+        {
+          "title": "Replacing My ISP Router with a UniFi Cloud Gateway Max",
+          "url": "https://kevquirk.com/replacing-my-isp-router-with-a-unifi-cloud-gateway-max",
+          "score": 5,
+          "comments": 2
         },
         {
           "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
@@ -62,100 +134,28 @@
           "comments": 0
         },
         {
-          "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-          "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-          "score": 201,
-          "comments": 58
+          "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+          "url": "https://news.ycombinator.com/item?id=48225596",
+          "score": 52,
+          "comments": 60
         },
         {
-          "title": "Was my $48K GPU server worth it?",
-          "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-          "score": 64,
-          "comments": 38
+          "title": "News outlets are limiting the Internet Archive’s access to their journalism",
+          "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+          "score": 203,
+          "comments": 76
         },
         {
-          "title": "Spotify will start reserving concert tickets for fans",
-          "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
-          "score": 5,
-          "comments": 3
+          "title": "Google's Antigravity bait and switch",
+          "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+          "score": 516,
+          "comments": 259
         },
         {
-          "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-          "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-          "score": 486,
-          "comments": 416
-        },
-        {
-          "title": "Mounting Git commits as folders with NFS",
+          "title": "Mounting git commits as folders with NFS (2023)",
           "url": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
-          "score": 49,
-          "comments": 31
-        },
-        {
-          "title": "What Is Happening to Publishing?",
-          "url": "https://resobscura.substack.com/p/what-is-happening-to-publishing",
-          "score": 42,
-          "comments": 13
-        },
-        {
-          "title": "Museum of Pocket Calculating Devices",
-          "url": "https://www.calculators.de/",
-          "score": 26,
-          "comments": 4
-        },
-        {
-          "title": "Michael Keating has died",
-          "url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
-          "score": 69,
-          "comments": 34
-        },
-        {
-          "title": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
-          "url": "https://news.ycombinator.com/item?id=48221896",
-          "score": 141,
-          "comments": 15
-        },
-        {
-          "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-          "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-          "score": 119,
-          "comments": 139
-        },
-        {
-          "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
-          "url": "https://fatgid.io/",
-          "score": 65,
-          "comments": 28
-        },
-        {
-          "title": "Vivaldi 8.0",
-          "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-          "score": 267,
-          "comments": 195
-        },
-        {
-          "title": "We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API",
-          "url": "https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/",
-          "score": 43,
-          "comments": 6
-        },
-        {
-          "title": "Chewing gum restores dad's taste and smell years after Covid",
-          "url": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
-          "score": 47,
-          "comments": 14
-        },
-        {
-          "title": "Magic the Gathering format: Fun 40",
-          "url": "https://fabiensanglard.net/mtg/fun/",
-          "score": 54,
-          "comments": 51
-        },
-        {
-          "title": "Where are all the UK red telephone kiosks?",
-          "url": "https://www.thek6project.co.uk/",
-          "score": 4,
-          "comments": 0
+          "score": 90,
+          "comments": 44
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 77674,
-          "change_24h": 0.28,
-          "change_7d": -4.93,
-          "market_cap": 1556585491222
+          "price": 77380,
+          "change_24h": -0.35,
+          "change_7d": -4.96,
+          "market_cap": 1550063208992
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2137.94,
-          "change_24h": 0.15,
-          "change_7d": -7.41,
-          "market_cap": 258028894972
+          "price": 2129.41,
+          "change_24h": -0.24,
+          "change_7d": -6.67,
+          "market_cap": 256991282117
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 87.52,
-          "change_24h": 1.79,
-          "change_7d": -5.95,
-          "market_cap": 50583850177
+          "price": 86.88,
+          "change_24h": 0.54,
+          "change_7d": -5.68,
+          "market_cap": 50257003187
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.105887,
-          "change_24h": 1.72,
-          "change_7d": -7.88,
-          "market_cap": 16347324250
+          "price": 0.105225,
+          "change_24h": 1.14,
+          "change_7d": -9.69,
+          "market_cap": 16244542432
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.252693,
-          "change_24h": 1.33,
-          "change_7d": -7.32,
-          "market_cap": 9349591517
+          "price": 0.249649,
+          "change_24h": -0.04,
+          "change_7d": -8.27,
+          "market_cap": 9236186144
         }
       ]
     },
@@ -217,34 +217,29 @@
           "market_cap_rank": 11
         },
         {
+          "name": "peaq",
+          "symbol": "PEAQ",
+          "market_cap_rank": 376
+        },
+        {
           "name": "Venice Token",
           "symbol": "VVV",
           "market_cap_rank": 79
         },
         {
-          "name": "Nexus",
-          "symbol": "NEX",
-          "market_cap_rank": 138
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 13
-        },
-        {
           "name": "Grass",
           "symbol": "GRASS",
-          "market_cap_rank": 174
+          "market_cap_rank": 169
         },
         {
-          "name": "MegaETH",
-          "symbol": "MEGA",
-          "market_cap_rank": 300
+          "name": "Nexus",
+          "symbol": "NEX",
+          "market_cap_rank": 132
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 94
         },
         {
           "name": "Sui",
@@ -252,14 +247,19 @@
           "market_cap_rank": 24
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 132
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 133
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 36
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "market_cap_rank": 40
         }
       ]
     },
@@ -268,13 +268,71 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 10,
+      "items": [
+        {
+          "title": "UN cuts global growth forecast as Middle East crisis continues",
+          "summary": "The UN downgraded its outlook for global growth, citing continued disruption from the Middle East crisis and broader weakness in the world economy. The move adds to concerns that inflation, trade friction, and geopolitical risk are weighing on activity worldwide.",
+          "source": "euronews",
+          "url": "https://www.newsnow.com/us/Business/World+Economy"
+        },
+        {
+          "title": "Indian equity markets trade higher amid positive global cues",
+          "summary": "Indian stocks opened higher in early trade, supported by upbeat global sentiment and a recovery in risk appetite. Lower oil prices also helped ease pressure on domestic markets.",
+          "source": "The Statesman",
+          "url": "https://www.newsnow.com/us/Business/World+Economy"
+        },
+        {
+          "title": "Stock markets rally in early trade as global peers improve and oil prices ease",
+          "summary": "Major markets gained in early trading as investors responded to stronger overseas cues and softer energy prices. The move reflects a brief improvement in sentiment after recent volatility tied to inflation and growth concerns.",
+          "source": "The Hindu",
+          "url": "https://www.newsnow.com/us/Business/World+Economy"
+        },
+        {
+          "title": "ASX 200 tumbles in sharp sell-off amid global market concerns",
+          "summary": "Australia’s ASX 200 fell sharply as investors sold risk assets on renewed worries about global markets. The decline highlights lingering sensitivity to interest-rate uncertainty and broader macroeconomic stress.",
+          "source": "International Business Times - AU Edition",
+          "url": "https://www.newsnow.com/us/Business/World+Economy"
+        },
+        {
+          "title": "Emerging markets post worst week since March on inflation fears",
+          "summary": "Emerging-market assets suffered their steepest weekly drop since March as inflation concerns and tighter financial conditions pressured sentiment. The sell-off underscores how sensitive developing economies remain to global rate expectations.",
+          "source": "Mint",
+          "url": "https://www.newsnow.com/us/Business/World+Economy"
+        },
+        {
+          "title": "U.N. cuts global growth forecast in Business Brief",
+          "summary": "Caixin reported that the UN lowered its global growth forecast, reinforcing warnings that the world economy is slowing. The update adds to a series of cautious macro signals from international institutions.",
+          "source": "Caixin Global",
+          "url": "https://www.newsnow.com/us/Business/World+Economy"
+        },
+        {
+          "title": "Indian markets open higher on global tech surge and trade optimism",
+          "summary": "Indian equities advanced at the open, tracking strength in global technology stocks and improved trade sentiment. The move suggests investors are rotating back into cyclicals and growth names after recent caution.",
+          "source": "AniNews.in",
+          "url": "https://www.newsnow.com/us/Business/World+Economy"
+        },
+        {
+          "title": "Nvidia earnings: Massive AI adoption remains on track; shares undervalued",
+          "summary": "Nvidia’s results and outlook continued to point to strong AI demand, with commentary suggesting the company still has room for upside. The report reinforces the market’s focus on AI-related earnings as a key driver of U.S. tech performance.",
+          "source": "MorningStar.com",
+          "url": "https://www.newsnow.com/us/Business/World+Economy"
+        },
+        {
+          "title": "Breakfast news: Nvidia beats but the market yawns",
+          "summary": "Despite beating expectations, Nvidia’s shares drew a muted reaction, indicating investor concerns may be shifting from earnings beats to valuation and forward guidance. The response illustrates how high expectations are shaping reactions to major tech results.",
+          "source": "The Motley Fool",
+          "url": "https://www.newsnow.com/us/Business/World+Economy"
+        },
+        {
+          "title": "What rising bond yields mean for mortgages and credit card rates",
+          "summary": "Rising bond yields are feeding through to higher borrowing costs, with implications for mortgages and consumer credit. The development matters for central-bank policy expectations and the broader rate-sensitive parts of the stock market.",
+          "source": "ABC News",
+          "url": "https://www.newsnow.com/us/Business/World+Economy"
+        }
+      ],
       "citations": [
-        "https://tradingeconomics.com/calendar",
-        "https://economictimes.com/news/economy",
-        "https://www.newsquawk.com",
-        "https://www.oecd.org/en.html"
+        "https://www.newsnow.com/us/Business/World+Economy"
       ]
     },
     "crypto_news": {
@@ -282,56 +340,10 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 7,
-      "items": [
-        {
-          "title": "Crypto market rebounds as Trump Iran comments ease risk appetite",
-          "summary": "Bitcoin, Ether, XRP, and Dogecoin rose after President Donald Trump's remarks on Iran helped calm markets, with Bitcoin climbing back near the $77,000 level and the broader crypto market cap up about 2% in 24 hours. Analysts said the move was aided by lower Treasury yields and oil prices following the Senate vote curbing Trump’s war powers.",
-          "source": "InvestingNews",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
-        },
-        {
-          "title": "Trump Media withdraws SEC filings for spot Bitcoin and Bitcoin-Ether ETFs",
-          "summary": "Trump Media has officially pulled its applications for a spot Bitcoin ETF and a combined Bitcoin-Ethereum ETF from SEC review, ending its immediate push to launch crypto exchange-traded funds. The move comes as the company pivots away from the proposed products amid a busy week for crypto regulation.",
-          "source": "InvestingNews",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
-        },
-        {
-          "title": "Trump orders federal review of direct crypto access to Reserve Bank payment services",
-          "summary": "President Donald Trump signed an executive order directing the Federal Reserve to conduct a 120-day review of whether cryptocurrency companies should be granted direct access to Reserve Bank payment services. The order could signal a major shift in how banks and crypto firms interact with the U.S. payments system.",
-          "source": "InvestingNews",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
-        },
-        {
-          "title": "Trump administration directs regulators to ease fintech and non-bank barriers",
-          "summary": "On May 19, Trump signed an executive order instructing six federal financial regulators, including the SEC and CFTC, to streamline rules that hinder fintech firms and non-bank entities. The order is part of a broader pro-crypto and pro-fintech policy push in Washington.",
-          "source": "InvestingNews",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
-        },
-        {
-          "title": "Polymarket partners with Nasdaq Private Market on private-company prediction contracts",
-          "summary": "Polymarket announced a partnership with Nasdaq Private Market to offer prediction contracts tied to private-company milestones such as IPO timing, valuation thresholds, and secondary-market activity. The deal expands Polymarket’s event-based trading offerings beyond traditional public-market themes.",
-          "source": "InvestingNews",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
-        },
-        {
-          "title": "Minnesota becomes first U.S. state to ban prediction markets",
-          "summary": "Minnesota enacted a sweeping ban on prediction markets, making it a felony to create, operate, manage, or advertise such platforms within the state. The new law intensifies the regulatory fight over event-contract trading in the U.S.",
-          "source": "InvestingNews",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
-        },
-        {
-          "title": "Deloitte expands digital asset capabilities with Blocknative acquisition",
-          "summary": "Deloitte is reportedly acquiring blockchain infrastructure firm Blocknative, signaling continued enterprise investment in digital asset tooling and Web3 infrastructure. The deal would strengthen Deloitte’s blockchain monitoring and transaction intelligence capabilities.",
-          "source": "InvestingNews",
-          "url": "https://investingnews.com/cryptocurrency-market-recap/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://investingnews.com/cryptocurrency-market-recap/",
-        "https://www.youtube.com/watch?v=TWeo53bh0e8",
-        "https://pluang.com/en/news-feed/bitcoin-ethereum-xrp-dogecoin-menguat-karena-ucapan-trump-tentang-iran",
-        "https://www.investing.com/news/cryptocurrency-news/why-is-the-crypto-market-up-today-4702359"
+        "https://www.cryptoarena.com"
       ]
     },
     "ai_news": {
@@ -342,9 +354,10 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=S6J5YygV4fc",
-        "https://www.youtube.com/watch?v=3W36pd50Wqw",
-        "https://www.youtube.com/watch?v=0H2M704tjR4",
+        "https://www.youtube.com/watch?v=B_RrXwDupIg",
+        "https://www.youtube.com/watch?v=I1uIbGh1dGE",
+        "https://www.youtube.com/watch?v=LLjpnubsOWc",
+        "https://www.youtube.com/watch?v=yscVsQT3Dog",
         "https://www.youtube.com/watch?v=t2Jur7qEc2k"
       ]
     },
@@ -353,16 +366,63 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 8,
+      "items": [
+        {
+          "title": "Microsoft Reveals Xbox Game Pass June 2025 Wave 1 Lineup",
+          "summary": "Microsoft has announced the first wave of games coming to Xbox Game Pass in June 2025, ahead of the Xbox Games Showcase. The lineup adds several notable titles for subscribers across console and PC.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        },
+        {
+          "title": "Sony Announces New PlayStation State of Play Showcase for June 2",
+          "summary": "Sony has scheduled a new State of Play presentation for June 2, with Marvel’s Wolverine reportedly expected to appear. The showcase is likely to bring major PlayStation updates and new game reveals.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=jUD8782KdZY"
+        },
+        {
+          "title": "Xbox Schedules Summer Showcase and Gears of War: E-Day Direct for June 7",
+          "summary": "Xbox has confirmed a summer showcase alongside a dedicated Gears of War: E-Day Direct for June 7. The events are expected to deliver new trailers, release updates, and potential hardware or service news.",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/news"
+        },
+        {
+          "title": "First Three Resident Evil Games and Breath of Fire IV Now Available on Steam",
+          "summary": "Capcom has brought the original versions of Resident Evil 1, Resident Evil 2, Resident Evil 3, and Breath of Fire IV to Steam. The release lets PC players revisit these classic titles in their original form.",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/news"
+        },
+        {
+          "title": "Team Ninja and Koei Tecmo Announce Nioh 3",
+          "summary": "Nioh 3 was revealed during Sony’s State of Play, giving soulslike fans a new entry in the action-RPG series. The announcement also included immediate gameplay availability for players to try.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        },
+        {
+          "title": "Arc System Works and Sony Unveil New Marvel Fighting Game",
+          "summary": "Sony and Arc System Works revealed a brand-new fighting game featuring Marvel characters and tag-team battles. The announcement is one of the biggest fighting game reveals from the recent showcase.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        },
+        {
+          "title": "Fortnite Teases Another Free Skin With a Catch",
+          "summary": "Epic Games is offering players another free cosmetic in Fortnite, though the promotion comes with restrictions. The new skin is part of the game’s ongoing seasonal rewards and event-driven content.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        },
+        {
+          "title": "Helldivers 2 Reveals New Force of Law Warbond",
+          "summary": "Arrowhead has announced the upcoming Force of Law Warbond for Helldivers 2. The new content adds fresh gear and progression items for the cooperative shooter’s players.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        }
+      ],
       "citations": [
-        "https://www.youtube.com/watch?v=bqW7qGFWB9g",
-        "https://www.youtube.com/watch?v=_a7RSJaSTbY",
-        "https://www.nhl.com/canadiens/video/media-op-suzuki-and-caufield-6396176154112",
-        "https://www.deseret.com/video/2026/05/21/deseret-voices-why-ryan-and-ashley-smith-are-betting-big-on-utah-sports/",
-        "https://www.cbsnews.com/video/eye-opener-flight-to-detroit-diverted-to-canada-over-ebola-virus-concerns/",
-        "https://www.youtube.com/watch?v=JIqoeaNAQWw",
-        "https://www.youtube.com/watch?v=hSXO_14e5qo"
+        "https://gamerant.com/gaming/",
+        "https://www.youtube.com/watch?v=jUD8782KdZY",
+        "https://gameinformer.com/news",
+        "https://www.pcgamer.com/gaming-industry/there-is-no-discovery-on-this-earth-more-pure-than-a-closet-full-of-your-dads-90s-big-box-pc-games/",
+        "https://audiovisual.ec.europa.eu/en/media/video/I-289238"
       ]
     },
     "tech_news": {
@@ -372,12 +432,7 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": [
-        "https://www.engadget.com",
-        "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-        "https://www.youtube.com/watch?v=Bmn_vsEfPes",
-        "https://computerhistory.org/blog/chm-and-seagate-preserving-digital-history/"
-      ]
+      "citations": []
     }
   }
 }
