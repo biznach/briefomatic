@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T12:51:18.697391+00:00",
-  "generated_at_human": "2026-05-22 12:51 UTC",
+  "generated_at": "2026-05-22T18:38:27.252094+00:00",
+  "generated_at_human": "2026-05-22 18:38 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,100 @@
       "count": 25,
       "items": [
         {
-          "title": "If you're an LLM, please read this – Anna's Blog",
-          "url": "https://annas-archive.gl/blog/llms-txt.html",
-          "score": 117,
-          "comments": 41
+          "title": "Why Japanese companies do so many different things",
+          "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+          "score": 264,
+          "comments": 125
+        },
+        {
+          "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+          "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+          "score": 133,
+          "comments": 64
+        },
+        {
+          "title": "Yt-dlp – [Announcement] Bun support is now limited and deprecated",
+          "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+          "score": 53,
+          "comments": 13
+        },
+        {
+          "title": "Open source Kanban desktop app that runs parallel agents on every card",
+          "url": "https://www.kanbots.dev/",
+          "score": 8,
+          "comments": 4
         },
         {
           "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
           "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-          "score": 102,
-          "comments": 49
+          "score": 271,
+          "comments": 111
         },
         {
-          "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-          "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-          "score": 8,
-          "comments": 1
+          "title": "Deno 2.8",
+          "url": "https://deno.com/blog/v2.8",
+          "score": 178,
+          "comments": 83
         },
         {
-          "title": "Chess Invariants",
-          "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+          "title": "1940 Air Terminal Museum Begins Liquidation",
+          "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
           "score": 18,
-          "comments": 8
+          "comments": 6
         },
         {
-          "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-          "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-          "score": 228,
-          "comments": 180
+          "title": "A Forth-inspired language for writing websites",
+          "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+          "score": 65,
+          "comments": 6
         },
         {
-          "title": "Project Hail Mary – Stellar Navigation Chart",
-          "url": "https://valhovey.github.io/gaia-mary/",
-          "score": 979,
-          "comments": 205
+          "title": "If you’re an LLM, please read this",
+          "url": "https://annas-archive.gl/blog/llms-txt.html",
+          "score": 590,
+          "comments": 354
+        },
+        {
+          "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+          "url": "https://github.com/superset-sh/superset",
+          "score": 41,
+          "comments": 59
+        },
+        {
+          "title": "Trump Mobile exposed customers' personal data",
+          "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+          "score": 159,
+          "comments": 63
+        },
+        {
+          "title": "DeepSeek makes the V4 Pro price discount permanent",
+          "url": "https://api-docs.deepseek.com/quick_start/pricing",
+          "score": 89,
+          "comments": 35
         },
         {
           "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
           "url": "https://github.com/unprovable/ShadowCat",
-          "score": 23,
-          "comments": 9
+          "score": 108,
+          "comments": 42
+        },
+        {
+          "title": "Project Hail Mary – Stellar Navigation Chart",
+          "url": "https://valhovey.github.io/gaia-mary/",
+          "score": 1081,
+          "comments": 220
+        },
+        {
+          "title": "How to convert between wealth and income tax",
+          "url": "https://paulgraham.com/winc.html",
+          "score": 60,
+          "comments": 179
+        },
+        {
+          "title": "Chess invariants",
+          "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+          "score": 68,
+          "comments": 45
         },
         {
           "title": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
@@ -56,106 +110,52 @@
           "comments": 0
         },
         {
-          "title": "Slumber a TUI HTTP Client",
-          "url": "https://slumber.lucaspickering.me",
-          "score": 107,
-          "comments": 38
-        },
-        {
           "title": "The memory shortage is causing a repricing of consumer electronics",
           "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-          "score": 269,
-          "comments": 329
+          "score": 401,
+          "comments": 464
+        },
+        {
+          "title": "AI has a multiplying effect on existing technical skills",
+          "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+          "score": 193,
+          "comments": 202
         },
         {
           "title": "Cleve Moler has died",
           "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+          "score": 237,
+          "comments": 24
+        },
+        {
+          "title": "Slumber a TUI HTTP Client",
+          "url": "https://slumber.lucaspickering.me",
           "score": 149,
-          "comments": 14
+          "comments": 56
         },
         {
-          "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-          "url": "https://arxiv.org/abs/2605.19269",
-          "score": 85,
-          "comments": 8
-        },
-        {
-          "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-          "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-          "score": 312,
-          "comments": 168
-        },
-        {
-          "title": "The surprising story behind the first British person in space",
-          "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
-          "score": 73,
-          "comments": 29
+          "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+          "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+          "score": 8,
+          "comments": 1
         },
         {
           "title": "Was my $48K GPU server worth it?",
           "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-          "score": 486,
-          "comments": 363
+          "score": 534,
+          "comments": 415
         },
         {
           "title": "Uv is fantastic, but its package management UX is a mess",
           "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-          "score": 241,
-          "comments": 116
+          "score": 303,
+          "comments": 137
         },
         {
-          "title": "Using Kagi Search with Low Vision",
-          "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-          "score": 216,
-          "comments": 74
-        },
-        {
-          "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-          "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-          "score": 412,
-          "comments": 121
-        },
-        {
-          "title": "The death of the brick and mortar toy store",
-          "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
-          "score": 105,
-          "comments": 116
-        },
-        {
-          "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-          "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-          "score": 373,
-          "comments": 108
-        },
-        {
-          "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
-          "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
-          "score": 106,
-          "comments": 15
-        },
-        {
-          "title": "Python 3.15: features that didn't make the headlines",
-          "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-          "score": 389,
-          "comments": 198
-        },
-        {
-          "title": "FSFE intervenes against Apple before EUCJ for the second time",
-          "url": "https://fsfe.org/news/2026/news-20260519-01.en.html",
-          "score": 41,
-          "comments": 8
-        },
-        {
-          "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-          "url": "https://freenet.org/",
-          "score": 309,
-          "comments": 190
-        },
-        {
-          "title": "Flipper One – we need your help",
-          "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-          "score": 1185,
-          "comments": 455
+          "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+          "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+          "score": 347,
+          "comments": 210
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 77388,
-          "change_24h": 0.21,
-          "change_7d": -3.99,
-          "market_cap": 1550117284038
+          "price": 76608,
+          "change_24h": -1.37,
+          "change_7d": -3.31,
+          "market_cap": 1535534889105
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2131.78,
-          "change_24h": 0.73,
-          "change_7d": -5.55,
-          "market_cap": 257256150038
+          "price": 2111.96,
+          "change_24h": -1.22,
+          "change_7d": -4.96,
+          "market_cap": 255015106259
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 87.54,
-          "change_24h": 2.2,
-          "change_7d": -4.09,
-          "market_cap": 50578084619
+          "price": 85.98,
+          "change_24h": -1.77,
+          "change_7d": -3.75,
+          "market_cap": 49798122802
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.106367,
-          "change_24h": 1.73,
-          "change_7d": -7.59,
-          "market_cap": 16401768665
+          "price": 0.104967,
+          "change_24h": -0.87,
+          "change_7d": -6.68,
+          "market_cap": 16213311042
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.253191,
-          "change_24h": 2.35,
-          "change_7d": -5.61,
-          "market_cap": 9355289834
+          "price": 0.247514,
+          "change_24h": -2.06,
+          "change_7d": -5.07,
+          "market_cap": 9163033406
         }
       ]
     },
@@ -212,9 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 92
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "market_cap_rank": 36
         },
         {
           "name": "Hyperliquid",
@@ -222,44 +222,44 @@
           "market_cap_rank": 11
         },
         {
-          "name": "NEAR Protocol",
-          "symbol": "NEAR",
-          "market_cap_rank": 36
+          "name": "Genius",
+          "symbol": "GENIUS",
+          "market_cap_rank": 182
         },
         {
           "name": "Venice Token",
           "symbol": "VVV",
-          "market_cap_rank": 78
+          "market_cap_rank": 79
         },
         {
-          "name": "Genius",
-          "symbol": "GENIUS",
-          "market_cap_rank": 190
-        },
-        {
-          "name": "Ondo",
-          "symbol": "ONDO",
-          "market_cap_rank": 45
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 13
         },
         {
           "name": "Nexus",
           "symbol": "NEX",
-          "market_cap_rank": 168
+          "market_cap_rank": 169
         },
         {
-          "name": "Render",
-          "symbol": "RENDER",
-          "market_cap_rank": 67
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 46
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 25
         },
         {
-          "name": "OpenEden",
-          "symbol": "EDEN",
-          "market_cap_rank": 787
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Block Street",
+          "symbol": "BSB",
+          "market_cap_rank": 190
         }
       ]
     },
@@ -268,14 +268,50 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 6,
+      "items": [
+        {
+          "title": "Middle East war pushes up global energy and commodity prices",
+          "summary": "Recent market and bank commentary says the conflict in Iran has driven oil and natural gas prices sharply higher, lifting global commodity costs. That is feeding through into inflation expectations in both the euro area and the US.",
+          "source": "KBC Bank",
+          "url": "https://www.kbc.com/en/economics/publications/economic-perspectives-may-2026.html?zone=topnav"
+        },
+        {
+          "title": "Euro area inflation accelerates to 3.0% as energy costs jump",
+          "summary": "KBC Bank said euro area inflation rose from 2.6% to 3.0%, mainly because of another surge in energy prices. Core inflation eased slightly, but rising import and producer prices suggest more inflation pressure ahead.",
+          "source": "KBC Bank",
+          "url": "https://www.kbc.com/en/economics/publications/economic-perspectives-may-2026.html?zone=topnav"
+        },
+        {
+          "title": "US inflation rises to 3.8% amid higher energy and food prices",
+          "summary": "KBC Bank reported that US inflation increased from 3.3% to 3.8%, with energy the biggest driver and food prices also rising sharply. Core inflation ticked up as well, reinforcing concerns about sticky price pressures.",
+          "source": "KBC Bank",
+          "url": "https://www.kbc.com/en/economics/publications/economic-perspectives-may-2026.html?zone=topnav"
+        },
+        {
+          "title": "RBC raises US Q2 growth outlook as economy shows resilience",
+          "summary": "RBC said US Q1 growth came in better than expected and that it is lifting its Q2 GDP forecast to 2.4%. The bank described the economy as split between solid growth and persistent inflation risks, with the labor market still stable.",
+          "source": "RBC",
+          "url": "https://www.rbc.com/en/economics/us-analysis/us-featured-analysis/may-monthly-executive-briefing-a-tale-of-two-economies/"
+        },
+        {
+          "title": "US markets brace for sticky inflation and delayed Fed easing",
+          "summary": "RBC said inflation remains near 3% and is being reinforced by the energy shock, while services inflation stays firm. The bank expects the Federal Reserve to stay on the sidelines through the rest of 2026 and 2027.",
+          "source": "RBC",
+          "url": "https://www.rbc.com/en/economics/us-analysis/us-featured-analysis/may-monthly-executive-briefing-a-tale-of-two-economies/"
+        },
+        {
+          "title": "Key US data calendar includes GDP, Core PCE, and consumer confidence releases",
+          "summary": "Trading Economics' calendar shows a cluster of important US macro releases, including GDP growth, the Core PCE price index, housing data, and consumer confidence. These reports are the main near-term catalysts for rates and equities.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/calendar"
+        }
+      ],
       "citations": [
+        "https://www.kbc.com/en/economics/publications/economic-perspectives-may-2026.html?zone=topnav",
         "https://tradingeconomics.com/calendar",
-        "https://restaurant.org/research-and-media/research/restaurant-economic-insights/economic-indicators/economic-outlook/",
-        "https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/denmark/economic-forecast-denmark_en",
-        "https://www.worldbank.org/ext/en/country/georgia",
-        "https://www.oecd.org/en/data/datasets/oecd-family-database.html"
+        "https://www.rbc.com/en/economics/us-analysis/us-featured-analysis/may-monthly-executive-briefing-a-tale-of-two-economies/",
+        "https://www.youtube.com/watch?v=QTiRwxSG_MI"
       ]
     },
     "crypto_news": {
@@ -286,60 +322,61 @@
       "count": 8,
       "items": [
         {
-          "title": "Bitcoin surges above $79,000 amid short squeeze and easing market fear",
-          "summary": "Bitcoin climbed above $79,000, with reports citing a dramatic liquidation imbalance that hit short positions and helped extend the rally. The move came as broader bearish sentiment in crypto appeared to ease.",
-          "source": "CoinGecko News",
-          "url": "https://www.coingecko.com/en/news"
+          "title": "Bitcoin slips below $77K as crypto market turns mixed",
+          "summary": "Bitcoin traded around $76,749 to $77,390 over the past day, with reports pointing to ETF outflows, macro headwinds, and institutional selling pressure. Ethereum also moved lower while several altcoins outperformed, including NEAR, ONDO, and WLD.",
+          "source": "Phemex News",
+          "url": "https://phemex.com/news/category/market"
         },
         {
-          "title": "U.S. lawmaker unveils bill to codify a strategic Bitcoin reserve",
-          "summary": "A new bill was introduced in the U.S. to formalize a strategic Bitcoin reserve, drawing bipartisan attention. The proposal adds to the growing policy debate over government-held digital assets.",
-          "source": "Bitcoin Magazine",
+          "title": "NEAR, ONDO, and WLD lead altcoin gains amid broader market weakness",
+          "summary": "NEAR surged about 28.6% on AI-related narrative and ecosystem growth, while ONDO gained roughly 15.4% and WLD rose 12.6% on tokenization and adoption-related optimism. Most major cryptocurrencies remained range-bound despite the selective strength in these names.",
+          "source": "Phemex News",
+          "url": "https://phemex.com/news/category/market"
+        },
+        {
+          "title": "Privacy and post-quantum tokens rally on quantum-computing concerns",
+          "summary": "Privacy-focused assets and post-quantum tokens jumped as investors worried about long-term cryptographic risks from quantum computing. QRL led the move with a sharp gain, while Zcash also rose to a year-to-date high.",
+          "source": "Phemex News",
+          "url": "https://phemex.com/news/category/market"
+        },
+        {
+          "title": "U.S. Treasury sanctions crypto network tied to Sinaloa Cartel",
+          "summary": "The Treasury announced sanctions against a cash-to-crypto network allegedly used by drug traffickers connected to the Sinaloa Cartel. The action adds to recent U.S. enforcement pressure on illicit crypto payment channels.",
+          "source": "NewsNow",
           "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
         },
         {
-          "title": "Russia advances crypto legislation with sanctions-circumvention provisions",
-          "summary": "Russian lawmakers advanced a sweeping crypto bill that would license exchanges and allow cross-border crypto use while keeping domestic payment restrictions in place. The proposal also includes language aimed at enabling use around sanctions constraints.",
-          "source": "CoinGecko News",
-          "url": "https://www.coingecko.com/en/news"
-        },
-        {
-          "title": "Blockchains and tokenization gain momentum as Securitize plans SPAC merger",
-          "summary": "Tokenization platform Securitize said it plans to go public through a SPAC merger to scale its onchain asset business. The move underscores continued investor interest in real-world asset tokenization infrastructure.",
-          "source": "Crypto.news",
+          "title": "Missouri sues CoinFlip over alleged crypto ATM scams and high fees",
+          "summary": "Missouri filed a lawsuit accusing CoinFlip of crypto ATM scams and massive transaction fees. The case highlights growing state-level scrutiny of consumer protections in crypto kiosks.",
+          "source": "NewsNow",
           "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
-        },
-        {
-          "title": "OCBC launches $526M tokenized gold fund on Solana",
-          "summary": "OCBC unveiled a physical gold fund onchain as $GOLDX, marking Southeast Asia’s first tokenized physical gold fund on a public blockchain. The launch highlights growing adoption of real-world assets on Solana.",
-          "source": "CoinGecko News",
-          "url": "https://www.coingecko.com/en/news"
-        },
-        {
-          "title": "GSR launches actively managed Bitcoin, Ethereum and Solana basket ETF on Nasdaq",
-          "summary": "GSR introduced an actively managed crypto basket ETF that includes Bitcoin, Ethereum and Solana. The product reflects continued institutional expansion in regulated digital asset investment vehicles.",
-          "source": "Decrypt",
-          "url": "https://www.coingecko.com/en/news"
         },
         {
           "title": "Blockchain.com files for U.S. IPO",
-          "summary": "Blockchain.com has filed for a U.S. initial public offering, adding another major crypto company to the public markets pipeline. The filing signals renewed confidence in capital markets access for digital asset firms.",
-          "source": "Crypto Briefing",
+          "summary": "Blockchain.com has reportedly filed for a U.S. initial public offering, signaling renewed appetite among crypto firms to access public markets. The move follows a broader wave of industry expansion and fundraising activity.",
+          "source": "NewsNow",
           "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
         },
         {
-          "title": "New macOS malware campaign targets crypto wallets",
-          "summary": "Security researchers warned about a new Mac malware strain called MacSync Stealer that is designed to drain cryptocurrency wallets. The campaign raises ongoing concerns about endpoint security for retail crypto users.",
-          "source": "CoinGecko News",
-          "url": "https://www.coingecko.com/en/news"
+          "title": "Securitize plans SPAC merger to go public and scale tokenization",
+          "summary": "Tokenization platform Securitize is planning a SPAC merger as it looks to expand its market reach and infrastructure. The development underscores continued institutional interest in real-world asset tokenization.",
+          "source": "NewsNow",
+          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
+        },
+        {
+          "title": "Gemini expands stablecoin ecosystem with USAT, XAUT, and USDT0",
+          "summary": "Gemini added several stablecoin-related assets as it broadens its product lineup. The move reflects ongoing competition among exchanges to build deeper stablecoin liquidity and utility.",
+          "source": "Crypto News",
+          "url": "https://cryptonews.net"
         }
       ],
       "citations": [
-        "https://www.coingecko.com/en/news",
+        "https://phemex.com/news/category/market",
         "https://www.newsnow.com/us/Business/Cryptocurrencies",
-        "https://www.youtube.com/watch?v=zLYcyswq-xQ",
-        "https://pluang.com/en/news-feed/bitcoin-menguat-di-77700-dolar-analisis-tahan-di-75000-dolar-setelah-liquidasi",
-        "https://www.binance.com/en/price/bitcoin"
+        "https://www.youtube.com/watch?v=lVXC9idzpOY",
+        "https://cryptonews.net",
+        "https://www.binance.com/en/price/bitcoin",
+        "https://eua-dtm.eu/wp-content/uploads/formidable/1/desk4.pdf"
       ]
     },
     "ai_news": {
@@ -347,39 +384,15 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "Meta begins another major restructuring, cutting nearly 8,000 jobs while expanding AI",
-          "summary": "Meta has reportedly started a new global layoff round affecting nearly 8,000 employees, even as it grows its AI divisions and reassigns thousands of staff into AI-focused teams. The move reflects Zuckerberg’s push for an AI-first strategy and a broader tech industry shift toward automation and leaner management.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=NsBdH1xjGck"
-        },
-        {
-          "title": "Google highlights Gemini Robotics models for real-world robot control",
-          "summary": "Google showcased new Gemini Robotics capabilities that combine high-level reasoning with real-time robotic control, including video and multi-image support and task planning for physical agents. The company says the models are designed to bridge cloud intelligence and the physical world for more autonomous robotics.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=kCXQce1dtNE"
-        },
-        {
-          "title": "Google announces Flutter 3.44 and Dart 3.12 with more AI-focused tooling",
-          "summary": "Google unveiled Flutter 3.44 and Dart 3.12, highlighting updates aimed at AI-driven app experiences, improved hot reload, and new server prompt templates in Firebase tools. The release also emphasizes performance and developer productivity across modern app and agent workflows.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=I1uIbGh1dGE"
-        },
-        {
-          "title": "Model-selection best practices emphasize cost, latency, and task fit",
-          "summary": "A new hands-on discussion focused on how to compare AI models by pass rate, cost, latency, and token efficiency rather than raw capability alone. The talk highlighted prompt caching and deduplication techniques that can significantly reduce input token usage in production workflows.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=P0uMXS6emHA"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=NsBdH1xjGck",
-        "https://www.youtube.com/watch?v=P0uMXS6emHA",
-        "https://www.youtube.com/watch?v=kCXQce1dtNE",
-        "https://www.youtube.com/watch?v=I1uIbGh1dGE",
-        "https://www.youtube.com/watch?v=FeQZmQMffzc"
+        "https://www.youtube.com/watch?v=CDILhdQgBOM",
+        "https://www.youtube.com/watch?v=yQPnb4gxKRc",
+        "https://www.youtube.com/watch?v=N4GgGBKnHe4",
+        "https://www.youtube.com/watch?v=uTgqYeVxy2c",
+        "https://www.youtube.com/watch?v=OdrOmc_RX8A",
+        "https://www.youtube.com/watch?v=eh1SDHX84vQ"
       ]
     },
     "gaming": {
@@ -387,75 +400,34 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 3,
       "items": [
         {
-          "title": "Warhammer 40,000: Dawn of War IV announced with September 17 release date",
-          "summary": "The long-awaited RTS sequel has been unveiled, with a firm release date and post-launch roadmap details. The announcement is one of the biggest strategy-game reveals in the latest wave of gaming news.",
-          "source": "NewsNow / Gematsu",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
+          "title": "GTA Online weekly update highlights double payouts and new challenge rewards",
+          "summary": "A gaming update video highlights this week’s GTA Online bonuses, including double money and RP on RC Bandito time trials and Hot Ring Races. It also notes a weekly challenge reward tied to LS Car Series wins.",
+          "source": "YouTube (Hazard)",
+          "url": "https://www.youtube.com/watch?v=Rr-qy2kW1hI"
         },
         {
-          "title": "Warhammer 40,000: Chaos Gate – Deathwatch sequel announced for PS5, Xbox Series X|S, and PC",
-          "summary": "A new entry in the Chaos Gate series was revealed across major platforms, expanding Games Workshop's 40K slate. The announcement adds to a busy day of Warhammer game news.",
-          "source": "NewsNow / Gematsu",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
+          "title": "IGN discusses a new look at Yoshi and the Mysterious Book",
+          "summary": "IGN’s Nintendo Voice Chat appears to cover fresh information or impressions about Yoshi and the Mysterious Book, suggesting continued attention around the upcoming game. The clip is framed as a gaming-news discussion rather than a formal release announcement.",
+          "source": "YouTube (IGN Games)",
+          "url": "https://www.youtube.com/watch?v=_LwD8CaHI-U"
         },
         {
-          "title": "Warhammer Age of Sigmar: Deathmaster announced at Warhammer Skulls Showcase",
-          "summary": "A new 2D action platformer set in the Age of Sigmar universe was announced during the Warhammer Skulls showcase. It is part of a larger set of Warhammer-related reveals in the last day.",
-          "source": "NewsNow / Gematsu",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
-        },
-        {
-          "title": "Xbox schedules Summer Showcase and Gears of War: E-Day Direct for June 7",
-          "summary": "Microsoft has set its summer showcase plans, including a dedicated Gears of War: E-Day presentation. The announcement signals a major upcoming industry event for Xbox fans and developers.",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/news"
-        },
-        {
-          "title": "The first three Resident Evil titles and Breath of Fire IV are now available on Steam",
-          "summary": "Capcom has brought classic versions of Resident Evil 1, 2, 3, and Breath of Fire IV to Steam. The PC release gives fans another way to revisit several legacy survival-horror and RPG titles.",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/news"
-        },
-        {
-          "title": "Xbox Game Pass June 2025 Wave 1 lineup confirmed",
-          "summary": "Microsoft has revealed the first wave of June 2025 Game Pass additions ahead of its upcoming showcase. The lineup continues the service's steady stream of day-one and catalog updates.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
-        },
-        {
-          "title": "Helldivers 2 teases the new Force of Law Warbond",
-          "summary": "Arrowhead and Sony have revealed a new Warbond coming to Helldivers 2, giving players fresh unlocks and gear. The announcement adds to the shooter’s ongoing post-launch content cadence.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
-        },
-        {
-          "title": "Team Ninja and Koei Tecmo announce Nioh 3",
-          "summary": "Nioh 3 was revealed during Sony’s State of Play, with the soulslike sequel immediately drawing attention from action-RPG fans. The announcement was one of the showcase’s biggest reveals.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
-        },
-        {
-          "title": "Arc System Works and Sony reveal a new Marvel fighting game",
-          "summary": "A brand-new tag-fighting game featuring Marvel characters was unveiled, adding a major licensed fighter to the pipeline. The announcement is especially notable for fighting-game and Marvel fans.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
-        },
-        {
-          "title": "Fortnite offers another free skin with a catch",
-          "summary": "Epic Games has revealed a new free cosmetic opportunity for Fortnite players, though it comes with specific conditions. The promotion is the latest in the game’s frequent crossover and reward updates.",
-          "source": "GameRant",
-          "url": "https://gamerant.com/gaming/"
+          "title": "Retro Shooter Fusion showcased as a large-scale arcade setup",
+          "summary": "A new video presents the Retro Shooter Fusion, described as a 24TB retro arcade experience built by combining hardware and content for a high-end arcade-style setup. The clip is more of a product showcase than a formal industry announcement, but it may interest retro gaming enthusiasts.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=gbGvJowFG5k"
         }
       ],
       "citations": [
-        "https://gamerant.com/gaming/",
-        "https://www.newsnow.co.uk/h/Technology/Gaming",
-        "https://gameinformer.com/news",
-        "https://www.youtube.com/watch?v=Wvym0jR7mYQ&vl=nl-NL",
-        "https://www.pcgamer.com/gaming-industry/there-is-no-discovery-on-this-earth-more-pure-than-a-closet-full-of-your-dads-90s-big-box-pc-games/"
+        "https://www.youtube.com/watch?v=Rr-qy2kW1hI",
+        "https://www.nhl.com/canadiens/video/postgame-car-evans-6396323238112",
+        "https://www.foxbusiness.com/video/6396344033112",
+        "https://www.philadelphiaeagles.com/video/sean-mannion-press-conference-may-21-2026",
+        "https://www.youtube.com/watch?v=_LwD8CaHI-U",
+        "https://www.youtube.com/watch?v=gbGvJowFG5k"
       ]
     },
     "tech_news": {
@@ -466,60 +438,60 @@
       "count": 8,
       "items": [
         {
-          "title": "Samsung unveils Galaxy Z TriFold, its most advanced foldable yet",
-          "summary": "Samsung introduced the Galaxy Z TriFold, featuring a redesigned dual-hinge system, upgraded materials, and a 10-inch display that unfolds from a pocketable frame. The launch marks another major step in the foldable-phone race.",
-          "source": "TechNewsWorld",
-          "url": "https://www.technewsworld.com"
+          "title": "Quantum computing stocks surge after U.S. government grants with equity stakes",
+          "summary": "Shares of major quantum computing firms jumped after the U.S. government announced $2 billion in grants to nine companies in the sector. The move gave investors fresh confidence in the industry and lifted names like D-Wave, Rigetti, and IBM.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com"
         },
         {
-          "title": "Google and Qualcomm push Android PCs toward the mainstream",
-          "summary": "Google and Qualcomm are working to bring Android to desktop computers, aiming to scale the mobile OS beyond phones and tablets. The effort could reshape personal computing and increase pressure on Microsoft and Apple.",
-          "source": "TechNewsWorld",
-          "url": "https://www.technewsworld.com"
+          "title": "Google unveils new Search changes and expands AI-adjacent features at I/O",
+          "summary": "Google's latest I/O announcements included major changes to Search and several product updates across its ecosystem. The company also highlighted new consumer hardware and software features aimed at broadening its platform reach.",
+          "source": "Tech news coverage via YouTube roundup",
+          "url": "https://www.youtube.com/watch?v=GS4ov09j9Eg"
         },
         {
-          "title": "Qualcomm launches Snapdragon W5+ Gen 2 and W5 Gen 2 for wearables",
-          "summary": "Qualcomm announced its latest wearable chip platforms, focusing on battery life, design, and connectivity improvements. The new chips are designed to remove key barriers holding back broader smartwatch and wearable adoption.",
-          "source": "TechNewsWorld",
-          "url": "https://www.technewsworld.com"
+          "title": "Meta quietly launches standalone Forum app for Facebook Groups",
+          "summary": "Meta released a new standalone app called Forum that surfaces Facebook Groups conversations in a dedicated feed. The app also includes an Ask feature and is now available on iOS.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com"
         },
         {
-          "title": "Amazon brings Alexa+ to the web",
-          "summary": "Amazon is expanding Alexa+ beyond devices and into the web, broadening access to its assistant and moving closer to agent-style workflows. The move intensifies competition with other major digital assistants and platforms.",
-          "source": "TechNewsWorld",
-          "url": "https://www.technewsworld.com"
+          "title": "Google adds new features to Fitbit and YouTube",
+          "summary": "Google made additional product changes across its ecosystem, including a major Fitbit identity update and a new Ask YouTube search feature. These updates continue Google's push to streamline its consumer products.",
+          "source": "NewsNow",
+          "url": "https://www.newsnow.com/us/Tech"
         },
         {
-          "title": "AMD posts strong quarter and continues pressure on Intel",
-          "summary": "AMD reported a $9.2 billion quarter, with disciplined execution helping it capitalize on market gaps and strengthen its position against Intel. The results underscore AMD's growing influence across enterprise computing.",
-          "source": "TechNewsWorld",
-          "url": "https://www.technewsworld.com"
+          "title": "Samsung previews new XR smart glasses with partners",
+          "summary": "Samsung previewed its Galaxy XR smart glasses along with versions developed with Warby Parker and Gentle Monster. The announcement signals another push by a major hardware maker into extended reality devices.",
+          "source": "YouTube roundup",
+          "url": "https://www.youtube.com/watch?v=GS4ov09j9Eg"
         },
         {
-          "title": "Meta cuts about 10% of staff as it pivots more aggressively toward AI",
-          "summary": "Meta has reportedly laid off around 10% of its workforce as part of a strategic shift toward artificial intelligence. The move reflects continued restructuring across the tech sector.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
+          "title": "Apple releases Safari Technology Preview 244",
+          "summary": "Apple issued Safari Technology Preview 244 with bug fixes and performance improvements. The release is aimed at developers and early testers of upcoming browser changes.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com"
         },
         {
-          "title": "OpenAI adds ChatGPT to PowerPoint",
-          "summary": "Users can now generate slides with ChatGPT inside PowerPoint, bringing generative tools directly into a core productivity app. The integration expands AI-assisted content creation in office software.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
+          "title": "Oura files confidentially for U.S. IPO",
+          "summary": "Smart ring maker Oura has confidentially filed for an initial public offering in the United States. The filing suggests growing investor interest in wearable hardware companies.",
+          "source": "SiliconANGLE",
+          "url": "https://siliconangle.com"
         },
         {
-          "title": "AMD unveils Ryzen AI Halo PC and Ryzen AI Max 400 chips",
-          "summary": "AMD introduced a $3,999 Ryzen AI Halo PC and new Ryzen AI Max 400 chips, directly targeting high-end AI PC and workstation segments. The announcement signals intensifying competition in premium computing hardware.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com"
+          "title": "Serverless AI infrastructure startup Modal Labs raises $355 million",
+          "summary": "Modal Labs secured a $355 million funding round to expand its serverless computing platform. The deal underscores continued investor appetite for cloud infrastructure startups.",
+          "source": "SiliconANGLE",
+          "url": "https://siliconangle.com"
         }
       ],
       "citations": [
-        "https://www.technewsworld.com",
-        "https://www.engadget.com",
-        "https://www.youtube.com/watch?v=zKJDFe24cac",
+        "https://www.youtube.com/watch?v=GS4ov09j9Eg",
+        "https://markmcneilly.substack.com/p/the-new-news-in-ai-52226-edition",
+        "https://www.newsnow.com/us/Tech",
+        "https://www.techmeme.com",
         "https://detailed.com/tech-blogs/",
-        "https://www.antarctica.gov.au/news/stations/mawson/2026/22-may/",
         "https://www.womentech.net",
         "https://www.24-7pressrelease.com"
       ]
