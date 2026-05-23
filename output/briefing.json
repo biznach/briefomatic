@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T06:57:40.120038+00:00",
-  "generated_at_human": "2026-05-23 06:57 UTC",
+  "generated_at": "2026-05-23T12:22:45.252405+00:00",
+  "generated_at_human": "2026-05-23 12:22 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "80386 Microcode Disassembled",
+          "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+          "score": 6,
+          "comments": 0
+        },
+        {
           "title": "Shipping a laptop to a refugee camp in Uganda",
           "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-          "score": 347,
-          "comments": 109
+          "score": 528,
+          "comments": 183
+        },
+        {
+          "title": "Rubish: A Unix shell written in pure Ruby",
+          "url": "https://github.com/amatsuda/rubish",
+          "score": 69,
+          "comments": 29
+        },
+        {
+          "title": "US tech firms share Dutch regulator officials' names with Senate",
+          "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+          "score": 58,
+          "comments": 24
+        },
+        {
+          "title": "Making Deep Learning Go Brrrr from First Principles",
+          "url": "https://horace.io/brrr_intro.html",
+          "score": 8,
+          "comments": 0
         },
         {
           "title": "Why Japanese companies do so many different things",
           "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-          "score": 614,
-          "comments": 303
+          "score": 725,
+          "comments": 342
         },
         {
-          "title": "Project Glasswing: An Initial Update",
-          "url": "https://www.anthropic.com/research/glasswing-initial-update",
-          "score": 398,
-          "comments": 231
+          "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+          "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
+          "score": 134,
+          "comments": 35
         },
         {
-          "title": "Blood Pumping Mechanism of the Hoof (2020)",
-          "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
-          "score": 67,
-          "comments": 11
-        },
-        {
-          "title": "Sleep research led to a new sleep apnea drug",
-          "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
-          "score": 132,
-          "comments": 81
-        },
-        {
-          "title": "Sp.h is the standard library that C deserves",
-          "url": "https://spader.zone/sp/",
-          "score": 76,
-          "comments": 50
-        },
-        {
-          "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
-          "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
-          "score": 50,
-          "comments": 11
-        },
-        {
-          "title": "White House ordering agencies to place its new app on all employees' govt phones",
-          "url": "https://www.govexec.com/management/2026/05/white-house-ordering-agencies-place-its-new-app-all-employees-government-phones/413738/",
-          "score": 8,
-          "comments": 2
-        },
-        {
-          "title": "What is the history of the ERROR_ARENA_TRASHED error code?",
-          "url": "https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339",
-          "score": 15,
+          "title": "The quadratic sandwich",
+          "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
+          "score": 68,
           "comments": 4
+        },
+        {
+          "title": "Improving C# Memory Safety",
+          "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
+          "score": 21,
+          "comments": 2
         },
         {
           "title": "Microsoft starts canceling Claude Code licenses",
           "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-          "score": 190,
-          "comments": 133
+          "score": 316,
+          "comments": 262
+        },
+        {
+          "title": "Project Glasswing: An Initial Update",
+          "url": "https://www.anthropic.com/research/glasswing-initial-update",
+          "score": 460,
+          "comments": 276
+        },
+        {
+          "title": "ArcBrush – Node-based 2D image editor",
+          "url": "https://arcbrush.com/",
+          "score": 22,
+          "comments": 8
+        },
+        {
+          "title": "Yeunjoo Choi from Igalia on Chromium",
+          "url": "https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html",
+          "score": 29,
+          "comments": 3
+        },
+        {
+          "title": "Blood Pumping Mechanism of the Hoof (2020)",
+          "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+          "score": 98,
+          "comments": 28
+        },
+        {
+          "title": "Sleep research led to a new sleep apnea drug",
+          "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+          "score": 179,
+          "comments": 102
         },
         {
           "title": "CISA tries to contain data leak",
           "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-          "score": 183,
-          "comments": 46
+          "score": 223,
+          "comments": 50
         },
         {
-          "title": "A Wayland Compositor in Minecraft",
-          "url": "https://modrinth.com/mod/waylandcraft",
-          "score": 186,
-          "comments": 32
+          "title": "Fast Factorial Algorithms",
+          "url": "http://www.luschny.de/math/factorial/FastFactorialFunctions.htm",
+          "score": 9,
+          "comments": 3
+        },
+        {
+          "title": "DHS Quits Granting Green Cards–Almost",
+          "url": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
+          "score": 13,
+          "comments": 2
         },
         {
           "title": "Deno 2.8",
           "url": "https://deno.com/blog/v2.8",
-          "score": 345,
-          "comments": 146
+          "score": 377,
+          "comments": 158
+        },
+        {
+          "title": "What is the history of the ERROR_ARENA_TRASHED error code?",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339",
+          "score": 41,
+          "comments": 12
+        },
+        {
+          "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
+          "score": 127,
+          "comments": 35
+        },
+        {
+          "title": "A Wayland Compositor in Minecraft",
+          "url": "https://modrinth.com/mod/waylandcraft",
+          "score": 233,
+          "comments": 52
         },
         {
           "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
           "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-          "score": 375,
-          "comments": 147
+          "score": 393,
+          "comments": 153
+        },
+        {
+          "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+          "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+          "score": 77,
+          "comments": 27
         },
         {
           "title": "Open source Kanban desktop app that runs parallel agents on every card",
           "url": "https://www.kanbots.dev/",
-          "score": 206,
-          "comments": 119
-        },
-        {
-          "title": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
-          "url": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
-          "score": 55,
-          "comments": 2
-        },
-        {
-          "title": "1940 Air Terminal Museum Begins Liquidation",
-          "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-          "score": 114,
-          "comments": 28
-        },
-        {
-          "title": "Wi-Wi is wireless time sync at 1 nanosecond",
-          "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
-          "score": 111,
-          "comments": 21
-        },
-        {
-          "title": "A Forth-inspired language for writing websites",
-          "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
-          "score": 142,
-          "comments": 14
-        },
-        {
-          "title": "I’m writing again",
-          "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
-          "score": 131,
-          "comments": 35
-        },
-        {
-          "title": "A blueprint for formal verification of Apple corecrypto",
-          "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
-          "score": 86,
-          "comments": 4
-        },
-        {
-          "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
-          "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
-          "score": 120,
-          "comments": 35
-        },
-        {
-          "title": "\"Stick\" – A primitive/fun interactive demo of a tiny rig to animate layout",
-          "url": "https://cosmiciron.github.io/layoutmaster/exclusion-assembly.html",
-          "score": 33,
-          "comments": 5
-        },
-        {
-          "title": "The Quadratic Sandwich",
-          "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
-          "score": 5,
-          "comments": 0
-        },
-        {
-          "title": "Bun support is now limited and deprecated",
-          "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-          "score": 447,
-          "comments": 446
+          "score": 229,
+          "comments": 136
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 75318,
-          "change_24h": -2.61,
-          "change_7d": -4.59,
-          "market_cap": 1508919562828
+          "price": 74614,
+          "change_24h": -3.56,
+          "change_7d": -4.4,
+          "market_cap": 1494978482959
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2059.17,
-          "change_24h": -3.03,
-          "change_7d": -7.41,
-          "market_cap": 248547577687
+          "price": 2026.53,
+          "change_24h": -4.9,
+          "change_7d": -6.84,
+          "market_cap": 244590687394
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 84.12,
-          "change_24h": -2.89,
-          "change_7d": -4.99,
-          "market_cap": 48625158471
+          "price": 82.14,
+          "change_24h": -5.99,
+          "change_7d": -4.61,
+          "market_cap": 47479582558
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.100459,
-          "change_24h": -4.49,
-          "change_7d": -10.0,
-          "market_cap": 15494791991
+          "price": 0.098983,
+          "change_24h": -6.79,
+          "change_7d": -8.87,
+          "market_cap": 15281653892
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.241559,
-          "change_24h": -3.45,
-          "change_7d": -6.71,
-          "market_cap": 8937229989
+          "price": 0.237712,
+          "change_24h": -5.74,
+          "change_7d": -6.24,
+          "market_cap": 8795753726
         }
       ]
     },
@@ -212,19 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "NEAR Protocol",
-          "symbol": "NEAR",
-          "market_cap_rank": 38
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 79
+          "name": "Undeads Games",
+          "symbol": "UDS",
+          "market_cap_rank": 195
         },
         {
           "name": "Hyperliquid",
@@ -232,9 +222,19 @@
           "market_cap_rank": 11
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "market_cap_rank": 37
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
         },
         {
           "name": "Pudgy Penguins",
@@ -242,24 +242,24 @@
           "market_cap_rank": 98
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 13
+          "name": "Nexus",
+          "symbol": "NEX",
+          "market_cap_rank": 164
         },
         {
-          "name": "Billions Network",
-          "symbol": "BILL",
-          "market_cap_rank": 189
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 79
         },
         {
-          "name": "Terra Luna Classic",
-          "symbol": "LUNC",
-          "market_cap_rank": 110
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 47
         },
         {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 54
+          "name": "MegaETH",
+          "symbol": "MEGA",
+          "market_cap_rank": 315
         }
       ]
     },
@@ -268,61 +268,33 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 3,
       "items": [
         {
-          "title": "Dow hits record high as U.S.-Iran talks dominate markets",
-          "summary": "U.S. stocks climbed, with the Dow setting a record as investors tracked developments in U.S.-Iran negotiations. The move extended a strong run for equities even as geopolitical uncertainty remained a key market driver.",
-          "source": "The Fresno Bee",
-          "url": "https://www.fresnobee.com/"
+          "title": "Fed Governor Waller warns inflation is still not moving in the right direction",
+          "summary": "In a speech on the economic outlook, Governor Christopher Waller said the labor market appears stable and growth remains solid, but he stressed that inflation is still too high and broad-based. He pointed to elevated April CPI and PCE readings and said recent price data are “not good news.”",
+          "source": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm"
         },
         {
-          "title": "Wall Street keeps rising despite weaker household sentiment",
-          "summary": "Markets continued to advance even as U.S. households showed growing discouragement, highlighting a disconnect between asset prices and consumer confidence. The commentary points to resilient equities amid mixed macro signals.",
-          "source": "BNN Bloomberg",
-          "url": "https://www.bnnbloomberg.ca/"
+          "title": "U.S. economic calendar points to a heavy data day, including GDP, personal income, and new home sales",
+          "summary": "Trading Economics’ calendar shows several key U.S. releases and events, including second-estimate Q1 GDP, personal income, corporate profits, and new home sales, alongside Fed speeches. These are the main macro catalysts likely to shape market expectations for growth, inflation, and policy.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/calendar"
         },
         {
-          "title": "Dow hits record, S&P 500 logs eighth straight winning week",
-          "summary": "U.S. equities extended gains, with the Dow reaching a fresh record and the S&P 500 posting an eighth consecutive weekly advance. The rally underscores strong momentum in risk assets despite ongoing policy and macro concerns.",
-          "source": "Newsmax",
-          "url": "https://www.newsmax.com/"
-        },
-        {
-          "title": "New Fed chief to be sworn in at White House",
-          "summary": "A new Federal Reserve chief is set to be sworn in at the White House, a notable development for U.S. monetary policy leadership. Markets are watching for any implications for the Fed’s interest-rate path and broader central bank stance.",
-          "source": "RTE",
-          "url": "https://www.rte.ie/"
-        },
-        {
-          "title": "Japan core consumer prices rise 1.4% in April, slowing after subsidy effects",
-          "summary": "Japan’s inflation data showed core consumer prices rising 1.4% in April, with the pace moderated by policy measures such as free school lunches. The reading adds to the Bank of Japan’s ongoing challenge of balancing inflation persistence with policy normalization.",
-          "source": "The Mainichi",
-          "url": "https://mainichi.jp/english/"
-        },
-        {
-          "title": "UN warns global growth will slow as Middle East conflict adds a new economic shock",
-          "summary": "The UN said the Middle East crisis is threatening global growth and adding fresh pressure to the world economy. The warning highlights risks for trade, energy prices, and inflation if the conflict continues to escalate.",
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en"
-        },
-        {
-          "title": "G7 finance ministers seek common ground amid divisions over Russia and trade",
-          "summary": "G7 officials met to coordinate on trade and Russia-related issues, but differences remained over how aggressively to respond. The talks matter for currency markets, sanctions policy, and the broader global economic outlook.",
-          "source": "RFI",
-          "url": "https://www.rfi.fr/en/"
-        },
-        {
-          "title": "Mofcom says China-U.S. trade talks produced preliminary outcomes on tariffs and trade issues",
-          "summary": "China’s commerce ministry outlined preliminary results from economic and trade consultations with the U.S., including tariff-related matters. The update suggests continued negotiation, though major disputes remain unresolved.",
-          "source": "Global Times",
-          "url": "https://www.globaltimes.cn/"
+          "title": "Conference Board maintains a modest 2026 U.S. growth outlook",
+          "summary": "The Conference Board said it is currently projecting 1.7% year-over-year U.S. GDP growth in 2026, slightly higher than its prior 1.6% estimate. The update suggests a still-resilient but subdued macro backdrop.",
+          "source": "The Conference Board",
+          "url": "https://www.conference-board.org/topics/us-leading-indicators/index.cfm?hsa_acc=7966952753&hsa_cam=22625443146&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3"
         }
       ],
       "citations": [
-        "https://www.newsnow.com/us/Business/World+Economy/International+Economies/United+States",
-        "https://www.newsnow.com/us/Business/World+Economy/International+Economies",
-        "https://www.newsnow.com/us/Business/World+Economy"
+        "https://tradingeconomics.com/calendar",
+        "https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm",
+        "https://www.conference-board.org/topics/us-leading-indicators/index.cfm?hsa_acc=7966952753&hsa_cam=22625443146&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3",
+        "https://www.youtube.com/watch?v=C6f-jCWxoO0",
+        "https://asiasociety.org/policy-institute/implementing-effective-us-china-economic-engagement-channels"
       ]
     },
     "crypto_news": {
@@ -343,37 +315,40 @@
       "items": [
         {
           "title": "OpenAI launches Deployment Company to help enterprises scale AI",
-          "summary": "OpenAI has introduced a new business focused on helping enterprises move AI systems from pilots to production across critical workflows. The announcement targets organizations that need support with building, testing, and deploying AI at scale.",
-          "source": "ODSC AI and Data Science News",
+          "summary": "OpenAI has introduced a new enterprise-focused business aimed at helping organizations move AI systems from pilots into production. The effort centers on building, testing, and deploying AI across critical workflows.",
+          "source": "Open Data Science (ODSC)",
           "url": "https://opendatascience.com/category/news/"
         },
         {
           "title": "EU lawmakers reach deal to delay parts of the AI Act",
-          "summary": "EU countries and European Parliament lawmakers have reached a provisional deal to delay some high-risk AI compliance provisions, giving companies more time to prepare. Rules related to AI-generated explicit content and watermarking are expected to move forward sooner.",
-          "source": "ODSC AI and Data Science News",
+          "summary": "EU countries and European Parliament lawmakers reportedly agreed to delay some high-risk AI compliance requirements, giving companies more time to prepare. Rules tied to AI-generated explicit content and watermarking are moving forward sooner.",
+          "source": "Open Data Science (ODSC)",
           "url": "https://opendatascience.com/category/news/"
         },
         {
           "title": "Pennsylvania sues Character.AI over alleged medical chatbot claims",
-          "summary": "Pennsylvania filed a lawsuit against Character Technologies, alleging that some Character.AI chatbots misled users by presenting themselves as licensed medical professionals. The case underscores growing scrutiny of consumer AI chatbots and their safety claims.",
-          "source": "ODSC AI and Data Science News",
+          "summary": "Pennsylvania filed suit against Character Technologies, alleging that Character.AI chatbots misrepresented themselves as licensed medical professionals. The case highlights growing legal scrutiny of AI systems that may be perceived as offering health guidance.",
+          "source": "Open Data Science (ODSC)",
           "url": "https://opendatascience.com/category/news/"
         },
         {
-          "title": "BMW pilots AI models at battery cell center to improve production quality",
-          "summary": "BMW is testing AI models at its Battery Cell Competence Centre in Munich to reduce trial-and-error testing and predict production outcomes earlier. The pilot is aimed at improving quality control in battery development and manufacturing.",
-          "source": "ODSC AI and Data Science News",
+          "title": "Cerebras targets $3.5 billion IPO amid rising AI chip demand",
+          "summary": "Cerebras is preparing a Nasdaq listing as investor interest in AI infrastructure and chips remains strong. The filing underscores continued momentum in the AI hardware market as demand for specialized compute accelerates.",
+          "source": "Open Data Science (ODSC)",
           "url": "https://opendatascience.com/category/news/"
         },
         {
-          "title": "Cerebras targets $3.5 billion IPO amid surging AI chip demand",
-          "summary": "AI chipmaker Cerebras is aiming for a Nasdaq listing as demand for specialized AI hardware continues to rise. The planned IPO highlights continued investor interest in AI infrastructure companies.",
-          "source": "ODSC AI and Data Science News",
-          "url": "https://opendatascience.com/category/news/"
+          "title": "House lawmakers seek more AI transparency from the SBA",
+          "summary": "House Small Business Committee members advanced legislation that would require the Small Business Administration to report annually on its AI use. The move follows concerns raised by the GAO about how the agency is deploying AI tools.",
+          "source": "FedScoop",
+          "url": "https://fedscoop.com/house-small-business-committee-sba-ai-bills/"
         }
       ],
       "citations": [
         "https://opendatascience.com/category/news/",
+        "https://www.youtube.com/watch?v=NLgP1k69hnc",
+        "https://www.frontiersin.org/journals/artificial-intelligence",
+        "https://fedscoop.com/house-small-business-committee-sba-ai-bills/",
         "https://www.britannica.com/technology/artificial-intelligence"
       ]
     },
@@ -382,62 +357,27 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 2,
       "items": [
         {
-          "title": "Bungie reportedly facing significant layoffs, Destiny 3 not in development",
-          "summary": "Multiple reports say Bungie is preparing layoffs after ending development on Destiny 2, with Destiny 3 reportedly not in development. The news has sparked major concern across the gaming industry and among Destiny fans.",
-          "source": "NewsNow / Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-21/bungie-plans-layoffs-after-ending-destiny-2-development?accessToken=eyJhbGciOiJIUzI1NiJ9"
+          "title": "Bungie confirms Destiny 2 live-service updates are ending after June 9 patch",
+          "summary": "Bungie has reportedly told players that the June 9 update will be the last major live-services update for Destiny 2, marking a major turning point for the long-running shooter. Reporting also indicates Bungie has no new project lined up for the Destiny 2 team and is shifting more resources toward Marathon.",
+          "source": "Bungie / YouTube report",
+          "url": "https://www.youtube.com/watch?v=9LZvSek7iVY"
         },
         {
-          "title": "Xbox game tops Steam charts, beating Subnautica 2 and LEGO Batman",
-          "summary": "A new Xbox-published title has climbed to the top of Steam’s best-sellers list, overtaking Subnautica 2 and LEGO Batman. The ranking shift highlights how quickly player interest can swing around major releases and wishlists.",
-          "source": "NewsNow / Comic Book",
-          "url": "https://www.newsnow.com/us/Entertainment/Gaming"
-        },
-        {
-          "title": "Capcom reportedly remaking an iconic PS1-era game",
-          "summary": "Reports suggest Capcom is working on a remake of a classic PlayStation 1 game, fueling speculation about which franchise could be next in the publisher’s remake strategy. No official announcement has been made yet.",
-          "source": "NewsNow / Comic Book",
-          "url": "https://www.newsnow.com/us/Entertainment/Gaming"
-        },
-        {
-          "title": "Major PS5 security vulnerability exposed",
-          "summary": "A newly reported PS5 security issue is being described as a major vulnerability affecting users. Details remain limited, but the report has prompted concern about platform security.",
-          "source": "NewsNow / Push Square",
-          "url": "https://www.newsnow.com/us/Entertainment/Gaming"
-        },
-        {
-          "title": "Elden Ring free overhaul update adds a new enemy",
-          "summary": "A free overhaul for Elden Ring received a substantial update that includes a new enemy encounter. The patch adds fresh content for players revisiting the game.",
-          "source": "NewsNow / GAMINGBible",
-          "url": "https://www.newsnow.com/us/Entertainment/Gaming"
-        },
-        {
-          "title": "Nintendo ramps up Switch 2 production despite global price hike",
-          "summary": "Nintendo is reportedly increasing Switch 2 production even as prices rise in markets around the world. The move suggests the company is preparing for strong demand ahead of wider rollout.",
-          "source": "NewsNow / Metro.co.uk",
-          "url": "https://www.newsnow.com/us/Entertainment/Gaming"
-        },
-        {
-          "title": "Helldivers 2 teases next warbond tied to Warhammer 40K",
-          "summary": "Helldivers 2 is preparing its next major Warbond, and reports say it will be themed around Warhammer 40,000. Players should not expect Space Marines, though the crossover is still drawing attention.",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/category/news/"
-        },
-        {
-          "title": "No GTA 6 delay, still set for November launch",
-          "summary": "Recent coverage says Grand Theft Auto 6 has not been delayed again and remains on track for a November release. The clarification comes amid persistent speculation about the game's schedule.",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/category/news/"
+          "title": "Sony-owned Bungie faces reported layoffs as Destiny development winds down",
+          "summary": "A Jason Schreier report cited in coverage says Sony's Bungie unit is planning significant layoffs as it ends development on Destiny 2. The report also says Bungie has not greenlit any new projects, including Destiny 3, and has been investing more in Marathon despite weaker-than-expected sales.",
+          "source": "Bungie / YouTube report",
+          "url": "https://www.youtube.com/watch?v=9LZvSek7iVY"
         }
       ],
       "citations": [
-        "https://gamerant.com/gaming/",
-        "https://www.newsnow.com/us/Entertainment/Gaming",
-        "https://www.gamespot.com/category/news/",
-        "https://www.youtube.com/watch?v=tHuZZw5gfuA"
+        "https://www.youtube.com/watch?v=9LZvSek7iVY",
+        "https://www.youtube.com/watch?v=iMzfcSOjAOY",
+        "https://www.cbsnews.com/video/why-did-tulsi-gabbard-step-down-as-director-of-national-intelligence/",
+        "https://www.youtube.com/watch?v=HwBGb1lat3U",
+        "https://www.youtube.com/watch?v=M43DSw_5ztA"
       ]
     },
     "tech_news": {
@@ -445,9 +385,49 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
-      "citations": []
+      "count": 6,
+      "items": [
+        {
+          "title": "Samsung unveils Galaxy Z TriFold with dual-hinge design and 10-inch display",
+          "summary": "Samsung’s newest foldable introduces a redesigned dual-hinge mechanism and upgraded materials, pushing the company’s most advanced foldable device yet closer to mainstream consumer viability. The device unfolds from a pocketable form factor into a large 10-inch display.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
+        },
+        {
+          "title": "Amazon brings Alexa+ to the web",
+          "summary": "Amazon is expanding Alexa+ beyond dedicated devices and onto the web, signaling a broader push into agent-like digital assistants and direct competition with major consumer AI platforms. The move also extends Alexa’s reach into more everyday computing environments.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
+        },
+        {
+          "title": "Google and Qualcomm push Android PCs toward the mainstream",
+          "summary": "Google and Qualcomm are working to bring Android PCs into the desktop market, aiming to challenge Microsoft and Apple by extending Android’s mobile dominance to personal computing. The effort could reshape the PC landscape if hardware and software support mature.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
+        },
+        {
+          "title": "Quantum Motion deploys first full-stack quantum computer built with standard silicon fabrication",
+          "summary": "Quantum Motion says it has deployed the first full-stack quantum computer made using standard silicon chip fabrication methods. If validated, the milestone could improve manufacturability and scalability for future quantum systems.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
+        },
+        {
+          "title": "Qualcomm launches Snapdragon W5+ Gen 2 and W5 Gen 2 for wearables",
+          "summary": "Qualcomm’s latest wearable chip platforms focus on improving battery life, connectivity, and design flexibility for smartwatches and other wearables. The update targets long-standing adoption barriers in the category.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
+        },
+        {
+          "title": "AMD posts strong $9.2 billion quarter amid broader competitive pressure on Intel and Nvidia",
+          "summary": "AMD’s latest quarterly results highlight disciplined execution and continued gains across enterprise and data center markets. The company is using performance and product strategy to challenge Intel while navigating constraints in the broader AI hardware supply chain.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
+        }
+      ],
+      "citations": [
+        "https://www.technewsworld.com",
+        "https://www.newsnow.com/us/Tech"
+      ]
     }
   }
 }
