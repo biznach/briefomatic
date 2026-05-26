@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T18:35:37.733535+00:00",
-  "generated_at_human": "2026-05-25 18:35 UTC",
+  "generated_at": "2026-05-26T00:44:51.972402+00:00",
+  "generated_at_human": "2026-05-26 00:44 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,40 +8,106 @@
       "count": 25,
       "items": [
         {
-          "title": "Magnifica Humanitas",
-          "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-          "score": 880,
-          "comments": 380
+          "title": "Using AI to write better code more slowly",
+          "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+          "score": 42,
+          "comments": 7
         },
         {
-          "title": "C extensions, portability, and alternative compilers",
-          "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-          "score": 94,
-          "comments": 22
+          "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+          "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+          "score": 142,
+          "comments": 73
         },
         {
           "title": "Exit IP VPN servers mitigation rollout",
           "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-          "score": 13,
-          "comments": 1
-        },
-        {
-          "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
-          "url": "https://www.trychert.com",
-          "score": 32,
-          "comments": 119
+          "score": 252,
+          "comments": 40
         },
         {
           "title": "California moves to exempt Linux from its age-verification law after backlash",
           "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-          "score": 24,
-          "comments": 6
+          "score": 592,
+          "comments": 259
         },
         {
-          "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-          "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-          "score": 189,
+          "title": "Show HN: Write your BPF programs in Go, not C",
+          "url": "https://github.com/boratanrikulu/gobee",
+          "score": 54,
+          "comments": 27
+        },
+        {
+          "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+          "url": "https://support.apple.com/en-us/127115",
+          "score": 39,
+          "comments": 3
+        },
+        {
+          "title": "Microsoft Copilot Cowork Exfiltrates Files",
+          "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+          "score": 174,
+          "comments": 36
+        },
+        {
+          "title": "Magnifica Humanitas",
+          "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+          "score": 1312,
+          "comments": 732
+        },
+        {
+          "title": "Hacker News front page as a site",
+          "url": "https://thefrontpage.dev/",
+          "score": 93,
+          "comments": 38
+        },
+        {
+          "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
+          "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
+          "score": 110,
+          "comments": 46
+        },
+        {
+          "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+          "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+          "score": 12,
+          "comments": 10
+        },
+        {
+          "title": "Squares in Squares",
+          "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+          "score": 6,
+          "comments": 1
+        },
+        {
+          "title": "How Shamir's Secret Sharing Works",
+          "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+          "score": 8,
+          "comments": 0
+        },
+        {
+          "title": "Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go",
+          "url": "https://github.com/ghetea-patrick/riscrithm",
+          "score": 21,
+          "comments": 1
+        },
+        {
+          "title": "Jensen–Shannon Divergence",
+          "url": "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence",
+          "score": 69,
+          "comments": 9
+        },
+        {
+          "title": "C extensions, portability, and alternative compilers",
+          "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+          "score": 137,
           "comments": 47
+        },
+        {
+          "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+          "url": "https://github.com/tantara/openbrief",
+          "score": 15,
+          "comments": 2
         },
         {
           "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
@@ -50,112 +116,46 @@
           "comments": 0
         },
         {
-          "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
-          "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
-          "score": 103,
-          "comments": 34
+          "title": "Yoti age checks share facial photos and device fingerprints with third parties",
+          "url": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
+          "score": 96,
+          "comments": 20
         },
         {
-          "title": "The Coming Layoffs and the Revenge of the Measurers",
-          "url": "https://www.hackyexperiments.com/blog/the-revenge-of-the-measurers",
-          "score": 23,
-          "comments": 10
+          "title": "Everyone Against Us (2023)",
+          "url": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
+          "score": 52,
+          "comments": 8
         },
         {
           "title": "Gnutella: A Protocol Outliving the World That Created It",
           "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html",
-          "score": 117,
-          "comments": 42
+          "score": 204,
+          "comments": 66
         },
         {
-          "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-          "score": 269,
-          "comments": 128
+          "title": "Nobody cracks open a programming book anymore",
+          "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+          "score": 70,
+          "comments": 75
         },
         {
-          "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
-          "url": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
-          "score": 120,
-          "comments": 100
+          "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
+          "url": "https://www.trychert.com",
+          "score": 50,
+          "comments": 176
         },
         {
-          "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-          "url": "https://audiomass.co/?multitrack=1",
-          "score": 469,
-          "comments": 104
+          "title": "The Skeuomorphism Nobody Talks About [video]",
+          "url": "https://www.youtube.com/watch?v=3Q-G9x315-g",
+          "score": 12,
+          "comments": 4
         },
         {
-          "title": "The analog computer museum's online library",
-          "url": "https://www.analogmuseum.org/english/library.html",
-          "score": 11,
-          "comments": 0
-        },
-        {
-          "title": "He Lost It at the Movies",
-          "url": "https://www.theideasletter.org/essay/he-lost-it-at-the-movies/",
-          "score": 19,
-          "comments": 8
-        },
-        {
-          "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-          "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-          "score": 657,
-          "comments": 266
-        },
-        {
-          "title": "CPPL: A Circuit Prompt Programming Language",
-          "url": "https://arxiv.org/abs/2605.17892",
-          "score": 4,
-          "comments": 0
-        },
-        {
-          "title": "The physicists who convinced Fermilab to send Brazil's emails",
-          "url": "https://buttondown.com/blog/brazil-fermilab-email",
-          "score": 38,
-          "comments": 15
-        },
-        {
-          "title": "2026 HIPAA Security Rule Update",
-          "url": "https://medcurity.com/hipaa-security-rule-2026-update/",
-          "score": 76,
-          "comments": 64
-        },
-        {
-          "title": "Bytecode VMs in surprising places (2024)",
-          "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
-          "score": 107,
-          "comments": 35
-        },
-        {
-          "title": "Alaska's oil revival sparks a new energy rush Into the Arctic",
-          "url": "https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/",
-          "score": 4,
-          "comments": 1
-        },
-        {
-          "title": "Migrating from Go to Rust",
-          "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-          "score": 409,
-          "comments": 400
-        },
-        {
-          "title": "Show HN: Geomatic – A command-driven geometry studio enabled with autodiff",
-          "url": "https://www.tinyvolt.com/geomatic",
-          "score": 55,
-          "comments": 13
-        },
-        {
-          "title": "AI errno(2) values",
-          "url": "https://www.netmeister.org/blog/ai-errno.html",
-          "score": 86,
-          "comments": 18
-        },
-        {
-          "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-          "url": "https://ohwr.org/projects/white-rabbit/",
-          "score": 163,
-          "comments": 37
+          "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+          "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+          "score": 139,
+          "comments": 59
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 77548,
-          "change_24h": 1.25,
-          "change_7d": 1.18,
-          "market_cap": 1553594126426
+          "price": 76825,
+          "change_24h": -0.29,
+          "change_7d": -0.22,
+          "market_cap": 1539161186383
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2128.53,
-          "change_24h": 1.43,
-          "change_7d": 1.04,
-          "market_cap": 256880176230
+          "price": 2096.01,
+          "change_24h": -0.32,
+          "change_7d": -1.76,
+          "market_cap": 253207491200
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 86.03,
-          "change_24h": 0.95,
-          "change_7d": 2.01,
-          "market_cap": 49745820192
+          "price": 84.32,
+          "change_24h": -1.24,
+          "change_7d": -1.13,
+          "market_cap": 48785280359
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.103138,
-          "change_24h": 1.04,
-          "change_7d": -0.53,
-          "market_cap": 15923259717
+          "price": 0.101169,
+          "change_24h": -1.36,
+          "change_7d": -3.43,
+          "market_cap": 15625102055
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.246753,
-          "change_24h": 1.83,
-          "change_7d": -0.95,
-          "market_cap": 9134222232
+          "price": 0.242059,
+          "change_24h": -0.22,
+          "change_7d": -3.65,
+          "market_cap": 8968780065
         }
       ]
     },
@@ -212,29 +212,19 @@
       "count": 10,
       "items": [
         {
+          "name": "Palladium Network",
+          "symbol": "PLLD",
+          "market_cap_rank": 548
+        },
+        {
           "name": "NEAR Protocol",
           "symbol": "NEAR",
           "market_cap_rank": 33
         },
         {
-          "name": "Solstice",
-          "symbol": "SLX",
-          "market_cap_rank": 419
-        },
-        {
-          "name": "ZIGChain",
-          "symbol": "ZIG",
-          "market_cap_rank": 385
-        },
-        {
-          "name": "Toncoin",
-          "symbol": "TON",
-          "market_cap_rank": 21
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 97
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 46
         },
         {
           "name": "Hyperliquid",
@@ -242,24 +232,34 @@
           "market_cap_rank": 11
         },
         {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 80
+          "name": "Grass",
+          "symbol": "GRASS",
+          "market_cap_rank": 129
         },
         {
-          "name": "Railgun",
-          "symbol": "RAIL",
-          "market_cap_rank": 181
+          "name": "Artificial Superintelligence Alliance",
+          "symbol": "FET",
+          "market_cap_rank": 102
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 98
         },
         {
           "name": "Zcash",
           "symbol": "ZEC",
-          "market_cap_rank": 12
+          "market_cap_rank": 13
+        },
+        {
+          "name": "Collector Crypt",
+          "symbol": "CARDS",
+          "market_cap_rank": 521
+        },
+        {
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 81
         }
       ]
     },
@@ -270,22 +270,46 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": [
-        "https://economictimes.com/news/economy",
-        "https://tradingeconomics.com/calendar",
-        "https://www.criticalthreats.org/analysis/iran-update-evening-special-report-may-24-2026",
-        "https://www.investmentnews.com/practice-management/economic-outlook-hits-lowest-point-in-nearly-four-years-as-confidence-crumbles/266722",
-        "https://www.marketplace.org"
-      ]
+      "citations": []
     },
     "crypto_news": {
       "source": "perplexity",
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
-      "citations": []
+      "count": 4,
+      "items": [
+        {
+          "title": "Crypto market posts modest gains as sentiment stays cautious",
+          "summary": "Bitcoin rose 0.63% to about $77,213, while Ethereum slipped 0.89% to about $2,100, as the total crypto market cap increased 1.45% to $2.56 trillion. The report also highlighted outsized gains in smaller tokens such as ELX, GROK, and BASE.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/326905788804721"
+        },
+        {
+          "title": "Stablecoin and AML regulation news surfaces in the U.S. and India",
+          "summary": "The FDIC is moving ahead with a proposed Bank Secrecy Act rule that would require FDIC-supervised stablecoin issuers to maintain CFT/AML programs, reporting obligations, and sanctions controls. The same market update also said India is tightening crypto oversight after flagging the network as a high-risk system.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/326905788804721"
+        },
+        {
+          "title": "Tether backs LemFi to expand USDT settlement rails across Asia and Africa",
+          "summary": "A notable project and infrastructure development is Tether’s backing of fintech platform LemFi to broaden USDT-led settlements in Asia and Africa. The move points to continued stablecoin expansion in cross-border payments.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/326905788804721"
+        },
+        {
+          "title": "Bitcoin volatility remains elevated amid mixed market signals",
+          "summary": "A market commentary noted Bitcoin fell more than 3% at one point to as low as $74,255 before recovering above $77,000, underscoring continued short-term volatility. The same coverage said liquidations over the last 24 hours totaled about $135 million.",
+          "source": "CoinMarketCal News",
+          "url": "https://coinmarketcal.com/en/news"
+        }
+      ],
+      "citations": [
+        "https://www.binance.com/en/square/post/326905788804721",
+        "https://coinmarketcal.com/en/news",
+        "https://www.youtube.com/watch?v=Ml8Tr9eZ9fs",
+        "https://cryptopotato.com/3-things-that-may-move-bitcoin-and-crypto-markets-this-week/"
+      ]
     },
     "ai_news": {
       "source": "perplexity",
@@ -295,10 +319,12 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.technewsworld.com",
-        "https://www.park.edu/blog/machine-learning-salary-what-you-can-expect/",
-        "https://college.h-farm.com/en/news/what-is-deep-learning-ai-technology/",
-        "https://5minuteainews.com"
+        "https://www.youtube.com/watch?v=U_9pP1LIJ0Q",
+        "https://www.youtube.com/watch?v=eGoszzMkGfU",
+        "https://www.youtube.com/watch?v=PnIhpDMoL9Q",
+        "https://www.youtube.com/watch?v=X9n5EYoWdNk",
+        "https://www.timesofisrael.com/liveblog_entry/watch-trump-set-to-give-a-statement/",
+        "https://www.youtube.com/watch?v=-tdNsYi8AXs"
       ]
     },
     "gaming": {
@@ -309,11 +335,12 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=I56uHVF-lFk",
-        "https://www.youtube.com/watch?v=SsNYYdM1Ulo",
-        "https://www.youtube.com/watch?v=uusbZwBgw6s",
-        "https://www.ncaa.com/video/softball/2026-05-24/texas-defeats-arizona-state-advance-their-third-straight-wcws-full-highlights",
-        "https://www.mlb.com/video/condensed-game-wsh-atl-5-24-26"
+        "https://www.youtube.com/watch?v=CS9Tbu2lnwM",
+        "https://www.espn.com/mlb/story/_/id/48874786/blue-jays-dylan-cease-heading-il-hamstring-strain",
+        "https://www.youtube.com/watch?v=KP8snPhVdzQ",
+        "https://www.ncaa.com/video/lacrosse-men/2026-05-25/princeton-vs-notre-dame-2026-ncaa-mens-lacrosse-championship-highlights",
+        "https://www.youtube.com/watch?v=OtfViT2q8IM",
+        "https://www.foxsports.com/watch/fmc-imud0jtna9mwmon3"
       ]
     },
     "tech_news": {
@@ -321,52 +348,14 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 6,
-      "items": [
-        {
-          "title": "SpaceX’s third-generation Starship draws attention as a potential NASA lunar vehicle",
-          "summary": "NewsNow highlighted SpaceX’s third-generation Starship as a notable tech and space development, with NASA potentially considering it for crewed lunar missions. The item was among the day’s most prominent technology headlines.",
-          "source": "NewsNow",
-          "url": "https://www.newsnow.com/us/Tech"
-        },
-        {
-          "title": "Google quietly rolled out a major redesign of Google Wallet",
-          "summary": "A reported redesign of Google Wallet surfaced as one of the more significant consumer tech product updates from the last 24 hours. The change appears to be a substantial interface refresh rather than a minor patch.",
-          "source": "BetaNews",
-          "url": "https://www.newsnow.com/us/Tech"
-        },
-        {
-          "title": "Google and Samsung updates point to ongoing Wear OS changes",
-          "summary": "NewsNow surfaced two Wear OS-related developments: Google replacing Tiles with widgets on some smartwatches and broader smartwatch platform changes following Samsung’s approach. These updates suggest continued iteration in wearable software.",
-          "source": "SamMobile",
-          "url": "https://www.newsnow.com/us/Tech"
-        },
-        {
-          "title": "Microsoft patched two zero-day flaws in Defender",
-          "summary": "Microsoft issued security fixes for two zero-day vulnerabilities in Defender, making this one of the most consequential enterprise tech security updates in the past day. The patching effort is important for organizations relying on Microsoft security tools.",
-          "source": "CSO Magazine",
-          "url": "https://www.newsnow.com/us/Tech"
-        },
-        {
-          "title": "Over 5,500 GitHub repositories were infected in a supply-chain attack",
-          "summary": "SecurityWeek reported a large-scale supply-chain compromise affecting more than 5,500 GitHub repositories, making it a major software and developer-infrastructure security incident. The scope of the infection makes it one of the most significant tech industry developments in the period.",
-          "source": "SecurityWeek",
-          "url": "https://www.newsnow.com/us/Tech"
-        },
-        {
-          "title": "Huawei unveiled a ‘Tau Scaling Law’ workaround for U.S. chip sanctions",
-          "summary": "Huawei’s latest chip-related announcement was framed as a strategy to work around U.S. sanctions, underscoring continued pressure on global semiconductor competition. The development is notable for the broader hardware and geopolitics implications.",
-          "source": "The Next Web",
-          "url": "https://www.newsnow.com/us/Tech"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.newsnow.com/us/Tech",
         "https://www.technewsworld.com",
-        "https://www.engadget.com",
-        "https://www.youtube.com/watch?v=UNuz36vzhEI",
-        "https://www.youtube.com/watch?v=JpBDqte-XU8",
-        "https://phys.org"
+        "https://phys.org",
+        "https://rss.feedspot.com/technology_rss_feeds/",
+        "https://www.youtube.com/watch?v=yEDh-u9pbaQ",
+        "https://www.24-7pressrelease.com"
       ]
     }
   }

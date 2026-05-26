@@ -1,24 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-05-25 18:35 UTC*
+*Generated: 2026-05-26 00:44 UTC*
 
-Here is your executive briefing for May 25, 2026:
+**Market Overview**
+The crypto market has posted modest gains, with the total market cap increasing by 1.45% to $2.56 trillion. Bitcoin rose 0.63% to about $77,213, while Ethereum slipped 0.89% to about $2,100. The major indices and macro markets data is not available for the past 24 hours.
 
-1. **Market Overview**: The cryptocurrency market shows mixed movements, with Bitcoin up 1.25% and Ethereum up 1.43% in the last 24 hours. Solana saw a 2.01% increase over the past week. However, there is limited information on macroeconomic and stock market news due to the absence of specific data in the provided feed.
+**Tech & AI**
+Notable tech developments include Norway's 2 petabytes of Huawei flash storage and LLM training, and IBM spinning off the first pure-play quantum chip foundry. Additionally, there are reports of Microsoft Copilot Cowork exfiltrating files, and California moving to exempt Linux from its age-verification law after backlash.
 
-2. **Tech & AI**: Significant tech developments include SpaceX's third-generation Starship potentially being considered by NASA for lunar missions, Google's redesign of Google Wallet, and ongoing changes to Wear OS. Microsoft patched two zero-day flaws in Defender, and Huawei unveiled a strategy to work around U.S. chip sanctions. Additionally, a large-scale supply-chain attack affected over 5,500 GitHub repositories.
+**Gaming & Entertainment**
+There is no notable gaming news available for the past 24 hours.
 
-3. **Gaming & Entertainment**: There are no notable gaming news items in the provided data, as the gaming category had no specific items listed.
+**Key Insights**
+* The crypto market remains cautious, with Bitcoin volatility elevated amid mixed market signals.
+* Stablecoin and AML regulation news has surfaced in the U.S. and India, with the FDIC proposing a Bank Secrecy Act rule for stablecoin issuers.
+* Tether is backing LemFi to expand USDT settlement rails across Asia and Africa, pointing to continued stablecoin expansion in cross-border payments.
+* IBM's spin-off of the first pure-play quantum chip foundry is a significant development in the tech industry.
 
-4. **Key Insights**:
-* The cryptocurrency market is experiencing volatility, with various coins seeing increases and decreases in value.
-* Tech companies are continually innovating, with significant updates and announcements from Google, Microsoft, and Huawei.
-* Cybersecurity remains a critical concern, with a major supply-chain attack on GitHub repositories and Microsoft addressing zero-day vulnerabilities in Defender.
-* SpaceX's advancements in space technology could have significant implications for future lunar missions.
-
-5. **Watch List**: 
-* Cryptocurrency market movements, especially for Bitcoin, Ethereum, and Solana.
-* Developments in Wear OS and Google Wallet.
-* NASA's consideration of SpaceX's Starship for lunar missions.
-* The impact of Huawei's strategy to circumvent U.S. chip sanctions on the global semiconductor market.
-* The aftermath and implications of the large-scale supply-chain attack on GitHub repositories.
+**Watch List**
+* Bitcoin and Ethereum price movements
+* Stablecoin and AML regulation developments
+* USDT settlement rail expansion across Asia and Africa
+* IBM's quantum chip foundry developments
+* Microsoft Copilot Cowork security concerns
