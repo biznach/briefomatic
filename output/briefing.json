@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T18:49:46.471108+00:00",
-  "generated_at_human": "2026-05-26 18:49 UTC",
+  "generated_at": "2026-05-27T00:46:13.087596+00:00",
+  "generated_at_human": "2026-05-27 00:46 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,58 +8,124 @@
       "count": 25,
       "items": [
         {
-          "title": "Stack Overflow's forum is dead thanks to AI",
-          "url": "https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/",
-          "score": 41,
-          "comments": 31
-        },
-        {
-          "title": "The Ballad of TIGIT",
-          "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
-          "score": 53,
-          "comments": 5
-        },
-        {
-          "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
-          "url": "https://www.minicor.com/",
-          "score": 46,
-          "comments": 37
+          "title": "Chemistry behind the Garden Grove chemical tank",
+          "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+          "score": 206,
+          "comments": 83
         },
         {
           "title": "A few interesting modern pixel fonts",
           "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-          "score": 27,
-          "comments": 9
+          "score": 230,
+          "comments": 51
+        },
+        {
+          "title": "Cloudflare Flagship",
+          "url": "https://developers.cloudflare.com/flagship/",
+          "score": 18,
+          "comments": 5
+        },
+        {
+          "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+          "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+          "score": 150,
+          "comments": 36
+        },
+        {
+          "title": "Agent Memory: An Anatomy",
+          "url": "https://brgsk.xyz/agent-memory-anatomy/",
+          "score": 14,
+          "comments": 2
+        },
+        {
+          "title": "C array types are weird",
+          "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+          "score": 49,
+          "comments": 23
+        },
+        {
+          "title": "A portentous reunion",
+          "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+          "score": 38,
+          "comments": 13
+        },
+        {
+          "title": "Big tech's anti-labor playbook has come for Wikipedia",
+          "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+          "score": 252,
+          "comments": 135
+        },
+        {
+          "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+          "url": "https://github.com/logannye/rosalind",
+          "score": 119,
+          "comments": 29
         },
         {
           "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
           "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-          "score": 433,
-          "comments": 209
+          "score": 754,
+          "comments": 343
+        },
+        {
+          "title": "The Steinwinter Supercargo",
+          "url": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
+          "score": 38,
+          "comments": 6
         },
         {
           "title": "Dropbox CEO Drew Houston to step down",
           "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-          "score": 115,
-          "comments": 103
+          "score": 277,
+          "comments": 316
         },
         {
-          "title": "Using AI to write better code more slowly",
-          "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-          "score": 1065,
-          "comments": 395
+          "title": "The real cost of owning a home",
+          "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
+          "score": 260,
+          "comments": 585
         },
         {
-          "title": "C64 Basic: Game Map Overhead \"Camera View\"",
-          "url": "https://retrogamecoders.com/overhead-camera-view/",
-          "score": 50,
-          "comments": 5
+          "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+          "url": "https://www.minicor.com/",
+          "score": 69,
+          "comments": 46
+        },
+        {
+          "title": "Liverpool and Manchester Railway",
+          "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+          "score": 6,
+          "comments": 1
+        },
+        {
+          "title": "The Ballad of TIGIT",
+          "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
+          "score": 92,
+          "comments": 17
         },
         {
           "title": "What color is your function? (2015)",
           "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
-          "score": 50,
-          "comments": 39
+          "score": 90,
+          "comments": 107
+        },
+        {
+          "title": "C64 Basic: Game Map Overhead “Camera View”",
+          "url": "https://retrogamecoders.com/overhead-camera-view/",
+          "score": 74,
+          "comments": 10
+        },
+        {
+          "title": "Show HN: Rapel – chunked resumable downloads in unstable networks",
+          "url": "https://github.com/redraw/rapel",
+          "score": 4,
+          "comments": 1
+        },
+        {
+          "title": "Use boring languages with LLMs",
+          "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+          "score": 166,
+          "comments": 137
         },
         {
           "title": "Sage Care (YC S24) Is Hiring Software Engineers",
@@ -70,92 +136,26 @@
         {
           "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
           "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-          "score": 154,
-          "comments": 161
+          "score": 238,
+          "comments": 258
         },
         {
-          "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-          "url": "https://github.com/logannye/rosalind",
-          "score": 19,
-          "comments": 1
-        },
-        {
-          "title": "Language Models Need Sleep",
-          "url": "https://arxiv.org/abs/2605.26099",
-          "score": 121,
-          "comments": 93
-        },
-        {
-          "title": "The real cost of owning a home",
-          "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
-          "score": 74,
-          "comments": 203
+          "title": "Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95",
+          "url": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
+          "score": 10,
+          "comments": 0
         },
         {
           "title": "Opaque Types in Python",
           "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
-          "score": 82,
-          "comments": 34
-        },
-        {
-          "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-          "url": "https://dynip.dev/",
-          "score": 271,
-          "comments": 109
-        },
-        {
-          "title": "Netherlands blocks US takeover of vital digital supplier",
-          "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-          "score": 395,
-          "comments": 146
-        },
-        {
-          "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-          "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-          "score": 534,
-          "comments": 211
-        },
-        {
-          "title": "Performance of Rust Language [pdf]",
-          "url": "https://github.com/yugr/rust-slides/",
-          "score": 96,
-          "comments": 71
+          "score": 111,
+          "comments": 49
         },
         {
           "title": "Are we self-sovereign PKI yet?",
           "url": "https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/",
-          "score": 37,
-          "comments": 10
-        },
-        {
-          "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
-          "url": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/",
-          "score": 190,
-          "comments": 93
-        },
-        {
-          "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-          "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-          "score": 6,
-          "comments": 1
-        },
-        {
-          "title": "Use boring languages with LLMs",
-          "url": "https://jry.io/writing/use-boring-languages-with-llms/",
-          "score": 83,
-          "comments": 66
-        },
-        {
-          "title": "Phantasy Star IV – 1993 Developer Interviews",
-          "url": "https://shmuplations.com/phantasystariv/",
-          "score": 117,
-          "comments": 43
-        },
-        {
-          "title": "Is \"colorectal cancer\" rising in \"young people\"?",
-          "url": "https://dynomight.net/crc-rates/",
-          "score": 82,
-          "comments": 81
+          "score": 72,
+          "comments": 44
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 75852,
-          "change_24h": -2.17,
-          "change_7d": -1.19,
-          "market_cap": 1520033673209
+          "price": 75853,
+          "change_24h": -1.53,
+          "change_7d": -1.17,
+          "market_cap": 1520103553859
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2067.36,
-          "change_24h": -2.76,
-          "change_7d": -2.2,
-          "market_cap": 249584659094
+          "price": 2074.94,
+          "change_24h": -1.49,
+          "change_7d": -1.65,
+          "market_cap": 250409071314
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 83.51,
-          "change_24h": -2.87,
-          "change_7d": -1.2,
-          "market_cap": 48338892990
+          "price": 83.78,
+          "change_24h": -1.05,
+          "change_7d": -0.58,
+          "market_cap": 48447506938
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.100706,
-          "change_24h": -2.25,
-          "change_7d": -2.76,
-          "market_cap": 15549513969
+          "price": 0.101129,
+          "change_24h": -0.57,
+          "change_7d": -1.52,
+          "market_cap": 15617351456
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.239509,
-          "change_24h": -2.82,
-          "change_7d": -3.68,
-          "market_cap": 8864793338
+          "price": 0.240616,
+          "change_24h": -1.02,
+          "change_7d": -3.15,
+          "market_cap": 8906741476
         }
       ]
     },
@@ -217,14 +217,14 @@
           "market_cap_rank": 103
         },
         {
-          "name": "Worldcoin",
-          "symbol": "WLD",
-          "market_cap_rank": 61
+          "name": "Ergo",
+          "symbol": "ERG",
+          "market_cap_rank": 805
         },
         {
-          "name": "NEAR Protocol",
-          "symbol": "NEAR",
-          "market_cap_rank": 33
+          "name": "Citrea",
+          "symbol": "CTR",
+          "market_cap_rank": 829
         },
         {
           "name": "Hyperliquid",
@@ -232,14 +232,19 @@
           "market_cap_rank": 11
         },
         {
-          "name": "Solstice",
-          "symbol": "SLX",
-          "market_cap_rank": 492
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 101
         },
         {
-          "name": "Citrea",
-          "symbol": "CTR",
-          "market_cap_rank": 817
+          "name": "Terra Luna Classic",
+          "symbol": "LUNC",
+          "market_cap_rank": 109
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Ondo",
@@ -247,19 +252,14 @@
           "market_cap_rank": 46
         },
         {
-          "name": "Ergo",
-          "symbol": "ERG",
-          "market_cap_rank": 807
-        },
-        {
           "name": "Venice Token",
           "symbol": "VVV",
-          "market_cap_rank": 80
+          "market_cap_rank": 83
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 101
+          "name": "Nockchain",
+          "symbol": "NOCK",
+          "market_cap_rank": 335
         }
       ]
     },
@@ -271,9 +271,9 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://economictimes.com/news/economy",
-        "https://www.iranintl.com/en/202605268784",
-        "https://www.banque-france.fr/en/governors-interventions/europe-and-china-key-economic-relationship-under-pressure-great-uncertainty-and-growing-imbalances"
+        "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/05/have-we-entered-era-of-high-productivity-growth/",
+        "https://www.stlouisfed.org/on-the-economy/2026/may/how-trade-policy-is-changing-broad-rules-targeted-restrictions",
+        "https://www.iranintl.com/en/202605268784"
       ]
     },
     "crypto_news": {
@@ -281,64 +281,9 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
-      "items": [
-        {
-          "title": "Crypto market weakens broadly as Bitcoin, Ethereum and major altcoins fall",
-          "summary": "The crypto market lost about 0.64% to a total capitalization of roughly $2.56 trillion, with Bitcoin down 0.84% below $77,000 and Ethereum down 0.79% below $2,100. XRP, Solana and Dogecoin also fell more than 1% amid geopolitical tension and hawkish Fed signals.",
-          "source": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/cryptocurrencies/more/261928014-crypto-near-protocol-ai-nvda-price-prediction-trump-iran-tradingkey"
-        },
-        {
-          "title": "NEAR Protocol surges 15% on upgrade and AI enthusiasm",
-          "summary": "NEAR rose another 15% in 24 hours, briefly topping $2.8 and reaching a six-month high, while the broader market weakened. The move was linked to NEAR's v2.13 network upgrade announced for June and renewed AI-sector interest.",
-          "source": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/cryptocurrencies/more/261928014-crypto-near-protocol-ai-nvda-price-prediction-trump-iran-tradingkey"
-        },
-        {
-          "title": "Bitcoin demand weakens as market watches for a drop toward $72,000",
-          "summary": "Cointelegraph reported that Bitcoin risked a decline to about $72,000 as a demand metric hit its lowest level of 2026. NewsNow also highlighted that Strategy skipped Bitcoin purchases this week as BTC demand hit a five-month low.",
-          "source": "Cointelegraph / NewsNow",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
-        },
-        {
-          "title": "Strategy skips Bitcoin buys and retires $1.5 billion in debt",
-          "summary": "Strategy reportedly skipped Bitcoin purchases this week while using cash reserves to buy back $1.5 billion in bonds. The move was framed alongside weakening Bitcoin demand and softer spot buying.",
-          "source": "CoinMarketCap Alexandria / NewsNow",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
-        },
-        {
-          "title": "Georgia launches a Tether-backed stablecoin with central bank support",
-          "summary": "Tether and Georgia launched GELT, a Georgian lari stablecoin, with the central bank's blessing. The development was presented as a notable example of official-sector support for stablecoin infrastructure.",
-          "source": "Decrypt / NewsNow",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
-        },
-        {
-          "title": "XRP activity rises as whales withdraw from Binance ahead of token unlock",
-          "summary": "NewsNow highlighted XRP whale withdrawals on Binance reaching their highest level since February, while another report noted Ripple will unlock 1 billion XRP next week. The combination points to elevated market attention around XRP supply dynamics.",
-          "source": "DeFi Planet / Finance in Bold / NewsNow",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
-        },
-        {
-          "title": "NEAR, HYPE and other altcoins show outsized moves despite market pressure",
-          "summary": "News feeds flagged Hyperliquid's rally, with Santiment warning about overheated positioning, while HYPE briefly overtook Dogecoin in a volatile session. These moves stood out against the broader market downturn.",
-          "source": "The Crypto Basic / CoinDesk via CryptoNews",
-          "url": "https://cryptonews.net"
-        },
-        {
-          "title": "Security warning issued over new 'TrapDoor' virus targeting crypto wallets",
-          "summary": "U.Today reported a new malware strain called TrapDoor that steals crypto wallets and targets Solana, DeFi and AI developers. The alert adds a security-development angle to the day's crypto news.",
-          "source": "U.Today / NewsNow",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
-        }
-      ],
-      "citations": [
-        "https://www.newsnow.com/us/Business/Cryptocurrencies",
-        "https://www.tradingkey.com/analysis/cryptocurrencies/more/261928014-crypto-near-protocol-ai-nvda-price-prediction-trump-iran-tradingkey",
-        "https://cryptonews.net",
-        "https://www.youtube.com/watch?v=5SpCNNWwPOg",
-        "https://www.binance.com/en/square/post/327256497108865"
-      ]
+      "count": 0,
+      "items": [],
+      "citations": []
     },
     "ai_news": {
       "source": "perplexity",
@@ -348,8 +293,11 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://arxiv.org/list/stat.ML/recent",
-        "https://www.newswise.com/articles/cvpr-2026-fields-16-000-paper-submissions-on-technical-advances-in-ai",
+        "https://www.youtube.com/watch?v=aVW-KG4sDdo",
+        "https://www.youtube.com/watch?v=NRBQmwlILjk",
+        "https://www.youtube.com/watch?v=h8XjsIu2T34",
+        "https://www.youtube.com/watch?v=uUPPwL-9ssE",
+        "https://www.cbsnews.com/video/how-the-us-military-is-using-ai-in-warfare/",
         "https://www.youtube.com/watch?v=EEiofn0AuX0"
       ]
     },
@@ -361,11 +309,11 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=mXLGnqDL1Jo",
-        "https://www.youtube.com/watch?v=7NoQEUFRcy0",
-        "https://www.youtube.com/watch?v=3avRwxToaVU",
-        "https://www.cbsnews.com/video/hr-mcmaster-doubts-progress-of-us-iran-deal/",
-        "https://6abc.com/watch/live/"
+        "https://www.youtube.com/watch?v=YnHGeYdixYI",
+        "https://www.youtube.com/watch?v=mvZ5V1Tyoko",
+        "https://www.youtube.com/watch?v=1ca3SBDRau4",
+        "https://www.youtube.com/watch?v=CUPfCK-t424",
+        "https://www.joblo.com/we-saw-a-full-length-ai-generated-feature/"
       ]
     },
     "tech_news": {
@@ -375,7 +323,11 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": []
+      "citations": [
+        "https://www.technewsworld.com",
+        "https://www.youtube.com/watch?v=TGQ0FtvAPK4",
+        "https://247wallst.com/investing/2026/05/26/this-proves-the-ai-boom-will-last-through-2027/"
+      ]
     }
   }
 }
