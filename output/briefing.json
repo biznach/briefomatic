@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T07:23:07.923887+00:00",
-  "generated_at_human": "2026-05-28 07:23 UTC",
+  "generated_at": "2026-05-28T13:16:27.753981+00:00",
+  "generated_at_human": "2026-05-28 13:16 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,94 +8,130 @@
       "count": 25,
       "items": [
         {
-          "title": "YouTube to automatically label AI-generated videos",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-          "score": 792,
-          "comments": 458
+          "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+          "url": "https://lenz.io/research/llm-disagreement",
+          "score": 113,
+          "comments": 62
         },
         {
-          "title": "Hallucinate – Massively Multiplayer Online Rave",
-          "url": "https://hallucinate.site",
-          "score": 140,
-          "comments": 53
+          "title": "YouTube to automatically label AI-generated videos",
+          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "score": 1017,
+          "comments": 617
+        },
+        {
+          "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+          "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+          "score": 144,
+          "comments": 64
+        },
+        {
+          "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+          "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+          "score": 116,
+          "comments": 34
         },
         {
           "title": "I analysed 20 years of my chats",
           "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-          "score": 72,
-          "comments": 15
+          "score": 197,
+          "comments": 78
         },
         {
           "title": "I think Anthropic and OpenAI have found product-market fit",
           "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-          "score": 810,
-          "comments": 949
+          "score": 952,
+          "comments": 1065
+        },
+        {
+          "title": "Hallucinate – Massively Multiplayer Online Rave",
+          "url": "https://hallucinate.site",
+          "score": 266,
+          "comments": 112
+        },
+        {
+          "title": "Rapira (Рапира) – Soviet programming language interpreter",
+          "url": "https://github.com/begoon/rapira",
+          "score": 50,
+          "comments": 26
+        },
+        {
+          "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin",
+          "url": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
+          "score": 22,
+          "comments": 5
+        },
+        {
+          "title": "Libwce: The entropy layer of a wavelet codec, on its own",
+          "url": "https://yogthos.net/posts/2026-05-24-libwce.html",
+          "score": 7,
+          "comments": 0
         },
         {
           "title": "SimCity 3k in 4k (2025)",
           "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-          "score": 347,
-          "comments": 127
+          "score": 400,
+          "comments": 161
+        },
+        {
+          "title": "Commission fines Temu €200M for breaching the Digital Services Act",
+          "url": "https://ec.europa.eu/commission/presscorner/home/en",
+          "score": 47,
+          "comments": 31
         },
         {
           "title": "What Apple and Google are doing to push notifications",
           "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-          "score": 255,
-          "comments": 253
+          "score": 325,
+          "comments": 328
         },
         {
-          "title": "The Green Side of the Lua",
-          "url": "https://arxiv.org/abs/2601.16670",
-          "score": 34,
-          "comments": 14
+          "title": "More Whimsical OEIS Sequences",
+          "url": "https://www.jeremykun.com/shortform/2026-05-22-1528/",
+          "score": 24,
+          "comments": 4
         },
         {
           "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
           "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-          "score": 173,
-          "comments": 54
+          "score": 241,
+          "comments": 94
+        },
+        {
+          "title": "AI sticker shock hits corporate America",
+          "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+          "score": 110,
+          "comments": 82
         },
         {
           "title": "The Ask",
           "url": "https://randsinrepose.com/archives/the-ask/",
-          "score": 53,
-          "comments": 30
+          "score": 93,
+          "comments": 59
+        },
+        {
+          "title": "Seeing Around Corners Using Smartphone-Grade Lidar",
+          "url": "https://spectrum.ieee.org/smartphone-grade-lidar",
+          "score": 28,
+          "comments": 6
         },
         {
           "title": "Rust (and Slint) on a Jailbroken Kindle",
           "url": "https://sverre.me/blog/rust-on-kindle/",
-          "score": 146,
-          "comments": 17
-        },
-        {
-          "title": "Our 2D game character grew 3% taller every time he walked",
-          "url": "https://hey.paris/posts/leo-sprite-alignment/",
-          "score": 10,
-          "comments": 4
+          "score": 190,
+          "comments": 28
         },
         {
           "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
           "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-          "score": 810,
-          "comments": 382
+          "score": 937,
+          "comments": 442
         },
         {
-          "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
-          "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
-          "score": 278,
-          "comments": 173
-        },
-        {
-          "title": "A New Typst Template for Pandoc (2025)",
-          "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
-          "score": 65,
-          "comments": 11
-        },
-        {
-          "title": "Can we have the day off?",
-          "url": "https://mlsu.io/posts/day-off/",
-          "score": 954,
-          "comments": 570
+          "title": "Biff is a command line datetime Swiss army knife",
+          "url": "https://github.com/BurntSushi/biff",
+          "score": 62,
+          "comments": 29
         },
         {
           "title": "RamAIn (YC W26) Is Hiring",
@@ -104,58 +140,22 @@
           "comments": 0
         },
         {
-          "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-          "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
-          "score": 146,
-          "comments": 71
-        },
-        {
           "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
           "url": "https://arxiv.org/abs/2510.04950",
-          "score": 64,
-          "comments": 61
-        },
-        {
-          "title": "Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us",
-          "url": "https://retrogamecoders.com/zero-lines-maze/",
-          "score": 38,
-          "comments": 13
-        },
-        {
-          "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-          "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-          "score": 292,
-          "comments": 194
+          "score": 96,
+          "comments": 89
         },
         {
           "title": "Go: Support for Generic Methods",
           "url": "https://github.com/golang/go/issues/77273",
-          "score": 238,
-          "comments": 191
+          "score": 265,
+          "comments": 228
         },
         {
-          "title": "My new obsession: A horse-racing board game of pure luck",
-          "url": "https://alexanderbjoy.com/horse-race-board-game/",
-          "score": 73,
-          "comments": 45
-        },
-        {
-          "title": "Warm up your MacBook (2019)",
-          "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-          "score": 63,
-          "comments": 63
-        },
-        {
-          "title": "Interleaved Deltas",
-          "url": "https://mmapped.blog/posts/51-interleaved-deltas",
-          "score": 58,
-          "comments": 1
-        },
-        {
-          "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
-          "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
-          "score": 115,
-          "comments": 19
+          "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+          "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+          "score": 395,
+          "comments": 286
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 73183,
-          "change_24h": -3.38,
-          "change_7d": -5.82,
-          "market_cap": 1466263908201
+          "price": 73206,
+          "change_24h": -2.81,
+          "change_7d": -5.2,
+          "market_cap": 1468649342248
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1986.8,
-          "change_24h": -4.29,
-          "change_7d": -6.56,
-          "market_cap": 239776063805
+          "price": 1983.37,
+          "change_24h": -4.25,
+          "change_7d": -6.25,
+          "market_cap": 239622290214
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 80.92,
-          "change_24h": -3.47,
-          "change_7d": -6.12,
-          "market_cap": 46785580657
+          "price": 80.81,
+          "change_24h": -3.32,
+          "change_7d": -5.52,
+          "market_cap": 46799860281
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.098117,
-          "change_24h": -3.79,
-          "change_7d": -7.13,
-          "market_cap": 15150832960
+          "price": 0.097796,
+          "change_24h": -3.77,
+          "change_7d": -6.43,
+          "market_cap": 15143993323
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.230281,
-          "change_24h": -3.89,
-          "change_7d": -7.08,
-          "market_cap": 8520828224
+          "price": 0.231202,
+          "change_24h": -3.29,
+          "change_7d": -6.52,
+          "market_cap": 8577116353
         }
       ]
     },
@@ -214,12 +214,7 @@
         {
           "name": "Bonk",
           "symbol": "BONK",
-          "market_cap_rank": 109
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "market_cap_rank": 111
         },
         {
           "name": "Hyperliquid",
@@ -229,37 +224,42 @@
         {
           "name": "Stellar",
           "symbol": "XLM",
-          "market_cap_rank": 22
+          "market_cap_rank": 19
         },
         {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 85
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 107
-        },
-        {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 30
-        },
-        {
-          "name": "XMAQUINA",
-          "symbol": "DEUS",
-          "market_cap_rank": 762
+          "market_cap_rank": 106
         },
         {
           "name": "NEAR Protocol",
           "symbol": "NEAR",
           "market_cap_rank": 34
+        },
+        {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 15
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 39
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Pump.fun",
+          "symbol": "PUMP",
+          "market_cap_rank": 93
         }
       ]
     },
@@ -268,16 +268,41 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 4,
+      "items": [
+        {
+          "title": "Fed signals rates may stay steady amid sticky inflation and stronger growth",
+          "summary": "Fed Governor Lisa Cook said inflation remains elevated, with April PCE estimated at 3.8% year over year and core PCE at 3.3%, and argued the right course is to hold rates steady for now. Her remarks also said the labor market remains largely stable and that the risks are still tilted toward higher inflation.",
+          "source": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm"
+        },
+        {
+          "title": "Daily market focus remains on inflation, Treasury yields, and Fed commentary",
+          "summary": "Market calendars and trader notes highlighted U.S. inflation data, Fed commentary, and a move higher in the 10-year Treasury yield on renewed U.S.-Iran tensions. The same flow noted pressure on growth stocks when yields stayed elevated, with futures turning lower after a stronger-than-expected labor report in the session referenced.",
+          "source": "Trading Economics / Newsquawk",
+          "url": "https://tradingeconomics.com/united-states/calendar"
+        },
+        {
+          "title": "US equity watch: FedEx joins S&P 500 while Snowflake jumps and Salesforce falls on guidance",
+          "summary": "Institutional market notes flagged several notable stock moves, including FedEx being added to the S&P 500, Salesforce falling on guidance, Snowflake surging after results and an AWS deal, and Dell rising on a large Navy contract. HP Inc. also pared gains after narrowing its outlook, and Meta faced a large Kentucky claim.",
+          "source": "Newsquawk",
+          "url": "https://www.newsquawk.com"
+        },
+        {
+          "title": "Broad macro backdrop still centered on inflation and central-bank policy",
+          "summary": "The U.S. calendar showed ongoing attention to inflation prints, labor data, and Fed communications, underscoring that the market’s main macro driver remains the path of rates versus sticky inflation. The same calendar also showed yield-sensitive Treasury market activity and auction flow as part of the day’s rate backdrop.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/calendar"
+        }
+      ],
       "citations": [
         "https://tradingeconomics.com/united-states/calendar",
+        "https://www.newsquawk.com",
         "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
-        "https://www.youtube.com/watch?v=L05MA--xsXI",
-        "https://www.pmmi.org/podcast/the-economic-trends-every-business-should-watch",
+        "https://www.youtube.com/watch?v=XHPt9nJs_64",
         "https://www.fxstreet.com/economic-calendar",
         "https://www.oecd.org/en.html",
-        "https://www.brookings.edu/wp-content/uploads/2026/05/Ep-5-BPEA-Bink-Blandon.pdf"
+        "https://growthlab.hks.harvard.edu/wp-content/uploads/2026/05/2026-04-glwp-264-bolivia-economic-pivot-mining-english.pdf"
       ]
     },
     "crypto_news": {
@@ -287,12 +312,7 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": [
-        "https://www.youtube.com/watch?v=1giUPFyt__0",
-        "https://www.thestreet.com/crypto/markets/xrp-traders-withdraw-millions-of-dollars-in-24-hours",
-        "https://coinmarketcal.com/en/",
-        "https://www.binance.com/en/square/post/327736450440962"
-      ]
+      "citations": []
     },
     "ai_news": {
       "source": "perplexity",
@@ -302,13 +322,13 @@
       "count": 0,
       "items": [],
       "citations": [
+        "https://www.youtube.com/watch?v=W8ezRkM56lI",
         "https://eletric-vehicles.com/nuro/nuro-shows-lucid-robotaxi-in-testing-as-bay-area-launch-looms-video/",
-        "https://www.youtube.com/watch?v=HiwsOYISUsg",
-        "https://www.youtube.com/watch?v=A9jChUiMKvU",
+        "https://www.youtube.com/watch?v=kYkZI3oj2W4",
+        "https://www.youtube.com/watch?v=NdymTFHNPRo",
         "https://www.youtube.com/watch?v=vFpWqFypL5Y",
         "https://www.youtube.com/watch?v=C3lcadfxTio",
-        "https://www.cbsnews.com/video/former-obama-adviser-ben-rhodes-on-2015-iran-deal-trumps-war-in-iran/",
-        "https://www.cbsnews.com/video/5-of-7-people-stuck-in-laos-cave-for-more-than-a-week-found-alive-rescuers-say/"
+        "https://www.cbsnews.com/video/latest-details-washington-state-chemical-tank-rupture/"
       ]
     },
     "gaming": {
@@ -319,11 +339,12 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=JKkhsn09S0E",
+        "https://www.youtube.com/watch?v=3WZ5Nr-Pgbg",
+        "https://www.youtube.com/watch?v=i_JuZN3PXRc",
         "https://www.wral.com/sports/hurricanes-vs-montreal-game-four-eastern-conference-final-may-2026/",
-        "https://www.youtube.com/watch?v=RUlJXOA_87A",
-        "https://www.youtube.com/watch?v=K11KYH-dg30",
-        "https://www.patriots.com/video/patriots-hit-the-practice-field-for-otas-hype-video"
+        "https://www.youtube.com/watch?v=c0UZHFSz4WE",
+        "https://www.youtube.com/watch?v=dn93esf6EJ4",
+        "https://abc7chicago.com/watch/live/"
       ]
     },
     "tech_news": {
@@ -335,9 +356,10 @@
       "items": [],
       "citations": [
         "https://www.technewsworld.com",
-        "https://www.youtube.com/watch?v=JWS8bYZrtnQ",
         "https://www.engadget.com",
-        "https://www.brookings.edu/articles/why-is-the-u-s-outpacing-european-countries-in-ai-adoption/"
+        "https://www.komando.com",
+        "https://abcnews.com",
+        "https://www.oecd.org/en.html"
       ]
     }
   }
