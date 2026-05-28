@@ -1,23 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-05-28 13:16 UTC*
+*Generated: 2026-05-28 18:54 UTC*
 
-1. **Market Overview**: The cryptocurrency market has seen a decline in the past 24 hours, with major coins such as Bitcoin, Ethereum, and Solana experiencing losses. The Fed has signaled that interest rates may stay steady amid sticky inflation and stronger growth. The US equity market has seen notable movements, with FedEx joining the S&P 500 and Snowflake surging after results.
+1. **Market Overview**: The crypto market has experienced a significant decline, with Bitcoin and Ethereum hitting their lowest levels in over six weeks. The market has shed around $80 billion in value over the past 24 hours, largely due to renewed U.S. strikes on Iran and subsequent geopolitical risk. Major cryptocurrencies such as Bitcoin, Ethereum, Solana, Dogecoin, and Cardano have all seen declines in their prices, ranging from 1.08% to 6.56% over the past 7 days.
 
-2. **Tech & AI**: YouTube has announced that it will automatically label AI-generated videos. A study has found that five frontier LLMs disagree on 67% of 1k real-world fact-check claims. AMD has faced backlash from Linux users over Vivado licensing changes. Additionally, there have been discussions on the potential of AI in various fields, including its limitations and potential applications.
+2. **Tech & AI**: YouTube has announced that it will automatically label AI-generated videos, a move aimed at improving transparency for viewers and creators. Anthropic has raised $65 billion in Series H funding, valuing the company at $965 billion post-money. Additionally, OKX has launched a permissionless trading infrastructure on X Layer, and Base has introduced the MCP Agent Gateway for on-chain DeFi trading using Anthropic's Model Context Protocol.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
+3. **Gaming & Entertainment**: There is no significant gaming news for the past 24 hours.
 
 4. **Key Insights**:
-* The cryptocurrency market is experiencing a decline, with major coins losing value.
-* The Fed's decision to keep interest rates steady may impact the market.
-* AI-generated content is becoming increasingly prevalent, and YouTube's decision to label such content may have significant implications.
-* The limitations and potential applications of AI are being explored in various fields.
-* Companies such as Snowflake and Salesforce are making notable movements in the US equity market.
+* The crypto market is experiencing a downturn due to geopolitical tensions and risk-off sentiment.
+* YouTube's decision to label AI-generated videos could have significant implications for content creators and viewers.
+* Anthropic's massive funding round indicates the growing interest and investment in AI technology.
+* The launch of permissionless trading infrastructure and AI-driven tools for DeFi trading suggests a trend towards more open and automated trading systems.
+* Bitcoin ETF outflows and forced liquidations have contributed to the decline in crypto asset valuations.
 
 5. **Watch List**: 
-* Cryptocurrency market movements
-* Fed interest rate decisions
-* AI-generated content and its implications
-* Company earnings and announcements, such as Snowflake and Salesforce
-* Potential applications and limitations of AI in various fields
+* Geopolitical developments and their impact on the crypto market.
+* Regulatory updates on AI-generated content and its applications.
+* Further developments in permissionless trading infrastructure and AI-driven DeFi tools.
+* Anthropic's future plans and potential applications of its technology.
+* Bitcoin and Ethereum price movements and their potential impact on the broader crypto market.
