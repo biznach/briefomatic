@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T13:07:32.366016+00:00",
-  "generated_at_human": "2026-05-29 13:07 UTC",
+  "generated_at": "2026-05-29T18:54:16.286157+00:00",
+  "generated_at_human": "2026-05-29 18:54 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,118 @@
       "count": 25,
       "items": [
         {
+          "title": "SQLite is all you need for durable workflows",
+          "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+          "score": 60,
+          "comments": 20
+        },
+        {
+          "title": "Notes from the Mistral AI Now Summit in Paris",
+          "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+          "score": 176,
+          "comments": 38
+        },
+        {
+          "title": "The dead economy theory",
+          "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+          "score": 251,
+          "comments": 327
+        },
+        {
+          "title": "Bijou64: A variable-length integer encoding",
+          "url": "https://www.inkandswitch.com/tangents/bijou64/",
+          "score": 159,
+          "comments": 58
+        },
+        {
+          "title": "It's hard to justify buying a Framework 12",
+          "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+          "score": 94,
+          "comments": 181
+        },
+        {
+          "title": "GTA 6 Developers Unionize",
+          "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+          "score": 348,
+          "comments": 200
+        },
+        {
+          "title": "Rothko for your current weather conditions",
+          "url": "https://rothko.joonas.wtf/",
+          "score": 14,
+          "comments": 1
+        },
+        {
+          "title": "CAPTCHAs can still detect AI agents",
+          "url": "https://research.roundtable.ai/captchas-detect-ai/",
+          "score": 38,
+          "comments": 29
+        },
+        {
+          "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+          "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
+          "score": 116,
+          "comments": 38
+        },
+        {
+          "title": "I am retiring from tech to live offline",
+          "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+          "score": 548,
+          "comments": 378
+        },
+        {
           "title": "We should be more tired than the model",
           "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-          "score": 28,
-          "comments": 24
+          "score": 102,
+          "comments": 92
         },
         {
-          "title": "Tulip mania: when a single flower was worth more than a house",
-          "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
-          "score": 22,
-          "comments": 15
+          "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+          "url": "https://tvexplorer.live",
+          "score": 23,
+          "comments": 6
         },
         {
-          "title": "The UK Government's Low Value Purchase System Is a Waste of Time",
-          "url": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
-          "score": 20,
-          "comments": 4
+          "title": "Someone used my open source project to phish people",
+          "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
+          "score": 55,
+          "comments": 31
         },
         {
-          "title": "Claude Opus 4.8",
-          "url": "https://www.anthropic.com/news/claude-opus-4-8",
-          "score": 1617,
-          "comments": 1263
+          "title": "Expertise in the age of AI",
+          "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+          "score": 66,
+          "comments": 69
         },
         {
-          "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-          "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-          "score": 1079,
-          "comments": 494
+          "title": "ATLAS: Autoformalized Textbook Library At Scale",
+          "url": "https://github.com/facebookresearch/atlas-lean",
+          "score": 18,
+          "comments": 1
         },
         {
           "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
           "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-          "score": 67,
-          "comments": 38
+          "score": 176,
+          "comments": 78
         },
         {
-          "title": "Is This Sustainable?",
-          "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
-          "score": 37,
-          "comments": 29
+          "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+          "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+          "score": 15,
+          "comments": 0
+        },
+        {
+          "title": "To see to it that the forces of Napoleon are driven out of Spain (1809)",
+          "url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
+          "score": 5,
+          "comments": 0
+        },
+        {
+          "title": "Durable execution, the hard way",
+          "url": "https://github.com/hatchet-dev/durable-execution-the-hard-way",
+          "score": 36,
+          "comments": 1
         },
         {
           "title": "Cedana (YC S23) Is Hiring",
@@ -56,106 +128,34 @@
           "comments": 0
         },
         {
-          "title": "Is AI causing a repeat of Front end's Lost Decade?",
-          "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-          "score": 100,
-          "comments": 98
-        },
-        {
-          "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
-          "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-          "score": 195,
-          "comments": 35
-        },
-        {
-          "title": "I made a million dollar product from my dorm room (2025)",
-          "url": "https://nick.winans.io/blog/nice-nano/",
-          "score": 469,
-          "comments": 72
-        },
-        {
-          "title": "Orchestrating AI code review at scale",
-          "url": "https://blog.cloudflare.com/ai-code-review/",
-          "score": 43,
-          "comments": 17
-        },
-        {
-          "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-          "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-          "score": 252,
-          "comments": 127
-        },
-        {
-          "title": "Italians and Dutch share the same gestural instinct for teaching",
-          "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
-          "score": 89,
-          "comments": 37
-        },
-        {
-          "title": "Let's compile Quake like it's 1997",
-          "url": "https://fabiensanglard.net/compile_like_1997/",
-          "score": 76,
-          "comments": 32
-        },
-        {
-          "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
-          "url": "https://github.com/HeidiSQL/HeidiSQL",
-          "score": 57,
-          "comments": 16
-        },
-        {
-          "title": "Ten Basic Clouds",
-          "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-          "score": 145,
-          "comments": 40
-        },
-        {
-          "title": "Cars collect a startling amount of data about you",
-          "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-          "score": 400,
-          "comments": 192
-        },
-        {
-          "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-          "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-          "score": 278,
-          "comments": 95
-        },
-        {
-          "title": "Digital Identity Management in Norway Is a Catastrophe",
-          "url": "https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html",
-          "score": 25,
-          "comments": 5
-        },
-        {
-          "title": "Barthelme, the Houstonian",
-          "url": "https://www.theparisreview.org/blog/2026/05/22/barthelme-the-houstonian/",
-          "score": 16,
-          "comments": 2
-        },
-        {
-          "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-          "url": "https://llmgame.scalex.dev",
-          "score": 347,
-          "comments": 139
-        },
-        {
-          "title": "Blue Origin's New Glenn blows up during static fire test",
-          "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-          "score": 336,
-          "comments": 331
-        },
-        {
-          "title": "An Obsessive Focus on UX: Pilot's Pressure-Regulating Kire-Na Highlighter",
-          "url": "https://www.core77.com/posts/143832/An-Obsessive-Focus-on-UX-Pilots-Pressure-Regulating-Kire-Na-Highlighter",
-          "score": 3,
+          "title": "The Science of Weather and the Nature of Science",
+          "url": "https://www.the-hinternet.com/p/the-science-of-weather-and-the-nature",
+          "score": 10,
           "comments": 0
         },
         {
-          "title": "News about Raspberry Pi 6 and Microcontroller Development",
-          "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-          "score": 214,
-          "comments": 179
+          "title": "The Secret Garden of Rock-Paper-Scissors",
+          "url": "https://theshamblog.com/the-secret-garden-of-rock-paper-scissors/",
+          "score": 29,
+          "comments": 7
+        },
+        {
+          "title": "Tulip mania: when a single flower was worth more than a house (2025)",
+          "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
+          "score": 131,
+          "comments": 115
+        },
+        {
+          "title": "Poll: How often do you check \"newest\"?",
+          "url": "https://news.ycombinator.com/item?id=48322267",
+          "score": 54,
+          "comments": 68
+        },
+        {
+          "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
+          "url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
+          "score": 93,
+          "comments": 29
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 73139,
-          "change_24h": -0.18,
-          "change_7d": -5.51,
-          "market_cap": 1465220375635
+          "price": 73236,
+          "change_24h": -0.43,
+          "change_7d": -4.49,
+          "market_cap": 1471422282641
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1996.15,
-          "change_24h": 0.57,
-          "change_7d": -6.33,
-          "market_cap": 240780259430
+          "price": 2008.67,
+          "change_24h": -0.72,
+          "change_7d": -5.27,
+          "market_cap": 243140513939
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 81.25,
-          "change_24h": 0.2,
-          "change_7d": -6.76,
-          "market_cap": 47014146946
+          "price": 81.92,
+          "change_24h": -1.0,
+          "change_7d": -5.5,
+          "market_cap": 47597392203
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.098363,
-          "change_24h": 0.33,
-          "change_7d": -7.6,
-          "market_cap": 15206804856
+          "price": 0.099654,
+          "change_24h": -0.3,
+          "change_7d": -5.89,
+          "market_cap": 15410012861
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.231812,
-          "change_24h": 0.11,
-          "change_7d": -8.59,
-          "market_cap": 8579937368
+          "price": 0.231568,
+          "change_24h": -1.81,
+          "change_7d": -7.01,
+          "market_cap": 8579023999
         }
       ]
     },
@@ -214,7 +214,7 @@
         {
           "name": "Bonk",
           "symbol": "BONK",
-          "market_cap_rank": 110
+          "market_cap_rank": 107
         },
         {
           "name": "Aptos",
@@ -227,39 +227,39 @@
           "market_cap_rank": 11
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 105
+        },
+        {
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 138
         },
         {
           "name": "Allora",
           "symbol": "ALLO",
-          "market_cap_rank": 414
+          "market_cap_rank": 438
         },
         {
-          "name": "XMAQUINA",
-          "symbol": "DEUS",
-          "market_cap_rank": 650
-        },
-        {
-          "name": "Stellar",
-          "symbol": "XLM",
-          "market_cap_rank": 17
-        },
-        {
-          "name": "LAB",
-          "symbol": "LAB",
-          "market_cap_rank": 115
-        },
-        {
-          "name": "Octra",
-          "symbol": "OCT",
-          "market_cap_rank": 355
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "market_cap_rank": 32
         },
         {
           "name": "Zcash",
           "symbol": "ZEC",
           "market_cap_rank": 15
+        },
+        {
+          "name": "Nockchain",
+          "symbol": "NOCK",
+          "market_cap_rank": 289
+        },
+        {
+          "name": "Pump.fun",
+          "symbol": "PUMP",
+          "market_cap_rank": 90
         }
       ]
     },
@@ -270,7 +270,12 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": []
+      "citations": [
+        "https://setkab.go.id/en/address-of-the-president-of-the-republic-of-indonesia-on-the-presentation-of-the-macroeconomic-framework-kem-and-fiscal-policy-principles-ppkf-for-the-2027-state-budget-bill-rapbn-before-the-ple/",
+        "https://www.citadelsecurities.com/news-and-insights/back-on-the-strait-and-narrow/",
+        "https://www.dallasfed.org/research/wei",
+        "https://www.oecd.org/en.html"
+      ]
     },
     "crypto_news": {
       "source": "perplexity",
@@ -280,11 +285,10 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.tradingkey.com/analysis/cryptocurrencies/more/261934024-crypto-stellar-xlm-ripple-xrp-rwa-price-prediction-tvl-tradingkey",
-        "https://www.youtube.com/watch?v=zwWIqL1VEyY",
         "https://www.youtube.com/watch?v=N89tLRFFSIc",
-        "https://bitcoinfoundation.org/news/bitcoin/bitcoin-whales-stop-buying-as-btc-price-slides-below-74k/",
-        "https://www.binance.com/en/price/bitcoin"
+        "https://www.binance.com/en-TR/square/post/328318179806210",
+        "https://www.investing.com/analysis/crypto-just-enough-optimism-to-halt-the-decline-200681169",
+        "https://www.glo.texas.gov/sites/default/files/documents/archives/essay-contest-2026/student-guardian-submissions/desk22.pdf"
       ]
     },
     "ai_news": {
@@ -295,9 +299,10 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.aboutamazon.com/what-we-do/artificial-intelligence-ai",
-        "https://forum.dfinity.org/t/the-autonomous-machine-cloud-on-icp/69978",
-        "https://www.braze.com/resources/articles/ai-marketing-software"
+        "https://www.youtube.com/watch?v=MkzUPtYjgBY",
+        "https://www.youtube.com/watch?v=hs4BgtnUBjk",
+        "https://www.youtube.com/watch?v=OrTvaqhRaeQ",
+        "https://www.cbsnews.com/video/doj-investigating-outside-funding-e-jean-carroll-received-lawsuits-against-trump/"
       ]
     },
     "gaming": {
@@ -308,11 +313,12 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=Fgy8vvcolIU",
-        "https://www.youtube.com/watch?v=SEXzdLtmIe4",
-        "https://www.youtube.com/watch?v=jQI57vnwhnQ",
-        "https://www.ncaa.com/video/softball/2026-05-29/walk-finish-marathon-nebraska-arkansas-wcws-battle-full-bottom-10th",
-        "https://www.youtube.com/watch?v=TpUpIgSy9Sc"
+        "https://www.youtube.com/watch?v=rwSqOLw-jAM",
+        "https://www.ncaa.com/video/softball/2026-05-28/dii-softball-finals-thriller-ends-walk-error",
+        "https://www.youtube.com/watch?v=TpUpIgSy9Sc",
+        "https://www.youtube.com/watch?v=xDPvcxoJh58",
+        "https://www.youtube.com/watch?v=6AkbgvmETGk",
+        "https://abc7chicago.com/watch/live/"
       ]
     },
     "tech_news": {
@@ -323,11 +329,7 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.technewsworld.com",
-        "https://www.engadget.com",
-        "https://abcnews.com",
-        "https://www.youtube.com/watch?v=CEACUVzeHvQ",
-        "https://www.techuk.org"
+        "https://www.technewsworld.com"
       ]
     }
   }
