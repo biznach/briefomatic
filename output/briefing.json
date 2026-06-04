@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T19:21:48.866302+00:00",
-  "generated_at_human": "2026-06-03 19:21 UTC",
+  "generated_at": "2026-06-04T00:56:49.381776+00:00",
+  "generated_at_human": "2026-06-04 00:56 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,64 +8,130 @@
       "count": 25,
       "items": [
         {
+          "title": "Elixir v1.20: Now a gradually typed language",
+          "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+          "score": 511,
+          "comments": 178
+        },
+        {
           "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-          "score": 426,
-          "comments": 148
+          "score": 662,
+          "comments": 285
         },
         {
           "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
           "url": "https://burntsushi.net/encephalitis/",
-          "score": 219,
-          "comments": 42
+          "score": 475,
+          "comments": 135
         },
         {
-          "title": "Elixir v1.20 released: now a gradually typed language",
-          "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-          "score": 29,
+          "title": "The Ü Programming Language",
+          "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
+          "score": 18,
+          "comments": 7
+        },
+        {
+          "title": "The ways we contain Claude across products",
+          "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+          "score": 8,
           "comments": 2
         },
         {
-          "title": "ESP32-S31",
-          "url": "https://www.espressif.com/en/products/socs/esp32-s31",
-          "score": 171,
-          "comments": 81
+          "title": "Artificial intelligence is not conscious – Ted Chiang",
+          "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+          "score": 193,
+          "comments": 366
         },
         {
           "title": "DaVinci Resolve 21",
           "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-          "score": 261,
-          "comments": 131
+          "score": 382,
+          "comments": 180
+        },
+        {
+          "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+          "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+          "score": 353,
+          "comments": 450
+        },
+        {
+          "title": "Ableton Extensions SDK",
+          "url": "https://www.ableton.com/en/live/extensions/",
+          "score": 60,
+          "comments": 26
+        },
+        {
+          "title": "Meteor Explodes over Massachusetts",
+          "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
+          "score": 34,
+          "comments": 12
+        },
+        {
+          "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+          "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+          "score": 641,
+          "comments": 101
+        },
+        {
+          "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+          "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+          "score": 25,
+          "comments": 14
         },
         {
           "title": "Gooey: A GPU-accelerated UI framework for Zig",
           "url": "https://github.com/duanebester/gooey",
-          "score": 54,
-          "comments": 7
-        },
-        {
-          "title": "Stop Killing Games",
-          "url": "https://jxself.org/stop-killing-games.shtml",
-          "score": 26,
-          "comments": 6
-        },
-        {
-          "title": "Hacking your PC using your speaker without ever touching it",
-          "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-          "score": 532,
-          "comments": 91
+          "score": 131,
+          "comments": 44
         },
         {
           "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
           "url": "https://news.ycombinator.com/item?id=48387095",
-          "score": 24,
-          "comments": 19
+          "score": 49,
+          "comments": 54
         },
         {
           "title": "A Post-Quantum Future for Let's Encrypt",
           "url": "https://letsencrypt.org/2026/06/03/pq-certs",
-          "score": 142,
-          "comments": 76
+          "score": 214,
+          "comments": 120
+        },
+        {
+          "title": "A Man Who Reads Books for a Living (One Every Two Days)",
+          "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+          "score": 68,
+          "comments": 46
+        },
+        {
+          "title": "A Mathematician's Lament – Paul Lockhart (2002) [pdf]",
+          "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
+          "score": 25,
+          "comments": 1
+        },
+        {
+          "title": "ESP32-S31",
+          "url": "https://www.espressif.com/en/products/socs/esp32-s31",
+          "score": 243,
+          "comments": 140
+        },
+        {
+          "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+          "url": "https://github.com/tastyeffectco/sandboxes",
+          "score": 42,
+          "comments": 9
+        },
+        {
+          "title": "Patching my guitar amp's firmware",
+          "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+          "score": 24,
+          "comments": 1
+        },
+        {
+          "title": "Stop Killing Games",
+          "url": "https://jxself.org/stop-killing-games.shtml",
+          "score": 183,
+          "comments": 173
         },
         {
           "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
@@ -74,88 +140,22 @@
           "comments": 0
         },
         {
-          "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-          "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-          "score": 134,
-          "comments": 156
-        },
-        {
           "title": "Angular v22",
           "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
-          "score": 42,
-          "comments": 17
-        },
-        {
-          "title": "Fluid Simulation for Dummies",
-          "url": "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html",
-          "score": 39,
-          "comments": 10
+          "score": 102,
+          "comments": 49
         },
         {
           "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
           "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
-          "score": 14,
-          "comments": 0
+          "score": 47,
+          "comments": 2
         },
         {
-          "title": "MacBook Neo Is So Popular That Apple Doubled Production",
-          "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-          "score": 138,
-          "comments": 107
-        },
-        {
-          "title": "Bot vs human traffic",
-          "url": "https://radar.cloudflare.com/traffic#bot-vs-human",
-          "score": 97,
-          "comments": 40
-        },
-        {
-          "title": "Every Byte Matters",
-          "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-          "score": 198,
-          "comments": 99
-        },
-        {
-          "title": "Meta workers can opt out of being tracked at work up to 30 min",
-          "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-          "score": 545,
-          "comments": 513
-        },
-        {
-          "title": "PlayStation Architecture",
-          "url": "https://www.copetti.org/writings/consoles/playstation/",
-          "score": 199,
-          "comments": 40
-        },
-        {
-          "title": "What I've learned about the trombone",
-          "url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
-          "score": 66,
-          "comments": 55
-        },
-        {
-          "title": "Rootshell: A new E2EE email service hosted in Iceland",
-          "url": "https://rootshell.is",
-          "score": 4,
-          "comments": 1
-        },
-        {
-          "title": "Mathematicians issue warning as AI rapidly gains ground",
-          "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-          "score": 84,
-          "comments": 117
-        },
-        {
-          "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-          "url": "https://blog.ammaraskar.com/github-token-stealing/",
-          "score": 612,
-          "comments": 95
-        },
-        {
-          "title": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
-          "url": "https://github.com/loadingalias/rscrypto",
-          "score": 18,
-          "comments": 6
+          "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
+          "url": "https://brume.aftertone.co/",
+          "score": 45,
+          "comments": 22
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 65847,
-          "change_24h": -1.84,
-          "change_7d": -12.07,
-          "market_cap": 1320190296231
+          "price": 63102,
+          "change_24h": -5.68,
+          "change_7d": -15.13,
+          "market_cap": 1263803460278
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1821.52,
-          "change_24h": -4.57,
-          "change_7d": -11.06,
-          "market_cap": 220117944762
+          "price": 1787.18,
+          "change_24h": -4.28,
+          "change_7d": -11.64,
+          "market_cap": 215619657441
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 72.48,
-          "change_24h": -4.45,
-          "change_7d": -13.33,
-          "market_cap": 41965524613
+          "price": 70.51,
+          "change_24h": -5.78,
+          "change_7d": -14.55,
+          "market_cap": 40862638999
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.092431,
-          "change_24h": -1.56,
-          "change_7d": -8.9,
-          "market_cap": 14284427895
+          "price": 0.090384,
+          "change_24h": -2.96,
+          "change_7d": -10.06,
+          "market_cap": 13977312153
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.207211,
-          "change_24h": -3.64,
-          "change_7d": -13.24,
-          "market_cap": 7702774082
+          "price": 0.19705,
+          "change_24h": -7.71,
+          "change_7d": -16.81,
+          "market_cap": 7326333763
         }
       ]
     },
@@ -214,42 +214,22 @@
         {
           "name": "Bonk",
           "symbol": "BONK",
-          "market_cap_rank": 112
-        },
-        {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 115
-        },
-        {
-          "name": "NEAR Protocol",
-          "symbol": "NEAR",
-          "market_cap_rank": 30
-        },
-        {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 75
+          "market_cap_rank": 114
         },
         {
           "name": "Worldcoin",
           "symbol": "WLD",
-          "market_cap_rank": 50
-        },
-        {
-          "name": "LAB",
-          "symbol": "LAB",
-          "market_cap_rank": 22
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 10
+          "market_cap_rank": 48
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 114
+          "market_cap_rank": 113
+        },
+        {
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 74
         },
         {
           "name": "Bitcoin",
@@ -257,9 +237,29 @@
           "market_cap_rank": 1
         },
         {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 10
+        },
+        {
           "name": "Cardano",
           "symbol": "ADA",
           "market_cap_rank": 16
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "LAB",
+          "symbol": "LAB",
+          "market_cap_rank": 22
+        },
+        {
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 117
         }
       ]
     },
@@ -270,50 +270,20 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": [
-        "https://tradingeconomics.com/united-states/calendar",
-        "https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6/full-report/general-assessment-of-the-macroeconomic-situation_fe9bdcd6.html",
-        "https://www.marketplace.org"
-      ]
+      "citations": []
     },
     "crypto_news": {
       "source": "perplexity",
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "Bitcoin falls below $66K amid geopolitical shock and heavy liquidations",
-          "summary": "Bitcoin dropped about 7% on the day to around $65.4K, its lowest level since late March, as renewed U.S.-Iran strikes rattled risk assets. Coinglass data cited in the report shows roughly 277,000 traders were liquidated over 24 hours, with total liquidations near $1.83 billion and the vast majority in long positions.",
-          "source": "Binance Square",
-          "url": "https://www.binance.com/en/square/post/330045401495457"
-        },
-        {
-          "title": "Crypto market rout wipes out billions as Bitcoin, Ether and Solana lead liquidations",
-          "summary": "A broader crypto selloff pushed total market value down sharply, with Bitcoin falling from about $73.8K to below $67K and Ethereum and XRP also declining. The report says more than 266,000 traders were liquidated in 24 hours, with Bitcoin, Ether, and Solana the most heavily liquidated assets.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/crypto/markets/bitcoin-crash-wipes-out-billions-in-market-rout"
-        },
-        {
-          "title": "Strategy’s 32 BTC sale weighs on sentiment as market weakness deepens",
-          "summary": "Market sentiment worsened after Strategy disclosed it sold 32 BTC to fund preferred stock dividend payments, marking its first net reduction in Bitcoin holdings in more than three years. The report also cites broader weakness in crypto-related equities, including Coinbase and Robinhood, alongside a slide in total crypto market capitalization.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=CuYSQQ6T5vI"
-        },
-        {
-          "title": "Crypto market value falls further as investors reassess risk appetite",
-          "summary": "The crypto market lost roughly 5% over the past 24 hours, falling to about $2.32 trillion after briefly slipping lower during Asian trading. The analysis frames the move as part of an ongoing selloff rather than a single-asset event.",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/analysis/the-crypto-market-is-falling--is-it-approaching-a-final-selloff-200681423"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.binance.com/en/square/post/330045401495457",
-        "https://www.thestreet.com/crypto/markets/bitcoin-crash-wipes-out-billions-in-market-rout",
-        "https://www.youtube.com/watch?v=CuYSQQ6T5vI",
-        "https://www.investing.com/analysis/the-crypto-market-is-falling--is-it-approaching-a-final-selloff-200681423",
-        "https://afghanpost.gov.af/wiki/does-stacks-affect-ethereum-value-contrast-market-impact"
+        "https://www.youtube.com/watch?v=v5OzPTZw2Ok",
+        "https://www.newsnow.co.uk/h/Business+&+Finance/Cryptocurrencies",
+        "https://cryptopotato.com/crypto-news/",
+        "https://www.investing.com/analysis/the-crypto-market-is-falling--is-it-approaching-a-final-selloff-200681423"
       ]
     },
     "ai_news": {
@@ -321,13 +291,34 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 3,
+      "items": [
+        {
+          "title": "Cisco says AI is driving a “network supercycle”",
+          "summary": "Cisco executive Jeetu Patel said rising AI data demands, AI agents, and tighter security requirements are creating a new demand cycle for networking infrastructure. The comment highlights how AI deployment is increasingly shaping enterprise network spending and vendor strategy.",
+          "source": "Light Reading",
+          "url": "https://www.lightreading.com/ai-machine-learning/cisco-ai-driving-a-network-supercycle-"
+        },
+        {
+          "title": "arXiv lists new machine learning submissions, including ICML 2026-accepted work",
+          "summary": "The latest arXiv machine learning feed includes several new papers, such as research on resource-constrained adaptive inference, few-shot pulsar noise prediction, and synthetic network generation. It also shows at least one paper accepted at ICML 2026, signaling ongoing conference-driven momentum in the field.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/list/stat.ML/recent"
+        },
+        {
+          "title": "Machine learning labor-market impact remains limited, despite AI hype",
+          "summary": "A recent analysis argues there is still scant evidence that AI has caused large-scale disruption in the U.S. labor market. The piece says jobs most exposed to AI do not yet show worse unemployment outcomes than less-exposed occupations, suggesting current disruption is still mostly speculative.",
+          "source": "Machine Learning Times",
+          "url": "https://www.predictiveanalyticsworld.com/machinelearningtimes/a-reality-check-on-the-ai-jobs-hysteria/14185/"
+        }
+      ],
       "citations": [
         "https://www.lightreading.com/ai-machine-learning/cisco-ai-driving-a-network-supercycle-",
+        "https://arxiv.org/list/stat.ML/recent",
         "https://www.predictiveanalyticsworld.com/machinelearningtimes/a-reality-check-on-the-ai-jobs-hysteria/14185/",
-        "https://www.dailykos.com/stories/2026/6/3/800049687/community/ai-is-not-artificial-intelligence-it-is-machine-learning/",
-        "https://www.youtube.com/watch?v=CrLLPoChI1s"
+        "https://www.youtube.com/watch?v=CrLLPoChI1s",
+        "https://www.unesco.org/en/digital-education/artificial-intelligence",
+        "https://structures.uni-heidelberg.de/news.php?showId=370"
       ]
     },
     "gaming": {
@@ -339,10 +330,9 @@
       "items": [],
       "citations": [
         "https://gamerant.com/gaming/",
-        "https://www.youtube.com/watch?v=axZ4X2JMhXA",
-        "https://www.youtube.com/watch?v=gYk0AvYRBuQ",
-        "https://www.youtube.com/watch?v=DS2zQCnDjHk",
-        "https://www.cbsnews.com/video/trump-perturbed-by-israels-fighting-in-lebanon/"
+        "https://www.youtube.com/watch?v=tQMVvPfr238",
+        "https://www.youtube.com/watch?v=I9WurP8APRg",
+        "https://www.mensjournal.com/entertainment/24-years-ago-capcom-released-one-of-the-worst-video-games-ever-made"
       ]
     },
     "tech_news": {
@@ -352,11 +342,7 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": [
-        "http://www.technewsworld.com",
-        "https://www.youtube.com/watch?v=QzK1BUayq8Q",
-        "https://www.youtube.com/watch?v=RbrvLCVrEzY"
-      ]
+      "citations": []
     }
   }
 }
