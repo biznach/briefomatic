@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T13:03:34.721278+00:00",
-  "generated_at_human": "2026-06-05 13:03 UTC",
+  "generated_at": "2026-06-05T18:41:15.730988+00:00",
+  "generated_at_human": "2026-06-05 18:41 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,106 @@
       "count": 25,
       "items": [
         {
-          "title": "US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
-          "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
-          "score": 105,
-          "comments": 79
+          "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+          "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+          "score": 242,
+          "comments": 160
         },
         {
-          "title": "Did Claude Increase Bugs in Rsync?",
-          "url": "https://alexispurslane.github.io/rsync-analysis/",
-          "score": 39,
-          "comments": 16
+          "title": "pg_durable: Microsoft open sources in-database durable execution",
+          "url": "https://github.com/microsoft/pg_durable",
+          "score": 159,
+          "comments": 37
+        },
+        {
+          "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+          "score": 104,
+          "comments": 18
+        },
+        {
+          "title": "Adyen Selected as Payment Services Provider for GOV.UK Pay",
+          "url": "https://www.adyen.com/press-and-media/adyen-payments-gov-uk",
+          "score": 40,
+          "comments": 2
+        },
+        {
+          "title": "Conventional Commits encourages focus on the wrong things",
+          "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+          "score": 157,
+          "comments": 116
+        },
+        {
+          "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+          "url": "https://mouseless.click",
+          "score": 314,
+          "comments": 155
+        },
+        {
+          "title": "I tested every IP KVM in my Homelab",
+          "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+          "score": 141,
+          "comments": 40
+        },
+        {
+          "title": "New method turns ocean water into drinking water, without waste",
+          "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+          "score": 55,
+          "comments": 26
+        },
+        {
+          "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
+          "url": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
+          "score": 13,
+          "comments": 4
+        },
+        {
+          "title": "Mantine-datatable (and others) compromised – owner account suspended",
+          "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
+          "score": 37,
+          "comments": 8
+        },
+        {
+          "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+          "url": "https://news.ycombinator.com/item?id=48414869",
+          "score": 20,
+          "comments": 9
+        },
+        {
+          "title": "Cooldown Support for Ruby Bundler",
+          "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+          "score": 110,
+          "comments": 27
+        },
+        {
+          "title": "My Agent Skill for Test-Driven Development",
+          "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+          "score": 8,
+          "comments": 0
         },
         {
           "title": "Tracing a powerful GNSS interference source over Europe",
           "url": "https://arxiv.org/abs/2606.03673",
-          "score": 162,
-          "comments": 53
+          "score": 312,
+          "comments": 155
         },
         {
-          "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-          "url": "https://redis.io/blog/announcing-redis-8-8/",
-          "score": 49,
-          "comments": 12
+          "title": "Inside FAISS: Billion-Scale Similarity Search",
+          "url": "https://fremaconsulting.ch/blog/faiss",
+          "score": 6,
+          "comments": 0
         },
         {
-          "title": "Changing How We Develop Ladybird",
-          "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-          "score": 461,
-          "comments": 304
+          "title": "Gov.uk goes Dutch on payments as it dumps Stripe",
+          "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+          "score": 79,
+          "comments": 20
         },
         {
-          "title": "databow: a Rust CLI to query any database with an ADBC driver",
-          "url": "https://columnar.tech/blog/introducing-databow//",
-          "score": 67,
-          "comments": 14
-        },
-        {
-          "title": "Fine-tuning an LLM to write docs like it's 1995",
-          "url": "https://passo.uno/fine-tuning-docs-llm/",
-          "score": 104,
-          "comments": 43
+          "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
+          "url": "https://sakana.ai/rsi-lab/",
+          "score": 9,
+          "comments": 7
         },
         {
           "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
@@ -56,106 +116,46 @@
           "comments": 0
         },
         {
-          "title": "Meta enables ADB on deprecated Portal devices [video]",
-          "url": "https://fb.watch/HxPu0fSyeH/",
-          "score": 245,
-          "comments": 92
+          "title": "Did Claude increase bugs in rsync?",
+          "url": "https://alexispurslane.github.io/rsync-analysis/",
+          "score": 89,
+          "comments": 82
         },
         {
-          "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-          "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-          "score": 59,
-          "comments": 49
-        },
-        {
-          "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
-          "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-          "score": 57,
-          "comments": 25
-        },
-        {
-          "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-          "url": "https://github.com/anthropics/defending-code-reference-harness",
-          "score": 461,
-          "comments": 127
-        },
-        {
-          "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
-          "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
-          "score": 56,
-          "comments": 10
-        },
-        {
-          "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-          "url": "https://mouseless.click",
-          "score": 7,
-          "comments": 1
-        },
-        {
-          "title": "The IsUpMap lets you check the status of over 100 major sites at once",
-          "url": "https://isupmap.com/",
-          "score": 85,
-          "comments": 30
-        },
-        {
-          "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-          "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+          "title": "India's surprise baby bust",
+          "url": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
           "score": 45,
-          "comments": 21
+          "comments": 171
         },
         {
-          "title": "C++: The Documentary",
-          "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-          "score": 208,
-          "comments": 129
+          "title": "Dutch gov't will only allow European company to operate DigiD platform",
+          "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+          "score": 165,
+          "comments": 54
+        },
+        {
+          "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+          "url": "https://redis.io/blog/announcing-redis-8-8/",
+          "score": 173,
+          "comments": 80
+        },
+        {
+          "title": "Do the Hardest Thing",
+          "url": "https://justinjackson.ca/hard-thing",
+          "score": 12,
+          "comments": 4
+        },
+        {
+          "title": "\"Maybe later\" was a feature",
+          "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
+          "score": 4,
+          "comments": 0
         },
         {
           "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
           "url": "https://github.com/zdk/lowfat",
-          "score": 15,
-          "comments": 5
-        },
-        {
-          "title": "Open Code Review – An AI-powered code review CLI tool",
-          "url": "https://github.com/alibaba/open-code-review",
-          "score": 212,
-          "comments": 61
-        },
-        {
-          "title": "Do transformers need three projections? Systematic study of QKV variants",
-          "url": "https://arxiv.org/abs/2606.04032",
-          "score": 186,
-          "comments": 35
-        },
-        {
-          "title": "I'm skeptical about efforts to revolutionize schooling",
-          "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-          "score": 218,
-          "comments": 322
-        },
-        {
-          "title": "Ohbin – uv wrapper for installing tools from GitHub",
-          "url": "https://github.com/prostomarkeloff/ohbin",
-          "score": 21,
-          "comments": 10
-        },
-        {
-          "title": "Watching a Z80 from an RP2350",
-          "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
-          "score": 29,
-          "comments": 5
-        },
-        {
-          "title": "At the Autograph Show",
-          "url": "https://oldster.substack.com/p/at-the-autograph-show",
-          "score": 7,
-          "comments": 0
-        },
-        {
-          "title": "WiFi Time",
-          "url": "https://mitxela.com/projects/wifi_time",
-          "score": 104,
-          "comments": 5
+          "score": 59,
+          "comments": 44
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 61945,
-          "change_24h": -2.71,
-          "change_7d": -15.37,
-          "market_cap": 1240759525600
+          "price": 60249,
+          "change_24h": -5.69,
+          "change_7d": -18.52,
+          "market_cap": 1204218219578
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1660.0,
-          "change_24h": -6.57,
-          "change_7d": -16.88,
-          "market_cap": 200347012910
+          "price": 1570.35,
+          "change_24h": -11.45,
+          "change_7d": -22.49,
+          "market_cap": 188873769478
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 65.82,
-          "change_24h": -5.98,
-          "change_7d": -19.16,
-          "market_cap": 38011968787
+          "price": 63.9,
+          "change_24h": -8.19,
+          "change_7d": -22.74,
+          "market_cap": 36899878782
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.08355,
-          "change_24h": -6.52,
-          "change_7d": -15.43,
-          "market_cap": 12874147893
+          "price": 0.081158,
+          "change_24h": -9.36,
+          "change_7d": -19.05,
+          "market_cap": 12526451671
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.162374,
-          "change_24h": -15.21,
-          "change_7d": -30.27,
-          "market_cap": 6033832430
+          "price": 0.159442,
+          "change_24h": -15.94,
+          "change_7d": -32.1,
+          "market_cap": 5916739706
         }
       ]
     },
@@ -214,37 +214,7 @@
         {
           "name": "Zcash",
           "symbol": "ZEC",
-          "market_cap_rank": 21
-        },
-        {
-          "name": "Babylon",
-          "symbol": "BABY",
-          "market_cap_rank": 329
-        },
-        {
-          "name": "Worldcoin",
-          "symbol": "WLD",
-          "market_cap_rank": 45
-        },
-        {
-          "name": "NEAR Protocol",
-          "symbol": "NEAR",
-          "market_cap_rank": 38
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 10
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 113
+          "market_cap_rank": 18
         },
         {
           "name": "Bitcoin",
@@ -252,14 +222,44 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 33
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 10
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 114
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "market_cap_rank": 39
         },
         {
           "name": "Monero",
           "symbol": "XMR",
-          "market_cap_rank": 16
+          "market_cap_rank": 17
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 43
+        },
+        {
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 123
         }
       ]
     },
@@ -277,59 +277,68 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
-      "citations": []
+      "count": 6,
+      "items": [
+        {
+          "title": "Crypto market cap falls to $2.17T as extreme fear intensifies",
+          "summary": "The total crypto market capitalization fell to $2.17 trillion, down 3.02% in 24 hours, while the Crypto Fear & Greed Index dropped to 18, signaling “Extreme Fear.” Bitcoin slipped 0.78% to about $63,426.82 and Ethereum fell 3.11% to about $1,736.23.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/330783875800369"
+        },
+        {
+          "title": "24-hour crypto volume weakens as DeFi TVL declines",
+          "summary": "The same market update reported 24-hour crypto trading volume down 15.42% to $122.15 billion, alongside a 1.98% decline in DeFi total value locked to $73.113 billion. Lido remained the largest DeFi protocol by TVL, though it also fell on the day.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/330783875800369"
+        },
+        {
+          "title": "Bitcoin derivatives selloff accelerates crypto market decline",
+          "summary": "A derivatives liquidation event reportedly wiped out about $1.8 billion in crypto positions in 24 hours, contributing to a broader market selloff. The coverage frames the move as a key driver behind Bitcoin’s recent weakness.",
+          "source": "Morningstar Nordics",
+          "url": "https://global.morningstar.com/en-nd/markets/why-is-bitcoin-plunging"
+        },
+        {
+          "title": "Dogecoin drops below key support as altcoin weakness deepens",
+          "summary": "Dogecoin fell about 4.48% in 24 hours to roughly $0.086, extending a monthly slide of more than 25% and breaking below the psychologically important $0.10 level. The report describes the move as part of a broader altcoin selloff.",
+          "source": "Pluang",
+          "url": "https://pluang.com/en/news-feed/dogecoin-turun-5-persen-mencapai-level-terendah-4-bulan-bisakah-pembeli-dip"
+        },
+        {
+          "title": "Coinbase partners with Fannie Mae on early crypto-backed mortgage effort",
+          "summary": "Coinbase reportedly partnered with Fannie Mae to introduce an early crypto-backed mortgage initiative. If implemented as described, it would mark a notable step toward integrating digital assets into mainstream housing finance.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/330783875800369"
+        },
+        {
+          "title": "Ripple and Wormhole expand RLUSD across more than 40 blockchain networks",
+          "summary": "Ripple announced a collaboration with Wormhole to support the multi-chain rollout of its native RLUSD stablecoin. The expansion is aimed at availability across more than 40 blockchain networks.",
+          "source": "Binance Square",
+          "url": "https://www.binance.com/en/square/post/330783875800369"
+        }
+      ],
+      "citations": [
+        "https://www.binance.com/en/square/post/330783875800369",
+        "https://www.youtube.com/watch?v=8-RYU4zOEeg",
+        "https://mof.gov.af/wiki/can-aave-price-fall-further-top-market-factors-to-watch",
+        "https://pluang.com/en/news-feed/dogecoin-turun-5-persen-mencapai-level-terendah-4-bulan-bisakah-pembeli-dip",
+        "https://global.morningstar.com/en-nd/markets/why-is-bitcoin-plunging"
+      ]
     },
     "ai_news": {
       "source": "perplexity",
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
-      "items": [
-        {
-          "title": "Meta reportedly hires four more OpenAI researchers",
-          "summary": "A new report says Meta has hired four additional researchers from OpenAI, continuing its aggressive push to recruit top AI talent. The development highlights intensifying competition among major AI labs for frontier model expertise.",
-          "source": "AI News Updates (Economic Times)",
-          "url": "https://ai.economictimes.com"
-        },
-        {
-          "title": "OpenAI’s ChatGPT experienced a service outage",
-          "summary": "Users reported that ChatGPT was down and prompts were failing to load, indicating a temporary reliability issue affecting the service. The report underscores ongoing operational challenges even for leading AI products.",
-          "source": "AI News Updates (Economic Times)",
-          "url": "https://ai.economictimes.com"
-        },
-        {
-          "title": "Apple reportedly plans to open up its underlying AI models",
-          "summary": "A report indicates Apple may begin making its underlying AI models more accessible, suggesting a possible shift in how the company integrates and exposes its AI technology. If confirmed, the move would mark a notable development in Apple’s AI strategy.",
-          "source": "AI News Updates (Economic Times)",
-          "url": "https://ai.economictimes.com"
-        },
-        {
-          "title": "Nvidia and Fei-Fei Li back Generalist’s $400 million robotics round",
-          "summary": "AI robotics company Generalist raised $400 million at a reported $2 billion valuation, with participation from Nvidia’s NVentures, Fei-Fei Li, Bezos Expeditions, and others. The company said the funding will support new models, more physical data, and expanded training infrastructure for AI robotics.",
-          "source": "Silicon Republic",
-          "url": "https://www.siliconrepublic.com/start-ups/nvidia-fei-fei-li-back-generalists-400m-round-to-scale-ai-robotics"
-        },
-        {
-          "title": "New machine learning papers continue to appear on arXiv",
-          "summary": "arXiv’s recent machine learning listings include work on adaptive learning rates, TD(0) convergence, nonlinear constraints, and other topics, showing continued active research output across core ML subfields. These postings reflect ongoing academic momentum rather than a single major product announcement.",
-          "source": "arXiv",
-          "url": "https://arxiv.org/list/stat.ML/recent"
-        },
-        {
-          "title": "Commentary notes concern over Anthropic’s latest coding-speed findings",
-          "summary": "A recent AI commentary piece discusses Anthropic’s new blog and the interpretation of its coding speed-up results, which some readers have taken as evidence against an AI performance wall. The post suggests the results should not be overread as settling the broader debate.",
-          "source": "Marcus on AI",
-          "url": "https://garymarcus.substack.com/p/no-need-to-panic-about-anthropics"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://ai.economictimes.com",
-        "https://www.siliconrepublic.com/start-ups/nvidia-fei-fei-li-back-generalists-400m-round-to-scale-ai-robotics",
-        "https://arxiv.org/list/stat.ML/recent",
-        "https://garymarcus.substack.com/p/no-need-to-panic-about-anthropics"
+        "https://www.youtube.com/watch?v=EKULOf_Cy0w",
+        "https://www.youtube.com/watch?v=Mw60FH5iflI",
+        "https://www.youtube.com/watch?v=mjmswQurIU4",
+        "https://www.youtube.com/watch?v=7Sfvm358aAY",
+        "https://www.youtube.com/watch?v=Uh0TE6nZs5A",
+        "https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm",
+        "https://www.cbsnews.com/video/tom-homan-speaks-delaney-hall-ice-facility-conditions-new-jersey/"
       ]
     },
     "gaming": {
@@ -341,12 +350,12 @@
       "items": [],
       "citations": [
         "https://www.youtube.com/watch?v=3SMBdY3qmVA",
-        "https://www.youtube.com/watch?v=ql1yRf-HloE",
-        "https://www.youtube.com/watch?v=w_d2RhT37IY",
+        "https://www.youtube.com/watch?v=3uYi25qnC0g",
+        "https://www.youtube.com/watch?v=h5Z3jjJ8uC4",
+        "https://www.wral.com/sports/hurricanes-stanley-cup-final-game-two-vs-vegas-golden-knights-june-2026/",
         "https://www.foxnews.com/video/6397580169112",
         "https://www.cbsnews.com/video/3-women-who-dated-graham-platner-recall-unsettling-behavior-new-york-times-reports/",
-        "https://www.youtube.com/watch?v=BH71XgtcirY",
-        "https://www.vikings.com/video/ota-practice-june-4-2026-press-conference"
+        "https://www.youtube.com/watch?v=HARhFB2goNk"
       ]
     },
     "tech_news": {
@@ -356,13 +365,7 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": [
-        "https://scitechdaily.com",
-        "https://www.youtube.com/watch?v=Aq-T46RcyyE",
-        "https://www.youtube.com/watch?v=Pnptmeu_Ggs",
-        "https://www.darpa.mil",
-        "https://chss.wwu.edu/history/kylee-bronson-outstanding-graduate"
-      ]
+      "citations": []
     }
   }
 }
