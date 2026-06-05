@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T07:32:13.278221+00:00",
-  "generated_at_human": "2026-06-05 07:32 UTC",
+  "generated_at": "2026-06-05T13:03:34.721278+00:00",
+  "generated_at_human": "2026-06-05 13:03 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "C++: The Documentary",
-          "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-          "score": 67,
-          "comments": 8
+          "title": "US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
+          "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
+          "score": 105,
+          "comments": 79
         },
         {
-          "title": "Meta enables ADB on deprecated Portal devices [video]",
-          "url": "https://fb.watch/HxPu0fSyeH/",
-          "score": 199,
-          "comments": 61
+          "title": "Did Claude Increase Bugs in Rsync?",
+          "url": "https://alexispurslane.github.io/rsync-analysis/",
+          "score": 39,
+          "comments": 16
+        },
+        {
+          "title": "Tracing a powerful GNSS interference source over Europe",
+          "url": "https://arxiv.org/abs/2606.03673",
+          "score": 162,
+          "comments": 53
+        },
+        {
+          "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+          "url": "https://redis.io/blog/announcing-redis-8-8/",
+          "score": 49,
+          "comments": 12
+        },
+        {
+          "title": "Changing How We Develop Ladybird",
+          "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+          "score": 461,
+          "comments": 304
+        },
+        {
+          "title": "databow: a Rust CLI to query any database with an ADBC driver",
+          "url": "https://columnar.tech/blog/introducing-databow//",
+          "score": 67,
+          "comments": 14
         },
         {
           "title": "Fine-tuning an LLM to write docs like it's 1995",
           "url": "https://passo.uno/fine-tuning-docs-llm/",
-          "score": 25,
-          "comments": 6
+          "score": 104,
+          "comments": 43
+        },
+        {
+          "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+          "url": "https://nango.dev/careers",
+          "score": 1,
+          "comments": 0
+        },
+        {
+          "title": "Meta enables ADB on deprecated Portal devices [video]",
+          "url": "https://fb.watch/HxPu0fSyeH/",
+          "score": 245,
+          "comments": 92
+        },
+        {
+          "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+          "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+          "score": 59,
+          "comments": 49
+        },
+        {
+          "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+          "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+          "score": 57,
+          "comments": 25
         },
         {
           "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
           "url": "https://github.com/anthropics/defending-code-reference-harness",
-          "score": 387,
-          "comments": 112
+          "score": 461,
+          "comments": 127
         },
         {
-          "title": "Open Code Review – An AI-powered code review CLI tool",
-          "url": "https://github.com/alibaba/open-code-review",
-          "score": 154,
-          "comments": 31
+          "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
+          "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
+          "score": 56,
+          "comments": 10
         },
         {
-          "title": "Do transformers need three projections? Systematic study of QKV variants",
-          "url": "https://arxiv.org/abs/2606.04032",
-          "score": 151,
-          "comments": 31
+          "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+          "url": "https://mouseless.click",
+          "score": 7,
+          "comments": 1
         },
         {
           "title": "The IsUpMap lets you check the status of over 100 major sites at once",
           "url": "https://isupmap.com/",
-          "score": 19,
-          "comments": 6
+          "score": 85,
+          "comments": 30
         },
         {
-          "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
-          "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
-          "score": 98,
-          "comments": 65
+          "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
+          "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+          "score": 45,
+          "comments": 21
+        },
+        {
+          "title": "C++: The Documentary",
+          "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+          "score": 208,
+          "comments": 129
+        },
+        {
+          "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+          "url": "https://github.com/zdk/lowfat",
+          "score": 15,
+          "comments": 5
+        },
+        {
+          "title": "Open Code Review – An AI-powered code review CLI tool",
+          "url": "https://github.com/alibaba/open-code-review",
+          "score": 212,
+          "comments": 61
+        },
+        {
+          "title": "Do transformers need three projections? Systematic study of QKV variants",
+          "url": "https://arxiv.org/abs/2606.04032",
+          "score": 186,
+          "comments": 35
         },
         {
           "title": "I'm skeptical about efforts to revolutionize schooling",
           "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-          "score": 151,
-          "comments": 227
+          "score": 218,
+          "comments": 322
         },
         {
-          "title": "WiFi Time",
-          "url": "https://mitxela.com/projects/wifi_time",
-          "score": 49,
-          "comments": 2
+          "title": "Ohbin – uv wrapper for installing tools from GitHub",
+          "url": "https://github.com/prostomarkeloff/ohbin",
+          "score": 21,
+          "comments": 10
         },
         {
           "title": "Watching a Z80 from an RP2350",
           "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
-          "score": 9,
+          "score": 29,
+          "comments": 5
+        },
+        {
+          "title": "At the Autograph Show",
+          "url": "https://oldster.substack.com/p/at-the-autograph-show",
+          "score": 7,
           "comments": 0
         },
         {
-          "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-          "url": "https://tiki.li/blog/blqsort",
-          "score": 162,
-          "comments": 35
-        },
-        {
-          "title": "Delacroix's Entry of the Crusaders into Constantinople Restored",
-          "url": "https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory",
-          "score": 17,
-          "comments": 4
-        },
-        {
-          "title": "Magenta RealTime 2: Open and Local Live Music Models",
-          "url": "https://magenta.withgoogle.com/magenta-realtime-2",
-          "score": 21,
-          "comments": 4
-        },
-        {
-          "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-          "score": 478,
-          "comments": 223
-        },
-        {
-          "title": "Linear Cosine Palettes(2025)",
-          "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
-          "score": 12,
-          "comments": 0
-        },
-        {
-          "title": "Go Experiments Explained",
-          "url": "https://www.alexedwards.net/blog/go-experiments-explained",
-          "score": 21,
-          "comments": 8
-        },
-        {
-          "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
-          "url": "https://github.com/tarpediem/zenvision-linux",
-          "score": 47,
-          "comments": 10
-        },
-        {
-          "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-          "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
-          "score": 54,
-          "comments": 34
-        },
-        {
-          "title": "Samurai City",
-          "url": "https://worksinprogress.co/issue/samurai-city/",
-          "score": 151,
-          "comments": 29
-        },
-        {
-          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-          "score": 435,
-          "comments": 574
-        },
-        {
-          "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-          "url": "https://github.com/huawei-csl/KVarN",
-          "score": 130,
-          "comments": 13
-        },
-        {
-          "title": "VoidZero Is Joining Cloudflare",
-          "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-          "score": 625,
-          "comments": 272
-        },
-        {
-          "title": "Queen bees emerge from special wax chambers",
-          "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
-          "score": 70,
-          "comments": 10
-        },
-        {
-          "title": "The Causes of Long Covid",
-          "url": "https://www.science.org/content/blog-post/causes-long-covid",
-          "score": 103,
-          "comments": 58
+          "title": "WiFi Time",
+          "url": "https://mitxela.com/projects/wifi_time",
+          "score": 104,
+          "comments": 5
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 62236,
-          "change_24h": -2.3,
-          "change_7d": -15.52,
-          "market_cap": 1246923580458
+          "price": 61945,
+          "change_24h": -2.71,
+          "change_7d": -15.37,
+          "market_cap": 1240759525600
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1656.0,
-          "change_24h": -6.89,
-          "change_7d": -17.83,
-          "market_cap": 199663964923
+          "price": 1660.0,
+          "change_24h": -6.57,
+          "change_7d": -16.88,
+          "market_cap": 200347012910
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 65.36,
-          "change_24h": -6.09,
-          "change_7d": -20.44,
-          "market_cap": 37557487476
+          "price": 65.82,
+          "change_24h": -5.98,
+          "change_7d": -19.16,
+          "market_cap": 38011968787
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.083693,
-          "change_24h": -6.26,
-          "change_7d": -15.79,
-          "market_cap": 12928301858
+          "price": 0.08355,
+          "change_24h": -6.52,
+          "change_7d": -15.43,
+          "market_cap": 12874147893
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.162871,
-          "change_24h": -17.0,
-          "change_7d": -30.87,
-          "market_cap": 5994048085
+          "price": 0.162374,
+          "change_24h": -15.21,
+          "change_7d": -30.27,
+          "market_cap": 6033832430
         }
       ]
     },
@@ -217,9 +217,19 @@
           "market_cap_rank": 21
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Babylon",
+          "symbol": "BABY",
+          "market_cap_rank": 329
+        },
+        {
+          "name": "Worldcoin",
+          "symbol": "WLD",
+          "market_cap_rank": 45
+        },
+        {
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "market_cap_rank": 38
         },
         {
           "name": "Hyperliquid",
@@ -232,34 +242,24 @@
           "market_cap_rank": 7
         },
         {
-          "name": "NEAR Protocol",
-          "symbol": "NEAR",
-          "market_cap_rank": 38
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 113
         },
         {
-          "name": "Cardano",
-          "symbol": "ADA",
-          "market_cap_rank": 16
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 43
-        },
-        {
-          "name": "Worldcoin",
-          "symbol": "WLD",
-          "market_cap_rank": 45
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 33
         },
         {
           "name": "Monero",
           "symbol": "XMR",
-          "market_cap_rank": 17
+          "market_cap_rank": 16
         }
       ]
     },
@@ -270,14 +270,7 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": [
-        "https://www.dailymotion.com/video/xad642m",
-        "https://www.weforum.org/podcasts/radio-davos/episodes/financial-fragmentation/",
-        "https://www.bostonfed.org/publications/current-policy-perspectives/2026/reassessing-us-economys-vulnerability-oil-shocks.aspx",
-        "https://www.youtube.com/watch?v=GCCIsCuypu8",
-        "https://equityedgeresearch.substack.com/p/the-thermometer-as-a-macroeconomic",
-        "https://gsu.qualtrics.com/jfe/file/v2/5de8c0372b21732d8956bdb770605aeaad0412b4bea28aa3a1ee0de8bbb43067/0103ac0c9c18050a29b1779762e79a2942e366f1ae40586e2499690902baef29/F_2qvGebefqn14n9u?staged=1"
-      ]
+      "citations": []
     },
     "crypto_news": {
       "source": "perplexity",
@@ -286,23 +279,57 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": [
-        "https://www.binance.com/en/square/post/330610638883330",
-        "https://www.youtube.com/watch?v=Nt0RBal4pR0"
-      ]
+      "citations": []
     },
     "ai_news": {
       "source": "perplexity",
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 6,
+      "items": [
+        {
+          "title": "Meta reportedly hires four more OpenAI researchers",
+          "summary": "A new report says Meta has hired four additional researchers from OpenAI, continuing its aggressive push to recruit top AI talent. The development highlights intensifying competition among major AI labs for frontier model expertise.",
+          "source": "AI News Updates (Economic Times)",
+          "url": "https://ai.economictimes.com"
+        },
+        {
+          "title": "OpenAI’s ChatGPT experienced a service outage",
+          "summary": "Users reported that ChatGPT was down and prompts were failing to load, indicating a temporary reliability issue affecting the service. The report underscores ongoing operational challenges even for leading AI products.",
+          "source": "AI News Updates (Economic Times)",
+          "url": "https://ai.economictimes.com"
+        },
+        {
+          "title": "Apple reportedly plans to open up its underlying AI models",
+          "summary": "A report indicates Apple may begin making its underlying AI models more accessible, suggesting a possible shift in how the company integrates and exposes its AI technology. If confirmed, the move would mark a notable development in Apple’s AI strategy.",
+          "source": "AI News Updates (Economic Times)",
+          "url": "https://ai.economictimes.com"
+        },
+        {
+          "title": "Nvidia and Fei-Fei Li back Generalist’s $400 million robotics round",
+          "summary": "AI robotics company Generalist raised $400 million at a reported $2 billion valuation, with participation from Nvidia’s NVentures, Fei-Fei Li, Bezos Expeditions, and others. The company said the funding will support new models, more physical data, and expanded training infrastructure for AI robotics.",
+          "source": "Silicon Republic",
+          "url": "https://www.siliconrepublic.com/start-ups/nvidia-fei-fei-li-back-generalists-400m-round-to-scale-ai-robotics"
+        },
+        {
+          "title": "New machine learning papers continue to appear on arXiv",
+          "summary": "arXiv’s recent machine learning listings include work on adaptive learning rates, TD(0) convergence, nonlinear constraints, and other topics, showing continued active research output across core ML subfields. These postings reflect ongoing academic momentum rather than a single major product announcement.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/list/stat.ML/recent"
+        },
+        {
+          "title": "Commentary notes concern over Anthropic’s latest coding-speed findings",
+          "summary": "A recent AI commentary piece discusses Anthropic’s new blog and the interpretation of its coding speed-up results, which some readers have taken as evidence against an AI performance wall. The post suggests the results should not be overread as settling the broader debate.",
+          "source": "Marcus on AI",
+          "url": "https://garymarcus.substack.com/p/no-need-to-panic-about-anthropics"
+        }
+      ],
       "citations": [
         "https://ai.economictimes.com",
+        "https://www.siliconrepublic.com/start-ups/nvidia-fei-fei-li-back-generalists-400m-round-to-scale-ai-robotics",
         "https://arxiv.org/list/stat.ML/recent",
-        "https://garymarcus.substack.com/p/no-need-to-panic-about-anthropics",
-        "https://www.aboutamazon.com/what-we-do/artificial-intelligence-ai"
+        "https://garymarcus.substack.com/p/no-need-to-panic-about-anthropics"
       ]
     },
     "gaming": {
@@ -313,13 +340,13 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=CdS_TjJl_Ec",
-        "https://www.youtube.com/watch?v=RISw8Y7Ijxc",
-        "https://www.joblo.com/interview-jason-mewes/",
+        "https://www.youtube.com/watch?v=3SMBdY3qmVA",
+        "https://www.youtube.com/watch?v=ql1yRf-HloE",
+        "https://www.youtube.com/watch?v=w_d2RhT37IY",
         "https://www.foxnews.com/video/6397580169112",
-        "https://www.youtube.com/watch?v=-jz0Pqqaiwo",
-        "https://www.buccaneers.com/video/ota-standouts-and-takeaways-back-in-the-building-bucs-insider",
-        "https://www.youtube.com/watch?v=gulLIGsOoV0"
+        "https://www.cbsnews.com/video/3-women-who-dated-graham-platner-recall-unsettling-behavior-new-york-times-reports/",
+        "https://www.youtube.com/watch?v=BH71XgtcirY",
+        "https://www.vikings.com/video/ota-practice-june-4-2026-press-conference"
       ]
     },
     "tech_news": {
@@ -330,10 +357,11 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=ShBJvbBRkPs",
-        "https://www.techmeme.com/?full=t",
-        "https://www.youtube.com/watch?v=p22yGXatASs",
-        "https://homeland.house.gov/wp-content/uploads/2026/06/2026-06-04-CIP-AI-Hearing.pdf"
+        "https://scitechdaily.com",
+        "https://www.youtube.com/watch?v=Aq-T46RcyyE",
+        "https://www.youtube.com/watch?v=Pnptmeu_Ggs",
+        "https://www.darpa.mil",
+        "https://chss.wwu.edu/history/kylee-bronson-outstanding-graduate"
       ]
     }
   }
