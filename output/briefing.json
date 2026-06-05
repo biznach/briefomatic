@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T18:48:41.471142+00:00",
-  "generated_at_human": "2026-06-04 18:48 UTC",
+  "generated_at": "2026-06-05T00:49:21.195474+00:00",
+  "generated_at_human": "2026-06-05 00:49 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,58 +8,112 @@
       "count": 25,
       "items": [
         {
+          "title": "Do transformers need three projections? Systematic study of QKV variants",
+          "url": "https://arxiv.org/abs/2606.04032",
+          "score": 59,
+          "comments": 9
+        },
+        {
+          "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+          "url": "https://github.com/anthropics/defending-code-reference-harness",
+          "score": 238,
+          "comments": 78
+        },
+        {
           "title": "VoidZero Is Joining Cloudflare",
           "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-          "score": 422,
-          "comments": 205
+          "score": 561,
+          "comments": 254
         },
         {
-          "title": "Retro-Tech Parenting",
-          "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-          "score": 92,
-          "comments": 39
+          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+          "score": 306,
+          "comments": 403
         },
         {
-          "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-          "url": "https://github.com/huawei-csl/KVarN",
-          "score": 72,
+          "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+          "url": "https://tiki.li/blog/blqsort",
+          "score": 73,
           "comments": 7
         },
         {
-          "title": "The desperation of NYTimes",
-          "url": "https://rozumem.xyz/posts/16",
-          "score": 147,
-          "comments": 123
+          "title": "Queen bees emerge from special wax chambers",
+          "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+          "score": 33,
+          "comments": 2
         },
         {
           "title": "Ian's Secure Shoelace Knot",
           "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-          "score": 343,
-          "comments": 140
+          "score": 495,
+          "comments": 189
         },
         {
-          "title": "They’re made out of weights",
-          "url": "https://maxleiter.com/blog/weights",
-          "score": 1239,
-          "comments": 543
+          "title": "I'm skeptical about efforts to revolutionize schooling",
+          "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+          "score": 38,
+          "comments": 56
         },
         {
-          "title": "Sum-product, unit distances, and number fields",
-          "url": "https://www.erdosproblems.com/forum/thread/blog:6",
-          "score": 24,
+          "title": "IPv6 zones in URLs are a mistake",
+          "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+          "score": 72,
+          "comments": 62
+        },
+        {
+          "title": "Retro-Tech Parenting",
+          "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+          "score": 235,
+          "comments": 163
+        },
+        {
+          "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+          "url": "https://github.com/huawei-csl/KVarN",
+          "score": 112,
+          "comments": 12
+        },
+        {
+          "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+          "url": "https://arxiv.org/abs/2604.24881",
+          "score": 8,
           "comments": 0
         },
         {
-          "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-          "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-          "score": 621,
-          "comments": 593
+          "title": "WSL 2 is getting faster Windows file system access",
+          "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+          "score": 41,
+          "comments": 30
         },
         {
-          "title": "U.S. Army Corps of Engineers Bay Model",
-          "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-          "score": 166,
-          "comments": 44
+          "title": "Castor: CERN Advanced STORage Manager",
+          "url": "https://castor.web.cern.ch/content/home.html",
+          "score": 41,
+          "comments": 18
+        },
+        {
+          "title": "External Clock Generation on RTX 50 Series",
+          "url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
+          "score": 8,
+          "comments": 2
+        },
+        {
+          "title": "Samurai City",
+          "url": "https://worksinprogress.co/issue/samurai-city/",
+          "score": 93,
+          "comments": 14
+        },
+        {
+          "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+          "url": "https://www.mercek.dev/",
+          "score": 17,
+          "comments": 4
+        },
+        {
+          "title": "JLink JTAG Access on the Pinecil",
+          "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+          "score": 35,
+          "comments": 6
         },
         {
           "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
@@ -68,94 +122,40 @@
           "comments": 0
         },
         {
-          "title": "Gaussian Point Splatting",
-          "url": "https://momentsingraphics.de/Siggraph2026.html",
-          "score": 149,
-          "comments": 54
+          "title": "Making Debian or Fedora persistent live images",
+          "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
+          "score": 58,
+          "comments": 6
         },
         {
-          "title": "12,060 piece, $799.99, Sagrada Família is the largest Lego building set to date",
-          "url": "https://www.lego.com/en-us/product/sagrada-familia-21065",
-          "score": 92,
-          "comments": 75
+          "title": "Meta's ships facial recognition on smart glasses",
+          "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+          "score": 215,
+          "comments": 195
         },
         {
-          "title": "3D-printed book turns its own G-code into raised lettering",
-          "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
-          "score": 44,
-          "comments": 22
+          "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+          "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+          "score": 71,
+          "comments": 23
+        },
+        {
+          "title": "Sum-product, unit distances, and number fields",
+          "url": "https://www.erdosproblems.com/forum/thread/blog:6",
+          "score": 54,
+          "comments": 13
         },
         {
           "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
           "url": "https://uruky.com/?il=en",
-          "score": 159,
-          "comments": 155
+          "score": 205,
+          "comments": 193
         },
         {
-          "title": "Elixir v1.20: Now a gradually typed language",
-          "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-          "score": 926,
-          "comments": 369
-        },
-        {
-          "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-          "score": 983,
-          "comments": 367
-        },
-        {
-          "title": "In a first, wind and solar generated more power than gas globally in April 2026",
-          "url": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
-          "score": 257,
-          "comments": 233
-        },
-        {
-          "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
-          "url": "https://github.com/remysucre/prela",
-          "score": 47,
-          "comments": 12
-        },
-        {
-          "title": "Making Debian or Fedora persistent live images",
-          "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
-          "score": 10,
-          "comments": 0
-        },
-        {
-          "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
-          "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-          "score": 340,
-          "comments": 101
-        },
-        {
-          "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-          "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-          "score": 350,
-          "comments": 184
-        },
-        {
-          "title": "Artificial intelligence is not conscious – Ted Chiang",
-          "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-          "score": 666,
-          "comments": 1160
-        },
-        {
-          "title": "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
-          "url": "https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77",
-          "score": 146,
-          "comments": 34
-        },
-        {
-          "title": "Kiki – a tiny homepage construction kit with a small footprint",
-          "url": "https://tomotama.com/kiki",
-          "score": 101,
-          "comments": 61
-        },
-        {
-          "title": "Ask HN: So what happened to Facebook \"localhost\" tracking?",
-          "url": "https://news.ycombinator.com/item?id=48397731",
-          "score": 49,
-          "comments": 60
+          "title": "Mornings and nights no longer exist at 47C: A day in the hottest place in India",
+          "url": "https://www.bbc.co.uk/news/articles/crmp0krp98ro",
+          "score": 109,
+          "comments": 78
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 63882,
-          "change_24h": -3.19,
-          "change_7d": -13.03,
-          "market_cap": 1279333427492
+          "price": 63701,
+          "change_24h": 0.83,
+          "change_7d": -13.38,
+          "market_cap": 1275504162891
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1773.25,
-          "change_24h": -3.08,
-          "change_7d": -11.79,
-          "market_cap": 213896420686
+          "price": 1769.07,
+          "change_24h": -1.08,
+          "change_7d": -11.88,
+          "market_cap": 213332869600
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 69.49,
-          "change_24h": -4.62,
-          "change_7d": -15.49,
-          "market_cap": 40209638034
+          "price": 68.89,
+          "change_24h": -2.58,
+          "change_7d": -15.93,
+          "market_cap": 39786675793
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.089442,
-          "change_24h": -3.22,
-          "change_7d": -9.89,
-          "market_cap": 13819752994
+          "price": 0.088423,
+          "change_24h": -2.34,
+          "change_7d": -11.04,
+          "market_cap": 13650317533
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.189648,
-          "change_24h": -8.86,
-          "change_7d": -19.08,
-          "market_cap": 7046222237
+          "price": 0.177406,
+          "change_24h": -10.16,
+          "change_7d": -24.2,
+          "market_cap": 6571824620
         }
       ]
     },
@@ -214,32 +214,7 @@
         {
           "name": "Bonk",
           "symbol": "BONK",
-          "market_cap_rank": 117
-        },
-        {
-          "name": "Worldcoin",
-          "symbol": "WLD",
-          "market_cap_rank": 45
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 113
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 10
-        },
-        {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 81
+          "market_cap_rank": 116
         },
         {
           "name": "Zcash",
@@ -247,19 +222,44 @@
           "market_cap_rank": 15
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
-          "name": "Cardano",
-          "symbol": "ADA",
-          "market_cap_rank": 16
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 10
         },
         {
           "name": "NEAR Protocol",
           "symbol": "NEAR",
           "market_cap_rank": 33
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 47
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 43
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 114
+        },
+        {
+          "name": "LAB",
+          "symbol": "LAB",
+          "market_cap_rank": 30
+        },
+        {
+          "name": "Worldcoin",
+          "symbol": "WLD",
+          "market_cap_rank": 46
         }
       ]
     },
@@ -271,12 +271,10 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.ftportfolios.com/economicsblog/",
-        "https://www.pimco.com/us/en/insights/the-quiet-erosion-beneath-us-growth",
-        "https://www.investing.com/analysis/sp-500-win-streak-ends-as-macro-reality-reclaims-the-tape-200681480",
-        "https://www.bostonfed.org/publications/current-policy-perspectives/2026/reassessing-us-economys-vulnerability-oil-shocks",
-        "https://www.youtube.com/watch?v=9UEkd2woNfA",
-        "https://reports.weforum.org/docs/WEF_Deepening_Divides_2026.pdf"
+        "https://www.weforum.org/podcasts/radio-davos/episodes/financial-fragmentation/",
+        "https://www.bostonfed.org/publications/current-policy-perspectives/2026/reassessing-us-economys-vulnerability-oil-shocks.aspx",
+        "https://en.macromicro.me/blog/5-key-points-from-our-q1-meo-fault-lines-feedback-loops",
+        "https://www.youtube.com/watch?v=5jYCDzHbM6g"
       ]
     },
     "crypto_news": {
@@ -284,11 +282,43 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 5,
+      "items": [
+        {
+          "title": "Bitcoin falls sharply amid ETF outflows and broader crypto selloff",
+          "summary": "Bitcoin dropped toward the mid-$60,000 range as spot Bitcoin ETFs logged prolonged outflows and the market faced a broader liquidation wave. Related reports also linked the move to Mt. Gox-related transfers and heightened geopolitical risk affecting risk assets.",
+          "source": "NewsNow / WION News / Coinotag / Finance in Bold",
+          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
+        },
+        {
+          "title": "Treasury sanctions major Iranian cryptocurrency exchange",
+          "summary": "U.S. authorities expanded sanctions pressure on Iran’s crypto sector, with reports describing a major Iranian cryptocurrency exchange as a target. The move adds fresh regulatory and geopolitical pressure to the digital-asset market.",
+          "source": "Washington Examiner",
+          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
+        },
+        {
+          "title": "SEC digital-assets strategy signals continued focus on crypto oversight",
+          "summary": "The SEC’s 2026–2030 strategic plan places digital assets at the center of its regulatory agenda, underscoring that crypto oversight remains a priority. This adds to the day’s policy focus alongside other U.S. regulatory developments.",
+          "source": "CoinEdition",
+          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
+        },
+        {
+          "title": "Mastercard expands stablecoin settlement support",
+          "summary": "Mastercard reportedly expanded stablecoin settlement support to include Ripple’s RLUSD and Circle’s USDC, highlighting continued integration of crypto rails into mainstream payments. Separate reporting also said Mastercard is working with Visa and Stripe on stablecoin-related collaboration.",
+          "source": "Benzinga / Cryptopolitan",
+          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
+        },
+        {
+          "title": "Crypto industry lobbying intensifies around U.S. legislation",
+          "summary": "Defend Developers launched a PAC to support crypto developers as the CLARITY Act advances, while Coin Center said the BRCA is ready to become law. These developments point to active lobbying and legislative positioning across the U.S. crypto policy landscape.",
+          "source": "crypto.news / Coin Center",
+          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
+        }
+      ],
       "citations": [
         "https://www.newsnow.com/us/Business/Cryptocurrencies",
-        "https://cryptopotato.com/crypto-news/"
+        "https://www.youtube.com/watch?v=AEH_BI1CrII",
+        "https://www.youtube.com/watch?v=aw2bRa86MXc"
       ]
     },
     "ai_news": {
@@ -296,14 +326,56 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 7,
+      "items": [
+        {
+          "title": "Meta reportedly hires four more OpenAI researchers",
+          "summary": "Meta has reportedly recruited Shengjia Zhao, Jiahui Yu, Shuchao Bi, and Hongyu Ren from OpenAI, adding to its aggressive AI talent push. The move underscores the intensifying competition among frontier-model labs for specialized research staff.",
+          "source": "ET AI",
+          "url": "https://ai.economictimes.com"
+        },
+        {
+          "title": "Apple to open up underlying AI technology to developers",
+          "summary": "Apple is reportedly preparing to expose more of its underlying AI technology to third-party developers, a step that could expand the ecosystem around its on-device and cloud AI features. The announcement points to a broader trend of major platforms turning foundation-model capabilities into developer platforms.",
+          "source": "ET AI",
+          "url": "https://ai.economictimes.com"
+        },
+        {
+          "title": "OpenAI’s ChatGPT experiences outages",
+          "summary": "Users reported problems loading prompts in ChatGPT, indicating a service disruption affecting one of the most widely used AI products. The issue highlights the operational fragility of large-scale AI services as usage grows.",
+          "source": "ET AI",
+          "url": "https://ai.economictimes.com"
+        },
+        {
+          "title": "US-UAE AI data campus deal remains unresolved",
+          "summary": "Sources say the multi-billion-dollar AI data campus deal between the US and UAE is still far from finalized. The report reflects ongoing geopolitical and infrastructure competition around advanced AI compute capacity.",
+          "source": "ET AI",
+          "url": "https://ai.economictimes.com"
+        },
+        {
+          "title": "Generalist raises $400M for AI robotics expansion",
+          "summary": "Generalist, a US AI robotics company, raised $400 million at a reported $2 billion valuation to accelerate work on physical general intelligence. The round included NVentures, Bezos Expeditions, Fei-Fei Li, and Zoom CEO Eric Yuan, and the company said the capital will support new models, data infrastructure, and commercialization.",
+          "source": "Silicon Republic",
+          "url": "https://www.siliconrepublic.com/start-ups/nvidia-fei-fei-li-back-generalists-400m-round-to-scale-ai-robotics"
+        },
+        {
+          "title": "Recent arXiv machine learning papers point to active research on CoT, reinforcement learning, and diffusion models",
+          "summary": "Recent arXiv submissions include work on chain-of-thought theory in in-context learning, stabilizing linear Q-learning with target updates, and training diffusion models on incomplete tabular data. These preprints suggest continued momentum in core ML theory, reinforcement learning, and generative modeling.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/list/stat.ML/recent"
+        },
+        {
+          "title": "Scientists question the expanding role of AI in astrophysics research",
+          "summary": "A Science article highlights growing debate over how far AI tools should be integrated into astrophysics workflows, with some researchers warning about the risk of reducing human scientific contribution. The piece reflects a wider industry and academic trend: AI adoption is accelerating faster than consensus on governance and research norms.",
+          "source": "Science",
+          "url": "https://www.science.org/doi/10.1126/science.aej3885"
+        }
+      ],
       "citations": [
-        "https://www.youtube.com/watch?v=oWOz2htozfI",
+        "https://ai.economictimes.com",
+        "https://www.siliconrepublic.com/start-ups/nvidia-fei-fei-li-back-generalists-400m-round-to-scale-ai-robotics",
         "https://arxiv.org/list/stat.ML/recent",
-        "https://techrseries.com/guest-posts/five-tips-to-move-beyond-ai-hype-to-real-value/",
-        "http://block.xyz/careers/jobs/5198103008?gh_jid=5198103008",
-        "https://indatalabs.com/blog/ai-consulting-companies-in-usa"
+        "https://www.science.org/doi/10.1126/science.aej3885"
       ]
     },
     "gaming": {
@@ -311,65 +383,16 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 8,
-      "items": [
-        {
-          "title": "Sony State of Play reveals Bond game, Capcom's Pragmata release date, and Final Fantasy Tactics remaster",
-          "summary": "The June 2025 Sony State of Play showcased several major announcements, including 007 First Light, a release date for Pragmata, and the long-awaited reveal of Final Fantasy Tactics: The Ivalice Chronicles.",
-          "source": "DualShockers",
-          "url": "https://www.dualshockers.com/video-game-news/"
-        },
-        {
-          "title": "Xbox delayed Fable to February 2027",
-          "summary": "Microsoft said Fable will now launch in February 2027, pushing the long-running reboot back again after its earlier target window.",
-          "source": "YouTube / News Wave",
-          "url": "https://www.youtube.com/watch?v=8WC_M48gxx0"
-        },
-        {
-          "title": "Call of Duty: Modern Warfare 4 reportedly dated for October 23, 2026",
-          "summary": "Coverage in a recent gaming news roundup said the next Call of Duty entry is expected on October 23, 2026, for PC, PS5, and Xbox Series consoles.",
-          "source": "YouTube / This Week in Video Games",
-          "url": "https://www.youtube.com/watch?v=CdS_TjJl_Ec"
-        },
-        {
-          "title": "Nintendo Direct reportedly planned for next week",
-          "summary": "Multiple gaming news roundups say a Nintendo Direct is being rumored for the second week of June, though Nintendo has not officially confirmed one.",
-          "source": "NewsNow",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
-        },
-        {
-          "title": "Nintendo reportedly revising Switch 2 hardware with replaceable battery",
-          "summary": "A gaming news aggregator highlighted reports that Nintendo may be preparing a revised Switch 2 model, possibly including a replaceable battery.",
-          "source": "NewsNow",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
-        },
-        {
-          "title": "Xbox Game Pass adds nine new titles, including Starseeker: Astroneer Expeditions",
-          "summary": "Xbox announced the next wave of Game Pass titles, expanding the subscription catalog with nine new games led by Starseeker: Astroneer Expeditions.",
-          "source": "NewsNow",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
-        },
-        {
-          "title": "007 First Light sequel plans reportedly could involve Amazon Game Studios",
-          "summary": "Recent reporting suggests future Bond games after 007 First Light may be handled by MGM and potentially Amazon Game Studios.",
-          "source": "NewsNow",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
-        },
-        {
-          "title": "Asia and MENA gaming market forecast to grow to over $103 billion by 2030",
-          "summary": "GamesIndustry.biz reported that the Asia and MENA games market is projected to expand by 16.5% and exceed $103 billion by 2030.",
-          "source": "NewsNow / GamesIndustry.biz",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.dualshockers.com/video-game-news/",
         "https://www.youtube.com/watch?v=CdS_TjJl_Ec",
-        "https://www.newsnow.co.uk/h/Technology/Gaming",
         "https://www.youtube.com/watch?v=8WC_M48gxx0",
-        "https://gamerant.com",
-        "https://app22200.cloudwayssites.com",
-        "https://communities.epicgames.com/thread/v40-10-april-fools-update/eyEn/0"
+        "https://www.joblo.com/scary-movie-6-review-a-parody-film-where-the-laughs-are-nonexistent/",
+        "https://www.youtube.com/watch?v=k5UdyCCmunU",
+        "https://www.foxnews.com/video/6397580169112",
+        "https://www.youtube.com/watch?v=w_d2RhT37IY",
+        "https://www.cbsnews.com/video/early-details-on-john-bolton-plea-deal-over-mishandled-classified-documents-according-to-sources/"
       ]
     },
     "tech_news": {
@@ -379,13 +402,7 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": [
-        "https://www.youtube.com/watch?v=yTPGY13ym5s",
-        "https://www.youtube.com/watch?v=nsE53yWaBy4",
-        "https://scitechdaily.com",
-        "https://play.google.com/store/apps/details?id=com.toi.reader.activities&hl=en_US",
-        "https://thevisualcommunicationguy.com/2026/06/04/how-tech-has-revolutionised-business/"
-      ]
+      "citations": []
     }
   }
 }
