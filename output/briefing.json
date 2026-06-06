@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T12:29:49.120942+00:00",
-  "generated_at_human": "2026-06-06 12:29 UTC",
+  "generated_at": "2026-06-06T18:29:03.921318+00:00",
+  "generated_at_human": "2026-06-06 18:29 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,39 +8,87 @@
       "count": 25,
       "items": [
         {
-          "title": "There's still no point in gigabit broadband",
-          "url": "https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/",
-          "score": 20,
+          "title": "Zeroserve: A zero-config web server you can script with eBPF",
+          "url": "https://su3.io/posts/introducing-zeroserve",
+          "score": 61,
+          "comments": 10
+        },
+        {
+          "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+          "url": "https://twitter.com/lemire/status/2062880075117113739",
+          "score": 108,
+          "comments": 236
+        },
+        {
+          "title": "Moving beyond fork() + exec()",
+          "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+          "score": 172,
+          "comments": 145
+        },
+        {
+          "title": "Benchmarks in Leipzig",
+          "url": "https://arxiv.org/abs/2606.05818",
+          "score": 83,
           "comments": 36
+        },
+        {
+          "title": "You Can Run",
+          "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+          "score": 23,
+          "comments": 2
         },
         {
           "title": "Google will pay SpaceX $920M per month for compute",
           "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-          "score": 26,
-          "comments": 12
+          "score": 263,
+          "comments": 368
         },
         {
-          "title": "Zig Zen Update",
-          "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
-          "score": 90,
-          "comments": 27
+          "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+          "url": "https://pokeemerald.com/",
+          "score": 159,
+          "comments": 46
         },
         {
-          "title": "GrapheneOS user reported to authorities for using GrapheneOS",
-          "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
-          "score": 381,
-          "comments": 298
+          "title": "How LLMs work",
+          "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+          "score": 703,
+          "comments": 191
         },
         {
-          "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-          "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-          "score": 54,
-          "comments": 11
+          "title": "Running Python code in a sandbox with MicroPython and WASM",
+          "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+          "score": 33,
+          "comments": 14
         },
         {
-          "title": "Introduction – Rust for Python Programmers",
-          "url": "https://microsoft.github.io/RustTraining/python-book/",
-          "score": 15,
+          "title": "Police in England and Wales told to halt AI use in court statements",
+          "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+          "score": 78,
+          "comments": 25
+        },
+        {
+          "title": "Building Rust Procedural Macros from the Grounds Up",
+          "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+          "score": 53,
+          "comments": 10
+        },
+        {
+          "title": "The new bibliomaniacs",
+          "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+          "score": 50,
+          "comments": 36
+        },
+        {
+          "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+          "score": 1125,
+          "comments": 405
+        },
+        {
+          "title": "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
+          "url": "https://www.youtube.com/watch?v=rJ2gQ5Md60U",
+          "score": 29,
           "comments": 2
         },
         {
@@ -50,112 +98,64 @@
           "comments": 0
         },
         {
-          "title": "How LLMs work",
-          "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-          "score": 442,
-          "comments": 131
+          "title": "Summer of '85: DOSBOS is rejected by ANALOG Computing",
+          "url": "https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by",
+          "score": 14,
+          "comments": 3
         },
         {
-          "title": "Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]",
-          "url": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
-          "score": 19,
-          "comments": 14
+          "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+          "url": "https://arxiv.org/abs/2605.00414",
+          "score": 20,
+          "comments": 2
         },
         {
           "title": "The intracies of modern camera lens repair (2024)",
           "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-          "score": 191,
-          "comments": 65
-        },
-        {
-          "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-          "score": 653,
-          "comments": 214
-        },
-        {
-          "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-          "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-          "score": 103,
-          "comments": 34
-        },
-        {
-          "title": "Social Cache Busting",
-          "url": "https://www.autodidacts.io/social-cache-busting/",
-          "score": 59,
-          "comments": 14
+          "score": 219,
+          "comments": 82
         },
         {
           "title": "New method turns ocean water into drinking water, without waste",
           "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-          "score": 404,
-          "comments": 172
+          "score": 464,
+          "comments": 196
         },
         {
-          "title": "HISE – Toolkit for building VST plugins",
-          "url": "https://hise.dev",
-          "score": 6,
-          "comments": 1
+          "title": "Splash Is a Colour Format",
+          "url": "https://www.todepond.com/lab/splash/",
+          "score": 17,
+          "comments": 17
         },
         {
-          "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-          "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-          "score": 404,
-          "comments": 252
+          "title": "Python JIT project was asked to pause development",
+          "url": "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638",
+          "score": 63,
+          "comments": 21
+        },
+        {
+          "title": "US House lawmakers release draft bill to prohibit state AI rules",
+          "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+          "score": 88,
+          "comments": 48
+        },
+        {
+          "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+          "url": "https://uonr.github.io/poincake/",
+          "score": 23,
+          "comments": 5
         },
         {
           "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
           "url": "https://news.ycombinator.com/item?id=48406174",
-          "score": 376,
-          "comments": 697
+          "score": 472,
+          "comments": 846
         },
         {
-          "title": "pg_durable: Microsoft open sources in-database durable execution",
-          "url": "https://github.com/microsoft/pg_durable",
-          "score": 415,
-          "comments": 93
-        },
-        {
-          "title": "Did Claude increase bugs in rsync?",
-          "url": "https://alexispurslane.github.io/rsync-analysis/",
-          "score": 442,
-          "comments": 451
-        },
-        {
-          "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-          "score": 361,
-          "comments": 109
-        },
-        {
-          "title": "What 100k concurrent sandboxes has taught us so far",
-          "url": "https://www.computesdk.com/blog/scale-invitational-update/",
-          "score": 11,
-          "comments": 4
-        },
-        {
-          "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-          "url": "https://mouseless.click",
-          "score": 540,
-          "comments": 219
-        },
-        {
-          "title": "Azure Linux Desktop",
-          "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
-          "score": 22,
-          "comments": 10
-        },
-        {
-          "title": "The back cover of C++: The Language raises questions not answered by front cover",
-          "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-          "score": 111,
-          "comments": 34
-        },
-        {
-          "title": "Ten Years of Franz",
-          "url": "https://meetfranz.com/blog/ten-years-of-franz",
-          "score": 45,
-          "comments": 25
+          "title": "Social Cache Busting",
+          "url": "https://www.autodidacts.io/social-cache-busting/",
+          "score": 110,
+          "comments": 40
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 60755,
-          "change_24h": -2.28,
-          "change_7d": -17.34,
-          "market_cap": 1217876540316
+          "price": 60632,
+          "change_24h": 0.8,
+          "change_7d": -17.96,
+          "market_cap": 1213138038443
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1555.29,
-          "change_24h": -6.46,
-          "change_7d": -22.8,
-          "market_cap": 187737660541
+          "price": 1560.77,
+          "change_24h": -0.38,
+          "change_7d": -22.89,
+          "market_cap": 187896984241
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 62.3,
-          "change_24h": -5.47,
-          "change_7d": -24.23,
-          "market_cap": 36097327702
+          "price": 61.86,
+          "change_24h": -4.1,
+          "change_7d": -25.39,
+          "market_cap": 35668801632
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.081202,
-          "change_24h": -3.05,
-          "change_7d": -19.37,
-          "market_cap": 12550190742
+          "price": 0.081114,
+          "change_24h": -0.44,
+          "change_7d": -20.0,
+          "market_cap": 12499210515
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.155518,
-          "change_24h": -4.04,
-          "change_7d": -33.78,
-          "market_cap": 5780475427
+          "price": 0.158583,
+          "change_24h": -0.84,
+          "change_7d": -32.92,
+          "market_cap": 5886765340
         }
       ]
     },
@@ -214,12 +214,12 @@
         {
           "name": "Allora",
           "symbol": "ALLO",
-          "market_cap_rank": 266
+          "market_cap_rank": 256
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 16
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 116
         },
         {
           "name": "Bitcoin",
@@ -227,9 +227,9 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 114
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 17
         },
         {
           "name": "Solana",
@@ -237,9 +237,9 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 82
         },
         {
           "name": "Hyperliquid",
@@ -247,19 +247,19 @@
           "market_cap_rank": 10
         },
         {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 33
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         },
         {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 6
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "market_cap_rank": 39
         },
         {
-          "name": "Cardano",
-          "symbol": "ADA",
-          "market_cap_rank": 18
+          "name": "Aave",
+          "symbol": "AAVE",
+          "market_cap_rank": 72
         }
       ]
     },
@@ -273,8 +273,9 @@
       "citations": [
         "https://tradingeconomics.com/calendar",
         "https://www.youtube.com/watch?v=14-GgB3QcYQ",
-        "https://www.fairobserver.com/video/fo-exclusive-the-39-trillion-trap-the-terrifying-reality-of-americas-bond-market",
-        "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+        "https://paulkrugman.substack.com/p/comments-on-a-freaky-friday",
+        "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
+        "https://www.museum.gov.lk/buy/can-boba-price-climb-further-major-clues-to-watch"
       ]
     },
     "crypto_news": {
@@ -284,45 +285,30 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": []
+      "citations": [
+        "https://investingnews.com/cryptocurrency-market-recap/",
+        "https://coinpedia.org/news/live-stock-market-gold-price-and-crypto-market-crash/",
+        "https://poip.punjab-zameen.gov.pk/stocks/how-to-build-a-crypto-portfolio-in-2025-newbie-full-guide-major-guidance",
+        "https://www.youtube.com/shorts/J-ThXksQonY",
+        "https://www.binance.com/en/price/bitcoin",
+        "https://www.museum.gov.lk/stocks/top-best-practices-cryptocurrencies-to-watch-in-2025-essential-picks-pattern-forecast-and-analysis",
+        "https://mof.gov.af/wiki/can-metis-value-jump-further-main-signs-to-watch"
+      ]
     },
     "ai_news": {
       "source": "perplexity",
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "Anthropic says AI is already speeding up AI development",
-          "summary": "Anthropic published new analysis arguing that AI systems are materially accelerating AI research and engineering, with internal data showing engineers now merge far more code with Claude’s help than in earlier years. The report also says model task length and code-editing capabilities have improved sharply, suggesting a continued trend toward more autonomous AI development.",
-          "source": "Anthropic",
-          "url": "https://www.anthropic.com/institute/recursive-self-improvement"
-        },
-        {
-          "title": "AI mathematician startup Axiom Math claims major early research progress",
-          "summary": "A recent interview highlighted Axiom Math’s push to build an “AI mathematician,” including a claimed perfect score on a difficult U.S. college math test and the production of multiple original research papers. The update points to growing interest in AI systems that can contribute to frontier scientific and mathematical work.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=Np3QLOpuI_o"
-        },
-        {
-          "title": "Mayo Clinic study shows AI can help assess brain tumor risk from routine slides",
-          "summary": "A new Mayo Clinic research release says AI can analyze routine pathology slides to classify meningiomas and estimate recurrence risk without costly genetic testing. The study, reported through EurekAlert, was published in The Lancet Digital Health and reflects continued momentum in medical AI applications.",
-          "source": "EurekAlert!",
-          "url": "https://www.eurekalert.org/specialtopic/spotlight/ai"
-        },
-        {
-          "title": "Fresh machine learning papers continue to land on arXiv",
-          "summary": "arXiv’s Machine Learning recent-submissions feed shows a steady stream of new ML research across June 2026, indicating ongoing activity in the field even as major company announcements dominate headlines. The feed is useful for tracking emerging technical directions before formal journal publication.",
-          "source": "arXiv",
-          "url": "https://arxiv.org/list/stat.ML/recent"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
+        "https://www.youtube.com/watch?v=7FDstGtTI08",
+        "https://www.youtube.com/watch?v=CKAn-mHZE_A",
         "https://www.youtube.com/watch?v=Np3QLOpuI_o",
-        "https://www.anthropic.com/institute/recursive-self-improvement",
-        "https://www.eurekalert.org/specialtopic/spotlight/ai",
-        "https://arxiv.org/list/stat.ML/recent"
+        "https://www.youtube.com/watch?v=JA6I_6nYjTU",
+        "https://www.youtube.com/watch?v=6rOKtMUHlpw",
+        "https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm"
       ]
     },
     "gaming": {
@@ -333,12 +319,11 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=37ErXqYJfAQ",
-        "https://www.youtube.com/watch?v=cDuoUYtTUbo",
-        "https://www.foxnews.com/us/watch-mackenzie-shirilla-father-calls-dumb-18-year-old-berating-police-bodycam-video",
-        "https://www.youtube.com/watch?v=o7V-PATUpAk",
         "https://www.youtube.com/watch?v=ylJT0KSloGA",
-        "https://www.foxsports.com/watch/fmc-8h83tig1oh786erc"
+        "https://www.youtube.com/watch?v=a4ojEi4JVvc",
+        "https://www.youtube.com/watch?v=cDuoUYtTUbo",
+        "https://www.youtube.com/watch?v=NdYzLTRoXmc",
+        "https://www.foxnews.com/us/watch-mackenzie-shirilla-father-calls-dumb-18-year-old-berating-police-bodycam-video"
       ]
     },
     "tech_news": {
@@ -348,7 +333,14 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": []
+      "citations": [
+        "https://phys.org",
+        "https://www.technewsworld.com",
+        "https://news.ycombinator.com/item?id=48420827",
+        "https://www.darpa.mil",
+        "https://www.youtube.com/watch?v=6aFKntz726U",
+        "https://www.awrsd.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=82199171"
+      ]
     }
   }
 }
