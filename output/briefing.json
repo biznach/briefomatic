@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T13:02:28.154558+00:00",
-  "generated_at_human": "2026-06-09 13:02 UTC",
+  "generated_at": "2026-06-09T18:45:34.161950+00:00",
+  "generated_at_human": "2026-06-09 18:45 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,112 @@
       "count": 25,
       "items": [
         {
-          "title": "GentleOS – Classic operating system with a lovely retro GUI",
-          "url": "https://github.com/luke8086/gentleos32",
-          "score": 169,
-          "comments": 37
+          "title": "Claude Fable 5",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "score": 811,
+          "comments": 547
         },
         {
-          "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-          "score": 289,
-          "comments": 117
+          "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+          "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+          "score": 202,
+          "comments": 330
+        },
+        {
+          "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+          "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+          "score": 186,
+          "comments": 65
         },
         {
           "title": "Making Graphics Like it's 1993",
           "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-          "score": 100,
-          "comments": 20
+          "score": 565,
+          "comments": 93
+        },
+        {
+          "title": "A giant star may have destroyed itself in one of the rarest explosions",
+          "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+          "score": 71,
+          "comments": 13
+        },
+        {
+          "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+          "score": 462,
+          "comments": 164
+        },
+        {
+          "title": "The LD_DEBUG environment variable (2012)",
+          "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
+          "score": 16,
+          "comments": 0
+        },
+        {
+          "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+          "url": "https://news.ycombinator.com/item?id=48463273",
+          "score": 20,
+          "comments": 5
+        },
+        {
+          "title": "Biff.core: system composition for Clojure web apps",
+          "url": "https://biffweb.com/p/core/",
+          "score": 35,
+          "comments": 13
+        },
+        {
+          "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+          "url": "https://arxiv.org/abs/2605.15184",
+          "score": 76,
+          "comments": 34
+        },
+        {
+          "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+          "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+          "score": 217,
+          "comments": 136
         },
         {
           "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
           "url": "https://opencv.org/opencv-5/",
-          "score": 346,
-          "comments": 56
+          "score": 571,
+          "comments": 104
         },
         {
-          "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
-          "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
-          "score": 68,
-          "comments": 28
+          "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+          "url": "https://arxiv.org/abs/2603.24647",
+          "score": 67,
+          "comments": 10
         },
         {
-          "title": "Cleaning up after AI rockstar developers",
-          "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+          "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+          "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
+          "score": 152,
+          "comments": 108
+        },
+        {
+          "title": "The iPhone's Last Stand?",
+          "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+          "score": 127,
+          "comments": 165
+        },
+        {
+          "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+          "url": "https://qunabu.github.io/Gravity/",
+          "score": 98,
+          "comments": 23
+        },
+        {
+          "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+          "url": "https://github.com/luke8086/gentleos32",
+          "score": 52,
+          "comments": 80
+        },
+        {
+          "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
+          "url": "https://arxiv.org/abs/2604.19773",
           "score": 42,
-          "comments": 4
-        },
-        {
-          "title": "An introduction to functional analysis for science and engineering",
-          "url": "https://arxiv.org/abs/1904.02539",
-          "score": 35,
-          "comments": 3
+          "comments": 9
         },
         {
           "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
@@ -56,106 +122,40 @@
           "comments": 0
         },
         {
-          "title": "Apple reveals new AI architecture built around Google Gemini models",
-          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-          "score": 644,
-          "comments": 487
+          "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
+          "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+          "score": 108,
+          "comments": 62
         },
         {
-          "title": "Thi.ng – open-source building blocks for computational design and art",
-          "url": "https://thi.ng",
-          "score": 86,
-          "comments": 17
-        },
-        {
-          "title": "Eagle Computer: The rise and fall of an early PC clone",
-          "url": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
-          "score": 23,
-          "comments": 4
-        },
-        {
-          "title": "Siri AI",
-          "url": "https://www.apple.com/apple-intelligence/",
-          "score": 615,
-          "comments": 597
-        },
-        {
-          "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-          "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-          "score": 596,
-          "comments": 466
-        },
-        {
-          "title": "Show HN: Performative-UI – A react component library of design tropes",
-          "url": "https://vorpus.github.io/performativeUI/",
-          "score": 1045,
-          "comments": 188
-        },
-        {
-          "title": "EU-banned pesticides found in rice, tea and spices",
-          "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-          "score": 453,
-          "comments": 233
-        },
-        {
-          "title": "Old'aVista – The most powerful guide to the old Internet",
-          "url": "https://oldavista.com/",
-          "score": 128,
-          "comments": 27
-        },
-        {
-          "title": "Porting the ThinkPad X61 to Coreboot",
-          "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
-          "score": 101,
-          "comments": 40
-        },
-        {
-          "title": "H2JVM – A Haskell Library for Writing JVM Bytecode",
-          "url": "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182",
-          "score": 25,
+          "title": "Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
+          "url": "https://github.com/chipmates/agoracosmica",
+          "score": 15,
           "comments": 8
         },
         {
-          "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-          "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-          "score": 590,
-          "comments": 435
+          "title": "Where is the AI jobs crisis?",
+          "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
+          "score": 64,
+          "comments": 76
         },
         {
-          "title": "Apple Core AI Framework",
-          "url": "https://developer.apple.com/documentation/coreai/",
-          "score": 321,
-          "comments": 87
+          "title": "Rayforce",
+          "url": "https://github.com/RayforceDB/rayforce",
+          "score": 9,
+          "comments": 0
         },
         {
-          "title": "Looking Forward to Postgres 19: Query Hints",
-          "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-          "score": 183,
-          "comments": 31
+          "title": "The Effective Sample Size",
+          "url": "https://alex.smola.org/posts/40-effective-sample-size/",
+          "score": 17,
+          "comments": 1
         },
         {
-          "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
-          "url": "https://gitdot.io/",
-          "score": 285,
-          "comments": 263
-        },
-        {
-          "title": "Facebook is paying people overseas promoting Alberta separatism",
-          "url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
-          "score": 242,
-          "comments": 113
-        },
-        {
-          "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-          "url": "https://news.ycombinator.com/item?id=48449187",
-          "score": 350,
-          "comments": 568
-        },
-        {
-          "title": "FrontierCode",
-          "url": "https://cognition.ai/blog/frontier-code",
-          "score": 224,
-          "comments": 44
+          "title": "Using Optical Aberrations to Distinguish Real Astronomical Transients",
+          "url": "https://arxiv.org/abs/2606.08319",
+          "score": 21,
+          "comments": 2
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 62617,
-          "change_24h": -1.72,
-          "change_7d": -9.8,
-          "market_cap": 1254969016094
+          "price": 61608,
+          "change_24h": -2.75,
+          "change_7d": -8.6,
+          "market_cap": 1235643547166
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1675.35,
-          "change_24h": -0.96,
-          "change_7d": -15.25,
-          "market_cap": 202214621218
+          "price": 1646.74,
+          "change_24h": -1.97,
+          "change_7d": -14.26,
+          "market_cap": 198940371129
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 66.14,
-          "change_24h": -1.3,
-          "change_7d": -16.28,
-          "market_cap": 38275955994
+          "price": 65.18,
+          "change_24h": -3.14,
+          "change_7d": -15.05,
+          "market_cap": 37771672598
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.085785,
-          "change_24h": -1.09,
-          "change_7d": -13.2,
-          "market_cap": 13256618880
+          "price": 0.084864,
+          "change_24h": -2.3,
+          "change_7d": -10.89,
+          "market_cap": 13128147949
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.168657,
-          "change_24h": 0.71,
-          "change_7d": -24.31,
-          "market_cap": 6266707645
+          "price": 0.166311,
+          "change_24h": -2.78,
+          "change_7d": -23.87,
+          "market_cap": 6182202085
         }
       ]
     },
@@ -214,7 +214,12 @@
         {
           "name": "Humanity",
           "symbol": "H",
-          "market_cap_rank": 123
+          "market_cap_rank": 133
+        },
+        {
+          "name": "XMAQUINA",
+          "symbol": "DEUS",
+          "market_cap_rank": 886
         },
         {
           "name": "Morpho",
@@ -222,14 +227,14 @@
           "market_cap_rank": 62
         },
         {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 15
+        },
+        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
           "market_cap_rank": 113
-        },
-        {
-          "name": "KONET",
-          "symbol": "KONET",
-          "market_cap_rank": 729
         },
         {
           "name": "Bitcoin",
@@ -237,29 +242,24 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 15
-        },
-        {
-          "name": "XMAQUINA",
-          "symbol": "DEUS",
-          "market_cap_rank": 811
-        },
-        {
-          "name": "Blur",
-          "symbol": "BLUR",
-          "market_cap_rank": 458
-        },
-        {
           "name": "Hyperliquid",
           "symbol": "HYPE",
-          "market_cap_rank": 10
+          "market_cap_rank": 11
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 83
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 42
+        },
+        {
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 6
         }
       ]
     },
@@ -270,18 +270,56 @@
       "recency_filter": "day",
       "count": 0,
       "items": [],
-      "citations": []
+      "citations": [
+        "https://www.uscc.gov/trade-bulletins/china-bulletin-june-9-2026",
+        "https://tradingeconomics.com/calendar",
+        "https://www.youtube.com/watch?v=FVj8tvGzH8Y",
+        "https://poip.punjab-zameen.gov.pk/wiki/terra-classic-value-today-is-now-a-good-time-to-purchase-in-2025-top-study",
+        "https://www.imf.org/en/publications/fandd/issues/2026/06/how-much-does-the-world-work-amory-gethin"
+      ]
     },
     "crypto_news": {
       "source": "perplexity",
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 5,
+      "items": [
+        {
+          "title": "Bitcoin, Ether, XRP and Solana post modest 24-hour gains",
+          "summary": "Bitcoin traded above US$63,000 after a 2.2% 24-hour gain, while Ether rose 3.3%, XRP gained 2.8%, and Solana advanced 3.5%. The move followed a 4% Bitcoin rally on Sunday that was linked to renewed buying from Michael Saylor.",
+          "source": "Investing News",
+          "url": "https://investingnews.com/cryptocurrency-market-recap/"
+        },
+        {
+          "title": "Sam Bankman-Fried formally seeks a pardon from Donald Trump",
+          "summary": "Former FTX CEO Sam Bankman-Fried has formally applied for a presidential pardon, according to market recap coverage. The request comes as he serves a 25-year sentence following his 2023 fraud, money laundering, and conspiracy convictions.",
+          "source": "Investing News",
+          "url": "https://investingnews.com/cryptocurrency-market-recap/"
+        },
+        {
+          "title": "Crypto industry pushes Senate to vote on the CLARITY Act",
+          "summary": "More than 200 cryptocurrency companies and lobbying groups are urging the US Senate to hold an immediate floor vote on the industry-backed CLARITY Act. The bill recently passed the Senate Banking Committee and would create a federal market structure for digital assets.",
+          "source": "Investing News",
+          "url": "https://investingnews.com/cryptocurrency-market-recap/"
+        },
+        {
+          "title": "Securitize advances SPAC merger toward NYSE listing",
+          "summary": "Securitize said the SEC cleared its Form S-4 as it moves toward a SPAC merger with Cantor Equity Partners II. The combined company is expected to trade on the NYSE under ticker SECZ after shareholder approval, with a special meeting set for June 29.",
+          "source": "Investing News",
+          "url": "https://investingnews.com/cryptocurrency-market-recap/"
+        },
+        {
+          "title": "Bybit opens tokenized IPO access, starting with SpaceX",
+          "summary": "Bybit announced that retail investors will get direct access to tokenized IPOs, with SpaceX as the first planned offering. The move expands the exchange’s push into tokenized real-world assets and pre-IPO exposure.",
+          "source": "Investing News",
+          "url": "https://investingnews.com/cryptocurrency-market-recap/"
+        }
+      ],
       "citations": [
-        "https://www.youtube.com/watch?v=SsTCbcik06Y",
-        "https://www.youtube.com/watch?v=ucimLG6sdVY",
+        "https://investingnews.com/cryptocurrency-market-recap/",
+        "https://www.youtube.com/watch?v=ERApZyVddM0",
+        "https://www.youtube.com/watch?v=rjMSdk_enZg",
         "https://www.arzaq.gov.af/crypto/abracadabra-vs-kaspa-value-contrast-graph-and-market-direction",
         "https://www.investing.com/crypto"
       ]
@@ -294,10 +332,12 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.anthropic.com/institute/recursive-self-improvement",
-        "https://techxplore.com",
-        "https://www.bankinfosecurity.com/ai-exploit-risks-pushing-healthcare-security-shift-a-31914",
-        "https://www.youtube.com/watch?v=vi6UILzThgo"
+        "https://www.youtube.com/watch?v=wRLXT2vxfBU",
+        "https://developer.apple.com/videos/play/wwdc2026/241/",
+        "https://www.youtube.com/watch?v=tVtemuqbe-I",
+        "https://www.youtube.com/watch?v=Jm4AafPZiWI",
+        "https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm",
+        "https://www.morningstar.com/stocks/5-stocks-buy-before-next-market-rotation"
       ]
     },
     "gaming": {
@@ -308,9 +348,10 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=LZB9GhvOwns",
-        "https://www.youtube.com/watch?v=XONjTHIZVks",
-        "https://www.youtube.com/watch?v=CmTEDN4apBQ"
+        "https://www.youtube.com/watch?v=ZCE2jIWnsas",
+        "https://www.youtube.com/watch?v=XkzaBRPJoQE",
+        "https://www.resetera.com/threads/videogames-are-back-right.1545199/",
+        "https://www.youtube.com/watch?v=d-SHNgNrdYQ"
       ]
     },
     "tech_news": {
@@ -321,13 +362,7 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.technewsworld.com",
-        "https://www.youtube.com/watch?v=RKpEI37RnfI",
-        "https://www.youtube.com/watch?v=5aXY_ATy_uM",
-        "https://techxplore.com",
-        "https://www.rstreet.org/commentary/the-united-states-must-reject-government-control-of-artificial-intelligence/",
-        "https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-digital-and-technologies",
-        "https://nepc.colorado.edu/blog/great-ai"
+        "https://www.technewsworld.com"
       ]
     }
   }
