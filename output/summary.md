@@ -1,18 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-06-13 00:52 UTC*
+*Generated: 2026-06-13 07:20 UTC*
 
-1. **Market Overview**: The cryptocurrency market shows mixed signals, with Bitcoin down 0.16% in the last 24 hours but up 3.05% over the week, trading at $63,538. Ethereum is down 0.53% in the last 24 hours but up 4.2% over the week, at $1,665.36. Other notable cryptocurrencies like Solana, Dogecoin, and Cardano also show varying degrees of movement. The macro markets and stock indices do not have significant updates from the provided data.
+Here is a concise executive briefing based on the provided raw news and market data:
 
-2. **Tech & AI**: Significant tech developments include Renault's announcement of electric motors that do not require rare earths, a breakthrough in CRISPR technology that can selectively target and destroy cancer cells, and advancements in coding and software development, such as migrating TrueType hinting to Swift and the introduction of local coding agents on macOS. Additionally, there are discussions on improving the efficiency and reducing the sloppiness of AI-generated front ends.
+1. **Market Overview**: The crypto market has seen modest gains, with Bitcoin and Ethereum rising 1.81% and 1.54% respectively in the past 24 hours. The broader sector has also seen an uptick, with DeFi TVL up 2.58% and NFT sales volume up 18.4%. Major indices and stock market news are not available due to lack of data.
 
-3. **Gaming & Entertainment**: Notable gaming news includes the announcement of a remake of *The Legend of Zelda: Ocarina of Time* for the Nintendo Switch 2, although there are reports suggesting a potential delay in its release. Other gaming news includes the launch of new games and updates in the esports sector, but specific details are not provided in the raw data.
+2. **Tech & AI**: Notable tech developments include Nothing phone and audio products coming to Best Buy, Microsoft patching a critical Surface firmware flaw, and Oracle warning of a critical PeopleSoft flaw under active exploitation. Additionally, the EU has rejected Apple's request for an exemption under the Digital Markets Act, delaying the European Siri rollout. AI-specific news is limited, but Visa has outlined plans for stablecoin settlement and AI agent verification.
+
+3. **Gaming & Entertainment**: There is no notable gaming news available due to lack of data.
 
 4. **Key Insights**:
-* Renault's development of rare earth-free electric motors could significantly impact the automotive and renewable energy sectors.
-* CRISPR technology's advancement in targeting cancer cells opens new avenues for cancer treatment and research.
-* The trend towards more efficient and less sloppy AI-generated front ends indicates a push for better user experience and interface design in tech.
-* The potential delay in the release of *The Legend of Zelda: Ocarina of Time Remake* might affect gaming industry expectations and Nintendo's release schedule.
-* The mixed performance of cryptocurrencies suggests a cautious market, with investors watching for regulatory news and project developments.
+* Crypto market gains are modest, with Bitcoin and Ethereum leading the way.
+* Regulatory developments, such as the EU's rejection of Apple's DMA exemption request, may impact tech companies' expansion plans.
+* Security patches and vulnerability warnings are a growing concern for major tech platforms.
+* Visa's plans for stablecoin settlement and AI agent verification may indicate growing institutional interest in blockchain-based payments infrastructure.
+* Japan's approval of a bill to cut Bitcoin and Ethereum taxes may improve tax treatment for crypto investors in the country.
 
-5. **Watch List**: Items to monitor in the coming days include the release dates and updates on the *Zelda: Ocarina of Time Remake*, further developments in CRISPR technology and its applications, the performance of rare earth-free electric motors in the market, and the movement of major cryptocurrencies like Bitcoin, Ethereum, and Solana. Additionally, watching for any significant announcements from tech companies regarding AI, coding, and software development will be crucial.
+5. **Watch List**: 
+* Crypto market movements and regulatory developments.
+* Tech company expansions and product launches, such as Nothing's entry into Best Buy.
+* Security patches and vulnerability warnings for major tech platforms.
+* Institutional interest in blockchain-based payments infrastructure.
+* Regulatory decisions impacting tech companies, such as the EU's Digital Markets Act.
