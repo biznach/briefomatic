@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T08:02:24.496405+00:00",
-  "generated_at_human": "2026-06-15 08:02 UTC",
+  "generated_at": "2026-06-15T14:09:01.524679+00:00",
+  "generated_at_human": "2026-06-15 14:09 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,112 @@
       "count": 25,
       "items": [
         {
+          "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+          "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+          "score": 119,
+          "comments": 82
+        },
+        {
+          "title": "What the Fuck Happened to Nerds",
+          "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+          "score": 531,
+          "comments": 324
+        },
+        {
+          "title": "Applying Brevity and Language Efficiency in Prompt Engineering",
+          "url": "https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html",
+          "score": 12,
+          "comments": 4
+        },
+        {
           "title": "Your ePub Is fine",
           "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-          "score": 522,
-          "comments": 184
-        },
-        {
-          "title": "Even more batteries included with Emacs",
-          "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-          "score": 162,
-          "comments": 30
-        },
-        {
-          "title": "Curl will not accept vulnerability reports during July 2026",
-          "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-          "score": 284,
-          "comments": 74
+          "score": 757,
+          "comments": 247
         },
         {
           "title": "Apple Foundation Models",
           "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-          "score": 57,
-          "comments": 10
+          "score": 285,
+          "comments": 117
+        },
+        {
+          "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+          "url": "https://github.com/themartiano/luz",
+          "score": 66,
+          "comments": 19
+        },
+        {
+          "title": "Openrouter Fusion API",
+          "url": "https://openrouter.ai/openrouter/fusion",
+          "score": 111,
+          "comments": 38
+        },
+        {
+          "title": "Even more batteries included with Emacs",
+          "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+          "score": 271,
+          "comments": 71
+        },
+        {
+          "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
+          "url": "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/",
+          "score": 44,
+          "comments": 7
+        },
+        {
+          "title": "Anthropic's Safety Superpower",
+          "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+          "score": 142,
+          "comments": 109
         },
         {
           "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
           "url": "https://github.com/tamnd/kage",
-          "score": 541,
-          "comments": 108
+          "score": 615,
+          "comments": 120
         },
         {
-          "title": "Bitsy",
-          "url": "https://bitsy.org/",
-          "score": 170,
-          "comments": 4
+          "title": "Firewood Splitting Simulator",
+          "url": "https://screen.toys/firewood/",
+          "score": 898,
+          "comments": 260
         },
         {
           "title": "There Is(Ǝ) – Such That (∋)",
           "url": "https://www.fractalkitty.com/there-is-3-such-that/",
-          "score": 15,
-          "comments": 4
+          "score": 71,
+          "comments": 21
+        },
+        {
+          "title": "Curl will not accept vulnerability reports during July 2026",
+          "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+          "score": 582,
+          "comments": 227
+        },
+        {
+          "title": "Asciline – real-time ASCII video rendering engine",
+          "url": "https://github.com/YusufB5/ASCILINE",
+          "score": 29,
+          "comments": 9
+        },
+        {
+          "title": "Ported my C game to WASM, here's everybug that I hit",
+          "url": "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
+          "score": 53,
+          "comments": 40
+        },
+        {
+          "title": "Bitsy",
+          "url": "https://bitsy.org/",
+          "score": 238,
+          "comments": 6
+        },
+        {
+          "title": "Google Flight Simulator",
+          "url": "https://developers.google.com/maps/documentation/earth/flight-simulator",
+          "score": 14,
+          "comments": 3
         },
         {
           "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
@@ -56,106 +122,40 @@
           "comments": 0
         },
         {
-          "title": "Firewood Splitting Simulator",
-          "url": "https://screen.toys/firewood/",
-          "score": 786,
-          "comments": 239
-        },
-        {
           "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
           "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
-          "score": 69,
-          "comments": 15
+          "score": 115,
+          "comments": 33
         },
         {
-          "title": "The Last Surviving Japanese Porsche 912 Police Car",
-          "url": "https://kottke.org/26/06/the-last-surviving-japanese-porsche-912-police-car",
-          "score": 71,
-          "comments": 18
-        },
-        {
-          "title": "Why does paper fold so well?",
-          "url": "https://www.bbc.co.uk/programmes/w3ct8k70",
-          "score": 33,
-          "comments": 7
-        },
-        {
-          "title": "Under-16s to be banned from social media, Starmer announces",
-          "url": "https://www.bbc.co.uk/news/live/c77yx1jpg1nt",
-          "score": 16,
-          "comments": 5
+          "title": "Exploring building a tiny FUSE filesystem",
+          "url": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
+          "score": 45,
+          "comments": 6
         },
         {
           "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
           "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-          "score": 337,
-          "comments": 182
+          "score": 374,
+          "comments": 197
+        },
+        {
+          "title": "Successful Psilocybin Treatment of Alzheimer",
+          "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
+          "score": 55,
+          "comments": 28
+        },
+        {
+          "title": "Why does paper fold so well?",
+          "url": "https://www.bbc.co.uk/programmes/w3ct8k70",
+          "score": 79,
+          "comments": 35
         },
         {
           "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
           "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
-          "score": 33,
-          "comments": 13
-        },
-        {
-          "title": "Ask HN: What are you working on? (June 2026)",
-          "url": "https://news.ycombinator.com/item?id=48528779",
-          "score": 218,
-          "comments": 777
-        },
-        {
-          "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
-          "url": "https://traceapp.info",
-          "score": 152,
-          "comments": 55
-        },
-        {
-          "title": "Formal methods and the future of programming",
-          "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-          "score": 251,
-          "comments": 91
-        },
-        {
-          "title": "Chaosnet (1981)",
-          "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-          "score": 81,
-          "comments": 10
-        },
-        {
-          "title": "Windows 11 users are tired of MS account requirements creeping into everything",
-          "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
-          "score": 286,
-          "comments": 189
-        },
-        {
-          "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
-          "url": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
-          "score": 42,
-          "comments": 5
-        },
-        {
-          "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-          "url": "https://su3.io/posts/zeroserve-caddy-compat",
-          "score": 179,
-          "comments": 52
-        },
-        {
-          "title": "The only scalable delete in Postgres is DROP TABLE",
-          "url": "https://planetscale.com/blog/the-only-scalable-delete",
-          "score": 161,
-          "comments": 58
-        },
-        {
-          "title": "Perlisisms (1982)",
-          "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-          "score": 110,
-          "comments": 56
-        },
-        {
-          "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
-          "url": "https://www.orangecrumbs.com/",
-          "score": 100,
-          "comments": 25
+          "score": 60,
+          "comments": 36
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 65627,
-          "change_24h": 1.95,
-          "change_7d": 3.74,
-          "market_cap": 1315221191915
+          "price": 66328,
+          "change_24h": 3.15,
+          "change_7d": 4.1,
+          "market_cap": 1329681601598
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1715.55,
-          "change_24h": 2.47,
-          "change_7d": 3.0,
-          "market_cap": 207066361636
+          "price": 1807.48,
+          "change_24h": 8.49,
+          "change_7d": 7.49,
+          "market_cap": 218243596399
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 71.23,
-          "change_24h": 4.56,
-          "change_7d": 7.83,
-          "market_cap": 41300337775
+          "price": 73.36,
+          "change_24h": 8.36,
+          "change_7d": 9.86,
+          "market_cap": 42573411480
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.088461,
-          "change_24h": 1.61,
-          "change_7d": 3.33,
-          "market_cap": 13681569934
+          "price": 0.089993,
+          "change_24h": 4.1,
+          "change_7d": 4.17,
+          "market_cap": 13927653463
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.180104,
-          "change_24h": 5.38,
-          "change_7d": 10.18,
-          "market_cap": 6702968153
+          "price": 0.188373,
+          "change_24h": 12.52,
+          "change_7d": 13.14,
+          "market_cap": 7008855684
         }
       ]
     },
@@ -214,12 +214,22 @@
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 116
+          "market_cap_rank": 115
         },
         {
-          "name": "Siren",
-          "symbol": "SIREN",
-          "market_cap_rank": 514
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 14
+        },
+        {
+          "name": "Gram (prev. Toncoin)",
+          "symbol": "GRAM",
+          "market_cap_rank": 22
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 10
         },
         {
           "name": "Bitcoin",
@@ -227,39 +237,29 @@
           "market_cap_rank": 1
         },
         {
+          "name": "Siren",
+          "symbol": "SIREN",
+          "market_cap_rank": 533
+        },
+        {
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "market_cap_rank": 31
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 40
+        },
+        {
           "name": "Solana",
           "symbol": "SOL",
           "market_cap_rank": 7
         },
         {
-          "name": "SpaceX xStock",
-          "symbol": "SPCXX",
-          "market_cap_rank": 708
-        },
-        {
-          "name": "Backpack",
-          "symbol": "BP",
-          "market_cap_rank": 253
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 38
-        },
-        {
-          "name": "Akash Network",
-          "symbol": "AKT",
-          "market_cap_rank": 158
-        },
-        {
-          "name": "NEAR Protocol",
-          "symbol": "NEAR",
-          "market_cap_rank": 32
-        },
-        {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Humanity",
+          "symbol": "H",
+          "market_cap_rank": 100
         }
       ]
     },
@@ -277,64 +277,92 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
-      "items": [
-        {
-          "title": "Crypto market rallies on Iran deal, Bitcoin hits two-week high",
-          "summary": "The crypto market added about $40 billion in value as Bitcoin climbed to around $65,923, its highest level in nearly two weeks. Coinpedia says the move was driven by easing geopolitical तनाव after news of a U.S.-Iran agreement and stronger ETF inflows, with more than $339 million in liquidations over 24 hours.",
-          "source": "Coinpedia",
-          "url": "https://coinpedia.org/news/why-the-crypto-market-is-up-today-june-15/"
-        },
-        {
-          "title": "Bitcoin trades near $64,354 after holding a tight 24-hour range",
-          "summary": "Binance Market Update reported Bitcoin trading between $63,727 and $64,763 over the past 24 hours, with BTC up 0.83% to $64,354 as of 09:30 UTC. The update reflects a relatively stable session compared with the broader rally cited elsewhere.",
-          "source": "Binance",
-          "url": "https://www.binance.com/en-PH/square/post/333980488316306"
-        },
-        {
-          "title": "Bitcoin rises after U.S.-Iran agreement eases risk concerns",
-          "summary": "Bloomberg reported that Bitcoin climbed to its highest level in nearly two weeks after the U.S. and Iran said they reached an agreement to end hostilities and reopen the Strait of Hormuz. The move added to a broad risk-on shift across markets.",
-          "source": "Bloomberg",
-          "url": "https://www.facebook.com/bloombergbusiness/posts/bitcoin-climbed-to-its-highest-level-in-nearly-two-weeks-after-the-us-and-iran-s/1425790452740377/"
-        },
-        {
-          "title": "Spot Bitcoin ETF inflows turn positive after recent outflows",
-          "summary": "Coinpedia said U.S. spot Bitcoin ETFs recorded about $86 million in net inflows, breaking a month-long streak of outflows. The report also linked the improved flow picture to renewed buying interest in crypto markets.",
-          "source": "Coinpedia",
-          "url": "https://coinpedia.org/news/why-the-crypto-market-is-up-today-june-15/"
-        },
-        {
-          "title": "Liquidations top $339 million as volatile crypto rebound triggers short squeeze",
-          "summary": "Coinpedia reported that more than 102,000 traders were liquidated in the past 24 hours, with total liquidations reaching roughly $339 million. The spike in liquidations helped amplify the market's rebound across major cryptocurrencies.",
-          "source": "Coinpedia",
-          "url": "https://coinpedia.org/news/why-the-crypto-market-is-up-today-june-15/"
-        }
-      ],
-      "citations": [
-        "https://coinpedia.org/news/why-the-crypto-market-is-up-today-june-15/",
-        "https://www.binance.com/en-PH/square/post/333980488316306",
-        "https://www.facebook.com/bloombergbusiness/posts/bitcoin-climbed-to-its-highest-level-in-nearly-two-weeks-after-the-us-and-iran-s/1425790452740377/",
-        "https://sgpd.sps.ce.gov.br/buy/top-things-to-know-cryptocurrencies-to-watch-in-2027-important-picks-pattern-forecast-and-breakdown",
-        "https://www.youtube.com/watch?v=2Q7Dmfqv5fY",
-        "https://www.sciencedirect.com/science/article/pii/S2590291126001142",
-        "https://www.investing.com/crypto",
-        "https://www.cryptoarena.com"
-      ]
+      "count": 0,
+      "items": [],
+      "citations": []
     },
     "ai_news": {
       "source": "perplexity",
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 11,
+      "items": [
+        {
+          "title": "Meta hires four more OpenAI researchers",
+          "summary": "Meta has reportedly added four more OpenAI researchers to its ranks, underscoring the intensifying talent war among top AI labs. The hires are part of a broader push by major platforms to secure frontier-model expertise.",
+          "source": "Economic Times AI",
+          "url": "https://ai.economictimes.com"
+        },
+        {
+          "title": "DoorDash launches AI chatbot for ordering and reservations",
+          "summary": "DoorDash unveiled a new AI-powered chatbot that lets users order food, groceries, and restaurant reservations using text prompts and photos. The feature reflects a shift toward conversational commerce, where AI handles more of the task directly.",
+          "source": "Economic Times AI",
+          "url": "https://ai.economictimes.com"
+        },
+        {
+          "title": "Google updates NotebookLM with Gemini 3.5 by default",
+          "summary": "Google has updated NotebookLM to use Gemini 3.5 as the default model and added research features that can suggest sources. The change makes the product more autonomous by reducing the need for users to supply their own materials.",
+          "source": "The Rundown (via Globeducate blog)",
+          "url": "https://www.globeducate.com/news-events/globeducate-blog/blog-details/~board/blogs/post/the-good-the-bad-and-the-ugly-in-ai-this-week-150626"
+        },
+        {
+          "title": "Anthropic releases Claude Fable 5",
+          "summary": "Anthropic reportedly launched Claude Fable 5, a new top-tier model for enterprise customers and paid subscribers. The model includes stronger safeguards intended to block high-risk outputs in areas such as cybersecurity and biology.",
+          "source": "The Rundown (via Globeducate blog)",
+          "url": "https://www.globeducate.com/news-events/globeducate-blog/blog-details/~board/blogs/post/the-good-the-bad-and-the-ugly-in-ai-this-week-150626"
+        },
+        {
+          "title": "Meta rolls out Business Agent across messaging apps",
+          "summary": "Meta has globally deployed Business Agent on WhatsApp, Instagram, and Messenger, enabling AI agents to answer questions, qualify leads, recommend products, book appointments, and close sales. The rollout highlights rapid adoption of AI assistants in customer service and sales workflows.",
+          "source": "The Rundown (via Globeducate blog)",
+          "url": "https://www.globeducate.com/news-events/globeducate-blog/blog-details/~board/blogs/post/the-good-the-bad-and-the-ugly-in-ai-this-week-150626"
+        },
+        {
+          "title": "ChatGPT reaches one billion monthly active app users",
+          "summary": "ChatGPT reportedly crossed one billion global monthly active app users in May, making it the fastest app ever to hit that milestone. The figure underscores the scale of consumer adoption for generative AI tools.",
+          "source": "The Rundown (via Globeducate blog)",
+          "url": "https://www.globeducate.com/news-events/globeducate-blog/blog-details/~board/blogs/post/the-good-the-bad-and-the-ugly-in-ai-this-week-150626"
+        },
+        {
+          "title": "OpenAI launches a new background memory feature called ‘dreaming’",
+          "summary": "OpenAI has introduced a background memory feature that turns past chats into a running, category-sorted profile covering areas like travel, hobbies, and work. The feature is designed to make ChatGPT more personalized over time.",
+          "source": "The Rundown (via Globeducate blog)",
+          "url": "https://www.globeducate.com/news-events/globeducate-blog/blog-details/~board/blogs/post/the-good-the-bad-and-the-ugly-in-ai-this-week-150626"
+        },
+        {
+          "title": "Alphabet raises $85 billion in a stock sale earmarked for AI",
+          "summary": "Alphabet is raising $85 billion in a record-breaking stock sale aimed at funding AI-related investments, according to the report. The size of the raise suggests continued heavy capital spending across the AI infrastructure stack.",
+          "source": "The Rundown (via Globeducate blog)",
+          "url": "https://www.globeducate.com/news-events/globeducate-blog/blog-details/~board/blogs/post/the-good-the-bad-and-the-ugly-in-ai-this-week-150626"
+        },
+        {
+          "title": "Google signs massive GPU access deal with SpaceX",
+          "summary": "A Friday SEC filing reportedly shows Google will pay SpaceX $920 million per month starting in October 2026 for access to roughly 110,000 NVIDIA GPUs plus supporting hardware. The deal highlights the escalating demand for large-scale compute in AI.",
+          "source": "The Rundown (via Globeducate blog)",
+          "url": "https://www.globeducate.com/news-events/globeducate-blog/blog-details/~board/blogs/post/the-good-the-bad-and-the-ugly-in-ai-this-week-150626"
+        },
+        {
+          "title": "AI-designed vaccine reaches first human trial",
+          "summary": "University of Cambridge researchers have completed the first human trial of a vaccine whose active ingredient was designed entirely by AI. The result is a notable milestone for AI-assisted biomedical research.",
+          "source": "The Rundown (via Globeducate blog)",
+          "url": "https://www.globeducate.com/news-events/globeducate-blog/blog-details/~board/blogs/post/the-good-the-bad-and-the-ugly-in-ai-this-week-150626"
+        },
+        {
+          "title": "Cloudflare says bots now generate more traffic than humans",
+          "summary": "Cloudflare reports that bots accounted for roughly 57% of internet visits over the past week, surpassing human traffic for the first time. The trend points to a major shift in web traffic patterns and the growing footprint of automated systems.",
+          "source": "The Rundown (via Globeducate blog)",
+          "url": "https://www.globeducate.com/news-events/globeducate-blog/blog-details/~board/blogs/post/the-good-the-bad-and-the-ugly-in-ai-this-week-150626"
+        }
+      ],
       "citations": [
         "https://ai.economictimes.com",
         "https://www.globeducate.com/news-events/globeducate-blog/blog-details/~board/blogs/post/the-good-the-bad-and-the-ugly-in-ai-this-week-150626",
-        "https://www.cbsnews.com/feature/ai-artificial-intelligence/",
-        "https://www.facebook.com/WorldMeteorologicalOrganization/posts/how-can-ai-and-machine-learning-improve-forecasts-3-to-4-weeks-ahead-over-the-pa/1422959603199140/",
-        "https://www.instagram.com/p/DZlx9ksDTsq/",
-        "https://www.facebook.com/nsecollegetig/posts/aiml-is-no-longer-just-a-technology-trend-it-is-becoming-a-global-career-advanta/1474176451388479/"
+        "https://www.facebook.com/bloombergbusiness/posts/anthropic-has-shut-off-access-to-its-most-advanced-ai-models-after-a-trump-admin/1425915496061206/",
+        "https://www.nature.com/articles/d41586-026-01887-w",
+        "https://www.instagram.com/reel/DZmzsvmBs6y/",
+        "https://factory.fpt.ai/ai-insights/what-is-deep-learning",
+        "https://www.youtube.com/watch?v=mhwFQE2Tgyw"
       ]
     },
     "gaming": {
@@ -345,14 +373,13 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=ShA-u48gamw",
-        "https://www.youtube.com/watch?v=h5brWyRD5mQ",
-        "https://www.tiktok.com/@mrbeast/video/7651447222449556767",
-        "https://www.facebook.com/SportsCenter/videos/imagine-your-first-24-hours-spent-in-the-usa-is-in-nyc-the-night-the-knicks-win-/887742281046499/",
+        "https://www.youtube.com/watch?v=c46KMTqwRiA",
+        "https://www.youtube.com/watch?v=DSUbX2YXYpM",
         "https://www.instagram.com/reel/DZlBpHfhqpb/",
-        "https://www.youtube.com/watch?v=pbigGHbYpXA",
-        "https://www.instagram.com/reel/DZjyhW8JQu8/",
-        "https://www.cbsnews.com/video/lamine-yamal-barcelona-60-minutes-video-2026-06-14/"
+        "https://www.facebook.com/SportsCenter/videos/imagine-your-first-24-hours-spent-in-the-usa-is-in-nyc-the-night-the-knicks-win-/887742281046499/",
+        "https://www.youtube.com/watch?v=oBGsS-Rqw_8",
+        "https://www.foxsports.com/watch/fmc-1x0fxrn9f4jzaysg",
+        "https://www.youtube.com/watch?v=IDR7-kZTNmc"
       ]
     },
     "tech_news": {
@@ -360,16 +387,18 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 1,
-      "items": [
-        {
-          "title": "Raw response",
-          "summary": "system\nYou are a news research assistant. Provide factual, current information based on your web search.\nFormat your response as a JSON array of news items. Each item should have:\n- \"title\": Brief headline\n- \"summary\": 1-2 sentence summary\n- \"source\": Publication name\n- \"url\": Source URL if available\n\nReturn ONLY valid JSON array, no other text. Example:\n[{\"title\": \"...\", \"summary\": \"...\", \"source\": \"...\", \"url\": \"...\"}]\n\nIf no relevant news found, return empty array: []\nCurrent date: Monday, Ju",
-          "source": "perplexity",
-          "url": ""
-        }
-      ],
-      "citations": []
+      "count": 0,
+      "items": [],
+      "citations": [
+        "https://phys.org",
+        "https://calmatters.org/politics/2026/06/california-admits-government-ai-risk-after-denying/",
+        "https://www.instagram.com/p/DZlx9ksDTsq/",
+        "https://www.instagram.com/reel/DZkreudxrTI/",
+        "https://www.facebook.com/rtltoday/posts/the-rtl-today-radio-news-team-brings-you-the-latest-headlines-for-monday-15-june/1675564074285610/",
+        "https://www.instagram.com/reel/DZmMkKYCgx8/",
+        "https://veermag.com/2026/06/essay-toxic-tech/",
+        "https://www.euronews.com/my-europe/2026/06/15/iran-tech-and-trump-to-top-macrons-g7-summit"
+      ]
     }
   }
 }
