@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T07:54:42.940527+00:00",
-  "generated_at_human": "2026-06-19 07:54 UTC",
+  "generated_at": "2026-06-19T13:12:43.525238+00:00",
+  "generated_at_human": "2026-06-19 13:12 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-          "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-          "score": 117,
-          "comments": 47
-        },
-        {
-          "title": "So You Want to Define a Well-Known URI",
-          "url": "https://mnot.net/blog/2026/well_known_uris",
-          "score": 29,
-          "comments": 9
-        },
-        {
           "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
           "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-          "score": 18,
-          "comments": 3
+          "score": 266,
+          "comments": 121
+        },
+        {
+          "title": "The room the economy can't see",
+          "url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
+          "score": 43,
+          "comments": 16
+        },
+        {
+          "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+          "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+          "score": 253,
+          "comments": 76
         },
         {
           "title": "To study how chips work, MIT researchers built their own operating system",
           "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-          "score": 155,
-          "comments": 17
-        },
-        {
-          "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
-          "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
-          "score": 59,
-          "comments": 15
+          "score": 236,
+          "comments": 35
         },
         {
           "title": "Zen and the Art of Machine Learning Research",
           "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-          "score": 31,
-          "comments": 8
+          "score": 109,
+          "comments": 35
+        },
+        {
+          "title": "So You Want to Define a Well-Known URI",
+          "url": "https://mnot.net/blog/2026/well_known_uris",
+          "score": 102,
+          "comments": 48
+        },
+        {
+          "title": "Ten years of ClickHouse in open source",
+          "url": "https://clickhouse.com/blog/open-source-10",
+          "score": 105,
+          "comments": 22
         },
         {
           "title": "I found 10k GitHub repositories distributing Trojan malware",
           "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-          "score": 770,
-          "comments": 197
+          "score": 844,
+          "comments": 218
+        },
+        {
+          "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+          "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+          "score": 125,
+          "comments": 47
+        },
+        {
+          "title": "From Australia to Europe, countries move to curb children's social media access",
+          "url": "https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/",
+          "score": 28,
+          "comments": 35
+        },
+        {
+          "title": "Show HN: Modeloop – From visual algorithms to microcontroller C code",
+          "url": "https://www.modeloop.app/",
+          "score": 7,
+          "comments": 6
+        },
+        {
+          "title": "The AirPods Effect",
+          "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+          "score": 170,
+          "comments": 324
         },
         {
           "title": "Zero-Touch OAuth for MCP",
           "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-          "score": 183,
-          "comments": 65
+          "score": 211,
+          "comments": 76
         },
         {
-          "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-          "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-          "score": 70,
-          "comments": 24
-        },
-        {
-          "title": "DARPA Heavy Life Challenge",
-          "url": "https://www.darpa.mil/research/challenges/lift",
-          "score": 16,
-          "comments": 12
-        },
-        {
-          "title": "Building a robotics research setup that lives next to my desk",
-          "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-          "score": 68,
-          "comments": 24
-        },
-        {
-          "title": "Ice water drowning survival of young patient (2025)",
-          "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
-          "score": 122,
-          "comments": 80
-        },
-        {
-          "title": "Generative AI Is Having Its Herbalife Moment",
-          "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
-          "score": 26,
-          "comments": 22
-        },
-        {
-          "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-          "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-          "score": 322,
-          "comments": 279
-        },
-        {
-          "title": "The ISA Doesn't Matter Where It Counts",
-          "url": "https://www.chipstrat.com/p/the-isa-doesnt-matter-where-it-counts",
-          "score": 6,
-          "comments": 3
-        },
-        {
-          "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
-          "url": "https://github.com/cajal-technologies/talos",
-          "score": 49,
-          "comments": 5
-        },
-        {
-          "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
-          "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-          "score": 356,
-          "comments": 51
-        },
-        {
-          "title": "Cell-based architecture for resilient payment systems",
-          "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-          "score": 117,
-          "comments": 47
-        },
-        {
-          "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
-          "url": "https://www.flexport.com/company/careers/",
-          "score": 1,
-          "comments": 0
-        },
-        {
-          "title": "Many Let's Encrypt renewals had errors today",
-          "url": "https://letsencrypt.status.io/#2026",
-          "score": 132,
-          "comments": 80
-        },
-        {
-          "title": ".gitignore Isn't the only way to ignore files in Git",
-          "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-          "score": 396,
-          "comments": 124
+          "title": "SMTP Relay with Web Dashboard",
+          "url": "https://github.com/toinbox/simplerelay",
+          "score": 21,
+          "comments": 2
         },
         {
           "title": "How Japan's railways stayed one while splitting apart",
           "url": "https://arun.is/blog/jr-logo/",
-          "score": 83,
-          "comments": 66
+          "score": 118,
+          "comments": 95
+        },
+        {
+          "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+          "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+          "score": 360,
+          "comments": 305
+        },
+        {
+          "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+          "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+          "score": 101,
+          "comments": 38
+        },
+        {
+          "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+          "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+          "score": 389,
+          "comments": 53
+        },
+        {
+          "title": ".gitignore Isn't the only way to ignore files in Git",
+          "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+          "score": 456,
+          "comments": 141
+        },
+        {
+          "title": "Akse3D – open-source 3D modelling anyone can master",
+          "url": "https://akse3d-en.skaperiet.no",
+          "score": 46,
+          "comments": 6
         },
         {
           "title": "Hospitals and universities repurposing drugs at lower cost",
           "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-          "score": 302,
-          "comments": 132
+          "score": 318,
+          "comments": 146
         },
         {
-          "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-          "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-          "score": 355,
-          "comments": 192
+          "title": "Norway greenlights first full-scale ship tunnel",
+          "url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
+          "score": 40,
+          "comments": 13
         },
         {
-          "title": "Show HN: Are You in the Weights?",
-          "url": "https://www.intheweights.com/",
-          "score": 323,
-          "comments": 179
+          "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+          "url": "https://github.com/cajal-technologies/talos",
+          "score": 63,
+          "comments": 14
+        },
+        {
+          "title": "Cell-based architecture for resilient payment systems",
+          "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+          "score": 131,
+          "comments": 53
+        },
+        {
+          "title": "W Social, public institutions and the theater of European digital sovereignty",
+          "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+          "score": 229,
+          "comments": 143
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 62549,
-          "change_24h": -2.88,
-          "change_7d": -0.57,
-          "market_cap": 1254635846796
+          "price": 62780,
+          "change_24h": -2.42,
+          "change_7d": -0.99,
+          "market_cap": 1259282909223
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1693.49,
-          "change_24h": -3.14,
-          "change_7d": 2.26,
-          "market_cap": 204469432675
+          "price": 1693.12,
+          "change_24h": -3.13,
+          "change_7d": 1.72,
+          "market_cap": 204381187601
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 68.27,
-          "change_24h": -4.76,
-          "change_7d": 3.36,
-          "market_cap": 39519803381
+          "price": 68.59,
+          "change_24h": -4.05,
+          "change_7d": 2.54,
+          "market_cap": 39746085154
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.082218,
-          "change_24h": -3.23,
-          "change_7d": -5.19,
-          "market_cap": 12721850988
+          "price": 0.082594,
+          "change_24h": -2.45,
+          "change_7d": -4.82,
+          "market_cap": 12773254362
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.159283,
-          "change_24h": -4.53,
-          "change_7d": -6.46,
-          "market_cap": 5926993344
+          "price": 0.160693,
+          "change_24h": -3.09,
+          "change_7d": -6.1,
+          "market_cap": 5974956856
         }
       ]
     },
@@ -212,9 +212,14 @@
       "count": 10,
       "items": [
         {
+          "name": "Autonomi",
+          "symbol": "ANT",
+          "market_cap_rank": 707
+        },
+        {
           "name": "Siren",
           "symbol": "SIREN",
-          "market_cap_rank": 307
+          "market_cap_rank": 305
         },
         {
           "name": "Solana",
@@ -222,19 +227,9 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Collector Crypt",
-          "symbol": "CARDS",
-          "market_cap_rank": 308
-        },
-        {
-          "name": "Avalanche",
-          "symbol": "AVAX",
-          "market_cap_rank": 38
-        },
-        {
-          "name": "Chainlink",
-          "symbol": "LINK",
-          "market_cap_rank": 21
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 10
         },
         {
           "name": "Pudgy Penguins",
@@ -242,9 +237,14 @@
           "market_cap_rank": 116
         },
         {
-          "name": "LAB",
-          "symbol": "LAB",
-          "market_cap_rank": 22
+          "name": "Backpack",
+          "symbol": "BP",
+          "market_cap_rank": 210
+        },
+        {
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 55
         },
         {
           "name": "Bitcoin",
@@ -252,14 +252,14 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 10
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 41
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Synapse",
+          "symbol": "SYN",
+          "market_cap_rank": 623
         }
       ]
     },
@@ -268,52 +268,78 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 10,
       "items": [
         {
-          "title": "U.S. stocks closed higher as chip shares rallied and inflation fears eased",
-          "summary": "Wall Street’s main indexes ended higher on Thursday, with semiconductor stocks providing a strong boost and easing inflation concerns helping sentiment. Reuters said the move reflected a broader rebound in risk appetite after recent market pressure.",
+          "title": "U.S. Stock Indexes Close Higher on Semiconductor Surge and Easing Inflation Fears",
+          "summary": "U.S. stock indexes closed higher on Thursday, boosted significantly by semiconductor shares and declining inflation concerns, while oil prices fell as peace in the Middle East allowed tankers to move through the Strait of Hormuz.",
           "source": "Reuters",
           "url": "https://www.reuters.com/markets/"
         },
         {
-          "title": "Japan and South Korea stocks hit record highs on stronger risk appetite",
-          "summary": "Shares in Japan and South Korea climbed to record highs on Friday as lower oil prices and easing Middle East tensions supported global equities. Reuters also reported that a stronger dollar, aided by Federal Reserve signals, weighed on gold.",
+          "title": "Yen Slumps Past 161 to 40-Year Lins Despite BOJ Rate Hike to 1%",
+          "summary": "The Japanese yen nears its weakest level in 40 years as the Bank of Japan's rate hike to 1% fails to stem the rout, with markets on heightened intervention watch amid ongoing currency volatility.",
           "source": "Reuters",
           "url": "https://www.reuters.com/markets/"
         },
         {
-          "title": "Federal Reserve signals pushed the dollar higher and pressured gold",
-          "summary": "Reuters reported that hawkish Federal Reserve signals helped lift the dollar, while gold prices edged lower and were on track for a third straight weekly decline. The move suggests markets are still sensitive to the Fed’s policy path.",
+          "title": "Oil Prices Set for 10% Weekly Drop Following U.S.-Iran Interim Peace Deal",
+          "summary": "Oil prices fell sharply on Friday as the prospect of more supply returning to the market emerged after oil tankers began moving through the Strait of Hormuz following the signing of a U.S.-Iran interim peace deal.",
           "source": "Reuters",
           "url": "https://www.reuters.com/markets/"
         },
         {
-          "title": "Bank of Japan rate hike fails to stop yen weakness",
-          "summary": "The yen remained near four-decade lows even after a Bank of Japan rate hike, according to Reuters. Markets were watching for possible intervention as the currency’s slide continued.",
+          "title": "SpaceX Shares Drop Nearly 9% as Post-IPO Frenzy Fizzles Out",
+          "summary": "Shares of Elon Musk's SpaceX dropped nearly 9% on Thursday, signaling that the post-IPO frenzy that briefly placed the company among the top five most valuable in the world is beginning to fade.",
           "source": "Reuters",
           "url": "https://www.reuters.com/markets/"
         },
         {
-          "title": "Accenture weak outlook weighs on Indian IT shares",
-          "summary": "India’s Nifty IT index fell sharply after Accenture cut the top end of its annual revenue outlook and forecast weaker quarterly sales than Wall Street expected. Reuters said the warning hit sentiment across the sector.",
+          "title": "MDA Space Acquires Blue Canyon Technologies in $620 Million Defense Deal",
+          "summary": "Canadian space technology firm MDA Space announced a $620 million cash acquisition of U.S.-based Blue Canyon Technologies from RTX's Raytheon business, expanding its footprint in the U.S. defense space market.",
           "source": "Reuters",
           "url": "https://www.reuters.com/markets/"
         },
         {
-          "title": "Economic calendar shows U.S. jobless claims, GDP final data and Fed speeches",
-          "summary": "Trading Economics’ calendar lists U.S. initial jobless claims, final GDP growth and GDP price index data, plus Fed balance sheet data and a speech by Fed official Austan Goolsbee among the major events around this period. These releases are likely to shape near-term rate expectations and market positioning.",
-          "source": "Trading Economics",
-          "url": "https://tradingeconomics.com/calendar"
+          "title": "Japan and South Korea Shares Hit Record Highs as Middle East Peace Eases Inflation Fears",
+          "summary": "Shares climbed to record highs in Japan and South Korea on Friday as peace in the Middle East, marked by the reopening of the Strait of Hormuz, pulled oil prices lower and alleviated inflation concerns.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/markets/"
+        },
+        {
+          "title": "New U.S. Tariffs Trigger Risk-Off Sentiment in European Markets",
+          "summary": "European markets fell into the red as new Trump tariffs triggered a wave of risk-off sentiment, with estimated tariff rates climbing higher following the latest round of announcements.",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/market-news/global"
+        },
+        {
+          "title": "China's Manufacturing Sector Contracts Unexpectedly to 49.5 in July",
+          "summary": "China's manufacturing sector contracted unexpectedly in July to 49.5, while Japan's manufacturing sector also shrank to 48.9, contributing to mixed Asia market performance following Wall Street's decline.",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/market-news/global"
+        },
+        {
+          "title": "Fed Futures Market Prices in Quarter-Point Rate Hike Later This Year",
+          "summary": "Following a surprisingly strong May jobs report with non-farm payrolls growing 172,000, the futures market is now pricing in a quarter-point rate hike later this year and another in 2027.",
+          "source": "First Trust Economics Blog",
+          "url": "https://www.ftportfolios.com/economicsblog/"
+        },
+        {
+          "title": "MSCI to Announce Decision on Indonesia's Emerging Markets Status",
+          "summary": "Index provider MSCI is set to announce a decision on Indonesia's emerging markets status on Tuesday, a report that could provide a lift to the under-pressure market or deal a blow to Southeast Asia's largest economy.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/markets/"
         }
       ],
       "citations": [
+        "https://seekingalpha.com/market-news/global",
+        "https://www.ftportfolios.com/economicsblog/",
         "https://tradingeconomics.com/calendar",
         "https://www.usnews.com/topics/subjects/economy",
         "https://www.reuters.com/markets/",
-        "https://www.facebook.com/Reuters/posts/wall-streets-main-indexes-closed-higher-with-the-dow-ticking-up-more-than-a-tent/1582172133773513/",
-        "https://www.bbc.com/news/topics/c8dn03216z3t",
-        "https://paulkrugman.substack.com/p/power-and-geopolitics-after-trump",
+        "https://www.facebook.com/Qnewsegy/posts/which-economic-factors-keep-us-fed-rates-unchanged-jassem-ajaka-economics-profes/122288206778134472/",
+        "https://www.csba.org/aticles-market/Kfin-Technologies-Stock-Gains-112-as-Price-Holds-Above-871-Support-Level-37-1721",
+        "https://finance.yahoo.com/economy/",
         "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
         "https://www.facebook.com/scotiabank/posts/everyones-asking-if-were-in-a-recession-the-answer-is-a-little-complex-so-we-ask/1427544136073955/"
       ]
@@ -323,18 +349,67 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 8,
+      "items": [
+        {
+          "title": "Crypto futures see about $490M in liquidations as BTC, ETH, and SOL fall",
+          "summary": "Over the past 24 hours, crypto futures saw roughly $490 million in liquidations across major exchanges, with Bitcoin leading the losses at about $152.85 million and Ethereum at about $119.46 million. Bitcoin traded near $62.39K, Ethereum near $1.69K, and Solana near $68.28 amid a broader market pullback.",
+          "source": "CryptoRank",
+          "url": "https://cryptorank.io/news/feed/0f492-crypto-futures-490m-liquidations-24-hours"
+        },
+        {
+          "title": "Bitcoin drops toward $62K as support weakens amid options expiry and liquidations",
+          "summary": "Bitcoin fell nearly 3% over the previous 24 hours to an intraday low near $62,300, with analysts citing options-expiry volatility, long liquidations, and renewed concerns about corporate Bitcoin selling. CoinGlass data in the report showed nearly $136 million in Bitcoin positions liquidated over 24 hours, most of them longs.",
+          "source": "crypto.news",
+          "url": "https://cryptonews.net/news/bitcoin/33033685/"
+        },
+        {
+          "title": "Bitcoin and Ethereum traders turn more bearish as prices slide",
+          "summary": "BTC and ETH each fell about 5% in the last 24 hours, recently trading around $62,499 and $1,682. The move reflects broad risk-off sentiment after the Federal Reserve-related policy backdrop weighed on crypto markets.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-traders-grow-even-172306042.html"
+        },
+        {
+          "title": "Crypto market valuation falls 1.8% as downtrend pressure builds",
+          "summary": "The total cryptocurrency market capitalization fell 1.8% over 24 hours to about $2.16 trillion, extending a broader downtrend. Among major movers, Avalanche dropped 8.6%, Bitcoin Cash fell 6%, and SushiSwap declined 5%, while a few smaller tokens posted modest gains.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/crypto-market-tests-its-200week-average-as-downtrend-pressure-builds-200682464"
+        },
+        {
+          "title": "Ethereum falls below $1,700 after Ethereum Foundation co-director steps down",
+          "summary": "Ethereum traded near $1,690, down roughly 2.86% over 24 hours, after news that Hsiao-Wei Wang is stepping down as co-executive director of the Ethereum Foundation. The departure adds to a string of leadership changes at the Foundation and Protocol teams.",
+          "source": "Changelly",
+          "url": "https://changelly.com/blog/news/ethereum-slides-as-foundation-co-director-steps-down/"
+        },
+        {
+          "title": "Monero developers warn miners of exploited P2Pool vulnerability",
+          "summary": "Monero developers reportedly alerted miners to a vulnerability affecting rewards in the decentralized mining pool P2Pool, saying the flaw is being actively exploited. The warning urged network participants to update their software.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/crypto-market-tests-its-200week-average-as-downtrend-pressure-builds-200682464"
+        },
+        {
+          "title": "Binance co-founder CZ calls for stock markets on blockchain and state-backed stablecoins",
+          "summary": "Changpeng Zhao urged countries to move stock markets onto blockchain infrastructure and to create state-backed stablecoins linked to fiat currencies. He argued that tokenization could improve market accessibility for investors.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/crypto-market-tests-its-200week-average-as-downtrend-pressure-builds-200682464"
+        },
+        {
+          "title": "MetaMask adds token swaps without requiring ETH for gas",
+          "summary": "A social post from Cointelegraph highlighted that MetaMask will now allow users to swap tokens without needing ETH to pay gas directly. The change points to a notable wallet-user experience update in the Ethereum ecosystem.",
+          "source": "Cointelegraph",
+          "url": "https://x.com/Cointelegraph?lang=en"
+        }
+      ],
       "citations": [
+        "https://cryptorank.io/news/feed/0f492-crypto-futures-490m-liquidations-24-hours",
+        "https://cryptonews.net/news/bitcoin/33033685/",
+        "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-traders-grow-even-172306042.html",
+        "https://www.investing.com/analysis/crypto-market-tests-its-200week-average-as-downtrend-pressure-builds-200682464",
+        "https://www.facebook.com/cointelegraph/posts/-rekt-over-361m-longs-have-been-wiped-out-in-the-past-24-hours/1323179476655544/",
         "https://www.youtube.com/watch?v=W9eh9Hj2DRo",
-        "https://www.youtube.com/watch?v=_IwYDAratK0",
-        "https://www.youtube.com/watch?v=ea46IMwPLTE",
-        "https://www.youtube.com/watch?v=kuzKiL1NsIo",
-        "https://www.youtube.com/watch?v=puSfbVtKtjY",
-        "https://finance.yahoo.com/video/fed-rates-hold-stocks-and-bitcoin-drop-after-kevin-warsh-fomc-debut-164425943.html",
-        "https://www.youtube.com/watch?v=LhllldUkiJU",
-        "https://finance.yahoo.com/video/beyond-bitcoin-coinbase-ceo-talks-100000629.html",
-        "https://www.instagram.com/p/DZvXcHYkiLL/"
+        "https://changelly.com/blog/news/ethereum-slides-as-foundation-co-director-steps-down/",
+        "https://x.com/Cointelegraph?lang=en",
+        "https://www.forbes.com/digital-assets/news/"
       ]
     },
     "ai_news": {
@@ -345,15 +420,15 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=NpZbum0lmlI",
-        "https://www.youtube.com/watch?v=asCgCv2XB4s",
+        "https://www.youtube.com/watch?v=BIZteOgIUK0",
         "https://www.youtube.com/watch?v=tVMHEr2OtY8",
-        "https://www.cbsnews.com/video/democrats-some-republicans-fuming-trumps-iran-deal/",
-        "https://www.instagram.com/p/DZu8l0mlmH1/",
-        "https://www.youtube.com/watch?v=Fs5-OaYOdZM",
-        "https://www.reddit.com/r/LocalLLaMA/comments/1u972a7/the_power_of_intelligence_is_better_in_the_hands/",
-        "https://www.instagram.com/reel/DZu1OBuRqdh/",
-        "https://www.reddit.com/r/aiwars/comments/1u9hus7/imagine_walking_through_this_and_your_entire/"
+        "https://www.youtube.com/watch?v=J1BK7s0sKGY",
+        "https://www.instagram.com/reel/DZt0MDhz42M/",
+        "https://www.youtube.com/watch?v=XyTCwLymuUg",
+        "https://www.cbsnews.com/video/ukraine-launches-drone-attack-moscow-burns/",
+        "https://www.reddit.com/r/computervision/comments/1u9kwfr/lowlatency_monocular_3d_kinematic_analysis_for/",
+        "https://www.instagram.com/p/DZvNxkDmQZl/",
+        "https://www.instagram.com/reel/DZu1OBuRqdh/"
       ]
     },
     "gaming": {
@@ -364,16 +439,16 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=mA0P_0-hzDg",
+        "https://www.youtube.com/watch?v=EPQA7v7_zss",
+        "https://www.joblo.com/minions-and-monsters-cyclops-trailer/",
         "https://www.instagram.com/p/DZu2eyGCfrt/",
         "https://www.youtube.com/watch?v=lOL3vaHTU9U",
+        "https://www.ign.com/videos/every-detail-in-the-gta-6-cover-art-explained",
         "https://www.motogp.com/en/videos/2026/06/18/its-already-in-the-past-bezzecchi-on-balaton-park-crash/1073975",
-        "https://www.reddit.com/r/videogames/comments/1u985a9/its_a_shame_this_game_has_completely_flown_under/",
+        "https://www.nytimes.com/video/us/politics/100000010978556/reflecting-pool-dc-algae-green.html",
+        "https://www.reddit.com/r/gaming/comments/1u9z1qc/perhaps_we_are_entering_an_era_where_developers/",
         "https://www.youtube.com/watch?v=QvnLwE_0_b0",
-        "https://www.facebook.com/premierleague/videos/wait-for-that-mikel-arteta-reaction-enjoy-the-best-touchline-reactions-from-the-/861732330334079/",
-        "https://www.nhl.com/video/best-hits-of-the-2026-stanley-cup-final-6398691707112",
-        "https://www.instagram.com/reel/DZvboI_CJQc/",
-        "https://www.foxsports.com/watch/fmc-hn7ykzfm5elqi7dx"
+        "https://www.instagram.com/reel/DZvboI_CJQc/"
       ]
     },
     "tech_news": {
@@ -381,11 +456,62 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 7,
+      "items": [
+        {
+          "title": "Waymo recalls 3,800 robotaxis after freeway construction-zone failures",
+          "summary": "Waymo is recalling more than 3,800 robotaxis after regulators said its fifth-generation system can fail to recognize closed freeway construction zones. The company says a software fix is underway, and freeway service remains suspended until the update is deployed.",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news"
+        },
+        {
+          "title": "Apple signals price increases are coming amid memory crunch",
+          "summary": "Tim Cook said Apple price hikes are 'unavoidable' because memory constraints have become 'unsustainable.' No product-specific pricing changes were announced, but the remarks point to pressure across upcoming Apple hardware lines.",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news"
+        },
+        {
+          "title": "Google discontinues Nest Home Mini and Nest Audio",
+          "summary": "Google has reportedly discontinued two of its Nest smart speakers, signaling a shift in its smart-home hardware lineup. The move suggests the company is simplifying or refreshing its connected-home product strategy.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
+        },
+        {
+          "title": "Apple opens third-party app stores in Brazil",
+          "summary": "Apple is expanding support for third-party iOS app stores in Brazil, continuing its response to regulatory pressure in multiple markets. The change could broaden distribution options for developers and app marketplaces in the country.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
+        },
+        {
+          "title": "Verizon drops two wireless fees and adds new rewards and plan changes",
+          "summary": "Verizon has eliminated two fees while introducing new rewards programs and a 'Simplicity' plan. The changes appear aimed at reducing customer friction and sharpening its competitive position in wireless.",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news"
+        },
+        {
+          "title": "Amazon workers receive HR warnings over support for data center regulations",
+          "summary": "Amazon is investigating whether employees testified before the Seattle City Council as company representatives without authorization. The incident underscores growing tension between tech companies and workers over data-center policy and local regulation.",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news"
+        },
+        {
+          "title": "Telegram use spikes in India after temporary ban during exam period",
+          "summary": "VPN use surged in India after authorities temporarily suspended Telegram until medical entrance exams conclude on June 22. Regulators said the move was intended to curb cheating networks that use the messaging app.",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news"
+        }
+      ],
       "citations": [
         "https://www.pcmag.com/news",
-        "https://www.bbc.co.uk/news/technology"
+        "https://www.engadget.com",
+        "https://www.instagram.com/reel/DZvPE-KsOqq/",
+        "https://ground.news/interest/tech",
+        "https://www.facebook.com/ILHealthandHospitals/posts/ibrahim-on-the-rapid-pace-of-ai-advancements-artificial-intelligence-is-moving-a/1480352537457490/",
+        "https://www.youtube.com/watch?v=XpimingvBDY",
+        "https://www.bbc.co.uk/news/technology",
+        "https://ssrs.com/research-areas/technology/",
+        "https://news.ycombinator.com/item?id=48589485",
+        "https://x.com/lmrankhan/article/2067718954705915993"
       ]
     }
   }
