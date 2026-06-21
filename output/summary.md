@@ -1,20 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-06-21 12:42 UTC*
+*Generated: 2026-06-21 18:33 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+Here is your executive briefing:
 
-1. **Market Overview**: Global markets are under pressure due to fresh tariff headlines and weak U.S. jobs data, with Asian shares falling and U.S. futures slipping. The crypto market has seen $178M in 24-hour liquidations, with shorts hit hardest. Bitcoin is trading around $64,193, up 0.87% over 24 hours, while Ethereum is down 0.35% in the last 24 hours.
+1. **Market Overview**: The S&P 500 and Nasdaq futures are down 0.25% and 0.29%, respectively, as investors watch oil prices and geopolitics. Bitcoin is trading at $64,071 with a 0.46% increase in the last 24 hours, while Ethereum is at $1,730.49 with a 0.2% increase. Solana has seen a significant increase of 3.25% in the last 24 hours, reaching $74.13.
 
-2. **Tech & AI**: Notable tech developments include Google hitting 50% IPv6, the release of a 3D voxel game engine written in APL, and the development of a new iOS app that raises awareness about what native apps can see. Additionally, there have been discussions on building reliable agentic AI systems and the use of AVX-512 for zigzag decoding.
+2. **Tech & AI**: Apple has agreed to manufacture chips with Intel, marking a significant shift in semiconductor production as the US seeks to bring chip manufacturing back from Taiwan and other countries. Epic Games has announced a major launcher redesign with player profiles and universal search. Additionally, there have been discussions on Hacker News about various tech topics, including code duplication, burnout in the open-source world, and the development of new programming languages.
 
-3. **Gaming & Entertainment**: A free Total Annihilation-inspired RTS game called "Beyond All Reason" has been released, and a DOS game "F-15 Strike Eagle II" reversing project is seeking DOS test pilots. There is also a new X11 built for VisionOS and Apple Vision Pro called "UHF X11".
+3. **Gaming & Entertainment**: There is no significant gaming news from the past 24 hours.
 
 4. **Key Insights**:
-* The global market is experiencing a risk-off sentiment due to tariff headlines and weak jobs data.
-* The crypto market is sensitive to regulatory developments and media coverage.
-* There is a growing focus on building reliable agentic AI systems and developing new technologies such as 3D voxel game engines.
-* Regulatory developments in the crypto space, such as the EU's proposed stricter rules and Illinois' new digital asset tax law, may impact the market.
-* The development of new technologies and projects, such as Seismic's encrypted blockchain infrastructure, may provide opportunities for growth and innovation.
+* The US economy remains strong despite market sensitivity to instability and energy shocks.
+* Oil prices have fallen 1.7% to $70.52, influencing risk sentiment.
+* The S&P 500 has risen nearly 80% over the past five years, and the Nasdaq more than 86%, despite pandemic, war, inflation, and Middle East conflict shocks.
+* Apple's agreement to manufacture chips with Intel marks a significant shift in semiconductor production.
+* Solana's significant price increase of 3.25% in the last 24 hours may indicate growing interest in the cryptocurrency.
 
-5. **Watch List**: Items to monitor in the coming days include the global market's response to tariff headlines and jobs data, the crypto market's reaction to regulatory developments, and the progress of new technologies and projects such as Google's IPv6 adoption and Seismic's encrypted blockchain infrastructure. Additionally, the development of new games and entertainment platforms, such as "Beyond All Reason" and "UHF X11", may be worth watching.
+5. **Watch List**: 
+* US economic data, including S&P Global PMIs, Richmond Fed manufacturing, housing data, GDP, personal income and spending, jobless claims, trade balance, and Michigan consumer sentiment.
+* Fed bank stress-test results.
+* Earnings from major companies, including Micron, FedEx, Darden, Paychex, Carnival, KB Home, McCormick, Acuity Brands, and BlackBerry.
+* Geopolitical developments and their impact on oil prices and market sentiment.
+* The development of new technologies, including chip manufacturing and cryptocurrency advancements.
