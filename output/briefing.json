@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T18:33:43.744555+00:00",
-  "generated_at_human": "2026-06-21 18:33 UTC",
+  "generated_at": "2026-06-22T00:52:52.182086+00:00",
+  "generated_at_human": "2026-06-22 00:52 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,52 +8,130 @@
       "count": 25,
       "items": [
         {
-          "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
-          "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-          "score": 206,
-          "comments": 143
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "url": "https://apertvs.ai/",
+          "score": 163,
+          "comments": 56
         },
         {
-          "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
-          "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-          "score": 40,
+          "title": "Claude: Elevated Error Rates for Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6",
+          "url": "https://status.claude.com/incidents/lv35v0q9nsj2",
+          "score": 23,
+          "comments": 12
+        },
+        {
+          "title": "Did my old job only exist because of fraud?",
+          "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+          "score": 172,
+          "comments": 67
+        },
+        {
+          "title": "Everything is logarithms",
+          "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+          "score": 86,
+          "comments": 11
+        },
+        {
+          "title": "JSON-LD explained for personal websites",
+          "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+          "score": 152,
+          "comments": 39
+        },
+        {
+          "title": "PowerFox Browser",
+          "url": "https://powerfox.jazzzny.me/",
+          "score": 60,
+          "comments": 17
+        },
+        {
+          "title": "I was wrong about the Midjourney ultra-sound scanner",
+          "url": "https://twitter.com/MattZirwas/status/2068365802491834541",
+          "score": 15,
           "comments": 9
         },
         {
-          "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-          "url": "https://norvig.com/lispy.html",
-          "score": 77,
-          "comments": 32
-        },
-        {
-          "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-          "url": "https://www.beyondallreason.info",
-          "score": 308,
-          "comments": 166
-        },
-        {
-          "title": "The Minimum Viable Unit of Saleable Software",
-          "url": "https://brandur.org/minimum-viable-unit",
-          "score": 36,
-          "comments": 10
+          "title": "Show HN: Recall – fully-local project memory for Claude Code",
+          "url": "https://github.com/raiyanyahya/recall",
+          "score": 60,
+          "comments": 51
         },
         {
           "title": "Identity verification on Claude",
           "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-          "score": 177,
-          "comments": 160
+          "score": 545,
+          "comments": 497
         },
         {
-          "title": "The Commodore Callback 8020 smart flip phone",
-          "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
-          "score": 88,
-          "comments": 62
+          "title": "Simple hard way to conjugate Japanese verbs",
+          "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
+          "score": 25,
+          "comments": 19
         },
         {
-          "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
-          "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
-          "score": 19,
+          "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+          "url": "https://www.beyondallreason.info",
+          "score": 425,
+          "comments": 252
+        },
+        {
+          "title": "Prefer duplication over the wrong abstraction (2016)",
+          "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "score": 419,
+          "comments": 284
+        },
+        {
+          "title": "I Play Video Games with Spinal Muscular Atrophy",
+          "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
+          "score": 18,
+          "comments": 2
+        },
+        {
+          "title": "HPV jabs cut risk of dying from cervical cancer before 30 to almost zero",
+          "url": "https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds",
+          "score": 130,
+          "comments": 63
+        },
+        {
+          "title": "The minimum viable unit of saleable software",
+          "url": "https://brandur.org/minimum-viable-unit",
+          "score": 120,
+          "comments": 49
+        },
+        {
+          "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+          "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+          "score": 85,
+          "comments": 44
+        },
+        {
+          "title": "Petition against Meta's employee training data collection for ML models",
+          "url": "https://mcipetition.com/",
+          "score": 6,
           "comments": 0
+        },
+        {
+          "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+          "url": "https://norvig.com/lispy.html",
+          "score": 161,
+          "comments": 55
+        },
+        {
+          "title": "There is minimal downside to switching to open models",
+          "url": "https://www.marble.onl/posts/cancel_claude.html",
+          "score": 21,
+          "comments": 5
+        },
+        {
+          "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
+          "url": "https://the-criterion-closet.vercel.app",
+          "score": 35,
+          "comments": 9
+        },
+        {
+          "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+          "url": "https://minipcs.zip",
+          "score": 8,
+          "comments": 3
         },
         {
           "title": "Wildcard (YC W25) is hiring an applied ML engineer",
@@ -62,100 +140,22 @@
           "comments": 0
         },
         {
+          "title": "Ask for no, don't ask for yes (2022)",
+          "url": "https://www.mooreds.com/wordpress/archives/3518",
+          "score": 101,
+          "comments": 44
+        },
+        {
           "title": "An Embedded Linux on a Single Floppy",
           "url": "https://github.com/w84death/floppinux",
-          "score": 11,
-          "comments": 5
-        },
-        {
-          "title": "15-minute at-home Lyme disease tick test",
-          "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-          "score": 186,
-          "comments": 133
-        },
-        {
-          "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-          "url": "https://github.com/mysk-research/loupe",
-          "score": 466,
-          "comments": 186
-        },
-        {
-          "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
-          "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
-          "score": 22,
-          "comments": 9
-        },
-        {
-          "title": "Developers don't understand CORS (2019)",
-          "url": "https://fosterelli.co/developers-dont-understand-cors",
-          "score": 302,
-          "comments": 238
-        },
-        {
-          "title": "A 3D voxel game engine written in APL",
-          "url": "https://github.com/namgyaaal/avoxelgame",
-          "score": 120,
-          "comments": 10
-        },
-        {
-          "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
-          "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-          "score": 76,
-          "comments": 48
-        },
-        {
-          "title": "Show HN: TownSquare, a tiny presence layer for websites",
-          "url": "https://townsquare.cauenapier.com/",
-          "score": 220,
-          "comments": 129
-        },
-        {
-          "title": "Running MicroVMs in Proxmox VE, the Easy Way",
-          "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
-          "score": 175,
+          "score": 58,
           "comments": 24
         },
         {
-          "title": "Two Qwen3 models on one DGX Spark: the residency math",
-          "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
-          "score": 64,
-          "comments": 29
-        },
-        {
-          "title": "The early hiring funnel is now breaking on both ends",
-          "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-          "score": 52,
-          "comments": 73
-        },
-        {
-          "title": "Slow breathing modulates brain function and risk behavior",
-          "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-          "score": 332,
-          "comments": 96
-        },
-        {
-          "title": "Renting a sewing machine from the library",
-          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-          "score": 306,
-          "comments": 180
-        },
-        {
-          "title": "Excessive nil pointer checks in Go",
-          "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
-          "score": 55,
-          "comments": 52
-        },
-        {
-          "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
-          "url": "https://github.com/nikitadoudikov/claude-pulse",
-          "score": 11,
-          "comments": 3
-        },
-        {
-          "title": "The brain was not designed for this much bad news",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-          "score": 291,
-          "comments": 257
+          "title": "Show HN: Teach your kids perfect pitch",
+          "url": "https://github.com/paytonjjones/bsharp",
+          "score": 45,
+          "comments": 30
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 64071,
-          "change_24h": 0.46,
-          "change_7d": 0.6,
-          "market_cap": 1284363581734
+          "price": 63698,
+          "change_24h": -0.78,
+          "change_7d": -3.07,
+          "market_cap": 1279521806697
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1730.49,
-          "change_24h": 0.2,
-          "change_7d": 4.16,
-          "market_cap": 208842800116
+          "price": 1719.85,
+          "change_24h": -0.91,
+          "change_7d": -0.28,
+          "market_cap": 207905455579
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 74.13,
-          "change_24h": 3.25,
-          "change_7d": 10.1,
-          "market_cap": 42947103323
+          "price": 73.16,
+          "change_24h": 0.12,
+          "change_7d": 3.87,
+          "market_cap": 42460346149
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.083373,
-          "change_24h": 0.14,
-          "change_7d": -3.37,
-          "market_cap": 12902352408
+          "price": 0.082879,
+          "change_24h": -0.78,
+          "change_7d": -6.21,
+          "market_cap": 12833137138
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.161439,
-          "change_24h": 0.27,
-          "change_7d": -3.02,
-          "market_cap": 6007545871
+          "price": 0.158944,
+          "change_24h": -2.45,
+          "change_7d": -9.39,
+          "market_cap": 5915935823
         }
       ]
     },
@@ -212,54 +212,54 @@
       "count": 10,
       "items": [
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "RE",
-          "symbol": "RE",
-          "market_cap_rank": 217
+          "name": "Tensor",
+          "symbol": "TNSR",
+          "market_cap_rank": 921
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 113
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 10
         },
         {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 6
-        },
-        {
-          "name": "Meteora",
-          "symbol": "MET",
-          "market_cap_rank": 285
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 41
-        },
-        {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 32
-        },
-        {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 145
+          "name": "Backpack",
+          "symbol": "BP",
+          "market_cap_rank": 190
         },
         {
           "name": "Aerodrome Finance",
           "symbol": "AERO",
-          "market_cap_rank": 104
+          "market_cap_rank": 106
+        },
+        {
+          "name": "Collector Crypt",
+          "symbol": "CARDS",
+          "market_cap_rank": 341
+        },
+        {
+          "name": "Taiko",
+          "symbol": "TAIKO",
+          "market_cap_rank": 877
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Pump.fun",
+          "symbol": "PUMP",
+          "market_cap_rank": 100
+        },
+        {
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 85
         }
       ]
     },
@@ -268,43 +268,18 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "U.S. futures point lower as investors watch oil and geopolitics",
-          "summary": "U.S. stock futures were lower in premarket trade, with S&P 500 futures down 0.25%, Dow futures down 0.53%, Nasdaq futures down 0.29%, and Russell 2000 futures down 0.45%. Crude oil also fell 1.7% to 70.52, suggesting energy markets were a key driver for risk sentiment.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/calendar/economic/"
-        },
-        {
-          "title": "Week ahead: heavy U.S. economic data and Fed stress-test results",
-          "summary": "Markets are set to focus on a dense run of U.S. data, including S&P Global PMIs, Richmond Fed manufacturing, housing data, GDP, personal income and spending, jobless claims, trade balance, and Michigan consumer sentiment. Fed bank stress-test results are also scheduled, alongside earnings from Micron, FedEx, Darden, Paychex, Carnival, KB Home, McCormick, Acuity Brands, and BlackBerry.",
-          "source": "Schwab Network",
-          "url": "https://schwabnetwork.com/articles/week-ahead-heavy-economic-data-whats-next-for-us-iran-deal"
-        },
-        {
-          "title": "Wall Street and the economy remain focused on inflation, spending, and gas prices",
-          "summary": "Recent coverage highlights falling U.S. gas prices below $4 for the first time since March, along with retail sales showing consumers are still spending. The backdrop has kept inflation, growth, and energy prices at the center of market attention.",
-          "source": "The Washington Post",
-          "url": "https://www.washingtonpost.com/business/2026/06/20/inflation-economy-trump-iran-mortgage-unemployment-fed/dea7b8e6-6cb1-11f1-830e-133d20cadd28_story.html"
-        },
-        {
-          "title": "Markets remain resilient despite geopolitical and macro headwinds",
-          "summary": "Fortune reports that the S&P 500 has risen nearly 80% over the past five years and the Nasdaq more than 86% despite pandemic, war, inflation, and Middle East conflict shocks. The article cites AI investment, steady unemployment around 4.3%, and GDP growth around 2% as ongoing supports for market optimism.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/06/21/bull-stock-market-jamie-dimon-surprise-headwinds-geopolitics/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
         "https://www.usnews.com/topics/subjects/economy",
-        "https://schwabnetwork.com/articles/week-ahead-heavy-economic-data-whats-next-for-us-iran-deal",
-        "https://fortune.com/2026/06/21/bull-stock-market-jamie-dimon-surprise-headwinds-geopolitics/",
-        "https://www.facebook.com/Qnewsegy/posts/-us-economy-remains-strong-yet-markets-are-sensitive-to-instability-energy-shock/122288544962134472/",
-        "https://www.washingtonpost.com/business/2026/06/20/inflation-economy-trump-iran-mortgage-unemployment-fed/dea7b8e6-6cb1-11f1-830e-133d20cadd28_story.html",
+        "https://www.reuters.com/markets/",
         "https://finance.yahoo.com/calendar/economic/",
+        "https://www.instagram.com/reel/DZ2PYhWhuKK/",
+        "https://www.facebook.com/bloombergbusiness/posts/the-economic-engine-of-the-tech-industryis-surveillancesignal-president-meredith/1429692729016816/",
         "https://www.instagram.com/reel/DZ1XT7MDxU6/",
         "https://www.facebook.com/lankabanglasecuritiesplc/posts/economic-investment-news-updatedate-june-21-2026growingeconomy-economicnews-fina/1330953902512673/",
-        "https://www.marketplace.org"
+        "https://www.instagram.com/p/DZ3R__tIA-M/",
+        "https://seekingalpha.com/article/4916050-this-could-be-most-important-market-shift-in-years"
       ]
     },
     "crypto_news": {
@@ -315,15 +290,16 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=ZLy3Kz3r-3I",
-        "https://www.youtube.com/watch?v=wSjU0KkPgwc",
         "https://www.youtube.com/watch?v=ufh6ZG0n2DE",
-        "https://www.youtube.com/watch?v=sya4P_zHp5U",
-        "https://www.instagram.com/reel/DZ0YG5pJRiB/",
-        "https://www.instagram.com/p/DZ1Fo9ODTMF/",
         "https://www.youtube.com/watch?v=UQMYeEjxvCY",
-        "https://www.instagram.com/reel/DZz-Me7Ngty/",
-        "https://www.facebook.com/Timesnow/videos/a-video-of-a-delhi-family-getting-aggressive-over-being-confronted-for-littering/973774655431010/"
+        "https://www.youtube.com/watch?v=sya4P_zHp5U",
+        "https://www.youtube.com/watch?v=IAwAeA4cnWo",
+        "https://finance.yahoo.com/video/micron-q3-earnings-home-sales-200000931.html",
+        "https://www.foxbusiness.com/video/6399011224112",
+        "https://www.youtube.com/watch?v=dXuZ7rN1Nxs",
+        "https://www.youtube.com/watch?v=LSbY0t4hrVw",
+        "https://www.instagram.com/p/DZ1Fo9ODTMF/",
+        "https://www.instagram.com/reel/DZ1P_pRpaQm/"
       ]
     },
     "ai_news": {
@@ -334,16 +310,16 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.instagram.com/reel/DZ2PQdMsArc/",
-        "https://www.tiktok.com/@doctormike/video/7653559749929127199",
-        "https://www.youtube.com/watch?v=7kZCuUqkrk8",
         "https://www.youtube.com/watch?v=-YYhDsoCQXI",
+        "https://www.youtube.com/watch?v=m2Ed8XQV5-g",
+        "https://www.tiktok.com/@overtime/video/7653681546745892109",
+        "https://www.instagram.com/reel/DZ1kfodTK0c/",
+        "https://www.instagram.com/reel/DZ2PQdMsArc/",
         "https://www.instagram.com/reel/DZ1EpPlhEma/",
-        "https://www.reddit.com/r/ClaudeAI/comments/1ubs239/a_few_months_back_i_shared_the_claude_dd_skill_i/",
-        "https://www.youtube.com/watch?v=ADMp0Hd1vKI",
-        "https://www.instagram.com/reel/DZ0h_EbOtiy/",
-        "https://www.cbsnews.com/video/democratic-socialism-in-the-midst-of-a-us-revival/",
-        "https://www.youtube.com/watch?v=YMHYEd8n-gg"
+        "https://www.youtube.com/watch?v=IL_ZXV42mxo",
+        "https://www.facebook.com/MorePerfectUS/videos/914837934349643/",
+        "https://www.tiktok.com/@stokestwins/video/7653771925776387342",
+        "https://www.youtube.com/watch?v=karHucUvDDM"
       ]
     },
     "gaming": {
@@ -354,15 +330,16 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=mRywxcXmcKk",
-        "https://www.ign.com/videos/final-fantasy-7-rebirth-everything-major-added-since-launch",
         "https://www.youtube.com/watch?v=01cXLoca5IU",
-        "https://www.youtube.com/watch?v=uHZ5DqrtDrw",
-        "https://www.reddit.com/r/PSVR/comments/1ubjwls/shame_this_had_a_messy_launch_but_after_patches/",
-        "https://www.instagram.com/reel/DZ0tIWDy9Z-/",
+        "https://gamerant.com/gaming/",
+        "https://www.instagram.com/p/DZ1TjmMjQAF/",
+        "https://www.youtube.com/watch?v=cB9lBRXB6qc",
+        "https://www.reddit.com/r/Games/comments/1uc0gcj/the_last_of_us_2_multiplayer_mod_25_minutes_of/",
+        "https://www.foxsports.com/watch-vertical/fmc-pit7lc5kt16djnfv",
+        "https://www.facebook.com/SportsCenter/videos/that-was-daddys-last-football-game-im-gonna-be-home-with-you-guys-%EF%B8%8Fone-of-the-co/1551940863205437/",
+        "https://www.pewterreport.com/video-this-bucs-newcomer-great-offseason/",
         "https://www.foxsports.com/watch-vertical/fmc-20aim3jpmdltlqol",
-        "https://www.cbsnews.com/video/passage-in-memoriam-062126/",
-        "https://www.instagram.com/reel/DZ0ACanu0oV/"
+        "https://www.ncaa.com/video/baseball/2026-06-21/north-carolina-vs-oklahoma-2026-mens-college-world-series-finals-game-2-extended-highlights"
       ]
     },
     "tech_news": {
@@ -370,57 +347,8 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 8,
-      "items": [
-        {
-          "title": "Apple Agrees to Build Chips with Intel Amid US Manufacturing Push",
-          "summary": "President Trump confirmed that Apple has agreed to manufacture chips with Intel, marking a major shift in semiconductor production as the US seeks to bring chip manufacturing back from Taiwan and other countries.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/topic/tech/"
-        },
-        {
-          "title": "Epic Games Announces Major Launcher Redesign with Player Profiles and Universal Controller Support",
-          "summary": "Epic Games revealed a significant redesign of its launcher, introducing player profiles with avatars, support for universal controllers, and numerous new features for gamers.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        },
-        {
-          "title": "Numerous Older Apple Devices Hit with Unpatchable Bug",
-          "summary": "Researchers identified an unpatchable vulnerability in older Apple devices due to immutable code, recommending migration to newer hardware as the most effective mitigation.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        },
-        {
-          "title": "GTA 6 Preorders Begin Next Week with Official Cover Art Confirmed",
-          "summary": "Rockstar Games confirmed that preorders for GTA 6 will launch next week, accompanied by the official cover art, though the final price remains unannounced.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        },
-        {
-          "title": "The Oura Ring 5 Launches at $399 with Strong Appeal for First-Time Buyers",
-          "summary": "The new Oura Ring 5 fitness tracker is now available at $399, offering compelling features for first-time buyers while providing less upgrade incentive for existing older model owners.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/technology"
-        },
-        {
-          "title": "Xbox Plans Significant Layoffs as New CEO Overhauls Microsoft Gaming Division",
-          "summary": "Microsoft's Xbox division is preparing for major layoffs as its new CEO initiates a strategic overhaul, with studios in the division facing potential closures.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/technology"
-        },
-        {
-          "title": "Nothing Axes Upcoming Budget CMF Phone Due to RAM Shortage",
-          "summary": "Nothing has canceled its planned budget CMF phone due to global RAM shortages, disrupting its product lineup and affecting consumer expectations.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        },
-        {
-          "title": "Amazon MGM Studios Drops Upcoming OpenAI Movie",
-          "summary": "Amazon MGM Studios decided to release an upcoming movie featuring OpenAI through a different studio, stating it would be better served elsewhere.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
         "https://finance.yahoo.com/topic/tech/",
         "https://www.pcmag.com/news",
