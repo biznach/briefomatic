@@ -1,20 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-06-23 07:17 UTC*
+*Generated: 2026-06-23 13:00 UTC*
 
-Here is your executive briefing for June 23, 2026:
+1. **Market Overview**: The global market is experiencing a selloff, with the MSCI Index dropping 2.3% and Nasdaq futures declining 1.3% amid hawkish Fed signals. Bitcoin dipped below $63,000, and major altcoins such as Ethereum, Solana, and XRP also declined. The total crypto market cap decreased by 2.7% to $2.2 trillion.
 
-1. **Market Overview**: The Dow Jones Industrial Average reached a record high after a strong U.S. jobs report, with 254,000 jobs added in September and unemployment falling to 4.1%. However, the cryptocurrency market saw significant liquidations, with $888 million in crypto futures liquidations over the past 24 hours. Bitcoin rebounded to $64,017, while major cryptocurrencies such as Ethereum, Solana, and Dogecoin saw declines in their prices.
+2. **Tech & AI**: Significant developments include the launch of Franklin Crypto, an active digital-asset management division by Franklin Templeton, and the resumption of trading on THORChain after a $10.7 million exploit. Additionally, there have been advancements in AI models, such as the introduction of VibeThinker, a 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO.
 
-2. **Tech & AI**: Notable tech developments include the launch of Steam Machine, a new gaming platform, and the introduction of VibeThinker, a 3B parameter model that outperforms Opus 4.5 in reasoning tasks. Additionally, there have been advancements in AI models such as GLM-5.2 and Moebius, a 0.2B image inpainting model. OpenAI also announced DayBreak, a new initiative focused on securing the world.
-
-3. **Gaming & Entertainment**: The gaming industry saw the launch of Steam Machine, a new gaming platform. Additionally, there have been developments in tokenized gaming assets, such as tokenized Pokémon cards, which saw a surge in sales on Solana-based platforms.
+3. **Gaming & Entertainment**: The Steam Machine has launched, which may impact the gaming industry. However, there is limited information available on its features and potential market impact.
 
 4. **Key Insights**:
-* The U.S. labor market remains strong, with 254,000 jobs added in September and unemployment falling to 4.1%.
-* The cryptocurrency market is experiencing significant volatility, with $888 million in crypto futures liquidations over the past 24 hours.
-* Institutional investors are increasingly interested in digital assets, with Franklin Templeton launching a new digital asset investment division and Bank of America's CEO stating that the financial industry is ready for crypto payments with regulatory approval.
-* Advancements in AI models continue to accelerate, with new models such as VibeThinker and Moebius showing promising results.
-* The gaming industry is seeing increased adoption of digital assets, with tokenized gaming assets such as Pokémon cards gaining popularity.
+* The global market is experiencing volatility due to hawkish Fed signals and significant tech selloffs.
+* Bitcoin and major altcoins have declined, contributing to a decrease in the total crypto market cap.
+* There have been notable developments in AI, including the launch of new models and divisions focused on digital-asset management.
+* The Steam Machine launch may have implications for the gaming industry, but more information is needed to assess its potential impact.
+* Corporate earnings continue to provide underlying support for markets, despite the tech selloff.
 
-5. **Watch List**: Items to monitor in the coming days include the continued development of AI models, the growth of the gaming industry's adoption of digital assets, and the potential impact of regulatory approvals on the cryptocurrency market. Additionally, investors should keep an eye on the performance of major cryptocurrencies such as Bitcoin, Ethereum, and Solana, as well as the overall health of the U.S. labor market and its potential impact on the economy.
+5. **Watch List**: 
+* Market reaction to the Fed's hawkish stance and its impact on global equities.
+* Bitcoin and major altcoin price movements.
+* Developments in AI, particularly the performance of new models and their potential applications.
+* The impact of the Steam Machine launch on the gaming industry.
+* Earnings reports from major companies and their effect on market sentiment.
