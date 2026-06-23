@@ -1,23 +1,26 @@
 # Daily Briefing
 
-*Generated: 2026-06-23 13:00 UTC*
+*Generated: 2026-06-23 18:44 UTC*
 
-1. **Market Overview**: The global market is experiencing a selloff, with the MSCI Index dropping 2.3% and Nasdaq futures declining 1.3% amid hawkish Fed signals. Bitcoin dipped below $63,000, and major altcoins such as Ethereum, Solana, and XRP also declined. The total crypto market cap decreased by 2.7% to $2.2 trillion.
+Here is a concise executive briefing based on the provided raw news and market data:
 
-2. **Tech & AI**: Significant developments include the launch of Franklin Crypto, an active digital-asset management division by Franklin Templeton, and the resumption of trading on THORChain after a $10.7 million exploit. Additionally, there have been advancements in AI models, such as the introduction of VibeThinker, a 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO.
+1. **Market Overview**: The global market is experiencing a selloff, with the MSCI index down 2.3% and Nasdaq futures down 1.3%. The KOSPI index in South Korea plunged over 8%. In the crypto market, Bitcoin hit a two-week low at $61,877, and major cryptocurrencies like Ethereum, Solana, and Cardano are also down. The US Senate passed a ban on Central Bank Digital Currencies (CBDCs) through 2030.
 
-3. **Gaming & Entertainment**: The Steam Machine has launched, which may impact the gaming industry. However, there is limited information available on its features and potential market impact.
+2. **Tech & AI**: OpenAI has expanded its partner network, and Jony Ive has joined the company to design a new generation of AI-era products. Anthropic is deepening its presence in the Korean market amid a global AI control race. Samsung demonstrated 3D stacked FETs with triple nanosheet channels at 42nm, and Mistral OCR 4 was announced.
+
+3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, an article titled "The Low-Tech AI of Elden Ring" was mentioned, discussing the game's AI technology.
 
 4. **Key Insights**:
-* The global market is experiencing volatility due to hawkish Fed signals and significant tech selloffs.
-* Bitcoin and major altcoins have declined, contributing to a decrease in the total crypto market cap.
-* There have been notable developments in AI, including the launch of new models and divisions focused on digital-asset management.
-* The Steam Machine launch may have implications for the gaming industry, but more information is needed to assess its potential impact.
-* Corporate earnings continue to provide underlying support for markets, despite the tech selloff.
+* The global market is experiencing a downturn, with tech stocks and cryptocurrencies being heavily affected.
+* The US Senate's ban on CBDCs through 2030 may have significant implications for the crypto market.
+* OpenAI's expansion and Jony Ive's involvement signal a potential shift in AI-era product design.
+* Samsung's demonstration of 3D stacked FETs could lead to advancements in semiconductor technology.
+* Tether (USDT) dominance in crypto markets has surged to 8.9%, with potential for further growth.
 
 5. **Watch List**: 
-* Market reaction to the Fed's hawkish stance and its impact on global equities.
-* Bitcoin and major altcoin price movements.
-* Developments in AI, particularly the performance of new models and their potential applications.
-* The impact of the Steam Machine launch on the gaming industry.
-* Earnings reports from major companies and their effect on market sentiment.
+* Global market trends and potential recovery
+* Crypto market movements, especially Bitcoin and Ethereum
+* Developments in AI technology and its applications
+* Samsung's semiconductor advancements and potential impact on the industry
+* OpenAI's future products and partnerships
+* US regulatory decisions on CBDCs and their effects on the crypto market
