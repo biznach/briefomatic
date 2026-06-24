@@ -1,26 +1,26 @@
 # Daily Briefing
 
-*Generated: 2026-06-23 18:44 UTC*
+*Generated: 2026-06-24 00:42 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The global market is experiencing a selloff, with the MSCI index down 2.3% and Nasdaq futures down 1.3%. The KOSPI index in South Korea plunged over 8%. In the crypto market, Bitcoin hit a two-week low at $61,877, and major cryptocurrencies like Ethereum, Solana, and Cardano are also down. The US Senate passed a ban on Central Bank Digital Currencies (CBDCs) through 2030.
+1. **Market Overview**: The cryptocurrency market is experiencing a pullback, with Bitcoin and Ethereum down 1.67% and 3.26% in the last 24 hours, respectively. The macro market is seeing significant developments, including Micron and Trip.com's earnings announcements and the UK Prime Minister's resignation. The Nigerian Stock Market's All-Share Index has surged to 250,000, and SpaceX's potential IPO at a $2 trillion valuation is sparking debate about the AI bubble.
 
-2. **Tech & AI**: OpenAI has expanded its partner network, and Jony Ive has joined the company to design a new generation of AI-era products. Anthropic is deepening its presence in the Korean market amid a global AI control race. Samsung demonstrated 3D stacked FETs with triple nanosheet channels at 42nm, and Mistral OCR 4 was announced.
+2. **Tech & AI**: Google has released NotebookLM 2.0, a fully autonomous AI research agent powered by Gemini 3.5. Other notable tech developments include the launch of FUTO Swipe, a new swipe typing model, and the release of Rhombus Language 1.0. Additionally, there have been significant advancements in millimeter wave technology, with Quaise Energy achieving 100 meters of drilling using this technology.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, an article titled "The Low-Tech AI of Elden Ring" was mentioned, discussing the game's AI technology.
+3. **Gaming & Entertainment**: A new viral game called "CatchCat" has spawned a dedicated cryptocurrency coin in just 24 hours. The game turns real street cats into gameplay elements, and its rapid success is generating significant interest in the gaming and crypto communities.
 
 4. **Key Insights**:
-* The global market is experiencing a downturn, with tech stocks and cryptocurrencies being heavily affected.
-* The US Senate's ban on CBDCs through 2030 may have significant implications for the crypto market.
-* OpenAI's expansion and Jony Ive's involvement signal a potential shift in AI-era product design.
-* Samsung's demonstration of 3D stacked FETs could lead to advancements in semiconductor technology.
-* Tether (USDT) dominance in crypto markets has surged to 8.9%, with potential for further growth.
+* The cryptocurrency market is experiencing a short-term pullback, but long-term trends remain bullish.
+* AI research and development are accelerating, with Google's NotebookLM 2.0 release being a significant milestone.
+* The macro market is seeing significant developments, including earnings announcements and geopolitical events.
+* New technologies, such as millimeter wave technology, are achieving breakthroughs and generating interest.
+* The gaming and crypto communities are intersecting, with new games and coins being launched rapidly.
 
 5. **Watch List**: 
-* Global market trends and potential recovery
-* Crypto market movements, especially Bitcoin and Ethereum
-* Developments in AI technology and its applications
-* Samsung's semiconductor advancements and potential impact on the industry
-* OpenAI's future products and partnerships
-* US regulatory decisions on CBDCs and their effects on the crypto market
+* Bitcoin and Ethereum prices
+* Micron and Trip.com's earnings announcements
+* UK political developments and their impact on the economy
+* SpaceX's potential IPO and its implications for the AI bubble
+* Google's NotebookLM 2.0 and its potential applications in AI research
+* The development of new games and coins in the gaming and crypto communities.
