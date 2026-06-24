@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T07:13:50.425481+00:00",
-  "generated_at_human": "2026-06-24 07:13 UTC",
+  "generated_at": "2026-06-24T12:47:11.418760+00:00",
+  "generated_at_human": "2026-06-24 12:47 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,34 +8,100 @@
       "count": 25,
       "items": [
         {
+          "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+          "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+          "score": 345,
+          "comments": 111
+        },
+        {
+          "title": "Krea 2 Technical Report",
+          "url": "https://www.krea.ai/blog/krea-2-technical-report",
+          "score": 29,
+          "comments": 3
+        },
+        {
+          "title": "Too many R packages: CRAN is inundated with submissions",
+          "url": "https://rworks.dev/posts/too-many-R-packages/",
+          "score": 18,
+          "comments": 5
+        },
+        {
+          "title": "Minimus container images are now free",
+          "url": "https://images.minimus.io/",
+          "score": 17,
+          "comments": 7
+        },
+        {
+          "title": "Statistics that live in your SQL",
+          "url": "https://kolistat.com/blog/the-stats-duck-v0-6-0/",
+          "score": 56,
+          "comments": 5
+        },
+        {
+          "title": "A deadly fungus that can infect cats and people is spreading",
+          "url": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
+          "score": 52,
+          "comments": 34
+        },
+        {
           "title": "Vulnerability reports are not special anymore",
           "url": "https://words.filippo.io/vuln-reports/",
-          "score": 213,
-          "comments": 116
+          "score": 320,
+          "comments": 175
         },
         {
-          "title": "Jerry's Map",
-          "url": "http://www.jerrysmap.com/the-map",
-          "score": 432,
-          "comments": 51
-        },
-        {
-          "title": "FUTO Swipe – A new swipe typing model",
-          "url": "https://swipe.futo.tech/",
-          "score": 468,
-          "comments": 144
-        },
-        {
-          "title": "Qwen-AgentWorld: Language World Models for General Agents",
-          "url": "https://arxiv.org/abs/2606.24597",
-          "score": 64,
-          "comments": 10
+          "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+          "url": "https://haystack.deepset.ai/",
+          "score": 8,
+          "comments": 4
         },
         {
           "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
           "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
-          "score": 64,
-          "comments": 18
+          "score": 173,
+          "comments": 79
+        },
+        {
+          "title": "Jerry's Map",
+          "url": "http://www.jerrysmap.com/the-map",
+          "score": 515,
+          "comments": 55
+        },
+        {
+          "title": "In memory of the man who put red and green squiggles under words",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+          "score": 469,
+          "comments": 76
+        },
+        {
+          "title": "François Englert (1932 – 2026)",
+          "url": "https://home.cern/francois-englert-1932-2026/",
+          "score": 16,
+          "comments": 2
+        },
+        {
+          "title": "FUTO Swipe – A new swipe typing model",
+          "url": "https://swipe.futo.tech/",
+          "score": 588,
+          "comments": 214
+        },
+        {
+          "title": "Why eval startups fail (2025)",
+          "url": "https://thomasliao.com/eval-startups",
+          "score": 41,
+          "comments": 37
+        },
+        {
+          "title": "Qwen-AgentWorld: Language World Models for General Agents",
+          "url": "https://arxiv.org/abs/2606.24597",
+          "score": 141,
+          "comments": 42
+        },
+        {
+          "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+          "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+          "score": 135,
+          "comments": 54
         },
         {
           "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
@@ -44,118 +110,52 @@
           "comments": 0
         },
         {
-          "title": "In memory of the man who put red and green squiggles under words",
-          "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-          "score": 318,
-          "comments": 42
-        },
-        {
-          "title": "Show HN: An ASCII 3D Rendering Engine",
-          "url": "https://glyphcss.com",
-          "score": 63,
-          "comments": 21
-        },
-        {
-          "title": "Remaking BBC test cards to teach you video processing",
-          "url": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
-          "score": 19,
-          "comments": 0
-        },
-        {
-          "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
-          "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
-          "score": 50,
-          "comments": 17
+          "title": "Vector Graphics in Lil",
+          "url": "http://beyondloom.com/blog/vectorgraphics.html",
+          "score": 28,
+          "comments": 1
         },
         {
           "title": "Printing Gaussian Splats",
           "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-          "score": 263,
-          "comments": 29
+          "score": 334,
+          "comments": 39
+        },
+        {
+          "title": "Cointegration and Long-Horizon Forecasting (2025)",
+          "url": "https://www.philadelphiafed.org/the-economy/cointegration-and-long-horizon-forecasting",
+          "score": 3,
+          "comments": 0
         },
         {
           "title": "Rhombus Language 1.0",
           "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-          "score": 139,
-          "comments": 32
+          "score": 192,
+          "comments": 65
         },
         {
-          "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-          "url": "https://github.com/End2End-Diffusion/diffusion-bench",
-          "score": 31,
-          "comments": 0
+          "title": "Europeans should learn to love the air-conditioner",
+          "url": "https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner",
+          "score": 17,
+          "comments": 37
         },
         {
-          "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-          "url": "https://ps.tc/pages/blog-usbliter8.html",
-          "score": 132,
-          "comments": 26
+          "title": "Remaking BBC test cards to teach you video processing",
+          "url": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
+          "score": 53,
+          "comments": 3
+        },
+        {
+          "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+          "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+          "score": 6,
+          "comments": 1
         },
         {
           "title": "Swift Package Index joins Apple",
           "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-          "score": 196,
-          "comments": 66
-        },
-        {
-          "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-          "url": "https://tikz.dev/editor/",
-          "score": 374,
-          "comments": 70
-        },
-        {
-          "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-          "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-          "score": 144,
-          "comments": 81
-        },
-        {
-          "title": "The worthlessness of Vitamin D is mildly exaggerated",
-          "url": "https://dynomight.net/vitamin-d/",
-          "score": 272,
-          "comments": 187
-        },
-        {
-          "title": "Lithp.py (~2008)",
-          "url": "https://fogus.me/fun/lithp/",
-          "score": 10,
-          "comments": 2
-        },
-        {
-          "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-          "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
-          "score": 203,
-          "comments": 116
-        },
-        {
-          "title": "Dirty Little Zine – a tool for making an 8 page printable Zine",
-          "url": "https://dirtylittlezine.com/",
-          "score": 109,
-          "comments": 12
-        },
-        {
-          "title": "The Teensy Executable Revisited",
-          "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
-          "score": 28,
-          "comments": 3
-        },
-        {
-          "title": "Inventing the Future, One Lisp Machine at a Time",
-          "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
-          "score": 95,
-          "comments": 10
-        },
-        {
-          "title": "Millimeter wave technology drills 100 meters into granite",
-          "url": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
-          "score": 134,
-          "comments": 38
-        },
-        {
-          "title": "The war on terror primed America for autocracy",
-          "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
-          "score": 182,
-          "comments": 136
+          "score": 216,
+          "comments": 72
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 62712,
-          "change_24h": -0.4,
-          "change_7d": -4.34,
-          "market_cap": 1256283441571
+          "price": 62750,
+          "change_24h": 0.78,
+          "change_7d": -3.13,
+          "market_cap": 1258437899288
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1673.9,
-          "change_24h": -1.08,
-          "change_7d": -6.4,
-          "market_cap": 201769382761
+          "price": 1674.09,
+          "change_24h": 1.06,
+          "change_7d": -5.08,
+          "market_cap": 202108908523
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 69.54,
-          "change_24h": -1.17,
-          "change_7d": -5.16,
-          "market_cap": 40359133815
+          "price": 69.66,
+          "change_24h": 0.97,
+          "change_7d": -3.36,
+          "market_cap": 40439377118
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.07883,
-          "change_24h": -1.71,
-          "change_7d": -9.34,
-          "market_cap": 12205738640
+          "price": 0.078782,
+          "change_24h": -0.77,
+          "change_7d": -8.39,
+          "market_cap": 12196690940
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.150912,
-          "change_24h": -2.63,
-          "change_7d": -11.94,
-          "market_cap": 5624626671
+          "price": 0.148401,
+          "change_24h": -1.91,
+          "change_7d": -12.26,
+          "market_cap": 5527738349
         }
       ]
     },
@@ -212,9 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Solstice",
-          "symbol": "SLX",
-          "market_cap_rank": 341
+          "name": "Nesa",
+          "symbol": "NES",
+          "market_cap_rank": 514
         },
         {
           "name": "Rain",
@@ -222,44 +222,44 @@
           "market_cap_rank": 13
         },
         {
+          "name": "Solstice",
+          "symbol": "SLX",
+          "market_cap_rank": 340
+        },
+        {
+          "name": "Arcium",
+          "symbol": "ARX",
+          "market_cap_rank": 398
+        },
+        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
           "market_cap_rank": 116
         },
         {
-          "name": "Siren",
-          "symbol": "SIREN",
+          "name": "Aave",
+          "symbol": "AAVE",
+          "market_cap_rank": 61
+        },
+        {
+          "name": "Collector Crypt",
+          "symbol": "CARDS",
           "market_cap_rank": 316
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 42
         },
         {
           "name": "Audiera",
           "symbol": "BEAT",
-          "market_cap_rank": 83
+          "market_cap_rank": 94
         },
         {
-          "name": "Grass",
-          "symbol": "GRASS",
-          "market_cap_rank": 137
-        },
-        {
-          "name": "Arcium",
-          "symbol": "ARX",
-          "market_cap_rank": 377
-        },
-        {
-          "name": "Gram (prev. Toncoin)",
-          "symbol": "GRAM",
-          "market_cap_rank": 26
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 10
+          "name": "Jupiter",
+          "symbol": "JUP",
+          "market_cap_rank": 82
         }
       ]
     },
@@ -268,62 +268,48 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 5,
       "items": [
         {
-          "title": "Major Indices Plunge: Dow, S&P 500, and Nasdaq Drop Over 1% Amid Tech Sell-Off",
-          "summary": "The Dow Jones fell 1.10% (543 points), the S&P 500 dropped 1.10%, and the Nasdaq 100 declined 1.50% in the past 24 hours, marking a significant 'strange drop' and 'tech crash' in the market.",
-          "source": "Negociostele",
-          "url": "https://www.facebook.com/Negociostele/posts/noticias-del-mercado-extra%C3%B1as-ca%C3%ADdas-en-bolsa-desplome-tecnol%C3%B3gico-y-el-peligro-/1627421782722325/"
+          "title": "Micron Technology (MU) Drops 12% Ahead of Crucial Q3 Earnings Report",
+          "summary": "Memory chipmaker Micron Technology fell as much as 12% on Tuesday despite being up over 270% for the year, as investors await its Q3 earnings report on Wednesday, June 24, which is seen as a critical test for AI market dynamics[1][2].",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/micron-report-q3-earnings-market-120000593.html"
         },
         {
-          "title": "Fed Chair Powell Reaffirms High Rates, Triggering Broad Market and Crypto Sales",
-          "summary": "Jerome Powell's declaration that interest rates will remain elevated 'for longer than expected' was the primary catalyst for the 2.71% drop in Bitcoin and general sell-offs in equities and cryptocurrencies.",
-          "source": "DiarioBitcoin",
-          "url": "https://www.diariobitcoin.com/analisis/bitcoin-se-desploma-hacia-los-usd-60-000-tras-romper-soporte-critico/"
+          "title": "KOSPI Volatility Hits 90-Handle as Chip Trade Uncertainty Mounts",
+          "summary": "South Korea's KOSPI index experienced extreme volatility with a 90-handle reading, implying a daily 5.5% move, driven by uncertainty in the chip trade and a 10% drop from the previous day, the worst since early March[2].",
+          "source": "Bloomberg",
+          "url": "https://www.youtube.com/watch?v=FfKzVSMRxv4"
         },
         {
-          "title": "Bitcoin Crashes Below $62,300 as It Breaks Critical Support Amid Regulatory Fears",
-          "summary": "Bitcoin fell 2.71% to $62,247.78, breaking the $63,000–$65,000 consolidation range, while the SEC announced a new investigation into major exchanges for alleged securities violations.",
-          "source": "DiarioBitcoin",
-          "url": "https://www.diariobitcoin.com/analisis/bitcoin-se-desploma-hacia-los-usd-60-000-tras-romper-soporte-critico/"
+          "title": "US President Trump Promotes 'Best Economy Ever' Agenda in Pennsylvania Amid Inflation Concerns",
+          "summary": "President Trump is promoting his economic agenda in Pennsylvania, citing Labor Department data showing better-than-expected job growth, while dismissing inflation concerns fueled by the Iran conflict and Strait of Hormuz closure[3].",
+          "source": "The Hill",
+          "url": "https://thehill.com/video-clips/5936152-watch-live-donald-trump-pennsylvania-economy/"
         },
         {
-          "title": "XRP Slides 3.3% to $1.10 Support Level, Risking Drop to $0.80",
-          "summary": "XRP dropped 3.3% in 24 hours as key support at $1.10 weakened, with net flows to exchanges spiking to July 2025 highs and 'whales' positioning to sell amid deteriorating macroeconomic conditions.",
-          "source": "FXEmpire",
-          "url": "https://www.fxempire.es/forecasts/article/noticias-sobre-el-precio-de-xrp-parece-probable-una-caida-a-080-usd-al-ceder-el-soporte-clave-300388"
+          "title": "Philippines Central Bank Hikes Rates Twice This Year to Combat 7.2% Inflation",
+          "summary": "The Philippines' central bank opted to hike rates twice in 2026 to address inflation that peaked at 7.2% in April, despite GDP growth falling to a low 2.8% in Q1, the lowest since 2009 excluding the pandemic[4].",
+          "source": "Too Long Magazine",
+          "url": "https://www.youtube.com/watch?v=MKwe5k9YDUc"
         },
         {
-          "title": "SpaceX Shares Hit Lowest Since IPO, Erasing Previous Rally in Third Down Session",
-          "summary": "SpaceX stock fell for the third consecutive session, touching its lowest level since its IPO and wiping out nearly all of its spectacular pre-IPO rally.",
-          "source": "Instagram (gbmplus)",
-          "url": "https://www.instagram.com/p/DZ7MTucDTBV/"
-        },
-        {
-          "title": "Alibaba Sues Pentagon to Remove Itself from Military Blacklist",
-          "summary": "Alibaba has filed a lawsuit against the U.S. Pentagon to clear its name and exit its military blacklist list, while also seeking U.S. justice to resolve the issue.",
-          "source": "Investing.com",
-          "url": "https://es.investing.com/equities"
-        },
-        {
-          "title": "Options Volume Surges for Molina Healthcare and Ares Capital Amid Market Volatility",
-          "summary": "Options trading volume for Molina Healthcare reached 2,090 contracts and Ares Capital hit 21,788 contracts, signaling heightened investor activity as markets enter a new stage of volatility.",
-          "source": "Investing.com",
-          "url": "https://es.investing.com/equities"
+          "title": "China's Retail Sales Fall 0.6% in May as Trade War Shifts Export Reliance to EU",
+          "summary": "China's retail sales declined 0.6% year-on-year in May, the first drop since December 2022, while exports surged 19.4% as the US-China trade war has made Chinese exporters more reliant on the EU as a 'consumer of last resort'[5].",
+          "source": "Too Long Magazine",
+          "url": "https://www.youtube.com/watch?v=YR5YFbjx1rc"
         }
       ],
       "citations": [
-        "https://www.facebook.com/Negociostele/posts/noticias-del-mercado-extra%C3%B1as-ca%C3%ADdas-en-bolsa-desplome-tecnol%C3%B3gico-y-el-peligro-/1627421782722325/",
-        "https://www.diariobitcoin.com/analisis/bitcoin-se-desploma-hacia-los-usd-60-000-tras-romper-soporte-critico/",
-        "https://es.investing.com/equities",
-        "https://www.fxempire.es/forecasts/article/noticias-sobre-el-precio-de-xrp-parece-probable-una-caida-a-080-usd-al-ceder-el-soporte-clave-300388",
-        "https://www.facebook.com/Negociostele/posts/noticias-del-mercado-el-fin-de-la-fiesta-de-la-iael-d%C3%B3lar-triunfa-e-intervenci%C3%B3n/1627308059400364/",
-        "https://www.eleconomista.com.mx",
-        "https://www.instagram.com/p/DZ7MTucDTBV/",
-        "https://www.instagram.com/reel/DZ8haFZkbTZ/",
-        "https://www.instagram.com/reel/DZ9A1n3Rnyy/",
-        "https://www.instagram.com/p/DZ7-VEdI8-r/"
+        "https://finance.yahoo.com/video/micron-report-q3-earnings-market-120000593.html",
+        "https://www.youtube.com/watch?v=FfKzVSMRxv4",
+        "https://thehill.com/video-clips/5936152-watch-live-donald-trump-pennsylvania-economy/",
+        "https://www.youtube.com/watch?v=MKwe5k9YDUc",
+        "https://www.youtube.com/watch?v=YR5YFbjx1rc",
+        "https://www.tiktok.com/@theviewabc/video/7654690067205623054",
+        "https://www.instagram.com/reel/DZ8FUpiJ6or/",
+        "https://www.instagram.com/reel/DZ70PrOEkpZ/"
       ]
     },
     "crypto_news": {
@@ -331,65 +317,55 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 6,
       "items": [
         {
-          "title": "Bitcoin Dips Below $62K, Ethereum Plunges 6% as Crypto Market Erases $120B",
-          "summary": "The cryptocurrency market suffered a major blow over the past 24 hours, with Bitcoin falling to $62,000 and Ethereum dropping 6% to $1,650, while total market cap erased $120 billion to below $2.23 trillion. Over $700 million in liquidations occurred, with BTC trades accounting for 30% of the total.",
-          "source": "CryptoPotato",
-          "url": "https://cryptopotato.com/bitcoin-btc-dips-below-62k-ethereum-eth-plunges-6-daily-market-watch/"
+          "title": "Bitcoin ETFs Hit Record Outflows Amid Worst Month Since Launch",
+          "summary": "US Bitcoin ETFs experienced record outflows over the past 30 days, marking the worst month since their launch two years ago, with prices consolidating near lows around $62,500 after breaking below the $63,000 ascending support line.",
+          "source": "Thinking Crypto",
+          "url": "https://www.youtube.com/watch?v=_R_p-0rtacw&vl=en"
         },
         {
-          "title": "Sixth Consecutive Week of Bitcoin ETF Outflows: $5.94B Cumulative Redemptions",
-          "summary": "U.S. spot Bitcoin ETFs recorded $228 million in redemptions during the shortened week ending June 22, marking the sixth consecutive week of net outflows and bringing cumulative redemptions to $5.94 billion. This represents the largest institutional redemption wave since the launch of spot Bitcoin ETFs.",
-          "source": "CoinStats",
-          "url": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
+          "title": "Bitcoin Death Cross and Bearish Patterns Signal Potential Drop to $45,000",
+          "summary": "Bitcoin is forming a major death cross between the 50 and 200 daily moving averages while breaking a bear flag pattern on the 4-hour chart, with analysts warning of a possible drop to $45,000—the 2022 bear market support level.",
+          "source": "Thinking Crypto",
+          "url": "https://www.youtube.com/watch?v=Cv2rDTGTp2Q"
         },
         {
-          "title": "THORChain Resumes Trading After $10.7M Exploit; Native Monero Integration Planned",
-          "summary": "THORChain has resumed trading more than a month after its $10.7 million exploit, with native Monero integration currently in development. This marks a significant recovery milestone for the protocol following the security breach.",
-          "source": "CoinGecko",
-          "url": "https://www.facebook.com/coingecko/posts/the-total-crypto-market-cap-is-down-27-today-to-22t-/1451953746976902/"
+          "title": "Congress Schedules Clarity Act Hearing for July 17; White House Races to Pass Bipartisan Crypto Bill",
+          "summary": "Congress has scheduled a hearing on the Clarity Act for July 17, 2026, while the White House, led by crypto adviser Patrick Wit, is negotiating with Democrats to pass the bill before midterms, though an ethics rule restricting crypto profits for elected officials remains a sticking point.",
+          "source": "Thinking Crypto",
+          "url": "https://www.youtube.com/watch?v=_R_p-0rtacw&vl=en"
         },
         {
-          "title": "DeXe Soars 47% and Provenance Blockchain Pumps 26% Amid Market Slump",
-          "summary": "While most major cryptocurrencies declined, DeXe (DEXE) surged 47% and Provenance Blockchain (HASH) increased 26% over the past 24 hours, standing as notable gainers. Rain (RAIN) also registered modest gains in green territory despite the broader market downturn.",
-          "source": "CryptoPotato",
-          "url": "https://cryptopotato.com/bitcoin-btc-dips-below-62k-ethereum-eth-plunges-6-daily-market-watch/"
+          "title": "Ethereum and XRP Show Continued Weakness with Support Tests at $1.5K and $68",
+          "summary": "Ethereum is testing critical support between $1.5K–$1.6K with RSI nearing oversold territory, while XRP breaks below its ascending support line, confirming a longer-term bearish trend with key support at $68 and next levels at $61–$63.",
+          "source": "Thinking Crypto",
+          "url": "https://www.youtube.com/watch?v=1f-UghrL7Ho"
         },
         {
-          "title": "BitMine Immersion Adds 52,203 Ethereum; Strategy Purchases 520 Bitcoin",
-          "summary": "BitMine Immersion purchased another 52,203 Ethereum, now holding over 5.67 million ETH tokens. Meanwhile, Strategy acquired 520 Bitcoin for approximately $35 million, bringing its total holdings to 847,363 BTC.",
-          "source": "CoinGecko",
-          "url": "https://www.facebook.com/coingecko/posts/the-total-crypto-market-cap-is-down-27-today-to-22t-/1451953746976902/"
+          "title": "Chainlink Flips Cardano by Market Cap Amid Market Rebalancing",
+          "summary": "Chainlink has surpassed Cardano in market capitalization as the crypto market rebalances, with Bitcoin holding the 200-week moving average and remaining above February lows despite short-term pullbacks.",
+          "source": "Thinking Crypto",
+          "url": "https://www.youtube.com/watch?v=_R_p-0rtacw&vl=en"
         },
         {
-          "title": "Trump Executive Order on Quantum Computing Research Seen as Crypto Threat",
-          "summary": "A recent executive order signed by Donald Trump aims to advance quantum computing research and development, which is viewed as a major threat to Bitcoin and the broader cryptocurrency ecosystem. This directive has contributed to market FUD alongside reports of OG investors dumping holdings.",
-          "source": "CryptoPotato",
-          "url": "https://cryptopotato.com/bitcoin-btc-dips-below-62k-ethereum-eth-plunges-6-daily-market-watch/"
-        },
-        {
-          "title": "VERONA Rebrands to AI Intelligence Layer and Surges 76.6%; ARX Launches TGE",
-          "summary": "VERONA rose 76.6% following its rebrand from XION to an AI intelligence layer. Additionally, ARX launched its Token Generation Event (TGE) today and is currently trading at approximately $56 million market cap.",
-          "source": "CoinGecko",
-          "url": "https://www.facebook.com/coingecko/posts/the-total-crypto-market-cap-is-down-27-today-to-22t-/1451953746976902/"
-        },
-        {
-          "title": "SPCX Falls 17.8% Erasing Most Gains Since Market Debut",
-          "summary": "SPCX declined 17.8% over the past 24 hours, erasing most of its gains since its market debut. This sharp drop contrasts with the broader market's 2.7% decline and highlights specific project volatility.",
-          "source": "CoinGecko",
-          "url": "https://www.facebook.com/coingecko/posts/the-total-crypto-market-cap-is-down-27-today-to-22t-/1451953746976902/"
+          "title": "Genius Act Passed, Providing Regulatory Clarity for Stablecoins",
+          "summary": "The Genius Act has been passed, delivering regulatory clarity for stablecoins and contributing to renewed market excitement around stablecoin yields, though its impact on broader crypto adoption remains under evaluation.",
+          "source": "Thinking Crypto",
+          "url": "https://www.youtube.com/watch?v=_R_p-0rtacw&vl=en"
         }
       ],
       "citations": [
-        "https://cryptopotato.com/bitcoin-btc-dips-below-62k-ethereum-eth-plunges-6-daily-market-watch/",
-        "https://coinstats.app/ai/a/latest-news-for-bitcoin",
-        "https://www.facebook.com/coingecko/posts/the-total-crypto-market-cap-is-down-27-today-to-22t-/1451953746976902/",
-        "https://news.ycombinator.com/item?id=48642699",
-        "https://www.binance.com/en/price/bitcoin",
-        "https://www.facebook.com/365newsdotpk/posts/bitcoin-price-in-crores-shocking-value-revealed-crypto-update-365-news-cryptocur/1017734417889263/",
-        "https://www.kavout.com/topics/ripple--xrp"
+        "https://www.youtube.com/watch?v=1f-UghrL7Ho",
+        "https://www.youtube.com/watch?v=Cv2rDTGTp2Q",
+        "https://www.youtube.com/watch?v=_R_p-0rtacw&vl=en",
+        "https://www.youtube.com/watch?v=9N7z0cJoC6Q",
+        "https://finance.yahoo.com/video/micron-report-q3-earnings-market-120000593.html",
+        "https://www.youtube.com/watch?v=kdm8HeFrP2I",
+        "https://finance.yahoo.com/video/company-owns-5-ethereum-hits-170250791.html",
+        "https://www.whitehouse.gov/videos/president-trump-delivers-remarks-jun-23-2026/",
+        "https://www.cnbc.com/video/2026/06/24/morning-call-sheet-ai-demand-stays-strong-as-rates-and-valuations-test-markets.html"
       ]
     },
     "ai_news": {
@@ -397,50 +373,62 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Google Unveils NotebookLM 2.0: Agentic AI Researcher Powered by Gemini 3.5",
-          "summary": "Google has transformed NotebookLM into a fully autonomous AI research agent capable of code execution, deep research, data analysis, and cinematic video generation, marking a major productivity upgrade for 2026.",
-          "source": "YouTube - AI Research Agent, Code Execution & AI Videos",
+          "title": "Google Releases NotebookLM 2.0: A Fully Agentic AI Researcher Powered by Gemini 3.5",
+          "summary": "Google has transformed NotebookLM into a powerful AI research agent that automatically finds sources, executes code, analyzes data, generates presentations, and creates cinematic AI videos using the upgraded Gemini 3.5 model.",
+          "source": "YouTube",
           "url": "https://www.youtube.com/watch?v=RnotV4nHfvE"
         },
         {
-          "title": "JPMorgan and Goldman Sachs Block Anthropic's Claude in Hong Kong Amid Licensing Concerns",
-          "summary": "Major U.S. financial firms have restricted Hong Kong employees from accessing Anthropic's AI models due to licensing terms that limit use in greater China, signaling a new geopolitical boundary in AI access.",
-          "source": "YouTube - China Decode",
-          "url": "https://www.youtube.com/watch?v=V_fDY853yvI"
+          "title": "Meta Hires Four OpenAI Researchers in Major Talent Acquisition",
+          "summary": "Meta has hired four former OpenAI researchers—Shengjia Zhao, Jiahui Yu, Shuchao Bi, and Hongyu Ren—marking a significant shift in AI talent between the two companies.",
+          "source": "Economic Times AI",
+          "url": "https://ai.economictimes.com"
         },
         {
-          "title": "Industrial AI Shifts to Factory Floor: Siemens CEO Highlights Digital Twin Blueprint for Future Manufacturing",
-          "summary": "Siemens CEO Roland Busch reveals a white paper blueprint for 'I-factories' based on digital twins, where AI drives faster design cycles, simulation verification, and autonomous robot deployment across semiconductors, pharma, and automotive sectors.",
-          "source": "YouTube - Siemens CEO on Industrial AI's Future",
+          "title": "OpenAI's ChatGPT Experiences Global Downtime Amid User Loading Issues",
+          "summary": "Users worldwide reported issues loading prompts on OpenAI's ChatGPT, causing service disruptions and highlighting potential infrastructure challenges for the platform.",
+          "source": "Economic Times AI",
+          "url": "https://ai.economictimes.com"
+        },
+        {
+          "title": "Anthropic Plans ID Verification for Select Users Following Claude Mythos Delay",
+          "summary": "Anthropic will begin requesting ID verification from some users, while the company previously announced it won't release its new Claude Mythos AI model to the public due to safety concerns.",
+          "source": "Instagram",
+          "url": "https://www.instagram.com/reel/DZ8V-02vYrU"
+        },
+        {
+          "title": "Siemens CEO Highlights Industrial AI's Expansion to Factory Floors Globally",
+          "summary": "Siemens CEO Roland Busch emphasized that AI is moving beyond chatbots to factory floors, boosting productivity in sectors like semiconductors, pharmaceuticals, aerospace, and automotive industries through digital twins and robotics.",
+          "source": "YouTube",
           "url": "https://www.youtube.com/watch?v=iR3UNlZSL6k"
         },
         {
-          "title": "Billions Flood Into Apple Intelligence and Custom AI Chips as Next-Gen Hardware Accelerates",
-          "summary": "Massive capital investment is flowing into Apple Intelligence, custom AI chip development, and next-generation hardware, reinforcing Apple's strategic push into on-device AI capabilities.",
-          "source": "Instagram - helloapple",
-          "url": "https://www.instagram.com/reel/DZ654UNOTWe"
+          "title": "US-UAE Multi-Billion Dollar AI Data Campus Deal Remains Unfinalized",
+          "summary": "Sources indicate that the proposed multi-billion dollar AI data campus deal between the US and UAE is far from finalized, reflecting ongoing complexities in international AI infrastructure investments.",
+          "source": "Economic Times AI",
+          "url": "https://ai.economictimes.com"
         },
         {
-          "title": "Sam Altman of OpenAI Acknowledges Original Developers of General AI Tools That Outperform Domain-Specific Models",
-          "summary": "Sam Altman, CEO of OpenAI, publicly thanked the original developers of general AI tools that have proven more effective than expensive domain-specific alternatives, highlighting a key industry trend toward versatile AI systems.",
-          "source": "TikTok - parthknowsai",
-          "url": "https://www.tiktok.com/@parthknowsai/video/7654565305712250142"
+          "title": "Apple to Open Underlying AI Technology to Developers",
+          "summary": "Apple announced plans to open up its underlying AI technology to developers, potentially enabling broader integration and innovation across its ecosystem.",
+          "source": "Economic Times AI",
+          "url": "https://ai.economictimes.com"
         }
       ],
       "citations": [
+        "https://ai.economictimes.com",
         "https://www.youtube.com/watch?v=RnotV4nHfvE",
-        "https://www.youtube.com/watch?v=V_fDY853yvI",
+        "https://www.youtube.com/watch?v=gL8Z8pOvXb0",
+        "https://www.instagram.com/reel/DZ8V-02vYrU/",
         "https://www.youtube.com/watch?v=iR3UNlZSL6k",
-        "https://www.instagram.com/reel/DZ654UNOTWe/",
-        "https://www.tiktok.com/@parthknowsai/video/7654565305712250142",
-        "https://www.youtube.com/watch?v=IaxEc-LXDSo",
-        "https://www.euronews.com/video/2026/06/23/watch-french-jets-salute-us-anniversary-with-washington-flyover",
-        "https://www.tiktok.com/@carterpcs/video/7654814650915179806",
-        "https://www.instagram.com/reel/DZ7XjCZBUWD/",
-        "https://www.cbsnews.com/video/trump-blames-vandals-for-reflecting-pool-problems-without-providing-proof/"
+        "https://www.tiktok.com/@bbcnews/video/7654729635493612822",
+        "https://www.youtube.com/watch?v=M5xSEAgU2U4",
+        "https://www.cbsnews.com/video/coffee-shop-tells-dan-goldman-not-welcome-stance-israel/",
+        "https://www.instagram.com/reel/DZ7u0f0zlBJ/",
+        "https://www.cbsnews.com/video/hottest-day-ever-recorded-france-closing-eiffel-tower-early/"
       ]
     },
     "gaming": {
@@ -451,46 +439,46 @@
       "count": 5,
       "items": [
         {
-          "title": "Best New VR Games Coming Soon for Quest 3, PSVR 2, and PCVR",
-          "summary": "A new lineup of upcoming VR titles has been announced, including Breachers Outbreak, LANESPLIT, The Rifted Skies, and Dagger Woods VR, featuring intense shooters, PvPvE extraction, and co-op survival experiences.",
+          "title": "New VR Games Announced for Quest 3, PSVR 2, and PCVR Including 'Breachers Outbreak' and 'Dagger Woods VR'",
+          "summary": "A lineup of upcoming VR titles was revealed today, featuring intense shooters, PvPvE extraction games, and co-op survival adventures like 'Breachers Outbreak' and 'Dagger Woods VR' across Meta Quest, PSVR 2, and PCVR platforms.",
           "source": "YouTube",
           "url": "https://www.youtube.com/watch?v=7idiEzt-2Ts"
         },
         {
           "title": "Nintendo Switch 2 Officially Announced with $50 Price Increase Amid Market Shifts",
-          "summary": "Nintendo has officially confirmed a $50 price increase for the Nintendo Switch 2, reacting to Sony's PS5 price hikes and Valve's Steam Machine pricing, which starts north of $1,000.",
+          "summary": "Nintendo reacted to recent market changes, including Sony's PS5 price hikes and Steam Machine's $1,000+ launch price, by officially announcing a $50 price increase for the Nintendo Switch 2.",
           "source": "YouTube",
           "url": "https://www.youtube.com/watch?v=gmJVwoBTjh8"
         },
         {
-          "title": "Prime Day 2026 Tech & Gaming Deals Include Major Discounts on New Models",
-          "summary": "Amazon Prime Day 2026 features over 25 tech and gaming deals, with newer models receiving an extra $100 off and some devices dropping to their lowest-ever prices, such as $453 for select hardware.",
+          "title": "Steam Machine Launches with Over $1,000 Starting Price, Significantly Higher Than Valve's Original Target",
+          "summary": "Valve unveiled the official price for the Steam Machine yesterday, revealing a starting point north of $1,000, which is significantly more than the company originally intended to charge.",
           "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=A89GFwrQ2Xk"
+          "url": "https://www.youtube.com/watch?v=gmJVwoBTjh8"
         },
         {
-          "title": "IGN Daily Fix Highlights Best Prime Day Gaming Deals",
-          "summary": "Prime Day is officially underway with numerous opportunities to save on gaming products, as IGN's daily fix curates the top deals for players looking to upgrade their setups.",
+          "title": "Retro Gaming Handhelds Evolve with Retroid Pocket Nova Design Reveal and Anbernic Snapdragon G1 Gen 2 Launch",
+          "summary": "The retro gaming sector saw major updates including the Retroid Pocket Nova's new design and display specs, and Anbernic's new Snapdragon G1 Gen 2 handheld for improved Android and emulation performance.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=ZYm-u3B-RD0"
+        },
+        {
+          "title": "Prime Day Gaming Deals Now Available with Extensive Opportunities to Save on Games and Hardware",
+          "summary": "Prime Day has officially begun, offering a vast array of gaming deals and discounts that IGN's daily fix has curated for gamers looking to save on titles and equipment.",
           "source": "IGN",
           "url": "https://www.ign.com/videos/the-best-prime-day-gaming-deals-ign-daily-fix"
-        },
-        {
-          "title": "Steam Elite: The Most Expensive Game on Steam Now Available with 2-Hour Refund Window",
-          "summary": "Steam Elite, the most expensive game on Steam, has launched with a unique 2-hour refund window after gameplay starts, attracting buyers both for gameplay and as a novelty video content piece.",
-          "source": "PC Gamer Magazine",
-          "url": "https://www.facebook.com/pcgamermagazine/videos/we-played-the-most-expensive-game-on-steam-steam-elite-congratulationsonyourpurc/1358384716172637/"
         }
       ],
       "citations": [
         "https://www.youtube.com/watch?v=7idiEzt-2Ts",
         "https://www.youtube.com/watch?v=gmJVwoBTjh8",
-        "https://www.youtube.com/watch?v=A89GFwrQ2Xk",
-        "https://www.instagram.com/reel/DZ7qTD7jKC_/",
-        "https://www.facebook.com/pcgamermagazine/videos/we-played-the-most-expensive-game-on-steam-steam-elite-congratulationsonyourpurc/1358384716172637/",
+        "https://www.youtube.com/watch?v=ZYm-u3B-RD0",
+        "https://www.mlb.com/video/fastcast-tuesday-s-best-in-15-minutes-x1380",
+        "https://www.instagram.com/reel/DZ9dbsvgAo8/",
         "https://www.tiktok.com/@mrbeast/video/7654638524729216287",
         "https://www.ign.com/videos/the-best-prime-day-gaming-deals-ign-daily-fix",
-        "https://talksport.com/football/world-cup/4357901/cristiano-ronaldo-lionel-messi-retirement-question/",
-        "https://www.reddit.com/r/gaming/comments/1ude762/jason_schreier_why_everyone_wants_a_liveservice/",
+        "https://www.reddit.com/r/PHGamers/comments/1ue7k3f/cyberpunk_is_almost_6_years_old_yet_its_still_one/",
+        "https://www.facebook.com/pcgamermagazine/videos/we-played-the-most-expensive-game-on-steam-steam-elite-congratulationsonyourpurc/1358384716172637/",
         "https://www.instagram.com/p/DZ8y59AjBiZ/"
       ]
     },
@@ -502,53 +490,52 @@
       "count": 6,
       "items": [
         {
-          "title": "Amazon Prime Day 2026 Begins with Major Deals on Routers, Tablets, and Laptops",
-          "summary": "Amazon Prime Day has launched, offering discounts of over 35% on Samsung's Galaxy Tab S10 FE+, 47% off on OLED Microsoft Surface Pro laptops, and significant savings on TP-Link routers and mesh systems.",
+          "title": "Apple Confirms Deal with Intel to Build Chips Amid US Manufacturing Push",
+          "summary": "President Trump confirmed that Apple has agreed to manufacture chips with Intel, marking a significant shift in US semiconductor strategy to bring production back from Taiwan.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/topic/tech/"
+        },
+        {
+          "title": "Amazon Prime Day Launches with Major Deals on Routers, Tablets, and Apple Products",
+          "summary": "Amazon Prime Day has begun, featuring discounts over 35% on Samsung's Galaxy Tab S10 FE+, top routers from TP-Link, and Apple products hitting all-time lows including AirPods and iPad Air.",
           "source": "PCMag",
           "url": "https://www.pcmag.com/news"
         },
         {
-          "title": "Apple Announces New CEO John Ternus to Overhaul Device Design",
-          "summary": "Incoming Apple CEO John Ternus, who previously led Apple's design team, is expected to push for 'truly incredible' new device designs, potentially ending the current stagnant iPhone design cycle.",
-          "source": "Bloomberg via PCMag",
+          "title": "Apple's New CEO John Ternus Pushes for 'Truly Incredible' Device Designs",
+          "summary": "Incoming Apple CEO John Ternus, who previously oversaw the design team, is pushing for revolutionary new iPhone and device designs, potentially shaking up the company's product lineup.",
+          "source": "PCMag",
           "url": "https://www.pcmag.com/news"
         },
         {
-          "title": "Deutsche Bahn Nationwide Rail Network Halted by IT Malfunction",
-          "summary": "Germany's rail operator Deutsche Bahn paused all train services for over two-and-a-half hours due to a critical IT malfunction, affecting nationwide travel.",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/world"
+          "title": "Nvidia Solves Data Center Water Problem in Major Tech Breakthrough",
+          "summary": "Nvidia announced it has solved the critical water usage problem in data centers, a major development for data center infrastructure technology.",
+          "source": "Instagram",
+          "url": "https://www.instagram.com/reel/DZ8IvAiAKFJ/"
         },
         {
-          "title": "Alibaba Sues US Government Over Defense Blacklist Addition",
-          "summary": "Chinese e-commerce giant Alibaba has filed a lawsuit against the US Department of Defense after being added to a blacklist citing ties to the Chinese military.",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/world"
+          "title": "SpaceX Trading Frenzy Boosts Elon Musk's Wealth by Billions in One Day",
+          "summary": "SpaceX's trading frenzy generated more wealth for Elon Musk in a single day than Bill Gates' entire net worth, though skepticism remains about the company's valuation.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/topic/tech/"
         },
         {
-          "title": "Kunal Shah Appointed to Lead WhatsApp in India",
-          "summary": "Indian entrepreneur Kunal Shah, a prominent figure in India's startup ecosystem, has been tasked with taking charge of WhatsApp's operations in India, facing a new global spotlight.",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/world"
-        },
-        {
-          "title": "Samsung Secures HBM 4 Revenue Growth Amid Chip Stock Volatility",
-          "summary": "Samsung reported increased revenues from its HBM 4 (High Bandwidth Memory) chips, though US chip stocks plunged following an AI selloff ripple from Asia, with South Korea's Kospi dropping 10%.",
-          "source": "YouTube via Business News",
-          "url": "https://www.youtube.com/watch?v=a8Yn3olm1-o"
+          "title": "Samsung Stock Surges on Share Buyback Plan Reports",
+          "summary": "Samsung shares rose significantly following local media reports about a major share buyback plan, making it the top performer in the Hang Seng Tech index.",
+          "source": "Bloomberg",
+          "url": "https://www.youtube.com/watch?v=FfKzVSMRxv4"
         }
       ],
       "citations": [
+        "https://finance.yahoo.com/topic/tech/",
         "https://www.pcmag.com/news",
-        "https://www.youtube.com/watch?v=a8Yn3olm1-o",
-        "https://www.facebook.com/techinsider/posts/the-company-said-that-the-uss-order-caused-it-immediate-irreparable-and-existent/1379933484006124/",
+        "https://www.youtube.com/watch?v=Z6KTBmitQew",
+        "https://www.instagram.com/reel/DZ8IvAiAKFJ/",
+        "https://www.facebook.com/Insiderinventions/posts/the-company-said-that-the-uss-order-caused-it-immediate-irreparable-and-existent/1374932877833166/",
+        "https://www.youtube.com/watch?v=FfKzVSMRxv4",
         "https://www.dailymotion.com/video/xai6mo6",
-        "https://www.reddit.com/r/europe/comments/1ude54d/mistral_ceo_arthur_mensch_walked_into_the_french/",
-        "https://www.bbc.com/news/world",
-        "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
         "https://www.smartbrief.com",
-        "https://www.facebook.com/rnznewzealand/videos/watch-are-we-witnessing-the-greatest-technological-breakthrough-of-our-time-or-t/1758468155328192/",
-        "https://www.reddit.com/r/Games/comments/1udzw08/aesthetics_of_ready_or_not/"
+        "https://www.reddit.com/r/ArtificialInteligence/comments/1udmxya/chinas_ai_chip_independence_is_mostly_theater/"
       ]
     }
   }
