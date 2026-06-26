@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T18:46:26.144450+00:00",
-  "generated_at_human": "2026-06-25 18:46 UTC",
+  "generated_at": "2026-06-26T00:48:56.401912+00:00",
+  "generated_at_human": "2026-06-26 00:48 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,58 +8,130 @@
       "count": 25,
       "items": [
         {
-          "title": "A Herculaneum scroll has been read for the first time",
+          "title": "An entire Herculaneum scroll has been read for the first time",
           "url": "https://scrollprize.org/firstscroll",
-          "score": 278,
-          "comments": 76
+          "score": 932,
+          "comments": 209
         },
         {
-          "title": "IBM debuts sub-1 nanometer chip technology",
-          "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-          "score": 98,
-          "comments": 57
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "score": 330,
+          "comments": 153
+        },
+        {
+          "title": "Un-0: Generating Images with Coupled Oscillators",
+          "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+          "score": 101,
+          "comments": 27
+        },
+        {
+          "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+          "url": "https://github.com/plbrault/youre-the-os",
+          "score": 81,
+          "comments": 18
         },
         {
           "title": "Oxide computer 3D rack guided tour",
           "url": "https://explorer.oxide.computer/",
-          "score": 47,
-          "comments": 13
+          "score": 285,
+          "comments": 116
         },
         {
-          "title": "Zig's new bitCast semantics and LLVM back end improvements",
-          "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-          "score": 145,
-          "comments": 40
+          "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+          "url": "https://gchandbook.org/",
+          "score": 25,
+          "comments": 3
         },
         {
-          "title": "I built a GPU back end for Emacs",
-          "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
-          "score": 75,
-          "comments": 24
+          "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+          "url": "https://github.com/inkeep/open-knowledge",
+          "score": 191,
+          "comments": 85
         },
         {
-          "title": "OS9Map",
-          "url": "https://yllan.org/software/OS9Map/",
-          "score": 77,
-          "comments": 9
+          "title": "IBM debuts sub-1 nanometer chip technology",
+          "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+          "score": 254,
+          "comments": 146
         },
         {
-          "title": "Apple raises prices of MacBooks, iPads",
-          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-          "score": 356,
-          "comments": 560
+          "title": "An oral history of Bank Python (2021)",
+          "url": "https://calpaterson.com/bank-python.html",
+          "score": 64,
+          "comments": 18
         },
         {
-          "title": "You can't unit test for taste",
-          "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-          "score": 196,
-          "comments": 81
+          "title": "Om Malik has died",
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "score": 337,
+          "comments": 33
+        },
+        {
+          "title": "Migrating from Proxmox to NixOS and Incus",
+          "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
+          "score": 40,
+          "comments": 21
         },
         {
           "title": "Show HN: Chess-Inspired Roguelike",
           "url": "https://princechazz.com",
-          "score": 39,
+          "score": 211,
+          "comments": 71
+        },
+        {
+          "title": "Parallel Parentheses Matching",
+          "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+          "score": 44,
+          "comments": 8
+        },
+        {
+          "title": "Zig's new bitCast semantics and LLVM back end improvements",
+          "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+          "score": 211,
+          "comments": 83
+        },
+        {
+          "title": "OS9Map",
+          "url": "https://yllan.org/software/OS9Map/",
+          "score": 177,
+          "comments": 27
+        },
+        {
+          "title": "The Doorman's Fallacy in action",
+          "url": "https://rozumem.xyz/posts/17",
+          "score": 46,
+          "comments": 73
+        },
+        {
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "score": 615,
+          "comments": 882
+        },
+        {
+          "title": "The last Romans are still around",
+          "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+          "score": 34,
+          "comments": 56
+        },
+        {
+          "title": "What is the mechanical world picture?",
+          "url": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
+          "score": 7,
+          "comments": 0
+        },
+        {
+          "title": "The annotated PyTorch training loop",
+          "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+          "score": 59,
           "comments": 10
+        },
+        {
+          "title": "Military branches restore flu shot requirement after virus swept through base",
+          "url": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+          "score": 79,
+          "comments": 30
         },
         {
           "title": "Besimple AI (YC P25) Is Hiring",
@@ -68,94 +140,22 @@
           "comments": 0
         },
         {
-          "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-          "url": "https://hackernewstrends.com",
-          "score": 469,
-          "comments": 127
+          "title": "You can't unit test for taste",
+          "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+          "score": 240,
+          "comments": 117
         },
         {
-          "title": "Windows 10 quietly gets one more year of support and updates",
-          "url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
-          "score": 120,
-          "comments": 81
-        },
-        {
-          "title": "Half-Life 2 in a Browser",
-          "url": "https://hl2.slqnt.dev/",
-          "score": 578,
-          "comments": 232
-        },
-        {
-          "title": "Tw-fade: pure CSS scroll-driven edge masking",
-          "url": "https://pete.design/tw-fade",
-          "score": 50,
-          "comments": 18
-        },
-        {
-          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-          "score": 719,
-          "comments": 1159
-        },
-        {
-          "title": "Early adversity leaves lasting molecular imprint across the body: primate study",
-          "url": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
-          "score": 25,
-          "comments": 4
-        },
-        {
-          "title": "52-hertz whale",
-          "url": "https://en.wikipedia.org/wiki/52-hertz_whale",
-          "score": 48,
-          "comments": 5
-        },
-        {
-          "title": "Physicists Track and Trap the Elusive Neutrino",
-          "url": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
-          "score": 25,
-          "comments": 3
-        },
-        {
-          "title": "How to get your first customers [video]",
-          "url": "https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers",
-          "score": 46,
-          "comments": 12
+          "title": "GloriousEggroll's Proton has been rebased on Proton 11",
+          "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
+          "score": 52,
+          "comments": 22
         },
         {
           "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
           "url": "https://github.com/decrazyo/anes",
-          "score": 29,
-          "comments": 7
-        },
-        {
-          "title": "LastPass notifies users of yet another data breach",
-          "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-          "score": 391,
-          "comments": 171
-        },
-        {
-          "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
-          "url": "https://lingochunk.com/try",
-          "score": 59,
-          "comments": 27
-        },
-        {
-          "title": "The disappearance of Japan's animators",
-          "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
-          "score": 74,
-          "comments": 63
-        },
-        {
-          "title": "Cloudflare launched self-managed OAuth for all",
-          "url": "https://blog.cloudflare.com/oauth-for-all/",
-          "score": 319,
-          "comments": 137
-        },
-        {
-          "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
-          "url": "https://minipcs.zip",
-          "score": 69,
-          "comments": 28
+          "score": 96,
+          "comments": 32
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 59344,
-          "change_24h": -0.14,
-          "change_7d": -5.24,
-          "market_cap": 1189887541515
+          "price": 59698,
+          "change_24h": -1.66,
+          "change_7d": -4.97,
+          "market_cap": 1196779743028
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1561.6,
-          "change_24h": -0.55,
-          "change_7d": -7.34,
-          "market_cap": 188481771724
+          "price": 1566.56,
+          "change_24h": -3.07,
+          "change_7d": -8.14,
+          "market_cap": 189006247316
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 65.99,
-          "change_24h": 0.08,
-          "change_7d": -4.12,
-          "market_cap": 38306837186
+          "price": 67.82,
+          "change_24h": 0.23,
+          "change_7d": -2.4,
+          "market_cap": 39371650815
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.073607,
-          "change_24h": -0.48,
-          "change_7d": -10.78,
-          "market_cap": 11395584623
+          "price": 0.074811,
+          "change_24h": -1.65,
+          "change_7d": -10.32,
+          "market_cap": 11582383484
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.142169,
-          "change_24h": 0.31,
-          "change_7d": -11.89,
-          "market_cap": 5295047348
+          "price": 0.143355,
+          "change_24h": -2.9,
+          "change_7d": -12.22,
+          "market_cap": 5340324689
         }
       ]
     },
@@ -212,19 +212,14 @@
       "count": 10,
       "items": [
         {
-          "name": "Aave",
-          "symbol": "AAVE",
-          "market_cap_rank": 57
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Hyperliquid",
           "symbol": "HYPE",
           "market_cap_rank": 10
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
         },
         {
           "name": "Rain",
@@ -237,19 +232,24 @@
           "market_cap_rank": 118
         },
         {
+          "name": "Plasma",
+          "symbol": "XPL",
+          "market_cap_rank": 136
+        },
+        {
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 6
+        },
+        {
           "name": "Venice Token",
           "symbol": "VVV",
           "market_cap_rank": 88
         },
         {
-          "name": "MemeCore",
-          "symbol": "M",
-          "market_cap_rank": 58
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Pepe",
+          "symbol": "PEPE",
+          "market_cap_rank": 66
         },
         {
           "name": "Ethereum",
@@ -259,7 +259,7 @@
         {
           "name": "Synapse",
           "symbol": "SYN",
-          "market_cap_rank": 287
+          "market_cap_rank": 320
         }
       ]
     },
@@ -268,61 +268,68 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 8,
       "items": [
         {
-          "title": "Fed's Preferred Inflation Metric PCE Released as Key Economic Indicator",
-          "summary": "The Personal Consumption Expenditures (PCE) report, the Federal Reserve's favored inflation metric, was released on Thursday, June 25, with economists predicting a slight month-to-month increase in inflation.",
+          "title": "US GDP Final QoQ Confirmed at 2.1%, Core PCE Inflation Holds at 0.3% MoM",
+          "summary": "The U.S. released final Q4 GDP growth at 2.1% QoQ, while Core PCE price index rose 0.3% month-over-month, matching forecasts and reinforcing steady inflation trends ahead of the next Fed meeting.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/calendar"
+        },
+        {
+          "title": "S&P 500, Dow, and Nasdaq Futures All Decline Ahead of Market Open",
+          "summary": "U.S. equity futures fell across major indices: S&P 500 Futures dropped 0.25%, Dow Futures declined 0.53%, and Nasdaq Futures slipped 0.29%, reflecting cautious sentiment before the Friday open.",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/watch-thursday-june-25-220000434.html"
+          "url": "https://finance.yahoo.com/calendar/economic/"
         },
         {
-          "title": "Darden Restaurants (DRI) Reports Quarterly Earnings with Same-Store Sales Growth",
-          "summary": "Darden Restaurants disclosed its quarterly results on Thursday, showing same-store sales growth driven by menu price adjustments, marketing campaigns, and consistent customer traffic at Olive Garden and Longhorn Steakhouse.",
+          "title": "Crude Oil Falls 1.7% as Global Demand Concerns Persist",
+          "summary": "Crude oil prices dropped to $70.52, down 1.70%, amid ongoing concerns about global demand and economic stagnation in key markets including Europe and China.",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/watch-thursday-june-25-220000434.html"
+          "url": "https://finance.yahoo.com/calendar/economic/"
         },
         {
-          "title": "McCormick (MKC) Announces Earnings Amid Merger Talks with Unilever's Food Division",
-          "summary": "McCormick reported earnings on Thursday with projected sales growth supported by its Mexico acquisition and price hikes, while investors await insights on its upcoming merger with Unilever's food division.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/watch-thursday-june-25-220000434.html"
+          "title": "Fed Balance Sheet Shrinks to $6.736T as Monetary Tightening Continues",
+          "summary": "The Federal Reserve's balance sheet decreased to $6.736 trillion, signaling continued asset reduction as the Fed maintains its tightening stance amid stable inflation and solid GDP growth.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/calendar"
         },
         {
-          "title": "Blackberry (BB) Reveals Q1 Results Focused on Profitability and Cash Flow",
-          "summary": "Blackberry released its first-quarter results on Thursday, highlighting enhanced profitability and positive cash flow, with management providing forecasts for the remainder of the fiscal year.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/watch-thursday-june-25-220000434.html"
+          "title": "Germany's Merz Proposes Sweeping Economic Reforms to Combat Five-Year Stagnation",
+          "summary": "German Chancellor Merz unveiled a four-part reform plan targeting healthcare, pensions, infrastructure, and defense, including raising the retirement age and introducing a sugary drink tax, aiming to lift Germany out of prolonged economic stagnation.",
+          "source": "Toolong News",
+          "url": "https://www.youtube.com/watch?v=5MfwWhJuRQk"
         },
         {
-          "title": "Wendy's Stock Surges 35% Overnight After r/WallStreetBets Viral Campaign",
-          "summary": "Wendy's stock jumped over 35% overnight following a viral campaign on r/WallStreetBets with the thesis to 'save Wendy's before it's too late,' driving significant retail investor interest.",
-          "source": "Instagram",
-          "url": "https://www.instagram.com/reel/DZ_3FluApGJ/"
+          "title": "China's 15th Five-Year Plan Launches with AI Sector Driving Explosive Growth",
+          "summary": "China officially launched its 15th Five-Year Plan, highlighting 5% Q1 GDP growth and breakthroughs in AI, with daily token usage reaching hundreds of trillions and embodied intelligence entering large-scale commercial use.",
+          "source": "Sydney China Consulate",
+          "url": "https://sydney.china-consulate.gov.cn/eng/zgxw/202606/t20260625_11952034.htm"
         },
         {
-          "title": "Trump-Rutte Clash Over Europe's Defense Spending and US Troops Review",
-          "summary": "A clash occurred between Trump and Rutte in the Oval Office regarding Europe's defense spending, with reports indicating an extra $140 billion in defense spending by Europeans and Canadians in 2025-2026 and a US troops review in Europe.",
-          "source": "The Economic Times",
-          "url": "https://www.youtube.com/watch?v=wGg64TYw3GU"
+          "title": "Venezuela Faces Dual Crisis as Earthquakes Compound Sovereign Debt and Political Turmoil",
+          "summary": "Following twin earthquakes, Venezuela's relief efforts are hindered by its massive sovereign debt, political instability, and security crises, prompting international aid mobilization from the U.S. and other nations.",
+          "source": "PBS Newshour",
+          "url": "https://www.pbs.org/newshour/show/venezuelas-earthquake-response-hindered-by-economic-and-political-crises"
         },
         {
-          "title": "Treasury Secretary Bessent Delivers Optimistic Economic Outlook",
-          "summary": "Treasury Secretary Scott Bessent presented an optimistic economic outlook on Fox News, explaining how prosperity and security are linked in the current economic landscape.",
-          "source": "Fox News",
-          "url": "https://www.foxnews.com/video/6399311531112"
+          "title": "Durable Goods Orders Fall 4.5% MoM, Exceeding Negative Expectations",
+          "summary": "U.S. durable goods orders dropped 4.5% month-over-month, significantly worse than the 8.5% forecast, signaling weakness in manufacturing and industrial demand.",
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/calendar"
         }
       ],
       "citations": [
-        "https://finance.yahoo.com/video/watch-thursday-june-25-220000434.html",
-        "https://www.youtube.com/watch?v=wGg64TYw3GU",
-        "https://www.instagram.com/reel/DZ_3FluApGJ/",
-        "https://www.pbs.org/video/june-24-2026-pbs-news-hour-full-episode-1782273601/",
-        "https://www.dw.com/en/deutsche-bahn-reliable-no-more/video-77696566",
-        "https://www.foxnews.com/video/6399311531112",
-        "https://www.instagram.com/reel/DZ-MpKROpMZ/",
-        "https://www.youtube.com/watch?v=-f0SCMsdKs4",
-        "https://www.facebook.com/7NEWSQld/videos/a-humanitarian-disaster-is-unfolding-in-venezuela-after-powerful-back-to-back-ea/1569680357836253/"
+        "https://tradingeconomics.com/calendar",
+        "https://docs.qoder.com/qoderwork/user-stories/case-24",
+        "https://finance.yahoo.com/calendar/economic/",
+        "https://www.youtube.com/watch?v=5MfwWhJuRQk",
+        "https://sydney.china-consulate.gov.cn/eng/zgxw/202606/t20260625_11952034.htm",
+        "https://www.youtube.com/watch?v=qLY04q3L4hA",
+        "https://www.pbs.org/newshour/show/venezuelas-earthquake-response-hindered-by-economic-and-political-crises",
+        "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
+        "https://www.cobank.com/research/special-reports",
+        "http://jme.mbri.ac.ir/?tknfv=s41b4708f-7789-4135-869f-c91add7017ff971"
       ]
     },
     "crypto_news": {
@@ -330,56 +337,66 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 8,
       "items": [
         {
-          "title": "Bitcoin Crashes to $59,000 as $10.83M BTC Held at Loss Matches 2022 Cycle Bottom",
-          "summary": "Bitcoin flushed to a new low near $59,000 before snapping back, with Glassnode reporting 10.83 million BTC now held at a loss—a setup matching cycle bottoms in 2019, 2020, and 2022. The crash coincided with weakness in US stocks and a break below the $63,000 ascending support line.",
-          "source": "The Wolf Of All Streets / Kitco News",
-          "url": "https://www.youtube.com/watch?v=A5uTjCmQPuc"
+          "title": "Bitcoin Plunges to $59K, Triggering $1B in Crypto Liquidations",
+          "summary": "Bitcoin dropped to $59,018, its lowest level in 2026 and first time below $60K since October 2024, causing nearly $1 billion in total cryptocurrency liquidations, with over $780 million from long positions.",
+          "source": "Bitcoin Foundation",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/crypto-market-june-25/"
         },
         {
-          "title": "Ethereum Tests $1,500 Support as Foundation Cuts 40% of Budget and Fires Staff",
-          "summary": "Ethereum is re-entering oversold territory between $1,500 and $1,600, with analysts warning of a potential drop toward $1,100. Meanwhile, the Ethereum Foundation has slashed 40% of its budget and fired a significant portion of its staff, signaling major internal restructuring.",
-          "source": "Ivan on Tech",
-          "url": "https://www.youtube.com/watch?v=a5sGht7OPAE"
+          "title": "Bitcoin ETF Outflows Accelerate to $469M Amid Seven Weeks of Negative Flows",
+          "summary": "Outflows from U.S. spot Bitcoin ETFs surged to $469 million in 24 hours, continuing a seven-week streak of negative flows and shrinking total assets under management to $77.5 billion.",
+          "source": "Bitcoin Foundation",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/crypto-market-june-25/"
         },
         {
-          "title": "Binance Shutting Down EU Services Over Missing MiCA License in Greece Amid ECB Drama",
-          "summary": "Binance will cease serving EU clients in five days due to a failure to obtain its MiCA license in Greece. Rumors suggest Christine Lagarde, head of the European Central Bank, personally denied the license as the ECB pushes for a CBDC in Europe.",
-          "source": "Ivan on Tech",
-          "url": "https://www.youtube.com/watch?v=a5sGht7OPAE"
+          "title": "Ethereum Foundation Announces Major Reorganization and 40% Budget Cut",
+          "summary": "The Ethereum Foundation unveiled a new governance structure and entered cost-cutting mode, reducing its budget by 40% as it aims to support core infrastructure with an estimated $30 million annually.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/bitcoin-has-formed-a-double-bottom-at-59k-200682767"
         },
         {
-          "title": "Ripple's Stablecoin 'Aerrol USD' Officially Approved for Use in Japan",
-          "summary": "Ripple's stablecoin, Aerrol USD, has received official approval for use in Japan, marking a significant regulatory milestone for the project. This development comes as XRP breaks below its $1.13 weekly support level.",
-          "source": "Ivan on Tech",
-          "url": "https://www.youtube.com/watch?v=a5sGht7OPAE"
+          "title": "MoneyGram Becomes Validator on Solana Network to Expand Blockchain Services",
+          "summary": "MoneyGram, one of the largest money transfer operators, joined the Solana ecosystem as a validator, enabling it to expand its financial service offerings using blockchain technology.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/bitcoin-has-formed-a-double-bottom-at-59k-200682767"
         },
         {
-          "title": "US Congress Advances Bill to Ban Central Bank Digital Currency (CBDC) Ahead of Trump's Review",
-          "summary": "Lawmakers have pushed forward a bipartisan bill prohibiting the implementation of any central bank digital currency (CBDC), awaiting President Trump's endorsement. The move is expected to influence upcoming stablecoin regulations.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/congress-pushes-forward-bill-ban-193000656.html"
+          "title": "Bitcoin Network Activity Hits Two-Year High Driven by Runes Protocol",
+          "summary": "Bitcoin network activity reached its highest level in two years, with transaction volume spiking due to the Runes protocol, which enables fungible tokens to be issued and transferred directly on the BTC network.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/bitcoin-has-formed-a-double-bottom-at-59k-200682767"
         },
         {
-          "title": "Solana and Avalanche Show Relative Strength Despite Bitcoin's $59K Breakdown",
-          "summary": "While Bitcoin struggles near $59,000, Solana is holding relative strength with a 23% weekly gain, and Avalanche is reclaiming its trend line with a bullish near-term outlook. The AI trade is simultaneously helping and hurting crypto markets.",
-          "source": "No B.S. Just Charts",
-          "url": "https://www.youtube.com/watch?v=AmbvB1Da-mg"
+          "title": "Top Crypto Gainers: Aave (+14.2%), Internet Computer (+3.6%), Gram (+2.9%)",
+          "summary": "Over the past 24 hours, Aave led gains with +14.2%, followed by Internet Computer (+3.6%) and Gram (formerly Toncoin, +2.9%), while SushiSwap (-7.7%), Theta Network (-7.5%), and IOTA (-5.7%) saw the biggest declines.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/bitcoin-has-formed-a-double-bottom-at-59k-200682767"
+        },
+        {
+          "title": "MemeCore (M) Crashes Nearly 76% in 24 Hours Amid Market Selloff",
+          "summary": "MemeCore (M) was the worst performer among major cryptocurrencies, plunging nearly 76% in 24 hours as the broader crypto market fell 1.4% and retreated to $2.12 trillion.",
+          "source": "Bitcoin Foundation",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/crypto-market-june-25/"
+        },
+        {
+          "title": "CLARITY Act Vote Expected Within Five Weeks, Delay Could Remove Regulatory Catalyst",
+          "summary": "A key procedural vote on the CLARITY Act is expected within five weeks; a delay until fall could remove a powerful regulatory catalyst for the crypto industry as Congress prepares for recess.",
+          "source": "Bitcoin Foundation",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/crypto-market-june-25/"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=ItLdGdxfPMg",
-        "https://www.youtube.com/watch?v=A5uTjCmQPuc",
-        "https://www.youtube.com/watch?v=a5sGht7OPAE",
-        "https://www.youtube.com/watch?v=AmbvB1Da-mg",
-        "https://www.youtube.com/watch?v=h_iACUx5ecE",
-        "https://finance.yahoo.com/video/congress-pushes-forward-bill-ban-193000656.html",
-        "https://www.cnbc.com/video/2026/06/24/president-trump-on-housing-get-the-interest-rates-down.html",
-        "https://www.youtube.com/watch?v=sJEhhjpCbmM",
-        "https://www.instagram.com/reel/DaA4uWcuFvc/",
-        "https://www.youtube.com/watch?v=DQXR8nisFV8"
+        "https://www.investing.com/analysis/bitcoin-has-formed-a-double-bottom-at-59k-200682767",
+        "https://bitcoinfoundation.org/news/bitcoin/crypto-market-june-25/",
+        "https://news.bitcoin.com/crypto-traders-lose-1b-in-24-hours-as-short-sellers-face-rising-pressure/",
+        "https://www.facebook.com/forbes/posts/a-three-day-decline-sent-bitcoin-to-a-21-month-low-on-thursday-extending-a-broad/1390201372969849/",
+        "https://www.youtube.com/watch?v=Z1x0_WfgLPQ",
+        "https://www.facebook.com/KobeissiLetter/posts/crypto-markets-have-now-seen-their-largest-ever-8-month-decline-in-market-cap-at/1341564018119011/",
+        "https://www.forbes.com/advisor/financial-services/top-10-cryptocurrencies/",
+        "https://finance.yahoo.com/markets/crypto/all/"
       ]
     },
     "ai_news": {
@@ -387,38 +404,48 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "OpenAI Launches Initiative to Fix Open-Source Bugs Using AI",
-          "summary": "OpenAI announced a new project to help open-source developers identify and correct critical security vulnerabilities using automated AI tools.",
-          "source": "Pena",
-          "url": "https://www.youtube.com/watch?v=058UlplUTlo"
+          "title": "DataRobot Recognized as Gartner Leader for Third Consecutive Year in Agentic Era",
+          "summary": "DataRobot, the agentic workforce platform, was named a Leader in Gartner's Magic Quadrant for Data Science and Machine Learning Platforms for the third consecutive year, highlighting its vision and execution in the agentic AI era.",
+          "source": "AiThority",
+          "url": "https://aithority.com/it-and-devops/cloud/a-3x-leader-for-the-agentic-era-datarobot-named-a-leader-again-in-the-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/"
         },
         {
-          "title": "LinkedIn Identifies 'Artificial Intelligence Engineer' as Fastest-Growing Job Title for Young Professionals",
-          "summary": "LinkedIn has officially named 'Artificial Intelligence Engineer' as the fastest-growing job title for young professionals, highlighting the industry's rapid expansion.",
-          "source": "Isabella Rossini",
-          "url": "https://www.tiktok.com/@steven/video/7655225499270073622"
+          "title": "EchoNext AI Model Detects Advanced Heart Failure Leading to First Transplant Case",
+          "summary": "EchoNext, an AI model analyzing EKGs, facilitated the first documented case of AI-detected advanced heart failure leading to heart transplantation, with additional breakthroughs in valve repairs and replacements.",
+          "source": "Gregory Katz Substack",
+          "url": "https://gregorykatz.substack.com/p/that-viral-ai-heart-scan-story-a"
         },
         {
-          "title": "Zig 2026 Announces No-AI Policy and $670K Foundation After Leaving GitHub",
-          "summary": "The Zig programming language community announced a 'No-AI Policy' and a $670,000 foundation after leaving GitHub, signaling a trend of developer resistance to AI integration.",
-          "source": "Ben Dicken",
-          "url": "https://www.youtube.com/watch?v=5Zb8WwKd-E8"
+          "title": "Anthropic Calls for Global Slowdown in Advanced AI Development",
+          "summary": "Anthropic issued a call for a global slowdown in advanced AI development amid concerns over rapid progress, while Nvidia acquired Kumo AI to strengthen its AI capabilities.",
+          "source": "Instagram",
+          "url": "https://www.instagram.com/p/DaBJXY5nStg/"
+        },
+        {
+          "title": "Oracle Invests $55.7B in AI Infrastructure Amid 13% Staff Reduction",
+          "summary": "Oracle announced a $55.7 billion investment in AI infrastructure, representing a 162% spending jump, while simultaneously reducing its workforce by 13% over the past year.",
+          "source": "Instagram",
+          "url": "https://www.instagram.com/reel/DaBghigst-F/"
+        },
+        {
+          "title": "New AI Research Papers Released on arXiv: Safety Kernels and LLM Benchmarks",
+          "summary": "arXiv published 182 new AI papers, including 'The Unfireable Safety Kernel' for AI agent alignment and 'InvestPhilBench' for evaluating LLM procedural reasoning in investment philosophy.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/list/cs.AI/recent"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=058UlplUTlo",
-        "https://www.youtube.com/watch?v=tPG96_Oac6o",
-        "https://www.tiktok.com/@steven/video/7655225499270073622",
-        "https://www.instagram.com/reel/DZ_VkwYkmug/",
-        "https://www.instagram.com/reel/DZ-9JWXgRR_/",
-        "https://www.tiktok.com/@steven/video/7655225202577591555",
-        "https://www.cbsnews.com/video/back-to-back-powerful-earthquakes-venezuela/",
-        "https://www.reddit.com/r/aiwars/comments/1uesbeg/ai_isnt_stealing_its_worse/",
-        "https://www.youtube.com/watch?v=5Zb8WwKd-E8",
-        "https://www.cbsnews.com/video/eye-opener-2-deadly-earthquakes-rock-venezuela/"
+        "https://aithority.com/it-and-devops/cloud/a-3x-leader-for-the-agentic-era-datarobot-named-a-leader-again-in-the-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+        "https://gregorykatz.substack.com/p/that-viral-ai-heart-scan-story-a",
+        "https://arxiv.org/list/cs.AI/recent",
+        "https://www.instagram.com/p/DaBJXY5nStg/",
+        "https://cacm.acm.org/research-highlights/technical-perspective-synthetic-data-needs-a-reproducibility-benchmark/",
+        "https://www.instagram.com/reel/DaBghigst-F/",
+        "https://www.facebook.com/WHO13News/posts/artificial-intelligence-may-be-changing-the-way-businesses-answer-questions-proc/1548454730203599/",
+        "https://www.reddit.com/r/AWSCertifications/comments/1ufd3cm/question_about_metrics_in_ai_practitioner/"
       ]
     },
     "gaming": {
@@ -426,38 +453,61 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 7,
       "items": [
         {
-          "title": "IGN Names Resident Evil Reququum Top Game of 2026 So Far",
-          "summary": "IGN awarded Resident Evil Reququum a perfect 10, declaring it the clear front-runner for Game of the Year 2026, while also highlighting Fortza Horizon 6 and Mina the Hollower as top-rated releases.",
-          "source": "IGN",
-          "url": "https://www.youtube.com/watch?v=ibbsOP49Tnw"
+          "title": "Rockstar Announces GTA 6 Physical Copies Will Be Download Codes Only, Sparking Debate Over End of Physical Media",
+          "summary": "Rockstar Games revealed that physical copies of Grand Theft Auto 6 will include only download codes inside boxes rather than discs, a move fans call the definitive turning point signaling the end of physical media in gaming.",
+          "source": "YouTube - THE FINAL NAIL IN THE COFFIN FOR PHYSICAL MEDIA",
+          "url": "https://www.youtube.com/watch?v=3RBnQmfbjpQ"
         },
         {
-          "title": "New Saturn Emulator Ymir Updated to 'Best in Class'",
-          "summary": "The Ymir Saturn emulator has been updated to a near-complete state, evolving from running only a few games to becoming the best Saturn emulator available in under a year.",
-          "source": "Jeremy Parish / Video Works",
-          "url": "https://www.youtube.com/watch?v=nunjM14BAqk"
+          "title": "Halo Campaign Split-Screen on PS5 Requires PS+ and Microsoft Account Link, Drawing Criticism from Fans",
+          "summary": "Microsoft confirmed that split-screen Halo campaign play on PS5 requires both accounts to have a PS+ subscription and be linked to a Microsoft account, while local split-screen still needs a standard PS account plus Microsoft connection, sparking backlash over unnecessary complications.",
+          "source": "Reddit - TwoBestFriendsPlay",
+          "url": "https://www.reddit.com/r/TwoBestFriendsPlay/comments/1ufe7dd/csb377_the_satan_shark_was_kidnapped_by_j6ers/"
         },
         {
-          "title": "Beast of Reincarnation Gameplay Revealed on Reddit",
-          "summary": "New gameplay footage for the upcoming game Beast of Reincarnation was shared on the r/gaming subreddit, sparking discussion among the gaming community.",
-          "source": "Reddit",
-          "url": "https://www.reddit.com/r/gaming/comments/1uf6dp0/new_beast_of_reincarnation_gameplay/"
+          "title": "Owlcat Backtracks on Rogue Trader Launcher After Review Bombing and Widespread Backlash",
+          "summary": "Owlcat Games released a launcher for Rogue Trader that triggered massive backlash and review bombing, forcing the company to reverse its decision amid controversy over the update's impact on the game.",
+          "source": "Reddit - TwoBestFriendsPlay",
+          "url": "https://www.reddit.com/r/TwoBestFriendsPlay/comments/1ufe7dd/csb377_the_satan_shark_was_kidnapped_by_j6ers/"
+        },
+        {
+          "title": "Kenshiro Confirmed for Fatal Fury: City of the Wolves, But Character Reveal Trailer Criticized for Poor Media Understanding",
+          "summary": "Kenshiro from Fist of the North Star is set to appear in Fatal Fury: City of the Wolves, though the character reveal trailer drew criticism for lacking understanding of media conventions and storytelling.",
+          "source": "Reddit - TwoBestFriendsPlay",
+          "url": "https://www.reddit.com/r/TwoBestFriendsPlay/comments/1ufe7dd/csb377_the_satan_shark_was_kidnapped_by_j6ers/"
+        },
+        {
+          "title": "Hackers Distributing Malware via Anime Girl Wallpapers on Wallpaper Engine, Public Service Alert Issued",
+          "summary": "A public service announcement warned of hackers distributing malware through anime girl wallpapers on Wallpaper Engine, with details on how the threat was discovered and how users can protect themselves.",
+          "source": "Reddit - TwoBestFriendsPlay",
+          "url": "https://www.reddit.com/r/TwoBestFriendsPlay/comments/1ufe7dd/csb377_the_satan_shark_was_kidnapped_by_j6ers/"
+        },
+        {
+          "title": "Awaken Realms Acquires Thunder Griff Games in Surprise Boardboard Industry Move",
+          "summary": "Awaken Realms has acquired Thunder Griff Games, a surprising development in the board game industry that signals potential expansion and new project collaborations.",
+          "source": "YouTube - Dice Tower News",
+          "url": "https://www.youtube.com/watch?v=Xd43yy_ScPY"
+        },
+        {
+          "title": "New Wingspan Game and Mini Expansion Announced for July 1st Release",
+          "summary": "Dice announced a new smaller Wingspan game and an origin story mini expansion set to be revealed on July 1st, continuing the popular bird-themed strategy series.",
+          "source": "YouTube - Dice Tower News",
+          "url": "https://www.youtube.com/watch?v=Xd43yy_ScPY"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=ibbsOP49Tnw",
-        "https://www.youtube.com/watch?v=nunjM14BAqk",
-        "https://www.mlb.com/video/swanson-crushes-two-homers-including-a-grand-slam",
+        "https://www.reddit.com/r/TwoBestFriendsPlay/comments/1ufe7dd/csb377_the_satan_shark_was_kidnapped_by_j6ers/",
+        "https://www.youtube.com/watch?v=3RBnQmfbjpQ",
+        "https://www.youtube.com/watch?v=Xd43yy_ScPY",
+        "https://www.nba.com/watch/video/best-emotional-moments-from-the-2026-nba-draft",
         "https://www.instagram.com/reel/DaAuPymgOeq/",
-        "https://www.youtube.com/watch?v=n13bgMFDSt8",
-        "https://www.reddit.com/r/gaming/comments/1uf6dp0/new_beast_of_reincarnation_gameplay/",
+        "https://www.cnn.com/2026/06/24/politics/video/housing-affordability-bill-donald-trump-signing-ceremony-canceled-sam-liccardo-tsi",
         "https://www.youtube.com/watch?v=7wVPRVjxm1I",
-        "https://www.foxsports.com/watch/fmc-04gp123rpcs3i6uo",
-        "https://arkansasrazorbacks.com/watch-meleek-thomas-drafted-by-the-cleveland-cavaliers/",
-        "https://www.facebook.com/NewsOn6/videos/two-people-are-back-on-dry-land-after-floodwaters-stranded-them-on-top-of-a-van-/1022803443574558/"
+        "https://www.youtube.com/watch?v=ySrW7lpbTi0",
+        "https://www.foxsports.com/watch/fmc-04gp123rpcs3i6uo"
       ]
     },
     "tech_news": {
@@ -465,67 +515,56 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 6,
       "items": [
         {
-          "title": "Qualcomm Acquires Modular in $3.9B Deal to Expand Data Center Capabilities",
-          "summary": "Qualcomm announced the acquisition of hardware company Modular for $3.9 billion in stock, aiming to bolster its data center presence and add AI software capabilities to compete with NVIDIA.",
-          "source": "Bloomberg Deals",
-          "url": "https://www.youtube.com/watch?v=dAv7uBDE7xE"
+          "title": "Steam Machines Unveiled at $1,049 and Already Sold Out in Japan",
+          "summary": "Steam Machines were officially unveiled with pricing starting at $1,049, but the high cost and limited stock led to them selling out immediately in Japan, prompting commentary that building a PC with SteamOS is a more viable alternative.",
+          "source": "Reddit / TwoBestFriendsPlay",
+          "url": "https://www.reddit.com/r/TwoBestFriendsPlay/comments/1ufe7dd/csb377_the_satan_shark_was_kidnapped_by_j6ers/"
         },
         {
-          "title": "Apple Hikes Prices Across MacBook, iPad, Vision Pro, and HomePod Lines",
-          "summary": "Apple increased prices for multiple products including the MacBook Air, iPad, Vision Pro, and HomePod mini, with the M3 Ultra Mac Studio seeing the largest hike of up to $1,300.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
+          "title": "Owlcat Games Backtracks on Rogue Trader Launcher After Review Bombing",
+          "summary": "Owlcat Games released a controversial launcher for the game Rogue Trader, triggering widespread backlash and a review bomb that forced the company to reverse its decision.",
+          "source": "Reddit / TwoBestFriendsPlay",
+          "url": "https://www.reddit.com/r/TwoBestFriendsPlay/comments/1ufe7dd/csb377_the_satan_shark_was_kidnapped_by_j6ers/"
         },
         {
-          "title": "Microsoft Announces Another Xbox Price Increase Due to Rising Storage Costs",
-          "summary": "Microsoft confirmed another Xbox price increase, warning consumers to buy now to avoid paying $150 more as console storage and memory prices have surged by over 2.5x.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
+          "title": "Micron Sparks Memory Chip Rally as Microsoft Stock Tumbles",
+          "summary": "Micron Technology triggered a significant rally in the memory chip sector, while Microsoft's stock price declined amid broader market movements.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/microsoft-stock-tumbles-micron-sparks-memory-chip-rally-qualcomms-data-center-venture-192754456.html"
         },
         {
-          "title": "SK Hynix Surges 11% After Announcing $29.4B U.S. Stock Market Listing",
-          "summary": "SK Hynix shares jumped after the semiconductor firm revealed plans to raise up to $29.4 billion through a Nasdaq listing via American depositary receipts.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html"
+          "title": "Qualcomm Announces New Data Center Venture",
+          "summary": "Qualcomm revealed a new strategic venture focused on data center technologies, marking a significant expansion in its enterprise infrastructure portfolio.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/microsoft-stock-tumbles-micron-sparks-memory-chip-rally-qualcomms-data-center-venture-192754456.html"
         },
         {
-          "title": "Google Wallet Adds Feature for Faster TSA PreCheck Airport Security",
-          "summary": "Google Wallet introduced a new feature allowing users to sign up for TSA PreCheck Touchless ID, enabling faster airport security checks using only a facial scan.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
+          "title": "Brussels Tightens Rules on US Cloud Providers to Boost Tech Sovereignty",
+          "summary": "The European Union announced stricter regulations on US-based cloud providers as part of a broader push to enhance European tech sovereignty and reduce reliance on foreign infrastructure.",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/video/2026/06/25/latest-news-bulletin-june-25th-2026-morning"
         },
         {
-          "title": "Nvidia AI Servers in China Now Cost Over $1 Million Amid Smuggling Surge",
-          "summary": "Smuggled Nvidia AI servers in China are now priced at over $1 million, nearly three times the U.S. retail price, reflecting intense demand and supply constraints.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        },
-        {
-          "title": "Disney Settles $50M Lawsuit with YouTube TV and DirecTV Users Over Price Hikes",
-          "summary": "Disney agreed to pay $50 million to settle a lawsuit filed by YouTube TV subscribers who accused the company of inflating live-TV streaming subscription prices.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        },
-        {
-          "title": "Micron Technologies Earnings Jump 350% Driven by Memory Demand",
-          "summary": "Micron Technologies reported third-quarter revenue of $41.46 billion, a massive increase from $9.3 billion the prior year, fueled by rising memory demand from the AI sector.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html"
+          "title": "Germany Scraps World's Largest Frigate Project After €2bn Waste Concerns",
+          "summary": "Germany officially terminated its largest frigate construction project following reports of €2 billion in wasted funds, marking a major shift in the country's naval defense strategy.",
+          "source": "Euronews",
+          "url": "https://www.euronews.com/video/2026/06/25/latest-news-bulletin-june-25th-2026-morning"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=dAv7uBDE7xE",
-        "https://www.pcmag.com/news",
-        "https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html",
-        "https://www.facebook.com/WIONews/posts/wionnewsroom-asian-shares-surge-on-strong-ai-earnings-tesla-crash-probe-intensif/1376770781228759/",
-        "https://abcnews.com",
-        "https://www.youtube.com/watch?v=3sDWauseXOY",
-        "https://fortune.com/2026/06/24/ai-godmother-investors-chatbots/",
-        "https://www.facebook.com/news4buffalo/posts/stocks-wavered-to-a-mixed-close-on-wall-street-wednesday-as-technology-stocks-on/1461925882643437/",
-        "https://www.smartbrief.com"
+        "https://www.youtube.com/watch?v=qLY04q3L4hA",
+        "https://finance.yahoo.com/video/microsoft-stock-tumbles-micron-sparks-memory-chip-rally-qualcomms-data-center-venture-192754456.html",
+        "https://www.reddit.com/r/TwoBestFriendsPlay/comments/1ufe7dd/csb377_the_satan_shark_was_kidnapped_by_j6ers/",
+        "https://www.euronews.com/video/2026/06/25/latest-news-bulletin-june-25th-2026-morning",
+        "https://www.tiktok.com/@abcnews/video/7655145366957853982",
+        "https://www.youtube.com/watch?v=zY6I1_GtsmI",
+        "https://www.instagram.com/reel/DaA4uWcuFvc/",
+        "https://www.bbc.com/reel/video/p0nv5s0r/watch",
+        "https://www.youtube.com/watch?v=TQnCj0puoA0",
+        "https://www.democracynow.org/shows/2026/6/25"
       ]
     }
   }
