@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T18:26:43.284842+00:00",
-  "generated_at_human": "2026-06-27 18:26 UTC",
+  "generated_at": "2026-06-28T00:48:07.620763+00:00",
+  "generated_at_human": "2026-06-28 00:48 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,52 +8,130 @@
       "count": 25,
       "items": [
         {
+          "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+          "url": "https://ipcrawl.com/",
+          "score": 225,
+          "comments": 115
+        },
+        {
           "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
           "url": "https://github.com/bikini/exploitarium",
-          "score": 316,
-          "comments": 133
+          "score": 643,
+          "comments": 249
         },
         {
           "title": "OpenRA",
           "url": "https://www.openra.net/",
-          "score": 361,
-          "comments": 74
+          "score": 560,
+          "comments": 109
+        },
+        {
+          "title": "Choosing a Public DNS Resolver",
+          "url": "https://evilbit.de/dns-resolver-guide.html",
+          "score": 31,
+          "comments": 7
         },
         {
           "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
           "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "score": 662,
-          "comments": 251
+          "score": 718,
+          "comments": 295
         },
         {
-          "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+          "title": "AI learns the “dark art” of RFIC design",
           "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-          "score": 32,
-          "comments": 11
+          "score": 179,
+          "comments": 117
         },
         {
-          "title": "Suspicious Discontinuities (2020)",
-          "url": "https://danluu.com/discontinuities/",
-          "score": 128,
-          "comments": 36
+          "title": "Enhancing X11 Application Security with LXC",
+          "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+          "score": 24,
+          "comments": 7
         },
         {
           "title": "Fintech Engineering Handbook",
           "url": "https://w.pitula.me/fintech-engineering-handbook/",
-          "score": 348,
-          "comments": 113
+          "score": 462,
+          "comments": 156
+        },
+        {
+          "title": "Turn your site into a place people can bump into each other",
+          "url": "https://cauenapier.com/blog/townsquare_release/",
+          "score": 147,
+          "comments": 67
+        },
+        {
+          "title": "The case for physical media ownership",
+          "url": "https://dervis.de/physical/",
+          "score": 360,
+          "comments": 232
+        },
+        {
+          "title": "Suspicious Discontinuities (2020)",
+          "url": "https://danluu.com/discontinuities/",
+          "score": 210,
+          "comments": 58
+        },
+        {
+          "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+          "url": "https://github.com/kageroumado/adrafinil",
+          "score": 77,
+          "comments": 48
+        },
+        {
+          "title": "Paradise Revisited: What Darwin Saw in the Galápagos",
+          "url": "https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/",
+          "score": 32,
+          "comments": 0
+        },
+        {
+          "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
+          "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
+          "score": 19,
+          "comments": 5
+        },
+        {
+          "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+          "score": 151,
+          "comments": 76
         },
         {
           "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
           "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-          "score": 70,
-          "comments": 22
+          "score": 129,
+          "comments": 39
         },
         {
-          "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-          "score": 348,
-          "comments": 128
+          "title": "Asian AI startups launch Mythos-like models",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+          "score": 123,
+          "comments": 119
+        },
+        {
+          "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
+          "url": "https://starglyphs.com",
+          "score": 8,
+          "comments": 2
+        },
+        {
+          "title": "Michigan spent $1.8B and only created 602 jobs",
+          "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
+          "score": 88,
+          "comments": 34
+        },
+        {
+          "title": "The eerie interface of man and machine (Life Magazine, October 1967)",
+          "url": "https://blog.jgc.org/2026/06/the-eerie-interface-of-man-and-machine.html",
+          "score": 26,
+          "comments": 1
+        },
+        {
+          "title": "One man, two kernels, and a lot of RISC-V",
+          "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
+          "score": 74,
+          "comments": 5
         },
         {
           "title": "Supabase (YC S20) Is Hiring for Multigres",
@@ -62,100 +140,22 @@
           "comments": 0
         },
         {
-          "title": "One man, two kernels, and a lot of RISC-V",
-          "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
-          "score": 39,
-          "comments": 4
-        },
-        {
-          "title": "If you can't hold it, you don't own it",
-          "url": "https://dervis.de/physical/",
-          "score": 236,
-          "comments": 156
-        },
-        {
-          "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-          "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
-          "score": 64,
-          "comments": 22
-        },
-        {
-          "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-          "score": 1088,
-          "comments": 693
-        },
-        {
           "title": "Long Wave radio era set to end with switch-off",
           "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
-          "score": 135,
-          "comments": 119
+          "score": 167,
+          "comments": 155
         },
         {
-          "title": "How Many Elementary Particles Are There, Really?",
-          "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
-          "score": 82,
-          "comments": 64
+          "title": "How H-E-B became Texas' most beloved brand (2024)",
+          "url": "https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/",
+          "score": 88,
+          "comments": 84
         },
         {
-          "title": "Researchers have developed pixels that can emit and analyse light together",
-          "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html",
-          "score": 18,
-          "comments": 11
-        },
-        {
-          "title": "Linux on Older Hardware: The Complete Revival Guide",
-          "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
-          "score": 161,
-          "comments": 91
-        },
-        {
-          "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
-          "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
-          "score": 27,
-          "comments": 8
-        },
-        {
-          "title": "Turn your site into a place people can bump into each other",
-          "url": "https://cauenapier.com/blog/townsquare_release/",
-          "score": 3,
-          "comments": 0
-        },
-        {
-          "title": "Beer CSS – Build material design in record time",
-          "url": "https://www.beercss.com",
-          "score": 108,
-          "comments": 56
-        },
-        {
-          "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
-          "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-          "score": 166,
-          "comments": 37
-        },
-        {
-          "title": "The US Army Issued Ocarinas to Soldiers in World War II",
-          "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
-          "score": 99,
-          "comments": 57
-        },
-        {
-          "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-          "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-          "score": 323,
-          "comments": 172
-        },
-        {
-          "title": "WordStar: A Writer's Word Processor (1996)",
-          "url": "https://www.sfwriter.com/wordstar.htm",
-          "score": 154,
-          "comments": 81
-        },
-        {
-          "title": "Doctors suspected man had brain cancer. He had worms",
-          "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-          "score": 28,
-          "comments": 11
+          "title": "Zuckerberg's war on whistleblowers",
+          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+          "score": 624,
+          "comments": 229
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 60395,
-          "change_24h": 0.99,
-          "change_7d": -5.55,
-          "market_cap": 1210910102140
+          "price": 60063,
+          "change_24h": 0.26,
+          "change_7d": -6.5,
+          "market_cap": 1204408271966
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1589.37,
-          "change_24h": 0.92,
-          "change_7d": -7.87,
-          "market_cap": 191818221826
+          "price": 1573.35,
+          "change_24h": 0.06,
+          "change_7d": -9.67,
+          "market_cap": 189934210522
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 71.82,
-          "change_24h": -1.14,
-          "change_7d": 0.41,
-          "market_cap": 41705821891
+          "price": 70.62,
+          "change_24h": -1.39,
+          "change_7d": -3.53,
+          "market_cap": 41005929756
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.075222,
-          "change_24h": -0.33,
-          "change_7d": -9.4,
-          "market_cap": 11649321147
+          "price": 0.074527,
+          "change_24h": -0.91,
+          "change_7d": -10.89,
+          "market_cap": 11540294364
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.146362,
-          "change_24h": -1.06,
-          "change_7d": -9.39,
-          "market_cap": 5450945912
+          "price": 0.145656,
+          "change_24h": -1.23,
+          "change_7d": -10.63,
+          "market_cap": 5423392915
         }
       ]
     },
@@ -212,54 +212,54 @@
       "count": 10,
       "items": [
         {
+          "name": "XMAQUINA",
+          "symbol": "DEUS",
+          "market_cap_rank": 902
+        },
+        {
           "name": "Velvet",
           "symbol": "VELVET",
-          "market_cap_rank": 99
+          "market_cap_rank": 93
         },
         {
-          "name": "Solstice",
-          "symbol": "SLX",
-          "market_cap_rank": 198
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 116
+          "name": "LAB",
+          "symbol": "LAB",
+          "market_cap_rank": 20
         },
         {
           "name": "Aave",
           "symbol": "AAVE",
-          "market_cap_rank": 53
+          "market_cap_rank": 52
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 6
         },
         {
-          "name": "Grass",
-          "symbol": "GRASS",
-          "market_cap_rank": 131
+          "name": "Collector Crypt",
+          "symbol": "CARDS",
+          "market_cap_rank": 370
         },
         {
-          "name": "Cap",
-          "symbol": "CAP",
-          "market_cap_rank": 504
+          "name": "Solstice",
+          "symbol": "SLX",
+          "market_cap_rank": 213
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 41
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 10
         },
         {
-          "name": "Arcium",
-          "symbol": "ARX",
-          "market_cap_rank": 363
+          "name": "Canton",
+          "symbol": "CC",
+          "market_cap_rank": 16
         },
         {
-          "name": "Sonic",
-          "symbol": "S",
-          "market_cap_rank": 284
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "market_cap_rank": 37
         }
       ]
     },
@@ -268,50 +268,67 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 8,
       "items": [
         {
-          "title": "Oil Surges Past $112/barrel Following Pearl GTL Facility Crash in Beijing",
-          "summary": "A small aircraft crashed into Beijing's tallest building, damaging the Pearl GTL facility and causing oil prices to surge past $112/barrel while European gas prices jumped 24% in hours; recovery is estimated to take 3-5 years.",
-          "source": "AP News",
-          "url": "https://www.tiktok.com/@apnews/video/7655779868323499278"
+          "title": "Oil Prices Sink Below $75 as US-Iran Peace Deal Reached, Boosting Investor Sentiment",
+          "summary": "A historic peace agreement between the US and Iran has led to oil prices falling below $75 per barrel and gas under $4/gallon, with the Dow rising slightly as investors welcome the development.",
+          "source": "Gingrich Commentary",
+          "url": "https://www.youtube.com/watch?v=T0vn2XhOGM4"
         },
         {
-          "title": "US Strikes Iran After Drone Attack on Cargo Ship in Strait of Hormuz",
-          "summary": "The US military launched air strikes on Iranian missile and drone storage facilities in response to an Iranian drone attack on a Singapore-flagged cargo ship, escalating tensions and fears of a wider US-Iran conflict.",
-          "source": "The Economic Times",
-          "url": "https://www.youtube.com/watch?v=LTv4aVIhxYY"
+          "title": "NASDAQ Drops 4% in a Week, Losing $1 Trillion as Chipmakers Lead Decline",
+          "summary": "The NASDAQ fell roughly 4% in a single week, erasing about $1 trillion in value over two days, with chipmakers like AMD and others hit hardest amid concerns over AI valuations and rising interest rates.",
+          "source": "SpaceX Stock Analysis",
+          "url": "https://www.youtube.com/watch?v=2PRqGrxrKwI"
         },
         {
-          "title": "Global Economy Faces Major Risk from Oil Price Surge and Shipping Disruptions",
-          "summary": "Economists warn that the last four months of higher oil prices, disrupted shipping, and rising insurance costs have not yet fully fed through into inflation or earnings data, with the biggest economic impact potentially still lying ahead.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=BnknQvVkSuY"
+          "title": "Micron and Intel Surge Intraday, Up 300% and 260% Year-to-Date on Foundry Deals",
+          "summary": "Micron and Intel saw major intraday gains, with Micron up 300% year-to-date and Intel up 260%, driven by major foundry deals with Apple and revised price targets from Bernstein.",
+          "source": "Gingrich Commentary",
+          "url": "https://www.youtube.com/watch?v=T0vn2XhOGM4"
         },
         {
-          "title": "Stock Market Hits New High Amid US-Iran Conflict and Oil Price Volatility",
-          "summary": "Despite escalating tensions in the Strait of Hormuz and oil prices fluctuating between $70 and $112/barrel, the stock market reached a new high today, with officials expressing confidence in the economy's future growth.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=0tz9EYk9eSE"
+          "title": "Inflation Stays at 4%, Blocking Rate Cuts and Pressuring High-Valuation Growth Stocks",
+          "summary": "With inflation persisting at 4%, the Fed is expected to hold rates steady or potentially raise them, hitting high-valuation growth stocks hardest and fueling concerns over a market crash.",
+          "source": "SpaceX Stock Analysis",
+          "url": "https://www.youtube.com/watch?v=2PRqGrxrKwI"
         },
         {
-          "title": "Commerce Department Data Shows Surge in Corporate Profits",
-          "summary": "Latest Commerce Department data reveals a significant surge in corporate profits, driven by various economic factors as analyzed by Yahoo Finance Washington Correspondent Ben Werschkul.",
+          "title": "MAG 7 Stocks Down Year-to-Date Despite Individual Gains in Tech",
+          "summary": "While some tech stocks like Micron and Intel surged, the broader MAG 7 index remains down year-to-date, reflecting mixed performance across major AI and tech giants.",
+          "source": "Gingrich Commentary",
+          "url": "https://www.youtube.com/watch?v=T0vn2XhOGM4"
+        },
+        {
+          "title": "US Dollar Hits Highest Level Since Late Last Year Amid Global Market Volatility",
+          "summary": "The US dollar reached its highest level since late last year as global markets faced volatility, including a 10% drop in South Korea's stock market and a $1 trillion NASDAQ loss.",
+          "source": "SpaceX Stock Analysis",
+          "url": "https://www.youtube.com/watch?v=2PRqGrxrKwI"
+        },
+        {
+          "title": "Micron Earnings Report Expected This Wednesday, Drawing Investor Attention",
+          "summary": "Micron is set to report earnings this Wednesday, with investors closely watching forward guidance amid its 300% year-to-date surge and revised price targets.",
+          "source": "Gingrich Commentary",
+          "url": "https://www.youtube.com/watch?v=T0vn2XhOGM4"
+        },
+        {
+          "title": "Crypto Markets Face Brutal Week as Bitcoin Prices Plummet",
+          "summary": "Bitcoin and other cryptocurrencies experienced a sharp decline this week, with Bitmine joining the Russell 1000 amid broader market turbulence and illicit Iranian activity concerns.",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/whats-driving-surge-corporate-profits-210000001.html"
+          "url": "https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=BnknQvVkSuY",
-        "https://www.tiktok.com/@apnews/video/7655779868323499278",
-        "https://finance.yahoo.com/video/whats-driving-surge-corporate-profits-210000001.html",
+        "https://www.youtube.com/watch?v=T0vn2XhOGM4",
+        "https://www.youtube.com/watch?v=2PRqGrxrKwI",
         "https://www.youtube.com/watch?v=0tz9EYk9eSE",
-        "https://www.youtube.com/watch?v=LTv4aVIhxYY",
-        "https://www.deseret.com/video/2026/06/26/deseret-voices-episode-37-the-real-cost-of-losing-the-great-salt-lake/",
-        "https://www.instagram.com/reel/DaDNWpBO0Jt/",
-        "https://www.youtube.com/watch?v=ggbKofV2-Wo",
-        "https://www.instagram.com/reel/DaEOt9Txx-t/",
-        "https://www.ft.com/video/360c26ad-4719-4a90-af2d-40bd51aeea62"
+        "https://www.youtube.com/watch?v=LrAyHAane48",
+        "https://www.youtube.com/watch?v=uCwmFmxS93A",
+        "https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html",
+        "https://www.youtube.com/watch?v=nG_vWOfqwto",
+        "https://www.foxnews.com/politics/watch-pelosi-omar-stay-silent-mamdani-backed-socialist-victories-shake-democrat-party",
+        "https://www.instagram.com/reel/DaEjw8VmbVp/"
       ]
     },
     "crypto_news": {
@@ -322,46 +339,46 @@
       "count": 5,
       "items": [
         {
-          "title": "Bitcoin Falls Below $60,000 Amid Short Squeeze Speculation",
-          "summary": "Bitcoin dropped under $60,000, hitting its lowest level since October 2024, while traders warn a massive short squeeze is loading at the critical support level with potential relief pop targets near $70,000.",
+          "title": "Bitcoin Falls Below $60,000, Hitting Lowest Level Since October 2024",
+          "summary": "Bitcoin dropped back under $60,000, marking its lowest price since October 2024, as it closes below the 200-week moving average for the first time since crossing above it in October 2023.",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html"
         },
         {
-          "title": "US Sanctions Iranian Crypto Entities as $3.8B Empire Linked to Missile Funding",
-          "summary": "The US moved to sanction Iranian crypto exchange Novateex and related entities after a blockchain report revealed Iran moved $3.84 billion through CoinX from 2019–2026, allegedly to supercharge missile strikes and evade sanctions.",
+          "title": "US Sanctions Iranian Crypto Entities Amid $3.84B Blockchain Money Flow Report",
+          "summary": "The US has sanctioned Novateex and other Iranian crypto entities following a blockchain analysis report revealing Iran moved $3.84 billion through Coin X from 2019 to 2026, with ties to the BBET hack and a $67 million stolen crypto trail.",
           "source": "Hindustan Times",
           "url": "https://www.youtube.com/watch?v=DRDuJL-TGCE"
         },
         {
-          "title": "ETH and SOL Show Bullish Breakout Signals Despite Market Downturn",
-          "summary": "Ethereum is poised to break above $1,650 with potential targets near $2,000, while Solana is on the verge of a breakout, as both altcoins display positive RSI divergences amid broader bearish sentiment.",
-          "source": "YouTube Analysis",
-          "url": "https://www.youtube.com/watch?v=rfZdAb0OHDg"
+          "title": "MicroStrategy and Related Crypto Stocks Plunge as Bitcoin Overhang Breaks Down",
+          "summary": "MicroStrategy and affiliated crypto stocks like Sailor and STLC fell sharply, with Sailor dropping from the 90s to significantly lower levels, as the overhang relative to Bitcoin broke down entirely amid muted Bitcoin price movement.",
+          "source": "TechnicalRoundup",
+          "url": "https://www.youtube.com/watch?v=fi-5KHHsuMY"
         },
         {
-          "title": "Bitcoin Closes Below 200-Week Moving Average for First Time Since 2023",
-          "summary": "Bitcoin closed under its 200-week moving average for the first time since October 2023, raising concerns about a potential 24% collapse as traders highlight extreme negativity around Michael Saylor and lopsided bearish sentiment.",
-          "source": "CNBC",
-          "url": "https://www.youtube.com/watch?v=k0szdDp3xGA"
+          "title": "Solana Vibe Shift Emerging with $80 as Key Support Level",
+          "summary": "Analysts note an early 'vibe shift' for Solana, with $80 identified as the critical support level that would justify the trend, alongside screening strategies for trading coins based on risk appetite and derivatives participation.",
+          "source": "TechnicalRoundup",
+          "url": "https://www.youtube.com/watch?v=fi-5KHHsuMY"
         },
         {
-          "title": "Injective, Zcash, and SUI Show Strong Trend Breakouts for Long Opportunities",
-          "summary": "Injective, Zcash, and SUI are breaking key 4-hour trends, with analysts identifying high risk-to-reward long setups, particularly for Zcash and SUI, as part of a broader altcoin bullish divergence.",
-          "source": "YouTube Analysis",
-          "url": "https://www.youtube.com/watch?v=QlglEZmcRnk"
+          "title": "Hyperliquid and ETH Show Apathy Amid Muted Market Activity",
+          "summary": "Ethereum continues to face market apathy while Hyperliquid maintains a stable range, reflecting broader muted activity as Bitcoin hovers near $60,000 and SpaceX retraces to its listing price.",
+          "source": "TechnicalRoundup",
+          "url": "https://www.youtube.com/watch?v=fi-5KHHsuMY"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=QlglEZmcRnk",
-        "https://www.youtube.com/watch?v=rfZdAb0OHDg",
-        "https://www.youtube.com/watch?v=ssYjTDHuNbM",
+        "https://www.youtube.com/watch?v=fi-5KHHsuMY",
         "https://www.youtube.com/watch?v=DRDuJL-TGCE",
         "https://www.youtube.com/watch?v=k0szdDp3xGA",
         "https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html",
-        "https://www.cnbc.com/video/2026/06/26/fast-money-traders-talk-ai-cooldown-as-investors-broaden-beyond-tech.html",
         "https://www.cbc.ca/player/play/video/9.4236164",
-        "https://www.instagram.com/reel/DaEsTcESwsA/",
+        "https://www.youtube.com/watch?v=biyCX7UYAfQ",
+        "https://www.instagram.com/reel/DaGDEGWMtKG/",
+        "https://www.facebook.com/SteveBartlettShow/videos/if-you-wear-these-shoes-you-need-to-stop/28361259780128322/",
+        "https://www.formula1.com/en/video/i-dont-give-up-p2-leclerc-will-try-everything-in-sundays-austrian-gp.1869170218904222790",
         "https://www.nytimes.com/video/opinion/100000010991743/has-the-maga-sugar-rush-finally-run-out.html"
       ]
     },
@@ -370,43 +387,68 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 8,
       "items": [
         {
-          "title": "OpenAI Releases GPT-5.6 with Government-Restricted Retail Access",
-          "summary": "OpenAI has launched GPT-5.6, which reportedly outperforms Claude and Meta's models in benchmarks, but retail access is locked behind US government restrictions, limiting availability to limited partners who have shared documents with the government.",
+          "title": "OpenAI Releases GPT-5.6 with Government-Only Access",
+          "summary": "OpenAI launched GPT-5.6, which outperforms Claude Meta 5 in benchmarks, but retail access is restricted to limited government partners due to US government enforcement, delaying public availability.",
           "source": "YouTube",
           "url": "https://www.youtube.com/watch?v=K0rnhnwQrho"
         },
         {
-          "title": "AI Market Share Update: ChatGPT Dominates at 81%",
-          "summary": "New market share data reveals ChatGPT holds 81% of the AI market, while Google's Gemini trails at 3%, Perplexity captures 11%, and Claude maintains a significant but smaller portion.",
+          "title": "Boston Dynamics' Atlas Robot Crosses Line into Human Worker Role",
+          "summary": "Boston Dynamics began training its electric Atlas robot to play football using imitation and reinforcement learning, while also demonstrating it can haul 100-pound mini-fridges, marking a shift where humanoid robots now function as human workers, performers, and athletes.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=2E7Gs_zccaE"
+        },
+        {
+          "title": "OpenAI Launches Dedicated Robotics Division Led by Aditya Ramesh",
+          "summary": "OpenAI established a new robotics division led by DALL-E and Sora creator Aditya Ramesh to build world-model intelligence for industrial robots and skilled labor applications.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=2E7Gs_zccaE"
+        },
+        {
+          "title": "NVIDIA Drops Nemotron 3 Ultra Open Agentic Model",
+          "summary": "NVIDIA released Nemotron 3 Ultra, an open agentic model designed to go beyond code generation, advancing AI innovation and machine learning capabilities for startup tools and coding assistants.",
           "source": "Instagram",
-          "url": "https://www.instagram.com/reel/DaEH4BJMxRX/"
+          "url": "https://www.instagram.com/reel/DaExvYMgq0z/"
         },
         {
-          "title": "AI-Designed Antibody ABS-201 Targets Pattern Baldness Cure",
-          "summary": "Absci CEO Sean McClain discusses ABS-201, an AI-designed antibody that could potentially serve as a 'set-it-and-forget-it' cure for pattern baldness, marking a breakthrough in AI-driven drug discovery.",
+          "title": "BYD Invests $14 Billion in AI and Plans Humanoid Robot Sales",
+          "summary": "BYD Chairman Wang Chuanfu committed roughly $14 billion toward AI and smart technology, with plans to sell humanoid robots through global car dealerships starting in showrooms.",
           "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=CXY8QgP6aNc"
+          "url": "https://www.youtube.com/watch?v=2E7Gs_zccaE"
         },
         {
-          "title": "GLM 5.2 Emerges as Budget-Friendly AI Alternative at $18",
-          "summary": "Chinese company GLM has released GLM 5.2, generating significant hype as a cost-effective AI model starting at $18, offering strong performance for MCP setups and competing with larger models.",
+          "title": "Micron Predicts Memory Shortage Will Persist Beyond 2027",
+          "summary": "Micron expects tight memory supply conditions to continue past 2027 due to AI data center demand consuming global memory supply, with Samsung and SK Hynix also predicting the shortage will last indefinitely.",
           "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=K0rnhnwQrho"
+          "url": "https://www.youtube.com/watch?v=R1jsbfouRQY"
+        },
+        {
+          "title": "Figure AI Signs Catalyst Brands as Second Major Commercial Customer",
+          "summary": "Figure AI secured Catalyst Brands as its second major commercial customer after BMW, deploying its BOB robot to sort over 12,000 packages in ten hours alongside a human intern.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=2E7Gs_zccaE"
+        },
+        {
+          "title": "Unitree's H2 Plus Becomes NVIDIA's Official Reference Humanoid",
+          "summary": "Unitree's H2 Plus robot was designated as NVIDIA's official reference humanoid for the Isaac GR00T platform, featuring hands with 1,000 tactile sensors per fingertip powered by Jetson Thor compute.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=2E7Gs_zccaE"
         }
       ],
       "citations": [
+        "https://www.youtube.com/watch?v=2E7Gs_zccaE",
         "https://www.youtube.com/watch?v=K0rnhnwQrho",
-        "https://www.instagram.com/reel/DaEH4BJMxRX/",
-        "https://www.youtube.com/watch?v=zCvVTA2PiEg",
-        "https://www.youtube.com/watch?v=CXY8QgP6aNc",
-        "https://www.cbsnews.com/video/us-strikes-iran-after-attacked-cargo-ship-strait-of-hormuz-centcom/",
-        "https://www.tiktok.com/@nbcnews/video/7655789988629499150",
-        "https://www.instagram.com/reel/DaFFhEQBzF4/",
+        "https://www.youtube.com/watch?v=R1jsbfouRQY",
+        "https://www.youtube.com/watch?v=i2YNz7oXWmU",
+        "https://www.instagram.com/reel/DaExvYMgq0z/",
         "https://www.reddit.com/r/BetterOffline/comments/1ugrx7r/big_tech_just_got_a_brutal_reality_check/",
-        "https://www.cbsnews.com/video/wildlife-photographer-shares-the-beauty-of-yellowstone-national-park-through-his-lens/"
+        "https://www.cbsnews.com/video/wildlife-photographer-shares-the-beauty-of-yellowstone-national-park-through-his-lens/",
+        "https://www.youtube.com/watch?v=39LymUNTLTg",
+        "https://www.instagram.com/reel/DaGXwMFxvLq/",
+        "https://www.reddit.com/r/godot/comments/1uh8gwf/i_still_cant_believe_my_first_rts_project_in/"
       ]
     },
     "gaming": {
@@ -414,44 +456,19 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 4,
-      "items": [
-        {
-          "title": "Steam Summer Sale Hits Peak with Massive Discounts on Major Franchises",
-          "summary": "The Steam Summer Sale is in full force, offering up to 95% off on titles including Mass Effect Legendary Trilogy (92% off), Ace Combat 7 (84% off), and multiple Battlefield games (95% off), alongside deep discounts on Civilization, Borderlands, and The Elder Scrolls franchises.",
-          "source": "YouTube (Infographics Show)",
-          "url": "https://www.youtube.com/watch?v=3vrXj7DEhuo"
-        },
-        {
-          "title": "Nintendo Switch 2 Launch Lineup Announced for Early July 2026",
-          "summary": "Several new games are set to release on both Nintendo Switch and the upcoming Switch 2 in the first week of July, including 'Momento' (June 30), 'Deathbulge: Battle of the Bands' (June 30), and 'High on Life 2' (July 1, priced at £47.99), with 'Parking Garage Rally Circuit' having launched last week.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=jj93YDNsyNQ"
-        },
-        {
-          "title": "Awaken Realms Acquires Primal Legends in Industry Development",
-          "summary": "Awaken Realms has acquired Primal Legends, marking a significant industry development in the board and video game sector, as highlighted in this week's review of recent gaming news and acquisitions.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=DTEgRJwK5V0"
-        },
-        {
-          "title": "Steam RTS Sale Features Top Deals on Strategy Games",
-          "summary": "Steam is offering 50% discounts on popular Real-Time Strategy games including 'Age of Mythology: Retold', 'Sins of a Solar Empire II', and '9-Bit Armies: A Bit Too Far', attracting strategy gamers during the summer sale period.",
-          "source": "Reddit",
-          "url": "https://www.reddit.com/r/RealTimeStrategy/comments/1uh1f08/my_top_picks_for_best_rts_game_deals_on_sale_at/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.youtube.com/watch?v=3vrXj7DEhuo",
-        "https://www.youtube.com/watch?v=jj93YDNsyNQ",
-        "https://www.youtube.com/watch?v=DTEgRJwK5V0",
-        "https://www.facebook.com/zacbuilds/videos/this-changed-how-i-play-retro-games-gamechanger-retrogames-nostalgia/1383043323718283/",
+        "https://www.instagram.com/reel/DaFmLzRB0_2/",
         "https://www.bbc.com/news/videos/cr7xl2r70vlo",
-        "https://www.instagram.com/reel/DaFmvCYMUpp/",
+        "https://www.youtube.com/watch?v=-bbv5Eck-iI",
+        "https://www.youtube.com/watch?v=5RZ_lfY6yRc",
         "https://www.reddit.com/r/RealTimeStrategy/comments/1uh1f08/my_top_picks_for_best_rts_game_deals_on_sale_at/",
-        "https://www.youtube.com/watch?v=8inHNfJuBXs",
-        "https://www.foxsports.com/watch/fmc-h9kzzweqbe0xyhrn",
-        "https://www.nytimes.com/video/movies/100000010926523/the-most-successful-documentary-series-in-history.html"
+        "https://www.youtube.com/watch?v=LcexGXfcAwo",
+        "https://www.youtube.com/watch?v=TaWV0-CXyJs",
+        "https://www.nytimes.com/video/movies/100000010926523/the-most-successful-documentary-series-in-history.html",
+        "https://www.facebook.com/61565370759712/videos/we-are-all-talking-about-the-oot-remake-but-what-about-a-demake-this-awesome-pro/940545229008072/",
+        "https://www.foxsports.com/watch/fmc-77y21dkqtdgzuvs9"
       ]
     },
     "tech_news": {
@@ -463,22 +480,22 @@
       "items": [
         {
           "title": "No Major Non-AI Tech News Found in Past 24 Hours",
-          "summary": "Search results contain no significant technology product launches, company news, or tech industry developments from the past 24 hours excluding AI; most content relates to geopolitical conflicts, natural disasters, or unrelated topics.",
-          "source": "Web Search Analysis",
+          "summary": "The available search results from June 27–28, 2026, contain no significant non-AI technology news, product launches, company announcements, or major tech industry developments; most content relates to geopolitical events, natural disasters, or AI-specific topics.",
+          "source": "Aggregated Search Results",
           "url": ""
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=BnknQvVkSuY",
+        "https://www.euronews.com/video/2026/06/27/latest-news-bulletin-june-27th-2026-midday",
         "https://www.instagram.com/p/DaFrQ6jjeaV/",
+        "https://www.youtube.com/watch?v=GlPnBwuBZDc",
         "https://www.youtube.com/watch?v=9LKGFxfhFlI",
-        "https://www.youtube.com/watch?v=C0WbcN1CCXA",
-        "https://www.instagram.com/reel/DaD3PLNJyqq/",
-        "https://thehill.com/media/5943483-megyn-kelly-haitian-syrian-protections/",
-        "https://www.cnn.com/2026/06/27/us/video/is-the-iphone-the-most-effective-birth-control-ever-invented",
-        "https://www.bbc.com/news/videos/cjrgjyw9285o",
+        "https://www.bbc.com/news/videos/cjdgrrvvvjgo",
+        "https://www.youtube.com/watch?v=3gHISfyJHPE",
         "https://www.reddit.com/r/BetterOffline/comments/1ugrx7r/big_tech_just_got_a_brutal_reality_check/",
-        "https://www.nytimes.com/video/movies/100000010926523/the-most-successful-documentary-series-in-history.html"
+        "https://www.instagram.com/reel/DaGGvK3OVym/",
+        "https://www.cnn.com/2026/06/27/us/video/is-the-iphone-the-most-effective-birth-control-ever-invented",
+        "https://www.facebook.com/SteveBartlettShow/videos/if-you-wear-these-shoes-you-need-to-stop/28361259780128322/"
       ]
     }
   }
