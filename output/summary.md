@@ -1,26 +1,26 @@
 # Daily Briefing
 
-*Generated: 2026-06-28 00:48 UTC*
+*Generated: 2026-06-28 07:23 UTC*
 
-**Market Overview**
-The NASDAQ has dropped 4% in a week, erasing $1 trillion in value, with chipmakers like AMD hit hardest amid concerns over AI valuations and rising interest rates. The Dow rose slightly due to a historic peace agreement between the US and Iran, leading to oil prices falling below $75 per barrel. Bitcoin has fallen below $60,000, hitting its lowest level since October 2024. The US dollar has reached its highest level since late last year amid global market volatility.
+Here is a concise executive briefing based on the provided raw news and market data:
 
-**Tech & AI**
-Notable tech developments include Micron and Intel surging intraday, up 300% and 260% year-to-date, driven by major foundry deals with Apple. AI startups in Asia have launched Mythos-like models, and DSpark has been introduced, accelerating LLM inference. Additionally, AI has learned the "dark art" of RFIC design, and there have been advancements in X11 application security with LXC.
+1. **Market Overview**: The cryptocurrency market is experiencing a downturn, with Bitcoin falling below $60,000 to its lowest level since October 2024. Ethereum and other major cryptocurrencies are also down, with Ethereum dropping nearly 8% over the past week and 22% over the month. The macroeconomic and stock market news is limited, with no significant developments reported in the past 24 hours.
 
-**Gaming & Entertainment**
-There is limited notable gaming news, although a constellation puzzle game called Starglyphs has been released, based on Euler paths.
+2. **Tech & AI**: OpenAI has released GPT-5.6, a model that outperforms Claude and Meta's latest in benchmarks, but retail access is restricted due to US government regulations. GLM 5.2 has emerged as a high-performance local AI model, offering faster processing and competitive pricing. ServiceNow has announced AI-native platform updates, including a new AI agent routing system and an inclusive pricing model.
 
-**Key Insights**
-* The NASDAQ's decline and Bitcoin's drop below $60,000 indicate a volatile market, with investors concerned about AI valuations and rising interest rates.
-* The peace agreement between the US and Iran has led to a decrease in oil prices, boosting investor sentiment.
-* Micron and Intel's surge is driven by major foundry deals, highlighting the importance of partnerships in the tech industry.
-* AI advancements continue, with applications in RFIC design and LLM inference.
-* Regulatory actions, such as US sanctions on Iranian crypto entities, demonstrate increased scrutiny of the cryptocurrency market.
+3. **Gaming & Entertainment**: There is no significant gaming news reported in the provided data. However, a project called OpenRA has gained attention, and Decomp Academy is offering a platform to learn decompiling GameCube games into matching C code.
 
-**Watch List**
-* Micron's earnings report this Wednesday, which may impact the broader tech market.
-* Bitcoin's price movement, as it hovers near $60,000.
-* The impact of the US-Iran peace agreement on global markets and oil prices.
-* Developments in AI, particularly in areas like RFIC design and LLM inference.
-* Regulatory updates on cryptocurrency, including potential sanctions or laws affecting the market.
+4. **Key Insights**:
+* The cryptocurrency market is experiencing a downturn, with major cryptocurrencies like Bitcoin and Ethereum dropping in value.
+* AI technology is generating new earning opportunities for everyday people, as demonstrated by a vegetable vendor in Bengaluru using AI for data collection.
+* The convergence of artificial intelligence and next-generation telecom connectivity is being pushed by China to accelerate its digital economy.
+* New AI models like GPT-5.6 and GLM 5.2 are being released, offering improved performance and competitive pricing.
+* ServiceNow is shifting to an inclusive pricing model, where all packages include AI features.
+
+5. **Watch List**: 
+* Bitcoin and Ethereum prices
+* Developments in AI technology, including new model releases and company announcements
+* Regulatory news and updates on the Clarity Act
+* The performance of GLM 5.2 and other local AI models
+* ServiceNow's AI-native platform updates and pricing model changes
+* China's push for AI-telecom integration and its impact on the digital economy
