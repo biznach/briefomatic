@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T13:57:20.368743+00:00",
-  "generated_at_human": "2026-07-03 13:57 UTC",
+  "generated_at": "2026-07-03T19:16:48.650544+00:00",
+  "generated_at_human": "2026-07-03 19:16 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "Half-Baked Product",
-          "url": "https://weli.dev/blog/half-baked-product/",
-          "score": 562,
-          "comments": 152
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "score": 133,
+          "comments": 58
         },
         {
-          "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
-          "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-          "score": 22,
-          "comments": 2
-        },
-        {
-          "title": "Virginia bans sale of geolocation data",
-          "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-          "score": 890,
-          "comments": 132
-        },
-        {
-          "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
-          "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
-          "score": 57,
-          "comments": 32
-        },
-        {
-          "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
-          "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-          "score": 52,
-          "comments": 6
-        },
-        {
-          "title": "Right to Local Intelligence",
-          "url": "https://righttointelligence.org/",
-          "score": 350,
-          "comments": 119
-        },
-        {
-          "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
-          "url": "https://wordgard.net/",
-          "score": 88,
-          "comments": 45
-        },
-        {
-          "title": "CarPlay Is Additive",
-          "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-          "score": 415,
-          "comments": 558
-        },
-        {
-          "title": "Please stop the AI confidence theater",
-          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-          "score": 70,
+          "title": "Factories are just rooms",
+          "url": "https://interconnected.org/home/2026/07/03/factories",
+          "score": 94,
           "comments": 34
         },
         {
-          "title": "How working with a blind client revealed invisible accessibility gaps",
-          "url": "https://iinteractive.com/resources/blog/read-only",
-          "score": 43,
-          "comments": 26
+          "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+          "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+          "score": 101,
+          "comments": 5
         },
         {
-          "title": "Goodebye Forever Probably: Why I’m leaving developer relations",
-          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
-          "score": 5,
-          "comments": 2
+          "title": "My dad helped build North America's oat supply chain: Can it be remade?",
+          "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+          "score": 55,
+          "comments": 21
         },
         {
-          "title": "crustc: entirety of `rustc`, translated to C",
-          "url": "https://github.com/FractalFir/crustc",
-          "score": 327,
-          "comments": 63
+          "title": "Costco is the anti-Amazon",
+          "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+          "score": 39,
+          "comments": 14
         },
         {
-          "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-          "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-          "score": 505,
-          "comments": 215
+          "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "score": 14,
+          "comments": 3
         },
         {
-          "title": "Commodore 64 Basic for PostgreSQL",
-          "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
-          "score": 26,
-          "comments": 6
+          "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
+          "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+          "score": 118,
+          "comments": 44
+        },
+        {
+          "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+          "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+          "score": 412,
+          "comments": 69
+        },
+        {
+          "title": "Best Simple System for Now (2025)",
+          "url": "https://dannorth.net/blog/best-simple-system-for-now/",
+          "score": 49,
+          "comments": 11
+        },
+        {
+          "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
+          "url": "https://wordgard.net/",
+          "score": 192,
+          "comments": 75
+        },
+        {
+          "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "score": 55,
+          "comments": 30
+        },
+        {
+          "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+          "url": "https://github.com/teamchong/pxpipe",
+          "score": 99,
+          "comments": 35
+        },
+        {
+          "title": "Instead of banning AI, I made a classroom contract with my students",
+          "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
+          "score": 18,
+          "comments": 1
+        },
+        {
+          "title": "Half-Baked Product",
+          "url": "https://weli.dev/blog/half-baked-product/",
+          "score": 1085,
+          "comments": 332
+        },
+        {
+          "title": "International chess federation sanctions Kramnik",
+          "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+          "score": 57,
+          "comments": 29
+        },
+        {
+          "title": "The Fall and Rise of Screwworm",
+          "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
+          "score": 92,
+          "comments": 40
+        },
+        {
+          "title": "The Life and Times of Maxis, Part 1: SimEverything",
+          "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+          "score": 75,
+          "comments": 4
+        },
+        {
+          "title": "Flexible metaprogramming with Rhombus",
+          "url": "https://lwn.net/SubscriberLink/1079001/67840550991151ed/",
+          "score": 65,
+          "comments": 1
+        },
+        {
+          "title": "Supersonic flight returning to US after half-century ban",
+          "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
+          "score": 115,
+          "comments": 135
+        },
+        {
+          "title": "America, 1926: A forgotten 100-year-old report",
+          "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
+          "score": 89,
+          "comments": 111
+        },
+        {
+          "title": "Closer to Rude Than Snide: An Interview with Leo Robson",
+          "url": "https://www.theideasletter.org/essay/closer-to-rude-than-snide/",
+          "score": 3,
+          "comments": 0
+        },
+        {
+          "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
+          "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
+          "score": 20,
+          "comments": 1
+        },
+        {
+          "title": "Memorizing session transcripts isn't useful",
+          "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+          "score": 164,
+          "comments": 134
+        },
+        {
+          "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+          "url": "https://arxiv.org/abs/2607.02512",
+          "score": 37,
+          "comments": 4
         },
         {
           "title": "The Safari MCP server for web developers",
           "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-          "score": 145,
-          "comments": 38
-        },
-        {
-          "title": "Podman v6.0.0",
-          "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-          "score": 580,
-          "comments": 228
-        },
-        {
-          "title": "Reality has a surprising amount of detail (2017)",
-          "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-          "score": 309,
-          "comments": 116
-        },
-        {
-          "title": "Quake in 13 Kilobytes (2021)",
-          "url": "https://js13kgames.com/games/q1k3",
-          "score": 76,
-          "comments": 7
-        },
-        {
-          "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-          "score": 207,
-          "comments": 157
-        },
-        {
-          "title": "Immich 3.0",
-          "url": "https://github.com/immich-app/immich/discussions/29439",
-          "score": 507,
-          "comments": 248
-        },
-        {
-          "title": "Exapunks (2018)",
-          "url": "https://www.zachtronics.com/exapunks/",
-          "score": 307,
-          "comments": 106
-        },
-        {
-          "title": "Q&A with Micron's VP and GM of Memory",
-          "url": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
-          "score": 16,
-          "comments": 11
-        },
-        {
-          "title": "Underwater suit-wearing cyborg insect capable of diving and terra-aqua travel",
-          "url": "https://www.nature.com/articles/s41467-026-74235-1",
-          "score": 63,
-          "comments": 26
-        },
-        {
-          "title": "The Beauty of Tautologies",
-          "url": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
-          "score": 9,
-          "comments": 6
-        },
-        {
-          "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
-          "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-          "score": 72,
-          "comments": 12
+          "score": 230,
+          "comments": 65
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 62060,
-          "change_24h": 0.36,
-          "change_7d": 4.63,
-          "market_cap": 1244451556707
+          "price": 62166,
+          "change_24h": 1.1,
+          "change_7d": 4.4,
+          "market_cap": 1245922135575
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1745.19,
-          "change_24h": 2.15,
-          "change_7d": 13.11,
-          "market_cap": 210610183544
+          "price": 1740.2,
+          "change_24h": 2.57,
+          "change_7d": 10.81,
+          "market_cap": 209547341819
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 81.54,
-          "change_24h": 0.22,
-          "change_7d": 18.39,
-          "market_cap": 47377907516
+          "price": 82.07,
+          "change_24h": 1.4,
+          "change_7d": 13.32,
+          "market_cap": 47677991954
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.076329,
-          "change_24h": 1.76,
-          "change_7d": 3.99,
-          "market_cap": 11823488682
+          "price": 0.076874,
+          "change_24h": 3.64,
+          "change_7d": 1.82,
+          "market_cap": 11901700987
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.170345,
-          "change_24h": 5.35,
-          "change_7d": 19.15,
-          "market_cap": 6347909195
+          "price": 0.181227,
+          "change_24h": 13.76,
+          "change_7d": 22.5,
+          "market_cap": 6749560942
         }
       ]
     },
@@ -212,24 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Grass",
-          "symbol": "GRASS",
-          "market_cap_rank": 124
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 113
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
-        },
-        {
           "name": "The Black Bull",
           "symbol": "ANSEM",
-          "market_cap_rank": 339
+          "market_cap_rank": 255
         },
         {
           "name": "Hyperliquid",
@@ -237,29 +222,44 @@
           "market_cap_rank": 10
         },
         {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 103
+          "name": "LAB",
+          "symbol": "LAB",
+          "market_cap_rank": 44
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 114
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Aerodrome Finance",
           "symbol": "AERO",
-          "market_cap_rank": 104
+          "market_cap_rank": 102
         },
         {
-          "name": "Venice Token",
-          "symbol": "VVV",
-          "market_cap_rank": 92
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
         },
         {
-          "name": "Nexus",
-          "symbol": "NEX",
-          "market_cap_rank": 192
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 101
         },
         {
-          "name": "Aave",
-          "symbol": "AAVE",
-          "market_cap_rank": 57
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 40
         }
       ]
     },
@@ -268,49 +268,67 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 8,
       "items": [
         {
-          "title": "U.S. Jobs Report: June Added Only 57,000 Jobs, Far Below Expectations",
-          "summary": "The latest jobs report shows the U.S. added just 57,000 jobs in June, well below economists' expectations and 74,000 fewer than thought in the prior two months, signaling a slowing labor market amid concerns over President Trump's economic handling. The unemployment rate remained steady at 4.2%.",
-          "source": "PBS News Hour",
-          "url": "https://www.pbs.org/video/july-2-2026-pbs-news-hour-full-episode-1782964801/"
+          "title": "U.S. Job Growth Slows Sharply in July, Unemployment Holds at 3.9%",
+          "summary": "The U.S. economy added 157,000 jobs in July, falling below analyst expectations, while the unemployment rate remained steady at 3.9%, signaling a cooling labor market amid persistent inflation concerns.",
+          "source": "TND",
+          "url": "https://www.facebook.com/TND/posts/as-the-economy-continues-to-chug-along-positive-numbers-are-often-accompanied-by/1564347635729822/"
         },
         {
-          "title": "Fed Rate Cut Hopes Rise as Weak Jobs Data Suggests Slowing Economy",
-          "summary": "The soft June jobs data has increased speculation that the Federal Reserve could cut interest rates before the end of the year, though it remains uncertain. Analysts note wages are growing less quickly than inflation, creating challenges for most Americans.",
-          "source": "YouTube - Insana on economic frustrations",
-          "url": "https://www.youtube.com/watch?v=Rl8490IMxo0"
+          "title": "Fed Under New Leadership: Kevin Warsh Takes Over as Jerome Powell Concludes Term",
+          "summary": "Former Fed Governor Kevin Warsh has assumed the role of Federal Reserve Chair following Jerome Powell’s eight-year term, with the new leadership signaling a less accommodative monetary policy and a near-term rate cut now appearing highly unlikely.",
+          "source": "Blue Trust",
+          "url": "https://www.bluetrust.com/insight/economic-review-outlook-third-quarter-2026"
         },
         {
-          "title": "Gas Prices Drop to Lowest Since Start of Year, Analyst Predicts Further Decline by Labor Day",
-          "summary": "Energy prices have fallen to $2.98 per gallon, the lowest seen since the start of the year, with analysts predicting a significant drop by Labor Day. Realistic targets suggest prices could reach around $3.25 by that time.",
-          "source": "YouTube - Expect 'significant drop' in gas prices",
-          "url": "https://www.youtube.com/watch?v=RV_RqbDpu58"
+          "title": "Inflation Reaches 4.2% in May, Highest in Three Years, as Energy Costs Surge 11%",
+          "summary": "Consumer price inflation rose to 4.2% year-over-year in May, driven by an 11% increase in energy costs, while producer prices climbed 6.4%, reinforcing expectations of a potential rate hike before year-end.",
+          "source": "Blue Trust",
+          "url": "https://www.bluetrust.com/insight/economic-review-outlook-third-quarter-2026"
         },
         {
-          "title": "Markets Continue to Trade Amid Summer Slowdown Concerns and Heat Warnings",
-          "summary": "Despite a weaker-than-expected jobs report renewing concerns of a summer slowdown, markets continue to trade steadily. Nearly half of Americans face extreme heat warnings as a record-breaking heat wave moves across the country.",
-          "source": "YouTube - Meet the Press NOW",
-          "url": "https://www.youtube.com/watch?v=NezUfvAbAko"
+          "title": "S&P 500 Posts 15% Gain in Q2 Despite Early-Year Drop, Emerging Markets Outperform",
+          "summary": "U.S. equities rallied strongly in the second quarter with the S&P 500 finishing up 15%, while emerging market equities surged 24% and developed international stocks rose nearly 11%, amid easing geopolitical tensions and a ceasefire in Iran.",
+          "source": "Blue Trust",
+          "url": "https://www.bluetrust.com/insight/economic-review-outlook-third-quarter-2026"
         },
         {
-          "title": "Americans Grade Economy with 'B', Express Cautious Optimism Ahead of Midterms",
-          "summary": "At the Great American State Fair, Americans expressed cautious optimism about the economy, grading it with a 'B' and saying it won't decide their vote in November's midterms, despite strong pessimism about current leadership and high costs.",
-          "source": "Fox News",
-          "url": "https://www.foxnews.com/video/6400036824112"
+          "title": "Gold Slides 14% in Q2, Commodities Retreat 8% After U.S.-Iran Memorandum",
+          "summary": "Gold took a breather in the second quarter, sliding 14%, while commodities rose initially but retreated 8% after the U.S. and Iran reached a memorandum of understanding, reflecting shifting market dynamics amid geopolitical developments.",
+          "source": "Blue Trust",
+          "url": "https://www.bluetrust.com/insight/economic-review-outlook-third-quarter-2026"
+        },
+        {
+          "title": "Strait of Hormuz Reopens, Trade Policy Uncertainty Declines, Boosting Business Planning",
+          "summary": "The reopening of the Strait of Hormuz and declining trade policy uncertainty are viewed as bullish for business planning and hiring, though rising freight rates and mild supply chain distress suggest ongoing economic pressures.",
+          "source": "Apollo",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark"
+        },
+        {
+          "title": "UN Raises Global Inflation Forecast to 3.9% for 2026 Amid New Energy Shock",
+          "summary": "The United Nations has raised its global inflation forecast for 2026 to 3.9% due to a new energy shock linked to Middle East conflict, signaling that crises are becoming a permanent feature of economic life rather than temporary disruptions.",
+          "source": "EC[ON]OMY",
+          "url": "https://economykz.org/en/the-era-of-cheap-economics-is-over-the-world-is-learning-to-live-with-permanent-shocks/"
+        },
+        {
+          "title": "Market Narrative Shifts to Rate Hike Expectations as Fed Turns Hawkish",
+          "summary": "Driven by strong April CPI, hot May non-farm payrolls, and a hawkish Fed stance, the market narrative now suggests the reopening of the Strait of Hormuz could overheat the economy, forcing the Fed to raise interest rates soon.",
+          "source": "Apollo",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=Rl8490IMxo0",
+        "https://www.facebook.com/TND/posts/as-the-economy-continues-to-chug-along-positive-numbers-are-often-accompanied-by/1564347635729822/",
+        "https://tradingeconomics.com/calendar",
+        "https://www.bluetrust.com/insight/economic-review-outlook-third-quarter-2026",
+        "https://www.apollo.com/wealth/insights-news/insights/daily-spark",
         "https://www.youtube.com/watch?v=RV_RqbDpu58",
-        "https://www.youtube.com/watch?v=NezUfvAbAko",
-        "https://www.youtube.com/watch?v=rgDSD6-Pyqg",
-        "https://www.reddit.com/r/videos/comments/1ullhb8/vanishing_middle_class_the_death_of_the_american/",
-        "https://www.facebook.com/CBSNews/videos/asked-whether-ukraine-is-winning-the-war-ukrainian-president-volodymyr-zelenskyy/1002619115955430/",
-        "https://www.instagram.com/reel/DaTMHaCAIi_/",
-        "https://www.pbs.org/video/july-2-2026-pbs-news-hour-full-episode-1782964801/",
-        "https://www.foxnews.com/video/6400036824112"
+        "https://economykz.org/en/the-era-of-cheap-economics-is-over-the-world-is-learning-to-live-with-permanent-shocks/",
+        "https://www.instagram.com/reel/DaUUacRFPvV/",
+        "https://www.ft.com/macroeconomics",
+        "https://www.piie.com/commentary/op-eds/2026/americas-future-post-american-world-economy"
       ]
     },
     "crypto_news": {
@@ -318,80 +336,68 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 8,
       "items": [
         {
-          "title": "Bitcoin Breaks Above $61,000 as Whale Inflows Surge",
-          "summary": "Bitcoin has officially confirmed a breakout above the crucial $61,000 resistance level with a 12-hour candle close, supported by a $79.3 million surge in whale inflows over the last 30 days, signaling a shift from short-term capitulation to long-term accumulation.",
-          "source": "Crypto Banter / AMBCrypto",
-          "url": "https://www.youtube.com/watch?v=UDTUmGHPd2k"
+          "title": "Bitcoin Breaks $61,000 Resistance as Ethereum Surges 4.2%",
+          "summary": "Bitcoin traded near $61,292, up 0.80% over 24 hours, confirming a breakout above crucial resistance, while Ethereum outperformed with a 4.22% daily gain to $1,698, extending its weekly gain past 10%.",
+          "source": "Coinedition",
+          "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-5/"
         },
         {
-          "title": "Solana Reclaims $80 Range Following Bullish Divergence Breakout",
-          "summary": "Solana has entered the $80 price range, breaking above the $75–$76 resistance area on the 3-day timeframe, confirming a massive bullish divergence predicted weeks ago and showing significant strength relative to other altcoins.",
-          "source": "Crypto Banter / AMBCrypto",
-          "url": "https://www.youtube.com/watch?v=9BgnDK_n-5g"
+          "title": "BlackRock Transfers 20,000 BTC to Coinbase Amid Market Cap Rise",
+          "summary": "BlackRock moved over 20,000 BTC to Coinbase across four consecutive days as the total crypto market cap rose to $2.13 trillion, with Solana and XXP also posting notable weekly gains.",
+          "source": "Coinedition",
+          "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-5/"
         },
         {
-          "title": "Trump Discovers $1.4 Billion Crypto Revenue in 2025 Amid Investor Scrutiny",
-          "summary": "President Donald Trump disclosed earning $1.4 billion from cryptocurrency ventures in 2025, sparking scrutiny over investors who lost money on his $TRUMP meme coin while he profited billions from licensing and investments.",
-          "source": "CBS News / CNN",
-          "url": "https://www.cnn.com/2026/07/02/business/video/trump-meme-coin-crypto-investors-vrtc"
+          "title": "Ondo Finance Launches SEC-Compliant Tokenized Products Tied to BlackRock ETF",
+          "summary": "Ondo Finance introduced SEC-compliant tokenized products linked to BlackRock’s IVV ETF and Micron shares, utilizing a third-party custody framework issued by the SEC earlier this year.",
+          "source": "Coinedition",
+          "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-5/"
         },
         {
-          "title": "CoinFlip Secures Italy MiCA License as EU Crypto Transition Ends",
-          "summary": "CoinFlip has successfully secured a license under the EU's Markets in Crypto-Assets (MiCA) framework in Italy, marking a key milestone as the EU's crypto transition period officially concludes.",
-          "source": "AMBCrypto",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
+          "title": "SEC Acknowledges Past Crypto ETF Mishandling, Promises Orderly Review Process",
+          "summary": "SEC Division of Investment Management Director Brian Daly admitted the agency mishandled past crypto ETF approvals and stated a more orderly review process is being developed for roughly 200 monthly applications.",
+          "source": "Coinedition",
+          "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-5/"
         },
         {
-          "title": "Solana Launches SGP Governance as Staked Supply Crosses 68%",
-          "summary": "Solana has launched its SGP governance protocol, coinciding with staked supply surpassing 68% of the total network, reinforcing network security and decentralization.",
-          "source": "AMBCrypto",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
+          "title": "Russia Confirms Digital Ruble Launch Date of September 1, Cautious on Stablecoins",
+          "summary": "Russia’s central bank confirmed the digital ruble will launch on September 1, while maintaining a cautious stance on stablecoins, framing them only as a supplement to CBDC-based settlement.",
+          "source": "Coinedition",
+          "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-5/"
         },
         {
-          "title": "Ondo Tokenizes BlackRock ETF and Micron Stock Under SEC Framework",
-          "summary": "Ondo Finance has tokenized a BlackRock ETF and Micron stock under the SEC framework, expanding access to institutional-grade assets through blockchain technology.",
-          "source": "CoinMarketCap Alexandria",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
+          "title": "Trump Defends $1.4B Crypto Income as Ethics Critics Raise Concerns",
+          "summary": "President Trump defended his family’s $1.4 billion crypto-related profits from 2025, calling conflict-of-interest reports a non-issue, while critics and his niece allege a history of corruption tied to meme token sales.",
+          "source": "CNN-News18",
+          "url": "https://www.youtube.com/watch?v=ezG5DKJ7t8o"
         },
         {
-          "title": "Winklevoss Twins Dump $60M Bitcoin to Gemini Amid Price Struggle",
-          "summary": "The Winklevoss twins sold $60 million worth of Bitcoin to Gemini as BTC struggled near the $60,000 level, contributing to short-term volatility before the recent breakout.",
-          "source": "ZyCrypto",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
+          "title": "JPMorgan Warns of 'Avoidable Two-Way Risk' from Strategy’s New Bitcoin Sale Policy",
+          "summary": "JPMorgan warned that Strategy’s new Bitcoin sale policy introduces avoidable two-way risk to the market, given the company holds nearly 4% of total BTC supply.",
+          "source": "Coinedition",
+          "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-5/"
         },
         {
-          "title": "RBI Backs Crypto Containment and Keeps Ban on Table in India",
-          "summary": "The Reserve Bank of India (RBI) has reaffirmed its stance on crypto containment, with officials telling a house panel that the ban on cryptocurrency remains under consideration.",
-          "source": "The Economic Times",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
-        },
-        {
-          "title": "Ukraine Shuts Down Major Crypto Fraud Network",
-          "summary": "Ukrainian authorities have successfully dismantled a significant cryptocurrency fraud network, recovering assets and disrupting illicit operations linked to digital asset scams.",
-          "source": "The New Voice of Ukraine",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
-        },
-        {
-          "title": "Bitcoin Exchange Inflows Spike to 49,000 BTC in One Day",
-          "summary": "Bitcoin exchange inflows surged to 49,000 BTC in a single day, signaling potential for increased volatility and market movement as traders prepare for the next phase of the cycle.",
-          "source": "Bitcoin Magazine",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
+          "title": "Crypto Donor Anonymously Posts Bail for Empire State Building Climbers",
+          "summary": "A Rainbet crypto donor anonymously posted the bail for the Empire State Building climbers within 24 hours, sparking widespread social media attention.",
+          "source": "Worldstar",
+          "url": "https://www.instagram.com/p/DaTWOK3EtlZ/"
         }
       ],
       "citations": [
+        "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-5/",
         "https://www.youtube.com/watch?v=9BgnDK_n-5g",
-        "https://www.newsnow.com/us/Business/Cryptocurrencies",
-        "https://www.youtube.com/watch?v=UDTUmGHPd2k",
-        "https://www.youtube.com/watch?v=EfYCGlMpxqc",
+        "https://www.youtube.com/watch?v=ezG5DKJ7t8o",
         "https://cryptoslate.com/news/",
         "https://www.youtube.com/watch?v=90GF8JOYQT0",
+        "https://www.youtube.com/watch?v=7gQswnEBx1M",
         "https://www.cbsnews.com/video/extended-interview-scott-bessent-on-trump-accounts-gas-prices-trumps-crypto-earnings-and-more/",
         "https://www.instagram.com/p/DaTWOK3EtlZ/",
-        "https://www.forbes.com/digital-assets/news/",
-        "https://www.cnn.com/2026/07/02/business/video/trump-meme-coin-crypto-investors-vrtc"
+        "https://globalnews.ca/video/11951484/in-24-hours-they-couldve-been-dead-neighbours-react-as-16-children-rescued-from-ohio-home/",
+        "https://www.forbes.com/digital-assets/news/"
       ]
     },
     "ai_news": {
@@ -402,47 +408,47 @@
       "count": 5,
       "items": [
         {
-          "title": "Midjourney Announces New Health Wing for Preventive Medicine",
-          "summary": "Midjourney has launched a new health division focused on body scanning and preventive medicine, aiming to dramatically increase efficiency in healthcare if the technology succeeds.",
-          "source": "IBM Technology",
-          "url": "https://www.youtube.com/watch?v=JXHFvo_SPwk"
+          "title": "Flipkart Builds In-House LLM as AI Writes 40% of Code",
+          "summary": "Flipkart has deployed over 250 AI models and is now building specialized e-commerce large language models, with AI writing 35–40% of its software code.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=XFQrf_R5wEw"
         },
         {
-          "title": "140-Firm Consortium Launches OpenUSD Stablecoin to Challenge Circle and Tether",
-          "summary": "A consortium including Visa, Mastercard, BlackRock, Google, and Coinbase has introduced OpenUSD (OSD), a no-fee stablecoin designed to disrupt the Circle and Tether duopoly.",
-          "source": "No Priors",
-          "url": "https://www.youtube.com/watch?v=lmC2IYA1-Pc"
-        },
-        {
-          "title": "Valar Atomics Powers First Nuclear Website Using Live Reactor and NVIDIA Blackwell Chip",
-          "summary": "Valar Atomics split atoms to power an NVIDIA Blackwell chip directly with a live nuclear reactor, launching the world's first nuclear-powered website.",
-          "source": "No Priors",
-          "url": "https://www.youtube.com/watch?v=5Xvbq_zvOQ4"
-        },
-        {
-          "title": "MicroStrategy Introduces New Digital Credit Framework Amid Stock Decline",
-          "summary": "Following a 30% drop in MSTR stock over five days, Michael Saylor announced a new Digital Credit framework, an 18-month cash cushion, and a dividend hike to 12%.",
-          "source": "No Priors",
-          "url": "https://www.youtube.com/watch?v=lmC2IYA1-Pc"
-        },
-        {
-          "title": "Machine Learning Finds Bitcoin Trading Signals But Validation Remains Incomplete",
-          "summary": "Testing of 1,856 ML trading strategies on Bitcoin and S&P 500 data revealed interesting trading signals, though full validation showed they were not yet proven tradable edges.",
+          "title": "Machine Learning Finds Bitcoin Trading Signals but Not Proven Edge",
+          "summary": "A test of 1,856 ML trading strategies on Bitcoin and S&P 500 data revealed interesting signals, but none were strong enough to be considered a proven tradable edge after full validation.",
           "source": "YouTube",
           "url": "https://www.youtube.com/watch?v=JE4J9a2-59M"
+        },
+        {
+          "title": "Apple Unveils New Siri AI Updates at WWDC 2026",
+          "summary": "Apple announced significant Siri AI enhancements at WWDC 2026, including improved natural language processing and contextual awareness, in Tim Cook’s final WWDC appearance.",
+          "source": "CNET",
+          "url": "https://www.cnet.com/videos/clear-icloud-storage-now-in-3-steps/"
+        },
+        {
+          "title": "AI Assistant Rewrites Its Own Code via Recursive Learning",
+          "summary": "A new AI assistant demonstrates self-improvement capabilities by rewriting its own code using recursive learning, raising questions about the feasibility of autonomous AI advancement.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=AttKv_d7P04"
+        },
+        {
+          "title": "GitHub Highlights Deep Learning and AI Research Trends",
+          "summary": "GitHub, the Microsoft-owned code platform, is sharing breaking news and insights on deep learning, AI, ML, and math, reflecting growing industry focus on these fields.",
+          "source": "Instagram",
+          "url": "https://www.instagram.com/reel/DaTnAEBERsz/"
         }
       ],
       "citations": [
+        "https://www.youtube.com/watch?v=XFQrf_R5wEw",
         "https://www.youtube.com/watch?v=JE4J9a2-59M",
-        "https://www.youtube.com/watch?v=JXHFvo_SPwk",
-        "https://www.youtube.com/watch?v=lmC2IYA1-Pc",
-        "https://www.youtube.com/watch?v=qQHl4gnpi2k",
-        "https://www.youtube.com/watch?v=5Xvbq_zvOQ4",
-        "https://www.instagram.com/reel/DaSo-L8TjU0/",
-        "https://www.cbsnews.com/video/former-olympian-indicted-allegedly-tearing-up-part-reflecting-pool/",
+        "https://www.cnet.com/videos/clear-icloud-storage-now-in-3-steps/",
+        "https://www.youtube.com/watch?v=AttKv_d7P04",
         "https://www.instagram.com/reel/DaTnAEBERsz/",
-        "https://www.cbsnews.com/video/heat-wave-threatens-melt-4th-of-july-plans/",
-        "https://www.bbc.com/reel/video/p0nwjthh/watch"
+        "https://www.cbsnews.com/video/freedom-250-ferris-wheel/",
+        "https://www.bbc.com/reel/video/p0nwjthh/watch",
+        "https://www.instagram.com/reel/DaTn5_-ETSX/",
+        "https://www.instagram.com/reel/DaVmCzlIGX-/",
+        "https://www.reddit.com/r/auckland/comments/1ulxyb8/we_hear_plenty_about_whats_wrong_with_auckland_i/"
       ]
     },
     "gaming": {
@@ -450,68 +456,62 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 7,
       "items": [
         {
-          "title": "Sony Announces End of Physical Disc Games Starting January 2028",
-          "summary": "Sony confirmed that PS5 games will soon be digital-only, with physical disc releases ending in January 2028, sparking investor confidence and fan backlash.",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/category/news/"
+          "title": "State of Decay 3 Faces Cancellation Risk Amid Microsoft Studio Shakeups",
+          "summary": "Reports indicate State of Decay 3 may be canceled as Microsoft explores selling Undead Labs, with multiple studios including Double Fine and Ninja Theory reportedly on the chopping block.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=9GI1xoXCrow"
         },
         {
-          "title": "Arc System Works Unveils New Marvel Fighting Game with PlayStation Collaboration",
-          "summary": "A brand-new fighting game featuring Marvel characters and tag battles was announced during Sony’s State of Play, developed in collaboration with PlayStation.",
+          "title": "Sony Reveals New PlayStation Controller and Announces Nioh 3 at State of Play",
+          "summary": "During Sony's June State of Play, the company unveiled a new PlayStation controller with an unexpected design and announced Team Ninja's Nioh 3, a new soulslike entry.",
           "source": "GameRant",
           "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "Onimusha: Way of the Sword Release Date Bumped to Early September",
-          "summary": "The release date for Onimusha: Way of the Sword has been moved forward to the first week of September, joining Blood of Dawnwalker in a crowded launch window.",
-          "source": "Siliconera",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "Roguelite Wave-Defense Game Company of Heroes 3: Final Stand Announced for PC",
-          "summary": "A new roguelite wave-defense title, Company of Heroes 3: Final Stand, has been announced for PC, expanding the franchise with strategic combat elements.",
-          "source": "Gematsu",
-          "url": "https://www.newsnow.com/us/Entertainment/Gaming"
-        },
-        {
-          "title": "Dune: Awakening PS5 Physical Disc Edition Announced Despite Digital Shift",
-          "summary": "Despite Sony’s move toward digital-only games, a physical disc edition of Dune: Awakening for PS5 has been announced alongside a console deep dive video.",
-          "source": "RPG Site",
-          "url": "https://www.newsnow.com/us/Entertainment/Gaming"
-        },
-        {
-          "title": "The Alters: Last Variable DLC Launches July 13 with 20-Hour Story",
-          "summary": "The final DLC for The Alters, titled Last Variable, will launch on July 13, adding a 20-hour new story and gameplay trailer released recently.",
-          "source": "AltChar",
-          "url": "https://www.newsnow.com/us/Entertainment/Gaming"
-        },
-        {
-          "title": "Monster Hunter Outlanders Begins Registration for Third Closed Beta",
-          "summary": "Monster Hunter Outlanders has opened registration for its third closed beta, offering players early access to test new features and gameplay mechanics.",
-          "source": "Pocket Gamer",
-          "url": "https://www.newsnow.com/us/Entertainment/Gaming"
-        },
-        {
-          "title": "Tekken 8 Adds Bob as Returning Character, Fatal Fury Launches Crossover",
-          "summary": "Tekken 8 has reintroduced Bob as a returning character, while Fatal Fury launched a crossover character Kenoshiro from Fist of the Northstar.",
+          "title": "Arc System Works Unveils Marvel Tokon Fighting Game with Open Beta in July",
+          "summary": "Arc System Works and PlayStation announced Marvel Tokon, a new fighting game featuring Marvel characters and tag battles, with an open beta scheduled from July 24–26 on PS5 and PC.",
           "source": "YouTube",
           "url": "https://www.youtube.com/watch?v=dIaIYKRCAWw"
+        },
+        {
+          "title": "Helldivers 2 Announces New Force of Law Warbond for Cooperative Shooter",
+          "summary": "Helldivers 2 surprised fans by revealing the upcoming Force of Law Warbond, adding new content to the popular cooperative shooter.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        },
+        {
+          "title": "Suda51 and Grasshopper Manufacture Reveal New Over-the-Top Action Game",
+          "summary": "Suda51 and Grasshopper Manufacture announced a new action game described as a combination of No More Heroes and Dead Rising, continuing their signature over-the-top style.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        },
+        {
+          "title": "XDefiant Executive Producer Steps Away from Industry After Game's One-Year Run",
+          "summary": "As fans say goodbye to XDefiant after just one year, the game's executive producer announced he will be stepping away from the video game industry permanently.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        },
+        {
+          "title": "Pokemon GO Brings Back Community Day Voting for August 2025 Edition",
+          "summary": "Pokemon GO has reintroduced Community Day voting for its upcoming August 2025 edition, with four Pokemon as candidates for the spotlight.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         }
       ],
       "citations": [
         "https://gamerant.com/gaming/",
+        "https://www.youtube.com/watch?v=9GI1xoXCrow",
         "https://www.youtube.com/watch?v=dIaIYKRCAWw",
-        "https://www.videogameschronicle.com/category/news/",
-        "https://www.newsnow.com/us/Entertainment/Gaming",
-        "https://www.youtube.com/watch?v=zZn7rZQLSGU",
-        "https://abcnews.com/video/134403030/",
-        "https://www.reddit.com/r/Games/comments/1ulk051/the_alters_last_variable_gameplay_trailer/",
-        "https://www.youtube.com/watch?v=oO8TkclY9pk",
+        "https://www.youtube.com/watch?v=ukLg1TqNgak",
+        "https://www.reddit.com/r/Metroid/comments/1um545p/arlo_cant_bring_himself_to_continue_prime_4/",
+        "https://www.youtube.com/watch?v=DaGqULLayoE",
         "https://www.facebook.com/abc13Houston/videos/heat-exhausted-boy-caught-while-fainting-by-top-minor-league-baseball-prospect/860783300049008/",
-        "https://gameinformer.com/video-interview/2026/07/02/inside-the-ticking-clocks-of-the-blood-of-dawnwalker"
+        "https://www.facebook.com/SmoshGames/videos/will-this-ultimatum-ruin-it-all/1255726166489563/",
+        "https://www.instagram.com/reel/DaTpiGmhFMY/",
+        "https://www.nytimes.com/video/opinion/100000011001803/the-real-stakes-of-the-american-story.html"
       ]
     },
     "tech_news": {
@@ -522,77 +522,77 @@
       "count": 10,
       "items": [
         {
-          "title": "Spotify Launches Free Streaming Option in South Korea",
-          "summary": "Spotify has introduced a free streaming tier in South Korea, expanding access to its music platform in the region.",
-          "source": "US News",
-          "url": "https://www.usnews.com/news/technology"
+          "title": "Tesla Model Y Long Wheelbase Launches in US with Six Seats",
+          "summary": "Tesla has started taking orders for the Model Y Long Wheelbase in the US and Puerto Rico, featuring six seats and a $62,000 price tag.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com"
         },
         {
           "title": "Samsung Galaxy Z TriFold Debuts as Most Advanced Foldable Yet",
-          "summary": "Samsung unveiled the Galaxy Z TriFold, featuring a redesigned dual-hinge system, upgraded materials, and a 10-inch display that unfolds from a pocketable frame.",
+          "summary": "Samsung unveiled its Galaxy Z TriFold, a redesigned dual-hinge foldable with upgraded materials and a 10-inch display that unfolds from a pocketable frame.",
           "source": "TechNewsWorld",
           "url": "https://www.technewsworld.com"
         },
         {
-          "title": "Tesla Global Auto Sales Jump 25% in Q2, Beating Expectations",
-          "summary": "Tesla reported a 25% increase in global auto sales for the second quarter, surpassing market expectations.",
-          "source": "Phys.org",
-          "url": "https://phys.org"
-        },
-        {
-          "title": "Elon Musk's X Returns to Brazil After Suspension",
-          "summary": "The social media platform X is back in Brazil after complying with all judicial demands following a month-long suspension due to clashes with a Brazilian justice.",
-          "source": "US News",
-          "url": "https://www.usnews.com/news/technology"
-        },
-        {
           "title": "Form Energy Secures $405M for 100-Hour Battery Development",
-          "summary": "Form Energy received $405 million in funding to accelerate development of its long-duration 100-hour battery, a lithium alternative.",
-          "source": "US News",
+          "summary": "Form Energy, a company producing a longer-lasting alternative to lithium batteries, announced $405 million in funding to accelerate development of its 100-hour battery.",
+          "source": "USNews",
           "url": "https://www.usnews.com/news/technology"
         },
         {
-          "title": "Space Startups See Funding Growth Amid Capex-Intensive Ventures",
-          "summary": "A new report indicates investors are increasingly betting on capital-intensive space ventures, driving funding growth for space startups.",
-          "source": "US News",
+          "title": "X Returns to Brazil After Over a Month of Suspension",
+          "summary": "Elon Musk's social media platform X is back in Brazil after complying with all judicial demands following its suspension due to clashes with a justice on the country's highest court.",
+          "source": "USNews",
           "url": "https://www.usnews.com/news/technology"
         },
         {
-          "title": "Microsoft Reportedly Cuts Surface Go and Surface Laptop Go From Lineup",
-          "summary": "Microsoft is removing the Surface Go and Surface Laptop Go from its product lineup, instead promoting Dell's new XPS 13 as a top budget option.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
+          "title": "Spotify Launches Free Streaming Option in South Korea",
+          "summary": "Spotify has introduced a free streaming tier in South Korea, expanding access to its music platform in the region.",
+          "source": "USNews",
+          "url": "https://www.usnews.com/news/technology"
         },
         {
-          "title": "FCC Moves to Speed Up Approvals for Next-Gen Satellite Broadband",
-          "summary": "The FCC is implementing a 'licensing assembly line' to accelerate approvals for new satellite broadband systems amid concerns about orbital congestion.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
+          "title": "Space Startups See Funding Growth as Investors Bet on Capex Ventures",
+          "summary": "A report indicates rising investor interest in space startups focused on capex-intensive ventures, signaling a funding growth trend in the sector.",
+          "source": "USNews",
+          "url": "https://www.usnews.com/news/technology"
         },
         {
-          "title": "FAA Allows Civil Supersonic Flights Over Land If Quiet Enough",
-          "summary": "The FAA is moving to permit civil supersonic flights over land, contingent on them being sufficiently quiet, as NASA begins testing its X-59 hushed supersonic jet.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
+          "title": "US Considers Breaking Up Google to Eliminate Search Monopoly",
+          "summary": "The U.S. Department of Justice is weighing remedies in its antitrust case against Google, including potentially forcing the company to sell parts of its business.",
+          "source": "USNews",
+          "url": "https://www.usnews.com/news/technology"
         },
         {
-          "title": "Robot Footballers Thrill Crowds in South Korea",
-          "summary": "Robot football teams have drawn large crowds in South Korea, showcasing advancements in autonomous robotics and sports technology.",
-          "source": "Phys.org",
-          "url": "https://phys.org"
+          "title": "Quantum Motion Deploys First Full-Stack Quantum Computer Using Standard Silicon",
+          "summary": "Quantum Motion has built the first full-stack quantum computer using standard silicon chip fabrication, a milestone that could accelerate scalable quantum systems.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
+        },
+        {
+          "title": "Jeff Clarke Takes Over Dell's PC Business to Reverse Years of Drift",
+          "summary": "Jeff Clarke is assuming leadership of Dell's PC division as the company aims to restore its XPS halo and compete in a market where fundamentals still win.",
+          "source": "TechNewsWorld",
+          "url": "https://www.technewsworld.com"
+        },
+        {
+          "title": "American Water Cyberattack Highlights Critical Infrastructure Risks",
+          "summary": "A continuing cyberattack on the nation's largest regulated water utility has renewed focus on the importance of protecting critical infrastructure.",
+          "source": "USNews",
+          "url": "https://www.usnews.com/news/technology"
         }
       ],
       "citations": [
-        "https://www.pcmag.com/news",
-        "https://www.techmeme.com",
         "https://www.usnews.com/news/technology",
         "https://www.technewsworld.com",
-        "https://www.newsnow.com/us/Tech",
         "https://www.instagram.com/p/DaVD8pbFsW9/",
-        "https://phys.org",
+        "https://www.engadget.com",
+        "https://scitechdaily.com",
         "https://www.instagram.com/reel/DaUjOdjM_qo/",
-        "https://detailed.com/tech-blogs/",
-        "https://www.youtube.com/watch?v=rNK-D8BSy20"
+        "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed",
+        "https://www.cbsnews.com/news/american-inventions-us-history-patent-system/",
+        "https://www.nbcnews.com/tech-media",
+        "https://www.instagram.com/reel/DaUsJkrRcQv/"
       ]
     }
   }
