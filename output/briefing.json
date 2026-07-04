@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T13:18:24.611625+00:00",
-  "generated_at_human": "2026-07-04 13:18 UTC",
+  "generated_at": "2026-07-04T19:06:53.125727+00:00",
+  "generated_at_human": "2026-07-04 19:06 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "Astrophysicists Puzzle over Webb’s New Universe",
-          "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-          "score": 65,
-          "comments": 24
+          "title": "Leaking YouTube creators' private videos",
+          "url": "https://javoriuski.com/post/youtube",
+          "score": 223,
+          "comments": 111
         },
         {
-          "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+          "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+          "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+          "score": 121,
+          "comments": 35
+        },
+        {
+          "title": "No more than 100 000 faint satellites should orbit Earth",
+          "url": "https://www.eso.org/public/news/eso2607/",
+          "score": 66,
+          "comments": 55
+        },
+        {
+          "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+          "url": "https://github.com/anthropics/claude-code/issues/74066",
+          "score": 226,
+          "comments": 111
+        },
+        {
+          "title": "Verizon is About to Break our Watches",
+          "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+          "score": 33,
+          "comments": 7
+        },
+        {
+          "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+          "url": "https://peteris.rocks/blog/htop/",
+          "score": 283,
+          "comments": 36
+        },
+        {
+          "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+          "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+          "score": 19,
+          "comments": 1
+        },
+        {
+          "title": "Windows CE Dreamcast Community Edition (wince-dc)",
+          "url": "https://github.com/maximqaxd/wince-dc",
+          "score": 50,
+          "comments": 10
+        },
+        {
+          "title": "Curveball",
+          "url": "https://mightyburger.net/projects/curveball/",
+          "score": 27,
+          "comments": 3
+        },
+        {
+          "title": "Plein Air",
+          "url": "https://art.joonas.wtf/",
+          "score": 23,
+          "comments": 2
+        },
+        {
+          "title": "Meta data center water discharges suspended for contaminating water supply",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
+          "score": 80,
+          "comments": 31
+        },
+        {
+          "title": "Astrophysicists Puzzle over Webb’s New Universe",
+          "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+          "score": 160,
+          "comments": 98
+        },
+        {
+          "title": "As downtown Seattle offices empty, city facing years of 'zombie' towers",
+          "url": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
+          "score": 13,
+          "comments": 3
+        },
+        {
+          "title": "The .join() that should be a bug",
+          "url": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
+          "score": 7,
+          "comments": 0
+        },
+        {
+          "title": "Finland's last analogue landline phones go silent after 150 years",
+          "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
+          "score": 46,
+          "comments": 9
+        },
+        {
+          "title": "Maybe you should learn something",
+          "url": "https://www.marginalia.nu/log/a_135_learn/",
+          "score": 365,
+          "comments": 170
+        },
+        {
+          "title": "Designing DB partitions you don't have to babysit",
+          "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+          "score": 29,
+          "comments": 1
+        },
+        {
+          "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+          "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+          "score": 16,
+          "comments": 2
+        },
+        {
+          "title": "The Vespa at 80",
           "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-          "score": 30,
+          "score": 118,
+          "comments": 100
+        },
+        {
+          "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+          "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+          "score": 137,
+          "comments": 43
+        },
+        {
+          "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+          "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+          "score": 57,
           "comments": 15
         },
         {
           "title": "The bottleneck might be the air in the room",
           "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-          "score": 460,
-          "comments": 287
+          "score": 677,
+          "comments": 381
         },
         {
-          "title": "Maybe you should learn something",
-          "url": "https://www.marginalia.nu/log/a_135_learn/",
-          "score": 179,
-          "comments": 79
+          "title": "Night Witches – all-female Soviet aviator regiment WW2",
+          "url": "https://en.wikipedia.org/wiki/Night_Witches",
+          "score": 69,
+          "comments": 25
         },
         {
-          "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-          "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-          "score": 64,
-          "comments": 21
+          "title": "Sick leave: Germany rising but not the worst in Europe",
+          "url": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
+          "score": 24,
+          "comments": 32
         },
         {
           "title": "Performance per dollar is getting faster and cheaper",
           "url": "https://www.wafer.ai/blog/glm52-amd",
-          "score": 281,
-          "comments": 101
-        },
-        {
-          "title": "Leanstral 1.5: Proof abundance for all",
-          "url": "https://mistral.ai/news/leanstral-1-5/",
-          "score": 280,
-          "comments": 82
-        },
-        {
-          "title": "Mir Books – Books from the Soviet Era",
-          "url": "https://mirtitles.org",
-          "score": 112,
-          "comments": 49
-        },
-        {
-          "title": "Costco is the anti-Amazon",
-          "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-          "score": 443,
-          "comments": 407
-        },
-        {
-          "title": "Giant trees have no trouble pumping water to top branches: new research",
-          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-          "score": 226,
-          "comments": 102
-        },
-        {
-          "title": "Agentic coding notes from Galapagos Island",
-          "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-          "score": 124,
-          "comments": 59
-        },
-        {
-          "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-          "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-          "score": 159,
-          "comments": 35
-        },
-        {
-          "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-          "url": "https://mrbruh.com/msicenter/",
-          "score": 107,
-          "comments": 43
-        },
-        {
-          "title": "FreeBSD ate my RAM",
-          "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
-          "score": 160,
-          "comments": 64
-        },
-        {
-          "title": "Synthesis is harder than analysis",
-          "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-          "score": 110,
-          "comments": 24
-        },
-        {
-          "title": "Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://github.com/jamesob/local-llm",
-          "score": 368,
-          "comments": 167
-        },
-        {
-          "title": "SearXNG: A free internet metasearch engine",
-          "url": "https://github.com/searxng/searxng",
-          "score": 234,
-          "comments": 63
-        },
-        {
-          "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-          "score": 108,
-          "comments": 20
-        },
-        {
-          "title": "Ship traces journey Spanish Armada sailors made in 1588",
-          "url": "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/",
-          "score": 15,
-          "comments": 8
-        },
-        {
-          "title": "2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://www.hyperstitionai.com/unslop-results",
-          "score": 26,
-          "comments": 77
-        },
-        {
-          "title": "Odin, Wikipedia and engagement farming",
-          "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
-          "score": 184,
-          "comments": 240
-        },
-        {
-          "title": "The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]",
-          "url": "https://rookandpossum.com/papers/scanline_sweeper_preprint.pdf",
-          "score": 22,
-          "comments": 2
-        },
-        {
-          "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "score": 124,
-          "comments": 51
-        },
-        {
-          "title": "Soatok's Informal Guide to Threat Models",
-          "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-          "score": 108,
-          "comments": 26
-        },
-        {
-          "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
-          "url": "https://github.com/adam-s/car-diagnosis",
-          "score": 26,
-          "comments": 1
+          "score": 328,
+          "comments": 129
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 62581,
-          "change_24h": 0.97,
-          "change_7d": 3.83,
-          "market_cap": 1254717538051
+          "price": 63173,
+          "change_24h": 1.71,
+          "change_7d": 4.49,
+          "market_cap": 1266746429237
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1761.51,
-          "change_24h": 1.35,
-          "change_7d": 11.38,
-          "market_cap": 212556484279
+          "price": 1792.71,
+          "change_24h": 3.24,
+          "change_7d": 12.68,
+          "market_cap": 216363722071
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 81.47,
-          "change_24h": -0.07,
-          "change_7d": 13.63,
-          "market_cap": 47340034160
+          "price": 82.22,
+          "change_24h": 0.15,
+          "change_7d": 14.47,
+          "market_cap": 47783161545
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.076948,
-          "change_24h": 1.28,
-          "change_7d": 1.95,
-          "market_cap": 11921025369
+          "price": 0.07914,
+          "change_24h": 3.13,
+          "change_7d": 5.19,
+          "market_cap": 12261691158
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.177732,
-          "change_24h": 4.92,
-          "change_7d": 20.95,
-          "market_cap": 6620529641
+          "price": 0.195489,
+          "change_24h": 8.81,
+          "change_7d": 33.29,
+          "market_cap": 7283924274
         }
       ]
     },
@@ -214,52 +214,52 @@
         {
           "name": "The Black Bull",
           "symbol": "ANSEM",
-          "market_cap_rank": 203
+          "market_cap_rank": 216
         },
         {
           "name": "LAB",
           "symbol": "LAB",
-          "market_cap_rank": 27
-        },
-        {
-          "name": "Hamster Kombat",
-          "symbol": "HMSTR",
-          "market_cap_rank": 758
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 114
-        },
-        {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 98
+          "market_cap_rank": 22
         },
         {
           "name": "manlet",
           "symbol": "MANLET",
-          "market_cap_rank": 937
+          "market_cap_rank": 905
         },
         {
-          "name": "Gram (prev. Toncoin)",
-          "symbol": "GRAM",
-          "market_cap_rank": 22
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 115
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 96
         },
         {
-          "name": "Aerodrome Finance",
-          "symbol": "AERO",
-          "market_cap_rank": 100
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 102
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 10
+        },
+        {
+          "name": "peaq",
+          "symbol": "PEAQ",
+          "market_cap_rank": 437
+        },
+        {
+          "name": "Cardano",
+          "symbol": "ADA",
+          "market_cap_rank": 16
+        },
+        {
+          "name": "Velvet",
+          "symbol": "VELVET",
+          "market_cap_rank": 154
         }
       ]
     },
@@ -268,55 +268,25 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 1,
       "items": [
         {
-          "title": "U.S. Jobs Added 157,000 in July, Below Expectations; Unemployment Holds at 3.9%",
-          "summary": "The U.S. economy added 157,000 jobs in July, falling short of analyst forecasts, while the unemployment rate remained steady at 3.9%, reinforcing concerns about a rebounding hiring market pressuring the Fed on interest rates[3].",
-          "source": "WWMT News",
-          "url": "https://www.facebook.com/wwmtnews/posts/as-the-economy-continues-to-chug-along-positive-numbers-are-often-accompanied-by/1464098972422454/"
-        },
-        {
-          "title": "Fed Rate Hike Narrative Intensifies After Hot CPI, Payrolls, and Hawkish Stance",
-          "summary": "Following strong April CPI, hot May non-farm payrolls, and a hawkish Federal Reserve, market sentiment now suggests the economy may overheat further, potentially forcing the Fed to raise interest rates soon[1].",
-          "source": "Apollo Global Management",
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark"
-        },
-        {
-          "title": "Kevin Warsh Appointed New Fed Chair; Market Bets on No Hikes This Year",
-          "summary": "Kevin Warsh has been appointed as the new Federal Reserve chair, with analysts suggesting a safe bet on no interest rate hikes this year despite elevated prices and potential demand destruction[4].",
-          "source": "YouTube (Robert Breedlove Interview)",
-          "url": "https://www.youtube.com/watch?v=pocHsAS7p08"
-        },
-        {
-          "title": "Tesla Sales Surge in Europe Amid Price Cuts; U.S. Sales Decline",
-          "summary": "Tesla rebounded in Europe during Q2 thanks to price cuts, offsetting declines in the U.S. market, signaling a recovery in international electric vehicle demand[2].",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/section/business"
-        },
-        {
-          "title": "Egg Producers Pay $3.3M to Settle Federal Price-Fixing Suit; Donate 53M Eggs",
-          "summary": "Egg producers agreed to a $3.3 million settlement in a federal price-fixing lawsuit and will donate over 53 million eggs to food banks across 17 states[2].",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/section/business"
-        },
-        {
-          "title": "IMF Slows Global Growth Forecast to 2.9% in 2024 Amid Middle East War",
-          "summary": "The International Monetary Fund revised its global economic growth forecast down to 2.9% for 2024, citing ongoing war in the Middle East and policy challenges[6].",
-          "source": "IMF",
-          "url": "https://www.facebook.com/imf/posts/the-global-economy-is-holding-up-so-far-amid-war-in-the-middle-east-but-policyma/1460837912753660/"
+          "title": "No Major Macroeconomic or Stock Market News Found for Past 24 Hours",
+          "summary": "The available search results contain no specific data on major index movements, Fed/central bank decisions, or significant company earnings from the past 24 hours; the content focuses on general economic sentiment, EU accession bids, and unrelated topics like a controversial book purchase.",
+          "source": "Search Results Analysis",
+          "url": ""
         }
       ],
       "citations": [
-        "https://www.apollo.com/wealth/insights-news/insights/daily-spark",
-        "https://www.nytimes.com/section/business",
-        "https://www.facebook.com/wwmtnews/posts/as-the-economy-continues-to-chug-along-positive-numbers-are-often-accompanied-by/1464098972422454/",
-        "https://www.youtube.com/watch?v=pocHsAS7p08",
-        "https://www.instagram.com/reel/DaVQ49BywuO/",
-        "https://www.facebook.com/imf/posts/the-global-economy-is-holding-up-so-far-amid-war-in-the-middle-east-but-policyma/1460837912753660/",
-        "https://logicmacroregime.com/blog/beyond-the-noise",
-        "https://www.facebook.com/tribunephl/posts/one-camp-treats-the-reclassification-as-proof-the-economy-is-booming-pointing-to/1447542007422215/",
-        "https://www.marketplace.org"
+        "https://www.youtube.com/watch?v=66jY-t2urTo",
+        "https://www.foxnews.com/video/6400157325112",
+        "https://www.youtube.com/watch?v=f0iieELTb-k",
+        "https://www.youtube.com/watch?v=Kl8oSqFJ358",
+        "https://www.pbs.org/weta/washingtonweek/video/2026/07/washington-week-with-the-atlantic-full-episode-7326",
+        "https://www.instagram.com/reel/DaX15G1yLWb/",
+        "https://www.youtube.com/watch?v=BcfYmxhClFg",
+        "https://www.tiktok.com/@planetmoney/video/7658434433783057695",
+        "https://www.instagram.com/reel/DaXWkW6qkf-/"
       ]
     },
     "crypto_news": {
@@ -324,55 +294,48 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Bitcoin Climbs to $62,573 as Crypto Market Cap Reaches $2.17 Trillion",
-          "summary": "Bitcoin rose 1.96% to $62,573 and Ethereum gained 3.34% to $1,758, pushing the total crypto market cap up 2.14% to $2.17 trillion, while XRP and Solana also saw significant weekly gains of over 8% and 16% respectively[1][4].",
-          "source": "CryptoRank",
-          "url": "https://cryptorank.io/news/feed/257f2-24-hour-crypto-recap-heres-what-happened-in-the-market-6"
+          "title": "Bitcoin Tests Critical $62,600 Support as Whale Accumulation Hits Record Levels",
+          "summary": "Bitcoin is trading at a major golden Fibonacci ratio near $62,600, with on-chain data showing the largest Bitcoin whale accumulation ever recorded, matching previous bear market bottoms and signaling a potential bear market bottom.",
+          "source": "Bitcoin Hyper",
+          "url": "https://www.youtube.com/watch?v=nIQsuiyxIUE"
         },
         {
-          "title": "$184 Million in Crypto Liquidations Reflect Market Volatility",
-          "summary": "The cryptocurrency market experienced significant volatility over the past 24 hours, resulting in $184 million in total liquidations, with $88.2 million in long positions and $96.1 million in short positions wiped out[2].",
-          "source": "Phemex",
-          "url": "https://phemex.com/news/article/crypto-market-sees-184-million-in-liquidations-over-24-hours-91762"
+          "title": "Solana Hits All-Time Highs in Transactions and Stablecoin Volume Amid Bullish Divergence",
+          "summary": "Solana has confirmed a 3-day candle close above $80, hitting all-time highs for transactions and stablecoin volume simultaneously, while Chainlink shows a massive bullish divergence suggesting potential sideways or bullish relief price action.",
+          "source": "Bitcoin News Today",
+          "url": "https://www.youtube.com/watch?v=FBAhysfke-c"
         },
         {
-          "title": "Senator Gillibrand Proposes Ban on Officials Issuing Personal Crypto Tokens",
-          "summary": "Senator Gillibrand introduced a proposal to ban government officials from issuing or sponsoring personal cryptocurrency tokens, raising regulatory risks for token launches, fundraising, and CEX/DeFi adoption[1].",
-          "source": "CryptoRank",
-          "url": "https://cryptorank.io/news/feed/257f2-24-hour-crypto-recap-heres-what-happened-in-the-market-6"
+          "title": "Clarity Act Could Unlock Trillions in Institutional Capital Within Weeks",
+          "summary": "The Clarity Act is potentially weeks from passing, which could unlock trillions in institutional capital for crypto markets, while major platforms like Charles Schwab now offer Bitcoin and Ethereum trading and Robinhood has launched its own blockchain.",
+          "source": "Scott Melker",
+          "url": "https://www.youtube.com/watch?v=BBKSGiiX43s"
         },
         {
-          "title": "Global Insurance Broker Aon Tests Stablecoin Payments with Coinbase",
-          "summary": "Aon, a global insurance broker, is piloting stablecoin payments for insurance premiums in a test involving Coinbase and Paxos, signaling growing institutional adoption of stablecoins[3].",
-          "source": "CoinDesk",
-          "url": "https://x.com/CoinDesk?lang=en"
+          "title": "Trump Family Earned $2.2B+ from Crypto Trades in 2025, Outperforming Major US Crypto Firms",
+          "summary": "President Trump made over 22,000 crypto trades in 2025, earning a conservative $1.4 billion personally, with the Trump family total reaching $2.2–$2.3 billion, out-earning the largest listed US crypto firms.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/trump-executed-22-000-crypto-120000605.html"
         },
         {
-          "title": "Nasdaq and Kraken Launch Trading for Tokenized Stocks",
-          "summary": "Nasdaq and Kraken have teamed up to launch trading for tokenized stocks, a move analysts suggest could be aided by the U.S.'s limited exposure to oil shocks, which may be supporting Bitcoin's price[3].",
-          "source": "CoinDesk",
-          "url": "https://x.com/CoinDesk?lang=en"
-        },
-        {
-          "title": "Exchange Deposits Surge to Near 49,000 BTC Amid Cautious Sentiment",
-          "summary": "Exchange deposits of Bitcoin neared 49,000 BTC, a level only hit four times in 2026, while market sentiment remains cautious with the Fear & Greed Index at 26 and the Altcoin Season Index at 48[1].",
-          "source": "CryptoRank",
-          "url": "https://cryptorank.io/news/feed/257f2-24-hour-crypto-recap-heres-what-happened-in-the-market-6"
+          "title": "Ethereum Shows Stronger Bullish Structure Than Bitcoin with Higher Low Formation",
+          "summary": "Ethereum is rotating upward on the 4-hour timeframe with a slight higher low on the Bollinger Band chart, having already broken through the golden Fibonacci ratio toward the upside, contrasting with Bitcoin's bearish RSI indication.",
+          "source": "Bitcoin Hyper",
+          "url": "https://www.youtube.com/watch?v=nIQsuiyxIUE"
         }
       ],
       "citations": [
-        "https://cryptorank.io/news/feed/257f2-24-hour-crypto-recap-heres-what-happened-in-the-market-6",
-        "https://phemex.com/news/article/crypto-market-sees-184-million-in-liquidations-over-24-hours-91762",
-        "https://x.com/CoinDesk?lang=en",
-        "https://www.investing.com/crypto",
-        "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-crypto-recovers-start-230600183.html",
-        "https://cryptopotato.com/bitcoin-holds-above-62k-as-hype-ada-lead-altcoin-recovery-weekend-watch/",
-        "https://cryptoslate.com/news/",
-        "https://www.instagram.com/p/DaXaLMUsWaD/",
-        "https://www.bbc.com/news/topics/cyd7z4rvdm3t"
+        "https://www.youtube.com/watch?v=FBAhysfke-c",
+        "https://www.youtube.com/watch?v=BBKSGiiX43s",
+        "https://www.youtube.com/watch?v=nIQsuiyxIUE",
+        "https://finance.yahoo.com/video/trump-executed-22-000-crypto-120000605.html",
+        "https://www.youtube.com/watch?v=VyzWrpaQYVg",
+        "https://www.cbsnews.com/video/us-iran-peace-talks-on-hold-ali-khamenei-funeral/",
+        "https://www.cbsnews.com/video/trump-announces-new-pardons-after-privately-weighing-diddy-clemency-sources-said/",
+        "https://www.instagram.com/p/DaWtz1TFMIR/"
       ]
     },
     "ai_news": {
@@ -383,47 +346,47 @@
       "count": 5,
       "items": [
         {
-          "title": "Flipkart Deploys 250+ AI Models, With 40% of Code Now AI-Written",
-          "summary": "Walmart-owned Flipkart has deployed over 250 specialized AI models across its ecosystem, with AI now generating 35–40% of its software code, signaling a major shift in retail backend development.",
-          "source": "Flipkart AI News",
-          "url": "https://www.youtube.com/watch?v=XFQrf_R5wEw"
+          "title": "Claude Fable 5 Returns: Groundbreaking AI Model with Million-Token Contexts and Autonomous Coding",
+          "summary": "Claude Fable 5 has been restored as a publicly available AI model, delivering frontier performance in autonomous coding, long-horizon reasoning, vision, and enterprise workflows with million-token contexts and minimal supervision.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=UbU92RA4wXk"
         },
         {
-          "title": "Amazon Announces $13 Billion AI and Cloud Investment in India Through 2030",
-          "summary": "Amazon revealed a staggering $13 billion investment in India to expand cloud and AI infrastructure, bringing its total planned investment in the country to $48 billion, while rival Meesho reports 70% of its code is AI-generated.",
-          "source": "Amazon India Investment News",
-          "url": "https://www.youtube.com/watch?v=XFQrf_R5wEw"
-        },
-        {
-          "title": "Yann LeCun Calls Elon Musk’s XAI a ‘Failure’ Amid Rebuilding Efforts",
-          "summary": "AI pioneer Yann LeCun publicly criticized Elon Musk’s XAI as a failure, noting that Musk is rebuilding the company from the ground up after admitting the first version didn’t work, while rivals Anthropic and Google now rent Musk’s Colossus 1 cluster.",
-          "source": "AI Grid News",
+          "title": "Yann LeCun Calls Elon Musk's XAI a 'Failure' Amid Rebuilding Efforts and Infrastructure Underuse",
+          "summary": "Yann LeCun publicly criticized Elon Musk's XAI as a failure, noting that Musk is rebuilding the system from the ground up after admitting the first version didn't work, while rivals like Anthropic and Google now rent his massive Colossus 1 cluster.",
+          "source": "YouTube",
           "url": "https://www.youtube.com/watch?v=7N1lkolv-78"
         },
         {
-          "title": "Claude Fable 5 Breaks Internet in 24 Hours with Community-Built Mythos-Class Models",
-          "summary": "The new Mythos-class model Claude Fable 5 has broken the internet within 24 hours, with the Claude community rapidly building innovative applications using the latest AI capabilities.",
-          "source": "Claude Community News",
-          "url": "https://www.instagram.com/p/DaVgcTOju3v/"
+          "title": "Google NotebookLM Goes Agentic: New AI Update Enables Real Code Writing and Math Execution",
+          "summary": "Google's NotebookLM has been updated to become agentic, meaning it now performs actual work by writing real code and executing real math on a computer, acting as an analyst while users type just one sentence.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=yI_GwsdnqX0"
         },
         {
-          "title": "Tesla and SpaceX Positioning to Power the AI Revolution via Grid and Compute",
-          "summary": "New research suggests Tesla’s energy infrastructure and SpaceX’s expanding AI compute business could unlock tens of gigawatts of AI data center capacity, potentially becoming the fastest-growing business in history.",
-          "source": "Tesla AI Opportunity News",
+          "title": "Tesla's AI Opportunity: Powering the AI Revolution Through Energy Infrastructure and Virtual Power Plants",
+          "summary": "New research suggests Tesla may position itself to power the AI revolution by leveraging its batteries, software, and virtual power plants to unlock tens of gigawatts of AI data center capacity without massive new infrastructure.",
+          "source": "YouTube",
           "url": "https://www.youtube.com/watch?v=Ra6uF0n4Xw8"
+        },
+        {
+          "title": "AI Regulatory Shift: Government-PreRelease Model Becomes New Normal for Frontier AI Systems",
+          "summary": "Following Claude Fable 5's restoration, a new regulatory regime is emerging where frontier AI models undergo government-gated pre-release testing before public release, with deeper cooperation, staged returns, and government involvement in pre-release processes.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=UbU92RA4wXk"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=XFQrf_R5wEw",
+        "https://www.youtube.com/watch?v=UbU92RA4wXk",
         "https://www.youtube.com/watch?v=7N1lkolv-78",
-        "https://www.youtube.com/watch?v=Ra6uF0n4Xw8",
-        "https://www.youtube.com/watch?v=pTPgdNlNgaE",
-        "https://www.instagram.com/p/DaVgcTOju3v/",
         "https://www.youtube.com/watch?v=yI_GwsdnqX0",
-        "https://www.instagram.com/reel/DaVgc-sT6b0/",
-        "https://www.instagram.com/reel/DaVM_yuyzUm/",
-        "https://www.reddit.com/r/aiwars/comments/1umhjpu/thoughts_on_this_reel/",
-        "https://www.instagram.com/reel/DaVFlPCJibs/"
+        "https://www.youtube.com/watch?v=Ra6uF0n4Xw8",
+        "https://www.instagram.com/reel/DaXnm9ZiGlR/",
+        "https://www.tiktok.com/@eyavanana/video/7658602446859635976",
+        "https://www.instagram.com/reel/DaXOfU-qG6s/",
+        "https://www.youtube.com/watch?v=H4MHueT2qRY",
+        "https://www.instagram.com/p/DaV-48Nge2A/",
+        "https://www.instagram.com/reel/DaVmCzlIGX-/"
       ]
     },
     "gaming": {
@@ -431,50 +394,56 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Sony Announces New PlayStation Controller and Multiple Game Reveals at State of Play",
-          "summary": "Sony unveiled a new PlayStation controller with an unexpected design and revealed several major game announcements including Team Ninja's Nioh 3, Maze Theory's stealth franchise for VR, and ArtPlay's Bloodstained: The Scarlet Engagement during their June State of Play showcase.",
+          "title": "Crimson Desert Receives Major July 2026 Update Ahead of Release",
+          "summary": "The highly anticipated PS5 and Xbox title Crimson Desert has launched a brand-new update for July 2026, signaling final preparations for its imminent release.",
           "source": "GameRant",
           "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "Helldivers 2 Reveals New Force of Law Warbond for Cooperative Shooter",
-          "summary": "Helldivers 2 surprised fans by announcing the upcoming Force of Law Warbond, a new expansion for the cooperative shooter that will soon be available to players.",
+          "title": "Helldivers 2 Announces New 'Force of Law' Warbond for Cooperative Play",
+          "summary": "Helldivers 2 surprised fans by revealing the upcoming 'Force of Law' Warbond, a new cooperative expansion for the popular shooter.",
           "source": "GameRant",
           "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "GTA Online Weekly Update Features Triple Money and RP Bonuses",
-          "summary": "GTA Online's latest weekly update includes triple money and triple RP on the stunt race series, double money and RP on bunker sales and ammunition contracts, offering players significant profit opportunities.",
-          "source": "Hazard",
-          "url": "https://www.youtube.com/watch?v=5ISbz51bipw"
+          "title": "Moonlight Peaks Confirmed for Nintendo Switch 1 and Switch 2 Release on July 9",
+          "summary": "Moonlight Peaks is set to launch on both Nintendo Switch 1 and Switch 2 on July 9, 2026, priced at £29.99 for Switch 1 and £34.99 for Switch 2 in the UK.",
+          "source": "YouTube (Fragrant Story)",
+          "url": "https://www.youtube.com/watch?v=AZm-piu66us"
         },
         {
-          "title": "FURIA vs LYON G2 Highlights from LoL MSI 2026 Main Stage",
-          "summary": "FURIA and LYON competed in the second game of their best-of-5 match at the League of Legends MSI 2026 Main Stage in Korea, with patch 26.13 and Season 16 gameplay.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=voH8ZmOxYbg"
+          "title": "Digimon Story: Time Stranger and Dead Estate Set for July 10 Switch Release",
+          "summary": "Two new titles, Digimon Story: Time Stranger (an RPG with monster taming) and Dead Estate, are scheduled to release on Nintendo Switch 1 on July 10, 2026.",
+          "source": "YouTube (Fragrant Story)",
+          "url": "https://www.youtube.com/watch?v=AZm-piu66us"
         },
         {
-          "title": "GTA 6 Generates $3 Billion in 24 Hours Despite Ban Controversy",
-          "summary": "GTA 6 achieved an unprecedented milestone by generating $3 billion in revenue within 24 hours of release, despite facing massive bans and controversy.",
+          "title": "GTA 6 Surpasses $3 Billion in Revenue Despite Server Bans",
+          "summary": "GTA 6 achieved a mind-blowing $3 billion in revenue within 24 hours, despite facing massive server bans and accessibility issues for players.",
           "source": "Instagram",
           "url": "https://www.instagram.com/p/DaVv6HPRuEN/"
+        },
+        {
+          "title": "State of Decay 3 Exclusive 3-Hour Gameplay Preview Released",
+          "summary": "An exclusive 3-hour gameplay preview of State of Decay 3 at the highest difficulty level has been released, generating significant excitement among fans.",
+          "source": "Reddit",
+          "url": "https://www.reddit.com/r/StateOfDecay/comments/1umndjr/inside_3_hours_of_exclusive_state_of_decay_3/"
         }
       ],
       "citations": [
         "https://gamerant.com/gaming/",
-        "https://www.youtube.com/watch?v=voH8ZmOxYbg",
-        "https://www.youtube.com/watch?v=5ISbz51bipw",
-        "https://www.youtube.com/watch?v=C5qJtm7RyA0",
-        "https://www.bbc.com/sport/football/videos/czde25nmq6no",
-        "https://www.reddit.com/r/StateOfDecay/comments/1umndjr/inside_3_hours_of_exclusive_state_of_decay_3/",
+        "https://www.youtube.com/watch?v=AZm-piu66us",
+        "https://www.youtube.com/watch?v=a6Le76OaF20",
         "https://www.instagram.com/p/DaVv6HPRuEN/",
+        "https://www.reddit.com/r/StateOfDecay/comments/1umndjr/inside_3_hours_of_exclusive_state_of_decay_3/",
+        "https://www.youtube.com/watch?v=SGmaEt8YK7A",
+        "https://www.youtube.com/watch?v=nzxaIUfZXHM",
         "https://www.foxsports.com/watch/fmc-n3ywqf3ppcwemi3s",
-        "https://247sports.com/college/miami/article/video-miami-hurricanes-football-vs-oregon-simulation-on-college-football-27-288123192/",
-        "https://www.pbs.org/newshour/world/watch-5-little-known-stories-from-u-s-military-history"
+        "https://www.instagram.com/reel/DaXoQzVvdhu/",
+        "https://www.facebook.com/MorePerfectUS/videos/1040639595106502/"
       ]
     },
     "tech_news": {
@@ -482,36 +451,50 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "GTA 6 Pre-Orders Generate $3 Billion in First 24 Hours",
-          "summary": "GTA 6 achieved a record-breaking $3 billion in revenue within its first 24 hours of pre-orders, marking an unprecedented milestone for the gaming industry on PlayStation 5.",
-          "source": "Instagram Gaming News",
+          "title": "GTA 6 Shatters Pre-Order Records with $3 Billion in First 24 Hours",
+          "summary": "GTA 6 generated a mind-blowing $3 billion in revenue within its first 24 hours of pre-orders, selling 39 million copies and marking the most successful pre-order launch in gaming history.",
+          "source": "Gaming Industry News via Instagram",
           "url": "https://www.instagram.com/p/DaVv6HPRuEN/"
         },
         {
-          "title": "1.7 Million Grilling Brushes Recalled Over Ingestion Hazard",
-          "summary": "Conair voluntarily recalled 1.7 million Quezin Art grilling brushes with metal wires due to bristles detaching and entering food, with three reported cases of bristle ingestion.",
-          "source": "ABC World News Tonight",
+          "title": "Google Launches Nano Banana 2 Light and Updates Gemini Omni Flash Video Model",
+          "summary": "Google released a new image generation model called Nano Banana 2 Light and updated its video generation model Gemini Omni Flash, alongside new integrations with Canva, Dropbox, and Instacart.",
+          "source": "Rob Braxman Tech via YouTube",
+          "url": "https://www.youtube.com/watch?v=1u0vKWeP9HI"
+        },
+        {
+          "title": "Fable 5 and Mythos 5 Return to Anthropic with Strict US Government Export Controls",
+          "summary": "Anthropic's powerful AI models Fable 5 and Mythos 5 are back after a suspension, but now operate under a de facto licensing scheme with access limited to select US companies approved by the Trump administration.",
+          "source": "Rob Braxman Tech via YouTube",
+          "url": "https://www.youtube.com/watch?v=0Pz-jfyMPqs"
+        },
+        {
+          "title": "1.7 Million Quezin Art Grilling Brushes Recalled Due to Metal Wire Ingestion Hazard",
+          "summary": "Conair announced a voluntary recall of 1.7 million Quezin Art grilling brushes because metal bristles can detach and end up in food, with three reported cases of bristles removed from stomachs and throats.",
+          "source": "ABC World News Tonight via YouTube",
           "url": "https://www.youtube.com/watch?v=ScN4HJbU6Wk"
         },
         {
-          "title": "National Mall Security Checkpoints Expanded for July 4th Celebrations",
-          "summary": "For the first time, all visitors entering the National Mall must pass through security checkpoints including magnetometers amid heightened safety preparations for America's 250th birthday celebrations.",
-          "source": "ABC World News Tonight",
-          "url": "https://www.youtube.com/watch?v=ScN4HJbU6Wk"
+          "title": "Flock's AI Street Cameras Face Nationwide Backlash Over Mass Surveillance Concerns",
+          "summary": "Critics argue that Flock's AI-enabled street cameras are creating a mass surveillance network, sparking significant backlash across the country despite the technology's intended security benefits.",
+          "source": "News Coverage via YouTube",
+          "url": "https://www.youtube.com/watch?v=5fbmWnJGCtc"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=XwfUzW32cIA",
+        "https://www.youtube.com/watch?v=1u0vKWeP9HI",
+        "https://www.youtube.com/watch?v=0Pz-jfyMPqs",
         "https://www.youtube.com/watch?v=ScN4HJbU6Wk",
         "https://www.youtube.com/watch?v=5fbmWnJGCtc",
+        "https://www.instagram.com/reel/DaXOfU-qG6s/",
+        "https://www.pbs.org/newshour/arts/watch-live-a-capitol-fourth-250th-weekend-celebration",
+        "https://www.nytimes.com/video/opinion/100000010994509/the-unifying-speech-we-wont-get-this-independence-day.html",
         "https://www.instagram.com/p/DaVv6HPRuEN/",
-        "https://www.youtube.com/watch?v=QYM_mCJx3kY",
         "https://science.nasa.gov/mission/hubble/multimedia/what-did-hubble-see-on-your-birthday/",
-        "https://www.melrobbins.com/episode/episode-410/",
-        "https://www.facebook.com/newheightshow/videos/prince-william-on-englands-world-cup-travis-at-wembley-nfl-in-the-uk-americas-25/1986331455386162/"
+        "https://www.reddit.com/r/worldcup/comments/1un4v3y/how_sensitive_is_the_trionda_technology_inside/"
       ]
     }
   }
