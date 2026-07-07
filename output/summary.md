@@ -1,20 +1,26 @@
 # Daily Briefing
 
-*Generated: 2026-07-07 09:35 UTC*
+*Generated: 2026-07-07 14:26 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The US Non-Farm Payrolls surged to +312K, exceeding the forecast, while oil prices extended gains due to supply concerns. Major indexes saw mixed movements, with US Futures edging higher before dipping 0.4%. In the crypto market, Bitcoin rallied to $64,000 after President Trump's announcement, and Ethereum faces a potential W-pattern breakout. Key crypto prices include Bitcoin ($63,107), Ethereum ($1,772), and Solana ($81.12).
+1. **Market Overview**: Major indices such as the S&P 500, Nasdaq 100, and Russell 2000 showed sideways drift with limited volatility ahead of the Fed minutes release. Bitcoin and Ethereum prices rose, with Bitcoin gaining 1.41% and Ethereum gaining 0.85% in the last 24 hours. The crypto market also saw significant movements, with some altcoins like Cardano and Solana experiencing notable price changes.
 
-2. **Tech & AI**: Significant developments include the launch of AMD's Ryzen AI Halo, a $4,000 developer machine competing with NVIDIA's offerings. PyTorch has emerged as the default framework for AI engineering and research roles. Additionally, there's a shift toward intent-driven development, powered by new models like Fable 5 and features like Dynamic Workflows.
+2. **Tech & AI**: Goldman Sachs warned that AI could displace 9% of the U.S. workforce, adding to macroeconomic concerns. SpaceX joined the Nasdaq 100 index after its recent IPO, and Samsung Electronics reported a 19-fold profit jump in Q2, driven by strong performance in the semiconductor sector. Additionally, there were notable developments in AI, including the release of a $4k AI dev kit by AMD and discussions around the potential for AI margin collapse.
 
-3. **Gaming & Entertainment**: Notable news includes the "Resetting Xbox" announcement, although details are scarce. There's also a project that turned a reMarkable device into Tom Riddle's diary from Harry Potter, showcasing creative applications of technology.
+3. **Gaming & Entertainment**: There were no significant gaming news items in the provided data. However, it's worth noting that Xbox announced a reset, which may have implications for the gaming industry.
 
 4. **Key Insights**:
-* The crypto market is seeing significant movements, with Bitcoin and Ethereum making notable gains.
-* AI development is shifting toward intent-driven approaches, which could revolutionize how AI systems are built and interacted with.
-* The tech industry is witnessing a surge in innovative products and services, including advanced developer machines and frameworks.
-* Regulatory news, such as Ripple securing a full MiCA CASP license, indicates growing clarity and acceptance of crypto services in regulated markets.
-* Economic indicators, like the US Non-Farm Payrolls, suggest a strong labor market, which could influence monetary policy decisions.
+* The Fed minutes release is expected to have a significant impact on the market, and investors are advised to monitor the situation closely.
+* AI is becoming increasingly important, with potential implications for the workforce and the economy.
+* The crypto market is experiencing significant price movements, and investors should be cautious and stay informed.
+* Semiconductor companies like Samsung Electronics are performing well, driven by strong demand.
+* SpaceX's addition to the Nasdaq 100 index is a notable development in the tech industry.
 
-5. **Watch List**: Items to monitor in the coming days include the progression of the Crypto Clarity Act, further developments in the AI margin collapse discussion, the impact of AMD's Ryzen AI Halo on the developer community, and how intent-driven development evolves in the tech industry. Additionally, keep an eye on Bitcoin and Ethereum's price movements, as well as any updates from major tech companies and regulatory bodies.
+5. **Watch List**: 
+* Fed minutes release on July 8
+* Crypto market price movements, particularly for Bitcoin and Ethereum
+* AI developments and their potential impact on the workforce and economy
+* Semiconductor companies like Samsung Electronics and their performance
+* SpaceX's performance after joining the Nasdaq 100 index
+* Upcoming earnings reports, including Delta Air Lines on July 10
