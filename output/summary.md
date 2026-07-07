@@ -1,26 +1,20 @@
 # Daily Briefing
 
-*Generated: 2026-07-06 19:51 UTC*
+*Generated: 2026-07-07 02:50 UTC*
 
-**Market Overview**
-The S&P 500 and Nasdaq have seen gains, driven by tech stocks and renewed confidence in the AI trade. The US Dollar Index has hit a one-year high of 101, and oil prices have slipped after OPEC+ agreed to raise output targets. Bitcoin has rallied above $63,500, with ETF inflows ending a 10-day outflow streak. Ethereum has held above $1,750 after a 12% rally.
+Here is a concise executive briefing based on the provided raw news and market data:
 
-**Tech & AI**
-Notable developments include the introduction of AMD's Ryzen AI Halo, a $4k AI dev kit, and the announcement of a new Xbox reset. Additionally, there have been advancements in language models, such as the concept of a global workspace, and the development of new tools like OfficeCLI, which allows AI agents to read and edit Microsoft Office files.
+1. **Market Overview**: The cryptocurrency market has seen significant movements, with Bitcoin trading near $63,141 and Ethereum surging 12.45% in the past week. The total crypto market cap has climbed to $2.19 trillion. In the macro markets, there is a lack of specific news, but the search results consist of general commentary on bull markets, AI, and crypto trends.
 
-**Gaming & Entertainment**
-Nintendo has announced new product revisions in Europe with replaceable batteries. There have also been developments in the gaming community, including the release of CS2 Fog Of War, a server-sided anti-wallhack occlusion culling tool for CS2 servers.
+2. **Tech & AI**: Notable developments in the tech and AI space include the leak of Google DeepMind's Gemini 3.5 Pro, a strong AI model expected to launch on July 17, and the reinstatement of Anthropic's Claude Fable 5 after temporary US export restrictions. Additionally, there have been advancements in small AI models, with TeraWolf signing a $19 billion lease with Anthropic for an AI infrastructure campus.
 
-**Key Insights**
-* The AI trade has seen renewed confidence, driving gains in tech stocks.
-* The US Dollar Index has reached a one-year high, driven by investor expectations of rate hikes.
-* Bitcoin and Ethereum have seen significant price movements, with Bitcoin rallying above $63,500 and Ethereum holding above $1,750.
-* There have been notable developments in language models and AI tools, including the introduction of AMD's Ryzen AI Halo and the development of OfficeCLI.
-* The gaming community has seen new releases and updates, including the release of CS2 Fog Of War and Nintendo's new product revisions.
+3. **Gaming & Entertainment**: There is limited information on gaming news, but a notable development is the "Resetting Xbox" announcement, which has garnered significant attention with 481 comments.
 
-**Watch List**
-* Bitcoin and Ethereum price movements
-* US Dollar Index and interest rate changes
-* Developments in the AI trade and tech stocks
-* Nintendo's new product revisions and their impact on the gaming community
-* Advancements in language models and AI tools, such as AMD's Ryzen AI Halo and OfficeCLI.
+4. **Key Insights**:
+* Bitcoin and Ethereum have seen significant price movements, with Bitcoin holding near $63,141 and Ethereum surging 12.45% in the past week.
+* The UK has prohibited crypto donations to political parties to curb foreign influence.
+* Small AI models are gaining traction, particularly in areas with unreliable networks.
+* TeraWolf's $19 billion lease with Anthropic for an AI infrastructure campus signals a shift towards AI data centers.
+* The EU's MiCA framework is determining control over compliant settlement rails for stablecoins in Europe.
+
+5. **Watch List**: Items to monitor in the coming days include the launch of Google DeepMind's Gemini 3.5 Pro, the performance of Bitcoin and Ethereum, and developments in the AI infrastructure space, particularly the TeraWolf and Anthropic partnership. Additionally, the impact of the UK's ban on crypto donations to political parties and the EU's MiCA framework on the crypto market should be closely watched.
