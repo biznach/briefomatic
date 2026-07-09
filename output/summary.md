@@ -1,18 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-07-09 14:52 UTC*
+*Generated: 2026-07-09 19:41 UTC*
 
-1. **Market Overview**: The global market is experiencing volatility due to the US-Iran conflict, with oil prices fluctuating and concerns over a potential global recession. Despite this, Asian stocks have climbed due to strong AI demand and chip sector performance. Bitcoin and crypto markets have dropped following the announcement that the US-Iran ceasefire is over, with Bitcoin's price currently at $62,865 and a 1.7% change in the last 24 hours. Ethereum's price is at $1,739.23, with a 0.69% change in the last 24 hours.
+Here is your executive briefing:
 
-2. **Tech & AI**: Notable tech developments include Meta reusing old RAM in new servers with a custom bridge chip, and the introduction of Muse Spark 1.1, a Meta model API. Additionally, there are advancements in AI-powered video editing with FableCut, and the development of in-browser programmable robot simulators. The EU Parliament has also greenlit Chat Control 1.0, which may have implications for online privacy and security.
+1. **Market Overview**: The global market is experiencing volatility due to escalating US-Iran tensions, with oil prices surging and stocks losing momentum. In the crypto market, Bitcoin and Ethereum prices have increased by 1.61% and 0.64% respectively in the last 24 hours. The overall sentiment is cautious, with investors watching the geopolitical situation closely.
 
-3. **Gaming & Entertainment**: There is limited gaming news in the provided data, but it's worth noting the passing of singer Bonnie Tyler, known for her hit song "Total Eclipse of the Heart." Additionally, a unique project involves building a 2026 WWII Jeep, showcasing innovation and dedication to historical preservation.
+2. **Tech & AI**: Significant developments in AI include the implementation of AI tools by Man Group to generate new trading hypotheses, resulting in an 86-fold increase in token spending. Additionally, new features in Redis Iris enable scalable AI agent memory and context retrieval. The EU Parliament has also greenlit Chat Control 1.0, which may have implications for the tech industry.
+
+3. **Gaming & Entertainment**: Sony is developing a dollar-backed stablecoin for its PlayStation ecosystem, marking a major project development in crypto adoption for gaming. A new train simulator game created by one person is being called the best ever made, showcasing the potential for individual developers to create high-quality games.
 
 4. **Key Insights**:
-* The US-Iran conflict is causing market volatility, with potential implications for global oil supply and recession risks.
-* Despite geopolitical tensions, global earnings are expected to grow 17% in 2026, driven by strong AI demand and chip sector performance.
-* Bitcoin and crypto markets are experiencing a pullback, with Bitcoin's price falling below the cloud and its RSI hitting an oversold level.
-* The integration of crypto into public finance is advancing, with a US state voting on a municipal bond backed by Bitcoin.
-* Innovations in AI, tech, and sustainability, such as spider venom killing varroa mites without harming honeybees, and Syria's solar boom, are redefining energy models and addressing environmental challenges.
+* The US-Iran conflict is having a significant impact on global markets, with oil prices rising and stocks losing momentum.
+* AI is being increasingly adopted in the financial sector, with companies like Man Group using AI tools to generate new trading hypotheses.
+* Crypto adoption is growing, with Sony developing a stablecoin for its PlayStation ecosystem and the SEC easing rules for new token launches.
+* The EU Parliament's greenlighting of Chat Control 1.0 may have implications for the tech industry, particularly in regards to online communication and data privacy.
+* The global chip market is experiencing strength, driven by AI demand, which is contributing to the growth of Asian markets.
 
-5. **Watch List**: Items to monitor in the coming days include the progression of the US-Iran conflict and its impact on global markets, the development of AI and tech innovations, and the growth of crypto integration into public finance. Additionally, watch for updates on the EU's Chat Control 1.0 and its effects on online privacy and security, as well as the performance of Asian stocks and the chip sector.
+5. **Watch List**: 
+* US-Iran conflict and its impact on global markets
+* AI adoption in the financial sector and its potential implications
+* Crypto market developments, including the growth of stablecoins and the SEC's easing of rules for new token launches
+* The EU Parliament's Chat Control 1.0 and its potential implications for the tech industry
+* The performance of major tech companies, including those in the chip and gaming industries.
