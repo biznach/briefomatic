@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T18:57:58.726174+00:00",
-  "generated_at_human": "2026-07-11 18:57 UTC",
+  "generated_at": "2026-07-12T02:30:05.422568+00:00",
+  "generated_at_human": "2026-07-12 02:30 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,58 +8,136 @@
       "count": 25,
       "items": [
         {
-          "title": "AI 2040 and the Cult of Intelligence",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "score": 78,
-          "comments": 35
+          "title": "Mesh LLM: distributed AI computing on iroh",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "score": 102,
+          "comments": 26
         },
         {
-          "title": "Who manages the agents?",
-          "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-          "score": 21,
-          "comments": 6
+          "title": "A dock that wakes up reliably",
+          "url": "https://fabiensanglard.net/tb4/index.html",
+          "score": 25,
+          "comments": 20
         },
         {
-          "title": "Prefer Strict Tables in SQLite",
-          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-          "score": 30,
-          "comments": 7
+          "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+          "url": "https://antjs.org",
+          "score": 186,
+          "comments": 82
         },
         {
-          "title": "We scaled PgBouncer to 4x throughput",
-          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-          "score": 118,
-          "comments": 15
+          "title": "RISCBoy is an open-source portable games console, designed from scratch",
+          "url": "https://github.com/Wren6991/RISCBoy",
+          "score": 64,
+          "comments": 17
         },
         {
-          "title": "Modern Decor May Be Straining People's Brains",
-          "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-          "score": 98,
-          "comments": 81
+          "title": "A pure scheme web programming tool",
+          "url": "https://goeteia.dev",
+          "score": 16,
+          "comments": 8
         },
         {
-          "title": "How to Hide from Killer Drones",
-          "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-          "score": 10,
-          "comments": 5
-        },
-        {
-          "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-          "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-          "score": 55,
-          "comments": 14
+          "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+          "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+          "score": 11,
+          "comments": 1
         },
         {
           "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
           "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-          "score": 17,
+          "score": 165,
+          "comments": 56
+        },
+        {
+          "title": "A public ledger of cloud outages and the SLA credits they trigger",
+          "url": "https://slacreditwatch.com",
+          "score": 15,
+          "comments": 3
+        },
+        {
+          "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+          "url": "https://arxiv.org/abs/2607.07267",
+          "score": 56,
+          "comments": 6
+        },
+        {
+          "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+          "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
+          "score": 40,
+          "comments": 20
+        },
+        {
+          "title": "We scaled PgBouncer to 4x throughput",
+          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+          "score": 181,
+          "comments": 37
+        },
+        {
+          "title": "UPI: Anatomy of a Payment Transaction",
+          "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+          "score": 105,
+          "comments": 36
+        },
+        {
+          "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+          "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+          "score": 93,
+          "comments": 56
+        },
+        {
+          "title": "Prefer strict tables in SQLite",
+          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+          "score": 226,
+          "comments": 113
+        },
+        {
+          "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+          "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+          "score": 75,
+          "comments": 42
+        },
+        {
+          "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+          "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+          "score": 89,
+          "comments": 3
+        },
+        {
+          "title": "Optimization Solver as a Service",
+          "url": "https://www.quicopt.com/developer/getting-started/",
+          "score": 19,
+          "comments": 11
+        },
+        {
+          "title": "ZeroFS vs. Amazon S3 Files",
+          "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+          "score": 62,
+          "comments": 16
+        },
+        {
+          "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+          "url": "https://shipthatcode.com",
+          "score": 131,
+          "comments": 36
+        },
+        {
+          "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+          "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
+          "score": 21,
           "comments": 2
         },
         {
-          "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-          "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
-          "score": 22,
-          "comments": 8
+          "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+          "url": "https://nagylukas.github.io/orbit.html",
+          "score": 61,
+          "comments": 16
+        },
+        {
+          "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "url": "https://github.com/sqlsure/sqlsure",
+          "score": 16,
+          "comments": 1
         },
         {
           "title": "Sixtyfour (YC P25) Is Hiring",
@@ -68,94 +146,16 @@
           "comments": 0
         },
         {
-          "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
-          "url": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
-          "score": 72,
-          "comments": 43
-        },
-        {
           "title": "Female US rower completes historic solo journey from California to Hawaii",
           "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-          "score": 84,
-          "comments": 26
+          "score": 265,
+          "comments": 91
         },
         {
-          "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
-          "url": "https://nagylukas.github.io/orbit.html",
-          "score": 8,
-          "comments": 1
-        },
-        {
-          "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-          "url": "https://shipthatcode.com",
-          "score": 43,
-          "comments": 18
-        },
-        {
-          "title": "BLISS",
-          "url": "https://en.wikipedia.org/wiki/BLISS",
-          "score": 20,
-          "comments": 2
-        },
-        {
-          "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-          "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-          "score": 359,
-          "comments": 159
-        },
-        {
-          "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
-          "url": "https://github.com/skorotkiewicz/earth-game",
-          "score": 6,
-          "comments": 0
-        },
-        {
-          "title": "QuadRF can spot drones and see WiFi through my wall",
-          "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-          "score": 710,
-          "comments": 221
-        },
-        {
-          "title": "Reverse centaurs are the answer to the AI paradox",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-          "score": 34,
-          "comments": 5
-        },
-        {
-          "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
-          "url": "https://amber-lang.com/",
-          "score": 25,
-          "comments": 17
-        },
-        {
-          "title": "Google Search lets creators know more about their reach",
-          "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-          "score": 78,
-          "comments": 35
-        },
-        {
-          "title": "UPI: Anatomy of a Payment Transaction",
-          "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-          "score": 7,
-          "comments": 1
-        },
-        {
-          "title": "Earendel (Astronomical Object)",
-          "url": "https://en.wikipedia.org/wiki/Earendel_(astronomical_object)",
-          "score": 20,
-          "comments": 3
-        },
-        {
-          "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
-          "url": "https://github.com/swellweb/reame",
-          "score": 5,
-          "comments": 1
-        },
-        {
-          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-          "score": 1467,
-          "comments": 818
+          "title": "Weightlifting beats running for blood sugar control, researchers find (2025)",
+          "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+          "score": 115,
+          "comments": 63
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 64263,
-          "change_24h": 0.79,
-          "change_7d": 2.21,
-          "market_cap": 1288682276599
+          "price": 64068,
+          "change_24h": 0.13,
+          "change_7d": 1.84,
+          "market_cap": 1284893818066
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1824.5,
-          "change_24h": 2.3,
-          "change_7d": 1.43,
-          "market_cap": 220181333506
+          "price": 1804.66,
+          "change_24h": 0.81,
+          "change_7d": 1.95,
+          "market_cap": 217811180708
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 78.01,
-          "change_24h": 0.78,
-          "change_7d": -5.04,
-          "market_cap": 45414339974
+          "price": 76.81,
+          "change_24h": -1.0,
+          "change_7d": -5.42,
+          "market_cap": 44714587091
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.075092,
-          "change_24h": 1.9,
-          "change_7d": -4.22,
-          "market_cap": 11641283804
+          "price": 0.073206,
+          "change_24h": -1.19,
+          "change_7d": -4.61,
+          "market_cap": 11348891031
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.171192,
-          "change_24h": 3.13,
-          "change_7d": -11.9,
-          "market_cap": 6380723273
+          "price": 0.165238,
+          "change_24h": -0.84,
+          "change_7d": -14.28,
+          "market_cap": 6158332920
         }
       ]
     },
@@ -214,32 +214,37 @@
         {
           "name": "HOODIE",
           "symbol": "HOODIE",
-          "market_cap_rank": 527
-        },
-        {
-          "name": "Cash Cat",
-          "symbol": "CASHCAT",
-          "market_cap_rank": 167
-        },
-        {
-          "name": "The Black Bull",
-          "symbol": "ANSEM",
-          "market_cap_rank": 252
+          "market_cap_rank": 931
         },
         {
           "name": "LAB",
           "symbol": "LAB",
-          "market_cap_rank": 157
+          "market_cap_rank": 183
+        },
+        {
+          "name": "Cash Cat",
+          "symbol": "CASHCAT",
+          "market_cap_rank": 160
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 116
+          "market_cap_rank": 117
         },
         {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 91
+          "name": "Space and Time",
+          "symbol": "SXT",
+          "market_cap_rank": 740
+        },
+        {
+          "name": "Aave",
+          "symbol": "AAVE",
+          "market_cap_rank": 52
+        },
+        {
+          "name": "Virtuals Protocol",
+          "symbol": "VIRTUAL",
+          "market_cap_rank": 114
         },
         {
           "name": "Bitcoin",
@@ -247,19 +252,14 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Uniswap",
-          "symbol": "UNI",
-          "market_cap_rank": 39
+          "name": "Aerodrome Finance",
+          "symbol": "AERO",
+          "market_cap_rank": 104
         },
         {
-          "name": "Space and Time",
-          "symbol": "SXT",
-          "market_cap_rank": 701
-        },
-        {
-          "name": "Canton",
-          "symbol": "CC",
-          "market_cap_rank": 21
+          "name": "The Black Bull",
+          "symbol": "ANSEM",
+          "market_cap_rank": 289
         }
       ]
     },
@@ -272,22 +272,22 @@
       "items": [
         {
           "title": "Raw response",
-          "summary": "I cannot provide the most important macroeconomic and stock market news from the past 24 hours because the available search results do not contain any factual financial data, index movements, Federal Reserve announcements, or company earnings reports for July 10–11, 2026.\n\nThe provided results consist primarily of:\n*   **Video titles and comments** discussing general investment theories (e.g., semiconductor risks, mid/small-cap trends) rather than specific recent events [1][2].\n*   **Social medi",
+          "summary": "I cannot provide the most important macroeconomic and stock market news from the past 24 hours because the search results do not contain any factual news reports, market data, or earnings announcements from July 11–12, 2026. The available results are primarily video transcripts and summaries discussing **hypothetical scenarios**, **technical analysis patterns**, or **past events** (e.g., references to \"October of last year\" or dates like \"7/10/26\" in video titles that appear to be future-dated c",
           "source": "perplexity",
           "url": ""
         }
       ],
       "citations": [
         "https://www.youtube.com/watch?v=jjKplbduoAM",
-        "https://www.youtube.com/watch?v=dRZ7CF4C5SE",
-        "https://www.instagram.com/reel/DaoW66ixCZP/",
-        "https://www.youtube.com/watch?v=IJmRyJ-sSlI",
-        "https://www.reddit.com/r/Philippines/comments/1ut41pg/development_is_not_a_zero_sum_game_vietnam_and_ph/",
-        "https://www.instagram.com/p/DaoS8aHElkT/",
-        "https://finance.yahoo.com/video/more-couples-saying-spending-more-213000592.html",
-        "https://www.wsaz.com/2026/07/10/wsaz-investigates-mom-says-child-burned-by-squishy-toy/",
+        "https://www.youtube.com/watch?v=TP9AEulCw9g",
+        "https://www.youtube.com/watch?v=M0dVPr74oN8",
+        "https://www.youtube.com/watch?v=4Xm7NBm_FDE",
+        "https://www.dw.com/en/taiwan-allies-us-china-tension/video-77917788",
         "https://www.instagram.com/reel/DampfM6Kc3P/",
-        "https://www.youtube.com/watch?v=ZNwUc0DwOj8"
+        "https://www.youtube.com/watch?v=-po0Ia3293c",
+        "https://www.nytimes.com/video/opinion/100000011019454/platner-is-vile-mcconnell-is-missing-welcome-to-american-politics.html",
+        "https://www.instagram.com/reel/DaqTIqfACsE/",
+        "https://www.pbs.org/video/washington-week-with-the-atlantic-full-episode-71026-fvIGqI/"
       ]
     },
     "crypto_news": {
@@ -295,56 +295,68 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 8,
       "items": [
         {
-          "title": "Bitcoin Weekend Pump: Shorts Squeezed as BTC Fights to Solidify",
-          "summary": "Bitcoin is experiencing a weekend pump on July 11, 2026, with shorts being aggressively squeezed as the price fights to solidify its position.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=aQj-heR6XFo"
+          "title": "Bitcoin Holds Above $64K as Crypto Market Adds $170B in July Despite Recent Volatility",
+          "summary": "Bitcoin is trading around $63,950–$64,200, up approximately 1% over 24 hours, while the total crypto market has gained $170B since July 1st despite a record $19B liquidation event in the prior 24-hour window.",
+          "source": "Cointelegraph, Investing.com",
+          "url": "https://www.facebook.com/cointelegraph/posts/-update-the-total-crypto-market-added-170b-since-july-1st/1341715894801902/"
         },
         {
-          "title": "Cryptoclarity Act May Drop Next Week as It Remains Stuck in Senate",
-          "summary": "The newest version of the Cryptoclarity Act could be released next week, though it remains stalled in the Senate; the legislation is expected to unlock new money pools for crypto.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=AmCguZu-xCY"
+          "title": "Ethereum Drops 40% and Major Altcoins Face Sharp Liquidations Amid Market Turbulence",
+          "summary": "Ethereum fell 40% in a major liquidation event that wiped out $19B in 24 hours—the largest on record—while BTC, ETH, SOL, and XRP saw significant liquidations totaling $63.76M affecting over 44,000 traders.",
+          "source": "WIONews, Phemex",
+          "url": "https://www.facebook.com/WIONews/posts/epic-trumps-crypto-venture-takes-a-hit-american-bitcoin-stock-crashes-97-from-pe/1390636906508813/"
         },
         {
-          "title": "Tokenized Equities Hit Record $3.4B in June Volume, Driven by SpaceX IPO",
-          "summary": "Tokenized equities saw record $3.4 billion volume in June (279% month-over-month growth), primarily driven by SpaceX's record IPO and 24/7 trading demand, with Solana accounting for over 90% of volume.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=AmCguZu-xCY"
+          "title": "US CBDC Ban Becomes Law Through 2030 After Trump Skips Signing Bill",
+          "summary": "A bill banning U.S. central bank digital currencies (CBDCs) through 2030 became law automatically after President Donald Trump did not sign it, marking a major regulatory development.",
+          "source": "Cointelegraph",
+          "url": "https://www.facebook.com/cointelegraph/posts/-update-the-total-crypto-market-added-170b-since-july-1st/1341715894801902/"
         },
         {
-          "title": "Jupiter and Solana Drive Explosive Growth in Tokenized Asset Volume",
-          "summary": "Jupiter, the largest onchain platform, and Solana (with 56% month-over-month volume growth) are driving the surge in tokenized assets, with 60% of trading occurring during off-hours and weekends.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=AmCguZu-xCY"
+          "title": "Coinbase Chief Legal Officer Paul Grewal to Leave After 6 Years, Transitioning to Advisory Role",
+          "summary": "Paul Grewal is departing Coinbase as chief legal officer on July 31, moving to an advisory role; legal VPs Molly Abraham and Ryan VanGrack will assume leadership as general counsel and vice chair.",
+          "source": "Cointelegraph",
+          "url": "https://www.facebook.com/cointelegraph/posts/-update-the-total-crypto-market-added-170b-since-july-1st/1341715894801902/"
         },
         {
-          "title": "Bit Tensor Subnets Upgrade: Conviction Now Fully Live",
-          "summary": "Bit Tensor announced a major upgrade with its subnets now fully live, positioning it as a 'bluechip crypto' asset in the market.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=AmCguZu-xCY"
+          "title": "Nasdaq and Kraken Partner to Launch Tokenized Stock Trading; Prediction Markets Seek $20B Valuations",
+          "summary": "Nasdaq and Kraken are collaborating to enable trading of tokenized stocks, while prediction market platforms Kalshi and Polymarket are reportedly pursuing $20B valuations in new fundraising talks.",
+          "source": "CoinDesk",
+          "url": "https://x.com/CoinDesk"
         },
         {
-          "title": "Robin Hood Chain (Ethereum L2) Grows to Nearly $80M TVL",
-          "summary": "Robin Hood's Layer 2 on Ethereum has grown to nearly $80 million in total value locked, signaling increased adoption of the platform.",
-          "source": "YouTube",
-          "url": "https://www.youtube.com/watch?v=AmCguZu-xCY"
+          "title": "Global Insurance Broker Aon Tests Stablecoin Payments for Premiums with Coinbase and Paxos",
+          "summary": "Aon is piloting stablecoin payments for insurance premiums in a joint initiative with Coinbase and Paxos, signaling growing institutional adoption of stablecoins.",
+          "source": "CoinDesk",
+          "url": "https://x.com/CoinDesk"
+        },
+        {
+          "title": "Block Reluctantly Adds Stablecoin Support Following Stripe and PayPal Despite Jack Dorsey’s Bitcoin-Only Stance",
+          "summary": "Block (formerly Square) has joined Stripe and PayPal in adding stablecoin support, citing customer demand despite founder Jack Dorsey’s long-held belief that Bitcoin is the internet’s native money.",
+          "source": "CoinDesk",
+          "url": "https://x.com/CoinDesk"
+        },
+        {
+          "title": "Bonzo Exploiter Holds $7M in ETH After $9M Hack; Wallet Saw 920 ETH Enter in Under an Hour",
+          "summary": "The alleged exploiter of Bonzo, a crypto project reporting $9M in missing funds, now holds $7M in Ethereum, with over 920 ETH deposited into the wallet in less than an hour.",
+          "source": "Cointelegraph",
+          "url": "https://www.facebook.com/cointelegraph/posts/-update-the-total-crypto-market-added-170b-since-july-1st/1341715894801902/"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=AmCguZu-xCY",
-        "https://www.reddit.com/r/Bitcoin/comments/1usz2g5/bitcoin_logo_displayed_on_the_las_vegas_sphere/",
-        "https://www.youtube.com/watch?v=BeBlIGKENM8",
-        "https://www.wftv.com/video/",
-        "https://www.whitehouse.gov/videos/2026-nato-summit-%F0%9F%87%BA%F0%9F%87%B8/",
-        "https://www.youtube.com/watch?v=3rnvjySly_s",
-        "https://www.youtube.com/watch?v=jWBLdd0mPZQ",
-        "https://www.youtube.com/watch?v=eLWiYT63Qv8",
-        "https://www.instagram.com/reel/DaopZJyJGBz/",
-        "https://www.youtube.com/watch?v=aQj-heR6XFo"
+        "https://www.facebook.com/cointelegraph/posts/-update-the-total-crypto-market-added-170b-since-july-1st/1341715894801902/",
+        "https://x.com/CoinDesk",
+        "https://www.investing.com/crypto",
+        "https://www.facebook.com/WIONews/posts/epic-trumps-crypto-venture-takes-a-hit-american-bitcoin-stock-crashes-97-from-pe/1390636906508813/",
+        "https://finance.yahoo.com/quote/BTC-USD/",
+        "https://phemex.com/news/article/crypto-market-sees-6376-million-in-liquidations-over-24-hours-92689",
+        "https://www.instagram.com/p/Daqk1gsjZkb/",
+        "https://es.tradingview.com/news/stocktwits:a772ecca7094b:0-us-treasury-s-scott-bessent-made-the-case-for-stablecoins-and-tokenization-now-a-wall-street-veteran-says-crypto-skeptics-should-take-note/",
+        "https://www.binance.com/en/square/post/343642200576113",
+        "https://www.bitget.com/amp/news/detail/12560605500763"
       ]
     },
     "ai_news": {
@@ -352,38 +364,73 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 3,
+      "count": 9,
       "items": [
         {
-          "title": "n8n Releases 'n8n Assistant' AI Agent to Build Workflows Automatically",
-          "summary": "Workflow automation platform n8n launched a built-in AI agent called 'n8n Assistant' that acts as a building partner to automatically generate workflows for users, available now on cloud plans and self-hosted version 2.29.9.",
-          "source": "n8n",
-          "url": "https://www.youtube.com/watch?v=2T-xz4DmacE"
+          "title": "Anthropic's Mythos Model Exposes Vulnerabilities in Classified US Government Systems",
+          "summary": "A U.S. official confirmed that Anthropic's AI model identified critical security flaws in highly sensitive government computer systems during a recent testing exercise.",
+          "source": "AP News",
+          "url": "https://apnews.com/hub/artificial-intelligence"
         },
         {
-          "title": "Meta Shares Rise 6% as Analysts Forecast Compute Dominance Over OpenAI and Anthropic",
-          "summary": "Meta stock gained 6% after Semi Analysis reported that Meta's models have the best chance to catch up to competitors and forecast the company will eventually possess more compute power than both OpenAI and Anthropic.",
-          "source": "Bloomberg",
-          "url": "https://www.youtube.com/watch?v=KllEQhJ76Mk"
+          "title": "OpenAI Restricts GPT-5.6 Sol Release to Trump-Approved Customers Amid Cybersecurity Review",
+          "summary": "OpenAI is limiting access to its latest AI model, GPT-5.6 Sol, at the request of President Donald Trump's administration following cybersecurity concerns.",
+          "source": "AP News",
+          "url": "https://apnews.com/hub/artificial-intelligence"
         },
         {
-          "title": "Pearson Airport Warns Travelers Against AI-Generated Misinformation Articles",
-          "summary": "Canada's largest airport, Pearson, issued a warning to travelers about inaccurate articles and websites generated by AI that are spreading misinformation regarding travel information.",
-          "source": "CityNews Toronto",
-          "url": "https://toronto.citynews.ca/video/2026/07/10/passenger-partly-sucked-out-of-broken-plane-window/"
+          "title": "Apple Files Lawsuit Against OpenAI for Stealing Trade Secrets",
+          "summary": "Apple accused OpenAI of stealing trade secrets on Friday as the company seeks to build its own hardware for ChatGPT integration.",
+          "source": "AP News",
+          "url": "https://apnews.com/hub/artificial-intelligence"
+        },
+        {
+          "title": "Trump Administration Lifts Restrictions on Anthropic's Claude Models",
+          "summary": "The administration ended a weekslong ban on Anthropic's latest Claude chatbot versions after resolving cybersecurity alarms that prompted the initial restrictions.",
+          "source": "AP News",
+          "url": "https://apnews.com/hub/artificial-intelligence"
+        },
+        {
+          "title": "Developers Push GPT-5.6 into Practical Tests Across 3D Environments and Games",
+          "summary": "Developers are actively testing GPT-5.6 in practical applications ranging from 3D game environments and maps to Blender projects and mobile apps.",
+          "source": "Reddit / Developer Community",
+          "url": "https://www.instagram.com/p/DarD2bsGFJu/"
+        },
+        {
+          "title": "Nvidia's AI Chip Sales in China Stall as Huawei Takes Hardware Lead",
+          "summary": "Nvidia faces stalled AI chip sales in China while local manufacturers like Huawei are overtaking global leaders in the hardware and computing power race.",
+          "source": "AP News",
+          "url": "https://apnews.com/hub/artificial-intelligence"
+        },
+        {
+          "title": "Samsung and SK Hynix Plan $518 Billion Chipmaking Hub for AI Demand",
+          "summary": "South Korean tech giants announced a combined $518 billion investment in a new computer chip manufacturing hub to address surging AI-driven demand.",
+          "source": "AP News",
+          "url": "https://apnews.com/hub/artificial-intelligence"
+        },
+        {
+          "title": "Meta Announces $9.1 Billion AI Data Center Investment in Canada",
+          "summary": "Meta will invest over 13 billion Canadian dollars ($9.1 billion) to build its first and largest AI data center in Canada.",
+          "source": "AP News",
+          "url": "https://apnews.com/hub/artificial-intelligence"
+        },
+        {
+          "title": "Wimbledon Expands AI Role Across App and Website for Match Analysis",
+          "summary": "Wimbledon is integrating AI-powered features including match analysis chatbots and live player question answering into its digital platforms.",
+          "source": "AP News",
+          "url": "https://apnews.com/hub/artificial-intelligence"
         }
       ],
       "citations": [
-        "https://www.youtube.com/watch?v=KllEQhJ76Mk",
-        "https://www.youtube.com/watch?v=2T-xz4DmacE",
-        "https://toronto.citynews.ca/video/2026/07/10/passenger-partly-sucked-out-of-broken-plane-window/",
-        "https://toronto.citynews.ca/video/2026/07/10/potential-humanitarian-disaster-developing-in-venezuela-after-earthquakes/",
-        "https://www.youtube.com/watch?v=85XQzwjuy54",
-        "https://www.cbsnews.com/video/missouri-under-state-of-emergency-due-dangerous-flooding/",
-        "https://www.instagram.com/p/DaoS8aHElkT/",
-        "https://www.youtube.com/watch?v=3MIB75YHVDk",
-        "https://www.instagram.com/reel/DapSetcDBz_/",
-        "https://www.instagram.com/reel/DaoDdmiJKgC/"
+        "https://apnews.com/hub/artificial-intelligence",
+        "https://www.ivytech.edu/programs/all-academic-programs/school-of-information-technology/applied-artificial-intelligence/",
+        "https://www.facebook.com/MimiMefoInfo/posts/24-hour-ai-challenge-start-ai-now-in-the-next-24-hours-over-1000-cameroonians-wi/1597856648363767/",
+        "https://www.instagram.com/reel/DapeysMHIA9/",
+        "https://www.instagram.com/p/DarD2bsGFJu/",
+        "https://www.reddit.com/r/godot/comments/1utq209/my_brother_challenged_me_to_make_a_game_better/",
+        "https://aiweekly.co/learning-ai/artificial-intelligence/best-free-ai-courses-2026",
+        "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag256/8732103",
+        "https://news.ycombinator.com/item?id=48873855"
       ]
     },
     "gaming": {
@@ -391,68 +438,80 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 10,
       "items": [
         {
-          "title": "Palworld Surges on Steam Charts Following Massive 1.0 Update",
-          "summary": "Palworld has returned to the top of Steam charts after releasing a major 1.0 update packed with new Pals, mechanics, and gameplay improvements.",
-          "source": "Comic Book",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
+          "title": "Suda51 and Grasshopper Manufacture Reveal New Over-the-Top Action Game",
+          "summary": "Suda51 and Grasshopper Manufacture announced their latest action game, described as a combination of No More Heroes and Dead Rising, during recent industry coverage.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "Black Ops and Black Ops 2 Stealth Drop on PlayStation",
-          "summary": "Call of Duty: Black Ops and Black Ops 2 have unexpectedly launched on PlayStation, confirmed as original versions rather than remasters.",
-          "source": "Polygon",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
+          "title": "Helldivers 2 Announces New Force of Law Warbond",
+          "summary": "Helldivers 2 surprised fans by revealing the upcoming Force of Law Warbond for the cooperative shooter, adding new content for players.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "DarkAngel Advances to Esports World Cup 2026 Playoffs",
-          "summary": "Esports team DarkAngel has secured a spot in the Esports World Cup 2026 playoffs, marking a significant milestone in their competitive run.",
-          "source": "Natus Vincere",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
+          "title": "Team Ninja and Koei Tecmo Announce Nioh 3",
+          "summary": "Team Ninja and Koei Tecmo announced Nioh 3 during Sony's State of Play showcase, allowing soulslike fans to dive in immediately.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "Highly Anticipated Witcher-like RPG Hits 2 Million Steam Wishlists",
-          "summary": "A new action RPG inspired by The Witcher series has reached 2 million Steam wishlists ahead of its release, signaling strong player interest.",
-          "source": "AltChar",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
+          "title": "Arc System Works Unveils New Marvel Fighting Game",
+          "summary": "Arc System Works and Sony Interactive Entertainment unveiled a brand-new fighting game featuring Marvel characters and tag battles.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "IndyCar Game Moved to Early 2027 with First Images Released",
-          "summary": "The upcoming IndyCar racing game has been delayed to early 2027, with the developer releasing the first in-game images alongside the announcement.",
-          "source": "Traxion",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
+          "title": "Developer ArtPlay Reveals Bloodstained: The Scarlet Engagement",
+          "summary": "Developer ArtPlay revealed The Scarlet Engagement, the latest entry in the Bloodstained series, during the June PlayStation State of Play.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "Sinking City 2 PC Specs Revealed as Pre-Orders Open",
-          "summary": "Pre-orders for The Sinking City 2 have opened ahead of its August launch, with the developer revealing the required PC specifications.",
-          "source": "AltChar",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
+          "title": "Sony Reveals New PlayStation Controller with Unexpected Design",
+          "summary": "Among announcements during the latest PlayStation State of Play, Sony revealed a new controller featuring an unexpected design.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "Xbox Leader Asha Sharma Joins US Government Task Force",
-          "summary": "Xbox executive Asha Sharma has joined a US government task force for employment shortly after announcing internal restructuring at Microsoft.",
-          "source": "Eurogamer",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
+          "title": "Maze Theory and Vertigo Games Announce VR Stealth Franchise Return",
+          "summary": "Maze Theory and Vertigo Games announced the return of a classic stealth franchise for VR during Sony's State of Play June showcase.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         },
         {
-          "title": "Top Xbox Employee in India Exits Amid Microsoft Layoffs",
-          "summary": "A senior Xbox employee in India has left the company as part of ongoing Microsoft layoffs affecting the gaming division.",
-          "source": "The Hindu",
-          "url": "https://www.newsnow.co.uk/h/Technology/Gaming"
+          "title": "XDefiant Executive Producer Steps Away from Industry",
+          "summary": "As fans say goodbye to XDefiant after just one year, the game's executive producer announced he will be stepping away from the industry for good.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        },
+        {
+          "title": "Microsoft Unveils Xbox Game Pass Games for June 2025",
+          "summary": "Microsoft unveiled the full list of games coming to Xbox Game Pass in the first wave of June 2025 ahead of the Xbox Games Showcase.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
+        },
+        {
+          "title": "Pokemon GO Brings Back Community Day Voting for August 2025",
+          "summary": "Pokemon GO brought back Community Day voting for its upcoming August 2025 edition, with four Pokemon as candidates for the spotlight.",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gaming/"
         }
       ],
       "citations": [
         "https://gamerant.com/gaming/",
-        "https://www.newsnow.co.uk/h/Technology/Gaming",
-        "https://www.foxsports.com/watch-vertical/fmc-vyg3e6pl7g6yod4h",
-        "https://www.youtube.com/watch?v=a6b78oTpMes",
-        "https://www.youtube.com/watch?v=lbyNpU2j_28",
-        "https://www.reddit.com/r/iRacing/comments/1utnvzn/esports_team_destroys_spa_24_iracing_special_event/",
-        "https://www.instagram.com/reel/DaoF66-E7jK/",
+        "https://www.youtube.com/watch?v=HSgEljV7vHg",
+        "https://www.youtube.com/watch?v=4vnE31fzMFQ",
+        "https://www.instagram.com/reel/DaqgJi5xgG6/",
+        "https://www.youtube.com/watch?v=n115m7cpLDc",
+        "https://www.foxsports.com/watch-vertical/fmc-tg44w7fglvcjw6v2",
+        "https://www.reddit.com/r/diablo4/comments/1utabip/this_is_probably_the_most_important_video_right/",
         "https://www.nytimes.com/video/us/100000011016232/world-cup-beer-hall-brooklyn.html",
-        "https://www.krqe.com/news/albuquerque-metro/video-wife-of-retired-air-force-general-speaks-to-bcso-deputies-about-his-sudden-disappearance/",
-        "https://www.instagram.com/reel/DapA-Z8AucA/"
+        "https://www.instagram.com/reel/Dap5XBDswPn/",
+        "https://www.mmafighting.com/ufc/498588/conor-mcgregor-vs-max-holloway-full-fight-video"
       ]
     },
     "tech_news": {
@@ -460,50 +519,68 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 8,
       "items": [
         {
-          "title": "SK Hynix Surges 14% in Nasdaq Debut Following $26.5 Billion Sale",
-          "summary": "SK Hynix made its Nasdaq debut with a 14% surge in share price after completing a $26.5 billion sale, marking a major milestone for the semiconductor giant.",
-          "source": "Bignewsnetwork",
-          "url": "https://www.bignewsnetwork.com/category/breaking-technology-news"
+          "title": "Apple Files Trade Secret Theft Lawsuit Against OpenAI",
+          "summary": "Apple sued OpenAI alleging that former Apple employees stole trade secrets for OpenAI's benefit, claiming OpenAI's hardware business relies illegally on stolen secrets and that leadership normalized misconduct.",
+          "source": "Techmeme",
+          "url": "https://techmeme.com/index.html"
+        },
+        {
+          "title": "Meta Discontinues AI Image Feature Using Public Instagram Accounts",
+          "summary": "Meta will stop a feature allowing users to generate images in Meta AI using public Instagram accounts after facing days of criticism over privacy and consent concerns.",
+          "source": "Techmeme",
+          "url": "https://techmeme.com/index.html"
+        },
+        {
+          "title": "SK Hynix CEO Predicts Worst Memory Supply Shortage Starting 2027",
+          "summary": "SK Hynix CEO Kwak Noh-Jung warned the memory industry faces its worst-ever supply shortage in 2027, with demand expected to outstrip supply beyond 2030.",
+          "source": "Techmeme",
+          "url": "https://techmeme.com/index.html"
+        },
+        {
+          "title": "Trump Administration Intervenes to Aid Intel with Capacity Expansion and Apple Partnerships",
+          "summary": "Sources reveal the Trump administration pushed Intel to expand local manufacturing capacity and pressured Apple to use Intel's fabrication plants to support the chipmaker's improving business.",
+          "source": "Techmeme",
+          "url": "https://techmeme.com/index.html"
+        },
+        {
+          "title": "U.S. Loosens AI Chip Export Controls to UAE for Apple, Meta, and xAI",
+          "summary": "The Department of Commerce removed license requirements for exporting AI chips to the UAE, allowing companies like Apple, Meta, and xAI to ship chips to G42 without a license.",
+          "source": "Techmeme",
+          "url": "https://techmeme.com/index.html"
+        },
+        {
+          "title": "Netflix Plans to Add Live TV Channels to Boost Engagement",
+          "summary": "Netflix reportedly intends to bundle competing streaming services and add live TV channels to its platform, similar to Prime Video and Apple TV, to increase user engagement.",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news"
         },
         {
           "title": "FCC Approves Reflect Orbital's Controversial Space Mirror Satellite",
-          "summary": "The FCC approved Reflect Orbital's Earendil-1 satellite featuring a giant space mirror, despite strong opposition from astronomers concerned about its impact on observations.",
+          "summary": "The FCC approved Reflect Orbital's Earendil-1 satellite featuring a giant mirror, stating the controversial aspect falls outside its regulatory authority focused on radio spectrum.",
           "source": "PCMag",
           "url": "https://www.pcmag.com/news"
         },
         {
-          "title": "Netflix Reportedly Plans to Add Live TV Channels to Boost Engagement",
-          "summary": "Netflix is planning to bundle competing streaming services and add live TV channels to its platform, similar to strategies by Prime Video and Apple TV, to increase user engagement.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        },
-        {
-          "title": "EU Claims Facebook and Instagram Are 'Addictive' and Require Changes",
-          "summary": "The European Commission stated that Meta's apps, including Facebook and Instagram, promote unhealthy habits through infinite scroll and personalized content, necessitating regulatory changes.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        },
-        {
-          "title": "Doom Studio id Software Faces Layoffs Amid Xbox Cost-Cutting",
-          "summary": "id Software, the studio behind Doom, experienced significant layoffs following Microsoft's controversial cost-cutting decision, raising concerns about the studio's long-term viability.",
+          "title": "id Software Tries to Ease Concerns After Xbox Layoffs",
+          "summary": "Doom Studio id Software is addressing concerns about the studio's survival following deep layoffs tied to Microsoft's cost-cutting decision.",
           "source": "PCMag",
           "url": "https://www.pcmag.com/news"
         }
       ],
       "citations": [
-        "https://www.bignewsnetwork.com/category/breaking-technology-news",
+        "https://techmeme.com/index.html",
         "https://www.pcmag.com/news",
-        "https://www.wftv.com/video/",
-        "https://www.youtube.com/watch?v=OO0XjRNmQFo",
-        "https://www.cnbc.com/video/2026/07/10/important-companies-start-showing-ai-monetization-this-earnings-season-says-tech-strategist-dan-ives.html",
-        "https://www.youtube.com/watch?v=jjKplbduoAM",
-        "https://www.instagram.com/p/DaoS8aHElkT/",
-        "https://www.youtube.com/watch?v=lo5Fhcd153A",
-        "https://www.nytimes.com/video/opinion/100000011018056/green-techs-small-miracles.html",
-        "https://www.instagram.com/reel/DaoM-eVhBi_/"
+        "https://www.bbc.co.uk/news/technology",
+        "https://www.facebook.com/SlashGear/posts/technology-is-rapidly-expanding-and-a-lot-has-happened-in-just-the-past-50-years/1744620273891037/",
+        "https://www.facebook.com/historyhideout/videos/one-of-the-most-important-inventions-of-modern-technology-came-from-an-unexpecte/1753176162539572/",
+        "https://www.instagram.com/p/DaqhL0kFV1N/",
+        "https://www.youtube.com/watch?v=jHrLHusGmfE",
+        "https://www.instagram.com/reel/Dap51aGBTA2/",
+        "https://www.latimes.com/world-nation/story/2026-07-11/another-islandwide-blackout-strikes-cuba",
+        "https://www.youtube.com/watch?v=OO0XjRNmQFo"
       ]
     }
   }
