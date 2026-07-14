@@ -1,25 +1,20 @@
 # Daily Briefing
 
-*Generated: 2026-07-13 19:19 UTC*
+*Generated: 2026-07-14 02:11 UTC*
 
-Here is your executive briefing for July 13, 2026:
+Here is your executive briefing:
 
-1. **Market Overview**: Major indices experienced a decline due to escalating Middle East tensions, with the Nasdaq dropping 3% in early trading. Oil prices surged 3% after Iran claimed to close the Strait of Hormuz. Bitcoin and other cryptocurrencies also saw a decline, with Bitcoin down 2.1% in 24 hours. The total crypto market cap rose 1.72% to $2.16 trillion.
+1. **Market Overview**: The global market is experiencing significant volatility due to escalating US-Iran tensions, with major US indexes falling sharply and oil prices rising. Bitcoin and Ethereum have also dropped, with Bitcoin falling below $62,000 and Ethereum approaching $1,750. The Nasdaq Composite and KOSPI have declined, with the KOSPI dropping 8.95%.
 
-2. **Tech & AI**: Apple's new SpeechAnalyzer API has been benchmarked against Whisper and its predecessor. SK Hynix completed a record-breaking $26.5 billion U.S. IPO, warning of a historic memory chip shortage by 2027 due to soaring AI demand. The Federal Reserve reported that U.S. inflation increased due to evolving tariff impacts, war-related energy cost rises, and the booming AI infrastructure buildout.
+2. **Tech & AI**: Notable tech developments include the release of Apple's new SpeechAnalyzer API, which has been benchmarked against Whisper and its predecessor. Additionally, there have been advancements in AI-written code, with the introduction of Jacquard, a programming language for AI-written, human-reviewed code. Samsung Health has also announced that it will delete user data if they opt out of AI training.
 
-3. **Gaming & Entertainment**: There is no significant gaming news to report. However, a voxel Tokyo in real Japan time has been created, allowing users to ride the Yamanote line and study Japanese.
+3. **Gaming & Entertainment**: There is limited gaming news, but an article about the art and engineering of Sega CD Silpheed has gained significant attention. Additionally, a project allowing users to turn their singing voice into printable notes in the browser has been showcased.
 
 4. **Key Insights**:
-* The escalating Middle East tensions are affecting global markets, with oil prices surging and major indices declining.
-* The AI infrastructure buildout is driving inflation and creating a historic memory chip shortage.
-* Regulatory developments are shaping the cryptocurrency market, with a four-year ban on U.S. central bank digital currencies (CBDC) passed into law.
-* SK Hynix's record-breaking IPO highlights the growing demand for AI-related technologies.
-* The International Monetary Fund downgraded its 2026 world growth forecast to 3% due to the Iran war fallout.
+* The US-Iran conflict is having a significant impact on global markets, with oil prices rising and major indexes declining.
+* The crypto market is experiencing volatility, with Bitcoin and Ethereum dropping in value.
+* There have been significant advancements in AI and tech, including the release of Apple's SpeechAnalyzer API and the introduction of Jacquard, a programming language for AI-written code.
+* Regulatory news, such as the potential implementation of a 20% toll on ships crossing the Strait of Hormuz, may have significant implications for global trade.
+* Coinbase has laid off 700 employees, cutting 14% of its staff, in a significant industry contraction.
 
-5. **Watch List**: 
-* Middle East tensions and their impact on global markets
-* AI infrastructure buildout and its effects on inflation and memory chip supply
-* Regulatory developments in the cryptocurrency market
-* SK Hynix's performance after its record-breaking IPO
-* The International Monetary Fund's future forecasts and adjustments to the global growth outlook
+5. **Watch List**: Items to monitor in the coming days include the ongoing US-Iran conflict, the impact of regulatory news on global trade, and the continued development of AI and tech, particularly in the areas of speech recognition and AI-written code. Additionally, the crypto market and major indexes should be closely watched for further volatility.
