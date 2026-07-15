@@ -1,25 +1,21 @@
 # Daily Briefing
 
-*Generated: 2026-07-15 02:09 UTC*
+*Generated: 2026-07-15 08:03 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+Here is your executive briefing for July 15, 2026:
 
-1. **Market Overview**: The US inflation rate cooled to 3.5% in June, easing Fed rate hike fears. The Dow, S&P 500, and Nasdaq rose, driven by solid bank earnings and cooler inflation data. Bitcoin and Ethereum prices increased, with Bitcoin at $64,630 and Ethereum at $1,867.92. Oil prices surged above $80 due to US-Iran tensions.
+1. **Market Overview**: The US inflation rate cooled more than expected in June, leading to a decrease in Fed rate hike fears. Major indices experienced a mixed day, with some stocks plummeting due to weaker-than-expected earnings. Oil prices surged to $87 per barrel amid escalating US-Iran tensions. Bitcoin and Ethereum prices increased by 3.38% and 5.18% respectively, with Ethereum leading $101M short liquidations following the inflation data.
 
-2. **Tech & AI**: Notable developments include the introduction of Bonsai 27B, a 27B-class AI model that can run on a phone, and the launch of Guardian Angels, an LLM personalization tool for productivity and security. Microsoft patched a record 570 security flaws, and IBM's stock plummeted 25% after a disappointing Q2 revenue warning.
+2. **Tech & AI**: Notable tech developments include the release of Bonsai 27B, a 27B-class AI model that can run on a phone. Microsoft released software updates to plug at least 570 security holes. Dependabot introduced default package cooldown, and there were discussions on the potential of RISC-V and the impact of AI on various industries.
 
-3. **Gaming & Entertainment**: The largest available Minecraft world, totaling 15 TB, was announced, and a project called LeMario trained a JEPA world model on Super Mario Bros. Additionally, the PSP's dual-core setup was unlocked, and a USB-C maximalist article discussed the benefits of adopting USB-C technology.
+3. **Gaming & Entertainment**: The largest available Minecraft world, totaling 15 TB, was mentioned, and there was a project called LeMario that involved training a JEPA world model on Super Mario Bros. 
 
 4. **Key Insights**:
-* The cooldown in US inflation has eased Fed rate hike fears, leading to market gains.
-* Institutional demand for cryptocurrencies has recovered, with Bitcoin and Ethereum receiving significant net inflows.
-* The UK government has unveiled a comprehensive roadmap for tokenized finance, forecasting a £33 billion annual economic boost.
-* Japan's largest security token platform has transferred nearly $3 billion in assets to the Avalanche blockchain, signaling major institutional adoption.
-* Microsoft's record-breaking security flaw patches highlight the importance of cybersecurity in the tech industry.
+* The US inflation rate cooling down may lead to a decrease in Fed rate hike fears, potentially affecting the stock market.
+* The surge in oil prices due to US-Iran tensions may impact the global economy.
+* AI continues to advance, with new models like Bonsai 27B being released, and its potential impact on various industries is being discussed.
+* Cybersecurity remains a concern, with Microsoft releasing updates to plug security holes and Dependabot introducing default package cooldown.
+* The growth of digital assets and stablecoins is being promoted through transatlantic coordination.
 
 5. **Watch List**: 
-* US-Iran tensions and their impact on oil prices
-* The progression of the Clarity Act crypto bill in the US Senate
-* The adoption of tokenized finance in the UK and its potential economic impact
-* The development and deployment of AI models like Bonsai 27B and their potential applications
-* The performance of major tech stocks, including IBM and Microsoft, in the coming days.
+Items to monitor in the coming days include the US Fed's decision on interest rates, the ongoing US-Iran tensions and their impact on oil prices, the development and release of new AI models, and the growth of digital assets and stablecoins. Additionally, keep an eye on the stock market's reaction to weaker-than-expected earnings and the potential impact of AI on various industries.
