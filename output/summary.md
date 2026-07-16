@@ -1,21 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-07-15 19:05 UTC*
+*Generated: 2026-07-16 02:22 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The US inflation rate eased in June, leading to a surge in global stocks and a weakening of the dollar. The S&P 500 rose 0.38%, while NVIDIA gained 4.06% and IBM dropped 25.21%. Bitcoin surpassed $64,000, and Ethereum rose to $1,876. The cryptocurrency market saw over $350 million in liquidations, with bearish short traders suffering losses.
+1. **Market Overview**: The US producer prices fell 0.3% in June, easing inflation concerns. Major US stock indices closed higher on Wednesday, despite a Nasdaq slump. Bitcoin and Ethereum prices have seen a 0.13% and 2.87% change in the last 24 hours, respectively. Oil prices have surged near $85 due to the US-Iran conflict.
 
-2. **Tech & AI**: Murati's Thinking Machines released an open-weights 975B parameter LLM, and OpenAI lost a trademark dispute at the EU court. ASML raised its guidance for AI chip production after a blowout quarter. Additionally, there were notable developments in AI voice fraud, with a report highlighting the ease of committing such crimes.
+2. **Tech & AI**: Foxconn reported a 39.8% Q2 revenue jump driven by AI server demand. PayPal shares surged on reports of a $53 billion takeover offer. Stripe and Advent have made a joint offer to acquire PayPal. There have been significant developments in open-source AI, with companies like Inkling and Grok Build making announcements.
 
-3. **Gaming & Entertainment**: There were no significant gaming news developments in the provided data. However, a general goal-conditioned Minecraft model was introduced, which could have implications for the gaming industry.
+3. **Gaming & Entertainment**: Duskers, a command-line game, is getting a sequel. Voxatron, a game development platform, has been mentioned in the news.
 
 4. **Key Insights**:
-* The easing of US inflation has led to increased market optimism, with stocks and cryptocurrencies rising.
-* The development of advanced AI models, such as the open-weights 975B parameter LLM, continues to accelerate.
-* Regulatory efforts are underway to strengthen stablecoin rules and align with federal frameworks.
-* Geopolitical tensions, such as the US-Iran conflict, are impacting oil prices and haven assets.
-* The rise of AI voice fraud poses a significant threat, with reports highlighting the ease of committing such crimes.
+* The easing of inflation concerns in the US may lead to a positive impact on the stock market.
+* The surge in oil prices due to the US-Iran conflict may have a negative impact on the global economy.
+* The growth of AI and semiconductor demand is driving revenue increases for companies like Foxconn.
+* Open-source AI is becoming increasingly important, with companies investing in this area.
+* The cryptocurrency market is experiencing significant developments, including layoffs, hacks, and new product launches.
 
 5. **Watch List**: 
-Items to monitor in the coming days include the US Federal Reserve's rate hike decisions, the development of regulated stablecoins and tokenized finance, and the ongoing impact of geopolitical tensions on global markets. Additionally, the progress of advanced AI models and their potential applications should be closely watched. The situation in South Korea's KOSPI index, which has entered a bear market, also warrants attention.
+* US-Iran conflict and its impact on oil prices
+* PayPal takeover offer and its potential impact on the payment industry
+* Open-source AI developments and their potential impact on the tech industry
+* Cryptocurrency market movements and regulatory news
+* Foxconn's revenue growth and its impact on the global economy
