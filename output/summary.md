@@ -1,25 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-07-18 02:10 UTC*
+*Generated: 2026-07-18 07:43 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The US-Iran conflict has driven oil prices to a 1-month high, increasing the likelihood of a Fed rate hike. Major US indices have slid, with the S&P 500 down 1.01% and the Nikkei 225 plunging 4.34%. Bitcoin has dropped below $63,000, while Ethereum has slipped 3.9% to $1,846. The crypto market is experiencing risk-off selling due to Middle East tensions and regulatory uncertainties.
+1. **Market Overview**: The S&P 500 and chip stocks have slid due to concerns about the sustainability of the AI-driven surge, with the index down 1.01%. Bitcoin has fallen below $63K amid the U.S.-Iran conflict and AI selloff. Major cryptocurrencies such as Ethereum and Solana have also declined. The current crypto market sentiment is bearish, with most major coins experiencing losses.
 
-2. **Tech & AI**: Kaiser nurses have expressed concerns that AI and workplace surveillance are negatively impacting their jobs and patient care. The Isomorphic Labs Drug Design Engine has been unveiled, potentially unlocking a new frontier in drug design beyond AlphaFold. Additionally, there have been discussions about the state of open-source AI and its potential applications.
+2. **Tech & AI**: The AI rally is facing sustainability questions, with chip stocks experiencing their steepest weekly decline in over a year. Netflix's earnings miss and the chip selloff have dragged markets lower. The Isomorphic Labs Drug Design Engine has been announced, unlocking a new frontier beyond AlphaFold. Additionally, there have been developments in open-source AI, with the state of open-source AI being discussed.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, it's worth noting that the FAA has allowed Boeing to sign off on 737 MAX and 787 airworthiness certificates again, which may have implications for the broader technology and engineering sectors.
+3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, it's worth noting that the tech and AI developments may have implications for the gaming industry in the future.
 
 4. **Key Insights**:
-* The US-Iran conflict is driving oil prices and inflation fears, potentially leading to a Fed rate hike.
-* The crypto market is experiencing risk-off selling due to regulatory uncertainties and Middle East tensions.
-* AI and technology are increasingly being applied in various sectors, including healthcare and drug design.
-* The state of open-source AI is a topic of interest, with potential implications for the broader tech industry.
-* Boeing has been allowed to sign off on 737 MAX and 787 airworthiness certificates again, which may impact the aerospace sector.
+* The AI-driven surge is facing sustainability questions, which may impact the tech industry and related stocks.
+* The U.S.-Iran conflict is affecting oil prices and the broader crypto market.
+* The development of new technologies, such as the Isomorphic Labs Drug Design Engine, may have significant implications for various industries.
+* The state of open-source AI is being discussed, which may impact the future of AI development.
+* Institutional access to cryptocurrencies is expanding, with Morgan Stanley enabling trading of major cryptocurrencies on the E*TRADE platform.
 
 5. **Watch List**: 
-* US-Iran conflict and its impact on oil prices and inflation.
-* Fed rate hike decisions and their potential effects on the market.
-* Regulatory developments in the crypto space, particularly the CLARITY Act.
-* AI and technology applications in various sectors, including healthcare and drug design.
-* Boeing's progress in the aerospace sector and potential implications for the broader industry.
+* The ongoing U.S.-Iran conflict and its impact on oil prices and the crypto market.
+* The development of new technologies, such as the Isomorphic Labs Drug Design Engine, and their potential implications.
+* The state of open-source AI and its potential impact on the future of AI development.
+* The expansion of institutional access to cryptocurrencies and its potential effects on the market.
+* The sustainability of the AI-driven surge and its potential impact on the tech industry and related stocks.

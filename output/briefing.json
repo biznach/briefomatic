@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T02:10:01.143554+00:00",
-  "generated_at_human": "2026-07-18 02:10 UTC",
+  "generated_at": "2026-07-18T07:43:54.267931+00:00",
+  "generated_at_human": "2026-07-18 07:43 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,112 @@
       "count": 25,
       "items": [
         {
-          "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-          "score": 291,
-          "comments": 178
+          "title": "Regressive JPEGs",
+          "url": "https://maurycyz.com/projects/bad_jpeg/",
+          "score": 147,
+          "comments": 6
         },
         {
           "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
           "url": "https://news.ycombinator.com/item?id=48945241",
-          "score": 1056,
-          "comments": 643
+          "score": 1146,
+          "comments": 686
+        },
+        {
+          "title": "Reviving a 15-year-old netbook with Arch Linux",
+          "url": "https://parksb.github.io/en/article/41.html",
+          "score": 77,
+          "comments": 36
         },
         {
           "title": "Thanks HN for 15 years of support and helping me find my life's work",
           "url": "https://news.ycombinator.com/item?id=48949551",
-          "score": 344,
-          "comments": 31
-        },
-        {
-          "title": "The Zilog Z80 has turned 50",
-          "url": "https://goliath32.com/blog/z80.html",
-          "score": 167,
-          "comments": 51
-        },
-        {
-          "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-          "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-          "score": 35,
-          "comments": 2
-        },
-        {
-          "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
-          "url": "https://prathosh.in/vagdhenu/",
-          "score": 62,
-          "comments": 4
+          "score": 532,
+          "comments": 52
         },
         {
           "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
           "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-          "score": 370,
-          "comments": 234
+          "score": 437,
+          "comments": 256
+        },
+        {
+          "title": "The Zilog Z80 has turned 50",
+          "url": "https://goliath32.com/blog/z80.html",
+          "score": 209,
+          "comments": 68
+        },
+        {
+          "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+          "url": "https://moonstone.sh/",
+          "score": 50,
+          "comments": 13
+        },
+        {
+          "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+          "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+          "score": 102,
+          "comments": 24
+        },
+        {
+          "title": "Learning a few things about running SQLite",
+          "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+          "score": 233,
+          "comments": 59
+        },
+        {
+          "title": "I started a “dirt notebook”",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+          "score": 49,
+          "comments": 41
+        },
+        {
+          "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+          "url": "https://www.stenchill.com/en/",
+          "score": 38,
+          "comments": 7
+        },
+        {
+          "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+          "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+          "score": 8,
+          "comments": 0
+        },
+        {
+          "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+          "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+          "score": 323,
+          "comments": 169
+        },
+        {
+          "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+          "url": "https://prathosh.in/vagdhenu/",
+          "score": 145,
+          "comments": 30
+        },
+        {
+          "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
+          "url": "https://pocketjs.dev/blog/shipping-openstrike/",
+          "score": 35,
+          "comments": 14
+        },
+        {
+          "title": "In-toto: A framework to secure the integrity of software supply chains",
+          "url": "https://in-toto.io/",
+          "score": 8,
+          "comments": 0
+        },
+        {
+          "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
+          "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
+          "score": 39,
+          "comments": 1
+        },
+        {
+          "title": "Battery packs: Let's talk about crates, baby",
+          "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
+          "score": 14,
+          "comments": 3
         },
         {
           "title": "DrDroid (YC W23) Is Hiring",
@@ -56,106 +122,40 @@
           "comments": 0
         },
         {
-          "title": "I Started a \"Dirt Notebook\"",
-          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-          "score": 10,
-          "comments": 5
-        },
-        {
-          "title": "Learning a few things about running SQLite",
-          "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-          "score": 166,
-          "comments": 40
-        },
-        {
-          "title": "A grumpy screed about AI in software engineering",
-          "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-          "score": 23,
-          "comments": 12
-        },
-        {
-          "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-          "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-          "score": 278,
-          "comments": 147
-        },
-        {
-          "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-          "url": "https://moonstone.sh/",
-          "score": 5,
-          "comments": 0
-        },
-        {
           "title": "Static search trees: 40x faster than binary search (2024)",
           "url": "https://curiouscoding.nl/posts/static-search-tree/",
-          "score": 52,
-          "comments": 3
-        },
-        {
-          "title": "Texas wins court order to suspend domain name for violating age-verification law",
-          "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-          "score": 127,
-          "comments": 144
-        },
-        {
-          "title": "Open Book Touch: open-source e-reader",
-          "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-          "score": 58,
-          "comments": 13
-        },
-        {
-          "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-          "url": "https://www.stenchill.com/en/",
-          "score": 7,
-          "comments": 0
-        },
-        {
-          "title": "Topcoat: The full full-stack framework for Rust",
-          "url": "https://github.com/tokio-rs/topcoat",
-          "score": 44,
-          "comments": 27
-        },
-        {
-          "title": "Painting the sides of railroad rails white to reduce derailment",
-          "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-          "score": 46,
-          "comments": 16
-        },
-        {
-          "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-          "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-          "score": 22,
-          "comments": 2
-        },
-        {
-          "title": "The state of open source AI",
-          "url": "https://stateofopensource.ai/",
-          "score": 375,
-          "comments": 271
-        },
-        {
-          "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-          "url": "https://app.everything.diena.co/",
-          "score": 61,
-          "comments": 23
+          "score": 102,
+          "comments": 6
         },
         {
           "title": "Lego building instructions through time",
           "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-          "score": 62,
-          "comments": 9
+          "score": 103,
+          "comments": 22
         },
         {
-          "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-          "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-          "score": 123,
-          "comments": 68
+          "title": "Open Book Touch: open-source e-reader",
+          "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+          "score": 99,
+          "comments": 35
         },
         {
-          "title": "Frank Lloyd Wright’s first home",
-          "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
-          "score": 79,
-          "comments": 41
+          "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+          "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+          "score": 68,
+          "comments": 6
+        },
+        {
+          "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+          "score": 483,
+          "comments": 308
+        },
+        {
+          "title": "The state of open source AI",
+          "url": "https://stateofopensource.ai/",
+          "score": 419,
+          "comments": 302
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 63898,
-          "change_24h": 0.66,
-          "change_7d": -0.3,
-          "market_cap": 1281529118546
+          "price": 63960,
+          "change_24h": 1.68,
+          "change_7d": -0.32,
+          "market_cap": 1282887044269
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1840.99,
-          "change_24h": -0.53,
-          "change_7d": 2.73,
-          "market_cap": 222113388199
+          "price": 1843.84,
+          "change_24h": 0.81,
+          "change_7d": 2.55,
+          "market_cap": 222518301240
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 75.14,
-          "change_24h": 0.12,
-          "change_7d": -3.43,
-          "market_cap": 43782864667
+          "price": 74.92,
+          "change_24h": 0.59,
+          "change_7d": -3.93,
+          "market_cap": 43639378106
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.072514,
-          "change_24h": 0.5,
-          "change_7d": -2.23,
-          "market_cap": 11248745015
+          "price": 0.072261,
+          "change_24h": 0.94,
+          "change_7d": -2.8,
+          "market_cap": 11208777272
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.167818,
-          "change_24h": 4.79,
-          "change_7d": 0.67,
-          "market_cap": 6255391205
+          "price": 0.166262,
+          "change_24h": 4.68,
+          "change_7d": -0.38,
+          "market_cap": 6197269258
         }
       ]
     },
@@ -212,19 +212,14 @@
       "count": 10,
       "items": [
         {
+          "name": "Toshi",
+          "symbol": "TOSHI",
+          "market_cap_rank": 430
+        },
+        {
           "name": "ADI",
           "symbol": "ADI",
           "market_cap_rank": 75
-        },
-        {
-          "name": "Ondo",
-          "symbol": "ONDO",
-          "market_cap_rank": 42
-        },
-        {
-          "name": "Akedo",
-          "symbol": "AKE",
-          "market_cap_rank": 582
         },
         {
           "name": "Pudgy Penguins",
@@ -232,24 +227,14 @@
           "market_cap_rank": 118
         },
         {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 69
-        },
-        {
-          "name": "The Black Bull",
-          "symbol": "ANSEM",
-          "market_cap_rank": 329
-        },
-        {
           "name": "Cash Cat",
           "symbol": "CASHCAT",
-          "market_cap_rank": 403
+          "market_cap_rank": 424
         },
         {
-          "name": "Aerodrome Finance",
-          "symbol": "AERO",
-          "market_cap_rank": 108
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 43
         },
         {
           "name": "Hyperliquid",
@@ -257,9 +242,24 @@
           "market_cap_rank": 10
         },
         {
-          "name": "Solstice",
-          "symbol": "SLX",
-          "market_cap_rank": 670
+          "name": "The Black Bull",
+          "symbol": "ANSEM",
+          "market_cap_rank": 342
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Virtuals Protocol",
+          "symbol": "VIRTUAL",
+          "market_cap_rank": 114
         }
       ]
     },
@@ -268,57 +268,69 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 8,
       "items": [
         {
-          "title": "US-Iran Conflict Escalates, Driving Oil Prices to 1-Month High and Raising Fed Rate-Hike Odds",
-          "summary": "Renewed military hostilities between the US and Iran, including strikes on Iranian infrastructure and disruptions to Strait of Hormuz tanker traffic, pushed WTI crude up 2.74% and gasoline prices to a 7-week high, fueling inflation fears and increasing the probability of a July Fed rate hike despite June inflation cooling to 3.5%.",
-          "source": "Reuters, Yahoo Finance, CNBC",
+          "title": "S&P 500 and Chip Stocks Slide as AI Rally Faces Sustainability Questions",
+          "summary": "U.S. stock index futures slid Friday as a deepening selloff in chip stocks sent the S&P 500 down 1.01%, sparking concerns about the sustainability of the AI-driven surge amid rising U.S.-Iran tensions.",
+          "source": "Reuters",
           "url": "https://www.reuters.com/markets/econ-world/"
         },
         {
-          "title": "Major US Indices Slide as Chip Stocks Selloff Deepens and AI Rally Faces Sustainability Questions",
-          "summary": "US stock index futures slid Friday as chip stocks faced their steepest weekly decline in over a year, with the S&P 500 down 1.01% and the Nikkei 225 plunging 4.34%, while investors reassess the AI-driven surge amid weak Netflix earnings and rotation out of recent rally winners.",
-          "source": "Reuters, MarketScreener UK, CNBC",
+          "title": "Fed Policymakers Debate Rate Hikes as Inflation Concerns Persist",
+          "summary": "Cleveland Fed President Beth Hammack joined a growing chorus of policymakers arguing interest rates may need to rise to combat persistent inflation, setting up a potential dissent at Chairman Kevin Warsh's upcoming July meeting.",
+          "source": "Reuters",
           "url": "https://www.reuters.com/markets/econ-world/"
         },
         {
-          "title": "Fed Policymakers Swell for Rate Hike as Cleveland Fed President Hammack Joins Inflation Debate",
-          "summary": "Cleveland Fed President Beth Hammack added to a growing chorus of policymakers arguing rates may need to rise to combat persistent inflation, setting up a charged debate at Chairman Kevin Warsh's upcoming July meeting, though rates are still widely seen on hold initially.",
-          "source": "Reuters, MarketScreener UK",
-          "url": "https://www.reuters.com/markets/econ-world/"
+          "title": "Netflix Earnings Miss and Chip Selloff Drag Markets Lower",
+          "summary": "Netflix tumbled after its earnings report added to market pressure, while major chip stocks faced their steepest weekly decline in over a year, pushing major averages toward a losing week.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/world/"
         },
         {
-          "title": "Apple Overtakes Nvidia as World's Most Valuable Company Amid AI Stock Volatility",
-          "summary": "Apple regained the top spot as the world's most valuable company with a $4.88 trillion valuation after Nvidia dropped 3.5%, while Alphabet fell 2.17% ahead of its earnings report expected to sway the market-leading AI trade.",
-          "source": "Al Jazeera, MarketScreener UK",
+          "title": "Oil Prices Surge to One-Month High Amid US-Iran Strait of Hormuz Crisis",
+          "summary": "Brent crude nears $85 a barrel and WTI rose 3.50% as escalating hostilities between the U.S. and Iran threaten the Strait of Hormuz, with the IEA chief warning of critical global energy security risks.",
+          "source": "Al Jazeera",
           "url": "https://www.aljazeera.com/economy/"
         },
         {
-          "title": "Wall Street Banks Post Record Earnings as AI Boom Drives Trading Revenue, While Regional Banks Deliver Q2 Gains",
-          "summary": "Goldman Sachs, JPMorgan, and Morgan Stanley reported record quarterly revenue and profit driven by surging equities trading (up 69% for Morgan Stanley), while regional banks like U.S. Bancorp and PNC Financial delivered broad Q2 gains despite Middle East war concerns.",
+          "title": "Apple Overtakes Nvidia as World's Most Valuable Company",
+          "summary": "Apple regained the top spot with a $4.88 trillion valuation after Nvidia's market value dropped 3.5%, reversing their previous ranking in the global tech race.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/"
+        },
+        {
+          "title": "US to Impose 25% Tariffs on Some Brazilian Imports Over Unfair Trade Practices",
+          "summary": "The U.S. announced new 25% tariffs on select Brazilian imports including beef, coffee, and rare-earth materials following a yearlong investigation into alleged unfair trade practices.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/"
+        },
+        {
+          "title": "Big Banks Report Booming Q2 Revenue Amid SpaceX IPO and Lending Rebound",
+          "summary": "Major U.S. banks are set to report strong second-quarter revenue driven by the SpaceX IPO, a rebound in commercial lending, and resilience despite Iran war volatility.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/finance/"
         },
         {
-          "title": "US Import Prices Unexpectedly Rise in June; Consumer Sentiment Hits Five-Month High Before Gasoline Spike",
-          "summary": "US import prices unexpectedly rose in June, and consumer sentiment increased to a five-month high in July, though the improvement is likely temporary as renewed US-Iran conflict raises gasoline prices and threatens to reverse June's inflation cooling to 3.5%.",
-          "source": "Reuters, Wall Street Journal",
+          "title": "China Holds Benchmark Lending Rates Unchanged Despite Slower Q2 Growth",
+          "summary": "China is expected to keep benchmark lending rates unchanged for a 14th consecutive month in July, even as softer-than-expected second-quarter economic data highlights uneven growth in the world's second-largest economy.",
+          "source": "Reuters",
           "url": "https://www.reuters.com/markets/econ-world/"
         }
       ],
       "citations": [
+        "https://tradingeconomics.com/calendar",
         "https://www.reuters.com/markets/econ-world/",
-        "https://finance.yahoo.com/economy/",
         "https://www.wsj.com/economy",
+        "https://in.marketscreener.com/news/topics/economy/",
+        "https://finance.yahoo.com/economy/",
         "https://www.aljazeera.com/economy/",
-        "https://uk.marketscreener.com/news/topics/economy/",
+        "https://www.investing.com/economic-calendar",
+        "https://www.cnn.com/business",
         "https://www.cnbc.com/finance/",
-        "https://www.youtube.com/watch?v=BUlMRlE_rgk",
         "https://www.cnbc.com/world/",
-        "https://apnews.com/hub/financial-markets",
-        "https://www.boursorama.com/actualite-economique/",
-        "https://www.cnn.com/business"
+        "https://www.iowapbs.org/shows/mtom/episode/14371/market-market-july-17-2026"
       ]
     },
     "crypto_news": {
@@ -329,78 +341,78 @@
       "count": 10,
       "items": [
         {
-          "title": "Bitcoin Drops Below $63K Amid Middle East Tensions and Risk-Off Selling",
-          "summary": "Bitcoin fell 1.4% to trade just under $63,600 on July 17, continuing a second straight day of losses as Middle East tensions triggered fresh risk-off selling, with support now focused at $60,000.",
-          "source": "Bitcoin.com",
-          "url": "https://rsihunter.com/news"
+          "title": "Bitcoin Falls Below $63K Amid U.S.-Iran Conflict and AI Selloff",
+          "summary": "Bitcoin dropped over 2% to around $63,200 as escalating Middle East tensions and a global AI stock selloff triggered broad crypto market declines, with Ethereum falling 3.5% to $1,820 and Solana losing nearly 3% to $74[6].",
+          "source": "The Street",
+          "url": "https://www.thestreet.com/crypto/markets/latest-u-s-iran-conflict-sends-oil-up-and-crypto-tumbling"
         },
         {
-          "title": "Ethereum Slips 3.9% to $1,846 as CLARITY Act Doubts Weigh on Crypto Market",
-          "summary": "Ethereum fell 3.90% over the past 24 hours to trade around $1,846, while Polymarket traders cut odds of the Clarity Act's passage to record lows as Senate delays continue.",
-          "source": "Coinedition",
-          "url": "https://coinedition.com/news/"
+          "title": "European Authorities Seize $1.51B Cryptomixer Bitcoin-Mixing Service",
+          "summary": "Europol dismantled the Cryptomixer platform used by ransomware groups to launder bitcoin, seizing servers, data, and $29 million in BTC as part of a $1.51 billion operation targeting crypto-mixing services[1].",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/"
         },
         {
-          "title": "Nigeria Establishes Virtual Asset Commission with New Executive Order",
-          "summary": "Nigerian President Bola Tinubu signed an executive order creating a regulatory framework for virtual assets and establishing a Virtual Asset Committee chaired by the Central Bank of Nigeria.",
+          "title": "FTX Distributes $900 Million to Creditors in Fifth Payout Wave",
+          "summary": "FTX is distributing roughly $900 million to creditors in its fifth wave of payouts from the collapsed exchange, marking a significant step in the bankruptcy resolution process[2].",
+          "source": "The Block",
+          "url": "https://www.theblock.co/news"
+        },
+        {
+          "title": "T. Rowe Price Launches First Active Multi-Token Crypto ETF TKNZ on NYSE",
+          "summary": "Asset manager T. Rowe Price launched TKNZ, the first active multi-token crypto ETF on the NYSE, exposing investors to Bitcoin, Ethereum, XRP, and other cryptocurrencies with $1.89 trillion under management[3][5].",
+          "source": "CryptoRank",
+          "url": "https://cryptorank.io/news/feed/c92e8-24-hour-crypto-recap-heres-what-happened-in-the-market-16"
+        },
+        {
+          "title": "Polkadot Plunges 11% Breaking Below $2.05 Support Level",
+          "summary": "Polkadot (DOT) collapsed 11% to $2.02 amid a broader crypto selloff, breaking below the psychological $2.00 support level on massive trading volume[1].",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/"
+        },
+        {
+          "title": "US Senate Discusses Strategic Bitcoin Reserve Act to Purchase 1 Million BTC",
+          "summary": "The U.S. Senate is debating the Strategic Bitcoin Reserve Act, which intends to purchase 1 million BTC as part of a national strategic reserve initiative[4].",
           "source": "BBX",
           "url": "https://bbx.com/news"
         },
         {
-          "title": "FTX to Distribute $900 Million in Fifth Creditor Payout on July 31",
-          "summary": "FTX will launch its fifth round of creditor distributions on July 31, 2026, with approximately $900 million going to eligible creditors, marking a major step in its bankruptcy repayment process.",
-          "source": "Coinedition",
-          "url": "https://coinedition.com/news/"
+          "title": "Morgan Stanley Unlocks Bitcoin, Ethereum, and Solana Trading on E*TRADE",
+          "summary": "Morgan Stanley has enabled trading of Bitcoin, Ethereum, and Solana on the E*TRADE platform, expanding institutional access to major cryptocurrencies[7].",
+          "source": "Crypto.news",
+          "url": "https://crypto.news/"
         },
         {
-          "title": "Dutch Crypto Exchange Knaken Collapses After MiCA Rules Trigger Fund Losses",
-          "summary": "The collapse of Dutch cryptocurrency platform Knaken has raised fresh concerns about custodial crypto safety after millions in customer funds went missing following MiCA regulatory triggers.",
-          "source": "Blockchain.com",
-          "url": "https://www.blockchain.com/explorer/news"
+          "title": "Nigerian President Establishes Virtual Asset Regulatory Framework",
+          "summary": "Nigerian President Bola Tinubu signed an executive order creating a regulatory framework for virtual assets and establishing a virtual asset commission, with the CBN launching a regulatory sandbox[4].",
+          "source": "BBX",
+          "url": "https://bbx.com/news"
         },
         {
-          "title": "Ostium Loses $24 Million in Oracle Exploit Attack",
-          "summary": "DeFi protocol Ostium suffered at least $24 million in losses due to an oracle exploit, highlighting ongoing security vulnerabilities in decentralized finance infrastructure.",
-          "source": "Blockchain.com",
-          "url": "https://www.blockchain.com/explorer/news"
-        },
-        {
-          "title": "BONK Governance Attackers Move 1.626 Trillion Tokens to Centralized Exchanges",
-          "summary": "Wallets tied to the BONK governance incident have transferred a cumulative 1.626 trillion BONK tokens (worth ~$5.58 million) to centralized exchanges, with another 400 billion moved to Coinbase recently.",
+          "title": "Crypto.com Raises $400 Million from Citadel Securities at $20B Valuation",
+          "summary": "CEX Crypto.com raised $400 million from Citadel Securities at a $20 billion valuation, signaling continued institutional fundraising momentum despite cautious market sentiment[3].",
           "source": "CryptoRank",
-          "url": "https://cryptorank.io/news"
+          "url": "https://cryptorank.io/news/feed/c92e8-24-hour-crypto-recap-heres-what-happened-in-the-market-16"
         },
         {
-          "title": "Fidelity Launches Stablecoin FIDD on Platform and Crypto Exchanges",
-          "summary": "Fidelity is launching its own stablecoin, FIDD, which will be available on Fidelity's platform and major crypto exchanges, expanding the asset manager's digital currency offerings.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/cryptocurrency"
-        },
-        {
-          "title": "Uniswap Proposes Burning All New Protocol Fees via UNI Token",
-          "summary": "Uniswap submitted two governance proposals stating that all new protocol fees will be directed into the UNI burn mechanism, potentially increasing token scarcity.",
-          "source": "ChainCatcher",
-          "url": "https://www.chaincatcher.com/en/news"
-        },
-        {
-          "title": "Grayscale Updates Solana Staking ETF to Pay Quarterly Cash Rewards",
-          "summary": "Grayscale filed a prospectus supplement on July 17 to introduce mandatory quarterly cash distributions for its Grayscale Solana Staking ETF (GSOL), making it the first staking ETF to pay cash rewards.",
-          "source": "KuCoin",
-          "url": "https://www.kucoin.com/news/news-flash"
+          "title": "$431 Million in Crypto Liquidations as Market Cap Drops 2.1%",
+          "summary": "Aggregate cryptocurrency market capitalization declined 2.1% to $2.17 trillion with $431 million in liquidations over 24 hours amid AI selloff and Middle East tensions[10].",
+          "source": "RTT News",
+          "url": "https://www.rttnews.com/3668124/cryptos-slip-amidst-ai-selloff-middle-east-flare-up.aspx"
         }
       ],
       "citations": [
-        "https://www.blockchain.com/explorer/news",
+        "https://www.coindesk.com/",
+        "https://www.theblock.co/news",
+        "https://cryptorank.io/news/feed/c92e8-24-hour-crypto-recap-heres-what-happened-in-the-market-16",
         "https://bbx.com/news",
-        "https://www.analyticsinsight.net/cryptocurrency-analytics-insight",
-        "https://www.theverge.com/cryptocurrency",
-        "https://cryptorank.io/news",
+        "https://cryptoactu.com/en-direct/",
+        "https://www.thestreet.com/crypto/markets/latest-u-s-iran-conflict-sends-oil-up-and-crypto-tumbling",
+        "https://crypto.news/",
         "https://www.chaincatcher.com/en/news",
-        "https://coinedition.com/news/",
-        "https://rsihunter.com/news",
-        "https://www.kucoin.com/news/news-flash",
-        "https://cryptotickers.live/articles.php",
-        "https://www.youtube.com/watch?v=SZ9Ks_GKUAs"
+        "https://www.instagram.com/p/Da45wW5DreY/",
+        "https://www.rttnews.com/3668124/cryptos-slip-amidst-ai-selloff-middle-east-flare-up.aspx",
+        "https://www.youtube.com/watch?v=8xQWnk7qTIc"
       ]
     },
     "ai_news": {
@@ -408,110 +420,81 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 15,
+      "count": 10,
       "items": [
         {
-          "title": "OpenAI Releases ChatGPT-5.6 Family (Sol, Terra, Luna) with Enhanced Reasoning",
-          "summary": "OpenAI launched the ChatGPT-5.6 model family, including Sol, Terra, and Luna variants, featuring stronger multi-step reasoning and improved template adherence, rolling out globally within 24 hours.",
-          "source": "The New News in AI",
-          "url": "https://markmcneilly.substack.com/p/the-new-news-in-ai-71726-edition"
-        },
-        {
-          "title": "Chinese Startup Moonshot AI Unveils Kimi K3, World's Largest Open-Weight AI Model",
-          "summary": "Moonshot AI released Kimi K3, a 2.8 trillion-parameter open-weight model claiming performance approaching Anthropic's frontier Fable model and rivaling top U.S. systems.",
+          "title": "Chinese Startup Moonshot AI Releases Kimi K3, World's Largest Open-Weight AI Model",
+          "summary": "Moonshot AI unveiled Kimi K3, a 2.8-trillion-parameter Mixture-of-Experts model with a 1-million-token context window and native vision, claiming it is the world's first open 3T-class frontier model that rivals Anthropic's Fable.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "Anthropic Deploys Claude Sonnet 5 and Restores Fable and Mythos Models",
-          "summary": "Anthropic launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review.",
+          "title": "Mira Murati's Thinking Machines Lab Releases Open-Weight 'Inkling' Model",
+          "summary": "Thinking Machines Lab, led by former OpenAI executive Mira Murati, released Inkling, a 975B-parameter open-weight Mixture-of-Experts foundation model with 41B active parameters and native reasoning across text, images, audio, and video.",
+          "source": "AI Weekly",
+          "url": "https://aiweekly.co/ai-news-today"
+        },
+        {
+          "title": "OpenAI Unveils GPT-Red to Curb Prompt-Injection Attacks on GPT-5.6",
+          "summary": "OpenAI introduced GPT-Red, an automated red-teaming LLM that reduced prompt-injection attack success rates on GPT-5.6 from over 90% to 23%, significantly improving security against adversarial inputs.",
+          "source": "AI Weekly",
+          "url": "https://aiweekly.co/ai-news-today"
+        },
+        {
+          "title": "Meta and Anthropic in Talks for $10B Data Center Capacity Deal",
+          "summary": "The New York Times reports Meta is negotiating to rent computing capacity from its data centers to Anthropic in a potential deal worth roughly $10 billion over two years to support AI model training.",
+          "source": "AI Weekly",
+          "url": "https://aiweekly.co/ai-news-today"
+        },
+        {
+          "title": "SpaceX in Talks to Provide U.S. Defense with Billions in AI Data Center Capacity",
+          "summary": "Elon Musk's SpaceX is reportedly negotiating to provide the U.S. Department of Defense with access to data center capacity worth billions of dollars to run AI models, according to the Wall Street Journal.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/"
+        },
+        {
+          "title": "Anthropic Restores Access to Fable and Mythos Models After Export Control Review",
+          "summary": "Anthropic launched Claude Sonnet 5 and restored access to its frontier Fable and Mythos models following a federal export control review that had previously restricted them.",
           "source": "Artificial Intelligence News",
           "url": "https://www.artificialintelligence-news.com/"
         },
         {
-          "title": "Google DeepMind Releases Gemini 2.5 with 10M Token Context Window",
-          "summary": "Google DeepMind launched Gemini 2.5 on July 15, featuring a 10 million token context window, 92% MMLU score, and native video/code reasoning for long-context enterprise applications.",
-          "source": "NeuralStack",
-          "url": "https://www.neuralstack.network/"
+          "title": "Apple Overtakes Nvidia to Become World's Most Valuable Company Amid AI Reassessment",
+          "summary": "Apple surpassed Nvidia on Friday to become the world's most valuable company, reshuffling tech rankings as investors reassess the artificial intelligence outlook and Apple's AI system secured government approval in China.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "Apple Sues OpenAI for Stealing Trade Secrets in Hardware Development",
-          "summary": "Apple filed a federal lawsuit against OpenAI and two executives alleging theft of confidential information to develop competing devices, accusing OpenAI's chief hardware officer Tang Tan and technical staff member Chang Liu.",
-          "source": "The New News in AI",
-          "url": "https://markmcneilly.substack.com/p/the-new-news-in-ai-71726-edition"
+          "title": "Databricks Valued at $188B Following $3B Investment Led by Coatue Management",
+          "summary": "Investment firm Coatue Management is leading a $3 billion investment in data analytics provider Databricks, valuing the company at $188 billion, according to the Wall Street Journal.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "Mistral AI Releases Mistral Large 3 with 2M Token Context Window",
-          "summary": "Mistral AI launched Mistral Large 3 on July 15, featuring a 2 million token context window and a 92% MMLU score.",
-          "source": "NeuralStack",
-          "url": "https://www.neuralstack.network/"
-        },
-        {
-          "title": "Google Makes Veo 3 AI Video Creation Tool Widely Available",
-          "summary": "Google expanded access to its most powerful AI video creator, Veo 3, making it available for all users on its Vertex AI platform.",
-          "source": "Artificial Intelligence News",
-          "url": "https://www.artificialintelligence-news.com/"
+          "title": "EU Issues New Rules Requiring Google to Share Search Data and Open Android to Rival AI Companies",
+          "summary": "The European Union has issued new regulations requiring Google to share search data and open its Android system to rival AI companies to foster competition in the sector.",
+          "source": "AP News",
+          "url": "https://apnews.com/hub/artificial-intelligence"
         },
         {
           "title": "IBM Research Unveils Groundbreaking Analog AI Chip for Deep Neural Networks",
-          "summary": "IBM Research announced a new analog AI chip demonstrating remarkable efficiency and accuracy in performing complex computations for deep neural networks.",
+          "summary": "IBM Research announced a new analog AI chip demonstrating remarkable efficiency and accuracy in performing complex computations for deep neural networks, potentially advancing hardware capabilities for AI.",
           "source": "Artificial Intelligence News",
           "url": "https://www.artificialintelligence-news.com/"
-        },
-        {
-          "title": "Nvidia Announces Cosmos 3 Edge Model and Expands Physical AI Ecosystem in Japan",
-          "summary": "Nvidia unveiled Cosmos 3 Edge and expanded its physical AI ecosystems in Japan, partnering with Fujitsu to develop physical AI using Nvidia technology.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/ai-artificial-intelligence/"
-        },
-        {
-          "title": "US Senate Passes AI Export Control Act Restricting Advanced Chip Sales",
-          "summary": "The US Senate passed the AI Export Control Act on July 14, restricting sales of advanced AI chips and model weights above 100 billion parameters to certain countries, with enforcement starting September 1, 2026.",
-          "source": "NeuralStack",
-          "url": "https://www.neuralstack.network/"
-        },
-        {
-          "title": "MIT Researchers Achieve 96% on MATH Benchmark with New Reasoning Model",
-          "summary": "MIT researchers published a new reasoning architecture achieving 96% on the MATH benchmark, surpassing previous state-of-the-art by 11 percentage points using symbolic verification layers.",
-          "source": "NeuralStack",
-          "url": "https://www.neuralstack.network/"
-        },
-        {
-          "title": "Hugging Face Releases Transformers 5.0 with Native Multimodal Support",
-          "summary": "Hugging Face launched Transformers 5.0 on July 16, adding native multimodal model support and unified APIs for vision-language and audio-text models compatible with over 120,000 community models.",
-          "source": "NeuralStack",
-          "url": "https://www.neuralstack.network/"
-        },
-        {
-          "title": "SpaceX in Talks to Provide U.S. Defense with Billion-Dollar Data Center Capacity for AI",
-          "summary": "Elon Musk's SpaceX is negotiating to provide the U.S. Department of Defense with data center capacity worth billions to run AI models, according to Wall Street Journal reports.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/"
-        },
-        {
-          "title": "TSMC Plans Additional $100 Billion U.S. Investment Amid AI Infrastructure Surge",
-          "summary": "Taiwan's TSMC announced plans to invest another $100 billion expanding U.S. manufacturing capacity, driven by record earnings from global AI infrastructure demand.",
-          "source": "Wall Street Journal",
-          "url": "https://www.wsj.com/tech/ai"
-        },
-        {
-          "title": "New York Bans New Large AI Data Centers for Up to One Year",
-          "summary": "New York will block new large data centers fueling artificial intelligence for up to a year to protect the environment and energy grid.",
-          "source": "AP News",
-          "url": "https://apnews.com/hub/artificial-intelligence"
         }
       ],
       "citations": [
         "https://www.reuters.com/technology/artificial-intelligence/",
+        "https://aiweekly.co/ai-news-today",
         "https://www.wsj.com/tech/ai",
         "https://apnews.com/hub/artificial-intelligence",
+        "https://www.youtube.com/watch?v=8rGYGFmytQs",
+        "https://futuretools.io/news",
+        "https://www.scmp.com/topics/artificial-intelligence",
         "https://www.artificialintelligence-news.com/",
+        "https://www.youtube.com/watch?v=qW5UDpHZBPw",
         "https://www.cnbc.com/ai-artificial-intelligence/",
-        "https://www.neuralstack.network/",
-        "https://ground.news/interest/ai",
-        "https://markmcneilly.substack.com/p/the-new-news-in-ai-71726-edition",
-        "https://vonwallace.com/news/ai-threats-news.php",
-        "https://ifp.org/picking-the-right-challenges-for-genesis-mission/"
+        "https://www.youtube.com/watch?v=nWKiJHKIZfo"
       ]
     },
     "gaming": {
@@ -522,78 +505,77 @@
       "count": 10,
       "items": [
         {
-          "title": "Bethesda Confirms Obsidian Returning to Fallout Universe for New Game",
-          "summary": "Bethesda officially confirmed that Obsidian Entertainment, the studio behind Fallout: New Vegas, is returning to the post-apocalyptic universe to develop a new game, fulfilling fan requests dating back to 2010.",
+          "title": "Assassin's Creed Black Flag Resynced sells over 3 million copies in first week",
+          "summary": "Ubisoft's remake of Assassin's Creed 4: Black Flag has surpassed 3 million copies sold globally just one week after its July 9 launch, with over 100,000 peak concurrent players on Steam alone.",
           "source": "VGTimes",
           "url": "https://vgtimes.com/news/"
         },
         {
-          "title": "Assassin's Creed Shadows Cracked: Denuvo Protection Removed",
-          "summary": "The game Assassin's Creed Shadows has been cracked by voices38, allowing it to launch without Denuvo anti-tamper workarounds, marking the first time this specific protection has been broken for the title released in March 2025.",
+          "title": "Bethesda confirms Obsidian Entertainment is returning to Fallout with new game",
+          "summary": "Obsidian, the studio behind Fallout: New Vegas, has been officially confirmed by Bethesda to be developing a new post-apocalyptic game in the Fallout universe, marking their return to the franchise.",
           "source": "VGTimes",
           "url": "https://vgtimes.com/news/"
         },
         {
-          "title": "Battlefield 6 Season 4 and Title Update 1.4.1.0 Announced for July 21",
-          "summary": "EA and Battlefield Studios confirmed that Battlefield 6 Season 4 will arrive on July 21 across PC, PS5, and Xbox, coinciding with the release of Title Update 1.4.1.0.",
+          "title": "Final Fantasy XIV Mobile global release canceled, China servers closing September 2026",
+          "summary": "Square Enix and Tencent have canceled the planned global release of Final Fantasy XIV Mobile, with the Chinese version set to shut down on September 30, 2026, after just over a year of service.",
           "source": "VGTimes",
           "url": "https://vgtimes.com/news/"
         },
         {
-          "title": "Final Fantasy XIV Mobile Global Release Canceled, China Service Ends September 2026",
-          "summary": "LightSpeed Studios and Square Enix confirmed the global release of Final Fantasy XIV Mobile has been canceled, with the Chinese version set to remain online only until September 30, 2026.",
+          "title": "Battlefield 6 Season 4 'Pacific Front' launches July 21 with Top Gun: Maverick collaboration",
+          "summary": "EA and Battlefield Studios announced that Battlefield 6's fourth season will arrive July 21 on PC, PS5, and Xbox Series X/S, featuring a collaboration with Top Gun: Maverick starting August 18.",
           "source": "VGTimes",
           "url": "https://vgtimes.com/news/"
         },
         {
-          "title": "Assassin's Creed Black Flag Resynced Tops 3 Million Copies Sold",
-          "summary": "Ubisoft announced that the remake Assassin's Creed Black Flag Resynced has surpassed 3 million copies sold just one week after launch, with New Game Plus confirmed to be in development.",
-          "source": "GamingBolt",
-          "url": "https://gamingbolt.com/"
-        },
-        {
-          "title": "Gallipoli Tactical WWI Shooter Rescheduled for August 20 Release",
-          "summary": "Blackmill Games announced a new release date for its tactical World War I multiplayer shooter Gallipoli, now locked for August 20 on PS5, Xbox Series X/S, and PC.",
+          "title": "Zenless Zone Zero Version 3.1 update celebrates second anniversary with new agents and modes",
+          "summary": "HoYoverse revealed that Zenless Zone Zero's Version 3.1 update will launch July 29 across all platforms, featuring new agents, a permanent mode, events, and rewards for the game's second anniversary.",
           "source": "VGTimes",
           "url": "https://vgtimes.com/news/"
         },
         {
-          "title": "Zenless Zone Zero Version 3.1 Update Set for July 29 to Mark Second Anniversary",
-          "summary": "MiHoYo revealed that Zenless Zone Zero will receive its Version 3.1 update on July 29, 2026, featuring new agents, a permanent mode, and anniversary rewards across PC, PS5, mobile, and Xbox.",
+          "title": "Denuvo removed from Assassin's Creed Shadows, game now launches without workarounds",
+          "summary": "Fans' long-standing demand has been met as Denuvo has been removed from Assassin's Creed Shadows, allowing the game to launch directly without requiring any bypass methods.",
           "source": "VGTimes",
           "url": "https://vgtimes.com/news/"
         },
         {
-          "title": "T1 Dominates HLE 2-0 in MSI Championship Match",
-          "summary": "In major esports news, T1 swept HLE with a 2-0 victory in the MSI championship, securing a decisive win over their opponents.",
-          "source": "GamerSky",
-          "url": "https://www.gamersky.com/news/"
-        },
-        {
-          "title": "Skyrim Reaches 65 Million Copies Sold, Tying The Witcher 3",
-          "summary": "Bethesda Game Studios reported that The Elder Scrolls V: Skyrim has sold 65 million copies 15 years after launch, tying it with The Witcher 3 as one of gaming's all-time best sellers.",
+          "title": "Gallipoli tactical WWI shooter gets August 20 release date",
+          "summary": "Blackmill Games announced that Gallipoli, its 25v25 tactical World War I multiplayer shooter, will launch August 20 on PS5, Xbox Series X/S, and PC via Steam and Epic Games Store with a 25% launch discount.",
           "source": "VGTimes",
           "url": "https://vgtimes.com/news/"
         },
         {
-          "title": "Fallout 4 Sales Update: Over 35 Million Copies Sold Worldwide",
-          "summary": "Bethesda updated sales figures for Fallout 4, revealing the game has sold more than 35 million copies worldwide since its November 2015 release.",
-          "source": "VGTimes",
-          "url": "https://vgtimes.com/news/"
+          "title": "Xbox workers organize against layoffs as 1,600 jobs still at risk",
+          "summary": "Xbox employees are fighting back against ongoing layoffs, with approximately 1,600 jobs still potentially affected as the company continues its restructuring efforts.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=oUqtOgyTwHg"
+        },
+        {
+          "title": "Mortal Shell 2 sequel receives release date announcement",
+          "summary": "The sequel to the well-received Souls-like game Mortal Shell has officially received a release date announcement, continuing the franchise's journey.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=oUqtOgyTwHg"
+        },
+        {
+          "title": "Dent Attack becomes week's most acclaimed release with 88% OpenCritic score",
+          "summary": "Dent Attack, a unique game where players control a train instead of a person in a Tony Hawk-style gameplay, has received an 88% score on OpenCritic with 97% positive Steam reviews.",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=oUqtOgyTwHg"
         }
       ],
       "citations": [
+        "https://www.youtube.com/watch?v=oUqtOgyTwHg",
         "https://vgtimes.com/news/",
         "https://www.theverge.com/nintendo",
         "https://www.theverge.com/games",
         "https://gamingbolt.com/",
+        "https://www.gamereactor.eu/",
+        "https://vandal.elespanol.com/noticias/videojuegos",
         "https://www.newsweek.com/topic/nintendo",
-        "https://www.youtube.com/watch?v=NiaqF_hGZLU",
-        "https://gamemag.ru/",
-        "https://www.dsogaming.com/",
-        "https://www.gamersky.com/news/",
-        "https://nintendonews.com/",
-        "https://www.nytimes.com/video/world/middleeast/100000011037160/iran-war-us-strikes-bridges-hormuz.html"
+        "https://vgtimes.ru/news/",
+        "https://nintendonews.com/"
       ]
     },
     "tech_news": {
@@ -601,95 +583,81 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 12,
+      "count": 10,
       "items": [
         {
-          "title": "Apple Becomes World's Most Valuable Company, Overtaking Nvidia",
-          "summary": "Apple unseated Nvidia on Friday to become the world's most valuable company, reshuffling tech heavyweight rankings as investors reassess the outlook for artificial intelligence.",
+          "title": "Apple Becomes World's Most Valuable Company, Unseating Nvidia",
+          "summary": "Apple overtook Nvidia on Friday to become the world's most valuable company, marking a reshuffle in tech heavyweights as investors reassess the outlook for artificial intelligence investments.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/"
         },
         {
-          "title": "Apple Sues OpenAI Over Alleged Trade Secret Theft for AI Gadgets",
-          "summary": "Apple filed a bombshell lawsuit accusing OpenAI and two former employees of stealing trade secrets to develop the iPhone maker's own yet-to-be-unveiled AI hardware.",
+          "title": "Apple Sues OpenAI for Trade Secret Theft",
+          "summary": "Apple filed a bombshell lawsuit against OpenAI and two former employees, alleging they misappropriated trade secrets to develop the iPhone maker's own yet-to-be-unveiled AI hardware.",
+          "source": "CNN Business",
+          "url": "https://www.cnn.com/business/tech"
+        },
+        {
+          "title": "SpaceX in Talks to Provide Billions in Data Center Capacity to U.S. Defense",
+          "summary": "Elon Musk's SpaceX is negotiating to provide the U.S. Department of Defense with access to data center capacity worth billions of dollars to run AI models, according to the Wall Street Journal.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/"
         },
         {
-          "title": "Amazon Launches New Satellite Internet Service 'Leo' in South Africa by 2027",
-          "summary": "Amazon announced it will launch its new satellite internet service, Amazon Leo, in South Africa in 2027, expanding its connectivity footprint outside the US.",
+          "title": "Meta in Talks to Rent $10B Computing Power to Anthropic",
+          "summary": "Meta is reportedly negotiating to rent computing power from its data centers to Anthropic in a deal worth approximately $10 billion over two years, highlighting the scarcity of AI computing resources.",
+          "source": "Techmeme",
+          "url": "https://techmeme.com/index.html"
+        },
+        {
+          "title": "Judge Rejects Meta Employees' Bid to Block Layoffs Amid AI Discrimination Claims",
+          "summary": "A U.S. judge rejected a request by 26 Meta employees to block layoffs while they pursue claims that AI-powered tools targeted them for job cuts due to disabilities or medical leave.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/"
+        },
+        {
+          "title": "U.S. Justice Department Allows Federal Employees to Download TikTok",
+          "summary": "The U.S. Justice Department announced on Friday that federal employees are now permitted to download the short-video app TikTok on government devices.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/"
+        },
+        {
+          "title": "Asus Re-enters India's Android Tablet Market with Pad T3201",
+          "summary": "Asus is set to launch the Pad T3201 tablet in India on August 6, featuring a 12.2-inch OLED display and MediaTek Dimensity 8300 processor.",
+          "source": "NewsBytes",
+          "url": "https://www.newsbytesapp.com/news/science"
+        },
+        {
+          "title": "Databricks Hits $188B Valuation",
+          "summary": "Databricks has reached a valuation of $188 billion, extending its position as a leading second-tier player in the AI infrastructure space.",
+          "source": "Business Today",
+          "url": "https://www.businesstoday.in/technology"
+        },
+        {
+          "title": "San Francisco Orders Apple and Google to Remove AI Undressing Apps",
+          "summary": "San Francisco has issued an order requiring Apple and Google to remove 'nudify' apps from their platforms due to safety and privacy concerns.",
+          "source": "NewsBytes",
+          "url": "https://www.newsbytesapp.com/news/science"
+        },
+        {
+          "title": "European Union Issues New Rules Requiring Google to Share Search Data",
+          "summary": "The European Union has mandated that Google share search data and open its Android system to rival AI companies under new regulatory rules.",
           "source": "AP News",
           "url": "https://apnews.com/technology"
-        },
-        {
-          "title": "Verizon Fios Introduces New 5Gbps Home Plan",
-          "summary": "Verizon Fios launched a new 5Gbps home internet plan, which is more than twice as fast as its previous flagship 2Gbps plan.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        },
-        {
-          "title": "EU Forces Google to Open Android to Rival AI Chatbots and Share Search Data",
-          "summary": "The European Union issued new rules requiring Google to share internal search data with competitors and open its Android operating system to rival AI chatbots.",
-          "source": "AP News",
-          "url": "https://apnews.com/technology"
-        },
-        {
-          "title": "TSMC Plans $100 Billion Expansion of US Manufacturing Capacity",
-          "summary": "Major Taiwan chipmaker TSMC announced plans to invest another $100 billion to expand its manufacturing capacity in the United States.",
-          "source": "AP News",
-          "url": "https://apnews.com/technology"
-        },
-        {
-          "title": "GameStop Reveals Nearly 10% Ownership of eBay, Pushing for Buyout",
-          "summary": "GameStop disclosed in a regulatory filing that it owns nearly 10% of eBay, signaling its intent to proceed with plans to buy the e-commerce company despite a rejected unsolicited offer.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "U.S. Justice Department Allows Federal Employees to Download TikTok on Government Devices",
-          "summary": "The U.S. Justice Department announced Friday that federal employees can now download the short-video app TikTok on government devices.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "SpaceX in Talks to Provide DoD with Billions in Data Center Capacity for AI",
-          "summary": "Elon Musk's SpaceX is reportedly in talks to provide the U.S. Department of Defense with access to data center capacity worth billions of dollars to run AI models.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "Coca-Cola Halts US Operations of fairlife Due to Ransomware Attack",
-          "summary": "Coca-Cola has halted the US operations of its dairy company fairlife following a ransomware attack.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        },
-        {
-          "title": "Microsoft-Owned Bethesda Confirms Fallout 5 Has Entered Preproduction",
-          "summary": "Following turmoil at Xbox, Microsoft-owned Bethesda confirmed that Fallout 5 has officially entered preproduction.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
-        },
-        {
-          "title": "Japan's OHISAMA Mission Aims to Beam Wireless Electricity from Space to Earth by 2026",
-          "summary": "Japan is building the OHISAMA system to beam wireless electricity from space directly to Earth, with a satellite launch planned by 2026 to demonstrate the technology.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
         }
       ],
       "citations": [
-        "https://www.cnbc.com/technology/",
         "https://www.technewsworld.com/",
         "https://www.reuters.com/technology/",
+        "https://techmeme.com/index.html",
         "https://www.cnn.com/business/tech",
-        "https://www.pcmag.com/news",
-        "https://apnews.com/technology",
-        "https://www.bbc.com/news/topics/ce1qrvleleqt",
+        "https://www.cnbc.com/technology/",
         "https://nypost.com/tech/",
-        "https://werindia.com/science-and-technology",
+        "https://apnews.com/technology",
         "https://economictimes.indiatimes.com/tech",
-        "https://news.ycombinator.com/news",
-        "https://www.moneycontrol.com/news/business/information-technology/",
-        "https://www.instagram.com/reel/Da5RLY5AjDu/"
+        "https://www.newsbytesapp.com/news/science",
+        "https://werindia.com/science-and-technology",
+        "https://www.businesstoday.in/technology"
       ]
     }
   }
