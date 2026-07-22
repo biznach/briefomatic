@@ -1,20 +1,27 @@
 # Daily Briefing
 
-*Generated: 2026-07-22 13:45 UTC*
+*Generated: 2026-07-22 19:12 UTC*
 
-Here is your executive briefing:
+## Market Overview
+The market has seen significant movements in the past 24 hours, with Bitcoin pulling back from a one-month high and Ethereum experiencing a 0.5% decline. Oil prices have surged, topping $85, and inflation concerns have resurfaced. The US House has passed a short-term funding bill to avoid a pre-election government shutdown, reducing one immediate fiscal risk for markets.
 
-1. **Market Overview**: The global market is experiencing mixed sentiments, with U.S. stocks opening mixed and European shares slipping due to caution ahead of Big Tech earnings and Middle East tensions. Oil prices have surged due to supply risks and Iran war fears, contributing to renewed inflation concerns. The crypto market has extended its rally, with Bitcoin nearing $67,000 and the total market capitalization rising to about $2.26 trillion.
+## Tech & AI
+Notable tech and AI developments include the discussion of the Jacobian Conjecture Counterexample by Terrence Tao, the introduction of GigaToken, a faster language model tokenization, and the development of Bento, an entire PowerPoint in one HTML file. Additionally, there have been discussions on formal verification with Lean Part 1 and the importance of SIMD.
 
-2. **Tech & AI**: Notable developments include OpenAI and Hugging Face addressing a security incident during model evaluation, and the introduction of new AI models such as Kimi K3 and Gemini 3.6. Additionally, Jack Dorsey has launched Buzz, a platform combining team chat, AI agents, and Git hosting. The tech industry is also seeing significant advancements in areas like formal verification and AI-generated art.
+## Gaming & Entertainment
+There is no notable gaming news in the provided data.
 
-3. **Gaming & Entertainment**: There are no significant gaming news items in the provided data. However, it's worth noting that the tech and AI developments mentioned earlier may have implications for the gaming industry in the future.
+## Key Insights
+- Bitcoin has pulled back from a one-month high, with a decline of about 0.9%.
+- Ethereum has experienced a 0.5% decline.
+- The US-Iran tensions have led to an increase in oil prices, which in turn has affected the market.
+- The CLARITY Act progress and ETF inflows have contributed to Bitcoin's recent move.
+- The energy rally has boosted upstream producers, such as Equinor, which reported nearly doubled second-quarter profit.
 
-4. **Key Insights**:
-* The global market is experiencing increased caution ahead of Big Tech earnings and due to Middle East tensions.
-* Oil prices are surging due to supply risks and Iran war fears, contributing to renewed inflation concerns.
-* The crypto market is extending its rally, driven by improving sentiment and renewed optimism around U.S. crypto legislation.
-* AI and tech advancements are continuing at a rapid pace, with significant developments in areas like formal verification, AI-generated art, and new AI models.
-* Regulatory scrutiny of stablecoins and DeFi is increasing, with the BIS warning that dollar-backed stablecoins may allow users to bypass capital controls.
-
-5. **Watch List**: Items to monitor in the coming days include Big Tech earnings, oil prices and supply risks, crypto market movements and regulatory developments, AI and tech advancements, and global trade tensions. Additionally, the impact of the White House ethics deal on the Clarity Act and crypto legislation should be closely watched.
+## Watch List
+Items to monitor in the coming days include:
+- Bitcoin and Ethereum prices
+- Oil price movements and their impact on the market
+- The progress of the CLARITY Act and its potential impact on the crypto market
+- The development of new technologies, such as GigaToken and Bento
+- The performance of major companies, such as Equinor, and their impact on the market.
