@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T02:31:20.658010+00:00",
-  "generated_at_human": "2026-07-26 02:31 UTC",
+  "generated_at": "2026-07-26T08:21:58.895291+00:00",
+  "generated_at_human": "2026-07-26 08:21 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "Stolen Buttons",
-          "url": "https://anatolyzenkov.com/stolen-buttons",
-          "score": 590,
-          "comments": 141
+          "title": "A shell colon does nothing. Use it anyway",
+          "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+          "score": 125,
+          "comments": 42
         },
         {
-          "title": "Systems and Delays",
-          "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-          "score": 19,
-          "comments": 4
-        },
-        {
-          "title": "Clinical failure rates over the decades: yikes",
-          "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-          "score": 49,
-          "comments": 27
-        },
-        {
-          "title": "Cloudflare's new AI traffic options for customers",
-          "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-          "score": 42,
-          "comments": 15
-        },
-        {
-          "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-          "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-          "score": 129,
-          "comments": 51
-        },
-        {
-          "title": "SIMD for Collision",
-          "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
-          "score": 64,
-          "comments": 19
-        },
-        {
-          "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "score": 87,
-          "comments": 51
+          "title": "An ESP32 based plane radar for my desk",
+          "url": "https://blog.ktz.me/esp32-plane-radar/",
+          "score": 119,
+          "comments": 23
         },
         {
           "title": "The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "score": 172,
-          "comments": 119
+          "score": 306,
+          "comments": 187
+        },
+        {
+          "title": "Show HN: I mapped every US golf course",
+          "url": "https://golfcoursebrowser.com/",
+          "score": 113,
+          "comments": 57
+        },
+        {
+          "title": "Stinkpot: SQLite-backed shell history",
+          "url": "https://tangled.org/oppi.li/stinkpot",
+          "score": 42,
+          "comments": 9
         },
         {
           "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "score": 11,
-          "comments": 1
+          "score": 111,
+          "comments": 10
+        },
+        {
+          "title": "Some more things about Django I've been enjoying",
+          "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+          "score": 22,
+          "comments": 3
+        },
+        {
+          "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "score": 131,
+          "comments": 93
+        },
+        {
+          "title": "Cloudflare's new AI traffic options for customers",
+          "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+          "score": 108,
+          "comments": 75
+        },
+        {
+          "title": "Rethinking Legal Education in the AI Era",
+          "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+          "score": 68,
+          "comments": 31
+        },
+        {
+          "title": "GrapheneOS protections against data extraction from locked devices",
+          "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+          "score": 13,
+          "comments": 0
+        },
+        {
+          "title": "JetZero",
+          "url": "https://www.jetzero.aero",
+          "score": 186,
+          "comments": 144
+        },
+        {
+          "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+          "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+          "score": 58,
+          "comments": 15
         },
         {
           "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
           "url": "https://github.com/slvDev/esp32-ai",
-          "score": 83,
-          "comments": 17
-        },
-        {
-          "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-          "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-          "score": 97,
-          "comments": 66
-        },
-        {
-          "title": "Turn And Face The Strange",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-          "score": 146,
-          "comments": 111
-        },
-        {
-          "title": "Show HN: I made some transistor animations",
-          "url": "https://brandonli.net/semisim/animations",
-          "score": 136,
-          "comments": 15
-        },
-        {
-          "title": "LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "score": 81,
-          "comments": 75
-        },
-        {
-          "title": "Open-weight AI is having its Kubernetes moment",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-          "score": 314,
-          "comments": 257
-        },
-        {
-          "title": "GDID Windows – Cut the tracker that follows you even under VPN",
-          "url": "https://korben.info/en/gdid-windows-cut-tracker-vpn.html",
-          "score": 111,
-          "comments": 78
-        },
-        {
-          "title": "Memory Safety Absolutists",
-          "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-          "score": 60,
-          "comments": 75
+          "score": 168,
+          "comments": 37
         },
         {
           "title": "Git rebase -I is not that scary",
           "url": "https://cachebag.sh/journal/interactive-rebasing/",
-          "score": 13,
-          "comments": 4
+          "score": 57,
+          "comments": 53
+        },
+        {
+          "title": "Clinical failure rates over the decades: yikes",
+          "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+          "score": 95,
+          "comments": 69
+        },
+        {
+          "title": "Systems and Delays",
+          "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+          "score": 59,
+          "comments": 14
+        },
+        {
+          "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+          "url": "https://github.com/mulfyx/w4me-station",
+          "score": 15,
+          "comments": 2
+        },
+        {
+          "title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
+          "url": "https://github.com/jdefrancesco/dskDitto",
+          "score": 5,
+          "comments": 0
+        },
+        {
+          "title": "LLM Usage in Debian: Three Proposals",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "score": 142,
+          "comments": 121
+        },
+        {
+          "title": "What is happening to jobs? Separating AI hype from reality",
+          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+          "score": 78,
+          "comments": 83
+        },
+        {
+          "title": "SIMD for Collision",
+          "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+          "score": 89,
+          "comments": 27
+        },
+        {
+          "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+          "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+          "score": 171,
+          "comments": 72
+        },
+        {
+          "title": "Show HN: I made some transistor animations",
+          "url": "https://brandonli.net/semisim/animations",
+          "score": 174,
+          "comments": 21
         },
         {
           "title": "Show HN: Brolly, a plain-text weather forecast site",
           "url": "https://brolly.sh/forecast/RWFP2qW8",
-          "score": 136,
-          "comments": 45
-        },
-        {
-          "title": "Did They Ghost You?",
-          "url": "https://didtheyghostyou.com/",
-          "score": 304,
-          "comments": 135
-        },
-        {
-          "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
-          "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
-          "score": 301,
-          "comments": 93
-        },
-        {
-          "title": "Possible invasive species superspreader event near Strait of Hormuz",
-          "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
-          "score": 20,
-          "comments": 2
-        },
-        {
-          "title": "Multicast TV Distribution on My Home Network",
-          "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
-          "score": 41,
-          "comments": 11
-        },
-        {
-          "title": "Bitchat is now on Radicle",
-          "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-          "score": 214,
-          "comments": 127
-        },
-        {
-          "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
-          "url": "https://news.ycombinator.com/item?id=49051130",
-          "score": 33,
-          "comments": 11
+          "score": 181,
+          "comments": 55
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 64420,
-          "change_24h": 0.5,
+          "price": 64355,
+          "change_24h": 0.6,
           "change_7d": -0.5,
-          "market_cap": 1292405374005
+          "market_cap": 1291054517109
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1878.02,
-          "change_24h": 0.8,
-          "change_7d": 0.9,
-          "market_cap": 226644233855
+          "price": 1880.22,
+          "change_24h": 1.2,
+          "change_7d": 0.6,
+          "market_cap": 226909201880
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 74.75,
-          "change_24h": 0.8,
-          "change_7d": -1.0,
-          "market_cap": 43579439251
+          "price": 74.84,
+          "change_24h": 1.1,
+          "change_7d": -1.6,
+          "market_cap": 43631527909
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.072646,
-          "change_24h": 3.2,
-          "change_7d": -0.8,
-          "market_cap": 11274822193
+          "price": 0.073324,
+          "change_24h": 5.5,
+          "change_7d": 1.0,
+          "market_cap": 11381883346
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.165075,
-          "change_24h": 0.5,
-          "change_7d": -1.1,
-          "market_cap": 6156488162
+          "price": 0.16478,
+          "change_24h": 1.9,
+          "change_7d": -0.7,
+          "market_cap": 6146031368
         }
       ]
     },
@@ -212,54 +212,54 @@
       "count": 10,
       "items": [
         {
-          "name": "Euler",
-          "symbol": "EUL",
-          "market_cap_rank": 398
-        },
-        {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 112
+          "market_cap_rank": 110
         },
         {
-          "name": "DeXe",
-          "symbol": "DEXE",
-          "market_cap_rank": 172
-        },
-        {
-          "name": "Lorenzo Protocol",
-          "symbol": "BANK",
-          "market_cap_rank": 195
-        },
-        {
-          "name": "Pons",
-          "symbol": "PONS",
-          "market_cap_rank": 573
-        },
-        {
-          "name": "The Black Bull",
-          "symbol": "ANSEM",
-          "market_cap_rank": 296
-        },
-        {
-          "name": "Cash Cat",
-          "symbol": "CASHCAT",
-          "market_cap_rank": 424
+          "name": "BitMart",
+          "symbol": "BMX",
+          "market_cap_rank": 667
         },
         {
           "name": "Shiba Inu",
           "symbol": "SHIB",
-          "market_cap_rank": 29
+          "market_cap_rank": 28
         },
         {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
+          "name": "The Black Bull",
+          "symbol": "ANSEM",
+          "market_cap_rank": 293
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "DeXe",
+          "symbol": "DEXE",
+          "market_cap_rank": 181
+        },
+        {
+          "name": "Euler",
+          "symbol": "EUL",
+          "market_cap_rank": 382
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Pons",
+          "symbol": "PONS",
+          "market_cap_rank": 536
+        },
+        {
+          "name": "Cash Cat",
+          "symbol": "CASHCAT",
+          "market_cap_rank": 457
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 10
         }
       ]
     },
@@ -268,66 +268,21 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 7,
-      "items": [
-        {
-          "title": "Global markets whipsawed by renewed U.S.-Iran tensions and surging oil",
-          "summary": "Reuters reported that U.S. stock futures, European shares, and Asian equities were shaped by renewed Middle East conflict, while oil prices jumped and bonds sold off as investors reassessed inflation and supply risks. The coverage also noted firmer safe-haven demand for the dollar and a jump in Japan’s 10-year government bond yield to a 30-year high.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/markets/econ-world/"
-        },
-        {
-          "title": "IMF cuts 2026 global growth forecast after Iran war fallout",
-          "summary": "Al Jazeera reported that the IMF lowered its 2026 world growth outlook to 3% and linked the downgrade to the economic fallout from the Iran conflict. The report said AI-related demand partly offset the energy shock, but higher oil prices still pressured travel and other fuel-sensitive sectors.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/"
-        },
-        {
-          "title": "Fed officials signal concern about inflation, leaving rate path uncertain",
-          "summary": "The Financial Times reported that some Federal Reserve officials saw a need for future rate increases to contain inflation. That reinforced market attention on the Fed’s next move as inflation-sensitive assets and Treasury yields remained volatile.",
-          "source": "Financial Times",
-          "url": "https://www.ft.com/global-economy"
-        },
-        {
-          "title": "U.S. labor and housing data show a mixed macro backdrop",
-          "summary": "Investing.com’s economic calendar showed initial jobless claims at 215,000, continuing claims at 1.814 million, and existing home sales at 4.09 million, alongside a speech from FOMC member Williams. The same calendar highlighted upcoming high-impact events such as central bank decisions, GDP, CPI, and unemployment data.",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/economic-calendar"
-        },
-        {
-          "title": "PepsiCo tops revenue expectations as consumers tighten spending",
-          "summary": "Yahoo Finance reported that PepsiCo posted stronger-than-expected second-quarter revenue despite weaker demand in North America. The company said consumers were tightening budgets because of broader economic concerns.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/"
-        },
-        {
-          "title": "Travel and oil-sensitive stocks move on crude spike after ceasefire collapse",
-          "summary": "Yahoo Finance said crude oil rose sharply after the ceasefire broke, with WTI and gasoline futures both posting strong gains. The report noted that travel stocks were hit while energy shares benefited from the move.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/"
-        },
-        {
-          "title": "Chip stocks rebound in premarket trading",
-          "summary": "CNBC reported that chip stocks were jumping again in premarket trading, alongside notable moves in names such as AstraZeneca, PepsiCo, Salesforce, and Levi. The report pointed to another volatile session for equity leadership groups.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/world/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
         "https://www.reuters.com/markets/econ-world/",
+        "https://www.marketwatch.com/economy-politics/calendar",
+        "https://economictimes.com/news/economy",
         "https://www.aljazeera.com/economy/",
         "https://www.ft.com/global-economy",
+        "https://uk.marketscreener.com/news/topics/economy/",
         "https://finance.yahoo.com/economy/",
-        "https://tradingeconomics.com/united-states/calendar",
-        "https://www.youtube.com/watch?v=YfE5XZXdccg",
-        "https://www.moneycontrol.com/news/business/economy/",
-        "https://it.investing.com/economic-calendar",
+        "https://www.youtube.com/watch?v=McKTuWYzXgg",
         "https://www.cnbc.com/world/",
-        "https://cryptorank.io/news/feed/36f18-top-five-trump-news-this-week",
-        "https://www.investing.com/economic-calendar",
         "https://www.instagram.com/reel/DbOUvuJBzFM/",
-        "https://www.facebook.com/WorldHerald/posts/federal-reserve-chair-kevin-warsh-is-committed-to-returning-inflation-to-the-fed/1337841551866793/",
-        "https://www.youtube.com/watch?v=McKTuWYzXgg"
+        "https://cryptorank.io/news/feed/36f18-top-five-trump-news-this-week",
+        "https://www.investing.com/economic-calendar"
       ]
     },
     "crypto_news": {
@@ -335,58 +290,68 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 8,
       "items": [
         {
-          "title": "Bitcoin slides below $64,000 as weak demand and risk appetite weigh on crypto markets",
-          "summary": "Bitcoin fell about 2% to 2.3% in the past 24 hours, briefly slipping below $64,000 and trading near $63,800 to $63,900 as stablecoin inflows weakened and broader risk sentiment stayed fragile. Ether also underperformed, with multiple market trackers reporting declines across major crypto assets.",
+          "title": "Bitcoin slips below $64K as weak stablecoin inflows signal softer demand",
+          "summary": "Bitcoin fell about 2.3% over 24 hours and traded near $63,919, with broader crypto markets also lower. The move came alongside weakening stablecoin inflows and ongoing uncertainty around U.S. market structure legislation.",
           "source": "Yahoo Finance / Investing.com",
-          "url": "https://ca.finance.yahoo.com/news/bitcoin-price-today-falls-below-093809617.html"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-falls-below-64-092743128.html"
         },
         {
-          "title": "U.S. crypto market structure bill faces fresh setbacks in the Senate",
-          "summary": "The Digital Asset Market Clarity Act is still struggling to secure enough Senate support, with Democrats objecting to ethics provisions tied to President Trump's crypto interests. Senate Majority Leader John Thune said passage before the summer recess was unlikely.",
-          "source": "Yahoo Finance / CoinDesk",
-          "url": "https://ca.finance.yahoo.com/news/bitcoin-price-today-falls-below-093809617.html"
+          "title": "Bitcoin ETFs see $240 million in outflows, led by BlackRock’s IBIT",
+          "summary": "U.S. spot Bitcoin ETFs recorded $240 million in net outflows, with BlackRock’s IBIT accounting for $212 million of the withdrawals. The flows add to recent pressure on Bitcoin and ETF demand.",
+          "source": "CryptoRank",
+          "url": "https://cryptorank.io/news/feed/c6c34-24-hour-crypto-recap-heres-what-happened-in-the-market-21"
         },
         {
-          "title": "EU reportedly preparing to reopen MiCA rulebook for non-EU stablecoin issuers",
-          "summary": "European Union diplomats told Euronews that the bloc is preparing to revisit its Markets in Crypto-Assets framework, potentially in 2027, to tighten rules for stablecoin issuers outside the EU. The move would add another layer of regulatory scrutiny to the global stablecoin market.",
-          "source": "Gate News",
-          "url": "https://www.gate.com/news"
+          "title": "Coinbase reshuffles senior leadership ahead of key legal and regulatory battles",
+          "summary": "Coinbase announced leadership changes, including departures in legal, HR, and Base-related roles. The move comes as the exchange faces heightened scrutiny and a crucial CLARITY Act vote.",
+          "source": "CryptoRank",
+          "url": "https://cryptorank.io/news/feed/c6c34-24-hour-crypto-recap-heres-what-happened-in-the-market-21"
         },
         {
-          "title": "Gate says customer external information may have been leaked in recent security incident",
-          "summary": "Gate issued a response to a recent security event, saying customer external information was exposed and that it had begun tracing the flow of funds. The disclosure adds to concerns about exchange security and operational risk in the sector.",
-          "source": "Odaily",
-          "url": "https://www.odaily.news/newsflash"
+          "title": "CLARITY Act passage odds cut as Senate vote concerns grow",
+          "summary": "Galaxy Research lowered the odds of the U.S. CLARITY Act passing in 2026 to 30% amid concerns about Senate support. The bill remains a key market-structure proposal for digital assets, stablecoin rewards, and DeFi rules.",
+          "source": "CryptoRank / Yahoo Finance",
+          "url": "https://cryptorank.io/news/feed/c6c34-24-hour-crypto-recap-heres-what-happened-in-the-market-21"
         },
         {
-          "title": "BlackRock reportedly moves $256.8 million in BTC and ETH to Coinbase",
-          "summary": "Odaily reported that BlackRock deposited a combined $256.8 million worth of Bitcoin and Ether to Coinbase over the past 24 hours. The transfer stood out as one of the larger notable institutional blockchain transactions in the day’s news flow.",
-          "source": "Odaily",
-          "url": "https://www.odaily.news/en/newsflash"
+          "title": "Bitcoin climbs above $63K as easing oil prices lift risk appetite",
+          "summary": "Crypto.news reported Bitcoin trading above $63,000 as falling oil prices improved risk sentiment. The broader market remained mixed, but Bitcoin showed relative resilience compared with some altcoins.",
+          "source": "crypto.news",
+          "url": "https://crypto.news/"
         },
         {
-          "title": "MARA acquires majority stake in Texas 2,000 MW computing-campus project",
-          "summary": "MARA said it will spend up to $600 million to acquire a majority stake in a Texas project company tied to a 2,000 MW compute campus. The deal underscores continued expansion in Bitcoin mining infrastructure and energy-intensive data-center development.",
-          "source": "Odaily",
-          "url": "https://www.odaily.news/newsflash"
+          "title": "Hong Kong SFC forces crypto platforms to drop SMS authentication",
+          "summary": "Hong Kong’s securities regulator ordered crypto platforms to phase out SMS-based authentication, reflecting tighter operational security requirements. The rule change is part of a broader push to harden digital-asset platform safeguards.",
+          "source": "crypto.news",
+          "url": "https://crypto.news/"
+        },
+        {
+          "title": "XRP sees price pressure even as Ripple expands institutional RLUSD tools",
+          "summary": "XRP was down slightly over 24 hours and saw heavy long liquidations, while Ripple launched Ripple Mint to help institutions mint, redeem, and manage RLUSD. The development underscores continued product expansion around Ripple’s stablecoin ecosystem.",
+          "source": "CryptoNews.net",
+          "url": "https://cryptonews.net/news/analytics/33201892/"
+        },
+        {
+          "title": "Bitdeer unveils $36 million Nevada factory to expand Bitcoin mining",
+          "summary": "Bitdeer announced a new $36 million factory in Nevada aimed at strengthening its Bitcoin mining operations. The project adds to continued infrastructure investment in the mining sector.",
+          "source": "crypto.news",
+          "url": "https://crypto.news/"
         }
       ],
       "citations": [
-        "https://cryptorank.io/news",
+        "https://cryptorank.io/news/feed/c6c34-24-hour-crypto-recap-heres-what-happened-in-the-market-21",
+        "https://www.interactivecrypto.com/news/crypto",
+        "https://crypto.news/",
         "https://rsihunter.com/news",
-        "https://economictimes.com/markets/cryptocurrency/bitcoin-stays-near-64k-ethereum-underperforms-as-weak-risk-appetite-keeps-crypto-markets-under-pressure/articleshow/132621788.cms",
-        "https://drimble.nl/dossiers/crypto/",
-        "https://www.gate.com/news",
-        "https://www.odaily.news/newsflash",
-        "https://www.kucoin.com/news/news-flash",
-        "https://news.bitcoin.com/ar/",
-        "https://www.odaily.news/en/newsflash",
-        "https://news.bitcoin.com/ko/",
-        "https://ca.finance.yahoo.com/news/bitcoin-price-today-falls-below-093809617.html",
-        "https://www.chaincatcher.com/en/news",
+        "https://newsbit.de/",
+        "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-falls-below-64-092743128.html",
+        "https://cryptonews.net/news/analytics/33201892/",
+        "https://crypto.news/news/",
+        "https://bbx.com/news",
+        "https://coinstats.app/news/",
         "https://www.youtube.com/watch?v=McKTuWYzXgg"
       ]
     },
@@ -395,81 +360,66 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 8,
       "items": [
         {
-          "title": "OpenAI launches ChatGPT Work for workplace automation",
-          "summary": "OpenAI unveiled ChatGPT Work, an agent designed to execute tasks across different applications and files, expanding its push into professional AI tools. The release intensifies competition with Anthropic and other enterprise AI providers.",
+          "title": "OpenAI launches ChatGPT Work for cross-app task automation",
+          "summary": "OpenAI unveiled ChatGPT Work, an agent designed to gather context across apps and files and create documents on Mac and Windows, signaling a push deeper into workplace automation. The release intensifies competition in professional AI tools.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "OpenAI releases GPT-Live voice models for real-time conversation",
-          "summary": "OpenAI launched GPT-Live, a new family of voice models that can listen and speak simultaneously in real time. The company says the capability is aimed at more natural live conversation and translation use cases.",
+          "title": "OpenAI releases GPT-Live, a real-time voice model family",
+          "summary": "OpenAI launched GPT-Live, a new family of voice models that can listen and speak simultaneously in real time. The rollout extends to multiple consumer tiers and highlights rapid progress in conversational AI.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "Meta opens developer access to Muse Spark 1.1",
-          "summary": "Meta released developer access to its Muse Spark AI model and an upgraded version, positioning it more directly against paid AI offerings from Anthropic and OpenAI. The move broadens access to Meta’s latest model line.",
+          "title": "Meta opens developer access to Muse Spark and upgrades the model",
+          "summary": "Meta released long-awaited developer access to its Muse Spark AI model and introduced an upgraded version. The move positions Meta more directly against Anthropic and OpenAI in paid model access.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "SpaceXAI launches Grok 4.5 for coding and agentic tasks",
-          "summary": "SpaceXAI released Grok 4.5, which it described as its most intelligent model to date. The company says the model is designed for coding and agentic tasks.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/"
-        },
-        {
-          "title": "U.S. lifts restrictions on Anthropic’s latest Claude models",
-          "summary": "The Trump administration lifted restrictions on Anthropic’s latest versions of its Claude chatbot after a cybersecurity-related pause. Reuters reported the move as part of a broader reassessment of access to advanced AI systems.",
-          "source": "AP News",
-          "url": "https://apnews.com/hub/artificial-intelligence"
-        },
-        {
-          "title": "Anthropic appoints Ben Bernanke to Long-Term Benefit Trust",
-          "summary": "Anthropic said it appointed former U.S. Federal Reserve chair Ben Bernanke to its Long-Term Benefit Trust, an oversight body tasked with ensuring the company stays aligned with its public mission. The appointment adds a high-profile governance figure to Anthropic’s structure.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/"
-        },
-        {
-          "title": "Meta plans to begin manufacturing an AI chip in September",
-          "summary": "Reuters reported that Meta plans to start manufacturing an artificial intelligence chip from September, according to an internal memo. The company is also targeting major expansion in computing power to support its AI efforts.",
+          "title": "Meta plans in-house AI chip manufacturing starting in September",
+          "summary": "Reuters reported that Meta plans to begin manufacturing an artificial intelligence chip in September, according to an internal memo. The effort is part of its broader plan to expand computing capacity for AI workloads.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
           "title": "Micron announces more than $250 billion U.S. investment through 2035",
-          "summary": "Micron said it plans to invest more than $250 billion in the United States through 2035, citing surging demand for memory chips in the AI era. The announcement underscores continued infrastructure spending tied to AI growth.",
+          "summary": "Micron said it plans to invest over $250 billion in the United States through 2035, citing surging AI-driven demand for memory chips. The announcement underscores how AI continues to reshape semiconductor investment.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "Meta to build first Canadian data center in Alberta",
-          "summary": "Meta announced it will build a massive data center in central Alberta, its first in Canada. The project reflects the company’s ongoing expansion of compute infrastructure for AI workloads.",
+          "title": "SpaceXAI launches Grok 4.5 for coding and agentic tasks",
+          "summary": "SpaceXAI launched the Grok 4.5 model, describing it as its most intelligent model to date and targeting coding and agentic tasks. The release adds to the fast pace of frontier model competition.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "OpenAI faces new copyright sanctions motion in ChatGPT lawsuit",
-          "summary": "The New York Times and other news publishers filed a new motion accusing OpenAI of hiding tools and datasets that could identify copyrighted journalism in ChatGPT outputs. The filing escalates the broader copyright dispute around generative AI training and outputs.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/category/artificial-intelligence/"
+          "title": "Anthropic appoints Ben Bernanke to its Long-Term Benefit Trust",
+          "summary": "Anthropic named former U.S. Federal Reserve chair Ben Bernanke to its Long-Term Benefit Trust, the oversight body charged with keeping the company aligned with its public mission. The appointment is part of Anthropic’s governance and safety positioning.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/"
+        },
+        {
+          "title": "Google, Meta, OpenAI and others continue intensifying AI infrastructure race",
+          "summary": "Recent coverage points to a broader industry trend of soaring compute investment, new data center builds, and custom chips as major AI companies race to expand capacity. The pattern reflects how infrastructure has become central to model development and deployment.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/"
         }
       ],
       "citations": [
         "https://www.reuters.com/technology/artificial-intelligence/",
-        "https://economictimes.com/tech/artificial-intelligence",
-        "https://techcrunch.com/category/artificial-intelligence/",
-        "https://apnews.com/hub/artificial-intelligence",
-        "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+        "https://aibriefing.dev/",
+        "https://www.techmeme.com/?full=t",
+        "https://abcnews.com/Technology/wireStory/cheaper-open-intelligent-chinese-ai-models-gain-ground-135094600",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence",
+        "https://www.moneycontrol.com/artificial-intelligence/",
         "https://arstechnica.com/ai/",
-        "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
-        "https://vonwallace.com/news/ai-threats-news.php",
-        "https://www.artificialintelligence-news.com/",
-        "https://aiweekly.co/ai-news-today",
-        "https://www.cnbc.com/ai-artificial-intelligence/"
+        "https://aiweekly.co/ai-news-today"
       ]
     },
     "gaming": {
@@ -477,72 +427,90 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 12,
       "items": [
         {
-          "title": "Microsoft gaming cuts deepen, with studio closures and layoffs reported",
-          "summary": "Reports from the past day say Xbox has cut jobs across multiple teams, including the closure of an IO Interactive studio and major restructuring that has affected several studios. The Verge also reports Microsoft is selling off four Xbox studios as part of broader gaming cuts.",
-          "source": "The Verge / IGN",
-          "url": "https://www.theverge.com/games"
+          "title": "IO Interactive to close one studio after Xbox pulls funding from project",
+          "summary": "IO Interactive, the studio behind Hitman and 007: First Light, will shut down one of its studios and lay off staff after Xbox withdrew funding for an upcoming project. The move adds to a turbulent period for game development and publishing tied to platform-holder investment decisions.",
+          "source": "IGN",
+          "url": "https://www.ign.com/uk"
         },
         {
-          "title": "Capcom moves up Onimusha: Way of the Sword release date",
-          "summary": "Capcom has advanced the launch of Onimusha: Way of the Sword to September 4, earlier than its previously planned September 25 release. This is one of the biggest release-date changes in the latest wave of game news.",
+          "title": "Xbox Game Pass growth reportedly fell short of Microsoft’s targets",
+          "summary": "Xbox CEO Asha Sharma reportedly acknowledged that Game Pass has not grown as Microsoft expected, with reports saying the service is tens of millions of subscribers short of earlier targets. The update highlights ongoing pressure on Microsoft’s subscription strategy.",
+          "source": "IGN",
+          "url": "https://www.ign.com/uk"
+        },
+        {
+          "title": "Sony’s move away from physical PlayStation discs sparks backlash",
+          "summary": "Sony’s decision to end physical discs on PlayStation consoles continues to draw criticism, with its first related tweet facing a negative response. The issue has also fueled a growing consumer petition opposing the shift to digital-only releases.",
           "source": "The Verge",
           "url": "https://www.theverge.com/games"
         },
         {
-          "title": "Nintendo confirms Mario Kart Tour shutdown",
-          "summary": "Nintendo has confirmed that Mario Kart Tour will be shut down this September after seven years of service, and there will be no offline version. The announcement marks another major mobile-game sunset from Nintendo.",
+          "title": "Double Fine and Compulsion Games reportedly going independent",
+          "summary": "Reports say Double Fine and Compulsion Games are becoming independent as part of a broader restructuring tied to Microsoft’s gaming business. The same reporting also says Microsoft is selling Ninja Theory and Undead Labs.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games"
+        },
+        {
+          "title": "Xbox layoffs reportedly hit id Software and Obsidian",
+          "summary": "VGC reports that Microsoft’s latest cuts may have significantly affected id Software’s coding team and reduced staff at Obsidian by 60 to 70 developers. The scale of the layoffs suggests broader cost-cutting across Xbox’s first-party operations.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "IO confirms Project Fantasy will continue independently",
+          "summary": "VGC reports that IO Interactive has confirmed Project Fantasy will keep moving forward independently after the split with Xbox. The project remains in development despite the funding change.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "WayForward announces next Shantae game",
+          "summary": "WayForward revealed a new Shantae game at Anime Expo and gave it a 2027 release window. The announcement adds another long-running indie franchise entry to the pipeline.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "Nintendo of Europe to stop selling the Nintendo Switch in 2027",
+          "summary": "VGC reports that Nintendo of Europe will end sales of the original Switch on its store in February 2027. The report also says Nintendo has confirmed a Switch 2 revision with replaceable batteries in Europe to meet new EU rules.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "Pokémon Go marks its 10th anniversary with live event coverage",
+          "summary": "IGN is covering Pokémon Go’s 10th anniversary livestream, where Niantic is expected to make live announcements and reveal surprises. The event is one of the day’s biggest mobile-game moments.",
           "source": "IGN",
           "url": "https://www.ign.com/news"
         },
         {
-          "title": "Assassin’s Creed Black Flag Resynced launches on consoles",
-          "summary": "A restored version of Assassin’s Creed Black Flag Resynced went live on PlayStation 5 and Xbox Series X|S, with the PC release following later due to Steam timing differences. Early reports say the game has already posted a strong Steam player peak.",
-          "source": "IGN / GameMAG / Gry Online",
-          "url": "https://www.ign.com/news"
-        },
-        {
-          "title": "DOOM: The Dark Ages gets story DLC update",
-          "summary": "Developers have released a narrative expansion for DOOM: The Dark Ages, bringing paid content and a major update to PlayStation 5, Xbox Series X|S, and PC. It is one of the main game content drops mentioned in current industry coverage.",
-          "source": "GameMAG",
-          "url": "https://gamemag.ru/"
-        },
-        {
-          "title": "Pokémon GO holds 10th anniversary live event",
-          "summary": "Pokémon GO marked its 10th anniversary with a special livestream featuring announcements and surprises. Coverage indicates the event included live reveals tied to the mobile game’s milestone.",
+          "title": "Call of Duty: Black Ops 1 and 2 ports release on PS4 and PS5",
+          "summary": "IGN reports that Call of Duty: Black Ops 1 and 2 are now available on PS4 and PS5. The launch gives PlayStation players access to two classic entries, though the price point has drawn attention.",
           "source": "IGN",
           "url": "https://www.ign.com/news"
         },
         {
-          "title": "GTA Online’s next big update announced for next week",
-          "summary": "Rockstar’s next GTA Online update, The Kortz Center Heist, is scheduled for release next week. Fans have already found Rockstar-related Easter eggs in the lead-up.",
+          "title": "Assassin’s Creed Black Flag Resynced sees strong Steam launch",
+          "summary": "IGN says Assassin’s Creed Black Flag Resynced has reached around 100,000 concurrent players on Steam, giving it the series’ biggest Steam peak so far. The result points to continued interest in the franchise’s older entries.",
           "source": "IGN",
           "url": "https://www.ign.com/news"
         },
         {
-          "title": "Nintendo expands classic game catalog with more retro titles",
-          "summary": "IGN reports that Nintendo added Wario Land: Super Mario Land 3 to its classic game catalog, alongside additional retro titles from the Game Boy and Game Boy Advance libraries. This continues Nintendo’s ongoing retro library rollout.",
+          "title": "GTA Online’s next major update set for next week",
+          "summary": "IGN reports that GTA Online’s Kortz Center Heist update will release next week. Fans have already spotted multiple Rockstar-related Easter eggs tied to the new content.",
           "source": "IGN",
-          "url": "https://www.ign.com/nintendo"
+          "url": "https://www.ign.com/news"
         }
       ],
       "citations": [
         "https://www.ign.com/uk",
+        "https://gamerant.com/gaming/",
         "https://www.ign.com/news",
         "https://www.theverge.com/games",
-        "https://www.youtube.com/watch?v=jM3HR5s4fQc",
+        "https://www.videogameschronicle.com/category/news/",
         "https://arstechnica.com/gaming/",
-        "https://gamemag.ru/",
-        "https://www.pcgamer.com/games/",
-        "https://www.newsweek.com/topic/nintendo",
-        "https://www.ign.com/nintendo",
-        "https://www.theverge.com/games-review",
-        "https://ixbt.games/news",
-        "https://www.youtube.com/watch?v=CrbHZDIAJ3k",
-        "https://www.gry-online.pl/newsroom/",
-        "https://www.gamebusiness.jp/"
+        "https://www.gamekult.com/actualite.html",
+        "https://wccftech.com/topic/games/"
       ]
     },
     "tech_news": {
@@ -553,65 +521,66 @@
       "count": 8,
       "items": [
         {
-          "title": "Swift launches blockchain-based shared ledger with 16 banks",
-          "summary": "Swift unveiled a blockchain-based shared ledger with an initial group of 16 banks, including Citi and HSBC, to enable around-the-clock payments and compete with stablecoin-driven payment systems.",
+          "title": "Swift launches blockchain-based shared ledger for round-the-clock payments",
+          "summary": "Swift unveiled a blockchain-based shared ledger with 16 banks, including Citi and HSBC, to support 24/7 cross-border payments and compete with stablecoin-based systems.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/"
         },
         {
-          "title": "India removes import duties on some electronics and smartphone parts",
-          "summary": "India scrapped import duties on selected mobile phone and electronics components, a move that could lower costs for manufacturers such as Apple and Xiaomi.",
+          "title": "India removes import duty on some electronics and smartphone parts",
+          "summary": "India scrapped import duties on certain mobile phone and electronics components, a move that could lower costs for manufacturers such as Apple and Xiaomi.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/"
         },
         {
-          "title": "Apple to spend more than $30 billion under Broadcom chip-supply agreement",
-          "summary": "Apple said it will spend more than $30 billion as part of a chip-supply agreement with Broadcom, which will also expand a factory in Colorado.",
+          "title": "Apple and Broadcom expand chip supply agreement",
+          "summary": "Apple said it will spend more than $30 billion under a chip-supply deal with Broadcom, which also includes an expansion of a factory in Colorado.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/"
         },
         {
-          "title": "Meta plans in-house manufacturing for new AI glasses",
-          "summary": "Meta announced a new line of smart glasses designed in-house, signaling a deeper push into wearable tech and a more direct hardware strategy.",
+          "title": "Meta to begin manufacturing an AI chip in September",
+          "summary": "Reuters reported that Meta plans to start manufacturing its own AI chip from September as part of a broader effort to expand computing capacity.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/"
+        },
+        {
+          "title": "Meta launches in-house smart glasses",
+          "summary": "Meta introduced a new line of smart glasses designed in-house, signaling a deeper push into wearable technology.",
           "source": "CNN Business",
           "url": "https://www.cnn.com/business/tech"
         },
         {
-          "title": "Microsoft lays off nearly 5,000 workers, most in Xbox division",
-          "summary": "Microsoft is cutting about 3,200 jobs across its Xbox business as it restructures the division and reallocates resources toward artificial intelligence and broader business priorities.",
+          "title": "Microsoft cuts nearly 5,000 jobs, mostly in Xbox",
+          "summary": "Microsoft announced a major layoff round affecting about 5,000 workers, with most cuts concentrated in its Xbox division as it restructures the business.",
           "source": "New York Post",
           "url": "https://nypost.com/tech/"
         },
         {
-          "title": "South Korea plans $518 billion chip manufacturing hub investment",
-          "summary": "Samsung Electronics and SK Hynix plan to invest a combined $518 billion in a new chip manufacturing hub as part of a larger push tied to surging demand for advanced semiconductors.",
-          "source": "AP News",
-          "url": "https://apnews.com/technology"
-        },
-        {
-          "title": "EU backs temporary rules for scanning online child abuse material",
-          "summary": "EU lawmakers supported a proposal to reinstate temporary rules that would let platforms such as Google and Meta detect and remove child sexual abuse material online.",
+          "title": "EU advances proposal to allow scanning for child sexual abuse material",
+          "summary": "EU lawmakers backed a measure to revive temporary rules that would let online platforms detect and remove child sexual abuse material, with debate continuing over privacy and end-to-end encryption.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/"
         },
         {
-          "title": "SpaceX launches Gen 3 Starlink system for higher-capacity satellite internet",
-          "summary": "SpaceX told the FCC that its Gen 3 Starlink system is intended to provide higher-capacity satellite internet for consumers and connected devices, with ultra low-latency and multi-gigabit speeds targeted.",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news"
+          "title": "SpaceX launches Starship in first test flight since IPO",
+          "summary": "SpaceX launched its Starship rocket in its first test flight since going public, marking another major milestone in the company’s launch program.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/spacexs-starship-blasts-off-in-first-rocket-launch-since-ipo/"
         }
       ],
       "citations": [
         "https://www.reuters.com/technology/",
         "https://www.pcmag.com/news",
         "https://www.cnn.com/business/tech",
+        "https://www.techmeme.com/?full=t",
+        "https://www.bignewsnetwork.com/category/breaking-technology-news",
         "https://nypost.com/tech/",
         "https://www.cnbc.com/technology/",
-        "https://tech.yahoo.com/",
+        "https://www.youtube.com/watch?v=EPJl3bTxT3s",
         "https://apnews.com/technology",
-        "https://techurls.com/?from=www.securls.com",
-        "https://economictimes.indiatimes.com/tech/it/articlelist/78570530.cms",
-        "https://www.instagram.com/reel/DbNoQO8yZKa/"
+        "https://www.ksat.com/tech/",
+        "https://www.cbsnews.com/video/spacexs-starship-blasts-off-in-first-rocket-launch-since-ipo/"
       ]
     }
   }
