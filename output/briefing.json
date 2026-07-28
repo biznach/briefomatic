@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T19:22:38.221842+00:00",
-  "generated_at_human": "2026-07-27 19:22 UTC",
+  "generated_at": "2026-07-28T02:14:00.843055+00:00",
+  "generated_at_human": "2026-07-28 02:14 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,64 +8,142 @@
       "count": 25,
       "items": [
         {
-          "title": "MAI-Cyber 1",
-          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-          "score": 161,
-          "comments": 74
+          "title": "Our position on open-weights models",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "score": 475,
+          "comments": 656
+        },
+        {
+          "title": "Benchmarking Opus 5 on SlopCodeBench",
+          "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+          "score": 134,
+          "comments": 32
+        },
+        {
+          "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+          "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+          "score": 63,
+          "comments": 23
+        },
+        {
+          "title": "DConf 2026 in London",
+          "url": "https://dconf.org/2026/index.html",
+          "score": 46,
+          "comments": 18
         },
         {
           "title": "Watching Go's new garbage collector move through the heap",
           "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-          "score": 44,
-          "comments": 0
+          "score": 174,
+          "comments": 17
         },
         {
-          "title": "Kimi-K3 on HuggingFace",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "score": 1138,
-          "comments": 455
+          "title": "C/C++ projects packaged for Zig",
+          "url": "https://github.com/allyourcodebase",
+          "score": 29,
+          "comments": 21
         },
         {
-          "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
-          "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
-          "score": 148,
-          "comments": 115
+          "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+          "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+          "score": 16,
+          "comments": 13
         },
         {
-          "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-          "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-          "score": 92,
-          "comments": 41
+          "title": "The Burau representation of the braid group is faithful for n = 4",
+          "url": "https://arxiv.org/abs/2607.05283",
+          "score": 17,
+          "comments": 5
         },
         {
-          "title": "The computer that helped win World War II",
-          "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-          "score": 98,
-          "comments": 48
+          "title": "Three Theses on the Literacy Crisis",
+          "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
+          "score": 16,
+          "comments": 7
+        },
+        {
+          "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+          "url": "https://www.rise-reforming.com",
+          "score": 60,
+          "comments": 22
         },
         {
           "title": "Self-contained highly-portable Python distributions",
           "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-          "score": 19,
-          "comments": 0
+          "score": 115,
+          "comments": 23
         },
         {
-          "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-          "url": "https://usefeyn.com/blog/feynobg/",
-          "score": 37,
+          "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+          "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+          "score": 152,
+          "comments": 88
+        },
+        {
+          "title": "Securing Services with Rootless Containers",
+          "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+          "score": 64,
+          "comments": 21
+        },
+        {
+          "title": "Hard Road – A beautiful procedural post-apocalyptic game",
+          "url": "https://hardroad.xyz/",
+          "score": 32,
           "comments": 12
+        },
+        {
+          "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+          "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+          "score": 72,
+          "comments": 10
+        },
+        {
+          "title": "Kimi K3 Now Available via Telnyx Inference API",
+          "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+          "score": 18,
+          "comments": 5
+        },
+        {
+          "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+          "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+          "score": 235,
+          "comments": 160
+        },
+        {
+          "title": "A missing underscore sent innocent man to prison for 18 months",
+          "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+          "score": 150,
+          "comments": 75
         },
         {
           "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
           "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-          "score": 53,
-          "comments": 9
+          "score": 136,
+          "comments": 44
         },
         {
-          "title": "Bytecode-to-Source Mapping",
-          "url": "https://tidefield.dev/bytecode-to-source-mapping/",
-          "score": 6,
-          "comments": 0
+          "title": "The computer that helped win World War II",
+          "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+          "score": 176,
+          "comments": 72
+        },
+        {
+          "title": "Paged Out #9 [pdf]",
+          "url": "https://pagedout.institute/download/PagedOut_009.pdf",
+          "score": 180,
+          "comments": 22
+        },
+        {
+          "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+          "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+          "score": 265,
+          "comments": 103
+        },
+        {
+          "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+          "url": "https://usefeyn.com/blog/feynobg/",
+          "score": 91,
+          "comments": 21
         },
         {
           "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
@@ -74,88 +152,10 @@
           "comments": 0
         },
         {
-          "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-          "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-          "score": 175,
-          "comments": 125
-        },
-        {
-          "title": "Paged Out #9 [pdf]",
-          "url": "https://pagedout.institute/download/PagedOut_009.pdf",
-          "score": 80,
-          "comments": 10
-        },
-        {
-          "title": "If Scrubs Hurt, Your ZFS Design Is Broken",
-          "url": "https://klarasystems.com/articles/if-scrubs-hurt-your-zfs-design-is-broken/",
-          "score": 15,
-          "comments": 5
-        },
-        {
-          "title": "Libsm64: Mario 64 as a library for use in external game engines",
-          "url": "https://github.com/libsm64/libsm64",
-          "score": 135,
-          "comments": 16
-        },
-        {
-          "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-          "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-          "score": 31,
-          "comments": 3
-        },
-        {
-          "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat",
-          "url": "https://infrawrench.com",
-          "score": 13,
+          "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+          "url": "https://github.com/FrigadeHQ/yap",
+          "score": 7,
           "comments": 0
-        },
-        {
-          "title": "First Robotic Satellite Servicer Launched",
-          "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
-          "score": 58,
-          "comments": 29
-        },
-        {
-          "title": "How is the Bun Rewrite in Rust going?",
-          "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-          "score": 365,
-          "comments": 282
-        },
-        {
-          "title": "Modern email can be built from borrowed parts",
-          "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-          "score": 131,
-          "comments": 63
-        },
-        {
-          "title": "VLC for Unity now supported on Linux",
-          "url": "https://code.videolan.org/videolan/vlc-unity",
-          "score": 118,
-          "comments": 37
-        },
-        {
-          "title": "Towards a Theory of Bugs: The Ruliology of the Unexpected",
-          "url": "https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/",
-          "score": 49,
-          "comments": 23
-        },
-        {
-          "title": "Should you wash your solar panels?",
-          "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
-          "score": 178,
-          "comments": 157
-        },
-        {
-          "title": "Kimi-K3 Technical Report [pdf]",
-          "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-          "score": 325,
-          "comments": 129
-        },
-        {
-          "title": "Shay Locomotives",
-          "url": "https://www.shaylocomotives.com/",
-          "score": 61,
-          "comments": 16
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 64923,
-          "change_24h": 0.42,
-          "change_7d": -0.36,
-          "market_cap": 1302789547144
+          "price": 63213,
+          "change_24h": -3.0,
+          "change_7d": -3.6,
+          "market_cap": 1268194017609
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1948.03,
-          "change_24h": 1.87,
-          "change_7d": 2.27,
-          "market_cap": 235124685945
+          "price": 1875.94,
+          "change_24h": -3.6,
+          "change_7d": -2.1,
+          "market_cap": 226393810484
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 75.82,
-          "change_24h": 0.82,
-          "change_7d": -2.38,
-          "market_cap": 44213824935
+          "price": 73.21,
+          "change_24h": -4.2,
+          "change_7d": -6.3,
+          "market_cap": 42691016955
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.071966,
-          "change_24h": -0.77,
-          "change_7d": -1.41,
-          "market_cap": 11172470141
+          "price": 0.069835,
+          "change_24h": -4.5,
+          "change_7d": -3.6,
+          "market_cap": 10841912513
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.159125,
-          "change_24h": -3.19,
-          "change_7d": -4.89,
-          "market_cap": 5935169948
+          "price": 0.154704,
+          "change_24h": -6.8,
+          "change_7d": -9.7,
+          "market_cap": 5770490184
         }
       ]
     },
@@ -214,22 +214,22 @@
         {
           "name": "Casper Network",
           "symbol": "CSPR",
-          "market_cap_rank": 682
+          "market_cap_rank": 683
         },
         {
-          "name": "ZIGChain",
-          "symbol": "ZIG",
-          "market_cap_rank": 380
+          "name": "COTI",
+          "symbol": "COTI",
+          "market_cap_rank": 544
         },
         {
-          "name": "Pump.fun",
-          "symbol": "PUMP",
-          "market_cap_rank": 74
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 113
         },
         {
-          "name": "Zama",
-          "symbol": "ZAMA",
-          "market_cap_rank": 212
+          "name": "Shiba Inu",
+          "symbol": "SHIB",
+          "market_cap_rank": 33
         },
         {
           "name": "Hyperliquid",
@@ -237,19 +237,14 @@
           "market_cap_rank": 10
         },
         {
-          "name": "Pons",
-          "symbol": "PONS",
-          "market_cap_rank": 512
-        },
-        {
           "name": "Ethereum",
           "symbol": "ETH",
           "market_cap_rank": 2
         },
         {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 42
+          "name": "Aave",
+          "symbol": "AAVE",
+          "market_cap_rank": 51
         },
         {
           "name": "Solana",
@@ -257,9 +252,14 @@
           "market_cap_rank": 7
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 112
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 41
+        },
+        {
+          "name": "BitMart",
+          "symbol": "BMX",
+          "market_cap_rank": 791
         }
       ]
     },
@@ -268,69 +268,57 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 6,
       "items": [
         {
-          "title": "Oil spikes on renewed Middle East tensions, lifting inflation worries",
-          "summary": "Reuters reported that oil prices rose after fresh U.S. strikes on Iran, with Brent and other benchmarks firming as investors reassessed the risk of wider supply disruptions and higher inflation. The move also supported the U.S. dollar and pressured bonds and rate-sensitive assets.",
+          "title": "U.S.-Iran tensions drove a fresh oil spike and market volatility",
+          "summary": "Reuters reported that renewed U.S. strikes on Iran lifted oil prices and kept investors focused on inflation risks, while Wall Street futures and European shares traded cautiously in choppy conditions. Asian markets also advanced, but gains were capped by the jump in crude and bond-market pressure.",
           "source": "Reuters",
           "url": "https://www.reuters.com/markets/econ-world/"
         },
         {
-          "title": "Wall Street futures and global stocks steady after geopolitical shock",
-          "summary": "Reuters said U.S. stock index futures edged higher as markets stabilized after the latest escalation in the Iran conflict, while European shares rose in choppy trading led by technology. Asian shares also gained, though the rally was limited by the jump in oil prices and renewed inflation fears.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/markets/econ-world/"
-        },
-        {
-          "title": "Fed outlook turns more uncertain as oil and inflation signals conflict",
-          "summary": "CNN reported that the Federal Reserve is facing a difficult policy backdrop: June CPI showed cooling inflation, but the recent surge in energy prices has revived concerns about future inflation pressure. The report said investors are unsure whether the Fed will hold rates steady again or face renewed pressure to tighten policy.",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/07/27/business/fed-interest-rates-economy-oil-prices"
-        },
-        {
-          "title": "IMF warns inflation risk remains elevated in the global economy",
-          "summary": "Financial Times coverage highlighted IMF concerns that inflation threats remain significant globally, with some Fed officials also still seeing the need for future rate hikes if price pressures persist. The backdrop suggests central banks are not yet fully confident that inflation has been defeated.",
-          "source": "Financial Times",
-          "url": "https://www.ft.com/global-economy"
-        },
-        {
-          "title": "Markets monitor Fed caution as oil-price rebound hits Asia-Pacific stocks",
-          "summary": "MarketScreener noted that Australian shares wobbled as caution around the Fed offset optimism from softer oil prices, while Japan’s Topix and Nikkei were mixed and the yen remained under pressure near multi-decade lows. The roundup also showed strength in Samsung Electronics and several commodity-linked markets.",
-          "source": "MarketScreener India",
-          "url": "https://in.marketscreener.com/news/topics/economy/"
-        },
-        {
-          "title": "PepsiCo beats revenue expectations, but demand remains uneven",
-          "summary": "Yahoo Finance reported that PepsiCo posted stronger-than-expected revenue in the second quarter, despite softer North American demand as consumers pulled back spending. CNBC also flagged PepsiCo among the biggest premarket movers after a mixed earnings update.",
-          "source": "Yahoo Finance",
+          "title": "Oil surged as fears of Strait of Hormuz disruptions returned",
+          "summary": "Yahoo Finance and Al Jazeera both reported that crude rose sharply after the fragile U.S.-Iran ceasefire broke down, with Brent moving above $76 a barrel and WTI closing at a two-week high. Travel stocks weakened while energy shares benefited from the move.",
+          "source": "Yahoo Finance / Al Jazeera",
           "url": "https://finance.yahoo.com/economy/"
         },
         {
-          "title": "Travel stocks and airlines under pressure as oil jumps",
-          "summary": "Al Jazeera reported that travel stocks fell and United Airlines dropped after the renewed rise in crude prices tied to the Iran conflict. Higher fuel costs are again becoming a direct market concern for transport and consumer-facing companies.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/"
+          "title": "Central banks remained in focus as inflation worries resurfaced",
+          "summary": "Reuters highlighted that rising oil prices revived rate-hike bets and kept the U.S. dollar firm, while the 10-year Japanese government bond yield hit a 30-year high on renewed inflation concerns. Financial Times coverage also noted that some Federal Reserve officials still saw a need for future rate increases to contain inflation.",
+          "source": "Reuters / Financial Times",
+          "url": "https://www.ft.com/global-economy"
         },
         {
-          "title": "US market narrative shifts back to inflation after energy shock",
-          "summary": "Reuters and CNN both pointed to a renewed market focus on inflation after oil’s sharp move higher, with investors reassessing the likelihood of further central bank tightening. That shift has become the dominant macro theme in the last 24 hours.",
+          "title": "U.S. stock futures and global equities steadied after the latest geopolitical shock",
+          "summary": "Reuters said U.S. stock index futures edged higher as markets digested the Iran-related flare-up, while European shares recovered in uneven trading and Asian stocks climbed as semiconductors bounced. The broader tone remained fragile because higher oil prices threatened to delay any easing in inflation.",
           "source": "Reuters",
           "url": "https://www.reuters.com/markets/econ-world/"
+        },
+        {
+          "title": "PepsiCo posted stronger revenue but warned about weaker North American demand",
+          "summary": "Yahoo Finance reported that PepsiCo's second-quarter net revenue rose 6.4% to $24.2 billion, beating expectations even as the company said North American consumers were tightening their budgets. CNBC also flagged PepsiCo as one of the biggest premarket movers after a mixed earnings reaction.",
+          "source": "Yahoo Finance / CNBC",
+          "url": "https://finance.yahoo.com/economy/"
+        },
+        {
+          "title": "Chip stocks rallied while Treasury yields steadied",
+          "summary": "CNBC reported that semiconductor shares were jumping again in premarket trading, helping stabilize risk sentiment after the earlier oil-driven selloff. U.S. Treasury yields were little changed after the prior session's spike.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/world/"
         }
       ],
       "citations": [
         "https://www.reuters.com/markets/econ-world/",
-        "https://in.marketscreener.com/news/topics/economy/",
-        "https://www.cnn.com/2026/07/27/business/fed-interest-rates-economy-oil-prices",
         "https://www.ft.com/global-economy",
         "https://www.aljazeera.com/economy/",
         "https://finance.yahoo.com/economy/",
         "https://www.economist.com/topics/finance-and-economics",
-        "https://www.apollo.com/institutional/insights-news/insights/daily-spark",
+        "https://continuumeconomics.com/",
         "https://www.ft.com/us-economy",
-        "https://www.washingtonpost.com/business/2026/07/27/iran-war-lives-disrupted-gasoline-climate/01e89916-898a-11f1-8912-d71e69d679d7_story.html",
-        "https://www.cnbc.com/world/"
+        "https://www.cnbc.com/world/",
+        "https://www.investing.com/economic-calendar",
+        "https://finance.yahoo.com/video/elon-musks-tesla-spacex-shed-12t-in-july-while-apple-sprints-ahead-chart-of-the-day-202410236.html",
+        "https://thehill.com/homenews/administration/5991366-trump-pulls-iran-strikes/"
       ]
     },
     "crypto_news": {
@@ -338,74 +326,21 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 9,
-      "items": [
-        {
-          "title": "Bitcoin rebounds toward $65K as risk appetite improves",
-          "summary": "Bitcoin rose to around $65,000 after markets reacted to easing U.S.-Iran tensions, with traders also noting renewed institutional support and higher trading volume. Ethereum, XRP, Solana, and Dogecoin also posted gains in the same move higher.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-rise-015145682.html"
-        },
-        {
-          "title": "Bitcoin briefly reclaims $66K before pulling back",
-          "summary": "Crypto markets saw another volatile session, with Bitcoin briefly touching $66,000 before slipping back below $65,000 amid broader macro uncertainty. The report also highlighted a rebound attempt after renewed Middle East tensions eased.",
-          "source": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/video/strategy-sells-5445m-in-mstr-makes-no-bitcoin-purchase-162207839.html"
-        },
-        {
-          "title": "XRP gains as SWIFT expands blockchain payments testing",
-          "summary": "XRP rose after reporting linked SWIFT activity suggested broader adoption of blockchain-based payments among bank partners. The development adds to ongoing speculation about institutional use cases for Ripple-associated infrastructure.",
-          "source": "Crypto.news",
-          "url": "https://crypto.news/"
-        },
-        {
-          "title": "Hong Kong tightens crypto platform security rules",
-          "summary": "Hong Kong regulators moved to require crypto platforms to drop SMS authentication, signaling a stronger security posture for digital asset services in the region. The change is part of a broader compliance push affecting exchange operations.",
-          "source": "Crypto.news",
-          "url": "https://crypto.news/"
-        },
-        {
-          "title": "CLARITY Act advances in the Senate amid crypto market structure debate",
-          "summary": "The U.S. Senate advanced a portion of the CLARITY Act, pushing the crypto market structure bill one step forward while leaving additional political hurdles ahead. The vote underscores ongoing debate over how digital assets should be regulated in the United States.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/cryptocurrency"
-        },
-        {
-          "title": "Paul Grewal exits Coinbase legal leadership ahead of key policy vote",
-          "summary": "Coinbase’s legal chief reportedly stepped down just before a crucial CLARITY vote, highlighting the importance of the coming regulatory fight for major U.S. crypto firms. The move comes as lawmakers continue to debate the future of crypto oversight.",
-          "source": "Crypto.news",
-          "url": "https://crypto.news/"
-        },
-        {
-          "title": "Circle acquires nearly 1,000 blockchain patents from IBM",
-          "summary": "Circle expanded its intellectual property portfolio by purchasing nearly 1,000 blockchain-related patents from IBM. The deal covers blockchain technology, banking, insurance, and cloud security, though the price was not disclosed.",
-          "source": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/video/strategy-sells-5445m-in-mstr-makes-no-bitcoin-purchase-162207839.html"
-        },
-        {
-          "title": "Strategy sells $544.5M in stock without buying more Bitcoin",
-          "summary": "Strategy raised $544.5 million through an MSTR sale but did not add to its Bitcoin holdings in the period covered. The update reflects a more cautious capital allocation posture even as institutional crypto interest remains elevated.",
-          "source": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/video/strategy-sells-5445m-in-mstr-makes-no-bitcoin-purchase-162207839.html"
-        },
-        {
-          "title": "Ethereum Foundation cuts budget and staff in major restructuring",
-          "summary": "The Ethereum Foundation said it will reduce its budget by 40% and its headcount by 20% as part of a shift toward an endowment-style model. The move is one of the most significant project-governance developments in the Ethereum ecosystem this cycle.",
-          "source": "Coin Insider",
-          "url": "https://www.coininsider.com/news/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://cointelegraph.com/",
-        "https://www.theblock.co/",
-        "https://crypto.com/en/market-updates",
-        "https://www.coininsider.com/news/",
-        "https://crypto.news/",
-        "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-rise-015145682.html",
+        "https://www.theblock.co/news",
+        "https://cryptorank.io/news/feed/6f533-24-hour-crypto-recap-heres-what-happened-in-the-market-22",
+        "https://cryptobriefing.com/",
         "https://www.theverge.com/cryptocurrency",
-        "https://coinstats.app/news/",
-        "https://www.youtube.com/watch?v=J1CV4VZndTk",
-        "https://finance.yahoo.com/video/strategy-sells-5445m-in-mstr-makes-no-bitcoin-purchase-162207839.html"
+        "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
+        "https://www.odaily.news/newsflash",
+        "https://rsihunter.com/news",
+        "https://www.gate.com/news",
+        "https://www.kucoin.com/news/news-flash",
+        "https://news.bitcoin.com/cs/",
+        "https://www.instagram.com/p/DbSlXFpF_oZ/",
+        "https://bitcoinfoundation.org/news/crypto-exchanges-news/bitmart-leaves-market/"
       ]
     },
     "ai_news": {
@@ -413,69 +348,80 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 10,
       "items": [
         {
-          "title": "OpenAI unveils ChatGPT Work for workplace automation",
-          "summary": "OpenAI launched ChatGPT Work, an agent designed to execute tasks across applications and files, expanding its push into professional AI tools. The release intensifies competition with Anthropic, Microsoft, and other vendors targeting enterprise automation.",
+          "title": "OpenAI launches ChatGPT Work for workplace automation",
+          "summary": "OpenAI unveiled ChatGPT Work, an agent inside its chatbot designed to execute tasks across applications and files, intensifying competition in professional AI tools. The move reflects a broader push toward agentic systems that can perform multi-step office workflows.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "Meta opens developer preview of Muse Spark 1.1",
-          "summary": "Meta released developer access to Muse Spark 1.1, an upgraded AI model positioned for multimodal reasoning and business use. The move puts Meta more directly into competition with paid AI model offerings from OpenAI and Anthropic.",
+          "title": "OpenAI releases GPT-Live voice models for real-time conversation",
+          "summary": "OpenAI launched GPT-Live, a new family of voice models that can listen and speak simultaneously in real time. The release highlights continued rapid progress in low-latency multimodal AI.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "OpenAI launches GPT-Live, new real-time voice models",
-          "summary": "OpenAI introduced GPT-Live, a family of voice models that can listen and speak simultaneously in real time. The launch adds to the company’s multimodal product lineup and signals continued focus on interactive, voice-first AI.",
+          "title": "Meta opens developer access to Muse Spark 1.1",
+          "summary": "Meta released developer access to its Muse Spark AI model and an upgraded version, positioning it directly against paid AI offerings from Anthropic and OpenAI. The announcement signals Meta's push to monetize and expand its model ecosystem.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "xAI releases Grok 4.5 for coding and agentic tasks",
-          "summary": "xAI launched Grok 4.5, which it described as its most intelligent model so far and aimed at coding plus agent-style workflows. The release highlights the rapid pace of frontier-model updates among major AI labs.",
+          "title": "SpaceXAI launches Grok 4.5 for coding and agentic tasks",
+          "summary": "SpaceXAI announced Grok 4.5, describing it as its most intelligent model yet and optimized for coding and agentic workflows. The launch adds to the recent wave of frontier-model releases focused on task execution rather than chat alone.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "Meta plans in-house AI chip manufacturing starting in September",
-          "summary": "Reuters reported that Meta plans to begin manufacturing an artificial intelligence chip from September. The effort is part of a broader infrastructure push to expand computing capacity for its AI systems.",
+          "title": "Anthropic adds Ben Bernanke to its Long-Term Benefit Trust",
+          "summary": "Anthropic appointed former U.S. Federal Reserve chair Ben Bernanke to its Long-Term Benefit Trust, an oversight body meant to keep the company aligned with its public mission. The move underscores growing governance and safety oversight in advanced AI companies.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "Meta announces major Alberta data center buildout",
-          "summary": "Meta said it will build a large data center in central Alberta, its first in Canada, to support growing AI compute needs. The move reflects a wider industry trend of massive infrastructure expansion to power training and inference demand.",
+          "title": "Trump administration lifts restrictions on Anthropic Claude models",
+          "summary": "The Trump administration lifted restrictions on Anthropic's latest Claude chatbot versions after a weekslong ban tied to cybersecurity concerns. The decision suggests U.S. regulators are still actively shaping which frontier models can be deployed more broadly.",
+          "source": "AP News",
+          "url": "https://apnews.com/hub/artificial-intelligence"
+        },
+        {
+          "title": "OpenAI reportedly faces government-requested limits on GPT-5.6 Sol",
+          "summary": "AP reported that OpenAI is restricting release of its new GPT-5.6 Sol model at the request of the Trump administration. The report points to continued government involvement in the rollout of advanced AI systems.",
+          "source": "AP News",
+          "url": "https://apnews.com/hub/artificial-intelligence"
+        },
+        {
+          "title": "Meta plans to begin manufacturing an AI chip in September",
+          "summary": "Reuters reported that Meta plans to start manufacturing an artificial intelligence chip from September as it expands computing capacity for AI workloads. The company is also said to be targeting 14 gigawatts of overall computing power next year.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "Micron commits more than $250 billion to U.S. investment through 2035",
-          "summary": "Micron said it plans to invest over $250 billion in the United States through 2035, citing surging AI-driven demand for memory chips. The announcement underscores how the AI boom is reshaping semiconductor capex and domestic manufacturing plans.",
+          "title": "Micron announces more than $250 billion U.S. investment tied to AI demand",
+          "summary": "Micron said it plans to invest more than $250 billion in the U.S. through 2035, citing surging memory-chip demand from AI. The announcement reinforces the industry trend of massive infrastructure and semiconductor spending to support AI buildouts.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "China moves to tighten control over AI technology access",
-          "summary": "Reuters reported that China is working to build a more closed ecosystem around its AI technology, including open-source models, as the U.S. increases restrictions on foreign access to advanced AI systems. The development adds to ongoing geopolitical fragmentation in the AI sector.",
+          "title": "Meta to build first Canadian data center in Alberta",
+          "summary": "Meta announced plans to build a large data center in central Alberta, its first in Canada, to support AI infrastructure growth. The project reflects the continuing race among tech firms to secure compute capacity for AI development and deployment.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/artificial-intelligence/"
         }
       ],
       "citations": [
         "https://www.reuters.com/technology/artificial-intelligence/",
-        "https://techcrunch.com/category/artificial-intelligence/",
-        "https://news.aibase.com/news",
-        "https://pondero.ai/news/",
-        "https://cio.economictimes.indiatimes.com/news/artificial-intelligence",
-        "https://futuretools.io/news",
+        "https://apnews.com/hub/artificial-intelligence",
+        "https://www.economist.com/topics/artificial-intelligence",
+        "https://news.aibase.com/ja/news",
+        "https://www.youtube.com/watch?v=jYHQRP28hGM",
         "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "https://www.facebook.com/100083241103501/posts/swipe-%EF%B8%8F-to-discover-the-biggest-technology-ai-and-business-developments-from-the/1034500812667946/",
         "https://www.artificialintelligence-news.com/",
-        "https://www.instagram.com/p/DbSwT8yAK7e/",
-        "https://theaicitizen.com/p/top-ai-tech-news-through-july-27th"
+        "https://www.aibase.com/news",
+        "https://arstechnica.com/ai/",
+        "https://www.cnbc.com/ai-artificial-intelligence/"
       ]
     },
     "gaming": {
@@ -483,18 +429,80 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 10,
+      "items": [
+        {
+          "title": "Xbox Game Pass growth falls short of Microsoft targets",
+          "summary": "IGN reports that Xbox CEO Asha Sharma said Game Pass has not grown as Microsoft expected, with the service still tens of millions of subscribers short of earlier goals. The report highlights continued scrutiny of Microsoft’s subscription strategy.",
+          "source": "IGN",
+          "url": "https://www.ign.com/uk"
+        },
+        {
+          "title": "Sony says PlayStation disc production for new games will end in January 2028",
+          "summary": "VGTimes reports that Sony Interactive Entertainment plans to stop producing physical game discs for new PlayStation 5 releases starting in January 2028, shifting future titles to digital-only distribution. The same development has also drawn strong reaction across gaming media and fans.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/news/"
+        },
+        {
+          "title": "Xbox layoff fallout expands across major studios",
+          "summary": "VGC reports that Microsoft's recent cuts reportedly affected id Software’s coding team and reduced staffing at Obsidian by roughly 60 to 70 developers. The broader restructuring is also said to be pushing Bethesda to refocus around core franchises such as Fallout, The Elder Scrolls, Doom, Quake, and Wolfenstein.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "IO Interactive will keep Project Fantasy independent after the Xbox split",
+          "summary": "VGC reports that IO Interactive has confirmed it will continue Project Fantasy independently after the recent Xbox-related split. The update suggests the game’s development path is changing but remains active.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "State of Decay 3 no longer needs Game Pass release requirement",
+          "summary": "VGC reports that State of Decay 3 is no longer required to launch on Game Pass following Microsoft's broader Xbox changes. The game, first announced in 2020, resurfaced recently and remains in development.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "Nintendo to end Switch sales in Europe in 2027",
+          "summary": "VGC reports that Nintendo of Europe will stop selling the original Nintendo Switch on its store in February 2027. The same report says Nintendo Switch 2 will receive a revision with replaceable batteries in Europe to comply with new EU rules.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "Epic settles lawsuit with Fortnite leaker",
+          "summary": "VGC reports that Epic Games has reached a settlement with former contractor Hayden Cohen, who was accused of leaking confidential information about upcoming Fortnite collaborations. The case had drawn attention because of the scope of the alleged leaks.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/category/news/"
+        },
+        {
+          "title": "Call of Duty: Black Ops 6 to become a standalone launcher title",
+          "summary": "VGTimes reports that Call of Duty: Black Ops 6 will separate from the unified Call of Duty HQ launcher and operate as its own dedicated title. The change is scheduled for July 7.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/news/"
+        },
+        {
+          "title": "Command & Conquer: Generals — Zero Hour gets native Apple port",
+          "summary": "VGTimes reports that the 2003 RTS Command & Conquer: Generals — Zero Hour now has a native port for macOS, iPhone, and iPad without emulation. The release expands access to a classic strategy game across Apple devices.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/news/"
+        },
+        {
+          "title": "Microsoft reportedly boosts support for MachineGames",
+          "summary": "VGTimes reports that Microsoft is increasing investment in MachineGames following the success of Indiana Jones and the Great Circle and sustained interest in Wolfenstein. The report frames the move as a sign of deeper backing for the studio’s future projects.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/news/"
+        }
+      ],
       "citations": [
         "https://www.ign.com/uk",
         "https://gamerant.com/gaming/",
         "https://www.ign.com/news",
+        "https://vgtimes.com/news/",
         "https://www.theverge.com/games",
-        "https://vgtimes.com/gaming-news/",
-        "https://hitmarker.net/news",
-        "https://www.gamekult.com/actualite.html",
-        "https://gameworldobserver.com/category/news",
-        "https://toptech.news/gaming/"
+        "https://www.videogameschronicle.com/category/news/",
+        "https://arstechnica.com/gaming/",
+        "https://gamemag.ru/",
+        "https://vgtimes.ru/gaming-news/",
+        "https://www.gamereactor.de/"
       ]
     },
     "tech_news": {
@@ -502,58 +510,68 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 8,
       "items": [
         {
-          "title": "India scraps import duties on some smartphone and electronics parts",
-          "summary": "India removed import duties on selected parts used to make mobile phones and other electronic devices, cutting existing 7.5% and 5% levies. The move could lower input costs for companies including Apple and Xiaomi and support domestic electronics manufacturing.",
+          "title": "Apple raises prices on Mac and iPad models",
+          "summary": "Apple increased prices on some Mac and iPad products, citing higher memory and storage chip costs tied to the broader chip boom. The move highlights how hardware makers are feeling pressure from rising component prices.",
+          "source": "AP News",
+          "url": "https://apnews.com/technology"
+        },
+        {
+          "title": "India scraps import duties on some electronics and smartphone parts",
+          "summary": "India removed import duties on selected parts used to make mobile phones and other electronic devices, cutting levies of 7.5% and 5%. The policy change could benefit manufacturers including Apple and Xiaomi.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/"
         },
         {
-          "title": "Swift launches blockchain-based shared ledger with 16 banks",
-          "summary": "Global financial messaging network Swift launched a blockchain-based shared ledger with an initial group of 16 banks, including Citi and HSBC. Swift says the system is designed to enable round-the-clock payments and compete with stablecoin-based alternatives.",
+          "title": "SWIFT launches blockchain-based shared ledger for banks",
+          "summary": "Global payments network SWIFT launched a blockchain-based shared ledger with 16 initial banks, including Citi and HSBC. The initiative is aimed at enabling round-the-clock payments and competing with stablecoin-based systems.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/"
         },
         {
-          "title": "Apple to spend more than $30 billion under new Broadcom chip-supply deal",
-          "summary": "Apple said it plans to spend more than $30 billion as part of a chip-supply agreement with Broadcom. The deal also includes Broadcom expanding a factory in Colorado.",
+          "title": "Meta plans in-house production of its own AI smart glasses",
+          "summary": "Meta unveiled a new line of smart glasses designed in-house, signaling a deeper push into wearable devices. The move underscores the company’s effort to control more of its hardware roadmap.",
+          "source": "CNN Business",
+          "url": "https://www.cnn.com/business/tech"
+        },
+        {
+          "title": "Microsoft lays off nearly 5,000 workers, including many in Xbox",
+          "summary": "Microsoft announced major layoffs affecting about 3,200 jobs across its Xbox business as part of a broader restructuring. The company is shifting resources toward growth areas while trimming parts of its gaming division.",
+          "source": "New York Post",
+          "url": "https://nypost.com/tech/"
+        },
+        {
+          "title": "Apple and Broadcom expand chip-supply deal",
+          "summary": "Apple said it plans to spend more than $30 billion under a chip-supply agreement with Broadcom. Broadcom will also expand a factory in Colorado as part of the arrangement.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/"
         },
         {
-          "title": "Meta plans in-house manufacturing of an AI chip starting in September",
-          "summary": "Reuters reported that Meta plans to begin manufacturing an AI chip from September, according to an internal memo. The company is pushing to expand computing power as it builds out its infrastructure.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
+          "title": "South Korean chipmakers plan massive manufacturing hub",
+          "summary": "Samsung Electronics and SK Hynix plan to invest a combined $518 billion in a new chipmaking hub. The project is designed to meet surging demand tied to the global semiconductor market.",
+          "source": "AP News",
+          "url": "https://apnews.com/technology"
         },
         {
-          "title": "EU lawmakers back temporary rules to detect and remove child sexual abuse material",
-          "summary": "EU lawmakers backed a proposal to reinstate temporary rules allowing Google, Meta, and other platforms to detect and remove online child sexual abuse material. The measure would extend platform scanning powers under a renewed regulatory framework.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "MFE-MediaForEurope plans single streaming platform across European markets",
-          "summary": "MFE-MediaForEurope said it plans to launch one streaming platform across its European markets by combining technologies developed by its Italian and German businesses. The broadcaster is stepping up competition with global digital and advertising rivals.",
+          "title": "Meta to manufacture its own AI chip starting in September",
+          "summary": "Meta plans to begin manufacturing an in-house chip from September, according to an internal memo reported by Reuters. The move is intended to boost the company’s computing capacity.",
           "source": "Reuters",
           "url": "https://www.reuters.com/technology/"
         }
       ],
       "citations": [
         "https://www.reuters.com/technology/",
-        "https://www.instagram.com/p/DbRoqNzDbfq/",
         "https://www.cnn.com/business/tech",
         "https://nypost.com/tech/",
         "https://www.cnbc.com/technology/",
-        "https://www.businesstoday.in/technology",
+        "https://apnews.com/technology",
         "https://www.youtube.com/watch?v=QycryeG7OJw",
-        "https://www.youtube.com/watch?v=m0DeuMyoQZg",
-        "https://www.instagram.com/p/DbSwT8yAK7e/",
-        "https://progressive-research.com/insights/the-ai-trade-just-emigrated-but-it-didnt-take-your-job-after-all/",
-        "https://www.facebook.com/newshour/posts/artificial-intelligence-is-fueling-stock-market-highs-economic-growth-and-a-cons/1508962591098982/",
-        "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-07272026-12027190"
+        "https://tech.yahoo.com/",
+        "https://www.nbcnews.com/video/viral-video-of-new-robot-released-by-chinese-unitree-freaks-out-social-media-267347013874",
+        "https://itbrief.news/",
+        "https://www.youtube.com/watch?v=hx1lEM0QYnQ"
       ]
     }
   }
