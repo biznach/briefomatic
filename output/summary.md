@@ -1,20 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-07-30 02:05 UTC*
+*Generated: 2026-07-30 08:20 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The crypto market has been steady, with Bitcoin trading near $64,000 and Ethereum around $1,900. The total crypto market capitalization is approximately $2.18 trillion. In traditional markets, Wall Street futures have edged higher as oil prices retreated after Iran-related tensions. The Federal Reserve's decision to hold rates unchanged has had a muted impact on the market.
+1. **Market Overview**: The US stock market has rebounded, with futures edging higher as oil prices steady and investors weigh the impact of renewed US-Iran strikes. The Nasdaq 100 and S&P 500 are up, led by a chip rally despite Iran worries. Bitcoin and Ethereum prices have declined, with Bitcoin down 0.7% and Ethereum down 0.9% in the past 24 hours. The Federal Reserve has held rates steady, signaling ongoing inflation vigilance.
 
-2. **Tech & AI**: Notable tech developments include Micron's announcement to expand U.S. investment to over $250 billion by 2035, citing strong AI-era memory-chip demand. Additionally, there have been discussions around AI startups barely publishing their research, and the potential risks of AI worms self-propagating through platforms like Copilot for Word.
+2. **Tech & AI**: OpenAI has launched ChatGPT Work, an agent designed to execute tasks across different applications and files, intensifying competition in professional AI tools. Additionally, there are reports of AI startups barely publishing their research, and A.I. companies are recruiting electricians and carpenters by the thousands, likely for data center construction and maintenance.
 
-3. **Gaming & Entertainment**: Keychron has announced the first open-source firmware for gaming mice, which could potentially impact the gaming industry. However, there are no other significant gaming news items in the provided data.
+3. **Gaming & Entertainment**: Keychron has announced the first open-source firmware for gaming mice, which may be of interest to gamers and tech enthusiasts.
 
 4. **Key Insights**:
-* The crypto market remains sensitive to macro policy and rate expectations, with the Federal Reserve's decision to hold rates unchanged having a minimal impact.
-* AI is increasingly being integrated into various industries, including retail trading and chip production.
-* Regulatory pressure around DeFi and on-chain markets continues, with companies urging clearer boundaries for infrastructure developers and financial service providers.
-* Cybersecurity concerns persist, with a recent oracle exploit resulting in a $9 million loss for Bonzo Lend.
-* The use of AI in efficiency and productivity is being explored, with a pharmacy chain in Vermont implementing AI, but facing delays, incorrect information, and privacy concerns.
+* The US-Iran conflict is causing market volatility, with oil prices and inflation concerns impacting the global economy.
+* The Federal Reserve's decision to hold rates steady signals a more aggressive anti-inflation stance.
+* AI demand is driving investment in the US, with Micron planning to invest over $250 billion through 2035.
+* The IMF has cut its 2026 global growth forecast due to the Iran war fallout.
+* Companies like GE HealthCare, Ford, and Seagate Technology have delivered notable earnings beats and guidance updates.
 
-5. **Watch List**: Items to monitor in the coming days include the impact of the Federal Reserve's decision on the traditional market, the continued integration of AI in various industries, regulatory developments around DeFi and on-chain markets, and the potential risks associated with AI worms and cybersecurity threats. Additionally, the performance of major cryptocurrencies like Bitcoin and Ethereum, as well as the progress of companies like Micron and Keychron, should be closely watched.
+5. **Watch List**: 
+* US-Iran conflict and its impact on oil prices and the global economy
+* Federal Reserve's future rate decisions and their impact on the market
+* AI-driven investment and growth in the US
+* Cryptocurrency price movements, particularly Bitcoin and Ethereum
+* Earnings reports from major companies and their impact on the market
