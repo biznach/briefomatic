@@ -1,27 +1,28 @@
 # Daily Briefing
 
-*Generated: 2026-07-31 13:57 UTC*
+*Generated: 2026-07-31 19:19 UTC*
 
 ## Market Overview
-The market is experiencing a mix of trends, with Bitcoin climbing above $63K as risk appetite improves, and other cryptocurrencies like Ethereum and Solana showing varying price movements. The U.S. stock market has seen a rebound, with U.S. equities recovering after a recent slide in oil prices reduced some of the inflation and growth pressure on markets.
+The market has seen a mix of positive and negative movements, with Bitcoin rebounding above $64K and other cryptocurrencies experiencing fluctuations in price. The U.S. trade deficit has widened sharply, driven by AI-related imports, and oil prices have jumped due to fresh strikes in Iran, reviving inflation fears.
 
 ## Tech & AI
-Notable tech and AI developments include Google's use of AI to fix more Chrome bugs, Samsung's mass production of storage drives for Nvidia's next-generation data center platform, and the ongoing emphasis on AI infrastructure spending across the semiconductor supply chain. Additionally, there are advancements in AI-related projects, such as DeepSeek V4 Flash and Gemini Robotics 2, which brings whole-body intelligence to robots.
+Notable tech and AI developments include the release of new algorithms for billion-scale graph processing, and the development of language models such as DeepSeek V4 Flash. Additionally, there have been reports of AI-related demand and the impact of the Iran war on global growth forecasts.
 
 ## Gaming & Entertainment
-There is no significant gaming news in the provided data, but notable developments in the entertainment sector include the Premier League banning gambling sponsors and UEFA's decision not to participate in FIFA competitions.
+There are no notable gaming news developments in the provided data.
 
 ## Key Insights
-* The global growth outlook has been cut due to war-related energy shocks and inflation risks.
-* Oil prices have jumped after renewed U.S. airstrikes in Iran, causing concerns about inflation and growth pressure on markets.
-* The Federal Reserve has kept interest rates unchanged despite dissenting voices, signaling ongoing internal concern about inflation persistence.
-* U.S. stocks have rebounded as falling oil prices eased some pressure, indicating investors remain highly sensitive to energy-driven macro risks.
-* AI spending continues to drive large corporate bond issuance, with major tech firms raising large amounts of debt to fund data centers and AI projects.
+- The U.S. trade deficit has widened sharply, driven by AI-related imports.
+- Oil prices have jumped due to fresh strikes in Iran, reviving inflation fears.
+- The IMF has cut global growth forecasts due to the Iran war, and AI-related demand is partly offsetting the energy shock.
+- The Federal Reserve has kept interest rates unchanged, and the Bank of England has sounded more hawkish after holding rates.
+- Cryptocurrency prices have experienced fluctuations, with Bitcoin rebounding above $64K and other cryptocurrencies seeing mixed movements.
 
 ## Watch List
 Items to monitor in the coming days include:
-* The impact of the Iran war on global energy prices and the broader market.
-* The Federal Reserve's decision on interest rates and its implications for inflation and growth.
-* The development of AI-related projects and their potential to drive innovation and growth in the tech sector.
-* The performance of major cryptocurrencies like Bitcoin, Ethereum, and Solana, and their potential to influence market trends.
-* The ongoing trade deficit in the U.S. and its implications for the economy, with a focus on AI-related imports.
+- The impact of the Iran war on global growth forecasts
+- The movement of cryptocurrency prices, particularly Bitcoin and Ether
+- The development of new algorithms for graph processing
+- The release of new language models such as DeepSeek V4 Flash
+- The U.S. trade deficit and its implications for the global economy
+- The Federal Reserve and Bank of England's monetary policy decisions and their implications for the global economy.
