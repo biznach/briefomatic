@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T13:14:03.453007+00:00",
-  "generated_at_human": "2026-08-02 13:14 UTC",
+  "generated_at": "2026-08-02T19:04:16.800428+00:00",
+  "generated_at_human": "2026-08-02 19:04 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,112 @@
       "count": 25,
       "items": [
         {
-          "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-          "url": "https://website-auditor.io/ai-visibility-index",
-          "score": 32,
-          "comments": 36
+          "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+          "url": "https://github.com/wie-project/kakehashi",
+          "score": 73,
+          "comments": 25
+        },
+        {
+          "title": "Developers are attached to tools because tools encode trust",
+          "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+          "score": 41,
+          "comments": 10
+        },
+        {
+          "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+          "url": "https://github.com/graham33/nixos-dgx-spark",
+          "score": 36,
+          "comments": 8
+        },
+        {
+          "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+          "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+          "score": 38,
+          "comments": 1
+        },
+        {
+          "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+          "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+          "score": 12,
+          "comments": 6
         },
         {
           "title": "Twenty Years of RISC OS Open",
           "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-          "score": 13,
-          "comments": 1
+          "score": 115,
+          "comments": 20
+        },
+        {
+          "title": "How the words we teach English language learners changed",
+          "url": "https://pudding.cool/2026/07/essential-words/",
+          "score": 130,
+          "comments": 76
+        },
+        {
+          "title": "F*: A general-purpose proof-oriented programming language",
+          "url": "https://fstar-lang.org/",
+          "score": 105,
+          "comments": 34
         },
         {
           "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
           "url": "https://meshdiff.com/",
-          "score": 58,
-          "comments": 7
+          "score": 146,
+          "comments": 13
+        },
+        {
+          "title": "Karpathy’s Pelican",
+          "url": "https://twitter.com/karpathy/status/2083749667410727319",
+          "score": 165,
+          "comments": 139
+        },
+        {
+          "title": "Fasttracker II clone in C using SDL 2",
+          "url": "https://16-bits.org/ft2.php",
+          "score": 74,
+          "comments": 25
+        },
+        {
+          "title": "When transit passes were designed by hand (2022)",
+          "url": "https://letterformarchive.org/news/milwaukee-transit-passes/",
+          "score": 51,
+          "comments": 16
+        },
+        {
+          "title": "Folding Paper Globes",
+          "url": "https://foldingglobes.com/globes",
+          "score": 104,
+          "comments": 20
         },
         {
           "title": "Show HN: Bor – Open-source policy management for Linux desktops",
           "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-          "score": 66,
-          "comments": 13
+          "score": 143,
+          "comments": 19
         },
         {
-          "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
-          "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
-          "score": 37,
-          "comments": 31
+          "title": "Turtle-inspired interactive Python project",
+          "url": "https://www.codembark.com/projects/fv20lz9map/spider-web-drawing",
+          "score": 8,
+          "comments": 0
         },
         {
-          "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-          "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-          "score": 131,
-          "comments": 79
+          "title": "Microsoft raises Xbox prices by up to 43%",
+          "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+          "score": 10,
+          "comments": 0
         },
         {
-          "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
-          "url": "https://github.com/syncular/syncular",
-          "score": 33,
-          "comments": 16
+          "title": "Show HN: Fuse – statically typed functional programming language",
+          "url": "https://fuselang.org",
+          "score": 79,
+          "comments": 15
+        },
+        {
+          "title": "Rust All Hands 2026 Retrospective",
+          "url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+          "score": 67,
+          "comments": 28
         },
         {
           "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
@@ -58,103 +124,37 @@
         {
           "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "url": "https://publicdomainreview.org/essay/ars-notoria/",
-          "score": 44,
-          "comments": 5
+          "score": 99,
+          "comments": 25
         },
         {
           "title": "Go 1.27 Interactive Tour",
           "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-          "score": 257,
-          "comments": 104
-        },
-        {
-          "title": "Show HN: Fuse – statically typed functional programming language",
-          "url": "https://fuselang.org",
-          "score": 15,
-          "comments": 0
+          "score": 328,
+          "comments": 160
         },
         {
           "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
           "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-          "score": 196,
-          "comments": 68
+          "score": 285,
+          "comments": 94
         },
         {
-          "title": "Cyberscript",
-          "url": "https://cyberscript.dev",
-          "score": 27,
-          "comments": 26
-        },
-        {
-          "title": "Seedance 2.5",
-          "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-          "score": 383,
-          "comments": 201
-        },
-        {
-          "title": "Diátaxis",
-          "url": "https://diataxis.fr/",
-          "score": 396,
-          "comments": 49
-        },
-        {
-          "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-          "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-          "score": 69,
-          "comments": 4
-        },
-        {
-          "title": "IBM i (OS/400) the Database Operating System",
-          "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
-          "score": 29,
-          "comments": 15
-        },
-        {
-          "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "score": 154,
-          "comments": 73
-        },
-        {
-          "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
-          "url": "https://twitter.com/polynoamial/status/2083467194663571701",
-          "score": 30,
-          "comments": 16
-        },
-        {
-          "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
-          "url": "https://github.com/kamalfarahani/katharos",
-          "score": 5,
-          "comments": 1
+          "title": "Pushes to arch AUR are suspendended right now.",
+          "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
+          "score": 43,
+          "comments": 18
         },
         {
           "title": "Holocloth",
           "url": "https://holocloth.vercel.app",
-          "score": 32,
-          "comments": 7
+          "score": 128,
+          "comments": 24
         },
         {
-          "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-          "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
-          "score": 68,
-          "comments": 33
-        },
-        {
-          "title": "A big win for Android interoperability",
-          "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
-          "score": 158,
-          "comments": 115
-        },
-        {
-          "title": "When random.bytes() runs but doesn't work",
-          "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-          "score": 65,
-          "comments": 31
-        },
-        {
-          "title": "Atom is better than RSS, in ways that matter",
-          "url": "https://chrismorgan.info/atom%3Erss",
-          "score": 102,
+          "title": "Diátaxis",
+          "url": "https://diataxis.fr/",
+          "score": 484,
           "comments": 56
         }
       ]
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 63055,
-          "change_24h": 0.0,
-          "change_7d": -2.2,
-          "market_cap": 1265191663945
+          "price": 63315,
+          "change_24h": 1.1,
+          "change_7d": -2.0,
+          "market_cap": 1270283034068
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1854.88,
-          "change_24h": -0.6,
-          "change_7d": -1.6,
-          "market_cap": 223849648356
+          "price": 1873.6,
+          "change_24h": 0.8,
+          "change_7d": -1.9,
+          "market_cap": 226076465296
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 72.87,
-          "change_24h": 0.0,
-          "change_7d": -2.7,
-          "market_cap": 42354206817
+          "price": 73.51,
+          "change_24h": 2.5,
+          "change_7d": -2.4,
+          "market_cap": 42717683852
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.070022,
-          "change_24h": 0.3,
-          "change_7d": -4.4,
-          "market_cap": 10875976718
+          "price": 0.070764,
+          "change_24h": 2.0,
+          "change_7d": -3.0,
+          "market_cap": 10988827704
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.190111,
-          "change_24h": 9.4,
-          "change_7d": 14.7,
-          "market_cap": 7098063489
+          "price": 0.189033,
+          "change_24h": 9.2,
+          "change_7d": 14.9,
+          "market_cap": 7057583216
         }
       ]
     },
@@ -212,19 +212,14 @@
       "count": 10,
       "items": [
         {
-          "name": "Catecoin",
-          "symbol": "CATE",
-          "market_cap_rank": 838
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 110
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 10
-        },
-        {
-          "name": "Cardano",
-          "symbol": "ADA",
-          "market_cap_rank": 16
+          "name": "Bless",
+          "symbol": "BLESS",
+          "market_cap_rank": 574
         },
         {
           "name": "Bitcoin",
@@ -232,34 +227,39 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Render",
-          "symbol": "RENDER",
-          "market_cap_rank": 82
+          "name": "Cardano",
+          "symbol": "ADA",
+          "market_cap_rank": 16
         },
         {
-          "name": "Pi Network",
-          "symbol": "PI",
-          "market_cap_rank": 67
+          "name": "Catecoin",
+          "symbol": "CATE",
+          "market_cap_rank": 750
         },
         {
-          "name": "Pepe",
-          "symbol": "PEPE",
-          "market_cap_rank": 59
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 10
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Monero",
+          "symbol": "XMR",
+          "market_cap_rank": 17
         },
         {
-          "name": "Uniswap",
-          "symbol": "UNI",
-          "market_cap_rank": 36
+          "name": "Ondo",
+          "symbol": "ONDO",
+          "market_cap_rank": 41
         },
         {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 33
+          "name": "Pump.fun",
+          "symbol": "PUMP",
+          "market_cap_rank": 76
+        },
+        {
+          "name": "Ethena",
+          "symbol": "ENA",
+          "market_cap_rank": 75
         }
       ]
     },
@@ -268,78 +268,29 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 8,
-      "items": [
-        {
-          "title": "Global markets steadied after U.S.-Iran tensions and oil-price swings rattled investors",
-          "summary": "Reuters reported that U.S. stock futures edged higher as global markets and oil prices stabilized after fresh U.S. strikes on Iran reignited geopolitical anxiety. The same update said European shares rose in choppy trading and Asian shares climbed, though gains were capped by a surge in oil prices and renewed inflation concerns.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/markets/econ-world/"
-        },
-        {
-          "title": "Bloomberg: Oil climbed and Asia stocks were poised to fall as Middle East conflict raised inflation risk",
-          "summary": "Bloomberg reported that oil prices rose after fresh U.S. airstrikes in Iran and that Asia equities were set for a second day of declines, with chipmakers under pressure. The report also said the U.S. Treasury revoked a waiver allowing Iranian oil sales, increasing market concern about supply and geopolitics.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/europe"
-        },
-        {
-          "title": "U.S. 10-year Treasury yield held near recent highs as investors weighed inflation and conflict risk",
-          "summary": "TradingEconomics reported that the U.S. 10-year Treasury yield was little changed at 4.58% after rising about 10 basis points over the prior two sessions to roughly a two-month high. The move reflected concern that renewed Middle East fighting could keep inflation elevated.",
-          "source": "TradingEconomics",
-          "url": "https://tradingeconomics.com/stream"
-        },
-        {
-          "title": "ECB minutes showed policymakers avoiding forward guidance amid uncertainty",
-          "summary": "TradingEconomics said ECB policymakers agreed to avoid giving guidance on future interest-rate moves after June's first rate hike since 2023, citing elevated uncertainty. The same stream said euro-zone yields were steady near multi-week lows while markets looked toward the possibility of another ECB hike later in the year.",
-          "source": "TradingEconomics",
-          "url": "https://tradingeconomics.com/stream"
-        },
-        {
-          "title": "Japan yields hit multi-decade highs as oil and inflation fears lifted bond pressure",
-          "summary": "Reuters reported that the benchmark 10-year Japanese government bond yield hit a 30-year high as higher oil prices revived inflation concerns and investors worried about Japan's fiscal health. Bloomberg also noted that Japan's bank lending rose at the fastest pace since the pandemic, supporting the view that the Bank of Japan still has room to tighten further.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/markets/econ-world/"
-        },
-        {
-          "title": "Markets saw major U.S. equity futures stabilize after a tech-led selloff",
-          "summary": "MarketScreener reported that S&P 500 and Nasdaq futures ticked up as technology shares stabilized after a broader pullback. Its market snapshot showed the S&P 500 down 1.44% and the Nasdaq 100 down 3.29% in the latest 24-hour window, underscoring the recent risk-off tone.",
-          "source": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/economy/"
-        },
-        {
-          "title": "Reuters highlighted inflation pressures in Asia and a strong Japanese bond reaction",
-          "summary": "Reuters said India's inflation likely breached the Reserve Bank of India's 4% medium-term target for the first time in 16 months, according to a Reuters poll. The same global markets update also said China's producer prices rose for a fourth straight month and Japanese bond yields hit a 30-year high.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/markets/econ-world/"
-        },
-        {
-          "title": "MarketScreener flagged notable stock moves in Europe and Asia",
-          "summary": "MarketScreener's 24-hour movers list showed Samsung Electronics up 8.22%, while Rheinmetall fell 15.05% and Hyundai Motor dropped 12.05%. The same feed also showed the Nasdaq 100 lower and Carnival down 4.87%, reflecting broad weakness in cyclical and growth names.",
-          "source": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/topics/economy/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.reuters.com/markets/econ-world/",
         "https://in.marketscreener.com/news/topics/economy/",
+        "https://tradingeconomics.com/calendar",
         "https://www.aljazeera.com/economy/",
-        "https://www.bbc.com/news/business/economy",
-        "https://www.cnbc.com/economy/",
-        "https://www.usnews.com/topics/subjects/economy",
         "https://www.bloomberg.com/europe",
-        "https://tradingeconomics.com/stream",
+        "https://www.myjournalcourier.com/business/article/america-in-focus-us-economy-expands-at-sluggish-22369967.php",
+        "https://www.facebook.com/BloombergTelevision/posts/harvard-professor-and-former-obama-economic-adviser-jason-furman-explains-why-th/1393500102649458/",
+        "https://live.euronext.com/en/financial-news",
         "https://www.marketscreener.com/news/economy/",
+        "https://www.washingtonpost.com/business/2026/08/01/inflation-economy-iran-trump-unemployment-fed-mortgage/d519e3c2-8db2-11f1-8912-d71e69d679d7_story.html",
         "https://apnews.com/hub/financial-markets",
         "https://www.ft.com/us-economy",
-        "https://www.wsj.com/economy",
-        "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html",
-        "https://www.moneycontrol.com/news/business/economy/",
+        "https://www.nbcnews.com/business",
+        "https://www.investing.com/news/latest-news",
         "https://www.thehindubusinessline.com/economy/",
-        "https://www.investing.com/news",
         "https://economictimes.indiatimes.com/news/economy/policy",
         "https://www.ft.com/news-feed",
-        "https://www.nytimes.com/section/business/economy?page=2",
-        "https://www.cnbc.com/markets/"
+        "https://www.instagram.com/reel/DbhvBYcBfCw/",
+        "https://finance.yahoo.com/",
+        "https://schwabnetwork.com/articles/week-ahead-jobs-report-ism-services-and-amd-earnings-drive-the-tape",
+        "https://www.tradingview.com/economic-calendar/"
       ]
     },
     "crypto_news": {
@@ -347,90 +298,29 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 10,
-      "items": [
-        {
-          "title": "Bitcoin and major crypto assets fall in broad market selloff",
-          "summary": "Bitcoin dropped sharply alongside ether, solana, and other crypto-related treasury plays, with CoinDesk reporting BTC fell to about $84,000 and the CoinDesk 20 index down nearly 7% over the weekend. Related altcoins also saw steep losses, including Polkadot and Filecoin, both down more than 10%.",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/"
-        },
-        {
-          "title": "European authorities seize Cryptomixer in anti-money-laundering operation",
-          "summary": "Europol said it dismantled Cryptomixer, a bitcoin-mixing service allegedly used by ransomware groups and darknet markets, seizing servers, data, and about $29 million in BTC. The operation is one of the most significant recent enforcement actions against crypto laundering infrastructure.",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/"
-        },
-        {
-          "title": "Canada advances stablecoin framework discussion",
-          "summary": "CoinDesk reported that Canada is moving toward stablecoin rules, with Scotiabank saying the effort is primarily about modernizing payments rather than reshaping broader financial markets. The news highlights growing regulatory attention to payment stablecoins in developed markets.",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/"
-        },
-        {
-          "title": "Ripple gains MiCA CASP license coverage in Europe",
-          "summary": "NewsNow surfaced reports that Ripple won a full MiCA CASP license, which would allow it to operate payments across 30 EU countries. If confirmed broadly, the development would be a major regulatory milestone for Ripple’s European expansion.",
-          "source": "NewsNow",
-          "url": "https://www.newsnow.com/us/Business/Cryptocurrencies"
-        },
-        {
-          "title": "Paul Grewal exits Coinbase legal leadership before key U.S. crypto vote",
-          "summary": "crypto.news reported that Coinbase’s legal chief Paul Grewal is leaving ahead of a crucial CLARITY Act vote in Washington. The timing underscores how regulatory and policy debates continue to shape the U.S. exchange sector.",
-          "source": "crypto.news",
-          "url": "https://crypto.news/"
-        },
-        {
-          "title": "Hong Kong tightens security requirements for crypto platforms",
-          "summary": "crypto.news reported that the Hong Kong SFC is requiring crypto platforms to drop SMS authentication, signaling a stricter operational compliance posture. The move reflects continued regulatory tightening in Asian markets.",
-          "source": "crypto.news",
-          "url": "https://crypto.news/"
-        },
-        {
-          "title": "Bitdeer announces $36 million Nevada mining factory",
-          "summary": "crypto.news reported that Bitdeer unveiled a $36 million Nevada facility, adding to recent infrastructure investment in Bitcoin mining. The project is one of the more notable operational developments in the mining sector over the last day.",
-          "source": "crypto.news",
-          "url": "https://crypto.news/"
-        },
-        {
-          "title": "XRP rises on reports of SWIFT-linked blockchain payments progress",
-          "summary": "crypto.news reported XRP gaining after SWIFT reportedly tapped Ripple-linked banks for blockchain payment efforts. The story adds to renewed speculation around institutional cross-border payment use cases.",
-          "source": "crypto.news",
-          "url": "https://crypto.news/"
-        },
-        {
-          "title": "Ethereum ecosystem news: AI bug-finding limits highlighted by Foundation",
-          "summary": "crypto.news reported that the Ethereum Foundation explained why AI still struggles to find real bugs, pointing to a notable technical development in blockchain security research. The piece is relevant to ongoing infrastructure and tooling work in the Ethereum ecosystem.",
-          "source": "crypto.news",
-          "url": "https://crypto.news/"
-        },
-        {
-          "title": "PayPal expands PYUSD stablecoin to Polygon’s Open Money Stack",
-          "summary": "crypto.news reported that PayPal brought PYUSD to Polygon’s Open Money Stack, continuing the expansion of stablecoin distribution and utility. The move is one of the most notable product developments in the stablecoin space.",
-          "source": "crypto.news",
-          "url": "https://crypto.news/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.coindesk.com/",
-        "https://www.newsnow.com/us/Business/Cryptocurrencies",
-        "https://cryptoslate.com/",
-        "https://cointelegraph.com/",
+        "https://www.coindesk.com/markets",
+        "https://www.investing.com/crypto",
         "https://www.theblock.co/",
-        "https://www.analyticsinsight.net/cryptocurrency-analytics-insight",
-        "https://crypto.news/",
+        "https://cointelegraph.com/",
         "https://crypto.com/en-de/market-updates",
-        "https://www.cnbc.com/cryptoworld/",
-        "https://cryptonews.com/",
+        "https://www.analyticsinsight.net/cryptocurrency-analytics-insight",
+        "https://cryptoslate.com/",
         "https://coinpedia.org/news/",
-        "https://finance.yahoo.com/markets/crypto/",
-        "https://www.blockchain.com/explorer/news",
+        "https://crypto.news/",
+        "https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-above-63-000-101611267.html",
         "https://economictimes.indiatimes.com/markets/cryptocurrency",
-        "https://www.bloomberg.com/crypto",
-        "https://www.gate.com/news",
-        "https://www.theverge.com/cryptocurrency",
+        "https://www.blockchain.com/explorer/news",
         "https://coinstats.app/news/",
+        "https://www.binance.com/en/square/post/351322222791890",
+        "https://www.kucoin.com/news/flash/data-291m-in-crypto-futures-liquidations-in-24-hours",
+        "https://crypto.com/en/coins-ai/bitcoin/latest-news",
         "https://crypto.news/news/",
-        "https://www.youtube.com/watch?v=WI36SMQSexM"
+        "https://www.binance.com/en/square/news/all",
+        "https://en.isna.ir/news/1405051106373/Bitcoin-price-drops-50-buying-opportunity-or-start-of-a-downturn",
+        "https://coinstats.app/ai/a/latest-news-for-bitcoin"
       ]
     },
     "ai_news": {
@@ -438,90 +328,78 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 8,
       "items": [
         {
-          "title": "OpenAI launches ChatGPT Work for workplace automation",
-          "summary": "OpenAI unveiled ChatGPT Work, an agent in ChatGPT designed to execute tasks across different apps and files, intensifying competition in professional AI tools. The move underscores OpenAI’s continued push into enterprise automation.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/"
+          "title": "OpenAI broadens GPT-5.6 and launches ChatGPT Work",
+          "summary": "OpenAI reportedly released GPT-5.6 more broadly and introduced ChatGPT Work, an AI agent designed to gather context across apps and files to create documents on Mac and Windows. The rollout also includes different modes optimized for power and speed.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com/?full=t"
         },
         {
-          "title": "Meta opens developer access to Muse Spark 1.1",
-          "summary": "Meta released developer access to its Muse Spark AI model along with an upgraded version, positioning it more directly against Anthropic and OpenAI in paid AI offerings. The release signals a broader effort by Meta to compete in the enterprise AI market.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/"
+          "title": "OpenAI to discontinue ChatGPT Atlas browser",
+          "summary": "OpenAI is said to be phasing out ChatGPT Atlas, its standalone desktop browser, in favor of a new ChatGPT desktop app. This suggests a shift toward a unified desktop experience centered on the core ChatGPT product.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com/?full=t"
         },
         {
-          "title": "xAI launches Grok 4.5 for coding and agentic tasks",
-          "summary": "xAI launched Grok 4.5, which it describes as its most intelligent model yet and optimized for coding and agentic tasks. The release adds to the fast-moving competition among frontier model providers.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/"
+          "title": "Meta releases Muse Spark 1.1 for coding",
+          "summary": "Meta reportedly launched Muse Spark 1.1, a newer model that is described as more capable for coding and a major step up from the first generation. It is available to U.S. developers through a public API preview.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com/?full=t"
         },
         {
-          "title": "OpenAI releases GPT-Live voice models",
-          "summary": "OpenAI announced GPT-Live, a new family of voice models capable of listening and speaking simultaneously in real time. The release points to continued progress in low-latency, conversational AI.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/"
+          "title": "Ollama raises $65 million Series B",
+          "summary": "Ollama, a developer tool for running open-weight AI models locally, reportedly raised $65 million in a Series B round led by Theory Ventures. The funding underscores continued investor interest in local and open-model infrastructure.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com/?full=t"
         },
         {
-          "title": "Anthropic adds Ben Bernanke to its Long-Term Benefit Trust",
-          "summary": "Anthropic appointed former U.S. Federal Reserve chair Ben Bernanke to its Long-Term Benefit Trust, an oversight body meant to keep the company aligned with its public mission. The appointment highlights ongoing governance and safety positioning in the AI sector.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/"
+          "title": "Cognition releases SWE-1.7",
+          "summary": "Cognition reportedly released SWE-1.7, a model trained from Kimi K2.7 and integrated into Devin with throughput of 1,000 tokens per second. The company claims it approaches frontier-level intelligence at lower cost.",
+          "source": "Techmeme",
+          "url": "https://www.techmeme.com/?full=t"
         },
         {
-          "title": "New York Times-led group seeks sanctions against OpenAI in copyright case",
-          "summary": "A coalition of newspapers asked a federal court to sanction OpenAI, accusing it of misleading the court about its ability to search systems for evidence in the copyright dispute. The case remains one of the most important legal fights over AI training data.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/"
+          "title": "Wimbledon expands IBM AI coverage tools",
+          "summary": "Wimbledon is adding IBM-built AI features to its app and website for live match updates, contextual answers, and explanations of plays. The move reflects broader adoption of AI in sports media and fan engagement.",
+          "source": "Artificial Intelligence News",
+          "url": "https://www.artificialintelligence-news.com/"
         },
         {
-          "title": "Italy fines Character.AI owner over data protection breaches",
-          "summary": "Italy’s data protection authority fined Character Technologies, owner of Character.AI, for violations of data protection rules. The penalty adds to scrutiny of AI chatbots and user data handling in Europe.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/"
+          "title": "Google to disclose which ads are made with AI",
+          "summary": "Google will now disclose which ads are created with AI, according to recent reporting. The change points to growing pressure for transparency around synthetic media in advertising.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/category/artificial-intelligence/"
         },
         {
-          "title": "Meta announces major data center build in Alberta",
-          "summary": "Meta said it will build a large data center in central Alberta, its first in Canada, as it expands computing capacity for AI. The announcement reflects the industry’s continued infrastructure spending boom.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/artificial-intelligence/"
-        },
-        {
-          "title": "ChatGPT ad plans and AI monetization intensify industry focus",
-          "summary": "Recent AI coverage shows a broader industry shift toward monetization, including OpenAI’s reported plans to explore ads for free ChatGPT users and other companies expanding paid AI services. The trend indicates that revenue generation is becoming as important as model launches.",
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/section/technology/artificial-intelligence/"
-        },
-        {
-          "title": "Apple-style AI competition accelerates as companies race for enterprise adoption",
-          "summary": "Coverage across multiple outlets points to a wider trend of AI firms targeting workplace and enterprise use cases, with new agents, voice tools, and developer-access model releases. Competition is increasingly centered on practical productivity features rather than only benchmark performance.",
+          "title": "Gradium raises $100 million seed round",
+          "summary": "Paris-based AI voice startup Gradium reportedly raised a $100 million seed round with backing from Nvidia. The deal highlights continued investor appetite for voice AI and infrastructure startups.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/category/artificial-intelligence/"
         }
       ],
       "citations": [
-        "https://www.reuters.com/technology/artificial-intelligence/",
         "https://techcrunch.com/category/artificial-intelligence/",
         "https://www.wsj.com/tech/ai",
         "https://www.analyticsinsight.net/artificial-intelligence",
+        "https://thirdruntime.com/",
         "https://aibriefing.dev/",
         "https://economictimes.indiatimes.com/tech/artificial-intelligence",
-        "https://www.bbc.com/news/topics/ce1qrvleleqt",
-        "https://www.wired.com/tag/artificial-intelligence/",
-        "https://aidailypost.com/",
         "https://www.dxtoday.com/blog/",
-        "https://apnews.com/hub/artificial-intelligence",
-        "https://zglg.work/en/ai/news",
-        "https://www.nytimes.com/spotlight/artificial-intelligence",
-        "https://aiquickfeeds.com/",
-        "https://www.nbcnews.com/artificial-intelligence",
+        "https://aidailypost.com/",
+        "https://www.techmeme.com/?full=t",
+        "https://www.cnnbrasil.com.br/tudo-sobre/inteligencia-artificial/",
+        "https://spidits.com/",
+        "https://www.scmp.com/topics/artificial-intelligence",
         "https://www.artificialintelligence-news.com/",
+        "https://aiquickfeeds.com/",
+        "https://zglg.work/en/ai/news",
         "https://indianexpress.com/section/technology/artificial-intelligence/",
         "https://aitoolsrecap.com/daily-ai-news.aspx",
+        "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
         "https://podcasts.apple.com/us/podcast/the-ai-daily-brief-artificial-intelligence-news/id1680633614",
-        "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/"
+        "https://economictimes.indiatimes.com/tech"
       ]
     },
     "gaming": {
@@ -532,26 +410,26 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.nbcnews.com/tech/video-games",
-        "https://www.ign.com/news",
-        "https://gamerant.com/gaming/",
         "https://www.gamesradar.com/",
-        "https://gameinformer.com/",
+        "https://vgtimes.com/gaming-news/",
+        "https://happygamer.com/",
         "https://vandal.elespanol.com/noticias/videojuegos",
+        "https://gamingbolt.com/category/news",
         "https://gadgetsnow.indiatimes.com/gaming",
-        "https://news.instant-gaming.com/en",
-        "https://www.nintendolife.com/",
-        "https://game.ettoday.net/",
-        "https://www.thegamer.com/",
-        "https://arstechnica.com/gaming/",
-        "https://www.youtube.com/watch?v=ShA-u48gamw",
-        "https://www.videogameschronicle.com/category/news/",
-        "https://www.youtube.com/watch?v=aZhEFLfzU4c",
         "https://www.pcgamer.com/games/",
-        "https://opencritic.com/news",
-        "https://ixbt.games/en/news",
-        "https://www.gamereactor.eu/news/",
-        "https://www.polygon.com/"
+        "https://arstechnica.com/gaming/",
+        "https://www.pushsquare.com/news",
+        "https://gamingbolt.com/",
+        "https://www.youtube.com/watch?v=km1OtVkdGnQ",
+        "https://www.youtube.com/watch?v=8aaKu_JJWnM",
+        "https://www.videogameschronicle.com/category/news/",
+        "https://www.facebook.com/MLS/videos/messi-is-back-after-leading-argentina-to-its-second-straight-world-cup-final-app/1059431089874883/",
+        "https://www.ign.com/videos/devora-wilde-revisits-her-greatest-video-game-performances",
+        "https://www.reddit.com/r/Finland/comments/1vdoea8/finnish_game_studio_social_first_raised_millions/",
+        "https://www.facebook.com/JomboyMedia/videos/benches-cleared-following-the-final-out-of-tigers-vs-as-after-kenley-jansen-took/753446311195109/",
+        "https://www.instagram.com/reel/DbhIaoSuld3/",
+        "https://www.youtube.com/watch?v=p88YJJM2m4E",
+        "https://www.youtube.com/watch?v=6pKzoKU-BHs"
       ]
     },
     "tech_news": {
@@ -559,29 +437,66 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 6,
+      "items": [
+        {
+          "title": "Apple expands its Broadcom chipmaking deal to $30 billion-plus",
+          "summary": "Apple committed more than $30 billion to Broadcom in a major U.S. chipmaking partnership, marking its largest American manufacturing commitment so far. The move underscores Apple’s push to secure more domestic semiconductor supply.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/technology/"
+        },
+        {
+          "title": "Microsoft cuts nearly 5,000 jobs, with Xbox hit hardest",
+          "summary": "Microsoft laid off about 3,200 workers across its Xbox business as part of a broader restructuring that also includes nearly 5,000 total job cuts. The company said it is shifting resources toward artificial intelligence and away from parts of its struggling gaming division.",
+          "source": "New York Post",
+          "url": "https://nypost.com/tech/"
+        },
+        {
+          "title": "Google loses final EU appeal over $4.7 billion antitrust fine",
+          "summary": "Google failed in its last attempt to overturn the European Union’s record antitrust penalty, leaving the $4.7 billion fine in place. The decision adds to mounting regulatory pressure on Big Tech in Europe.",
+          "source": "New York Post",
+          "url": "https://nypost.com/tech/"
+        },
+        {
+          "title": "Australia moves to tighten child social media restrictions",
+          "summary": "Australia said it will strengthen its laws banning children under 16 from social media platforms and double possible fines for companies that do not comply. The changes would intensify oversight of major platforms such as Facebook and Instagram.",
+          "source": "Associated Press",
+          "url": "https://apnews.com/technology"
+        },
+        {
+          "title": "EU introduces new steel and e-commerce rules targeting China trade imbalance",
+          "summary": "The European Union unveiled new measures aimed at protecting its steel industry and limiting small e-commerce parcels. The policies are part of a broader effort to reduce trade imbalance concerns with China.",
+          "source": "Associated Press",
+          "url": "https://apnews.com/technology"
+        },
+        {
+          "title": "South Korean chip giants unveil $518 billion manufacturing hub plan",
+          "summary": "Samsung Electronics and SK Hynix announced plans to invest a combined $518 billion in a new chipmaking hub. The project is designed to support soaring demand tied to the global semiconductor boom.",
+          "source": "Associated Press",
+          "url": "https://apnews.com/technology"
+        }
+      ],
       "citations": [
-        "https://www.reuters.com/technology/",
-        "https://www.nytimes.com/section/technology",
-        "https://www.cnn.com/business/tech",
-        "https://apnews.com/technology",
-        "https://www.techmeme.com/river",
-        "https://economictimes.indiatimes.com/tech",
-        "https://www.bbc.com/technology",
-        "https://techcrunch.com/",
+        "https://www.technewsworld.com/",
+        "https://www.theinformation.com/articles",
         "https://www.cnbc.com/technology/",
         "https://nypost.com/tech/",
+        "https://apnews.com/technology",
         "https://www.scmp.com/tech/big-tech",
-        "https://www.geekwire.com/",
-        "https://www.nbcnews.com/tech-media",
+        "https://techcrunch.com/",
+        "https://economictimes.indiatimes.com/tech",
         "https://indianexpress.com/section/technology/",
-        "https://www.wired.com/",
-        "https://economictimes.indiatimes.com/tech/artificial-intelligence",
         "https://economictimes.indiatimes.com/tech/technology",
-        "https://habr.com/ru/news/top/daily/",
-        "https://gadgetsnow.indiatimes.com/tech-news",
-        "https://www.ynet.co.il/digital/technews"
+        "https://www.pcmag.com/news",
+        "https://www.youtube.com/watch?v=VVfTS50v91I",
+        "https://www.youtube.com/watch?v=65qup9OAXQE",
+        "https://www.youtube.com/watch?v=R3-J9pq3DrE",
+        "https://www.youtube.com/watch?v=sz-VZDuYrmU",
+        "https://www.instagram.com/reel/DbhrOI5jsbL/",
+        "https://www.euronews.com/video/2026/08/02/latest-news-bulletin-august-2nd-2026-morning",
+        "https://www.reddit.com/r/dataisbeautiful/comments/1vd1s0l/oc_24_hours_of_active_fire_detections_from_nasa/",
+        "https://www.facebook.com/MKBHD/videos/this-scale-makes-modern-computers-feel-unreal-technology-engineering-mkbhd/1723853952214901/",
+        "https://www.instagram.com/reel/Dbfd6MAjoiD/"
       ]
     }
   }
