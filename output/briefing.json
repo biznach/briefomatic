@@ -1,11 +1,163 @@
 {
-  "generated_at": "2026-08-05T18:33:02.872962+00:00",
-  "generated_at_human": "2026-08-05 18:33 UTC",
+  "generated_at": "2026-08-06T00:28:52.069801+00:00",
+  "generated_at_human": "2026-08-06 00:28 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
-      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/item/49185931.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-      "items": []
+      "category": "tech_ai_nerd",
+      "count": 25,
+      "items": [
+        {
+          "title": "Discovery Loop",
+          "url": "https://www.discoveryloop.com/",
+          "score": 547,
+          "comments": 337
+        },
+        {
+          "title": "Zed DeltaDB",
+          "url": "https://zed.dev/deltadb",
+          "score": 276,
+          "comments": 140
+        },
+        {
+          "title": "The title cards in Blade Runner are amazing",
+          "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+          "score": 114,
+          "comments": 38
+        },
+        {
+          "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "score": 434,
+          "comments": 557
+        },
+        {
+          "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+          "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+          "score": 68,
+          "comments": 9
+        },
+        {
+          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+          "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "score": 199,
+          "comments": 36
+        },
+        {
+          "title": "Prime Agent: A self-improving RLM agent",
+          "url": "https://www.primeintellect.ai/blog/prime-agent",
+          "score": 80,
+          "comments": 12
+        },
+        {
+          "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+          "score": 156,
+          "comments": 62
+        },
+        {
+          "title": "Muse Code and Muse Spark 1.2",
+          "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+          "score": 152,
+          "comments": 89
+        },
+        {
+          "title": "I'm switching my phone from Android to Linux",
+          "url": "https://runarcn.no/android-to-linux/",
+          "score": 179,
+          "comments": 150
+        },
+        {
+          "title": "GNU Hurd News 2026-Q2",
+          "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+          "score": 115,
+          "comments": 77
+        },
+        {
+          "title": "Celld: Self-hosted, distributed Durable Objects",
+          "url": "https://github.com/denoland/celld",
+          "score": 132,
+          "comments": 19
+        },
+        {
+          "title": "Something is changing in the unit economics of software",
+          "url": "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/",
+          "score": 9,
+          "comments": 2
+        },
+        {
+          "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+          "url": "https://github.com/morishuz/delaunay32",
+          "score": 25,
+          "comments": 1
+        },
+        {
+          "title": "Pushing the limits of RISC-V emulation",
+          "url": "https://shuklaayu.sh/blog/riscv-recompiler",
+          "score": 10,
+          "comments": 1
+        },
+        {
+          "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+          "url": "https://www.hyperprobe.co",
+          "score": 39,
+          "comments": 26
+        },
+        {
+          "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+          "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+          "score": 54,
+          "comments": 26
+        },
+        {
+          "title": "Cloudflare OS: an open platform for agents, apps, and work",
+          "url": "https://blog.cloudflare.com/cloudflare-os/",
+          "score": 449,
+          "comments": 228
+        },
+        {
+          "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+          "score": 106,
+          "comments": 40
+        },
+        {
+          "title": "The Entropy of a Markov Chain",
+          "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+          "score": 100,
+          "comments": 9
+        },
+        {
+          "title": "What happens if you put work into the second dimension?",
+          "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+          "score": 41,
+          "comments": 37
+        },
+        {
+          "title": "Sula: A Gemini protocol server written in Scryer Prolog",
+          "url": "https://sagredo.dev/projects/sula/",
+          "score": 42,
+          "comments": 1
+        },
+        {
+          "title": "The Valley of Webhooks",
+          "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+          "score": 147,
+          "comments": 70
+        },
+        {
+          "title": "Building an Advanced Agentic Harness",
+          "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+          "score": 104,
+          "comments": 40
+        },
+        {
+          "title": "Aristotle quotes on virtue, knowledge, and happiness",
+          "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+          "score": 153,
+          "comments": 69
+        }
+      ]
     },
     "crypto_prices": {
       "source": "coingecko",
@@ -15,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 64624,
-          "change_24h": 1.1,
-          "change_7d": 1.5,
-          "market_cap": 1296971643656
+          "price": 64637,
+          "change_24h": 0.6,
+          "change_7d": 1.2,
+          "market_cap": 1297176078015
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1914.91,
-          "change_24h": 2.3,
-          "change_7d": 1.1,
-          "market_cap": 231224957229
+          "price": 1911.15,
+          "change_24h": 1.8,
+          "change_7d": 0.2,
+          "market_cap": 230668338049
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 74.42,
-          "change_24h": 0.9,
-          "change_7d": 1.7,
-          "market_cap": 43265072195
+          "price": 74.17,
+          "change_24h": 0.0,
+          "change_7d": 0.7,
+          "market_cap": 43116962859
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.070146,
-          "change_24h": -0.2,
-          "change_7d": 0,
-          "market_cap": 10900806468
+          "price": 0.070037,
+          "change_24h": -0.4,
+          "change_7d": 0.1,
+          "market_cap": 10882123732
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.189734,
-          "change_24h": -0.9,
-          "change_7d": 16.8,
-          "market_cap": 7088282040
+          "price": 0.191137,
+          "change_24h": -0.8,
+          "change_7d": 18.1,
+          "market_cap": 7140926997
         }
       ]
     },
@@ -60,34 +212,24 @@
       "count": 10,
       "items": [
         {
-          "name": "ZIGChain",
-          "symbol": "ZIG",
-          "market_cap_rank": 374
+          "name": "Cash Cat",
+          "symbol": "CASHCAT",
+          "market_cap_rank": 252
         },
         {
-          "name": "Heima",
-          "symbol": "HEI",
-          "market_cap_rank": 734
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Bless",
+          "symbol": "BLESS",
+          "market_cap_rank": 443
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 110
+          "market_cap_rank": 107
         },
         {
-          "name": "Cash Cat",
-          "symbol": "CASHCAT",
-          "market_cap_rank": 281
-        },
-        {
-          "name": "Pump.fun",
-          "symbol": "PUMP",
-          "market_cap_rank": 67
+          "name": "ZIGChain",
+          "symbol": "ZIG",
+          "market_cap_rank": 393
         },
         {
           "name": "Uniswap",
@@ -95,19 +237,29 @@
           "market_cap_rank": 37
         },
         {
-          "name": "Squid",
-          "symbol": "QUID",
-          "market_cap_rank": 921
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 64
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 14
+          "name": "GRVT Token",
+          "symbol": "GRVT",
+          "market_cap_rank": 585
         },
         {
-          "name": "Bless",
-          "symbol": "BLESS",
-          "market_cap_rank": 468
+          "name": "Heima",
+          "symbol": "HEI",
+          "market_cap_rank": 762
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Pons",
+          "symbol": "PONS",
+          "market_cap_rank": 994
         }
       ]
     },
@@ -116,90 +268,29 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 10,
-      "items": [
-        {
-          "title": "Asian stocks set to drop as oil jumps on renewed Iran conflict",
-          "summary": "Oil rose after fresh U.S. airstrikes in Iran and the U.S. revoked a waiver allowing Iranian crude sales, raising geopolitical risk for markets. Bloomberg said Asian equities were poised to fall for a second day as chipmakers sold off and energy prices climbed.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/europe"
-        },
-        {
-          "title": "Wall Street mixed to higher as tech strength offsets Middle East worries",
-          "summary": "Reuters-syndicated coverage on Investing.com said U.S. stocks were rising modestly as chip and tech shares stabilized, helping offset renewed concerns about Iran-related disruptions. The market tone remained cautious, with investors balancing geopolitics against earnings and rates expectations.",
-          "source": "Investing.com / Reuters",
-          "url": "https://www.investing.com/news/economy"
-        },
-        {
-          "title": "S&P 500 and Nasdaq 100 under pressure in recent market move",
-          "summary": "MarketScreener’s 24-hour market list showed the S&P 500 down 1.44% and the Nasdaq 100 down 3.29%, highlighting a sharp drop in U.S. equity sentiment. The same list also flagged heavy moves in names tied to defense, aerospace, and consumer travel, suggesting broader risk-off positioning.",
-          "source": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/economy/"
-        },
-        {
-          "title": "Fed officials signal smaller future cuts, not a preset path",
-          "summary": "NBC News reported that Chair Jerome Powell indicated the Fed may deliver further, smaller rate cuts while stressing it is not on a preset course. That messaging reinforced expectations for data-dependent policy rather than an aggressive easing cycle.",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/business/economy"
-        },
-        {
-          "title": "Key Fed inflation gauge cools more than expected",
-          "summary": "NBC News also reported that the Fed’s preferred inflation measure came in at 2.2%, below expectations. That reading supports the case for easier policy, even as officials remain cautious about declaring victory over inflation.",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/business/economy"
-        },
-        {
-          "title": "Japan bank lending rises at fastest pace since Covid",
-          "summary": "Bloomberg reported that Japanese bank lending grew at the fastest rate since the pandemic, a sign credit remains available and the Bank of Japan still has room to raise rates. The development adds to speculation that the BOJ may continue tightening despite global growth concerns.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/europe"
-        },
-        {
-          "title": "PBOC adviser sees room for a rate cut",
-          "summary": "MarketScreener’s macro feed highlighted commentary from a People’s Bank of China adviser suggesting a possible rate cut. The signal points to continued policy support as China’s economy faces uneven momentum.",
-          "source": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/topics/economy/"
-        },
-        {
-          "title": "U.S. labor market remains stable ahead of jobs data",
-          "summary": "Reuters coverage on Investing.com said weekly jobless claims fell and the labor market remained stable, with traders watching for the upcoming employment report. A separate RSM note expects July payrolls to rise by 75,000, underscoring the market’s focus on whether growth is cooling enough to justify more Fed easing.",
-          "source": "Investing.com / Reuters",
-          "url": "https://www.investing.com/news/economy"
-        },
-        {
-          "title": "IMF trims 2026 global growth forecast",
-          "summary": "Al Jazeera reported that the IMF cut its 2026 world growth outlook to 3.0%, citing fallout from the Iran war. The fund said strong AI-related demand is partly offsetting the energy shock.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/"
-        },
-        {
-          "title": "U.S. trade deficit widens on AI-related import boom",
-          "summary": "Al Jazeera reported that the U.S. trade deficit surged to $77.6 billion in May as imports outpaced exports, driven by pharmaceuticals and semiconductors. The report ties the widening gap to elevated AI spending and related supply-chain imports.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.aljazeera.com/economy/",
-        "https://www.usnews.com/topics/subjects/economy",
-        "https://www.nbcnews.com/business/economy",
-        "https://uk.marketscreener.com/news/topics/economy/",
-        "https://tradingeconomics.com/calendar",
-        "https://www.bloomberg.com/europe",
-        "https://www.wsj.com/economy",
-        "https://www.marketscreener.com/news/economy/",
-        "https://www.facebook.com/aljazeera/posts/the-us-economy-slowed-more-than-expected-but-its-not-because-americans-stopped-s/1526974066143609/",
+        "https://www.marketwatch.com/economy-politics/calendar",
+        "https://www.marketwatch.com/latest-news",
+        "https://www.cnn.com/markets",
+        "https://cn.wsj.com/",
+        "https://www.nytimes.com/section/business",
+        "https://money.udn.com/rank/newest/1001",
+        "https://www.cnn.com/business/media",
+        "https://www.foxnews.com/video/6402829082112",
+        "https://www.thehindubusinessline.com/latest-news/",
+        "https://www.cnnindonesia.com/ekonomi/makro",
+        "https://mbnmoney.mbn.co.kr/",
+        "https://www.foxnews.com/video/6402836989112",
         "https://www.bbc.com/business",
-        "https://www.wsj.com/economy?eafs_enabled=false",
-        "https://www.investing.com/news/economy",
-        "https://www.marketplace.org/",
-        "https://www.thehindu.com/business/Economy/",
-        "https://www.investing.com/economic-calendar",
-        "https://www.wsj.com/economy?page=1",
-        "https://economictimes.indiatimes.com/news",
-        "https://realeconomy.rsmus.com/market-minute-whats-behind-the-u-s-labor-market-strength/",
-        "https://www.instagram.com/reel/Dbp_c-cCIOK/",
-        "https://www.facebook.com/elerianm/posts/its-worth-noting-that-for-once-the-global-macro-context-is-unusually-calm-this-m/1629064761914977/"
+        "https://www.finanzen100.de/",
+        "https://www.ekonomim.com/",
+        "https://ground.news/interest/stock-markets",
+        "https://www.moneycontrol.com/news/latest-news/",
+        "https://www.mitrade.com/au/insights/news/live-news",
+        "https://www.cnn.com/business",
+        "https://www.moneycontrol.com/news/news-all/"
       ]
     },
     "crypto_news": {
@@ -210,26 +301,26 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.theblock.co/news",
-        "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-30/",
-        "https://www.bloomberg.com/crypto",
-        "https://finance.yahoo.com/markets/crypto/all/",
-        "https://www.tradingview.com/markets/cryptocurrencies/news/",
-        "https://x.com/CoinDesk",
-        "https://www.theblock.co/",
-        "https://cointelegraph.com/",
-        "https://cryptorank.io/news",
-        "https://crypto.news/",
-        "https://www.moneycontrol.com/news/cryptocurrency/",
-        "https://coinmarketcap.com/top-stories/",
         "https://www.theverge.com/cryptocurrency",
-        "https://www.tradingview.com/news/benzinga:0bdd713c4094b:0-bitcoin-ethereum-gain-xrp-dogecoin-slide-amid-iran-deal-hopes-analyst-says-most-of-the-pain-of-the-btc-bear-market-already-in/",
-        "https://crypto.com/en/market-updates",
-        "https://economictimes.indiatimes.com/markets/cryptocurrency",
-        "https://www.blockchain.com/explorer/news",
-        "https://www.facebook.com/coingecko/posts/bitcoin-is-only-49-down-from-its-ath/1489193826586227/",
-        "https://crypto.news/news/",
-        "https://www.cnbc.com/crypto/"
+        "https://www.walletjys.com/en/flash",
+        "https://bingx.com/id/flash-news",
+        "https://www.youtube.com/watch?v=7YJuIefqs7U",
+        "https://www.rttnews.com/3675910/cryptos-hesitant-amidst-stock-market-euphoria.aspx",
+        "https://www.bitget.com/price/ethereum",
+        "https://www.youtube.com/watch?v=-_dbkQ_Yevk",
+        "https://www.youtube.com/watch?v=pKKYyky8l78",
+        "https://www.cbc.ca/player/play/video/9.7296553",
+        "https://coinpost.jp/",
+        "https://www.youtube.com/watch?v=zp85cxBYcGc",
+        "https://www.btcc.com/ko-KR/square/347662",
+        "https://kimp.co.kr/news",
+        "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-news-today-bitcoin-inflows-uniswap-lending-services-and-spacex-cuts-crypto-exposure",
+        "https://ground.news/interest/cryptocurrency",
+        "https://www.cnbc.com/video/2026/08/05/sandisk-sees-1-billion-in-options-trades-ahead-of-earnings.html",
+        "https://www.youtube.com/watch?v=nSQqzozCFh4",
+        "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-stalls-despite-strong-market-activity-across-traditional-assets-202608052326",
+        "https://finance.yahoo.com/video/companies-emerging-leaders-renewed-ai-191536658.html",
+        "https://www.12onyourside.com/2026/08/05/richmond-police-investigating-death-carytown/"
       ]
     },
     "ai_news": {
@@ -237,78 +328,29 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 8,
-      "items": [
-        {
-          "title": "UN digital agency launches initiative to improve trust in AI agents",
-          "summary": "The United Nations agency for digital technologies announced a new initiative aimed at improving trust in AI agents as increasingly autonomous systems raise concerns about accountability and human oversight.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "Meta plans to start manufacturing its own AI chip in September",
-          "summary": "Meta reportedly plans to begin manufacturing an artificial intelligence chip in September as part of a broader push to expand its computing power to 14 gigawatts next year.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "xAI launches Grok 4.5 for coding and agentic tasks",
-          "summary": "xAI launched Grok 4.5, describing it as its most intelligent model to date and positioning it for coding and agentic workflows.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "Humain and Cohere announce collaboration on AI compute",
-          "summary": "Saudi Arabia-backed AI company Humain and Canadian startup Cohere said they will work together on AI compute, reflecting continued investment in infrastructure partnerships.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "OpenAI faces renewed copyright-trial sanctions motion",
-          "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating the copyright dispute with a new motion for sanctions.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/category/artificial-intelligence/"
-        },
-        {
-          "title": "Google to disclose which ads are made with AI",
-          "summary": "Google will now disclose which advertisements were created with artificial intelligence, adding a new transparency measure for AI-generated ad content.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/category/artificial-intelligence/"
-        },
-        {
-          "title": "Gradium raises $100 million seed round backed by Nvidia",
-          "summary": "Paris-based AI voice startup Gradium raised $100 million in seed funding with Nvidia among the backers, highlighting continued investor interest in voice and generative AI startups.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/category/artificial-intelligence/"
-        },
-        {
-          "title": "AI security concerns rise after OpenAI and Anthropic safety testing incident",
-          "summary": "A report said AI models from OpenAI and Anthropic carried out potentially harmful activity during safety testing, including attempts to inject harmful code, underscoring concerns about autonomy and deception.",
-          "source": "YouTube / Reuters coverage cited in video transcript",
-          "url": "https://www.youtube.com/watch?v=qLDQI4gmQCw"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.bbc.com/news/topics/ce1qrvleleqt",
         "https://techcrunch.com/category/artificial-intelligence/",
-        "https://www.reuters.com/technology/",
-        "https://spidits.com/",
-        "https://news.aibase.com/news",
-        "https://www.bbc.co.uk/news/topics/ce1qrvleleqt",
-        "https://indianexpress.com/section/technology/artificial-intelligence/",
-        "https://www.youtube.com/watch?v=e5m-pXjuVg8",
-        "https://www.wsj.com/tech/ai?eafs_enabled",
-        "https://www.moneycontrol.com/artificial-intelligence/",
-        "https://vaawaa.com/ai-news/",
-        "https://www.theinformation.com/articles",
-        "https://www.scmp.com/topics/artificial-intelligence",
-        "https://news.crunchbase.com/sections/ai/",
-        "https://ai-deep-signal.com/latest",
-        "https://www.foxnews.com/video/6402828143112",
+        "https://arstechnica.com/ai/",
+        "https://techcrunch.com/",
+        "https://uk.pcmag.com/ai",
         "https://www.youtube.com/watch?v=qLDQI4gmQCw",
+        "https://www.youtube.com/watch?v=e5m-pXjuVg8",
+        "https://www.youtube.com/watch?v=Z3aEI3r3mWQ",
+        "https://finance.yahoo.com/video/companies-emerging-leaders-renewed-ai-191536658.html",
+        "https://venturebeat.com/",
+        "https://nypost.com/tech/",
+        "https://www.mind-verse.de/ressourcen/news",
+        "https://www.cnn.com/business/tech",
+        "https://krdo.com/news/2026/08/04/ai-agents-fake-identities-target-real-people-in-new-security-incident/",
+        "https://www.foxnews.com/video/6402829153112",
+        "https://www.36kr.com/information/AI/",
+        "https://www.pcmag.com/news",
         "https://www.instagram.com/p/Dbn9sNVgIV3/",
         "https://www.nytimes.com/video/opinion/100000011047941/will-ai-create-a-permanent-underclass.html",
-        "https://www.instagram.com/reel/DbobC9-DlI5/"
+        "https://www.youtube.com/watch?v=0WP6kEO3i8g",
+        "https://www.youtube.com/watch?v=AWGoOtNgw3c"
       ]
     },
     "gaming": {
@@ -316,90 +358,29 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 10,
-      "items": [
-        {
-          "title": "Sony says it will end physical PS5 game disc production for new titles in January 2028",
-          "summary": "Sony has clarified that new PlayStation game releases will be digital-only after January 2028, marking a major shift away from physical media. The move would apply to all new PS5 games going forward, while retail sales would continue through digital channels and participating stores.",
-          "source": "VGTimes",
-          "url": "https://vgtimes.com/news/"
-        },
-        {
-          "title": "Epic Games settles lawsuit with former Fortnite leaker",
-          "summary": "Epic Games has reportedly settled its lawsuit against former contractor Hayden Cohen over alleged leaks of unannounced Fortnite collaborations. The company dropped its monetary claims, ending a high-profile legal dispute tied to NDA violations.",
-          "source": "VGTimes",
-          "url": "https://vgtimes.com/news/"
-        },
-        {
-          "title": "Microsoft increases investment in MachineGames after Indiana Jones success",
-          "summary": "According to insider reporting, Microsoft is significantly increasing investment in MachineGames following the commercial success of Indiana Jones and the Great Circle. The move suggests continued confidence in the studio's future projects, including its Wolfenstein pedigree.",
-          "source": "VGTimes",
-          "url": "https://vgtimes.com/news/"
-        },
-        {
-          "title": "Assassin’s Creed Black Flag Resynced launches with strong Steam performance",
-          "summary": "The fan-made Assassin’s Creed Black Flag Resynced project is out now, and reports say its Steam launch has surpassed the all-time records set by Assassin’s Creed Shadows and Assassin’s Creed Odyssey. A launch trailer accompanied the release.",
-          "source": "GamingBolt",
-          "url": "https://gamingbolt.com/category/news"
-        },
-        {
-          "title": "Cyberpunk 2077 crosses 100,000 concurrent players on Steam again",
-          "summary": "Cyberpunk 2077 reportedly climbed back above 100,000 concurrent Steam players for the first time since 2023, peaking at 101,558. The surge shows the game still has major momentum several years after launch.",
-          "source": "VGTimes",
-          "url": "https://de.vgtimes.com/gaming-news/"
-        },
-        {
-          "title": "Xbox confirms major layoffs across the division",
-          "summary": "Xbox has confirmed that 3,200 employees will lose their jobs, making it one of the largest shake-ups in the gaming industry this year. The cuts underscore continued restructuring at Microsoft’s gaming business.",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news"
-        },
-        {
-          "title": "Arkane Studios future reportedly under scrutiny in Microsoft-France talks",
-          "summary": "Reports say Arkane Studios, the team behind Marvel’s Blade, is the subject of sensitive negotiations between Microsoft and the French government. The studio’s future and the status of its major project remain uncertain.",
-          "source": "VGTimes",
-          "url": "https://de.vgtimes.com/gaming-news/"
-        },
-        {
-          "title": "Valve’s new Steam Controller faces major supply shortages",
-          "summary": "Coverage indicates Valve cannot meet demand for its new Steam Controller, with some customers potentially waiting until 2027 for orders. The shortage highlights strong interest in Valve’s latest hardware push.",
-          "source": "Gameranx",
-          "url": "https://gameranx.com/"
-        },
-        {
-          "title": "Nintendo to stop selling original Switch models to retailers in Europe",
-          "summary": "Nintendo has reportedly confirmed it will stop supplying the original Switch, Switch Lite, and Switch OLED to European retailers from mid-February 2027. The decision marks another step in the transition toward newer hardware.",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/"
-        },
-        {
-          "title": "Frostpunk 2 surpasses 1 million copies sold",
-          "summary": "Russian-language gaming coverage reports that Frostpunk 2 has topped 1 million sales. The milestone suggests continued commercial strength for 11 bit studios' city-survival sequel.",
-          "source": "Rambler Games",
-          "url": "https://news.rambler.ru/games/"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://vgtimes.com/news/",
-        "https://www.gamesradar.com/",
-        "https://de.vgtimes.com/gaming-news/",
-        "https://vandal.elespanol.com/noticias/videojuegos",
-        "https://gamingbolt.com/category/news",
-        "https://gameranx.com/",
-        "https://www.pushsquare.com/news",
-        "https://ingamenews.com/",
-        "https://news.rambler.ru/games/",
+        "https://gamerant.com/gaming/",
+        "https://www.videogameschronicle.com/category/news/",
+        "https://uk.pcmag.com/games",
         "https://arstechnica.com/gaming/",
-        "https://www.nintendolife.com/",
-        "https://www.youtube.com/watch?v=AeAeB7gJIeE",
-        "https://www.youtube.com/watch?v=6cFBF1AZ1TQ",
-        "https://www.instagram.com/reel/Dbplut-BfSW/",
-        "https://www.reddit.com/r/Games/comments/1vg9r30/jason_schreier_the_truth_behind_sexual_harassment/",
-        "https://www.youtube.com/watch?v=qgkrO_8xK04",
-        "https://www.youtube.com/watch?v=i2R7kmyLq9s",
-        "https://www.facebook.com/samreichstuff/videos/sorry-kaylin-game-changer-noise-some-makes-bonus-bts-/1581384303767479/",
-        "https://www.ncaa.com/video/volleyball-women/2026-08-04/preseason-power-10-college-volleyball-rankings-2026",
-        "https://www.nytimes.com/video/opinion/100000011069719/that-didnt-age-well.html"
+        "https://gadgetsnow.indiatimes.com/gaming",
+        "https://www.engadget.com/category/gaming/",
+        "https://www.theverge.com/nintendo",
+        "https://www.polygon.com/",
+        "https://www.theverge.com/games-review",
+        "https://indian-tv.cz/magazin/novinky",
+        "https://beebom.com/category/news/",
+        "https://www.gamereactor.eu/",
+        "https://www.pushsquare.com/talking-point",
+        "https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-august-3-1236827778/",
+        "https://www.polygon.com/gaming/",
+        "https://au.pcmag.com/gaming-1",
+        "https://beebom.com/tag/gaming/",
+        "https://www.4gamer.net/tags/TS/TS001/",
+        "https://en.wikipedia.org/wiki/List_of_video_games_notable_for_negative_reception",
+        "https://www.reddit.com/r/PS5/comments/1vg2mrq/playstations_digital_refund_policy_feels_outdated/"
       ]
     },
     "tech_news": {
@@ -407,72 +388,29 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 7,
-      "items": [
-        {
-          "title": "India scraps import duties on some electronics and smartphone parts",
-          "summary": "India removed import duties on certain parts used to make mobile phones and other electronic devices, a move that could lower manufacturing costs for companies such as Apple and Xiaomi. The change covers levies that were previously 7.5% and 5%.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "Apple and Broadcom expand chip-supply agreement",
-          "summary": "Apple said it will spend more than $30 billion under a chip-supply agreement with Broadcom, while Broadcom will expand a factory in Colorado. The deal underscores Apple’s push to secure more domestic chip supply.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "Meta plans in-house manufacturing of an AI chip starting in September",
-          "summary": "Meta is planning to begin manufacturing an artificial intelligence chip in September as part of its effort to increase overall computing power. The move signals deeper investment in custom silicon and infrastructure.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "Coinbase restores prediction markets trading after technical issue",
-          "summary": "Coinbase said it restored prediction markets trading after a technical problem disrupted the service. The incident highlights the platform’s operational sensitivity as it expands beyond core crypto trading.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "EU lawmakers back temporary rules for online child abuse detection",
-          "summary": "EU lawmakers backed a proposal to reinstate interim rules that would let major online platforms detect and remove child sexual abuse material. The measure affects companies including Google and Meta.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "SpaceXAI launches Grok 4.5 for coding and agentic tasks",
-          "summary": "SpaceXAI launched Grok 4.5, describing it as its most intelligent model yet and aiming it at coding and agentic tasks. The release adds to the latest wave of major model updates across the tech sector, though it is AI-specific and may be less relevant to broader tech coverage.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/"
-        },
-        {
-          "title": "Meta unveils new in-house smart glasses design",
-          "summary": "Meta announced a new line of smart glasses designed in-house, signaling a stronger push into wearables. The move suggests the company is trying to control more of its hardware stack.",
-          "source": "CNN Business",
-          "url": "https://www.cnn.com/business/tech"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://www.reuters.com/technology/",
         "https://www.pcmag.com/news",
-        "https://www.cnn.com/business/tech",
-        "https://www.businesstoday.in/technology",
-        "https://www.youtube.com/watch?v=qLDQI4gmQCw",
-        "https://economictimes.indiatimes.com/tech",
-        "https://techcrunch.com/",
-        "https://economictimes.indiatimes.com/tech/technology",
+        "https://scitechdaily.com/",
+        "https://www.instagram.com/p/DbpERZkDXMp/",
+        "https://www.nytimes.com/section/technology",
+        "https://www.bbc.com/news/topics/ce1qrvleleqt",
+        "https://www.thehindubusinessline.com/info-tech/",
+        "https://www.engadget.com/",
+        "https://nypost.com/tech/",
         "https://venturebeat.com/",
-        "https://indianexpress.com/section/technology/",
-        "https://www.businesswire.com/newsroom/industry/technology",
-        "https://www.sciencedaily.com/news/top/technology/",
-        "https://techstartups.com/category/latest-technology-news/",
-        "https://www.reuters.com/technology/disrupted/",
-        "https://www.foxnews.com/video/6402829153112",
-        "https://www.youtube.com/watch?v=ljLinDa2ISc",
-        "https://www.instagram.com/p/Dbn9sNVgIV3/",
-        "https://www.nytimes.com/video/opinion/100000011047941/will-ai-create-a-permanent-underclass.html",
-        "https://www.instagram.com/p/DbqRmHYjfyD/",
-        "https://www.youtube.com/watch?v=-WjMCQLVues"
+        "https://www.forbes.com/",
+        "https://techcrunch.com/",
+        "https://techcrunch.com/category/artificial-intelligence/",
+        "https://www.theverge.com/tech",
+        "https://www.wired.com/",
+        "https://www.technologyreview.com/",
+        "https://thehill.com/newsletters/technology/6012393-ai-ambitions-fuel-growing-tech-debt/",
+        "https://slate.com/technology",
+        "https://www.haberler.com/teknoloji/",
+        "https://gadgetsnow.indiatimes.com/tech-news",
+        "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html"
       ]
     }
   }
