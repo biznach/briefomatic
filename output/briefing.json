@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T06:11:37.371869+00:00",
-  "generated_at_human": "2026-08-17 06:11 UTC",
+  "generated_at": "2026-08-17T12:07:19.640997+00:00",
+  "generated_at_human": "2026-08-17 12:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Self hosted email continues to steeply decline",
+          "url": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
+          "score": 40,
+          "comments": 38
+        },
+        {
           "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
           "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-          "score": 268,
-          "comments": 113
+          "score": 565,
+          "comments": 267
         },
         {
-          "title": "The Life and Death of Direct File [pdf]",
-          "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-          "score": 153,
-          "comments": 69
+          "title": "On A.I. regulation and messaging",
+          "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+          "score": 108,
+          "comments": 189
         },
         {
-          "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-          "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-          "score": 53,
-          "comments": 5
+          "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "score": 368,
+          "comments": 350
         },
         {
           "title": "A third world engineer responds to “RISC-V: They should have known better”",
           "url": "https://rvembedded.com/blog_post/12/",
-          "score": 440,
-          "comments": 233
-        },
-        {
-          "title": "Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "score": 610,
-          "comments": 246
+          "score": 545,
+          "comments": 278
         },
         {
           "title": "Reticulum – Decentralized Mesh Network",
           "url": "https://reticulum.network/",
-          "score": 72,
-          "comments": 15
+          "score": 148,
+          "comments": 46
+        },
+        {
+          "title": "Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "score": 684,
+          "comments": 265
+        },
+        {
+          "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+          "url": "https://desktopcolors.com",
+          "score": 23,
+          "comments": 14
+        },
+        {
+          "title": "How Go detects struct copies with sync.noCopy",
+          "url": "https://func25.dev/posts/go-sync-nocopy/",
+          "score": 3,
+          "comments": 1
+        },
+        {
+          "title": "Production-ready detection and response queries for osquery",
+          "url": "https://github.com/chainguard-dev/osquery-defense-kit",
+          "score": 11,
+          "comments": 0
+        },
+        {
+          "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+          "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+          "score": 97,
+          "comments": 13
+        },
+        {
+          "title": "Gakutensoku",
+          "url": "https://en.wikipedia.org/wiki/Gakutensoku",
+          "score": 40,
+          "comments": 6
+        },
+        {
+          "title": "The Mysterious Syndrome Destroying Endurance Athletes",
+          "url": "https://www.outsideonline.com/health/training-performance/running-empty/",
+          "score": 23,
+          "comments": 16
         },
         {
           "title": "Rhombus 1.1 is now available",
           "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-          "score": 50,
-          "comments": 17
+          "score": 96,
+          "comments": 28
         },
         {
-          "title": "Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)",
-          "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
-          "score": 44,
-          "comments": 9
-        },
-        {
-          "title": "Low-Tech Ceramic Water Filter",
-          "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-          "score": 149,
-          "comments": 37
-        },
-        {
-          "title": "Applying a photosynthetic process to treat “dry eye”",
-          "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
-          "score": 31,
-          "comments": 1
-        },
-        {
-          "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-          "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-          "score": 102,
-          "comments": 42
+          "title": "Linear algebra done right",
+          "url": "https://linear.axler.net/",
+          "score": 108,
+          "comments": 44
         },
         {
           "title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
           "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
-          "score": 71,
-          "comments": 33
+          "score": 151,
+          "comments": 95
         },
         {
-          "title": "Dancing with friends and enemies: boids' swarm intelligence (2012)",
-          "url": "https://community.wolfram.com/groups/-/m/t/122095",
-          "score": 38,
-          "comments": 3
+          "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+          "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+          "score": 126,
+          "comments": 53
         },
         {
-          "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
-          "url": "https://boston.conman.org/2026/08/11.1",
-          "score": 26,
-          "comments": 31
-        },
-        {
-          "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
-          "url": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
+          "title": "People are worried about America's solvency",
+          "url": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
           "score": 6,
-          "comments": 0
+          "comments": 2
+        },
+        {
+          "title": "Applying a photosynthetic process to treat “dry eye”",
+          "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
+          "score": 52,
+          "comments": 17
+        },
+        {
+          "title": "The continuing \"Q collar\" scandal",
+          "url": "https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/",
+          "score": 37,
+          "comments": 13
+        },
+        {
+          "title": "GIMP Development Update",
+          "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+          "score": 206,
+          "comments": 156
         },
         {
           "title": "The AI Credit Resale Economy",
           "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "score": 262,
-          "comments": 107
-        },
-        {
-          "title": "MathCode, Mathematical Coding Agent",
-          "url": "https://math-ai-org.github.io/mathcode/",
-          "score": 81,
-          "comments": 26
-        },
-        {
-          "title": "Protobuf has LSP support. You're welcome",
-          "url": "https://buf.build/blog/protobuf-lsp",
-          "score": 137,
-          "comments": 90
-        },
-        {
-          "title": "Prolly: A content-addressed ordered map built on prolly trees",
-          "url": "https://github.com/crabbuild/prolly",
-          "score": 23,
-          "comments": 0
-        },
-        {
-          "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-          "score": 272,
-          "comments": 188
+          "score": 301,
+          "comments": 121
         },
         {
           "title": "Red queen hypothesis – A new way forward for self-improving AI",
           "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-          "score": 36,
-          "comments": 5
+          "score": 78,
+          "comments": 21
         },
         {
-          "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
-          "url": "https://www.youtube.com/watch?v=-y8bGBE71yw",
-          "score": 62,
-          "comments": 16
+          "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+          "url": "https://news.ycombinator.com/item?id=49322107",
+          "score": 548,
+          "comments": 157
         },
         {
-          "title": "Show HN: Vocal Slice – Cut audio by selecting text, fully on-device",
-          "url": "https://vocalslice.com/",
-          "score": 9,
-          "comments": 3
-        },
-        {
-          "title": "Clamiga: Common Lisp for the Amiga",
-          "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
-          "score": 103,
-          "comments": 13
-        },
-        {
-          "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-          "score": 180,
-          "comments": 83
+          "title": "Protobuf has LSP support",
+          "url": "https://buf.build/blog/protobuf-lsp",
+          "score": 163,
+          "comments": 110
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 63515,
-          "change_24h": 0.7,
-          "change_7d": -2.3,
-          "market_cap": 1274770640087
+          "price": 63555,
+          "change_24h": 0.9,
+          "change_7d": -2.2,
+          "market_cap": 1275722069353
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 1898.71,
-          "change_24h": 1.0,
-          "change_7d": -0.9,
-          "market_cap": 229115026473
+          "price": 1902.28,
+          "change_24h": 1.2,
+          "change_7d": -0.7,
+          "market_cap": 229601048354
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 75.4,
-          "change_24h": 0.0,
-          "change_7d": -1.5,
-          "market_cap": 43945356249
+          "price": 75.56,
+          "change_24h": 0.6,
+          "change_7d": -1.4,
+          "market_cap": 44041543733
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.070176,
-          "change_24h": 0.5,
-          "change_7d": 0.6,
-          "market_cap": 10914905449
+          "price": 0.070102,
+          "change_24h": 0.6,
+          "change_7d": 0.4,
+          "market_cap": 10903516776
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.17678,
-          "change_24h": -0.2,
-          "change_7d": -10.3,
-          "market_cap": 6604517582
+          "price": 0.174329,
+          "change_24h": -1.0,
+          "change_7d": -10.2,
+          "market_cap": 6517114586
         }
       ]
     },
@@ -212,24 +212,9 @@
       "count": 10,
       "items": [
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 110
-        },
-        {
-          "name": "Fusionist",
-          "symbol": "ACE",
-          "market_cap_rank": 859
-        },
-        {
           "name": "Hyperliquid",
           "symbol": "HYPE",
-          "market_cap_rank": 9
-        },
-        {
-          "name": "Bittensor",
-          "symbol": "TAO",
-          "market_cap_rank": 42
+          "market_cap_rank": 10
         },
         {
           "name": "Bitcoin",
@@ -237,29 +222,44 @@
           "market_cap_rank": 1
         },
         {
-          "name": "Pump.fun",
-          "symbol": "PUMP",
-          "market_cap_rank": 61
-        },
-        {
-          "name": "Bitway",
-          "symbol": "BTW",
-          "market_cap_rank": 64
-        },
-        {
           "name": "Cash Cat",
           "symbol": "CASHCAT",
-          "market_cap_rank": 233
+          "market_cap_rank": 231
         },
         {
-          "name": "Akash Network",
-          "symbol": "AKT",
-          "market_cap_rank": 183
+          "name": "Pump.fun",
+          "symbol": "PUMP",
+          "market_cap_rank": 62
         },
         {
-          "name": "Portal",
-          "symbol": "PORTAL",
-          "market_cap_rank": 904
+          "name": "Monad",
+          "symbol": "MON",
+          "market_cap_rank": 139
+        },
+        {
+          "name": "GoPlus Security",
+          "symbol": "GPS",
+          "market_cap_rank": 247
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 110
+        },
+        {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 15
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Chainlink",
+          "symbol": "LINK",
+          "market_cap_rank": 17
         }
       ]
     },
@@ -268,29 +268,72 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 7,
+      "items": [
+        {
+          "title": "Global stocks rise as softer U.S. data eases Fed hike fears",
+          "summary": "Asian shares rose and U.S. equity futures edged higher as investors scaled back expectations for a near-term Federal Reserve rate hike after softer U.S. data, including weaker retail sales and cooler inflation readings. The dollar slipped toward recent lows while Treasury yields eased, reinforcing the view that policy rates may stay unchanged in the near term.",
+          "source": "Reuters",
+          "url": "https://live.euronext.com/en/financial-news/yen-stronger-traders-cut-back-bets-fed-rate-hike"
+        },
+        {
+          "title": "Major U.S. stock indexes close at or near records on easing rate fears",
+          "summary": "The S&P 500 and Russell 2000 closed at record highs, while the Nasdaq also remained near records as investors welcomed signs that the Fed is less likely to tighten policy soon. Broader risk sentiment improved despite lingering concerns that weaker economic data could signal slowing growth.",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/business"
+        },
+        {
+          "title": "Asia-Pacific markets mostly higher; Japan, Hong Kong and Shanghai advance",
+          "summary": "Asian markets traded higher, with Japan’s Nikkei up 0.7%, Hong Kong’s Hang Seng up 1.3%, and Shanghai’s Composite up 1.4%. European futures also firmed, reflecting improved risk appetite after U.S. inflation and labor data reduced pressure on the Federal Reserve to raise rates soon.",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/live-news/20260817-most-stocks-rise-as-us-data-ease-rate-fears-but-fuel-economic-worries"
+        },
+        {
+          "title": "Dollar weakens as traders pare back Fed rate-hike bets",
+          "summary": "The U.S. dollar eased against major currencies, with the dollar index near its lowest levels of the month and the yen strengthening. Markets now see a much lower probability of a Fed rate hike next month, with traders awaiting the Jackson Hole symposium for clearer policy signals.",
+          "source": "Reuters",
+          "url": "https://live.euronext.com/en/financial-news/yen-stronger-traders-cut-back-bets-on-fed-rate-hike"
+        },
+        {
+          "title": "Oil prices and bond yields move lower amid softer growth signals",
+          "summary": "West Texas Intermediate and Brent crude both fell, while U.S. Treasury yields slipped after mixed trading last week. The move reflected a combination of easing Fed-tightening fears and concerns that weakening U.S. data may point to slower growth ahead.",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/live-news/20260817-most-stocks-rise-as-us-data-ease-rate-fears-but-fuel-economic-worries"
+        },
+        {
+          "title": "Fed watch: markets increasingly expect rates to stay steady",
+          "summary": "Traders have sharply reduced bets on a near-term Fed hike after July retail sales unexpectedly fell and consumer sentiment weakened. Market pricing has shifted toward a high likelihood that the central bank will hold rates at its next meeting, with few fresh clues expected before Jackson Hole.",
+          "source": "Reuters",
+          "url": "https://live.euronext.com/en/financial-news/yen-stronger-traders-cut-back-bets-fed-rate-hike"
+        },
+        {
+          "title": "Soft U.S. inflation and retail sales data support equity rally",
+          "summary": "Inflation cooled and retail sales weakened, helping fuel a rally in U.S. stocks as investors interpreted the data as reducing the chance of further Fed tightening. The S&P 500 and Nasdaq had recently hit record levels, supported in part by lower rate fears and strong positioning in growth stocks.",
+          "source": "Economictimes.com",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-july-inflation-data-micro-coreweave-chip-stock-price-news-12th-august-2026/liveblog/133182738.cms"
+        }
+      ],
       "citations": [
-        "https://www.marketwatch.com/economy-politics/calendar",
-        "https://www.marketwatch.com/latest-news",
+        "https://www.usnews.com/topics/subjects/economy",
         "https://www.wsj.com/economy",
+        "https://www.france24.com/en/live-news/20260817-most-stocks-rise-as-us-data-ease-rate-fears-but-fuel-economic-worries",
+        "https://economictimes.indiatimes.com/news/economy",
+        "https://www.bbc.com/business",
+        "https://www.nbcnews.com/business",
+        "https://www.scmp.com/economy/economic-indicators?module=breadcrumb&pgtype=article",
+        "https://www.thehindubusinessline.com/economy/",
         "https://www.business-standard.com/economy",
-        "https://www.thehindubusinessline.com/topic/state-of-the-economy/",
-        "https://www.youtube.com/watch?v=OPoUObR0ixE",
-        "https://www.youtube.com/watch?v=mzkoqz0JQNQ",
-        "https://economictimes.indiatimes.com/",
+        "https://live.euronext.com/en/financial-news/yen-stronger-traders-cut-back-bets-fed-rate-hike",
+        "https://www.klsescreener.com/v2/news/view/1774961/asian-shares-rise-dollar-slips-as-markets-pare-fed-rate-risks",
+        "https://www.investors.com/category/news/economy/",
+        "https://www.moneycontrol.com/news/business/",
+        "https://in.investing.com/news/commodities-news/gold-rises-near-4400-as-fed-minutes-oil-risks-shape-rate-outlook-5558795",
+        "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-q2-gdp-misses-estimates-but-boj-rate-hike-bets-remain-intact/articleshow/133288124.cms",
         "https://www.globaltimes.cn/business/economy/index.html",
         "https://www.jpmhkwarrants.com/en_hk/ajax/newsfeed-result/newsID/58396/scategory/fx/page/",
-        "https://www.moneycontrol.com/news/",
-        "https://www.bbc.com/business",
-        "https://www.marketbeat.com/instant-alerts/",
-        "https://www.moneycontrol.com/news/business/",
-        "https://www.youtube.com/watch?v=q64CPWqZXPo",
-        "https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-far-left-fallout-after-francesca-hong-primary-loss/4B75C6F8-E891-48E4-A112-D16A5EC7C2CF",
-        "https://www.youtube.com/watch?v=roPUhGNqxA4",
-        "https://www.instagram.com/p/DcGM2rsGlG8/",
-        "https://www.reddit.com/r/mealtimevideos/comments/1vq2omk/is_ground_news_a_psyop_3211/",
-        "https://www.instagram.com/reel/DcHexACPgSF/"
+        "https://www.axios.com/economy",
+        "https://www.tker.co/p/thoughts-on-markets-aug-2026",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-july-inflation-data-micro-coreweave-chip-stock-price-news-12th-august-2026/liveblog/133182738.cms"
       ]
     },
     "crypto_news": {
@@ -298,78 +341,84 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 9,
       "items": [
         {
-          "title": "Bitcoin holds near $63K as crypto market stays range-bound",
-          "summary": "Bitcoin traded around $63,000 to $63,500 over the past day, with multiple market reports showing only small 24-hour moves while traders waited for clearer macro and regulatory signals. Ethereum, XRP, Solana, and Dogecoin were mixed, underscoring a generally cautious crypto market.",
-          "source": "Investing.com / crypto.news / Benzinga via TradingView",
-          "url": "https://www.investing.com/crypto"
+          "title": "Bitcoin rebounds near $64,000 after a selloff, with ETF flows and macro fears still driving volatility",
+          "summary": "Bitcoin recovered to around the mid-$64,000 range after a recent AI-led crypto rout, while other coverage says it is still consolidating near $62,000-$63,000 as investors weigh inflation, geopolitical tensions, and ETF outflows. Several market trackers also show Bitcoin and Ethereum only modestly changed over 24 hours, underscoring a choppy trading environment.",
+          "source": "Economic Times / Lookonchain / TradingView",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency"
         },
         {
-          "title": "Binance to restrict transfers involving HTX and 10 other platforms for UK and EU users",
-          "summary": "Binance said it will restrict transactions involving HTX and 10 other crypto platforms for users in the UK and European Union starting August 23. The move is one of the clearest regulatory/compliance-related developments in the latest news flow.",
-          "source": "Yahoo Finance / Investing.com",
-          "url": "https://au.finance.yahoo.com/news/bitcoin-price-trades-above-63-095408036.html"
+          "title": "Bitcoin ETF activity draws attention as institutional demand remains a major market driver",
+          "summary": "Crypto market coverage highlighted a surge in Bitcoin ETF interest, including reporting that a Bitcoin ETF saw a $371 million inflow surge. At the same time, other reports noted ongoing ETF outflows, suggesting institutional flows remain mixed and are still influencing short-term price action.",
+          "source": "YouTube / Economic Times",
+          "url": "https://www.youtube.com/watch?v=7h7-fiWgup4"
         },
         {
-          "title": "Bitcoin ETF flows and institutional positioning remain in focus",
-          "summary": "Reports noted renewed spot Bitcoin ETF withdrawals, while another market update said UBS increased call-option exposure tied to BlackRock’s iShares Bitcoin Trust more than 24-fold in Q2. Together, those items suggest active institutional repositioning even as prices remain subdued.",
-          "source": "CoinStats / Yahoo Finance",
-          "url": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
+          "title": "Ethereum and major altcoins trade mixed as the market stays cautious",
+          "summary": "Market snapshots showed Ethereum hovering around the high-$1,800s to about $1,910, while XRP, Solana, and Dogecoin posted small gains or losses. The broader market remains in sideways consolidation, with total crypto market capitalization down slightly in some trackers.",
+          "source": "Lookonchain / TradingView / Analytics Insight",
+          "url": "https://lookonchain.com/token/bitcoin"
         },
         {
-          "title": "Bitcoin and major altcoins post only modest 24-hour changes",
-          "summary": "Recent price snapshots showed Bitcoin up about 0.1% to 0.7%, Ethereum roughly flat to slightly higher, XRP near $1 with small declines, and Solana and Dogecoin moving modestly. The broader takeaway is that major coins are not seeing a decisive breakout in either direction.",
-          "source": "Benzinga via TradingView / Yahoo Finance",
-          "url": "https://www.tradingview.com/news/benzinga:461f5f67f094b:0-bitcoin-ethereum-dogecoin-gain-xrp-dips-as-crypto-remains-in-fear-analyst-says-btc-in-end-stage-of-bear-market/"
-        },
-        {
-          "title": "DefiLlama delays mobile launch over phishing-app concerns",
-          "summary": "DefiLlama said it delayed its mobile app launch after concerns about phishing apps on the Apple App Store. The incident highlights continuing security and distribution challenges for crypto projects on mainstream mobile platforms.",
-          "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/category/latest-news"
-        },
-        {
-          "title": "Apple patches macOS flaw used to mine Monero",
-          "summary": "Crypto.news reported that Apple patched a macOS vulnerability that was being exploited to mine Monero. The story is notable because it links a mainstream software security issue to illicit crypto mining activity.",
+          "title": "Dutch prosecutors sell seized Knaken crypto for €2.2 million after exchange bankruptcy",
+          "summary": "Dutch prosecutors sold seized cryptocurrency tied to Knaken for €2.2 million after the exchange went bankrupt. The move is part of a broader set of insolvency and asset-recovery developments affecting creditors.",
           "source": "crypto.news",
           "url": "https://crypto.news/news/"
         },
         {
-          "title": "XRP-related product activity stays active despite weak price action",
-          "summary": "News flow showed XRP-focused exchange-traded funds attracting $27.29 million in July, extending a four-month inflow streak, while another item said XRP holders can now trade options on Derive using FXRP as collateral. These developments point to continued product expansion around XRP.",
-          "source": "CoinArticle / Pluang",
-          "url": "https://www.coinarticle.com/briefs/2026-08-17"
+          "title": "Bitpanda fined €70,000 by Austrian regulator over MiCA breaches",
+          "summary": "Austria’s regulator fined Bitpanda €70,000 for breaches related to MiCA compliance. The case adds to the ongoing wave of European enforcement as exchanges adapt to the bloc’s crypto rulebook.",
+          "source": "crypto.news",
+          "url": "https://crypto.news/news/"
         },
         {
-          "title": "U.S. sanctions Iranian maritime scheme that allegedly demanded Bitcoin tolls",
-          "summary": "The United States imposed sanctions on an Iranian maritime operation accused of forcing commercial vessels to pay Bitcoin ransoms for safe passage. This is the most direct sanctions-related crypto news in the latest set of reports.",
-          "source": "CoinArticle",
-          "url": "https://www.coinarticle.com/briefs/2026-08-17"
+          "title": "Harmony plans chain rollback after forged ONE tokens spread across the network",
+          "summary": "Harmony said it is preparing a chain rollback after forged ONE tokens spread across the network. The incident is notable because rollback proposals in public blockchains are rare and can affect confidence in network finality.",
+          "source": "crypto.news",
+          "url": "https://crypto.news/news/"
+        },
+        {
+          "title": "Ripple mints 10 million RLUSD as supply reaches 1.71 billion",
+          "summary": "Ripple minted another 10 million RLUSD, bringing the stablecoin’s supply to 1.71 billion. The expansion indicates continued activity around Ripple’s dollar-backed token and related payment infrastructure.",
+          "source": "crypto.news",
+          "url": "https://crypto.news/news/"
+        },
+        {
+          "title": "Blockstream launches swaps service after Boltz suspends operations",
+          "summary": "Blockstream introduced a swaps service after Boltz suspended operations. The development is relevant for users seeking bitcoin-native exchange and liquidity tools amid shifting service availability in the ecosystem.",
+          "source": "crypto.news",
+          "url": "https://crypto.news/news/"
+        },
+        {
+          "title": "China adds eight banks to its digital yuan network",
+          "summary": "China expanded its digital yuan network by adding eight more banks, bringing the number of operators to 30. The move reflects continued state-backed development of China’s central bank digital currency infrastructure.",
+          "source": "crypto.news",
+          "url": "https://crypto.news/news/"
         }
       ],
       "citations": [
-        "https://www.investing.com/crypto",
         "https://economictimes.indiatimes.com/markets/cryptocurrency",
-        "https://www.tradingview.com/news/benzinga:461f5f67f094b:0-bitcoin-ethereum-dogecoin-gain-xrp-dips-as-crypto-remains-in-fear-analyst-says-btc-in-end-stage-of-bear-market/",
+        "https://www.analyticsinsight.net/cryptocurrency-analytics-insight",
+        "https://crypto.news/",
         "https://www.theverge.com/cryptocurrency",
-        "https://news.bitcoin.com/de/",
+        "https://www.tradingview.com/news/benzinga:461f5f67f094b:0-bitcoin-ethereum-dogecoin-gain-xrp-dips-as-crypto-remains-in-fear-analyst-says-btc-in-end-stage-of-bear-market/",
+        "https://cointelegraph.com/tags/blockchain",
         "https://cointelegraph.com/category/latest-news",
+        "https://lookonchain.com/token/bitcoin",
         "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-price/cryptodetail/symbol-btc.cms",
         "https://crypto.news/news/",
-        "https://crypto.news/",
-        "https://cointelegraph.com/tags/blockchain",
-        "https://au.finance.yahoo.com/news/bitcoin-price-trades-above-63-095408036.html",
-        "https://pluang.com/en/news-feed/bitcoin-dan-xrp-minggu-krusial-kebijakan-crypto-as-dan-data-jepang",
-        "https://crypto.news/bitcoin-holds-near-63k-as-hype-link-lead-altcoins/",
-        "https://www.coinarticle.com/briefs/2026-08-17",
-        "https://www.odaily.news/ko/newsflash/510017",
-        "https://coinstats.app/ai/a/latest-news-for-bitcoin",
-        "https://www.okx.com/en-us/orbit/insight/83489843908384",
-        "https://cryptorank.io/news/tag/monthly-change",
-        "https://www.tradingkey.com/es/markets/cryptocurrencies/ethereum/news?topic=recent",
-        "https://www.okx.com/orbit/insight/84374644250144"
+        "https://www.youtube.com/watch?v=7h7-fiWgup4",
+        "https://cointelegraph.com/tags/cryptocurrencies",
+        "https://www.youtube.com/watch?v=O6J3oAdveAY",
+        "https://www.youtube.com/watch?v=paorhTx5sVc",
+        "https://www.youtube.com/watch?v=7QJ0-gebfGY",
+        "https://www.youtube.com/watch?v=oyDkDNaxBzM",
+        "https://www.youtube.com/watch?v=XZrepxaFzuw",
+        "https://www.facebook.com/fareedzakaria/videos/fareeds-take-from-the-war-with-iran-to-dealings-with-allies-president-trump-has-/2219043782223035/",
+        "https://www.nzherald.co.nz/nz/christchurch/christchurch-dog-attack-more-than-37000-raised-for-sonny-charles-watsons-family/KZPWD6HTGBFRPA5DKVMRR5NISM/",
+        "https://www.instagram.com/reel/DcGqLWNREkU/"
       ]
     },
     "ai_news": {
@@ -381,25 +430,25 @@
       "items": [],
       "citations": [
         "https://www.nytimes.com/spotlight/artificial-intelligence",
-        "https://www.wsj.com/tech/ai",
         "https://ai.economictimes.com/",
-        "https://www.newsnow.co.uk/h/AI",
-        "https://www.moneycontrol.com/artificial-intelligence/",
-        "https://www.cnn.com/business/tech",
-        "https://www.instagram.com/p/DcIA-ufDY1q/",
+        "https://www.wsj.com/tech/ai",
+        "https://teccurrent.com/",
+        "https://www.computerworld.com/artificial-intelligence/",
+        "https://www.scmp.com/topics/artificial-intelligence?module=trending_topics&pgtype=section",
+        "https://www.analyticsinsight.net/artificial-intelligence",
+        "https://www.foxbusiness.com/category/artificial-intelligence",
         "https://www.wsj.com/tech/ai?page=1",
-        "https://ai-daily.musxiao.com/?lang=en",
+        "https://www.instagram.com/p/DcIA-ufDY1q/",
         "https://economictimes.indiatimes.com/topic/nvidia-b-ai-factory",
-        "https://www.prnewswire.com/news-releases/latest-news-topics/artificial-intelligence/",
-        "https://www.youtube.com/watch?v=HhBjX6ZsxRg",
-        "https://note.com/hiiirano/n/nb98ac39f653b",
+        "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai",
+        "https://www.wsj.com/video/how-openai-and-anthropics-ai-models-went-rogue/32BA18D7-EF32-4580-A46A-78003C0FE77C",
+        "https://www.youtube.com/watch?v=ive6DvPhTqw",
         "https://urgent.news/t/ai",
-        "https://ground.news/daily-briefing/64e5a4d1-c51e-4b86-8998-b545bdb14172",
-        "https://www.pcmag.com/news",
-        "https://www.reddit.com/r/artificial/new/",
-        "https://www.instagram.com/reel/DcGadwDh4RV/",
-        "https://www.facebook.com/13news/posts/you-tell-an-ai-agent-capable-of-autonomous-reasoning-find-me-a-shirt-for-less-th/1481989690631805/",
-        "https://www.instagram.com/p/DcH5gTADUpa/"
+        "https://www.youtube.com/watch?v=Elwg-3Ql8u0",
+        "https://www.youtube.com/watch?v=ykveiWpFKak",
+        "https://www.youtube.com/watch?v=rERO7HKUX9s",
+        "https://www.instagram.com/reel/DcGvwV1Rjeg/",
+        "https://www.weau.com/2026/08/16/our-dry-spell-persist-into-beginning-new-week/"
       ]
     },
     "gaming": {
@@ -407,90 +456,75 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 10,
+      "count": 8,
       "items": [
         {
-          "title": "VGC reports August PS Plus Game Catalog additions and new Xbox controller reveal",
-          "summary": "Sony’s August PlayStation Plus Game Catalog includes Helldivers 2, Vampire Survivors, and Kingdom Come Deliverance 2, while Xbox has officially revealed a limited edition Gears of War E-Day controller with new Design Lab options. Both items are notable platform news for players and collectors.",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/category/news/"
+          "title": "Fortnite teases major crossover season with Sonic, Crash, Mega Man, and more",
+          "summary": "Fortnite’s next season, titled \"Override,\" is being promoted as a large crossover event featuring many iconic video game characters, including Sonic, Crash Bandicoot, Mega Man, and Sora. The season is set to launch on August 20.",
+          "source": "Press Start",
+          "url": "https://press-start.com.au/news/nintendo/2026/08/17/crash-and-spyro-are-coming-to-fortnite-alongside-an-incredible-sonic-map-change/amp/"
         },
         {
-          "title": "Amazon exits MMO operations for Lost Ark and Throne & Liberty",
-          "summary": "Amazon Game Studios is handing operational duties for Lost Ark and Throne & Liberty back to their developers, ending Amazon’s direct MMO publishing presence. The move marks a significant restructuring in the live-service PC game space.",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "Ghost of Yotei gets story expansion, roguelike mode, and Complete Edition details",
-          "summary": "Sony-related coverage highlights a new story expansion and roguelike mode for Ghost of Yotei, arriving in October alongside a Complete Edition. The expansion, Echoes of Sekigahara, and the Most Wanted mode are listed at $14.99.",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "Phantom Blade Zero shows new footage and teases State of Play appearance",
-          "summary": "Phantom Blade Zero has received an 11-minute trailer, and a PlayStation State of Play is expected next week. The update also confirms martial arts star Donnie Yen will appear in the game.",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "PlayStation reveals limited edition Wolverine PS5 hardware",
-          "summary": "PlayStation has unveiled a limited edition Wolverine-themed PS5 console, along with matching controllers and console covers. The announcement adds to the wave of themed hardware tied to major first-party releases.",
-          "source": "GamesRadar",
-          "url": "https://www.gamesradar.com/"
-        },
-        {
-          "title": "Fortnite confirms Sonic crossover for next season",
-          "summary": "Fortnite has confirmed that Sonic will arrive in its next season, called Override. The crossover continues Epic’s strategy of adding major entertainment brands to the game.",
-          "source": "GamesRadar",
-          "url": "https://www.gamesradar.com/"
-        },
-        {
-          "title": "Xbox says major outage issue has been fixed",
-          "summary": "Xbox CTO says the issue behind last month’s major outage has now been resolved. That makes this a notable platform operations update for online players and subscribers.",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "Supermassive Games reportedly laying off up to 75 staff",
-          "summary": "The Dark Pictures Anthology studio Supermassive Games is laying off as many as 75 employees to 'ensure sustainability.' It is another sign of ongoing industry-wide restructuring and cost-cutting.",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/category/news/"
-        },
-        {
-          "title": "Senate subcommittee opens Roblox child safety investigation",
-          "summary": "A U.S. Senate subcommittee has opened an investigation into Roblox over child safety concerns, citing allegations that the platform prioritizes revenue and engagement over child welfare. This is one of the most significant industry and policy stories in gaming coverage this week.",
+          "title": "Senate subcommittee opens investigation into Roblox child safety",
+          "summary": "A U.S. Senate subcommittee has launched an investigation into Roblox, citing concerns that the platform prioritizes revenue and engagement over child safety. The inquiry follows allegations of criminal activity on the service.",
           "source": "The Verge",
           "url": "https://www.theverge.com/games"
         },
         {
-          "title": "Netflix closes two game studios, including Night School Studio",
-          "summary": "Netflix is shutting down two game studios, including Night School Studio despite praise for Unhinged. The move underscores the company’s continuing retrenchment in game development.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games"
+          "title": "Netflix is shutting down two game studios",
+          "summary": "Netflix is closing two of its game studios, including Night School Studio, the developer behind Oxenfree and Unhinged. The move comes despite recent praise for the studio’s work.",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/uk/gaming-industry/"
+        },
+        {
+          "title": "Alibaba sells gaming business Lingxi as it pivots toward AI and e-commerce",
+          "summary": "Alibaba is divesting its videogame business, Lingxi Games, in a deal reportedly worth at least $1.5 billion. The sale is part of the company’s broader shift in focus toward artificial intelligence and e-commerce.",
+          "source": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/alibaba-to-sell-videogame-business-for-at-least-1-5-billion-update-ce7859dfd188f026"
+        },
+        {
+          "title": "Esports World Cup 2026 sees Team Falcons extend Club Championship lead",
+          "summary": "Team Falcons continued its surge in the Esports World Cup 2026 Club Championship after securing a Rocket League victory. The result strengthens its position in the overall standings.",
+          "source": "Gameractor",
+          "url": "https://www.gamereactor.eu/"
+        },
+        {
+          "title": "New Japanese game releases include Starsand Island and STEINS;GATE RE:BOOT",
+          "summary": "This week’s Japanese release lineup is led by Starsand Island and STEINS;GATE RE:BOOT, with Mortal Shell II and Dungeon Antiqua 2 also among the notable launches. Several of the titles span multiple platforms, including Switch 2, PS5, Xbox Series, and PC.",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/08/this-weeks-japanese-game-releases-starsand-island-steinsgate-reboot-more"
+        },
+        {
+          "title": "Apple and MLB bring live baseball games to Vision Pro",
+          "summary": "Apple and Major League Baseball announced that live games will begin streaming on Vision Pro starting August 28. The move expands the headset’s sports viewing lineup.",
+          "source": "The XR Week Peek",
+          "url": "https://skarredghost.com/2026/08/17/vr-games-showcase-meta-glasses/"
+        },
+        {
+          "title": "Meta cuts Beat Saber price and announces new smartglasses grants",
+          "summary": "Meta lowered the price of Beat Saber from $29.99 to $19.99. The company also published a list of 30 U.S. entities receiving grants for smartglasses-related projects.",
+          "source": "The XR Week Peek",
+          "url": "https://skarredghost.com/2026/08/17/vr-games-showcase-meta-glasses/"
         }
       ],
       "citations": [
-        "https://gamerant.com/gaming/",
-        "https://www.videogameschronicle.com/category/news/",
         "https://www.theverge.com/games",
-        "https://www.latestly.com/gaming/",
-        "https://www.pcgamer.com/gaming-industry/",
-        "https://www.gamesradar.com/",
-        "https://www.theverge.com/games-review",
-        "https://www.gamesradar.com/games/the-backlash-against-gen-ai-in-video-games-proves-voting-with-your-wallet-works/",
-        "https://www.pcgamer.com/games/",
-        "https://www.polygon.com/",
-        "https://news.livedoor.com/article/category/53/",
-        "https://www.gematsu.com/2026/08/this-weeks-japanese-game-releases-starsand-island-steinsgate-reboot-more",
-        "https://www.eqs-news.com/de/?companyId=%3C668",
-        "https://www.zonebourse.com/cours/action/TAKE-TWO-INTERACTIVE-SOFT-41641199/actualite/",
-        "https://www.youtube.com/watch?v=LbEQPDrNNJE",
-        "https://www.instagram.com/p/DcIA-ufDY1q/",
-        "https://www.marketscreener.com/quote/stock/GAMEHAUS-HOLDINGS-INC-156430689/news/",
-        "https://www.fool.com/quote/asx/game/",
-        "https://www.youtube.com/watch?v=RYT5QPh3zY0",
-        "https://www.instagram.com/reel/DcGuqHwjGjl/"
+        "https://vandal.elespanol.com/noticias/videojuegos",
+        "https://kodegg.com/en/news/",
+        "https://arstechnica.com/gaming/",
+        "https://www.pushsquare.com/news",
+        "https://gamingbolt.com/",
+        "https://www.pcgamer.com/uk/gaming-industry/",
+        "https://www.scmp.com/topics/video-gaming",
+        "https://www.pcgamer.com/uk/games/",
+        "https://www.gadgets360.com/games",
+        "https://www.gamereactor.eu/",
+        "https://www.xboxdynasty.de/activity/?acpage",
+        "https://skarredghost.com/2026/08/17/vr-games-showcase-meta-glasses/",
+        "https://press-start.com.au/news/nintendo/2026/08/17/crash-and-spyro-are-coming-to-fortnite-alongside-an-incredible-sonic-map-change/amp/",
+        "https://www.marketscreener.com/news/alibaba-to-sell-videogame-business-for-at-least-1-5-billion-update-ce7859dfd188f026",
+        "https://ground.news/article/here-are-40-minutes-of-gameplay-from-tides-of-annihilation_cac486",
+        "https://www.gematsu.com/2026/08/this-weeks-japanese-game-releases-starsand-island-steinsgate-reboot-more"
       ]
     },
     "tech_news": {
@@ -501,26 +535,26 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.bloomberg.com/technology",
-        "https://www.techmeme.com/",
-        "https://www.bbc.co.uk/news/technology",
-        "https://nypost.com/tech/",
+        "https://www.bbc.com/technology",
+        "https://techmeme.com/index.html",
         "https://www.cnn.com/business/tech",
-        "https://www.aljazeera.com/tag/science-and-technology/",
+        "https://www.scmp.com/tech",
+        "https://nypost.com/tech/",
+        "https://www.bbc.co.uk/news/technology",
+        "https://www.sciencedaily.com/news/top/technology/",
         "https://www.pcmag.com/news",
-        "https://www.scmp.com/tech?module=breadcrumb&pgtype=article",
-        "https://www.instagram.com/p/DcIA-ufDY1q/",
-        "https://economictimes.indiatimes.com/tech/technology",
+        "https://teccurrent.com/",
+        "https://newsclarion.com/section/technology",
         "https://economictimes.indiatimes.com/tech",
-        "https://www.youtube.com/watch?v=yxAMtQ8IcAI",
-        "https://economictimes.indiatimes.com/tech?from=mdr",
+        "https://www.cloudcomputing-news.net/",
+        "https://economictimes.indiatimes.com/tech/technology",
+        "https://www.nytimes.com/spotlight/artificial-intelligence",
+        "https://www.analyticsinsight.net/amp/story/tech-news/top-news-today-semiconductor-push-startup-funding-scrutiny-workplace-fairness-cryptos-regulatory-leap-ai-watermark-control",
+        "https://www.gadgets360.com/news",
         "https://www.ndtvprofit.com/technology",
+        "https://www.foxbusiness.com/category/fox-news-tech?page=94",
         "https://www.news4jax.com/topic/Technology/",
-        "https://www.abplive.com/technology",
-        "https://www.instagram.com/p/DcG8sAckwwD/",
-        "https://www.facebook.com/TechlusiveOfficial/posts/tech-moves-fastheres-everything-you-need-to-know-from-this-week-in-tech-%EF%B8%8F/1364033659275611/",
-        "https://www.facebook.com/ChinaGlobalTVNetwork/videos/fields-medalist-chinas-sci-tech-development-strategy-draws-top-talents/1076685818049142/",
-        "https://www.instagram.com/reel/DcGcA6_D65Z/"
+        "https://havoc.report/category/business-tech"
       ]
     }
   }
