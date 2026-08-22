@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T00:11:54.490327+00:00",
-  "generated_at_human": "2026-08-22 00:11 UTC",
+  "generated_at": "2026-08-22T06:07:36.176671+00:00",
+  "generated_at_human": "2026-08-22 06:07 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,70 +8,130 @@
       "count": 25,
       "items": [
         {
-          "title": "Kobo can run apps now",
-          "url": "https://bandarlabs.github.io/Cobalt/",
-          "score": 388,
-          "comments": 135
+          "title": "There's no reason for software to be slow anymore",
+          "url": "https://danluu.com/perf-opt/",
+          "score": 270,
+          "comments": 188
+        },
+        {
+          "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+          "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+          "score": 75,
+          "comments": 25
         },
         {
           "title": "Felony Bench",
           "url": "https://www.felonybench.com/",
-          "score": 474,
-          "comments": 215
+          "score": 613,
+          "comments": 254
+        },
+        {
+          "title": "Rust Glancer: Rust LSP using 100x less RAM",
+          "url": "https://rust-glancer.github.io/blog/hello-world/",
+          "score": 106,
+          "comments": 30
+        },
+        {
+          "title": "Kobo can run apps now",
+          "url": "https://bandarlabs.github.io/Cobalt/",
+          "score": 482,
+          "comments": 166
+        },
+        {
+          "title": "Three important steps in my maturation process",
+          "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+          "score": 107,
+          "comments": 35
         },
         {
           "title": "Felony charges for citizen deleting phone data at US Border",
           "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-          "score": 494,
-          "comments": 678
+          "score": 683,
+          "comments": 826
         },
         {
-          "title": "Paul Atkins Misreads Adam Smith and the American Founding",
-          "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
-          "score": 8,
-          "comments": 0
-        },
-        {
-          "title": "Scientists release biggest 2D map of the universe",
-          "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-          "score": 133,
-          "comments": 39
-        },
-        {
-          "title": "AI boosted homework scores, then exam scores dropped: study",
-          "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-          "score": 219,
-          "comments": 276
+          "title": "Zig's Io.Threaded Is Neat",
+          "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+          "score": 39,
+          "comments": 2
         },
         {
           "title": "Kagi added a setting for removing paywalled links from search results",
           "url": "https://kagi.com/changelog#11296",
-          "score": 978,
-          "comments": 332
+          "score": 1075,
+          "comments": 355
+        },
+        {
+          "title": "OTel isn't going well (and I made a spreadsheet about it)",
+          "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+          "score": 77,
+          "comments": 28
+        },
+        {
+          "title": "Scientists release biggest 2D map of the universe",
+          "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+          "score": 176,
+          "comments": 54
         },
         {
           "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
           "url": "https://lina.sh/blog/hijacking-e164-arpa",
-          "score": 418,
-          "comments": 45
+          "score": 492,
+          "comments": 54
         },
         {
-          "title": "DeepSeek-v4-flash-vision-exp",
-          "url": "https://api-docs.deepseek.com/guides/vision/",
-          "score": 448,
-          "comments": 142
+          "title": "AI boosted homework scores, then exam scores dropped: study",
+          "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+          "score": 279,
+          "comments": 308
         },
         {
           "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
           "url": "https://ozbrain.com",
-          "score": 14,
-          "comments": 4
+          "score": 61,
+          "comments": 27
+        },
+        {
+          "title": "People of ACM – Russ Cox",
+          "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+          "score": 118,
+          "comments": 13
+        },
+        {
+          "title": "HN: The Good Parts (2016)",
+          "url": "https://danluu.com/hn-comments/",
+          "score": 37,
+          "comments": 8
+        },
+        {
+          "title": "Ozone: The fault is not in our trees, but in ourselves",
+          "url": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
+          "score": 19,
+          "comments": 1
+        },
+        {
+          "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+          "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+          "score": 239,
+          "comments": 166
         },
         {
           "title": "How we made a text-to-speech model respond in sub-50 ms",
           "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-          "score": 95,
-          "comments": 24
+          "score": 130,
+          "comments": 32
+        },
+        {
+          "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+          "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+          "score": 72,
+          "comments": 23
+        },
+        {
+          "title": "Stop Making TUIs",
+          "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+          "score": 71,
+          "comments": 135
         },
         {
           "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
@@ -80,82 +140,22 @@
           "comments": 0
         },
         {
-          "title": "I ran Photoshop on a £0.60 computer chip",
-          "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-          "score": 111,
-          "comments": 26
+          "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+          "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+          "score": 226,
+          "comments": 163
         },
         {
-          "title": "A look under our trunk: what's in our compute",
-          "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
-          "score": 88,
-          "comments": 37
-        },
-        {
-          "title": "People of ACM – Russ Cox",
-          "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-          "score": 81,
-          "comments": 10
-        },
-        {
-          "title": "Three important steps in my maturation process",
-          "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-          "score": 14,
-          "comments": 4
-        },
-        {
-          "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-          "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-          "score": 182,
-          "comments": 130
-        },
-        {
-          "title": "Tumble Forth – from assembly to OS with C compiler",
-          "url": "https://tumbleforth.hardcoded.net/",
-          "score": 47,
-          "comments": 4
-        },
-        {
-          "title": "What happens when a GPU reads memory",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "score": 94,
-          "comments": 16
-        },
-        {
-          "title": "Electric shock gloves in use by police departments in Bellevue, Omaha",
-          "url": "https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/",
-          "score": 5,
-          "comments": 2
+          "title": "Everyone says assembly is untyped—everyone is wrong",
+          "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+          "score": 63,
+          "comments": 19
         },
         {
           "title": "I'm becoming AI-blind",
           "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "score": 250,
-          "comments": 255
-        },
-        {
-          "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
-          "url": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
-          "score": 48,
-          "comments": 17
-        },
-        {
-          "title": "The coolest anti-surveillance tools at Defcon [video]",
-          "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-          "score": 142,
-          "comments": 8
-        },
-        {
-          "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "url": "https://annas-archive.gl/blog/physical-destruction.html",
-          "score": 513,
-          "comments": 833
-        },
-        {
-          "title": "Using an old Android phone as a music player",
-          "url": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
-          "score": 34,
-          "comments": 18
+          "score": 324,
+          "comments": 333
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 77889,
-          "change_24h": 7.7,
-          "change_7d": 24.6,
-          "market_cap": 1563101610936
+          "price": 77223,
+          "change_24h": 3.2,
+          "change_7d": 22.7,
+          "market_cap": 1550253815034
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2499.38,
-          "change_24h": 8.6,
-          "change_7d": 33.9,
-          "market_cap": 301673863702
+          "price": 2433.91,
+          "change_24h": 3.6,
+          "change_7d": 29.6,
+          "market_cap": 293782087221
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 93.14,
-          "change_24h": 7.4,
-          "change_7d": 24.7,
-          "market_cap": 54298321031
+          "price": 93.64,
+          "change_24h": 5.6,
+          "change_7d": 25.0,
+          "market_cap": 54659887424
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.090566,
-          "change_24h": 15.4,
-          "change_7d": 31.3,
-          "market_cap": 14094454259
+          "price": 0.091128,
+          "change_24h": 11.4,
+          "change_7d": 30.5,
+          "market_cap": 14216013318
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.227132,
-          "change_24h": 17.1,
-          "change_7d": 28.1,
-          "market_cap": 8505792128
+          "price": 0.230951,
+          "change_24h": 11.9,
+          "change_7d": 28.8,
+          "market_cap": 8672859951
         }
       ]
     },
@@ -212,34 +212,14 @@
       "count": 10,
       "items": [
         {
+          "name": "Official Trump",
+          "symbol": "TRUMP",
+          "market_cap_rank": 86
+        },
+        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
-        },
-        {
-          "name": "Pepe",
-          "symbol": "PEPE",
-          "market_cap_rank": 50
-        },
-        {
-          "name": "Sui",
-          "symbol": "SUI",
-          "market_cap_rank": 30
-        },
-        {
-          "name": "pipedog",
-          "symbol": "PIPEDOG",
-          "market_cap_rank": 635
-        },
-        {
-          "name": "XRP",
-          "symbol": "XRP",
-          "market_cap_rank": 5
-        },
-        {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 85
         },
         {
           "name": "Zcash",
@@ -247,19 +227,39 @@
           "market_cap_rank": 12
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 10
         },
         {
-          "name": "Pump.fun",
-          "symbol": "PUMP",
-          "market_cap_rank": 55
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 29
+        },
+        {
+          "name": "Pepe",
+          "symbol": "PEPE",
+          "market_cap_rank": 50
+        },
+        {
+          "name": "pipedog",
+          "symbol": "PIPEDOG",
+          "market_cap_rank": 677
         },
         {
           "name": "Solana",
           "symbol": "SOL",
           "market_cap_rank": 7
+        },
+        {
+          "name": "XRP",
+          "symbol": "XRP",
+          "market_cap_rank": 4
+        },
+        {
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 85
         }
       ]
     },
@@ -268,78 +268,88 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 10,
       "items": [
         {
-          "title": "US stocks rise on Friday but major indexes still headed for weekly losses",
-          "summary": "Wall Street finished higher Friday after a volatile week, but the S&P 500, Nasdaq, and Dow were still down for the week amid pressure from rising bond yields and Middle East-related oil fears. One report said the S&P 500 fell 1.43% for the week, the Nasdaq declined 2.05%, and the Dow lost 0.85%.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-sharp-101936269.html"
+          "title": "U.S. stocks post a mixed rebound as strong PMI data and retail earnings dominate trading",
+          "summary": "U.S. stocks ended the week with gains after a volatile session, helped by data showing the fastest pace of U.S. business activity growth in four years. Earlier in the week, major indexes had fallen as investors watched oil prices and waited for retail earnings and consumer-spending signals.",
+          "source": "FXStreet",
+          "url": "https://www.fxstreet.cz/klicova-slova+body.html?active_page"
         },
         {
-          "title": "Treasury debt-management moves fail to fully calm bond market",
-          "summary": "US Treasury buyback plans and comments from Treasury Secretary Scott Bessent briefly helped yields, but markets remained focused on heavy government borrowing and inflation risks. Reuters reported that gold and bond markets reflected continued unease even after the Treasury said it would double buybacks of longer-dated securities.",
-          "source": "Reuters",
-          "url": "https://whbl.com/2026/08/20/gold-steadies-heads-for-third-straight-weekly-gain/"
+          "title": "Wall Street had been under pressure from rising oil prices and uncertainty over the U.S.-Iran outlook",
+          "summary": "A live market update said the Dow, S&P 500, and Nasdaq all fell as oil prices rose and investors awaited quarterly reports from major retailers for clues on U.S. consumer spending. The report also noted market concern that the U.S. and Iran were still far from a deal.",
+          "source": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-anthropic-nvidia-microsoft-micron-chip-stock-price-news-17th-august-2026/liveblog/133297038.cms"
         },
         {
-          "title": "US services-sector data point to resilient growth and hotter rate backdrop",
-          "summary": "Flash PMI data showed strong US private-sector activity, with services driving growth to a 52-month high while price pressures eased and employment rose sharply. Separate reporting said US Treasury yields climbed after the strong services reading, reinforcing market expectations that the Fed may stay cautious.",
+          "title": "Treasury buyback plan fails to calm bond market, keeping yields and inflation worries elevated",
+          "summary": "Reuters/AP reporting said longer-term interest rates rebounded despite Treasury Secretary Scott Bessent's efforts to cap borrowing costs, signaling continued investor concern about government debt, heavy tech borrowing, and the Federal Reserve's inflation stance. Separate market coverage said U.S. Treasury yields resumed their upward march after only brief support from earlier intervention.",
+          "source": "AP News",
+          "url": "https://apnews.com/newsletter/morning-wire/august-21-2026"
+        },
+        {
+          "title": "U.S. Treasury expands bond buybacks, a move that briefly boosted risk appetite",
+          "summary": "Market coverage said the Treasury doubled planned buybacks of longer-dated government debt to at least $4 billion per operation, which eased pressure on long-term yields and helped sentiment in some asset classes. The same reporting framed the move as part of a broader debate over the Fed's policy path and financial conditions.",
+          "source": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/topic/investment-in-corporate-bonds"
+        },
+        {
+          "title": "European stocks rise, but weekly losses persist as oil and yields keep inflation fears alive",
+          "summary": "The pan-European STOXX 600 gained 0.59% on Friday, but still finished the week lower as elevated oil prices and higher Treasury yields weighed on sentiment. Individual movers included Nibe Industrier, which jumped after earnings, while Straumann fell after a downgrade.",
+          "source": "Reuters via MSN",
+          "url": "https://www.msn.com/en-us/money/top-stocks/european-stocks-gain-but-inflation-worries-drive-weekly-decline/ar-AA2aF1yj"
+        },
+        {
+          "title": "UK business activity beats expectations, lifting sterling to six-month highs",
+          "summary": "Preliminary PMI data showed stronger-than-expected UK services and composite activity, helping sterling rally to six-month highs against the dollar. The report also said UK retail sales fell 0.5% in July and public borrowing came in above expectations.",
+          "source": "Mitrade",
+          "url": "https://www.mitrade.com/insights/news/live-news/article-1-2020983-20260821"
+        },
+        {
+          "title": "Eurozone and German PMIs point to resilient activity, with ECB policy still on hold",
+          "summary": "A report on August PMIs said German manufacturing activity rose to 54.1 and the eurozone composite index reached a nine-month high, suggesting stronger business activity. The same report noted the ECB's deposit rate remained at 2.25% ahead of its September meeting.",
+          "source": "UA News",
+          "url": "https://ua.news/en/world/virobnicha-aktivnist-nimechchini-zrosla-do-54-1-na-tli-oboronnikh-zamovlen"
+        },
+        {
+          "title": "Japan inflation quickens and manufacturing PMI improves",
+          "summary": "Market reporting from Asia said Japan's July CPI rose 1.9% year over year, with core inflation at 1.8%, while the preliminary manufacturing PMI climbed to 55.1. The data suggested firmer price and activity trends in the region.",
+          "source": "XTB",
+          "url": "https://www.xtb.com/fr/analyses-marches/calendrier-economique-la-serie-de-rapports-pmi-va-t-elle-detourner-l-attention-des-obligations-21-08-2026"
+        },
+        {
+          "title": "U.S. private-sector business activity hits a 52-month high on stronger services growth",
+          "summary": "Chinese-language market coverage of the S&P Global PMI release said U.S. private-sector output expanded at its fastest pace in 52 months, driven by a sharp pickup in services activity. The report also said price pressures eased and employment rose strongly.",
           "source": "Yahoo Finance Hong Kong",
           "url": "https://hk.finance.yahoo.com/news/%E6%9C%8D%E5%8B%99%E6%A5%AD%E5%B8%B6%E5%8B%95-%E7%BE%8E%E5%9C%8B%E7%A7%81%E7%87%9F%E9%83%A8%E9%96%80%E5%A2%9E%E9%95%B7%E5%89%B552%E5%80%8B%E6%9C%88%E9%AB%98%E4%BD%8D-%E5%83%B9%E6%A0%BC%E5%A3%93%E5%8A%9B%E6%94%BE%E7%B7%A9-164517548.html"
         },
         {
-          "title": "Fed rate-cut expectations remain mixed after labor and inflation signals",
-          "summary": "Markets were pricing a 64% chance that the Fed would hold rates steady in September and a 36% chance of a hike, according to CME FedWatch data cited by Reuters. The same report noted that two Fed officials struck a cautious tone as Treasury debt-management actions and labor data complicated the policy outlook.",
-          "source": "Reuters",
-          "url": "https://whbl.com/2026/08/20/gold-steadies-heads-for-third-straight-weekly-gain/"
-        },
-        {
-          "title": "Japan inflation accelerates, increasing odds of a Bank of Japan hike",
-          "summary": "Japan’s July consumer inflation rose for a second straight month, with core CPI up 1.8% year over year and overall inflation at 1.9%, strengthening expectations that the Bank of Japan could raise rates as early as September. The data helped keep Asian rate and currency markets in focus.",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/videos/business/markets/live-nifty-set-to-clock-weekly-loss-crude-snaps-5-day-rally-opening-bell-14011947.html"
-        },
-        {
-          "title": "Europe shares end higher as PMI data beat expectations",
-          "summary": "European markets closed higher Friday, with the FTSE 100, DAX, CAC 40, Ibex 35, and PSI 20 all advancing. The gains followed stronger-than-expected eurozone and UK composite PMI readings, although Germany remained weaker and inflation concerns persisted.",
-          "source": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-fecham-em-alta-com-oriente-medio-e-petroleo-no-radar/"
-        },
-        {
-          "title": "US oil and bond moves remain driven by Iran tensions and debt worries",
-          "summary": "Reports said US crude and Brent rose sharply earlier in the week before stabilizing, while Treasury yields stayed elevated as investors weighed geopolitical risk and higher borrowing needs. One report said the 30-year US Treasury yield moved above 5.25% during the week.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets"
-        },
-        {
-          "title": "US futures edge higher as yields and oil pull back slightly",
-          "summary": "Early Friday trading showed US futures and some risk assets stabilizing after a difficult week for equities and bonds. Another report said the 10-year Treasury yield was around 4.69% and the 30-year yield about 5.24% as markets digested the latest Treasury and macro data.",
-          "source": "DTN",
-          "url": "https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2026/08/21/world-shares-mixed-us-futures-edge"
+          "title": "Bitcoin surges as Treasury buybacks and policy signals boost risk assets",
+          "summary": "Market coverage said bitcoin briefly jumped as Treasury buyback expansion improved sentiment and policymakers signaled support for crypto legislation. The same report said the move helped fuel broader optimism in risk assets.",
+          "source": "Sina Finance",
+          "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcsqc1386230.shtml"
         }
       ],
       "citations": [
-        "https://www.usnews.com/topics/subjects/economy",
-        "https://tradingeconomics.com/calendar",
-        "https://live.euronext.com/en/financial-news/uk-economy-hands-burnham-surprise-boost-first-budget",
-        "https://live.euronext.com/en/financial-news/asia-shares-downbeat-week-bond-yields-oil-stay-high",
-        "https://www.marketplace.org/",
-        "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets",
-        "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-fecham-em-alta-com-oriente-medio-e-petroleo-no-radar/",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-anthropic-nvidia-microsoft-micron-chip-stock-price-news-17th-august-2026/liveblog/133297038.cms",
         "https://apnews.com/newsletter/morning-wire/august-21-2026",
-        "https://za.investing.com/news/stock-market-news/eurozone-business-activity-rises-in-august-on-manufacturing-strength-93CH-4438909",
-        "https://www.moneycontrol.com/news/videos/business/markets/live-nifty-set-to-clock-weekly-loss-crude-snaps-5-day-rally-opening-bell-14011947.html",
-        "https://hk.finance.yahoo.com/news/%E6%9C%8D%E5%8B%99%E6%A5%AD%E5%B8%B6%E5%8B%95-%E7%BE%8E%E5%9C%8B%E7%A7%81%E7%87%9F%E9%83%A8%E9%96%80%E5%A2%9E%E9%95%B7%E5%89%B552%E5%80%8B%E6%9C%88%E9%AB%98%E4%BD%8D-%E5%83%B9%E6%A0%BC%E5%A3%93%E5%8A%9B%E6%94%BE%E7%B7%A9-164517548.html",
+        "https://ground.news/article/business-activity-expands-at-fastest-pace-since-2022",
+        "https://economictimes.indiatimes.com/topic/investment-in-corporate-bonds",
+        "https://www.livemint.com/economy/the-week-in-charts-hawkish-rbi-minutes-drought-warning-rural-workforce/amp-11787216573972.html",
         "https://www.xtb.com/fr/analyses-marches/calendrier-economique-la-serie-de-rapports-pmi-va-t-elle-detourner-l-attention-des-obligations-21-08-2026",
-        "https://www.bastillepost.com/global/article/6096585-major-us-markets-struggle-to-find-a-positive-ending-for-the-week",
-        "https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2026/08/21/world-shares-mixed-us-futures-edge",
-        "https://whbl.com/2026/08/20/gold-steadies-heads-for-third-straight-weekly-gain/",
-        "https://www.bnnbloomberg.ca/markets/2026/08/21/us-stocks-rise-as-the-bond-markets-big-swings-ease-a-bit/",
-        "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-sharp-101936269.html",
-        "https://economictimes.indiatimes.com/topic/india-pe-investment",
-        "https://theedgemalaysia.com/node/815494",
-        "https://www.xtb.com/ro/analize-de-piata/calendar-economic-o-serie-de-rapoarte-pmi-va-distrage-atentia-de-la-obligatiuni-21-08-2026"
+        "https://www.mitrade.com/insights/markets/etf-t",
+        "https://www.msn.com/en-us/money/top-stocks/european-stocks-gain-but-inflation-worries-drive-weekly-decline/ar-AA2aF1yj",
+        "https://www.mitrade.com/insights/news/live-news/article-1-2020983-20260821",
+        "https://ua.news/en/world/virobnicha-aktivnist-nimechchini-zrosla-do-54-1-na-tli-oboronnikh-zamovlen",
+        "https://hk.finance.yahoo.com/news/%E6%9C%8D%E5%8B%99%E6%A5%AD%E5%B8%B6%E5%8B%95-%E7%BE%8E%E5%9C%8B%E7%A7%81%E7%87%9F%E9%83%A8%E9%96%80%E5%A2%9E%E9%95%B7%E5%89%B552%E5%80%8B%E6%9C%88%E9%AB%98%E4%BD%8D-%E5%83%B9%E6%A0%BC%E5%A3%93%E5%8A%9B%E6%94%BE%E7%B7%A9-164517548.html",
+        "https://www.fxstreet.cz/klicova-slova+body.html?active_page",
+        "https://www.moneycontrol.com/real-estate-property/architect_online.php/target=/target=amp/news/business/stocks/Nifty%20Banker%203.0%20%7C%20India/",
+        "https://economictimes.indiatimes.com/topic/nifty-midcap-smallcap-performance",
+        "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-bpcl-hal-share-price-21-august-2026/liveblog/133390893.cms",
+        "https://theprint.in/category/economy/?filter_by=popular&tdb-loop-page=688",
+        "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-airtel-paytm-share-price-18-august-2026/liveblog/133309391.cms",
+        "https://finance.sina.com.cn/world/2026-08-22/doc-inipcsqc1386230.shtml"
       ]
     },
     "crypto_news": {
@@ -347,59 +357,84 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 9,
       "items": [
         {
-          "title": "Bitcoin surges to near-$80,000 as broader crypto rally accelerates",
-          "summary": "Bitcoin jumped above $78,000 and briefly approached $80,000, with several reports citing a roughly 6% to 9% gain over the past 24 hours. Ether also rose sharply, while XRP and other altcoins posted double-digit gains in the same risk-on move.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-soars-nearly-80-000-192618067.html"
-        },
-        {
-          "title": "Trump-backed regulatory push boosts crypto sentiment",
-          "summary": "Market coverage says Bitcoin's rally was helped by President Trump's meeting with crypto executives and his call for Congress to advance the Clarity Act, a key industry priority. The report also notes the SEC proposed crypto rule changes and the CFTC said it may build a framework under existing authority if legislation stalls.",
-          "source": "The Globe and Mail",
-          "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3976091/why-bitcoin-is-up-today/"
-        },
-        {
-          "title": "Crypto market cap rebounds as Treasury buyback plan improves risk appetite",
-          "summary": "Multiple reports attribute part of the rally to the U.S. Treasury's plan to double certain bond buybacks, which eased yield pressure and lifted risk assets. One market recap said total crypto market capitalization climbed to about $2.64 trillion, while Bitcoin touched around $79,464.",
+          "title": "Bitcoin surges to around $79.5K as short positions are liquidated",
+          "summary": "Bitcoin climbed to an intraday high near $79,464 and traded around $77K, with about $1.5 billion in crypto liquidations in 24 hours, including roughly $1.21 billion in short positions. Ether and several altcoins also rose as the market extended a broad rally.",
           "source": "RTTNews",
           "url": "https://www.rttnews.com/3683257/bitcoin-surges-to-79-5k.aspx"
         },
         {
-          "title": "Short sellers hit by massive liquidations during Bitcoin breakout",
-          "summary": "As Bitcoin climbed past $75,000 to above $77,000, leveraged short positions were liquidated across the market. One report cited roughly $1 billion in short liquidations in 24 hours and more than $4 billion over the two-day surge, highlighting the speed of the move.",
-          "source": "FinanceFeeds",
-          "url": "https://financefeeds.com/bitcoin-crosses-74000-as-ether-follows-crypto-rally-higher/"
+          "title": "Crypto market rally accelerates on Treasury liquidity boost and crypto-friendly policy signals",
+          "summary": "Market commentary linked the rally to the U.S. Treasury’s decision to double certain bond buybacks and to reports of a more crypto-friendly U.S. regulatory environment. Bitcoin topped $79K and the total crypto market capitalization reached about $2.64 trillion.",
+          "source": "RTTNews",
+          "url": "https://www.rttnews.com/3683257/bitcoin-surges-to-79-5k.aspx"
         },
         {
-          "title": "Hyperliquid token hits new all-time high after White House spotlight",
-          "summary": "Hyperliquid's HYPE token reached a fresh all-time high after President Trump publicly discussed bringing the decentralized derivatives exchange into the United States. The move made Hyperliquid one of the standout project-level winners in the latest rally.",
-          "source": "TheStreet",
-          "url": "https://www.thestreet.com/crypto/markets/hype-hits-a-new-ath-after-white-house-spotlight"
+          "title": "Bitcoin breaks above $75K as traders pile into crypto amid regulatory hopes",
+          "summary": "Bitcoin moved above $75,000 as traders returned to crypto on expectations of friendlier U.S. regulation, stronger institutional flows, and a broader risk-on move. The report said it was headed for its best weekly performance in more than three years.",
+          "source": "Investing.com",
+          "url": "https://za.investing.com/news/cryptocurrency-news/bitcoin-surges-above-75k-as-trump-spurs-us-regulatory-hopes-4438750"
+        },
+        {
+          "title": "Trump backs CLARITY Act, lifting hopes for clearer U.S. crypto rules",
+          "summary": "Coverage highlighted President Donald Trump’s support for the CLARITY Act and his call for Congress to pass a more balanced version of the bill. The legislation is intended to give the cryptocurrency market clearer regulatory treatment, though it still faces Senate obstacles.",
+          "source": "Bitcoin Foundation",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-blasts-past-79k-as-analyst-says-a-new-bull-market-has-officially-begun/"
+        },
+        {
+          "title": "Bitcoin rally triggers broad liquidations, with XRP and Dogecoin outperforming",
+          "summary": "Bitcoin gained more than 8% in 24 hours while XRP rose about 18% and Dogecoin more than 10%, according to the report. It also said more than $4.1 billion in crypto bets were wiped out over two days as shorts were squeezed.",
+          "source": "TradingView / Stocktwits",
+          "url": "https://www.tradingview.com/news/stocktwits:09fe7c6d7094b:0-bitcoin-s-77k-breakout-has-retail-buying-the-rally-but-over-4-1b-crypto-bets-got-wiped-out-in-2-days/"
+        },
+        {
+          "title": "Ethereum and altcoins rise alongside Bitcoin in a broad market surge",
+          "summary": "Ethereum climbed to roughly $2,376 to $2,433 in the reports, while altcoins such as BCH, ZEC, and PEPE posted double-digit gains. One market note said institutions were using staking and other Ethereum-related strategies to reinforce confidence in ETH.",
+          "source": "Pluang",
+          "url": "https://pluang.com/en/news-feed/institusi-manfaatkan-staking-coinbase-tingkatkan-kepercayaan-ethereum"
+        },
+        {
+          "title": "Hyperliquid token jumps as market looks for the next breakout asset",
+          "summary": "Alongside Bitcoin’s rally, the Hyperliquid token HYPE reportedly gained about 25% in 24 hours. The move reflected strong speculative interest in newer crypto projects during the broader risk-on surge.",
+          "source": "Euronews",
+          "url": "https://pt.euronews.com/business/2026/08/21/estados-unidos-bitcoin-dispara-mais-de-25-com-aperto-de-posicoes-curtas-e-apoio-a-cripto"
+        },
+        {
+          "title": "Metaplanet and Super League strike BTC treasury deal",
+          "summary": "Japanese bitcoin treasury company Metaplanet and Nasdaq-listed Super League Enterprise announced a final agreement involving 2,100 BTC and cash in exchange for equity and warrants. The deal was valued at about $134.6 million and stands out as a notable corporate bitcoin-treasury development.",
+          "source": "Wu Shuo / 163.com",
+          "url": "https://www.163.com/dy/article/L4U53DFO05568W0A.html"
+        },
+        {
+          "title": "CFTC signals continued crypto rulemaking even if Congress stalls",
+          "summary": "CFTC Chair Michael Selig said the agency could still develop crypto-related rules using existing authority even if Congress fails to pass the Clarity Act. The statement adds to the regulatory focus around how digital assets will be supervised in the U.S.",
+          "source": "Wu Shuo / 163.com",
+          "url": "https://www.163.com/dy/article/L4U53DFO05568W0A.html"
         }
       ],
       "citations": [
-        "https://finance.yahoo.com/markets/crypto/articles/bitcoin-soars-nearly-80-000-192618067.html",
-        "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3976091/why-bitcoin-is-up-today/",
+        "https://finance.yahoo.com/markets/crypto/articles/bitcoin-climbs-higher-1-2-145728098.html",
+        "https://economictimes.indiatimes.com/markets/cryptocurrency",
+        "https://www.tradingview.com/news/stocktwits:09fe7c6d7094b:0-bitcoin-s-77k-breakout-has-retail-buying-the-rally-but-over-4-1b-crypto-bets-got-wiped-out-in-2-days/",
+        "https://www.bit.fan/en/news/tag/ZEC",
         "https://www.rttnews.com/3683257/bitcoin-surges-to-79-5k.aspx",
+        "https://finance.yahoo.com/markets/crypto/articles/bitcoin-soars-nearly-80-000-192618067.html",
+        "https://www.livemint.com/market/bitcoin-nears-80-000-amid-biggest-weekly-rally-in-three-years-11787346008375.html",
         "https://financefeeds.com/bitcoin-crosses-74000-as-ether-follows-crypto-rally-higher/",
         "https://www.sabah.com.tr/ekonomi/bitcoinde-beklenmeyen-sicrama-mayistan-bu-yana-ilk-kez-78-bin-dolari-asti-7645714",
-        "https://za.investing.com/news/cryptocurrency-news/bitcoin-surges-above-75k-as-trump-spurs-us-regulatory-hopes-4438750",
-        "https://www.mitrade.com/th/insights/news/live-news/article-3-2020989-20260821",
-        "https://ground.news/article/bitcoin-tops-77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
-        "https://nl.investing.com/news/cryptocurrency-news/bitcoin-test-75000-terwijl-trump-zorgt-voor-optimisme-over-amerikaanse-regelgeving-896626",
-        "https://www.msn.com/en-in/money/general/bitcoin-briefly-surges-past-75-500-why-experts-caution-against-chasing-the-daily-7-rally/ar-AA2aC09w",
-        "https://finance.sina.com.cn/stock/t/2026-08-22/doc-inipazsc6435367.shtml",
-        "https://www.tradingview.com/news/cointelegraph:2cd2978b6094b:0-crypto-biz-treasury-s-not-qe-playbook-sends-bitcoin-higher/",
-        "https://www.crypto-insiders.nl/nieuws/bitcoin/bitcoin-bereikt-hoogste-koers-sinds-mei-xrp-stijgt-20-in-bizarre-rally/",
-        "https://news.cnyes.com/news/id/6583722",
+        "https://pluang.com/en/news-feed/institusi-manfaatkan-staking-coinbase-tingkatkan-kepercayaan-ethereum",
         "https://www.fastcompany.com/91593523/crypto-stock-prices-today-coinbase-mara-surge-as-bitcoin-shines",
-        "https://www.thestreet.com/crypto/markets/hype-hits-a-new-ath-after-white-house-spotlight",
-        "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-rally-4872157",
-        "https://www.goodreturns.in/news/cryptocurrencies-bitcoin-at-75000-btc-biggest-weekly-gains-in-2-years-ethereum-xrp-doge-hype-solana-1529819.html",
-        "https://money.udn.com/money/story/5599/9706831"
+        "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-sees-041036176.html",
+        "https://www.livemint.com/market/bitcoin-nears-80-000-amid-biggest-weekly-rally-in-three-years/amp-11787346008375.html",
+        "https://pt.euronews.com/business/2026/08/21/estados-unidos-bitcoin-dispara-mais-de-25-com-aperto-de-posicoes-curtas-e-apoio-a-cripto",
+        "https://za.investing.com/news/cryptocurrency-news/bitcoin-surges-above-75k-as-trump-spurs-us-regulatory-hopes-4438750",
+        "https://bitcoinfoundation.org/news/bitcoin/bitcoin-blasts-past-79k-as-analyst-says-a-new-bull-market-has-officially-begun/",
+        "https://www.163.com/dy/article/L4U53DFO05568W0A.html",
+        "https://www.tradingview.com/news/cointelegraph:2cd2978b6094b:0-crypto-biz-treasury-s-not-qe-playbook-sends-bitcoin-higher/",
+        "https://ground.news/article/bitcoin-tops-77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
+        "https://usd.52hqz.com/flash"
       ]
     },
     "ai_news": {
@@ -407,27 +442,72 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 7,
+      "items": [
+        {
+          "title": "Nvidia agrees to pay $6 billion to license Poolside’s AI models, invest $1 billion",
+          "summary": "Bloomberg reported that Nvidia will pay Poolside $6 billion for a nonexclusive license to its Model Factory platform and separately invest $1 billion in the startup. The deal underscores how major AI chipmakers are increasingly using licensing and strategic investment to secure model access and talent.",
+          "source": "Yahoo Finance / Bloomberg",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-pay-poolside-6-billion-181448803.html"
+        },
+        {
+          "title": "OpenAI reportedly cuts GPT-5.6 Sol API and credit pricing by more than 20%",
+          "summary": "A news item on AI Newsify says OpenAI reduced GPT-5.6 Sol API and credit pricing by more than 20% for the next three months. If accurate, the move would signal aggressive price competition in foundation-model APIs.",
+          "source": "AI Newsify",
+          "url": "https://ainewsify.com/"
+        },
+        {
+          "title": "Murf AI launches Falcon 2 text-to-speech model",
+          "summary": "Economic Times reports that Murf AI released Falcon 2, a text-to-speech model aimed at more human-like voices at lower cost and faster speeds. The company says the model is priced at $0.01 per generated minute and is targeting enterprise customers such as call centers, banks, and airlines.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.com/tech/artificial-intelligence"
+        },
+        {
+          "title": "OpenAI introduces a new safety tool to protect user privacy",
+          "summary": "The Economic Times says OpenAI has introduced a new privacy-focused safety tool. The report did not provide full technical details, but it suggests continued emphasis on guardrails and data protection as AI deployment expands.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/topic/AI-models-infrastructure"
+        },
+        {
+          "title": "Chinese AI firm Z.ai launches GLM-5.3",
+          "summary": "A report on The Economic Times’ AI models infrastructure coverage says Chinese AI company Z.ai has launched GLM-5.3. The release adds to the steady stream of new model launches from Chinese labs competing in the global open and proprietary model market.",
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/topic/AI-models-infrastructure"
+        },
+        {
+          "title": "DeepSeek V4-Flash-Vision-Exp launched",
+          "summary": "Phoenix’s tech coverage reports that DeepSeek has released a multimodal visual-understanding model called DeepSeek V4-Flash-Vision-Exp. The launch points to continued rapid progress in vision-language models in China.",
+          "source": "Phoenix Technology",
+          "url": "https://tech.ifeng.com/ai"
+        },
+        {
+          "title": "AI industry discussion centers on capital intensity, safety, and infrastructure",
+          "summary": "Multiple coverage items from the past day highlight a shift toward larger funding structures, AI safety, and infrastructure constraints, including reports about Nvidia’s Poolside deal, Broadcom financing plans, and concerns over AI systems interacting with critical systems. The broader trend suggests AI competition is increasingly defined by capital, compute, and risk management rather than model launches alone.",
+          "source": "Multiple sources",
+          "url": ""
+        }
+      ],
       "citations": [
-        "https://www.nytimes.com/spotlight/artificial-intelligence",
         "https://www.bbc.co.uk/news/topics/ce1qrvleleqt",
-        "https://www.wsj.com/tech/ai?page=1",
-        "https://economictimes.indiatimes.com/topic/ai-compute-power-2028",
+        "https://economictimes.com/tech/artificial-intelligence",
+        "https://www.cnbc.com/ai-artificial-intelligence/",
+        "https://ainewsify.com/",
+        "https://economictimes.indiatimes.com/topic/AI-models-infrastructure",
+        "https://www.youtube.com/watch?v=kzzAOUH3g2Y",
         "https://www.techrepublic.com/article/ai-races-ahead-in-tech-this-week-as-cyberthreats-and-robots-raise-the-stakes/",
-        "https://economictimes.indiatimes.com/topic/artificial-intelligence-job-protection",
-        "https://www.news18.com/topics/deeptalent-technologies/",
-        "https://www.wsj.com/tech/ai/private-equity-is-deploying-an-army-of-ai-wonks-to-embed-in-the-firms-they-back-96d279ec",
-        "https://www.wsj.com/tech/ai/private-equity-is-deploying-an-army-of-ai-wonks-to-embed-in-the-firms-they-back-96d279ec?siteid=yhoof2&yptr=yahoo",
-        "https://u.today/behind-22-link-rally-what-chris-barrett-meant-by-you-cant-spell-chainlink-without-ai",
-        "https://www.techflowpost.com/en-US/article/33413",
-        "https://www.zacks.com/stock/news/2978417/can-workday-ai-research-unit-drive-sustainable-enterprise-growth",
-        "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-3-30-p-m-edt/article_efb2a3aa-3503-541a-81e6-11000aa185d3.html",
-        "https://www.ncnewsonline.com/news/national/ap-business-summarybrief-at-2-43-p-m-edt/article_ee9d4402-a209-58b3-babe-668eb6c66dcb.html",
-        "https://today.duke.edu/2026/08/ai-and-advanced-computing-accelerate-scientific-research-duke",
-        "https://douglevin.substack.com/p/who-pays-for-ai-the-emerging-politics",
-        "https://www.coasttv.com/news/students-tackle-delaware-government-problems-in-ai-hackathon/article_6e86a20d-43d6-4227-a8b8-7a186d0a27c5.html",
-        "https://theslowai.substack.com/p/only-2-percent-pay-for-ai"
+        "https://note.com/hirokimiyano/n/ned9ccbc5818e",
+        "https://www.prnewswire.com/news-releases/latest-news-topics/artificial-intelligence/",
+        "https://tech.ifeng.com/ai",
+        "https://www.youtube.com/watch?v=EfGF7QbJItA",
+        "https://www.youtube.com/watch?v=bLWHxtReMc4",
+        "https://x.com/imrenagi/status/2090959990500864151",
+        "https://www.facebook.com/aibc.world/posts/this-week-in-crypto-and-ai-14m-ai-agent-payments-in-30-days-on-coinbases-x402-tr/1380071760980805/",
+        "https://finance.yahoo.com/technology/ai/articles/nvidia-pay-poolside-6-billion-181448803.html",
+        "https://www.youtube.com/watch?v=q8--kAK7_TM",
+        "https://www.youtube.com/watch?v=RxoZyaZZEFo",
+        "https://note.com/hirokimiyano/n/na9b91f48e84a",
+        "https://economictimes.indiatimes.com/topic/ai-focused-hedge-fund",
+        "https://www.youtube.com/watch?v=7_uihAYfjXg"
       ]
     },
     "gaming": {
@@ -438,23 +518,26 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://insider-gaming.com/gta-6-leaker-returns-after-24-hour-silence-with-new-hypercar-video/",
+        "https://dailytilt.news/news",
+        "https://www.youtube.com/watch?v=D2zLU-5NyYo",
+        "https://www.thegamer.com/gta-6-no-leak-24-hours-hacker-seemingly-caught-rockstar/",
+        "https://www.lacremedugaming.fr/jeux/gta/gta-6/apres-24-heures-de-silence-le-leaker-de-gta-6-revient-avec-une-bugatti-et-une-nouvelle-mecanique-de-carjacking-223282.html",
         "https://www.videogameschronicle.com/news/take-two-files-subpoenas-to-microsoft-and-discord-in-hunt-for-gta-6-leaker/",
+        "https://www.youtube.com/watch?v=zdsMl6UE5oU",
+        "https://www.diariobitcoin.com/noticias/filtrador-de-gta-6-reaparece-con-un-nuevo-video-del-hypercar-tras-24-horas-de-silencio/",
+        "https://ground.news/article/fromsoftware-has-closed-down-the-first-day-of-the-duskbloods-network-test-early-due-to-connectivity-issues",
         "https://kulturegeek.fr/news-357448/gta-6-take-two-veut-informations-hacker-aupres-microsoft-discord",
         "https://www.actugaming.net/gta-6-take-two-demande-a-microsoft-et-a-discord-de-collaborer-dans-lenquete-pour-retrouver-le-hackeur-818978/",
-        "https://www.gamespark.jp/article/img/2026/08/22/171071/1178872.html",
-        "https://www.gamespark.jp/article/img/2026/08/22/171071/1178871.html",
-        "https://www.techloy.com/gta-6-leaks-take-two-stock-recovery/",
-        "https://www.gamesindustry.biz/compulsion-games-officially-separates-from-xbox-the-team-told-me-we-would-rather-eat-rocks-and-drink-gasoline-than-be-split-up",
-        "https://www.163.com/dy/article/L4T68IFV05561FY9.html",
-        "https://gameinformer.com/opinion/2026/08/21/the-video-games-you-should-play-this-weekend-august-21-2026",
-        "https://www.purepc.pl/wyciek-gta-6-take-two-traci-miliardy-dolarow",
-        "https://www.lacremedugaming.fr/actus/steam-offre-un-nouveau-jeu-gratuit-note-10-10-une-pepite-qui-seduit-presque-tous-ses-joueurs-223281.html",
-        "https://www.163.com/dy/article/L4S1DR9H0546A326.html",
-        "https://www.gamesurf.it/en/news/gamescom-2026-opening-night-live-won-t-just-be-a-paid-showcase",
-        "https://www.163.com/dy/article/L4T5GUPL05561FY3.html",
-        "https://www.163.com/dy/article/L4RGF2750526K1KN.html",
-        "https://money.udn.com/money/story/123828/9704814"
+        "https://www.youtube.com/watch?v=2H0vmMRKB8E",
+        "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-22-august-2026/",
+        "https://www.youtube.com/watch?v=_oOg1cktTYk",
+        "https://www.notebookcheck.net/GTA-6-leaks-reportedly-anger-Rockstar-but-won-t-delay-Netflix-show-amid-investigation.1375168.0.html",
+        "https://www.sohu.com/a/1066001536_355019",
+        "https://x.com/Pirat_Nation/status/2090967690433163660",
+        "https://www.youtube.com/watch?v=g6VsuLKLYqM",
+        "https://www.youtube.com/watch?v=2APXsUgqNaQ",
+        "https://www.youtube.com/watch?v=BmNtsrpzoDQ",
+        "https://www.nbcnews.com/video/16-year-old-girl-charged-after-tackling-middle-school-football-player-during-game-268596805871"
       ]
     },
     "tech_news": {
@@ -462,26 +545,84 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 9,
+      "items": [
+        {
+          "title": "TikTok agrees to a $400 million child-privacy settlement",
+          "summary": "TikTok and parent ByteDance reached a $400 million settlement with the U.S. Justice Department over allegations that the platform violated children’s online privacy rules. The deal resolves a lawsuit filed in 2024 and is one of the biggest recent regulatory actions in consumer tech.",
+          "source": "Techmeme / New York Times",
+          "url": "https://techmeme.com/index.html"
+        },
+        {
+          "title": "Amazon plans a major expansion of Prime Air drone delivery",
+          "summary": "Amazon says it plans to extend its drone-delivery service to roughly 500 U.S. cities, aiming to deliver packages of up to 5 pounds in about 30 minutes. The expansion would significantly broaden the company’s autonomous logistics footprint.",
+          "source": "Briev",
+          "url": "https://www.briev.ai/topics/technology/"
+        },
+        {
+          "title": "Walmart to accept Apple Pay and Google Pay in stores",
+          "summary": "Walmart announced it will begin accepting Apple Pay and Google Pay via tap-to-pay at select Walmart and Sam’s Club locations starting Aug. 24, with a broader rollout planned by year-end. The company also said fuel-station support is expected by mid-2027.",
+          "source": "Briev",
+          "url": "https://www.briev.ai/topics/technology/"
+        },
+        {
+          "title": "Tesla recalls nearly 3 million vehicles in China over door-handle safety risks",
+          "summary": "Tesla is recalling about 2.98 million vehicles in China, including Model 3, Model Y, Model X and Model S, over concerns tied to door-handle safety and emergency exit risks. The action comes amid a wider wave of vehicle safety scrutiny in China.",
+          "source": "AP News",
+          "url": "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-3-30-p-m-edt/article_efb2a3aa-3503-541a-81e6-11000aa185d3.html"
+        },
+        {
+          "title": "Uber hit with a large Dutch privacy fine over automated account suspensions",
+          "summary": "Dutch regulators fined Uber nearly $1 billion, saying the company used automated systems to suspend driver accounts, sometimes permanently, without sufficient human review. It is among the biggest GDPR-related penalties to date.",
+          "source": "AP News",
+          "url": "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-3-30-p-m-edt/article_efb2a3aa-3503-541a-81e6-11000aa185d3.html"
+        },
+        {
+          "title": "GitHub suffers a major service interruption",
+          "summary": "GitHub experienced a broad outage affecting its website, API, pull requests, webhooks and Copilot. The disruption began around 9:40 a.m. ET and affected core developer workflows.",
+          "source": "Briev",
+          "url": "https://www.briev.ai/topics/technology/"
+        },
+        {
+          "title": "LandSpace achieves a first-stage booster recovery on Zhuque-3",
+          "summary": "Chinese launch provider LandSpace successfully recovered the first stage of its Zhuque-3 rocket, becoming the third private company to land an orbital-class booster. The milestone is a notable step for reusable launch capability in China.",
+          "source": "AP News",
+          "url": "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-3-30-p-m-edt/article_efb2a3aa-3503-541a-81e6-11000aa185d3.html"
+        },
+        {
+          "title": "FCC tightens rules on certain power inverters and robot imports",
+          "summary": "PCMag reported that the U.S. is expanding a ban to cover utility-connected power inverters that contain ethernet, not just wireless connectivity. Separately, new FCC restrictions on some robot models require U.S. assembly and at least 65% domestic parts by value.",
+          "source": "PCMag / TechRepublic",
+          "url": "https://www.pcmag.com/news"
+        },
+        {
+          "title": "Apple issues spyware warnings to users in 110 countries",
+          "summary": "Apple sent high-confidence mercenary-spyware warnings to targeted users across 110 countries. The alerts add to growing concern about commercial spyware targeting phones and accounts.",
+          "source": "TechRepublic",
+          "url": "https://www.techrepublic.com/article/ai-races-ahead-in-tech-this-week-as-cyberthreats-and-robots-raise-the-stakes/"
+        }
+      ],
       "citations": [
+        "https://www.bbc.com/technology",
         "https://www.pcmag.com/news",
-        "https://techmeme.com/index.html",
         "https://www.engadget.com/",
-        "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-1-53-p-m-edt/article_efb2a3aa-3503-541a-81e6-11000aa185d3.html",
-        "https://finance.yahoo.com/technology/live/tech-stocks-today-nvidia-earnings-on-the-horizon-as-anthropic-prepares-ipo-plans-132945569.html",
-        "https://www.bbc.co.uk/news/topics/ce1qrvleleqt",
+        "https://techmeme.com/index.html",
+        "https://ainewsify.com/",
+        "https://briev.ai/topics/technology/",
+        "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-3-30-p-m-edt/article_efb2a3aa-3503-541a-81e6-11000aa185d3.html",
+        "https://www.techrepublic.com/article/ai-races-ahead-in-tech-this-week-as-cyberthreats-and-robots-raise-the-stakes/",
         "https://phys.org/",
-        "https://economictimes.indiatimes.com/topic/illinois-biometric-information-privacy-act",
+        "https://finance.yahoo.com/technology/live/tech-stocks-today-nvidia-earnings-on-the-horizon-as-anthropic-prepares-ipo-plans-132945569.html",
+        "https://economictimes.indiatimes.com/topic/cybersecurity-in-it-services",
+        "https://www.youtube.com/watch?v=kzzAOUH3g2Y",
+        "https://www.youtube.com/watch?v=Tlf-xiY_q24",
         "https://finance.yahoo.com/technology/articles/private-equity-firm-apollo-confirms-133523429.html",
-        "https://technews.acm.org/",
-        "https://www.firstpost.com/tech/how-a-texas-student-blew-the-whistle-on-a-rogue-ai-hacking-attempt-14039736.html",
-        "https://www.news18.com/topics/deeptalent-technologies/",
-        "https://www.thisdaylive.com/2026/08/21/australia-passes-law-to-levy-tech-giants-as-nigerian-media-awaits-fg/",
-        "https://www.newsbreak.com/oilprice-302644177/4841610418142-iran-warns-gulf-states-as-u-s-turns-up-economic-pressure",
-        "https://itnews.substack.com/p/itne-developer-devopscom-humor-check",
-        "https://www.manilatimes.net/2026/08/21/tmt-newswire/globenewswire/networknews-audio-announces-audio-press-release-apr-discussing-deployment-first-structure-where-competitive-advantage-sits-in-robotic-space/2410012",
-        "https://siliconangle.com/tag/teen-mode/"
+        "https://www.marketscreener.com/quote/stock/ALPHABET-INC-24203388/news-key-events/",
+        "https://www.youtube.com/watch?v=2APXsUgqNaQ",
+        "https://economictimes.indiatimes.com/topic/internet-access-in-schools",
+        "https://www.wsj.com/topics/subject/biotechnology?page",
+        "https://tech.ifeng.com/ai",
+        "https://www.youtube.com/watch?v=7_uihAYfjXg"
       ]
     }
   }
