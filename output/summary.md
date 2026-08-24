@@ -1,25 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-08-23 18:04 UTC*
+*Generated: 2026-08-24 00:12 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+Here is your executive briefing:
 
-1. **Market Overview**: The S&P 500 rose 0.43%, the Nasdaq Composite gained 0.43%, and the Dow added 0.99% on Friday, despite weekly losses due to yields and Iran tensions. Bitcoin's price is $77,185, with a 22.2% increase over the past 7 days. Ethereum's price is $2,439.45, with a 29.3% increase over the past 7 days.
+1. **Market Overview**: The US stock market closed higher on Friday but ended the week lower due to volatility in Treasury yields and geopolitical uncertainty. The Dow, S&P 500, and Nasdaq all finished in the green, but each posted weekly declines. In the crypto market, Bitcoin slipped under $77,000 after a recent rally, while other major cryptocurrencies such as Ether, XRP, and Cardano were mostly lower. The crypto market saw a sharp weekend selloff with heavy liquidations, totaling around $882 million in 24 hours.
 
-2. **Tech & AI**: Notable tech developments include the performance of AI models such as GLM-5.3, which beat Anthropic/OpenAI models at a lower cost. Additionally, there are concerns about malware infecting Android-based automotive head unit firmware and the discovery of a Russian backdoor in traffic speed cameras in Slovakia.
+2. **Tech & AI**: Key tech developments include the upcoming Nvidia earnings report, which is expected to shape expectations for AI-related equities. Additionally, a recent article discussed the challenges faced by Anthropic's AI model in attracting users, despite being one of the best AI models available. Other notable tech news includes the development of AI chip architectures and the implementation of GPT-2 in pure CMake.
 
 3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
 
 4. **Key Insights**:
-* The US stock market showed gains on Friday, but weekly losses remained due to yields and Iran tensions.
-* AI models like GLM-5.3 are demonstrating impressive performance at lower costs, potentially disrupting the AI landscape.
-* Cybersecurity concerns are rising, with malware and backdoors being discovered in various systems.
-* The price of Bitcoin and Ethereum has increased significantly over the past 7 days, with Bitcoin up 22.2% and Ethereum up 29.3%.
-* Oil prices rose due to Iran-related supply fears, contributing to market volatility.
+* The US stock market is experiencing volatility due to Treasury yields and geopolitical uncertainty.
+* The crypto market is seeing a sharp selloff with heavy liquidations, totaling around $882 million in 24 hours.
+* Nvidia's upcoming earnings report is expected to shape expectations for AI-related equities.
+* Anthropic's AI model is struggling to attract users despite being one of the best AI models available.
+* Global economic activity strengthened in August, with the US as the clear growth leader.
 
-5. **Watch List**: Items to monitor in the coming days include:
-* US stock market performance and the impact of yields and Iran tensions on investor sentiment.
-* The development and performance of AI models like GLM-5.3 and their potential applications.
-* Cybersecurity threats, including malware and backdoors, and their potential impact on various industries.
-* The price of Bitcoin and Ethereum, as well as other cryptocurrencies, and their potential impact on the market.
-* Oil prices and their potential impact on inflation and market volatility.
+5. **Watch List**: 
+* Nvidia's earnings report on Wednesday
+* Jackson Hole symposium
+* Key inflation data releases, including PCE inflation and GDP revisions
+* US trade negotiations with Canada
+* Crypto market movements, particularly Bitcoin and other major cryptocurrencies.
