@@ -1,20 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-08-25 12:09 UTC*
+*Generated: 2026-08-25 18:09 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The US stock market ended mixed, with the Dow gaining 0.26% and the S&P 500 and Nasdaq slipping 0.28% and 0.77%, respectively. Bitcoin surged above $80,000, with Ethereum and major altcoins also posting broad gains. The crypto market saw significant liquidations amid heightened volatility, with Bitcoin short liquidations exceeding $457 million.
+1. **Market Overview**: The crypto market has seen significant gains, with Bitcoin briefly topping $81,000 and the total crypto market capitalization rising to roughly $2.78 trillion. Major altcoins such as Ethereum, Solana, and BNB have also posted broad gains. In traditional markets, there is a lack of significant news, but the overall sentiment remains risk-on.
 
-2. **Tech & AI**: Notable tech developments include the release of Emacs 31.1, a new BASIC interpreter that boots on UEFI machines, and the announcement of SiFive's first server platform. Additionally, a quantum battery that charges faster the larger it gets has been reported, and Xiaomi's new CPU has been shown to match Apple cores in single-threaded performance and outperform them in multi-threaded performance.
+2. **Tech & AI**: Apple has introduced new products, including the M6 and M5 Ultra, and a new Mac Studio with M5 Max and M5 Ultra. Additionally, there have been developments in AI, including the launch of Qwen 3.8-Flash-Next, a new AI model. Other tech news includes the release of a new Mac mini featuring the M6 and M5 Pro, and the announcement of iCloud+ Hide My Email addresses remaining on icloud.com.
 
-3. **Gaming & Entertainment**: A notable development is the creation of a video game version of the entire city of San Francisco, available at sf.thijs.gg. Additionally, a project called "Moon" has been announced, although details are scarce.
+3. **Gaming & Entertainment**: There is limited notable gaming news, although Minecraft can now be run in a Windows Sandbox for Computer Use Agents. Additionally, a new game called "Don't Wordle" has been released.
 
 4. **Key Insights**:
-* The US stock market is experiencing mixed movements, with the Dow gaining and the S&P 500 and Nasdaq slipping.
-* The crypto market is seeing significant gains, with Bitcoin surpassing $80,000 and Ethereum and major altcoins also rising.
-* Tech developments are focused on advancements in AI, quantum technology, and server platforms.
-* The creation of a video game version of San Francisco and the announcement of the "Moon" project demonstrate ongoing innovation in the gaming and entertainment industries.
-* Regulatory news, such as the US Treasury's sanctions on Iran, is impacting oil prices and global risk sentiment.
+* The crypto market is experiencing a significant rally, driven by renewed inflows into spot bitcoin ETFs and a softer US dollar.
+* Regulatory pressure is increasing, with the SEC probing Wall Street banks and issuing subpoenas.
+* Tokenization and traditional-finance integration are becoming more prominent, with Coinbase launching tokenized stocks on the Base network.
+* Mainstream banking involvement in stablecoin distribution is growing, with Standard Chartered distributing a regulated Hong Kong stablecoin.
+* US authorities have seized nearly $1 billion in crypto tied to Iran, as part of a broader sanctions and economic-enforcement campaign.
 
-5. **Watch List**: Items to monitor in the coming days include the US PCE inflation report, the Jackson Hole speech, and further developments in the crypto market. Additionally, the impact of the US Treasury's sanctions on Iran and the ongoing trade tensions between the US and Canada should be closely watched. The performance of tech stocks, particularly those related to AI and quantum technology, should also be monitored.
+5. **Watch List**: 
+* Bitcoin and Ethereum prices
+* Regulatory developments in the crypto space
+* Traditional-finance integration and tokenization
+* Mainstream banking involvement in stablecoin distribution
+* US sanctions and economic-enforcement campaigns targeting crypto assets
