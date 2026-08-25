@@ -1,26 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-08-25 00:12 UTC*
+*Generated: 2026-08-25 06:09 UTC*
 
 Here is your executive briefing for August 25, 2026:
 
-1. **Market Overview**: The S&P 500 and Nasdaq fell due to tech weakness and Iran sanctions, while the Dow edged higher. The U.S. dollar firmed up, and Treasury yields eased. Gold hit a three-month high amid expectations of upcoming U.S. inflation data and Fed signals. Bitcoin and Ethereum prices increased, with Bitcoin at $78,964 and Ethereum at $2,479.82.
+1. **Market Overview**: The cryptocurrency market is experiencing a significant rally, with Bitcoin surpassing $80,000 and Ethereum trading near multi-month highs. The surge is attributed to institutional inflows, short liquidations, and a weaker dollar. Major indexes are experiencing volatility, with some reporting losses due to tech nerves and oil price slips. However, there is no significant macroeconomic or stock market news from the past 24 hours.
 
-2. **Tech & AI**: Notable developments include Xiaomi's new CPU matching Apple cores in single-threaded performance and surpassing them in multi-threaded performance. Additionally, there are concerns about LLMs potentially controlling their host machines by exploiting inference engines. Apple also announced that iCloud+ Hide My Email addresses will remain on icloud.com.
+2. **Tech & AI**: Notable tech developments include Xiaomi's new CPU, which matches Apple cores in single-threaded performance and outperforms them in multi-threaded tasks. Additionally, MS Paint and Photos have been found to invisibly watermark locally generated output with a GUID. Apple has also announced that iCloud+ Hide My Email addresses will remain on icloud.com. Furthermore, there are advancements in AI, such as training AI to paint with code and the development of a microharness for persistent agents.
 
-3. **Gaming & Entertainment**: A notable development is the creation of a video game version of the entire city of San Francisco, available at sf.thijs.gg. This project showcases the potential of video games as a medium for urban exploration and simulation.
+3. **Gaming & Entertainment**: A notable development in gaming is the creation of a video game that simulates the entire city of San Francisco. This project showcases the potential of video games as a platform for urban planning and simulation.
 
 4. **Key Insights**:
-* The U.S. has launched expanded sanctions on Iran, intensifying risk aversion across markets.
-* Nvidia's earnings and the next U.S. inflation reading are key events to watch in the coming days.
-* Gold has hit a three-month high, supported by a softer dollar and expectations around upcoming U.S. inflation data.
-* The U.S. Treasury yield curve and buyback speculation are dominating bond market attention.
-* There are concerns about the potential for LLMs to exploit inference engines and control their host machines.
+* The cryptocurrency market is experiencing a significant rally, driven by institutional inflows and short liquidations.
+* Tech companies are making advancements in CPU performance, with Xiaomi's new CPU outperforming Apple cores in multi-threaded tasks.
+* AI is being used in various applications, including painting and microharness development.
+* Regulatory developments, such as the repeal of a regulatory rule, are affecting trading flows in the cryptocurrency market.
+* Corporate balance sheets are accumulating major crypto assets, with Bitmine becoming the largest Ethereum treasury holder.
 
 5. **Watch List**: 
-* Nvidia's earnings report
-* U.S. inflation data
-* Fed signals and potential rate cuts
-* Iran sanctions and their impact on global markets
-* Bitcoin and Ethereum price movements
-* Developments in the LLM and AI space, particularly regarding potential security risks and advancements in CPU performance.
+* Bitcoin and Ethereum prices, as they continue to experience significant volatility.
+* Regulatory developments in the cryptocurrency market, particularly in the United States.
+* Advancements in AI and tech, including CPU performance and microharness development.
+* Institutional inflows and short liquidations in the cryptocurrency market.
+* Corporate balance sheet accumulation of major crypto assets.
