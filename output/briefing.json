@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T18:11:25.246453+00:00",
-  "generated_at_human": "2026-09-04 18:11 UTC",
+  "generated_at": "2026-09-05T00:25:27.836000+00:00",
+  "generated_at_human": "2026-09-05 00:25 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Actively exploited sandbox RCE in all Chromium versions",
+          "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+          "score": 154,
+          "comments": 69
+        },
+        {
+          "title": "Formalizing Fermat's Last Theorem",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "score": 447,
+          "comments": 297
+        },
+        {
+          "title": "Statichost.eu – European static site hosting",
+          "url": "https://www.statichost.eu/",
+          "score": 153,
+          "comments": 54
+        },
+        {
           "title": "Discovery of a new OpenAI agent message board",
           "url": "https://collusion.wiki/",
-          "score": 1007,
-          "comments": 794
+          "score": 1442,
+          "comments": 1158
+        },
+        {
+          "title": "GPT-6 Astra on OpenRouter",
+          "url": "https://openrouter.ai/openai/gpt-6-astra",
+          "score": 88,
+          "comments": 41
+        },
+        {
+          "title": "Can AI design circuit boards yet?",
+          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+          "score": 142,
+          "comments": 80
+        },
+        {
+          "title": "Shutting down our public encrypted DNS",
+          "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+          "score": 231,
+          "comments": 85
+        },
+        {
+          "title": "Can guitar frets perform multiplication?",
+          "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+          "score": 18,
+          "comments": 1
+        },
+        {
+          "title": "RSA-260 Factorized",
+          "url": "https://twitter.com/penlume/status/2095372672356212876",
+          "score": 50,
+          "comments": 16
+        },
+        {
+          "title": "An open DNS recursive service for free security and high privacy",
+          "url": "https://quad9.net/",
+          "score": 59,
+          "comments": 10
+        },
+        {
+          "title": "Artificial Analysis Intelligence Index v4.2",
+          "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+          "score": 5,
+          "comments": 0
         },
         {
           "title": "Show HN: Open-Source eInk Bike Computer",
           "url": "https://opentrailpaper.com",
-          "score": 47,
-          "comments": 12
+          "score": 220,
+          "comments": 75
         },
         {
-          "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-          "score": 26,
-          "comments": 10
+          "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+          "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+          "score": 126,
+          "comments": 72
         },
         {
-          "title": "Solving the Jane Street reverse engineering challenge",
-          "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-          "score": 311,
-          "comments": 73
+          "title": "Government Rails Site Hit Hours After CVE Patch",
+          "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+          "score": 67,
+          "comments": 16
         },
         {
-          "title": "GPT-6 Astra",
-          "url": "https://openai.com/index/gpt-6-astra/",
-          "score": 2084,
-          "comments": 1898
+          "title": "Fermat's Last Theorem in Lean 4",
+          "url": "https://github.com/anthropics/fermats-last-theorem",
+          "score": 53,
+          "comments": 11
+        },
+        {
+          "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+          "score": 11,
+          "comments": 0
+        },
+        {
+          "title": "The Rust React Compiler is now native in Vite",
+          "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+          "score": 106,
+          "comments": 19
+        },
+        {
+          "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+          "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+          "score": 20,
+          "comments": 0
+        },
+        {
+          "title": "Decompiler Explorer",
+          "url": "https://dogbolt.org",
+          "score": 30,
+          "comments": 1
+        },
+        {
+          "title": "Show HN: Moadim.io – A scheduler for agents",
+          "url": "https://moadim.io/",
+          "score": 3,
+          "comments": 0
         },
         {
           "title": "IBM Bob",
           "url": "https://bob.ibm.com/",
-          "score": 129,
-          "comments": 143
+          "score": 218,
+          "comments": 254
         },
         {
-          "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-          "score": 47,
-          "comments": 10
-        },
-        {
-          "title": "The Two Abstractions of System Design: Hide or Reduce",
-          "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
-          "score": 76,
-          "comments": 9
+          "title": "Solving the Jane Street reverse engineering challenge",
+          "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+          "score": 389,
+          "comments": 86
         },
         {
           "title": "deSEC – Free Secure DNS",
           "url": "https://desec.io/",
-          "score": 25,
-          "comments": 10
+          "score": 108,
+          "comments": 40
         },
         {
-          "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-          "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-          "score": 54,
-          "comments": 21
-        },
-        {
-          "title": "Corporate America is getting hooked on open-source AI",
-          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-          "score": 154,
-          "comments": 119
-        },
-        {
-          "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
-          "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
-          "score": 113,
-          "comments": 38
-        },
-        {
-          "title": "Getting Started with AT Protocol",
-          "url": "https://bnb.im/posts/atproto-essential-resources/",
-          "score": 31,
-          "comments": 6
-        },
-        {
-          "title": "People that worked on the same idea for decades",
-          "url": "https://nityasnotes.com/writing/decades/",
-          "score": 4,
+          "title": "Gimlet's Series B",
+          "url": "https://gimletlabs.ai/blog/announcing-series-b",
+          "score": 6,
           "comments": 2
         },
         {
-          "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-          "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-          "score": 312,
-          "comments": 58
-        },
-        {
-          "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-          "url": "https://inference-docs.cerebras.ai/models/overview",
-          "score": 661,
-          "comments": 218
-        },
-        {
-          "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
-          "url": "https://github.com/hawshemi/lg-c5-webos25-region-change",
-          "score": 40,
-          "comments": 55
-        },
-        {
-          "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
-          "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
-          "score": 1,
+          "title": "Icons as a Service",
+          "url": "https://nravic.com/blog/images/",
+          "score": 14,
           "comments": 0
-        },
-        {
-          "title": "A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]",
-          "url": "https://www.cs.cmu.edu/~bryant/pubdir/MIT-LCS-TR-259.pdf",
-          "score": 7,
-          "comments": 0
-        },
-        {
-          "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-          "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-          "score": 16,
-          "comments": 4
-        },
-        {
-          "title": "How Fairphone built the Fairphone Gen 6+",
-          "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-          "score": 147,
-          "comments": 125
-        },
-        {
-          "title": "US Military disables ad trackers on troops' phones",
-          "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
-          "score": 120,
-          "comments": 55
-        },
-        {
-          "title": "Ok, but does it scale?",
-          "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
-          "score": 88,
-          "comments": 50
-        },
-        {
-          "title": "The largest electric aircraft just flew [video]",
-          "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-          "score": 436,
-          "comments": 324
-        },
-        {
-          "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-          "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-          "score": 5,
-          "comments": 1
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 79550,
-          "change_24h": -2.1,
-          "change_7d": 2.2,
-          "market_cap": 1597328126753
+          "price": 79652,
+          "change_24h": -1.98,
+          "change_7d": 2.5,
+          "market_cap": 1599375447206
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2447.84,
-          "change_24h": -2.38,
-          "change_7d": 0.1,
-          "market_cap": 298680299596
+          "price": 2453.99,
+          "change_24h": -2.18,
+          "change_7d": 0.6,
+          "market_cap": 299445874644
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 101.42,
-          "change_24h": -3.51,
-          "change_7d": -3.7,
-          "market_cap": 59369530437
+          "price": 101.81,
+          "change_24h": -1.94,
+          "change_7d": -2.1,
+          "market_cap": 59595085716
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.084285,
-          "change_24h": -5.92,
-          "change_7d": -1.5,
-          "market_cap": 13130226569
+          "price": 0.084747,
+          "change_24h": -3.21,
+          "change_7d": -0.4,
+          "market_cap": 13201739242
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.212,
-          "change_24h": -5.39,
-          "change_7d": 4.1,
-          "market_cap": 7950805485
+          "price": 0.211372,
+          "change_24h": -4.02,
+          "change_7d": 4.4,
+          "market_cap": 7927155795
         }
       ]
     },
@@ -214,7 +214,22 @@
         {
           "name": "CLUSTER PROTOCOL",
           "symbol": "CP",
-          "market_cap_rank": 508
+          "market_cap_rank": 520
+        },
+        {
+          "name": "Pons",
+          "symbol": "PONS",
+          "market_cap_rank": 110
+        },
+        {
+          "name": "Lil' Shrub",
+          "symbol": "SHRUB",
+          "market_cap_rank": 364
+        },
+        {
+          "name": "MarsCoin",
+          "symbol": "MARSCOIN",
+          "market_cap_rank": 178
         },
         {
           "name": "Zcash",
@@ -222,44 +237,29 @@
           "market_cap_rank": 11
         },
         {
-          "name": "Pons",
-          "symbol": "PONS",
-          "market_cap_rank": 105
-        },
-        {
           "name": "Lighter",
           "symbol": "LIT",
-          "market_cap_rank": 68
+          "market_cap_rank": 67
         },
         {
-          "name": "Lil' Shrub",
-          "symbol": "SHRUB",
-          "market_cap_rank": 295
+          "name": "Dash",
+          "symbol": "DASH",
+          "market_cap_rank": 83
         },
         {
-          "name": "MarsCoin",
-          "symbol": "MARSCOIN",
-          "market_cap_rank": 182
+          "name": "Pump.fun",
+          "symbol": "PUMP",
+          "market_cap_rank": 52
         },
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 104
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 79
         },
         {
           "name": "Cash Cat",
           "symbol": "CASHCAT",
-          "market_cap_rank": 153
-        },
-        {
-          "name": "Uniswap",
-          "symbol": "UNI",
-          "market_cap_rank": 27
-        },
-        {
-          "name": "Useless Coin",
-          "symbol": "USELESS",
-          "market_cap_rank": 158
+          "market_cap_rank": 159
         }
       ]
     },
