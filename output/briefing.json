@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T06:14:46.998048+00:00",
-  "generated_at_human": "2026-09-06 06:14 UTC",
+  "generated_at": "2026-09-06T12:12:32.726350+00:00",
+  "generated_at_human": "2026-09-06 12:12 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+          "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+          "score": 269,
+          "comments": 58
+        },
+        {
+          "title": "I Changed My License",
+          "url": "https://bergie.iki.fi/blog/eupl/",
+          "score": 64,
+          "comments": 63
+        },
+        {
           "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
           "url": "https://cloudinabottle.org/blog/launch-post",
-          "score": 288,
-          "comments": 125
+          "score": 457,
+          "comments": 227
+        },
+        {
+          "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+          "url": "https://en.wikipedia.org/wiki/M-DISC",
+          "score": 31,
+          "comments": 9
         },
         {
           "title": "The revolt of the reader",
           "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-          "score": 254,
-          "comments": 97
-        },
-        {
-          "title": "The ColorChecker, photography's most important 24 squares, turns 50",
-          "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
-          "score": 31,
-          "comments": 5
-        },
-        {
-          "title": "OpenBSD Stories: Strange Medieval Devices",
-          "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-          "score": 35,
-          "comments": 8
-        },
-        {
-          "title": "GPT-6 Astra on robot arms",
-          "url": "https://openai.robocurve.org/gpt-6-astra/",
-          "score": 135,
-          "comments": 90
-        },
-        {
-          "title": "Chrome again exempts Google from user site data settings",
-          "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-          "score": 254,
-          "comments": 38
-        },
-        {
-          "title": "Learn Programming with OCaml",
-          "url": "https://usr.lmf.cnrs.fr/lpo/",
-          "score": 224,
-          "comments": 83
-        },
-        {
-          "title": "Private German rocket makes history, reaches orbit from European soil",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-          "score": 479,
-          "comments": 251
-        },
-        {
-          "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-          "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-          "score": 324,
-          "comments": 97
-        },
-        {
-          "title": "Discovery of a new OpenAI agent message board",
-          "url": "https://collusion.wiki/",
-          "score": 2159,
-          "comments": 1533
-        },
-        {
-          "title": "Actively exploited sandbox RCE in all Chromium versions",
-          "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-          "score": 765,
-          "comments": 454
-        },
-        {
-          "title": "RecurseCenter.return()",
-          "url": "https://mm-dev.rocks/series/recursecenter.return/",
-          "score": 37,
-          "comments": 3
-        },
-        {
-          "title": "Nitter has more working instances than before the takedowns",
-          "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-          "score": 659,
-          "comments": 319
-        },
-        {
-          "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-          "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-          "score": 157,
-          "comments": 29
-        },
-        {
-          "title": "LLMs as a Cognitive Virus",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "score": 242,
-          "comments": 184
-        },
-        {
-          "title": "Topologist's Map of the World",
-          "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
-          "score": 65,
-          "comments": 20
-        },
-        {
-          "title": "How Swiss tables work in Go built-in map",
-          "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
-          "score": 63,
-          "comments": 4
-        },
-        {
-          "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-          "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-          "score": 66,
-          "comments": 34
-        },
-        {
-          "title": "Delidded Intel I9-14900KS CT Scan",
-          "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
-          "score": 89,
-          "comments": 4
+          "score": 402,
+          "comments": 178
         },
         {
           "title": "Music Theory for Programmers",
           "url": "https://runjs.app/blog/music-theory-for-programmers",
-          "score": 21,
-          "comments": 3
+          "score": 181,
+          "comments": 87
         },
         {
-          "title": "AMD Based FreeBSD Desktop Reloaded",
-          "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-          "score": 9,
-          "comments": 0
+          "title": "IBM Quantum Nighthawk R2",
+          "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
+          "score": 28,
+          "comments": 9
         },
         {
-          "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-          "url": "https://github.com/iczelia/balrogg",
-          "score": 75,
-          "comments": 10
+          "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+          "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+          "score": 78,
+          "comments": 12
+        },
+        {
+          "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+          "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+          "score": 178,
+          "comments": 106
         },
         {
           "title": "AI, Tools and Transformation",
           "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "score": 18,
-          "comments": 6
+          "score": 81,
+          "comments": 33
         },
         {
-          "title": "Terpstra Keyboard",
-          "url": "http://terpstrakeyboard.com/",
-          "score": 127,
-          "comments": 58
+          "title": "AMD Based FreeBSD Desktop Reloaded",
+          "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+          "score": 63,
+          "comments": 9
         },
         {
-          "title": "Show HN: Fly By – retro biplane flying game",
-          "url": "https://michaelteter.com/flyby.html",
+          "title": "Discovery of a new OpenAI agent message board",
+          "url": "https://collusion.wiki/",
+          "score": 2202,
+          "comments": 1554
+        },
+        {
+          "title": "Show HN: Keen Bean – Mac meeting notes that draft the spec while you talk",
+          "url": "https://keenbean.app/",
+          "score": 8,
+          "comments": 1
+        },
+        {
+          "title": "Learn Programming with OCaml",
+          "url": "https://usr.lmf.cnrs.fr/lpo/",
+          "score": 266,
+          "comments": 103
+        },
+        {
+          "title": "OpenBSD Stories: Strange Medieval Devices",
+          "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
           "score": 71,
-          "comments": 46
+          "comments": 14
+        },
+        {
+          "title": "Chrome again exempts Google from user site data settings",
+          "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+          "score": 447,
+          "comments": 66
+        },
+        {
+          "title": "A Computer History Time Capsule",
+          "url": "https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/",
+          "score": 16,
+          "comments": 0
+        },
+        {
+          "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+          "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+          "score": 352,
+          "comments": 103
+        },
+        {
+          "title": "\"We Have to Assume That the Internet Will Go Offline in the Next Few Years\"",
+          "url": "https://www.trendingtopics.eu/emad-mostaque-ai-internet-outlook-english/",
+          "score": 22,
+          "comments": 20
+        },
+        {
+          "title": "Private German rocket makes history, reaches orbit from European soil",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+          "score": 643,
+          "comments": 345
+        },
+        {
+          "title": "LLMs as a Cognitive Virus",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "score": 294,
+          "comments": 209
+        },
+        {
+          "title": "The Empire of Information",
+          "url": "https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/",
+          "score": 6,
+          "comments": 2
+        },
+        {
+          "title": "Topologist's Map of the World",
+          "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
+          "score": 103,
+          "comments": 26
+        },
+        {
+          "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+          "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+          "score": 181,
+          "comments": 38
+        },
+        {
+          "title": "RecurseCenter.return()",
+          "url": "https://mm-dev.rocks/series/recursecenter.return/",
+          "score": 54,
+          "comments": 9
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 79963,
-          "change_24h": 0.41,
-          "change_7d": 2.4,
-          "market_cap": 1605393527997
+          "price": 79888,
+          "change_24h": 0.28,
+          "change_7d": 2.3,
+          "market_cap": 1604221825841
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2511.31,
-          "change_24h": 2.41,
-          "change_7d": 2.3,
-          "market_cap": 306387333265
+          "price": 2500.29,
+          "change_24h": 1.84,
+          "change_7d": 1.7,
+          "market_cap": 305115409155
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 106.32,
-          "change_24h": 4.33,
-          "change_7d": 1.3,
-          "market_cap": 62224908016
+          "price": 106.49,
+          "change_24h": 3.97,
+          "change_7d": 1.2,
+          "market_cap": 62342636460
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.091934,
-          "change_24h": 8.38,
-          "change_7d": 7.8,
-          "market_cap": 14316499510
+          "price": 0.089958,
+          "change_24h": 4.23,
+          "change_7d": 6.1,
+          "market_cap": 14015860178
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.221568,
-          "change_24h": 4.38,
-          "change_7d": 10.5,
-          "market_cap": 8305501076
+          "price": 0.220921,
+          "change_24h": 3.57,
+          "change_7d": 9.4,
+          "market_cap": 8286315300
         }
       ]
     },
@@ -212,19 +212,24 @@
       "count": 10,
       "items": [
         {
-          "name": "Firo",
-          "symbol": "FIRO",
-          "market_cap_rank": 919
+          "name": "Lil' Shrub",
+          "symbol": "SHRUB",
+          "market_cap_rank": 649
+        },
+        {
+          "name": "CLUSTER PROTOCOL",
+          "symbol": "CP",
+          "market_cap_rank": 552
         },
         {
           "name": "Pons",
           "symbol": "PONS",
-          "market_cap_rank": 93
+          "market_cap_rank": 92
         },
         {
-          "name": "Arbitrum",
-          "symbol": "ARB",
-          "market_cap_rank": 65
+          "name": "Firo",
+          "symbol": "FIRO",
+          "market_cap_rank": 885
         },
         {
           "name": "Zcash",
@@ -232,34 +237,29 @@
           "market_cap_rank": 9
         },
         {
-          "name": "Lil' Shrub",
-          "symbol": "SHRUB",
-          "market_cap_rank": 539
+          "name": "Arbitrum",
+          "symbol": "ARB",
+          "market_cap_rank": 64
         },
         {
-          "name": "STONK",
-          "symbol": "STONK",
-          "market_cap_rank": 259
+          "name": "Jupiter",
+          "symbol": "JUP",
+          "market_cap_rank": 77
         },
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 102
+          "market_cap_rank": 101
         },
         {
-          "name": "Uniswap",
-          "symbol": "UNI",
-          "market_cap_rank": 22
+          "name": "STONK",
+          "symbol": "STONK",
+          "market_cap_rank": 271
         },
         {
-          "name": "Dash",
-          "symbol": "DASH",
-          "market_cap_rank": 76
-        },
-        {
-          "name": "Anonymous Cat",
-          "symbol": "ZCAT",
-          "market_cap_rank": 324
+          "name": "MarsCoin",
+          "symbol": "MARSCOIN",
+          "market_cap_rank": 177
         }
       ]
     },
