@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T12:14:59.701087+00:00",
-  "generated_at_human": "2026-09-16 12:14 UTC",
+  "generated_at": "2026-09-16T18:11:43.863168+00:00",
+  "generated_at_human": "2026-09-16 18:11 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,34 +8,106 @@
       "count": 25,
       "items": [
         {
-          "title": "EU chief opens door for Canada to become 'associate member'",
-          "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
-          "score": 316,
-          "comments": 294
+          "title": "Small Programming Tricks",
+          "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+          "score": 141,
+          "comments": 84
         },
         {
-          "title": "The Google Play app review process now regularly takes longer than a week",
-          "url": "https://gultsch.social/@daniel/117280438824908947",
-          "score": 30,
-          "comments": 17
+          "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+          "url": "https://arxiv.org/abs/2609.14858",
+          "score": 118,
+          "comments": 36
         },
         {
           "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
           "url": "https://mistral.ai/news/mistral-x-mozilla/",
-          "score": 126,
-          "comments": 33
+          "score": 406,
+          "comments": 145
+        },
+        {
+          "title": "Tell the speakers that you liked their talks",
+          "url": "https://ohhelloana.blog/tell-the-speakers/",
+          "score": 144,
+          "comments": 38
         },
         {
           "title": "Introducing System One Models and Jev",
           "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-          "score": 1500,
-          "comments": 426
+          "score": 1736,
+          "comments": 464
+        },
+        {
+          "title": "Claude Cowork and chat are now one Claude",
+          "url": "https://claude.com/blog/cowork-is-now-claude",
+          "score": 85,
+          "comments": 103
         },
         {
           "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
           "url": "https://github.com/arnegiacomo/fugleramme",
-          "score": 1719,
-          "comments": 211
+          "score": 1901,
+          "comments": 224
+        },
+        {
+          "title": "The DeepMind Institute",
+          "url": "https://institute.deepmind.com/",
+          "score": 39,
+          "comments": 5
+        },
+        {
+          "title": "How big are factorials?",
+          "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+          "score": 47,
+          "comments": 14
+        },
+        {
+          "title": "Apple Reference Image: A New Approach for Verified Photography",
+          "url": "https://security.apple.com/blog/apple-reference-image/",
+          "score": 456,
+          "comments": 299
+        },
+        {
+          "title": "Hackers Got Inside a Flock Camera",
+          "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+          "score": 312,
+          "comments": 153
+        },
+        {
+          "title": "The Google Play app review process now regularly takes longer than a week",
+          "url": "https://gultsch.social/@daniel/117280438824908947",
+          "score": 283,
+          "comments": 260
+        },
+        {
+          "title": "Can we stop with the uptime percentages?",
+          "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+          "score": 76,
+          "comments": 61
+        },
+        {
+          "title": "The Siberian Ice Maiden and the Scythian World",
+          "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+          "score": 8,
+          "comments": 0
+        },
+        {
+          "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+          "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+          "score": 19,
+          "comments": 7
+        },
+        {
+          "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+          "url": "https://stale.jock.pl/",
+          "score": 42,
+          "comments": 30
+        },
+        {
+          "title": "Anecdotally, Programmers Dislike \"Reduce\"",
+          "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+          "score": 14,
+          "comments": 13
         },
         {
           "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
@@ -44,118 +116,46 @@
           "comments": 0
         },
         {
-          "title": "Apple Reference Image: A New Approach for Verified Photography",
-          "url": "https://security.apple.com/blog/apple-reference-image/",
-          "score": 306,
-          "comments": 221
-        },
-        {
-          "title": "Learning Programming in an Age of LLMs",
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-          "score": 83,
-          "comments": 52
-        },
-        {
-          "title": "Salesforce Global Outage",
-          "url": "https://status.salesforce.com/products/all",
-          "score": 65,
-          "comments": 41
-        },
-        {
           "title": "An update on Wayback Machine access",
           "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-          "score": 570,
-          "comments": 313
+          "score": 656,
+          "comments": 341
         },
         {
-          "title": "Douglas Adams and the exterminated Doctor Who adventure",
-          "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
-          "score": 12,
-          "comments": 7
+          "title": "Scaling Golang CI by Replacing actions/setup-go",
+          "url": "https://www.cloudx.ai/posts/setup-go",
+          "score": 51,
+          "comments": 11
+        },
+        {
+          "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+          "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+          "score": 207,
+          "comments": 61
+        },
+        {
+          "title": "Anatomy of a Texture",
+          "url": "https://agentlien.github.io/texture/",
+          "score": 30,
+          "comments": 6
+        },
+        {
+          "title": "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling",
+          "url": "https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html",
+          "score": 19,
+          "comments": 5
         },
         {
           "title": "Show HN: I made a flight simulator, except you're just a passenger",
           "url": "https://inflightsimulator.com",
-          "score": 238,
-          "comments": 129
-        },
-        {
-          "title": "Doing Everyone Else's Job",
-          "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-          "score": 100,
-          "comments": 48
+          "score": 350,
+          "comments": 192
         },
         {
           "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-          "score": 432,
-          "comments": 286
-        },
-        {
-          "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-          "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-          "score": 92,
-          "comments": 23
-        },
-        {
-          "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-          "url": "https://codyho.dev/blog/gpu-driver/",
-          "score": 360,
-          "comments": 209
-        },
-        {
-          "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-          "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-          "score": 239,
-          "comments": 87
-        },
-        {
-          "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-          "url": "https://arxiv.org/abs/2511.07885",
-          "score": 62,
-          "comments": 12
-        },
-        {
-          "title": "We do modern frequentist statistics: Using fake-data simulation",
-          "url": "https://statmodeling.stat.columbia.edu/2026/09/14/this-is-modern-frequentist-statistics-using-fake-data-simulation-to-understand/",
-          "score": 22,
-          "comments": 1
-        },
-        {
-          "title": "A software thing I built: GPS on a 25MHz 486-SX",
-          "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-          "score": 36,
-          "comments": 12
-        },
-        {
-          "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-          "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-          "score": 140,
-          "comments": 41
-        },
-        {
-          "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-          "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-          "score": 261,
-          "comments": 335
-        },
-        {
-          "title": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507",
-          "url": "https://www.hyphanet.org/freenet-hyphanet-075-build-1507-fix-probe-routing-plugins-and-upkeep.html",
-          "score": 8,
-          "comments": 0
-        },
-        {
-          "title": "We got admin access to Baseten's production GitHub",
-          "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-          "score": 291,
-          "comments": 168
-        },
-        {
-          "title": "Devastated father says his 9-year-old son spent $118,000 on YouTube ads",
-          "url": "https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion",
-          "score": 19,
-          "comments": 24
+          "score": 477,
+          "comments": 314
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 76077,
-          "change_24h": -1.04,
-          "change_7d": -3.5,
-          "market_cap": 1528385488145
+          "price": 76397,
+          "change_24h": -0.69,
+          "change_7d": -3.8,
+          "market_cap": 1533902333845
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2412.61,
-          "change_24h": -2.65,
-          "change_7d": -2.7,
-          "market_cap": 294593425656
+          "price": 2424.08,
+          "change_24h": -0.53,
+          "change_7d": -4.2,
+          "market_cap": 295728098131
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 97.7,
-          "change_24h": -3.13,
-          "change_7d": -5.6,
-          "market_cap": 57396927474
+          "price": 98.72,
+          "change_24h": -1.17,
+          "change_7d": -6.1,
+          "market_cap": 57926661974
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.079897,
-          "change_24h": -3.2,
-          "change_7d": -11.7,
-          "market_cap": 12468102291
+          "price": 0.080452,
+          "change_24h": -1.96,
+          "change_7d": -11.4,
+          "market_cap": 12537556046
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.193692,
-          "change_24h": -5.46,
-          "change_7d": -11.0,
-          "market_cap": 7271347650
+          "price": 0.196554,
+          "change_24h": -3.13,
+          "change_7d": -11.5,
+          "market_cap": 7369933941
         }
       ]
     },
@@ -212,44 +212,14 @@
       "count": 10,
       "items": [
         {
-          "name": "Firo",
-          "symbol": "FIRO",
-          "market_cap_rank": 951
+          "name": "Argus",
+          "symbol": "ARGUS",
+          "market_cap_rank": 768
         },
         {
           "name": "Official Trump",
           "symbol": "TRUMP",
-          "market_cap_rank": 103
-        },
-        {
-          "name": "Edel",
-          "symbol": "EDEL",
-          "market_cap_rank": 849
-        },
-        {
-          "name": "Synapse",
-          "symbol": "SYN",
-          "market_cap_rank": 473
-        },
-        {
-          "name": "Arbitrum",
-          "symbol": "ARB",
-          "market_cap_rank": 69
-        },
-        {
-          "name": "Derive",
-          "symbol": "DRV",
-          "market_cap_rank": 188
-        },
-        {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 10
-        },
-        {
-          "name": "Lisk",
-          "symbol": "LSK",
-          "market_cap_rank": 215
+          "market_cap_rank": 102
         },
         {
           "name": "Pons",
@@ -257,9 +227,39 @@
           "market_cap_rank": 117
         },
         {
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 10
+        },
+        {
+          "name": "Arbitrum",
+          "symbol": "ARB",
+          "market_cap_rank": 71
+        },
+        {
+          "name": "Derive",
+          "symbol": "DRV",
+          "market_cap_rank": 184
+        },
+        {
           "name": "Lighter",
           "symbol": "LIT",
-          "market_cap_rank": 71
+          "market_cap_rank": 69
+        },
+        {
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "market_cap_rank": 29
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 114
+        },
+        {
+          "name": "Monero",
+          "symbol": "XMR",
+          "market_cap_rank": 14
         }
       ]
     },
