@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T06:15:03.301549+00:00",
-  "generated_at_human": "2026-09-19 06:15 UTC",
+  "generated_at": "2026-09-19T12:13:06.185995+00:00",
+  "generated_at_human": "2026-09-19 12:13 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "San Francisco Onion Futures Company",
-          "url": "https://onionfutures.com/",
-          "score": 117,
-          "comments": 38
+          "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+          "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+          "score": 306,
+          "comments": 115
+        },
+        {
+          "title": "AI-generated posters don’t have to be horrible",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "score": 268,
+          "comments": 173
+        },
+        {
+          "title": "“The Secret Life of Circuits” is here",
+          "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+          "score": 77,
+          "comments": 26
+        },
+        {
+          "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "score": 153,
+          "comments": 82
         },
         {
           "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
           "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-          "score": 732,
-          "comments": 357
+          "score": 878,
+          "comments": 452
         },
         {
-          "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-          "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-          "score": 11,
+          "title": "Laya the open source version of Jev",
+          "url": "https://laya.convaiinnovations.com/",
+          "score": 24,
+          "comments": 4
+        },
+        {
+          "title": "If math is more than proof, we need to better celebrate the rest of it",
+          "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+          "score": 146,
+          "comments": 109
+        },
+        {
+          "title": "San Francisco Onion Futures Company",
+          "url": "https://onionfutures.com/",
+          "score": 220,
+          "comments": 77
+        },
+        {
+          "title": "Communication by means of modulated Johnson noise",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
+          "score": 17,
           "comments": 2
-        },
-        {
-          "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
-          "url": "https://github.com/awlevin/typesafe-computer-use",
-          "score": 44,
-          "comments": 10
-        },
-        {
-          "title": "SDCC – Small Device C Compiler",
-          "url": "https://sdcc.sourceforge.net/",
-          "score": 50,
-          "comments": 13
-        },
-        {
-          "title": "Science Is Open Software",
-          "url": "https://jepedersen.dk/blog/202505_research/",
-          "score": 52,
-          "comments": 23
         },
         {
           "title": "Cloudflare Quick Tunnels",
           "url": "https://try.cloudflare.com/",
-          "score": 659,
-          "comments": 272
-        },
-        {
-          "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-          "url": "https://spectrum.ieee.org/llms-for-chip-design",
-          "score": 101,
-          "comments": 74
-        },
-        {
-          "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-          "score": 9,
-          "comments": 0
-        },
-        {
-          "title": "Why building a Rust LSP is hard",
-          "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-          "score": 39,
-          "comments": 18
-        },
-        {
-          "title": "Saving another 100TB of RAM",
-          "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-          "score": 311,
-          "comments": 59
+          "score": 732,
+          "comments": 285
         },
         {
           "title": "How to Write with an LLM",
           "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-          "score": 460,
-          "comments": 310
+          "score": 508,
+          "comments": 342
         },
         {
-          "title": "Goroutine Leak Profiles",
-          "url": "https://go.dev/blog/goroutine-leak-profiles",
-          "score": 18,
-          "comments": 2
+          "title": "SDCC – Small Device C Compiler",
+          "url": "https://sdcc.sourceforge.net/",
+          "score": 95,
+          "comments": 20
+        },
+        {
+          "title": "Science Is Open Software",
+          "url": "https://jepedersen.dk/blog/202505_research/",
+          "score": 106,
+          "comments": 40
+        },
+        {
+          "title": "Saving another 100TB of RAM",
+          "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+          "score": 378,
+          "comments": 83
         },
         {
           "title": "You can run Git on object storage if you re-make packfiles",
           "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-          "score": 12,
-          "comments": 2
+          "score": 57,
+          "comments": 19
+        },
+        {
+          "title": "Why building a Rust LSP is hard",
+          "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+          "score": 95,
+          "comments": 32
+        },
+        {
+          "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "score": 136,
+          "comments": 94
+        },
+        {
+          "title": "Ctenophores: Wonders of Biology",
+          "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+          "score": 34,
+          "comments": 6
+        },
+        {
+          "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+          "score": 35,
+          "comments": 4
+        },
+        {
+          "title": "From Stonemasons to Carpenters",
+          "url": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
+          "score": 10,
+          "comments": 1
         },
         {
           "title": "The first new cat species discovered in 100 years",
           "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-          "score": 239,
-          "comments": 89
-        },
-        {
-          "title": "Xcode 27.1 Beta Release Notes",
-          "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-          "score": 135,
-          "comments": 86
-        },
-        {
-          "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-          "url": "https://cactuscompute.com/needle",
-          "score": 189,
-          "comments": 83
+          "score": 287,
+          "comments": 108
         },
         {
           "title": "OpenJev",
           "url": "https://openjev.com/",
-          "score": 596,
-          "comments": 256
+          "score": 638,
+          "comments": 270
+        },
+        {
+          "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+          "url": "https://cactuscompute.com/needle",
+          "score": 200,
+          "comments": 89
+        },
+        {
+          "title": "Goroutine Leak Profiles",
+          "url": "https://go.dev/blog/goroutine-leak-profiles",
+          "score": 36,
+          "comments": 4
         },
         {
           "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
           "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-          "score": 177,
-          "comments": 64
-        },
-        {
-          "title": "The Farnese letter",
-          "url": "https://simonklee.dk/farnese-letter",
-          "score": 39,
-          "comments": 6
-        },
-        {
-          "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "url": "https://arxiv.org/abs/2510.03215",
-          "score": 78,
-          "comments": 12
-        },
-        {
-          "title": "Minimal Phone 2",
-          "url": "https://minimalcompany.com/",
-          "score": 237,
-          "comments": 206
-        },
-        {
-          "title": "Cyclomatic Complexity in C#",
-          "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
-          "score": 49,
-          "comments": 17
-        },
-        {
-          "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-          "url": "https://code.claude.com/docs/en/changelog",
-          "score": 609,
-          "comments": 216
-        },
-        {
-          "title": "LispBM is a concurrent Lisp for microcontrollers with message passing",
-          "url": "https://www.lispbm.com/",
-          "score": 23,
-          "comments": 3
+          "score": 195,
+          "comments": 73
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 80982,
-          "change_24h": 4.59,
-          "change_7d": 4.9,
-          "market_cap": 1626734006637
+          "price": 81321,
+          "change_24h": 4.32,
+          "change_7d": 5.1,
+          "market_cap": 1633449935708
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2624.91,
-          "change_24h": 5.79,
-          "change_7d": 4.6,
-          "market_cap": 320408643449
+          "price": 2640.79,
+          "change_24h": 5.61,
+          "change_7d": 4.2,
+          "market_cap": 322339216061
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 111.78,
-          "change_24h": 6.02,
-          "change_7d": 10.5,
-          "market_cap": 65639023388
+          "price": 111.84,
+          "change_24h": 6.13,
+          "change_7d": 9.5,
+          "market_cap": 65684127378
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.087259,
-          "change_24h": 3.56,
-          "change_7d": 3.7,
-          "market_cap": 13607643962
+          "price": 0.08835,
+          "change_24h": 3.86,
+          "change_7d": 4.0,
+          "market_cap": 13780773047
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.222785,
-          "change_24h": 4.51,
-          "change_7d": 8.1,
-          "market_cap": 8359217526
+          "price": 0.226675,
+          "change_24h": 6.31,
+          "change_7d": 8.9,
+          "market_cap": 8505497496
         }
       ]
     },
@@ -212,29 +212,29 @@
       "count": 10,
       "items": [
         {
-          "name": "ZECFORGE.tech",
-          "symbol": "ZFORGE",
-          "market_cap_rank": 643
-        },
-        {
-          "name": "rsFIRO",
-          "symbol": "RSFIRO",
-          "market_cap_rank": 732
-        },
-        {
-          "name": "Firo",
-          "symbol": "FIRO",
-          "market_cap_rank": 800
+          "name": "Official Trump",
+          "symbol": "TRUMP",
+          "market_cap_rank": 103
         },
         {
           "name": "Zano",
           "symbol": "ZANO",
-          "market_cap_rank": 255
+          "market_cap_rank": 248
         },
         {
-          "name": "Derive",
-          "symbol": "DRV",
-          "market_cap_rank": 124
+          "name": "Firo",
+          "symbol": "FIRO",
+          "market_cap_rank": 809
+        },
+        {
+          "name": "ZECFORGE.tech",
+          "symbol": "ZFORGE",
+          "market_cap_rank": 766
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 109
         },
         {
           "name": "Zcash",
@@ -242,24 +242,24 @@
           "market_cap_rank": 9
         },
         {
-          "name": "Pons",
-          "symbol": "PONS",
-          "market_cap_rank": 117
+          "name": "Zama",
+          "symbol": "ZAMA",
+          "market_cap_rank": 191
+        },
+        {
+          "name": "Derive",
+          "symbol": "DRV",
+          "market_cap_rank": 127
         },
         {
           "name": "NEAR Protocol",
           "symbol": "NEAR",
-          "market_cap_rank": 24
+          "market_cap_rank": 23
         },
         {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "market_cap_rank": 2
-        },
-        {
-          "name": "STONK",
-          "symbol": "STONK",
-          "market_cap_rank": 187
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 35
         }
       ]
     },
