@@ -1,27 +1,18 @@
 # Daily Briefing
 
-*Generated: 2026-09-23 18:13 UTC*
+*Generated: 2026-09-24 00:26 UTC*
 
-**Market Overview**
-The current market sentiment is mixed, with major indexes experiencing a decline. The S&P 500 is down 0.56%, the Dow is down 0.55%, and the Nasdaq is down 0.94%. The 10-year Treasury yield has climbed to 5.06%, its highest level since 2007. Bitcoin is trading near $84,270, with a 24-hour change of -2.65%, while Ethereum is at $2,665.60, with a 24-hour change of -3.14%. 
+1. **Market Overview**: The US business activity has jumped to its highest since 2021, with the S&P Global's flash US composite PMI rising to 58.4, signaling stronger demand but also firmer price pressures. This has led to a increase in Fed hike bets, with markets pricing a roughly 70% chance of an October move. The US dollar index has risen to a two-month high, while major US equity benchmarks were lower due to higher bond yields and weakness in chipmakers. Crypto prices have also been volatile, with Bitcoin down 2.44% and Ethereum down 2.62% in the last 24 hours.
 
-**Tech & AI**
-Notable developments in tech and AI include the introduction of GPT-6 Sol and Luna by OpenAI, with GPT-6 Astra reportedly breaking an Enigma message that had resisted solution since 2005. Additionally, Claude Opus 5.5 has been released, and Stripe has announced its Knowledge AI Platform. 
+2. **Tech & AI**: There have been significant developments in the tech and AI space, with Meta announcing its VR Glasses and Claude discovering a novel enzyme system with CRISPR-like repeats. Additionally, Linux support is coming to Snapdragon X2 Series, and Gemini has released its 3.8 text-to-speech model. The AI trade has also been lifting the Nasdaq, with Meta's Muse AI adding to investor focus on AI-related disruption themes.
 
-**Gaming & Entertainment**
-There are no significant gaming news items in the provided data.
+3. **Gaming & Entertainment**: There is no notable gaming news in the provided data.
 
-**Key Insights**
-* The US business activity has hit a more than five-year high, with the flash Composite PMI rising to 58.4 in September, indicating a growing economy but also building inflation pressures.
-* The Richmond Fed's President has left the door open to further rate hikes, keeping the possibility of additional Fed tightening on the table.
-* Bitcoin and Ethereum have experienced price movements, with Bitcoin trading near $84,270 and Ethereum at $2,665.60.
-* The SEC is preparing new rules on crypto custody, signaling increased regulatory attention on digital asset safeguarding.
-* GPT-6 Astra has demonstrated significant capabilities, including breaking a long-unsolved Enigma message.
+4. **Key Insights**:
+* The US business activity has jumped to its highest since 2021, leading to an increase in Fed hike bets.
+* The AI trade has been lifting the Nasdaq, with Meta's Muse AI adding to investor focus on AI-related disruption themes.
+* Crypto prices have been volatile, with Bitcoin and Ethereum experiencing significant price movements in the last 24 hours.
+* The US dollar index has risen to a two-month high due to strong US business activity data and Fed outlook.
+* The OECD has lifted its US growth forecast and cut its inflation outlook, offering a mixed but broadly supportive macro signal for markets.
 
-**Watch List**
-Items to monitor in the coming days include:
-- Upcoming US earnings reports, such as those from Costco, Darden, and SYNNEX.
-- The Bank of England's policy decision, given the UK services inflation rate of 3.4% in August.
-- Further developments in crypto regulation, particularly the SEC's new rules on crypto custody.
-- The performance of GPT-6 models and their potential applications.
-- The movement of major indexes and the impact of inflation pressures on the economy.
+5. **Watch List**: Items to monitor in the coming days include the Fed's decision on interest rates, the performance of the US dollar index, and the movement of crypto prices. Additionally, investors should keep an eye on the development of AI-related technologies and their impact on the market. The upcoming earnings reports of major companies, such as McDonald's, should also be monitored.
