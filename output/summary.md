@@ -1,5 +1,5 @@
 # Daily Briefing
 
-*Generated: 2026-09-27 18:11 UTC*
+*Generated: 2026-09-28 00:31 UTC*
 
 Error generating summary: HTTPSConnectionPool(host='api.venice.ai', port=443): Read timed out. (read timeout=60)
