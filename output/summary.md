@@ -1,23 +1,22 @@
 # Daily Briefing
 
-*Generated: 2026-09-28 18:13 UTC*
+*Generated: 2026-09-29 00:28 UTC*
 
-1. **Market Overview**: The global stock market experienced a decline due to rising oil prices and increased Treasury yields, signaling investors' caution towards risk assets. Bitcoin's price dropped by 0.76% in the last 24 hours, while Ethereum saw a slight increase of 0.2%. The US Federal Reserve left interest rates unchanged at 5.25%-5.50%, and the Bank of Canada maintained its policy rate at 2.25%. Mortgage rates rose above 7.1%, affecting housing affordability.
+1. **Market Overview**: The cryptocurrency market has experienced a decline, with Bitcoin falling below $84,000 and major altcoins such as Ethereum, XRP, Solana, Dogecoin, and Cardano also declining. The total crypto market value fell roughly 1.4%-1.9% with rising trading volume and a broad risk-off move in digital assets. In traditional markets, there is limited information available, but it appears that macroeconomic and geopolitical stress, including rising oil prices, higher Treasury yields, and renewed U.S.-Iran tensions, are weighing on both crypto and equities.
 
-2. **Tech & AI**: Notable developments include the launch of Vespper, a state-of-the-art document management platform, and the introduction of Parley, a federated and decentralized chat system. There are also concerns about OpenAI's ability to manage rogue AI activity. Additionally, MongoDB's CEO resigned to join Meta, highlighting significant shifts in the tech industry.
+2. **Tech & AI**: Notable developments include the release of Jeff, a Jev-compatible 0.8B decision model that can be trained at home, and MicroLLM Lab, which allows users to try 7 tiny LLMs in the browser. Additionally, Nvidia wants to put a watchdog chip next to every AI agent, and Anthropic's IPO prospectus shows a sweeping AI vision with surging costs.
 
-3. **Gaming & Entertainment**: A notable development is the hijacking of the PS5's RTMP stream, which has raised concerns about gaming console security. There are also mentions of kids using low-traffic NPR Spotify comments as a secret group chat, showcasing creative uses of technology.
+3. **Gaming & Entertainment**: There is limited information available in the provided data, but a notable mention is the hijacking of the PS5's RTMP stream, and kids turning low-traffic NPR Spotify comments into a secret group chat.
 
 4. **Key Insights**:
-* The current market sentiment is cautious, with global stocks falling due to geopolitical tensions and rising oil prices.
-* The tech industry is experiencing significant shifts, with new product launches and high-profile personnel changes.
-* AI development continues to advance, with both promising innovations and concerns about management and security.
-* The rise of decentralized systems, such as Parley, indicates a growing interest in alternative communication platforms.
-* Mortgage rates exceeding 7.1% may impact housing affordability and the broader economy.
+* The cryptocurrency market is experiencing a decline due to macroeconomic and geopolitical stress.
+* Notable AI developments include the release of Jeff and MicroLLM Lab, and Nvidia's plan to put a watchdog chip next to every AI agent.
+* The Solana network is undergoing a major upgrade, Alpenglow, which replaces TowerBFT with Votor to reduce voting transaction overhead.
+* Quant has surged due to an infrastructure deal tied to the U.S. clearing network.
 
 5. **Watch List**: 
-* US-Iran tensions and their impact on oil prices and global markets.
-* Future Federal Reserve decisions and their effects on interest rates and the economy.
-* Developments in AI management and security, particularly regarding OpenAI.
-* The performance of newly launched tech products, such as Vespper and Parley.
-* The ongoing impact of rising mortgage rates on housing markets and consumer spending.
+* Bitcoin and major altcoin prices
+* Solana's Alpenglow upgrade
+* Quant's infrastructure deal and its impact on the token's price
+* Nvidia's watchdog chip plan and its potential impact on AI development
+* Geopolitical tensions, particularly U.S.-Iran relations, and their impact on the cryptocurrency and traditional markets.
