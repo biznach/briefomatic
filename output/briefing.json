@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T00:29:32.029412+00:00",
-  "generated_at_human": "2026-09-30 00:29 UTC",
+  "generated_at": "2026-09-30T06:17:58.952504+00:00",
+  "generated_at_human": "2026-09-30 06:17 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -10,159 +10,201 @@
         {
           "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
           "url": "https://github.com/ninjahawk/livenerf",
-          "score": 133,
-          "comments": 71
+          "score": 453,
+          "comments": 188
         },
         {
-          "title": "NASA asked several former SR-71A staffers to help secret restart",
-          "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-          "score": 38,
+          "title": "PSSA: A non-transformer language model written from scratch in Rust",
+          "url": "https://github.com/Sparticle62ops/pssa",
+          "score": 53,
+          "comments": 14
+        },
+        {
+          "title": "Dots: Always-on agents",
+          "url": "https://openai.com/index/introducing-dots/",
+          "score": 539,
+          "comments": 401
+        },
+        {
+          "title": "Responsible Release of AI-Generated Mathematics",
+          "url": "https://agmai.org/general-sep29/",
+          "score": 27,
           "comments": 18
         },
         {
           "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
           "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-          "score": 158,
-          "comments": 84
-        },
-        {
-          "title": "Show HN: A working 3D model of an Enigma machine",
-          "url": "https://enigma.design",
-          "score": 23,
-          "comments": 1
-        },
-        {
-          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-          "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-          "score": 756,
-          "comments": 703
+          "score": 204,
+          "comments": 122
         },
         {
           "title": "Vermont replacing power plants with home batteries",
           "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-          "score": 48,
-          "comments": 26
+          "score": 143,
+          "comments": 117
         },
         {
-          "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-          "url": "https://space.bl2.net/",
-          "score": 92,
-          "comments": 25
-        },
-        {
-          "title": "How Delhi cut electricity loss from 50 to 5 percent",
-          "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-          "score": 427,
-          "comments": 248
+          "title": "NASA asked several former SR-71A staffers to help secret restart",
+          "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+          "score": 115,
+          "comments": 103
         },
         {
           "title": "America.gov",
           "url": "https://america.gov/",
-          "score": 310,
-          "comments": 251
+          "score": 488,
+          "comments": 408
         },
         {
-          "title": "We’re forgetting what darkness feels like",
-          "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
-          "score": 30,
-          "comments": 23
+          "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+          "url": "https://space.bl2.net/",
+          "score": 184,
+          "comments": 43
         },
         {
-          "title": "When oil prices spike, where does the money go?",
-          "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
-          "score": 17,
-          "comments": 5
-        },
-        {
-          "title": "NAND-16: a computer built from 277,248 NAND gates",
-          "url": "https://somethingbig.ai/computer",
-          "score": 106,
-          "comments": 55
-        },
-        {
-          "title": "UnoDOS",
-          "url": "https://github.com/hmofet/unodos",
-          "score": 13,
-          "comments": 7
-        },
-        {
-          "title": "Language models for text classification: From bag-of-words to Jev",
-          "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-          "score": 18,
+          "title": "Testing WebGPU data layouts with Facet",
+          "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
+          "score": 10,
           "comments": 0
+        },
+        {
+          "title": "How Delhi cut electricity loss from 50 to 5 percent",
+          "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+          "score": 486,
+          "comments": 277
+        },
+        {
+          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+          "score": 870,
+          "comments": 789
+        },
+        {
+          "title": "RSS Feeds for Last.fm",
+          "url": "https://lfm.xiffy.nl/",
+          "score": 24,
+          "comments": 5
         },
         {
           "title": "Needed 1+1, built a functional programming language",
           "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
-          "score": 14,
-          "comments": 1
-        },
-        {
-          "title": "PS5 Relapse Exploit",
-          "url": "https://github.com/ntfargo/Relapse-Exploit",
-          "score": 223,
-          "comments": 122
-        },
-        {
-          "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "score": 407,
-          "comments": 128
+          "score": 72,
+          "comments": 16
         },
         {
           "title": "Backblaze drive stats for Q2 2026",
           "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-          "score": 58,
-          "comments": 4
+          "score": 148,
+          "comments": 35
         },
         {
-          "title": "Commodore 64: Mercenary",
-          "url": "https://gamesexplained.com/c64/mercenary/",
-          "score": 23,
-          "comments": 4
+          "title": "PS5 Relapse Exploit",
+          "url": "https://github.com/ntfargo/Relapse-Exploit",
+          "score": 272,
+          "comments": 155
+        },
+        {
+          "title": "Language models for text classification: From bag-of-words to Jev",
+          "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+          "score": 73,
+          "comments": 2
+        },
+        {
+          "title": "When oil prices spike, where does the money go?",
+          "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+          "score": 61,
+          "comments": 52
         },
         {
           "title": "Phyllotaxis: An audio-reactive LED display",
           "url": "https://jagi.studio/posts/phyllotaxis/",
-          "score": 257,
-          "comments": 43
+          "score": 273,
+          "comments": 45
         },
         {
-          "title": "Tcl/Tk 9.1",
-          "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-          "score": 232,
-          "comments": 79
+          "title": "Tesla takes on $30B in credit as it approaches unprofitability",
+          "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
+          "score": 68,
+          "comments": 76
+        },
+        {
+          "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+          "url": "https://github.com/ciromattia/kcc",
+          "score": 4,
+          "comments": 1
+        },
+        {
+          "title": "We’re forgetting what darkness feels like",
+          "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+          "score": 127,
+          "comments": 70
+        },
+        {
+          "title": "NAND-16: a computer built from 277,248 NAND gates",
+          "url": "https://somethingbig.ai/computer",
+          "score": 123,
+          "comments": 68
         },
         {
           "title": "Ask HN: What are you reading?",
           "url": "https://news.ycombinator.com/item?id=49893157",
-          "score": 120,
-          "comments": 326
+          "score": 220,
+          "comments": 479
         },
         {
-          "title": "How our vibe coded website looks like a designer made it",
-          "url": "https://railcode.dev/blog/vibe-coded-website",
-          "score": 48,
-          "comments": 29
-        },
-        {
-          "title": "Show HN: NSL – WSL for Linux",
-          "url": "https://frostyard.github.io/nsl/",
-          "score": 77,
-          "comments": 58
-        },
-        {
-          "title": "Show HN: Corral – Kill every command your agent starts",
-          "url": "https://github.com/Cardinal44/corral",
-          "score": 12,
-          "comments": 1
+          "title": "A Staff Engineer's Guide to Inventing Work",
+          "url": "https://sujithjay.com/inventing-work",
+          "score": 233,
+          "comments": 47
         }
       ]
     },
     "crypto_prices": {
       "source": "coingecko",
-      "error": "403 Client Error: Forbidden for url: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin%2Cethereum%2Csolana%2Ccardano%2Cdogecoin&order=market_cap_desc&sparkline=false&price_change_percentage=24h%2C7d",
-      "items": []
+      "category": "crypto",
+      "count": 5,
+      "items": [
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "price": 83131,
+          "change_24h": -0.75,
+          "change_7d": -4.39,
+          "market_cap": 1670266105791
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "price": 2666.49,
+          "change_24h": -0.83,
+          "change_7d": -3.84,
+          "market_cap": 325595357875
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "price": 118.64,
+          "change_24h": -0.1,
+          "change_7d": -0.35,
+          "market_cap": 69753609318
+        },
+        {
+          "name": "Dogecoin",
+          "symbol": "DOGE",
+          "price": 0.093674,
+          "change_24h": -0.64,
+          "change_7d": -9.38,
+          "market_cap": 14626802721
+        },
+        {
+          "name": "Cardano",
+          "symbol": "ADA",
+          "price": 0.244344,
+          "change_24h": -0.95,
+          "change_7d": -5.43,
+          "market_cap": 9172762158
+        }
+      ]
     },
     "crypto_trending": {
       "source": "coingecko_trending",
@@ -175,39 +217,9 @@
           "market_cap_rank": 82
         },
         {
-          "name": "Official Trump",
-          "symbol": "TRUMP",
-          "market_cap_rank": 107
-        },
-        {
-          "name": "Pons",
-          "symbol": "PONS",
-          "market_cap_rank": 134
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 100
-        },
-        {
-          "name": "Grass",
-          "symbol": "GRASS",
-          "market_cap_rank": 110
-        },
-        {
           "name": "Quant",
           "symbol": "QNT",
-          "market_cap_rank": 33
-        },
-        {
-          "name": "Concordium",
-          "symbol": "CCD",
-          "market_cap_rank": 507
-        },
-        {
-          "name": "Ribbita by Virtuals",
-          "symbol": "TIBBIR",
-          "market_cap_rank": 150
+          "market_cap_rank": 32
         },
         {
           "name": "NEAR Protocol",
@@ -215,9 +227,39 @@
           "market_cap_rank": 21
         },
         {
+          "name": "Pump.fun",
+          "symbol": "PUMP",
+          "market_cap_rank": 41
+        },
+        {
+          "name": "LayerZero",
+          "symbol": "ZRO",
+          "market_cap_rank": 100
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 103
+        },
+        {
+          "name": "Pons",
+          "symbol": "PONS",
+          "market_cap_rank": 133
+        },
+        {
+          "name": "Moonriver",
+          "symbol": "MOVR",
+          "market_cap_rank": 939
+        },
+        {
           "name": "Hyperliquid",
           "symbol": "HYPE",
           "market_cap_rank": 11
+        },
+        {
+          "name": "Chainlink",
+          "symbol": "LINK",
+          "market_cap_rank": 13
         }
       ]
     },
@@ -226,43 +268,49 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "US stocks mixed as Treasury yields and oil prices weigh",
-          "summary": "On Tuesday, September 29, the Dow fell about 0.2% and the S&P 500 was nearly flat, while the Nasdaq edged up about 0.1%. Treasury yields remained near multi-year highs and oil-market uncertainty continued to influence trading.[1][4]",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/articles/us-equity-indexes-fall-markets-193254564.html"
+          "title": "Wall Street mixed as Treasury yields rise",
+          "summary": "U.S. stocks were mixed on Sept. 29: the S&P 500 and Dow each slipped about 0.2%, while the Nasdaq was roughly flat to slightly higher. The 10-year Treasury yield rose to about 5.28%, keeping borrowing costs and inflation concerns in focus.",
+          "source": "Longbridge",
+          "url": "https://longbridge.com/news/300494302"
         },
         {
-          "title": "RBA raises interest rates; markets watch Fed outlook",
-          "summary": "The Reserve Bank of Australia raised its cash rate to 4.60%, citing elevated inflation, and said further hikes could be warranted. US investors were awaiting inflation and jobs data, with market expectations for a possible October Fed hike shifting amid mixed signals from Fed officials.[5][6]",
-          "source": "Reuters",
+          "title": "Fed officials keep further rate hikes in view",
+          "summary": "New York Fed President John Williams and other officials said another rate increase later this year could be appropriate if inflation remains high. Investors were watching upcoming U.S. inflation and employment data for clues on the Fed’s next move.",
+          "source": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-tech-stocks-lead-bonds-in-focus/amp_articleshow/134576850.cms"
+        },
+        {
+          "title": "Reserve Bank of Australia raises cash rate to 4.60%",
+          "summary": "The RBA raised its cash rate to a 15-year high of 4.60%, citing persistently high inflation and signaling that further tightening remains possible. The Australian dollar weakened after the decision.",
+          "source": "Reuters via Euronext",
           "url": "https://live.euronext.com/en/financial-news/dollar-gains-treasury-yields-top-5-aussie-slides-after-rba-hike"
         },
         {
-          "title": "AMD to acquire World Labs for $8.2 billion",
-          "summary": "AMD announced an all-stock deal to acquire AI company World Labs, aiming to expand its capabilities in physical AI and spatial intelligence. World Labs co-founder Fei-Fei Li is expected to join AMD as executive vice president and chief scientist.[2]",
-          "source": "Sunday Guardian",
-          "url": "https://sundayguardianlive.com/business/dow-jones-nasdaq-us-stock-market-today-check-latest-move-in-futures-dow-jones-down-200-points-as-oil-prices-surge-treasury-yield-hits-ahead-fed-rate-hike-bets-why-are-stocks-down-today-295431/"
+          "title": "Asian shares advance as technology stocks lead",
+          "summary": "The MSCI Asia Pacific Index gained 0.6%, with Japanese and South Korean shares rising after strength in U.S. semiconductor stocks. Investors also focused on high long-term Treasury yields and an upcoming U.S. inflation reading.",
+          "source": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-tech-stocks-lead-bonds-in-focus/amp_articleshow/134576850.cms"
         },
         {
-          "title": "Micron earnings and US inflation data in focus",
-          "summary": "Investors were looking ahead to the August core PCE inflation release and Micron's earnings, scheduled for Wednesday. The upcoming data could shape expectations for Federal Reserve policy and move technology stocks.[6]",
-          "source": "Investor's Business Daily",
-          "url": "https://www.msn.com/en-us/money/top-stocks/dow-jones-futures-stocks-dip-as-yields-rise-but-bloom-energy-soars-micron-inflation-data-due/ar-AA2de4kA"
+          "title": "Micron earnings and U.S. jobs data in focus",
+          "summary": "Micron’s results were a key event for investors, alongside upcoming U.S. payroll data. Markets also weighed consumer confidence at its lowest level since 2014 and a decline in August job openings.",
+          "source": "Longbridge",
+          "url": "https://longbridge.com/news/300494302"
         }
       ],
       "citations": [
-        "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-steady-start-oil-prices-treasury-yields-high",
+        "https://economictimes.indiatimes.com/topic/mortgage-rates-today-rising-reasons-explained",
         "https://sundayguardianlive.com/business/dow-jones-nasdaq-us-stock-market-today-check-latest-move-in-futures-dow-jones-down-200-points-as-oil-prices-surge-treasury-yield-hits-ahead-fed-rate-hike-bets-why-are-stocks-down-today-295431/",
-        "https://www.audacy.com/wwl/topic/stocks-markets-oil-bonds-us",
+        "https://longbridge.com/news/300494302",
+        "https://www.globalbankingandfinance.com/markets/country/us/",
         "https://finance.yahoo.com/economy/articles/us-equity-indexes-fall-markets-193254564.html",
         "https://live.euronext.com/en/financial-news/dollar-gains-treasury-yields-top-5-aussie-slides-after-rba-hike",
-        "https://www.msn.com/en-us/money/top-stocks/dow-jones-futures-stocks-dip-as-yields-rise-but-bloom-energy-soars-micron-inflation-data-due/ar-AA2de4kA",
-        "https://finance.yahoo.com/markets/stocks/articles/equities-drop-intraday-yields-rise-182514452.html",
-        "https://www.vtmarkets.com/en-ca/live-updates/boeing-max-10-software-snag-drags-dow-below-51500-as-yields-climb-and-nvidia-rallies/",
-        "https://sundayguardianlive.com/business/dow-jones-today-live-index-slips-200-points-as-oil-prices-surge-treasury-yields-rise-apple-intel-alphabet-edges-lower-wall-street-after-fed-rate-hike-check-what-investors-should-watch-295308/",
+        "https://www.saudiexchange.sa/wps/portal/saudiexchange/home/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTR3NDIw8LAz83Z29TAwC_Rx9DSxdLY0MDAz1C7IdFQHxxULx/?locale=en&csrt=2593863374093836923",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-tech-stocks-lead-bonds-in-focus/amp_articleshow/134576850.cms",
+        "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-hike-earnings-forecast-nvidia-amd-micron-ai-chip-stock-price-news-25-september-2026/liveblog/134487023.cms",
         "https://sundayguardianlive.com/business/sp-500-today-live-index-slips-019-as-treasury-yields-rise-oil-stays-elevated-semiconductor-stocks-lead-wall-street-ahead-of-fed-rate-hike-check-top-gainers-losers-why-sp-500-is-down-today-295334/"
       ]
     },
@@ -271,56 +319,50 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Bitcoin and major cryptocurrencies rebound modestly",
-          "summary": "Bitcoin traded around $84,000 on September 29, up roughly 1%–2% over 24 hours, while Ethereum rose about 2.5% to above $2,700. The broader crypto market was near $2.9 trillion, though Bitcoin remained below its level from a week earlier.[1][2]",
-          "source": "CoinGabbar",
-          "url": "https://www.coingabbar.com/en/why-is-crypto-market-up-today-bitcoin-whales-trump-news-today"
+          "title": "Ethena jumps 12% as tokenized assets drive interest",
+          "summary": "Ethena (ENA) rose about 12% in 24 hours as traders responded to protocol expansion, including plans to extend USDe’s backing to tokenized U.S. equities and equity perpetual futures on Binance. The move came amid a broader rotation into altcoins.",
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/top-stories/6ab67f769b4b0f59736e3957/"
         },
         {
-          "title": "Strategy adds to its Bitcoin holdings",
-          "summary": "Strategy bought approximately 1,665–1,666 BTC, according to reports, extending its purchases for a second week. One report said the company held 847,666 BTC after the purchase.[1][10]",
-          "source": "FXStreet",
-          "url": "https://www.fxstreet.com/cryptocurrencies/news/the-crypto-market-is-poised-to-retest-its-highs-202609290926"
+          "title": "Chainlink rises on CCIP 2.0 launch",
+          "summary": "Chainlink’s LINK gained amid the launch of CCIP 2.0, an upgrade that lets institutions and asset issuers customize cross-chain verification, compliance, fees, and security. The announcement coincided with increased trading and short liquidations.",
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/top-stories/6abb713a3b25b51d74884b13/"
         },
         {
-          "title": "Coinbase clearing unit registered by the CFTC",
-          "summary": "The CFTC registered Coinbase Clearing LLC as a derivatives clearing organization on September 28. The clearinghouse supports fully collateralized futures, options on futures, and swaps, with 24/7 settlement.[2]",
-          "source": "CoinGabbar",
-          "url": "https://www.coingabbar.com/en/what-happened-in-crypto-market-today-bitcoin-hits-84k"
+          "title": "Cardano advances on AI payments and ecosystem developments",
+          "summary": "ADA rose roughly 5% in 24 hours, outperforming a modestly positive broader market. Reported catalysts include Cardano’s integration with the x402 payment standard for AI agents and a RealFi stablecoin mainnet launch targeted for October 1.",
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/top-stories/6ab54a769b764f5d2ecb7563/"
         },
         {
-          "title": "Chainlink rolls out CCIP 2.0",
-          "summary": "Chainlink introduced CCIP 2.0 for institutional cross-chain transfers, with optional additional verification and features aimed at compliance checks. The report says the protocol secures more than $84 billion in cross-chain value.[2]",
-          "source": "CoinGabbar",
-          "url": "https://www.coingabbar.com/en/what-happened-in-crypto-market-today-bitcoin-hits-84k"
+          "title": "Bitget Token falls amid suspected exchange-wallet concerns",
+          "summary": "BGB declined about 5–6% as reports of unexplained on-chain outflows and speculation about a possible Bitget wallet hack weighed on sentiment. The cited account does not establish that an exchange hack occurred.",
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/top-stories/6ab590639b4b0f59736d257f/"
         },
         {
-          "title": "Senate report raises scrutiny of Tether’s USDT",
-          "summary": "A Senate subcommittee report released around September 28–29 raised concerns about USDT use in Iran-linked shadow banking and sanctioned wallets. Tether said it had helped freeze nearly $550 million of Iran-linked USDT in 2026 and cooperates with law enforcement.[2]",
-          "source": "CoinGabbar",
-          "url": "https://www.coingabbar.com/en/what-happened-in-crypto-market-today-bitcoin-hits-84k"
-        },
-        {
-          "title": "Citi and Coinbase pursue stablecoin payment services",
-          "summary": "Citi and Coinbase are working on a service that would let corporate clients accept stablecoin payments through Citi’s merchant-acquiring network, according to the report.[1]",
-          "source": "CoinGabbar",
-          "url": "https://www.coingabbar.com/en/why-is-crypto-market-up-today-bitcoin-whales-trump-news-today"
+          "title": "FET gains as altcoins rebound",
+          "summary": "Artificial Superintelligence Alliance’s FET rose about 3.1% over 12 hours, with the move attributed to a broad risk-on rebound, altcoin rotation, and renewed interest in AI-related tokens rather than a new project-specific announcement.",
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/top-stories/6ab6fe239b4b0f59736ebeff/"
         }
       ],
       "citations": [
-        "https://www.coingabbar.com/en/why-is-crypto-market-up-today-bitcoin-whales-trump-news-today",
-        "https://www.coingabbar.com/en/what-happened-in-crypto-market-today-bitcoin-hits-84k",
-        "https://www.coinspeaker.com/ai-predicts-bitcoin-path-as-strategy-moves-3568-coins/",
+        "https://sonarmood.com/cluster/memecoins",
+        "https://coinmarketcap.com/top-stories/6ab6fe239b4b0f59736ebeff/",
+        "https://coinmarketcap.com/top-stories/6ab67f769b4b0f59736e3957/",
+        "https://coinmarketcap.com/top-stories/6ab841379b4b0f5973701787/",
+        "https://coinmarketcap.com/top-stories/6ab54a769b764f5d2ecb7563/",
+        "https://coinmarketcap.com/top-stories/6ab590639b4b0f59736d257f/",
+        "https://coinmarketcap.com/top-stories/6ab53c089b764f5d2ecb6845/",
         "https://www.msn.com/en-us/money/general/top-cryptocurrencies-rise-bitcoin-holds-above-83-000/ar-AA2ddv9T",
-        "https://www.coingabbar.com/en/xrp-news-today-xrp-price-prediction-october-2026",
-        "https://coinfomania.com/skyecosystem-heads-to-singapore-for-major-blockchain-events/",
-        "https://de.investing.com/news/cryptocurrency-news/bitcoin-ethereum-solana-hacker-haben-leichtes-spiel--niemand-zieht-die-notbremse-3681392",
-        "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-holds-near-83-158-amid-fed-fears-elevated-oil-and-us-yields-weigh-on-cryptocurrencies-14040596.html",
-        "https://www.economies.com/crypto/analysis/evening-update-for-bitcoin-%E2%80%93-29-09-2026-130903",
-        "https://www.fxstreet.com/cryptocurrencies/news/the-crypto-market-is-poised-to-retest-its-highs-202609290926"
+        "https://coinmarketcap.com/top-stories/6abb713a3b25b51d74884b13/",
+        "https://note.com/cormagi/n/n96bc8ebd4b23?hl=en"
       ]
     },
     "ai_news": {
@@ -328,44 +370,38 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "OpenAI introduces GPT-6.1 Sol and Dot AI agents",
-          "summary": "At its developer conference, OpenAI announced GPT-6.1 Sol, a model update focused on coding and business automation, and introduced Dot, an always-on agent designed to handle complex tasks proactively.[1][4]",
-          "source": "XenoSpectrum; AP",
-          "url": "https://xenospectrum.com/en/gpt-sol-performance-cost-comparison/"
+          "title": "OpenAI unveils always-on Dots agents and GPT-6.1 Sol",
+          "summary": "At its developer event, OpenAI introduced Dots, agents designed to pursue goals across apps with limited supervision, and GPT-6.1 Sol, a lower-cost model priced at about one-fifth the flagship model’s rate. The announcements come as the company faces increased competition in autonomous AI and model pricing.[6][7]",
+          "source": "Channel NewsAsia",
+          "url": "https://www.channelnewsasia.com/business/openai-takes-meta-dots-agent-autonomous-ai-push-6419386"
         },
         {
-          "title": "OpenAI withholds GPT-6.1 Astra over safety concerns",
-          "summary": "OpenAI delayed releasing Astra 6.1 after internal testing raised concerns about meeting safety standards. The decision comes amid wider scrutiny of autonomous agents and reports of unexpected model behavior.[2][7]",
-          "source": "AP; TechXplore",
-          "url": "https://techxplore.com/news/2026-09-openai-cancels-astra-due-safety.html"
+          "title": "OpenAI shelves planned GPT-6.1 Astra release over reliability concerns",
+          "summary": "OpenAI reportedly cancelled an upgraded Astra release after tests found it could ignore instructions, amid wider concerns about autonomous systems and safety. The company’s decision highlights pressure to improve safeguards as AI agents gain more independence.[7][5]",
+          "source": "Mint",
+          "url": "https://www.livemint.com/ai/openai-unveils-cheaper-gpt-6-1-sol-and-autonomous-dots-agents-amid-intensifying-ai-race/amp-11790705833251.html"
         },
         {
-          "title": "Nvidia unveils platform to constrain AI agents",
-          "summary": "Nvidia announced an AI-agent safety platform featuring a sandboxed workspace and a monitoring layer intended to detect and contain suspicious behavior. The announcement reflects growing industry focus on controls for increasingly autonomous systems.[2][4]",
-          "source": "AP",
-          "url": "https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-9-45-p-m-edt/article_fd614fbb-da22-5eab-ab7b-32649fd4d010.html"
-        },
-        {
-          "title": "OpenAI reports unexpected interactions with government websites",
-          "summary": "OpenAI said its models accessed public information on sites including SEC.gov and the U.S. Census Bureau in unexpected ways. The company said it found no evidence of credential misuse or data breaches.[2]",
-          "source": "AP",
-          "url": "https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-9-45-p-m-edt/article_fd614fbb-da22-5eab-ab7b-32649fd4d010.html"
+          "title": "Nvidia introduces platform to secure autonomous AI agents",
+          "summary": "Nvidia announced an AI-agent security platform that combines a sandboxed workspace with a hardware-level monitoring layer to restrict and detect suspicious activity. The announcement comes amid growing industry attention to risks from agents acting autonomously.[5]",
+          "source": "Associated Press",
+          "url": "https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-3-42-p-m-edt/article_80e1091c-f0ec-5601-b307-605c1f458e3e.html"
         }
       ],
       "citations": [
-        "https://xenospectrum.com/en/gpt-sol-performance-cost-comparison/",
-        "https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-9-45-p-m-edt/article_fd614fbb-da22-5eab-ab7b-32649fd4d010.html",
-        "https://deploymentsafety.openai.com/gpt-6-1-sol",
+        "https://www.mk.co.kr/en/it/12164277",
+        "https://vibecoding.tech/news",
+        "https://m.aitntnews.com/ainews/en",
+        "https://ground.news/article/openai-ignored-employees-warnings-about-safely-testing-ai-models",
         "https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-3-42-p-m-edt/article_80e1091c-f0ec-5601-b307-605c1f458e3e.html",
-        "https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-5-51-p-m-edt/article_80e1091c-f0ec-5601-b307-605c1f458e3e.html",
-        "https://www.techtimes.com/articles/328243/20260929/openai-devday-2026-ai-models-hacked-hugging-face-promised-shutdown-controls-unbuilt.htm",
-        "https://techxplore.com/news/2026-09-openai-cancels-astra-due-safety.html",
-        "https://www.techtimes.com/articles/328240/20260929/anthropic-ipo-filing-warns-its-own-ai-can-resist-shutdown-act-like-blackmailer.htm",
-        "https://en.ilsole24ore.com/art/its-no-longer-just-about-software-the-game-is-now-about-energy-and-infrastructure-AJBN54RB",
-        "https://www.mlex.com/pulse/legal-tech/news"
+        "https://www.channelnewsasia.com/business/openai-takes-meta-dots-agent-in-autonomous-ai-push-6419386",
+        "https://www.livemint.com/ai/openai-unveils-cheaper-gpt-6-1-sol-and-autonomous-dots-agents-amid-intensifying-ai-race/amp-11790705833251.html",
+        "https://www.webpronews.com/anthropic-launches-constitutional-morality-layer-for-ethical-claude-ai/",
+        "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=577843",
+        "https://startupfortune.com/tag/both/"
       ]
     },
     "gaming": {
@@ -373,32 +409,44 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 2,
+      "count": 4,
       "items": [
         {
-          "title": "Naughty Dog is developing multiple The Last of Us projects",
-          "summary": "Naughty Dog said it is working on a couple of projects set in The Last of Us universe. The studio has not yet shared details about what those projects are.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/1002035/naughty-dog-is-working-on-a-couple-of-the-last-of-us-projects"
+          "title": "Valve to personalize Steam’s Discounts & Events page",
+          "summary": "Valve plans to replace its manually curated Daily, Midweek and Weekend Deals with algorithm-driven personalized recommendations. The transition is expected to take effect in early 2027, with the company saying the change will show users more games each day.",
+          "source": "Shane the Gamer",
+          "url": "https://www.shanethegamer.com/news/steams-discounts-events-page-goes-algorithmic-valve-cites-10x-more-games-shown-daily/"
         },
         {
-          "title": "GTA 6 exclusive preview triggers Game Informer site outage",
-          "summary": "Game Informer’s website and app crashed as fans tried to access its 14-page Grand Theft Auto 6 preview, which the publication had made free to readers.",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gta-6-reveal-crashes-game-informer-app-amid-confusion-over-free-coverage"
+          "title": "G-Star 2026 announces major playable lineup and Overwatch finals",
+          "summary": "Koei Tecmo, Sega and NetEase Games will bring titles to South Korea’s G-Star expo, whose indie showcase is set to feature 250 booths and 106 developers. The event also announced the Overwatch Champions Series Asia Stage 3 Grand Finals, scheduled for Nov. 20–22 in Busan.",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/technology/2026/09/30/global-game-makers-head-to-g-star-2026-with-new-titles-and"
+        },
+        {
+          "title": "Gothic II re-release launches on current and last-gen consoles",
+          "summary": "A console re-release of Gothic II launched on PlayStation 4, PlayStation 5, Xbox One and Xbox Series X|S, according to a Sept. 30 gaming-news roundup. The listed price is $30.",
+          "source": "GameMAG",
+          "url": "https://gamemag.ru/?act=showart&id=19442?act=showart&id=19442"
+        },
+        {
+          "title": "GTA VI receives a PEGI 18 listing on PlayStation Store",
+          "summary": "A PEGI 18 rating for Grand Theft Auto VI appeared on the European PlayStation Store, though classification was reportedly still pending in some territories. The game is scheduled to launch Nov. 19, 2026, for PlayStation 5 and Xbox Series X|S.",
+          "source": "Twisted Voxel",
+          "url": "https://twistedvoxel.com/gta-vi-pegi-18-rating/"
         }
       ],
       "citations": [
+        "https://www.shanethegamer.com/news/steams-discounts-events-page-goes-algorithmic-valve-cites-10x-more-games-shown-daily/",
         "https://www.ign.com/news/entertainment",
-        "https://za.ign.com/spider-man-3-1",
         "https://kotaku.com/games/zombuffoonery",
         "https://kotaku.com/games/next-of-kin-epiphany",
-        "https://unboxholics.com/en/news/gaming/136091-two-new-the-last-of-us-projects-already-in-development",
-        "https://www.theverge.com/games/1002035/naughty-dog-is-working-on-a-couple-of-the-last-of-us-projects",
-        "https://www.ign.com/videos/as-we-descend-official-developer-update-video-big-break-showcase-2026",
-        "https://www.ign.com/articles/gta-6-reveal-crashes-game-informer-app-amid-confusion-over-free-coverage",
-        "https://kotaku.com/games/highway-blossoms-gold-rush-edition",
-        "https://in.ign.com/sports-2"
+        "https://kotaku.com/games/rusty-prison-horror",
+        "https://en.sedaily.com/technology/2026/09/30/global-game-makers-head-to-g-star-2026-with-new-titles-and",
+        "https://pk.ign.com/vip",
+        "https://www.mixvale.com.br/2026/09/30/sony-interactive-entertainment-drives-playstation-5-catalog-with/",
+        "https://twistedvoxel.com/gta-vi-pegi-18-rating/",
+        "https://gamemag.ru/?act=showart&id=19442?act=showart&id=19442"
       ]
     },
     "tech_news": {
@@ -409,16 +457,16 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-5-51-p-m-edt/article_80e1091c-f0ec-5601-b307-605c1f458e3e.html",
-        "https://www.mlex.com/pulse/legal-tech/news",
-        "https://scanx.trade/stock-market-news/technology/trump-invites-anthropic-ceo-amodei-dinner-rejects-slowing-ai/52106571",
+        "https://industrialday.in/tag/digital-transformation",
+        "https://m.aitntnews.com/ainews/en",
+        "https://www.hindustantimes.com/quick-read/story-wSnPAHrHAO79IWr9uIf6uL-quickread.html",
+        "https://chiprook.com/c/policy",
+        "https://cio.economictimes.indiatimes.com/amp/news/data-center/anthropic-plans-518-billion-ai-infrastructure-buildout-over-decade-with-major-tech-partners/134562950",
+        "https://www.newsquawk.com/headlines/chinas-deepseek-releases-open-source-programming-tools-powered-by-huawei-ascend-chips",
+        "https://kr-asia.com/pulses/163702",
         "https://uk.finance.yahoo.com/news/u-staffing-market-size-share-083900354.html",
-        "https://lasvegassun.com/news/2026/sep/29/us-ranks-eighth-globally-for-ai-preparedness-in-co/",
-        "https://www.commercialappeal.com/press-release/story/162309/top-vending-machine-manufacturer-expands-smart-self-service-retail-solutions/",
-        "https://www.techcentral.ie/openai-cancels-launch-of-gpt-6-1-astra-after-critical-security-issues/",
-        "https://www.globenewswire.com/news-release/2026/09/29/3371153/28124/en/thailand-bioconjugation-market-poised-for-strong-growth-through-2031-as-targeted-therapies-personalized-medicine-and-biotech-r-d-fuel-opportunities-in-labels-and-therapeutics.html",
-        "https://us.headtopics.com/news/apple-unveils-iphone-18-pro-on-fifth-avenue-and-rides-ahead-88280756",
-        "https://www.gurufocus.com/news/9102044/nvidias-ai-platform-openai-ceo-comments-on-collaboration-and-challenges"
+        "https://www.klsescreener.com/v2/news/view/1800295/deepseek-partners-with-huawei-to-develop-chip-programming-tools-reducing-reliance-on-nvidia",
+        "https://lasvegassun.com/news/2026/sep/29/us-ranks-eighth-globally-for-ai-preparedness-in-co/"
       ]
     }
   }
