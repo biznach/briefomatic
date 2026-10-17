@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T02:56:07.043848+00:00",
-  "generated_at_human": "2026-10-17 02:56 UTC",
+  "generated_at": "2026-10-17T10:06:51.659134+00:00",
+  "generated_at_human": "2026-10-17 10:06 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,58 +8,130 @@
       "count": 25,
       "items": [
         {
-          "title": "Tesla Roadster",
-          "url": "https://www.tesla.com/roadster",
-          "score": 1234,
-          "comments": 2218
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "score": 115,
+          "comments": 8
         },
         {
-          "title": "Butlerian Jihad",
-          "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-          "score": 53,
-          "comments": 17
+          "title": "Ultramarine 1 Flash",
+          "url": "https://www.paperinstruments.com/ultramarine",
+          "score": 247,
+          "comments": 71
+        },
+        {
+          "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+          "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
+          "score": 18,
+          "comments": 14
+        },
+        {
+          "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+          "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+          "score": 9,
+          "comments": 3
+        },
+        {
+          "title": "Tesla Roadster",
+          "url": "https://www.tesla.com/roadster",
+          "score": 1433,
+          "comments": 2511
+        },
+        {
+          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "url": "https://llmspeed.dev/",
+          "score": 73,
+          "comments": 28
+        },
+        {
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "score": 137,
+          "comments": 57
+        },
+        {
+          "title": "Tell HN: Remember to migrate away from .name domain",
+          "url": "https://news.ycombinator.com/item?id=50089577",
+          "score": 36,
+          "comments": 16
+        },
+        {
+          "title": "Intuitive concurrent programming in any language",
+          "url": "https://www.lf-lang.org/",
+          "score": 43,
+          "comments": 7
         },
         {
           "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
           "url": "https://github.com/cobanov/PS5LM",
-          "score": 215,
-          "comments": 57
-        },
-        {
-          "title": "Claude reveals ECDSA curve origins",
-          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-          "score": 715,
-          "comments": 277
-        },
-        {
-          "title": "FLUX 3 Image Klein",
-          "url": "https://bfl.ai/blog/flux-3-image-klein",
-          "score": 122,
-          "comments": 34
+          "score": 290,
+          "comments": 72
         },
         {
           "title": "You could have invented transformers from memory",
           "url": "https://alexwang.ai/posts/associative-memory/",
-          "score": 170,
-          "comments": 45
+          "score": 308,
+          "comments": 72
         },
         {
-          "title": "Waymo in Toronto",
-          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-          "score": 287,
-          "comments": 393
+          "title": "Claude reveals ECDSA curve origins",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "score": 874,
+          "comments": 325
+        },
+        {
+          "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
+          "url": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
+          "score": 4,
+          "comments": 1
+        },
+        {
+          "title": "FLUX 3 Image Klein",
+          "url": "https://bfl.ai/blog/flux-3-image-klein",
+          "score": 166,
+          "comments": 46
+        },
+        {
+          "title": "0/1 Knapsack Problem in PyTorch",
+          "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+          "score": 23,
+          "comments": 1
+        },
+        {
+          "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+          "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+          "score": 320,
+          "comments": 161
         },
         {
           "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
           "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-          "score": 182,
-          "comments": 146
+          "score": 222,
+          "comments": 198
         },
         {
-          "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-          "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-          "score": 76,
-          "comments": 9
+          "title": "Butlerian Jihad",
+          "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+          "score": 230,
+          "comments": 124
+        },
+        {
+          "title": "Designing more efficient quantum circuits with Claude",
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "score": 142,
+          "comments": 32
+        },
+        {
+          "title": "I built the RealWorld app in Lean 4",
+          "url": "https://leangineer.com/blog/realworld-in-lean/",
+          "score": 58,
+          "comments": 5
+        },
+        {
+          "title": "JPEG XL vs. AVIF for web use-cases",
+          "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+          "score": 260,
+          "comments": 182
         },
         {
           "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
@@ -68,94 +140,22 @@
           "comments": 0
         },
         {
-          "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-          "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-          "score": 273,
-          "comments": 123
-        },
-        {
-          "title": "Designing more efficient quantum circuits with Claude",
-          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-          "score": 107,
-          "comments": 20
-        },
-        {
-          "title": "JPEG XL vs. AVIF for web use-cases",
-          "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-          "score": 212,
-          "comments": 149
-        },
-        {
-          "title": "C++26: The New Debugging Header",
-          "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-          "score": 72,
-          "comments": 11
-        },
-        {
-          "title": "Nine-Inch Snails",
-          "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-          "score": 35,
-          "comments": 15
-        },
-        {
-          "title": "I built the RealWorld app in Lean 4",
-          "url": "https://leangineer.com/blog/realworld-in-lean/",
-          "score": 14,
-          "comments": 3
-        },
-        {
           "title": "Monte-Carlo Simulations",
           "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-          "score": 73,
-          "comments": 17
-        },
-        {
-          "title": "How the Claude Code team does code review",
-          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-          "score": 252,
-          "comments": 241
+          "score": 121,
+          "comments": 22
         },
         {
           "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
           "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-          "score": 419,
-          "comments": 355
+          "score": 503,
+          "comments": 424
         },
         {
-          "title": "Ultramarine 1 Flash: Frontier Model 100X Cheaper",
-          "url": "https://www.paperinstruments.com/ultramarine",
-          "score": 8,
-          "comments": 1
-        },
-        {
-          "title": "Show HN: Gemini 4 Argon plays StarCraft",
-          "url": "https://starskirmish.com/bench/v0-2/",
-          "score": 192,
-          "comments": 88
-        },
-        {
-          "title": "/dev/null: social network for developers",
-          "url": "https://dev-null.sh",
-          "score": 136,
-          "comments": 122
-        },
-        {
-          "title": "I Love Software Rendering",
-          "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-          "score": 299,
-          "comments": 190
-        },
-        {
-          "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-          "url": "https://calif.io/research/big-fish",
-          "score": 168,
-          "comments": 48
-        },
-        {
-          "title": "Why harnesses matter for energy (and token) efficiency",
-          "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
-          "score": 45,
-          "comments": 22
+          "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+          "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+          "score": 44,
+          "comments": 3
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 81398,
-          "change_24h": -0.66,
-          "change_7d": -1.27,
-          "market_cap": 1636008390621
+          "price": 81501,
+          "change_24h": -0.39,
+          "change_7d": -1.41,
+          "market_cap": 1637975825759
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2419.18,
-          "change_24h": -0.72,
-          "change_7d": -2.81,
-          "market_cap": 295478902712
+          "price": 2432.11,
+          "change_24h": -0.53,
+          "change_7d": -2.34,
+          "market_cap": 297013835782
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 104.42,
-          "change_24h": -0.76,
-          "change_7d": -4.7,
-          "market_cap": 61547739411
+          "price": 104.62,
+          "change_24h": -1.16,
+          "change_7d": -4.62,
+          "market_cap": 61649522127
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.080151,
-          "change_24h": -1.5,
-          "change_7d": -6.69,
-          "market_cap": 12532315166
+          "price": 0.080149,
+          "change_24h": -2.22,
+          "change_7d": -6.89,
+          "market_cap": 12531235202
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.224265,
-          "change_24h": -2.17,
-          "change_7d": -8.44,
-          "market_cap": 8423312485
+          "price": 0.222786,
+          "change_24h": -3.27,
+          "change_7d": -12.95,
+          "market_cap": 8366322084
         }
       ]
     },
@@ -212,29 +212,14 @@
       "count": 10,
       "items": [
         {
-          "name": "Dacity Coin",
-          "symbol": "DACITY",
-          "market_cap_rank": 717
+          "name": "Celestia",
+          "symbol": "TIA",
+          "market_cap_rank": 95
         },
         {
-          "name": "Hyperliquid",
-          "symbol": "HYPE",
-          "market_cap_rank": 11
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 119
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "Lighter",
-          "symbol": "LIT",
-          "market_cap_rank": 89
+          "name": "Zcash",
+          "symbol": "ZEC",
+          "market_cap_rank": 10
         },
         {
           "name": "Quantus",
@@ -242,24 +227,39 @@
           "market_cap_rank": 612
         },
         {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 28
+        },
+        {
+          "name": "Pearl",
+          "symbol": "PRL",
+          "market_cap_rank": 105
+        },
+        {
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 11
+        },
+        {
+          "name": "Injective",
+          "symbol": "INJ",
+          "market_cap_rank": 85
+        },
+        {
+          "name": "Bittensor",
+          "symbol": "TAO",
+          "market_cap_rank": 34
         },
         {
           "name": "Aerodrome Finance",
           "symbol": "AERO",
-          "market_cap_rank": 85
+          "market_cap_rank": 84
         },
         {
-          "name": "NEAR Protocol",
-          "symbol": "NEAR",
-          "market_cap_rank": 19
-        },
-        {
-          "name": "Uniswap",
-          "symbol": "UNI",
-          "market_cap_rank": 25
+          "name": "Pi Network",
+          "symbol": "PI",
+          "market_cap_rank": 83
         }
       ]
     },
@@ -268,56 +268,68 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 8,
       "items": [
         {
-          "title": "Wall Street ends sharply lower as tech sell-off deepens",
-          "summary": "The Nasdaq Composite fell 2.1% and the S&P 500 dropped 1.1% on Friday as declines in major technology and chip stocks weighed on markets. The S&P 500 posted an approximately 2% weekly loss, while the Dow Jones Industrial Average fell 0.5% for the session.[3][4]",
+          "title": "U.S. stocks mixed as technology shares weaken",
+          "summary": "The S&P 500 slipped slightly in early Friday trading, while the Dow rose about 0.8% and the Nasdaq fell roughly 0.6% as chipmakers including Micron and Intel declined. The previous session ended with gains of 0.3% for the S&P 500, 1.1% for the Dow and 0.1% for the Nasdaq.[2]",
           "source": "Associated Press",
-          "url": "https://apnews.com/article/stocks-markets-us-ai-oil-warsh-d2655f64db7ec8ae450525d58f97b628"
+          "url": "https://www.rutlandherald.com/news/business/ap-business-summarybrief-at-10-43-a-m-edt/article_4029b360-b882-57bf-b821-259503a162c3.html"
         },
         {
-          "title": "Fed chair offers no guidance on upcoming rate decision",
-          "summary": "Federal Reserve Chair Kevin Warsh declined to prejudge upcoming interest-rate decisions while expressing optimism about U.S. economic strength. Markets increasingly expect rates to remain unchanged at the October meeting, while expectations for a December hike have risen amid stronger inflation data.[3][5]",
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/stocks-markets-us-ai-oil-warsh-d2655f64db7ec8ae450525d58f97b628"
+          "title": "Fed chair offers no guidance on October rate decision",
+          "summary": "Fed Chair Kevin Warsh declined to prejudge upcoming interest-rate decisions while emphasizing the goal of price stability. Markets interpreted his comments as reducing the likelihood of an October hike, with one market report putting the probability of a hold at 85%.[1][4]",
+          "source": "Associated Press / Sharecast",
+          "url": "https://www.sharecast.com/news/market-report-us/dow-jones-nasdaq-nyse-new-york-stocks-tesla-micron-amd--23873274.html"
         },
         {
-          "title": "U.S. inflation pressures intensify",
-          "summary": "September producer prices rose 6.3% year over year, the largest increase since December 2022, while import prices increased 1.1% in the month and 8.1% from a year earlier. The data strengthened expectations that the Fed could raise rates later this year.[8][9]",
+          "title": "U.S. wholesale inflation accelerates sharply",
+          "summary": "The producer price index rose 6.3% year over year in September, up from 5.6% in August and marking its largest increase since December 2022. Higher inflation is increasing pressure on the Federal Reserve even as markets debate whether to hold rates this month.[1]",
           "source": "Associated Press",
-          "url": "https://lancasteronline.com/business/stock_market/ap-business-summarybrief-at-2-52-a-m-edt/article_b7e31560-cdbf-5e8d-8e5b-26044623556d.html"
+          "url": "https://www.rutlandherald.com/news/business/ap-business-summarybrief-at-7-19-a-m-edt/article_4029b360-b882-57bf-b821-259503a162c3.html"
         },
         {
-          "title": "Tesla shares pressured after futuristic Roadster unveiling",
-          "summary": "Tesla shares declined after the company unveiled a redesigned Roadster featuring rocket-style thrusters, developed in collaboration with SpaceX. The vehicle is not expected to enter production until 2028.[3][5]",
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/stocks-markets-us-ai-oil-warsh-d2655f64db7ec8ae450525d58f97b628"
+          "title": "Import prices and industrial production strengthen",
+          "summary": "U.S. import prices increased 1.1% in September, bringing the annual rise to 8.1%, while industrial production grew 2.2% year over year. The data point to persistent price pressure alongside firmer industrial activity.[4]",
+          "source": "Sharecast",
+          "url": "https://www.sharecast.com/news/market-report-us/dow-jones-nasdaq-nyse-new-york-stocks-tesla-micron-amd--23873274.html"
         },
         {
-          "title": "Alcoa and Travelers beat quarterly earnings expectations",
-          "summary": "Alcoa rose 2.5% and Travelers gained 1.5% after reporting quarterly results above Wall Street forecasts. Travelers reported adjusted earnings per share of $9.18 versus a $7.25 consensus estimate, with revenue of $12.41 billion.[3][9]",
+          "title": "Asian markets recover after technology sell-off",
+          "summary": "World shares were mostly higher after a technology-led decline in Asian stocks. Indonesia’s market plunged after MSCI warned it could downgrade the country from emerging-market status, raising concerns about capital outflows.[1]",
           "source": "Associated Press",
-          "url": "https://apnews.com/article/stocks-markets-us-ai-oil-warsh-d2655f64db7ec8ae450525d58f97b628"
+          "url": "https://www.rutlandherald.com/news/business/ap-business-summarybrief-at-7-19-a-m-edt/article_4029b360-b882-57bf-b821-259503a162c3.html"
         },
         {
-          "title": "Indonesia faces possible emerging-market downgrade",
-          "summary": "Indonesia’s stock market plunged after MSCI warned that it could downgrade the country from emerging-market status, adding to broader pressure in global equities.[8]",
-          "source": "Associated Press",
-          "url": "https://lancasteronline.com/business/stock_market/ap-business-summarybrief-at-2-52-a-m-edt/article_b7e31560-cdbf-5e8d-8e5b-26044623556d.html"
+          "title": "Tesla rises after unveiling next-generation Roadster",
+          "summary": "Tesla shares gained about 1.8% in early trading after the company unveiled a next-generation Roadster, although production is not expected until 2028.[4]",
+          "source": "Sharecast",
+          "url": "https://www.sharecast.com/news/market-report-us/dow-jones-nasdaq-nyse-new-york-stocks-tesla-micron-amd--23873274.html"
+        },
+        {
+          "title": "Travelers beats earnings and revenue expectations",
+          "summary": "Travelers reported third-quarter adjusted earnings of $9.18 per share, well above the $7.25 consensus estimate, while revenue reached $12.41 billion versus expectations of $11.31 billion. Despite the beat, the shares declined in early trading.[4]",
+          "source": "Sharecast",
+          "url": "https://www.sharecast.com/news/market-report-us/dow-jones-nasdaq-nyse-new-york-stocks-tesla-micron-amd--23873274.html"
+        },
+        {
+          "title": "European stocks advance on earnings and lower Fed-hike bets",
+          "summary": "European equities rose as investors responded to positive corporate results and reduced expectations for an immediate Federal Reserve rate increase. Nordex shares jumped about 12% after the wind-turbine maker exceeded third-quarter expectations and raised its full-year margin target.[6]",
+          "source": "GuruFocus",
+          "url": "https://www.gurufocus.com/news/9128027/european-stocks-rise-amid-positive-earnings-and-fed-rate-hike-expectations"
         }
       ],
       "citations": [
-        "https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-open-higher-sp-500-hits-fresh-record-high-earnings-policy-outlook-in-spotlight/printarticle/107498800.cms",
-        "https://www.wsj.com/finance/stocks/a-volatile-week-ends-with-tech-stocks-down-oil-up-5f286ce3",
-        "https://apnews.com/article/stocks-markets-us-ai-oil-tech-warsh-d2655f64db7ec8ae450525d58f97b628",
-        "https://www.rutlandherald.com/news/business/ap-business-summarybrief-at-2-46-p-m-edt/article_4029b360-b882-57bf-b821-259503a162c3.html",
-        "https://www.businesstimes.com.sg/companies-markets/us-wall-street-ends-down-sharply-worries-about-ai-trade-high-oil-prices-weigh",
-        "https://www.courthousenews.com/markets-split-on-disappointing-inflation-data",
+        "https://www.rutlandherald.com/news/business/ap-business-summarybrief-at-7-19-a-m-edt/article_4029b360-b882-57bf-b821-259503a162c3.html",
+        "https://www.rutlandherald.com/news/business/ap-business-summarybrief-at-10-43-a-m-edt/article_4029b360-b882-57bf-b821-259503a162c3.html",
         "https://www.marketscreener.com/news/buy-the-dip-or-falling-knife-ce785cdadd89f324",
-        "https://lancasteronline.com/business/stock_market/ap-business-summarybrief-at-2-52-a-m-edt/article_b7e31560-cdbf-5e8d-8e5b-26044623556d.html",
         "https://www.sharecast.com/news/market-report-us/dow-jones-nasdaq-nyse-new-york-stocks-tesla-micron-amd--23873274.html",
-        "https://hk.marketscreener.com/news/ibex-35-rises-as-bets-on-fed-rate-hikes-moderate-ce785cdad88bf52d"
+        "https://news.futunn.com/en/post/1001449985/ai-benefits-cyclical-stocks-underperform-fed-under-pressure-narrow-risk",
+        "https://www.gurufocus.com/news/9128027/european-stocks-rise-amid-positive-earnings-and-fed-rate-hike-expectations",
+        "https://www.sc.com/ae/market-outlook/weekly-market-view-16-10-2026/",
+        "https://www.investors.com/ibd-videos/videos/tesla-meta-and-sap-lead-big-earnings-week",
+        "https://www.investing.com/analysis/kevin-warsh-sparks-market-speculation-where-is-the-nasdaq-100-headed-200689723",
+        "https://www.activtrades.co.uk/en/news/the-us-dollar-index-dipped-slightly-in-early-wednesday-trading"
       ]
     },
     "crypto_news": {
@@ -328,59 +340,59 @@
       "count": 7,
       "items": [
         {
-          "title": "Bitcoin rebounds to about $82,000 as major cryptocurrencies recover",
-          "summary": "Bitcoin rose roughly 1.9% to $82,130, while Ether gained 3.6% to $2,443. XRP, Solana, Cardano and BNB also advanced, although several remained lower for the week.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-recovers-82k-set-second-065608980.html"
+          "title": "Bitcoin rebounds above $82,000 after sharp sell-off",
+          "summary": "Bitcoin briefly fell below $80,000 after a hotter-than-expected U.S. inflation reading, then recovered above $82,000. Nearly $950 million in leveraged crypto positions were liquidated, while U.S. spot Bitcoin ETFs recorded more than $261 million in outflows.[2]",
+          "source": "LB Daily News",
+          "url": "https://www.lbdailynews.com/2026/10/17/bitcoin-rebounds-82000-after-80000-dip-950m-liquidated/"
         },
         {
-          "title": "Crypto market faces Federal Reserve and regulatory uncertainty",
-          "summary": "Bitcoin remained in an approximately $80,000-$88,000 range as traders assessed ETF outflows and the Federal Reserve’s upcoming decision. U.S. crypto legislation remains stalled following the departure of White House negotiator Patrick Witt.",
+          "title": "Celestia rallies as Eden AI-agent chain launches",
+          "summary": "Celestia’s TIA token rose 57% over the week to approximately $0.75, its highest level since November 2025. The move followed the launch of Eden, an EVM-compatible chain designed for experimenting with AI agents.[1]",
+          "source": "Mitrade",
+          "url": "https://www.mitrade.com/insights/news/live-news/article-3-2170983-20261017"
+        },
+        {
+          "title": "Injective gains on ETF and institutional-validator interest",
+          "summary": "Injective rose about 25% over the week amid institutional attention, including 21Shares’ filing for an Injective ETF that would directly hold and stake INJ. Gulf Labs also joined the network as an institutional validator.[1]",
+          "source": "Mitrade",
+          "url": "https://www.mitrade.com/insights/news/live-news/article-3-2170983-20261017"
+        },
+        {
+          "title": "NEAR falls sharply amid liquidations",
+          "summary": "NEAR Protocol dropped 6.28% in four hours and was down 4.36% over 24 hours at approximately $4.94. Long liquidations totaled about $760,000 during the reported one-hour period.[6]",
+          "source": "TokenPost",
+          "url": "https://www.tokenpost.com/?rdUrl=/news/investing/20378"
+        },
+        {
+          "title": "Australian crypto-platform capital rules remain under consultation",
+          "summary": "Australia’s securities regulator is consulting on three capital models for crypto platforms. One proposed model would require platforms without qualifying outsourced custody to hold the greater of A$14 million or 10% of average revenue.[3]",
           "source": "CryptoSlate",
           "url": "https://cryptoslate.substack.com/p/bitcoins-8000-range-faces-a-fed-test"
         },
         {
-          "title": "Australia consults on capital requirements for crypto platforms",
-          "summary": "Australia’s securities regulator is consulting on new capital models for crypto platforms, including a proposed requirement of at least A$14 million or 10% of average revenue when qualifying outsourced custody is unavailable.",
-          "source": "CryptoSlate",
-          "url": "https://cryptoslate.substack.com/p/bitcoins-8000-range-faces-a-fed-test"
+          "title": "NEAR Intents reports approximately $3.8 million security incident",
+          "summary": "A vulnerability involving third-party contract interactions and a refund mechanism created roughly $3.8 million in false balances through 23 failed deposit transactions. The balances were later extracted through Omni’s cross-chain infrastructure.[4]",
+          "source": "PANews",
+          "url": "https://www.panewslab.com/zh/articles/01a14918-3b6a-754a-8652-922d563d5718"
         },
         {
-          "title": "U.S. crypto market-structure legislation remains divided",
-          "summary": "The Senate Agriculture Committee advanced the Commodity Futures Trading Commission-focused portion of a market-structure bill, while the Senate Banking Committee had not yet voted on the broader CLARITY Act. Coinbase CEO Brian Armstrong criticized the draft over potential effects on tokenized equities, DeFi and stablecoin rewards.",
-          "source": "The Defiant",
-          "url": "https://thedefiant.io/news/regulation/page/18"
-        },
-        {
-          "title": "SEC clarifies securities-law treatment of tokenized assets",
-          "summary": "SEC staff issued guidance addressing how existing securities laws apply to tokenized securities, as U.S. policymakers continue debating oversight of digital-asset markets.",
-          "source": "The Defiant",
-          "url": "https://thedefiant.io/news/regulation/page/18"
-        },
-        {
-          "title": "Blur plans to shut down its front end and halt new Blend loan matching",
-          "summary": "NFT marketplace Blur reportedly plans to close its front end in November 2026, while its Blend NFT-lending protocol will stop matching new loans.",
-          "source": "PANews via BitFan",
-          "url": "https://www.bit.fan/en/news/tag/StandX"
-        },
-        {
-          "title": "Zcash leads major-token gains",
-          "summary": "Zcash rose about 12% to approximately $1,222 in Asian trading, outperforming other major cryptocurrencies as Bitcoin and leading altcoins recovered.",
-          "source": "Nate News",
-          "url": "https://news.nate.com/view/20261016n30181"
+          "title": "Bitcoin mining difficulty rises 5.92%",
+          "summary": "Bitcoin’s mining difficulty increased 5.92% to 140.58 trillion at block height 971,712, according to mempool.space data cited in the report.[4]",
+          "source": "PANews",
+          "url": "https://www.panewslab.com/zh/articles/01a14918-3b6a-754a-8652-922d563d5718"
         }
       ],
       "citations": [
-        "https://bbx.com/news-detail/3137282",
+        "https://www.mitrade.com/insights/news/live-news/article-3-2170983-20261017",
+        "https://www.lbdailynews.com/2026/10/17/bitcoin-rebounds-82000-after-80000-dip-950m-liquidated/",
         "https://cryptoslate.substack.com/p/bitcoins-8000-range-faces-a-fed-test",
-        "https://www.bit.fan/en/news/tag/StandX",
-        "https://www.openpr.com/news/4664459/crypto-update-markets-shrug-off-6-3-inflation-as-eth-and-sol",
-        "https://thedefiant.io/news/regulation/page/18",
-        "https://www.onebullex.com/news/articles/streamoors-surges-131-78-in-24-hours-topping-crypto-search-list-at-0-0230",
-        "https://finance.yahoo.com/markets/crypto/articles/bitcoin-recovers-82k-set-second-065608980.html",
-        "https://news.nate.com/view/20261016n30181",
-        "https://www.openpr.com/news/4664486/what-s-driving-the-crypto-market-higher-bitcoin-nears-84k-as",
-        "https://www.openpr.com/news/4664413/crypto-market-news-bitcoin-and-eth-recover-from-intraday-lows-as"
+        "https://www.panewslab.com/zh/articles/01a14918-3b6a-754a-8652-922d563d5718",
+        "https://bbx.com/news-detail/3137282",
+        "https://www.tokenpost.com/?rdUrl=/news/investing/20378",
+        "https://tokennewsnetwork.com/launches",
+        "https://www.odaily.news/en/newsflash?groupId=10&page=4",
+        "https://crypto.news/?referrer=www.coinrithm.com/de/kryptowahrungen/epic-chain",
+        "https://economictimes.indiatimes.com/tech/technology/bitcoin-near-13-month-high-as-investors-welcome-ripple-ruling/articleshow/101763594.cms?from=mdr"
       ]
     },
     "ai_news": {
@@ -388,56 +400,19 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 6,
-      "items": [
-        {
-          "title": "Meta releases Muse Spark Open AI model",
-          "summary": "Meta reportedly unveiled Muse Spark Open, an 816-billion-parameter open-weight mixture-of-experts model aimed at coding and agentic workloads. The model was described as the most capable U.S. open-weight model to date, though independent benchmarks were not provided in the available coverage.",
-          "source": "AI Infrastructure Database",
-          "url": "https://aiinfrastructuredatabase.com/news"
-        },
-        {
-          "title": "Elorian launches Glimpse visual-thinking model",
-          "summary": "Elorian reportedly released Glimpse, a multimodal model designed to repeatedly re-inspect images and video while reasoning. The approach targets more deliberate visual analysis rather than one-pass interpretation.",
-          "source": "Rohan Paul on X",
-          "url": "https://x.com/rohanpaul_ai/status/2111247359015583920"
-        },
-        {
-          "title": "Google DeepMind agent reports mathematical breakthroughs",
-          "summary": "Google DeepMind’s AlphaProof Nexus reportedly solved nine of 353 open Erdős problems and proved 44 of 492 OEIS conjectures autonomously, according to coverage of a new arXiv paper. The reported cost was a few hundred dollars per problem.",
-          "source": "TopFive",
-          "url": "https://topfive.ai/wire/"
-        },
-        {
-          "title": "Constructor introduces agentic checkout",
-          "summary": "Constructor announced Agentic Checkout, an integration with Stripe that lets shoppers and AI agents discover and purchase products within a single conversational interface.",
-          "source": "AI Reporter America",
-          "url": "https://www.aireporteramerica.com/category/world/page-3.html"
-        },
-        {
-          "title": "AI safety and financial concerns intensify",
-          "summary": "Coverage highlighted growing scrutiny of AI-agent incidents, lawsuits alleging harms to children from ChatGPT, and investor concerns about slowing revenue growth at leading AI companies. AI labs are nevertheless continuing to release models and emphasize open-weight systems for enterprise customization.",
-          "source": "SiliconANGLE",
-          "url": "https://siliconangle.com/?p=850090"
-        },
-        {
-          "title": "BrainChip introduces Sequora edge-AI processor IP",
-          "summary": "BrainChip launched Sequora, a processor intellectual-property core designed for generative AI applications on battery-powered edge devices. The announcement reflects continuing industry investment in lower-power, on-device AI hardware.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-innovative-113736563.html"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://x.com/rohanpaul_ai/status/2111247359015583920",
-        "https://www.aireporteramerica.com/category/world/page-3.html",
-        "https://aiinfrastructuredatabase.com/news",
+        "https://www.israelhayom.co.il/tech/tech-news/article/21642760",
         "https://topfive.ai/wire/",
+        "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+        "https://aienews.org/research.html",
+        "https://www.theglobalicon.com/insights/category/technology/",
         "https://thisweekinnlp.substack.com/p/this-week-in-nlp-413",
-        "https://oreillyradar.substack.com/p/this-week-in-ai-expanding-the-possibilities",
-        "https://thelivingedge.substack.com/p/last-week-in-multimodal-ai-71-the",
-        "https://himiao.ai/en/",
-        "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-innovative-113736563.html",
-        "https://siliconangle.com/?p=850090"
+        "https://techcrunch.com/?ref=nova.kapualabs.com",
+        "https://news4bharat.com/category/ai",
+        "https://news.ginfo.cc/",
+        "https://newsway.co.kr/news/view?ud=2026101515283118920"
       ]
     },
     "gaming": {
@@ -445,62 +420,19 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 7,
-      "items": [
-        {
-          "title": "US lawmaker proposes bill to give game buyers ownership",
-          "summary": "Rep. Ritchie Torres introduced the proposed Power to Players Act, which would direct the FTC to create protections preventing publishers from removing access to purchased games when online services shut down. The proposal follows concerns over games becoming unplayable after server closures.[1][2]",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/"
-        },
-        {
-          "title": "CD Projekt Red shares development update on Project Hadar",
-          "summary": "CD Projekt Red said its original intellectual property, codenamed Project Hadar, is being prototyped and benchmarked with Unreal Engine. The game has not yet entered full pre-production.[10]",
-          "source": "GameGPU",
-          "url": "https://en.gamegpu.com/news/igry/novaya-igra-project-hadar-ot-cd-projekt-red-sozdaetsya-na-unreal-engine"
-        },
-        {
-          "title": "Epic plans Fortnite release on AltStore while leaving Samsung Galaxy Store",
-          "summary": "Epic Games plans to bring Fortnite to AltStore and is withdrawing its games from Samsung’s Galaxy Store, citing objections to mobile storefront business practices.[3]",
-          "source": "MobileGamer.biz",
-          "url": "https://mobilegamer.biz/posts/page/329/?amp=1"
-        },
-        {
-          "title": "Xbox Nano Controller announced for November launch",
-          "summary": "Microsoft introduced the Xbox Nano Controller, a compact controller designed for portable and multi-device gaming. It is scheduled to launch November 4, 2026, at $49.99.[4]",
-          "source": "TipRanks",
-          "url": "https://www.tipranks.com/news/video-game-stocks-traders-need-to-watch-after-this-weeks-biggest-news"
-        },
-        {
-          "title": "Nintendo shows more of Ocarina of Time Remake",
-          "summary": "Nintendo released additional details and footage of its upcoming Ocarina of Time Remake, including expanded looks at Hyrule, Link’s combat with Dark Link, and new fairy hints. The game is scheduled for November 5, 2026, with a physical edition planned.[4]",
-          "source": "TipRanks",
-          "url": "https://www.tipranks.com/news/video-game-stocks-traders-need-to-watch-after-this-weeks-biggest-news"
-        },
-        {
-          "title": "Peak coming to consoles with cross-play",
-          "summary": "The co-op survival game Peak is scheduled to release on PlayStation 5, Xbox Series, and Switch 2 on October 22, with cross-play support.[9]",
-          "source": "Jiří Bigas",
-          "url": "https://jiribigas.substack.com/p/novinky-o-gta-vi-total-war-propadl"
-        },
-        {
-          "title": "Ubisoft reportedly preparing more than 200 layoffs",
-          "summary": "A report says Ubisoft is preparing to cut more than 200 jobs as the publisher continues restructuring efforts.[5]",
-          "source": "StopGame",
-          "url": "https://stopgame.ru/show/166189/detali-razrabotki-gta_vi_epic_games_navaybkodila_svoy_loncher_iz_za_vyhodcev_iz_za_um"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-        "https://www.dexerto.com/gaming/us-lawmaker-proposes-bill-that-would-force-game-companies-to-let-players-keep-their-games-3419489/",
-        "https://mobilegamer.biz/posts/page/329/?amp=1",
+        "https://igamingworld.com/gaming-insights/",
+        "https://igamingworld.com/gaming-industry-insights/",
+        "https://igamingworld.com/gaming-innovations/",
+        "https://igamingworld.com/gambling-insights/",
         "https://www.tipranks.com/news/video-game-stocks-traders-need-to-watch-after-this-weeks-biggest-news",
-        "https://stopgame.ru/show/166189/detali_razrabotki_gta_vi_epic_games_navaybkodila_svoy_loncher_anons_igry_ot_vyhodcev_iz_za_um",
         "https://gamerant.com/biggest-games-2026-cod-mw4-gta-6-zelda/",
-        "https://mobilegamer.biz/posts/page/327/?amp=1",
-        "https://comicbook.com/gaming/news/steam-game-best-selling-star-wars-gears-of-war/",
+        "https://www.shareplusai.com/tag/Gaming",
         "https://jiribigas.substack.com/p/novinky-o-gta-vi-total-war-propadl",
-        "https://en.gamegpu.com/news/igry/novaya-igra-project-hadar-ot-cd-projekt-red-sozdaetsya-na-unreal-engine"
+        "https://mobilegamer.biz/posts/page/329/?amp=1",
+        "https://www.igromania.ru/tags/obnovleniya/"
       ]
     },
     "tech_news": {
@@ -511,16 +443,16 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://www.stalbertgazette.com/national-business/us-markets-are-weighed-down-by-an-extended-sell-off-in-the-tech-sector-12900506",
+        "https://techcrunch.com/?ref=nova.kapualabs.com",
+        "https://brievox.com/feeds/recent",
+        "https://www.theglobalicon.com/insights/",
+        "https://www.techrepublic.com/article/this-week-in-tech-ai-gets-bigger-gadgets-get-smarter-and-security-risks-mount/",
+        "https://www.aireporteramerica.com/category/ai-channnels/breakthrough-technologies/page-6.html",
         "https://topfive.ai/wire/",
-        "https://m.gelonghui.com/p/7032609",
-        "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-3-26-p-m-edt/article_ffa6d4f8-1427-54bd-9fdc-005487d77c3e.html",
-        "https://www.forbes.com/sites/ewanspence/2026/10/16/android-news-headlines-galaxy-s27-ultra-fitbit-edge-fairphone-6-redmagic-12-pro-lineageos/",
+        "https://www.shareplusai.com/tag/Tech%20News",
+        "https://www.axios.com/technology/2026/10/17",
         "https://www.shareplusai.com/tag/Technology",
-        "https://himiao.ai/en/",
-        "https://economictimes.indiatimes.com/topic/smart-home-hardware",
-        "https://finance.biggo.com/news/d0005903-6136-420c-abdb-7da895f9a892",
-        "https://www.aireporteramerica.com/category/world/page-3.html"
+        "https://www.rswebsols.com/news/tesla-roadster-2-launches-featuring-flying-car-technology-in-texas/"
       ]
     }
   }
