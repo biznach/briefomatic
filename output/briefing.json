@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T03:11:14.698137+00:00",
-  "generated_at_human": "2026-10-19 03:11 UTC",
+  "generated_at": "2026-10-19T12:04:13.669316+00:00",
+  "generated_at_human": "2026-10-19 12:04 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
+          "title": "Linux 7.3 Released",
+          "url": "https://lwn.net/Articles/1101143/",
+          "score": 293,
+          "comments": 128
+        },
+        {
+          "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+          "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+          "score": 51,
+          "comments": 13
+        },
+        {
+          "title": "Timestral: Mistral release time-series foundation models",
+          "url": "https://mistral.ai/news/timestral/",
+          "score": 63,
+          "comments": 14
+        },
+        {
+          "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+          "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+          "score": 25,
+          "comments": 2
+        },
+        {
+          "title": "Gdynia and the Dream of a Maritime Poland",
+          "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
+          "score": 13,
+          "comments": 1
+        },
+        {
           "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
           "url": "https://arxiv.org/abs/2610.18861",
-          "score": 245,
-          "comments": 150
+          "score": 430,
+          "comments": 214
+        },
+        {
+          "title": "How to Train Your Robot",
+          "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+          "score": 62,
+          "comments": 18
+        },
+        {
+          "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+          "score": 60,
+          "comments": 34
         },
         {
           "title": "William Gibson and the trademarking of cyberspace",
           "url": "https://colo.to/cyberspace.html",
-          "score": 85,
-          "comments": 8
+          "score": 200,
+          "comments": 84
         },
         {
           "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
           "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-          "score": 211,
-          "comments": 204
+          "score": 404,
+          "comments": 505
         },
         {
-          "title": "Superlite: A Faster Alternatie to Superpowers",
-          "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-          "score": 6,
-          "comments": 2
+          "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+          "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+          "score": 98,
+          "comments": 95
         },
         {
-          "title": "Laptop Based on 6502 CPU",
-          "url": "https://www.maddox.pro/?p=448",
-          "score": 52,
-          "comments": 22
-        },
-        {
-          "title": "Someone behind the software",
-          "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-          "score": 338,
-          "comments": 139
+          "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+          "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+          "score": 3,
+          "comments": 0
         },
         {
           "title": "If you don't run your own LLM proxy, how do you know whats going on?",
           "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-          "score": 55,
-          "comments": 44
+          "score": 203,
+          "comments": 149
         },
         {
-          "title": "Starcraft: Ashfall",
-          "url": "https://starcraft-shooter-2026.pages.dev/",
-          "score": 18,
-          "comments": 9
-        },
-        {
-          "title": "RepRapMicron",
-          "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-          "score": 342,
-          "comments": 55
-        },
-        {
-          "title": "Free Pascal compiler now supports dynamic packages",
-          "url": "https://www.getlazarus.org/dynamic/",
-          "score": 117,
-          "comments": 24
+          "title": "Someone behind the software",
+          "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+          "score": 469,
+          "comments": 171
         },
         {
           "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
           "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+          "score": 267,
+          "comments": 159
+        },
+        {
+          "title": "Laptop Based on 6502 CPU",
+          "url": "https://www.maddox.pro/?p=448",
           "score": 146,
-          "comments": 87
+          "comments": 70
         },
         {
-          "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-          "url": "https://github.com/finereli/whatsapp-mcp",
-          "score": 52,
-          "comments": 35
-        },
-        {
-          "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-          "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-          "score": 15,
-          "comments": 0
-        },
-        {
-          "title": "I built a programming language that LLMs can't use",
-          "url": "https://blog.picheta.me/post/killswitch-lang/",
-          "score": 100,
-          "comments": 78
-        },
-        {
-          "title": "PalmOS Lemmings",
-          "url": "https://github.com/ardiri/palmos-lemmings",
-          "score": 99,
-          "comments": 23
+          "title": "RepRapMicron",
+          "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+          "score": 405,
+          "comments": 64
         },
         {
           "title": "The DNS Museum",
           "url": "https://dns.museum",
-          "score": 8,
-          "comments": 0
-        },
-        {
-          "title": "\"Traditional, but Puzzling\"",
-          "url": "https://unsung.aresluna.org/traditional-but-puzzling/",
-          "score": 26,
-          "comments": 3
-        },
-        {
-          "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
-          "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
-          "score": 55,
-          "comments": 9
-        },
-        {
-          "title": "16-bit fully functional DIY magnetic core memory",
-          "url": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
-          "score": 39,
-          "comments": 18
-        },
-        {
-          "title": "What the heck is /pkg?",
-          "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-          "score": 24,
-          "comments": 9
-        },
-        {
-          "title": "The First Candid",
-          "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
-          "score": 48,
+          "score": 91,
           "comments": 11
         },
         {
-          "title": "Java sealed classes and exhaustive pattern matching",
-          "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-          "score": 145,
-          "comments": 106
+          "title": "Superlite: A Faster Alternatie to Superpowers",
+          "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+          "score": 105,
+          "comments": 43
         },
         {
-          "title": "A new way to think about borrow checking (in reverse)",
-          "url": "https://verdagon.dev/blog/reverse-borrow-checking",
-          "score": 27,
-          "comments": 4
+          "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+          "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+          "score": 81,
+          "comments": 90
         },
         {
-          "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
-          "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
-          "score": 109,
-          "comments": 179
+          "title": "Free Pascal compiler now supports dynamic packages",
+          "url": "https://www.getlazarus.org/dynamic/",
+          "score": 168,
+          "comments": 41
         },
         {
-          "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
-          "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
-          "score": 22,
+          "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "score": 115,
+          "comments": 66
+        },
+        {
+          "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+          "url": "https://ranet3.com/",
+          "score": 30,
           "comments": 7
+        },
+        {
+          "title": "PalmOS Lemmings",
+          "url": "https://github.com/ardiri/palmos-lemmings",
+          "score": 135,
+          "comments": 33
+        },
+        {
+          "title": "HOL Light Tutorial",
+          "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+          "score": 8,
+          "comments": 3
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 82557,
-          "change_24h": 0.88,
-          "change_7d": -1.14,
-          "market_cap": 1659172270693
+          "price": 82280,
+          "change_24h": 0.36,
+          "change_7d": -1.38,
+          "market_cap": 1653729455544
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2423.24,
-          "change_24h": 0.2,
-          "change_7d": -4.52,
-          "market_cap": 296005485988
+          "price": 2418.01,
+          "change_24h": 0.03,
+          "change_7d": -5.31,
+          "market_cap": 295355500864
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 105.34,
-          "change_24h": 1.24,
-          "change_7d": -5.45,
-          "market_cap": 62097369289
+          "price": 104.64,
+          "change_24h": 0.57,
+          "change_7d": -6.19,
+          "market_cap": 61683268604
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.079904,
-          "change_24h": 0.29,
-          "change_7d": -7.61,
-          "market_cap": 12497032801
+          "price": 0.079112,
+          "change_24h": -0.45,
+          "change_7d": -9.38,
+          "market_cap": 12372223242
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.221689,
-          "change_24h": 0.2,
-          "change_7d": -11.06,
-          "market_cap": 8326586768
+          "price": 0.218039,
+          "change_24h": -1.13,
+          "change_7d": -13.56,
+          "market_cap": 8189419621
         }
       ]
     },
@@ -212,54 +212,54 @@
       "count": 10,
       "items": [
         {
-          "name": "Covenant x402",
-          "symbol": "COVENANT",
-          "market_cap_rank": 696
-        },
-        {
-          "name": "Doge Pepe",
-          "symbol": "DOPE",
-          "market_cap_rank": 729
-        },
-        {
-          "name": "Tetsuo Super Intelligence",
-          "symbol": "TSI",
-          "market_cap_rank": 911
-        },
-        {
-          "name": "hi",
-          "symbol": "HI",
-          "market_cap_rank": 849
-        },
-        {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 119
-        },
-        {
-          "name": "Claudia",
-          "symbol": "CLAUDIA",
-          "market_cap_rank": 776
+          "name": "Boomer",
+          "symbol": "BOOMER",
+          "market_cap_rank": 813
         },
         {
           "name": "Pearl",
           "symbol": "PRL",
-          "market_cap_rank": 97
+          "market_cap_rank": 99
         },
         {
           "name": "Quantus",
           "symbol": "QTC",
-          "market_cap_rank": 653
+          "market_cap_rank": 659
         },
         {
-          "name": "Hippius",
-          "symbol": "SN75",
-          "market_cap_rank": 742
+          "name": "Quack AI",
+          "symbol": "Q",
+          "market_cap_rank": 102
         },
         {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 10
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 118
+        },
+        {
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "market_cap_rank": 20
+        },
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "market_cap_rank": 1
+        },
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "market_cap_rank": 7
+        },
+        {
+          "name": "Pump.fun",
+          "symbol": "PUMP",
+          "market_cap_rank": 49
+        },
+        {
+          "name": "Arbitrum",
+          "symbol": "ARB",
+          "market_cap_rank": 66
         }
       ]
     },
@@ -271,53 +271,53 @@
       "count": 6,
       "items": [
         {
-          "title": "U.S. stock futures rebound ahead of heavy earnings week",
-          "summary": "S&P 500 futures rose about 0.3%–0.5% and Nasdaq 100 futures gained roughly 0.6%–0.8% on Monday after Friday’s technology-led selloff. More than 70 S&P 500 companies are scheduled to report this week, including Tesla and Meta, keeping investor focus on the durability of the artificial-intelligence trade.",
-          "source": "Bloomberg via Swissinfo",
-          "url": "https://www.swissinfo.ch/eng/us-stock-futures-rise-ahead-of-busy-earnings-week:-markets-wrap/92235911"
+          "title": "U.S. stock futures rise ahead of major earnings week",
+          "summary": "Dow, S&P 500 and Nasdaq 100 futures moved higher after the indexes’ weaker Friday close. Investors are focused on a heavy earnings calendar, with Meta and Tesla scheduled to report Wednesday.[1]",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/10/62431980/stock-market-today-dow-jones-sp-500-futures-rise-as-scott-bessent-links-september-inflation-to-energy-shock-rcat-eslt-stld-in-focus"
         },
         {
-          "title": "Wall Street posts worst week since June as technology shares slide",
-          "summary": "On Friday, the S&P 500 fell 1.1%, the Nasdaq Composite dropped 2.1%, and the Dow declined 0.3%; all three were pressured by renewed concerns over semiconductor valuations and the sustainability of AI-related investment. Micron fell 5.6% and Intel lost 5.8%, while the 10-year Treasury yield slipped to 5.09%.",
-          "source": "AP",
-          "url": "https://www.leadertelegram.com/news/nation-world/ap-business-summarybrief-at-3-07-a-m-edt/article_1d76a484-5e79-536d-815d-64d6a88e03fa.html"
-        },
-        {
-          "title": "Fed blackout begins ahead of October policy decision",
-          "summary": "Federal Reserve officials have entered their communications blackout period before the October 27–28 policy meeting, limiting further public guidance on interest rates. Remarks from Chair Kevin Warsh reduced market-implied expectations of an additional quarter-point hike this month to below 20%.",
-          "source": "Investing.com via Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-warsh-remarks-curb-013418779.html"
-        },
-        {
-          "title": "Oil retreat provides support for bonds and equity futures",
-          "summary": "A decline in oil prices helped limit losses in Asian markets and supported U.S. stock futures and bonds. Investors are also watching elevated energy prices and inflation risks as central banks assess the outlook for interest rates.",
+          "title": "Oil decline supports bonds and Wall Street futures as Asian stocks slip",
+          "summary": "Asian equities weakened amid concerns about the funding demands of artificial intelligence, while lower oil prices supported bonds and U.S. equity futures. S&P 500 futures rose about 0.7% and Nasdaq futures about 1.0%; Japan’s Nikkei fell 1.2% after a 5.4% weekly decline.[5]",
           "source": "Reuters via Fidelity",
-          "url": "https://www.fidelity.com/news/article/default/202610182038RTRSNEWSCOMBINED_KBN3VZ01P-OUSBS_1"
+          "url": "https://www.fidelity.com/news/article/default/202610182232RTRSNEWSCOMBINED_L1N46500T_1"
         },
         {
-          "title": "Tesla and Meta earnings become key tests for AI trade",
-          "summary": "Tesla and Meta are due to report after Wednesday’s close, alongside Lam Research and Texas Instruments. Nvidia’s GTC conference in Berlin, running October 20–22, is another major catalyst for semiconductor and AI-related stocks.",
-          "source": "BigGo News",
-          "url": "https://finance.biggo.com/news/0a0fa485-3bfb-4de5-bef0-b702b6a01f40"
+          "title": "Hot inflation raises expectations for further Fed tightening",
+          "summary": "Markets are reassessing interest-rate expectations after stronger-than-expected U.S. inflation. Fed officials are in their blackout period before the October 28 policy decision, while market pricing cited a 14.9% probability of a rate hike after the October meeting.[1][4]",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/10/62431980/stock-market-today-dow-jones-sp-500-futures-rise-as-scott-bessent-links-september-inflation-to-energy-shock-rcat-eslt-stld-in-focus"
         },
         {
-          "title": "China economic data and global inflation releases set to shape markets",
-          "summary": "China is releasing a broad set of economic indicators, including third-quarter GDP, while Canada, the United Kingdom and Japan are scheduled to publish inflation data. Preliminary October purchasing-managers’ indexes from the eurozone, U.K. and U.S. are due later in the week.",
-          "source": "Bloomberg via Head Topics",
-          "url": "https://ca.headtopics.com/news/us-stock-futures-rise-ahead-of-busy-earnings-week-markets-88949591"
+          "title": "China third-quarter growth slightly exceeds forecasts",
+          "summary": "China’s economy grew 4.5% year over year in the third quarter, narrowly beating expectations. Retail sales increased 1.1% and industrial output rose 5.5%, providing some support for the global-growth outlook.[5]",
+          "source": "Reuters via Fidelity",
+          "url": "https://www.fidelity.com/news/article/default/202610182232RTRSNEWSCOMBINED_L1N46500T_1"
+        },
+        {
+          "title": "Meta and Tesla headline closely watched earnings releases",
+          "summary": "Meta Platforms and Tesla are the main focus of a crowded third-quarter earnings week. Investors are watching Meta’s artificial-intelligence monetization plans and Tesla’s results amid broader concerns about AI investment costs.[1][7]",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/10/62431980/stock-market-today-dow-jones-sp-500-futures-rise-as-scott-bessent-links-september-inflation-to-energy-shock-rcat-eslt-stld-in-focus"
+        },
+        {
+          "title": "Semiconductor stocks remain under pressure",
+          "summary": "The Nasdaq Composite fell 4.5% over the prior week, while the Philadelphia Semiconductor Index declined 11.4% and recorded an eighth consecutive daily loss, reflecting persistent concern over inflation, financing costs and AI-related investment.[6]",
+          "source": "MK",
+          "url": "https://www.mk.co.kr/en/stock/12179944"
         }
       ],
       "citations": [
+        "https://www.benzinga.com/markets/equities/26/10/62431980/stock-market-today-dow-jones-sp-500-futures-rise-as-scott-bessent-links-september-inflation-to-energy-shock-rcat-eslt-stld-in-focus",
+        "https://www.morningstar.com/news/dow-jones/20261019282/dow-jones-top-markets-headlines-at-1-am-et-stock-futures-rise-ahead-of-another-busy-earnings-week-chinas",
+        "https://www.fidelity.co.uk/markets-insights/markets/global/earnings-season-heats-up/",
         "https://www.cnbctv18.com/market/nasdaq-dow-jones-snp-500-wall-street-this-week-crude-oil-fed-bond-yields-meta-tesla-results-triggers-20014541.htm",
-        "https://finance.yahoo.com/markets/commodities/articles/gold-rises-warsh-remarks-curb-013418779.html",
-        "https://finance.biggo.com/news/0a0fa485-3bfb-4de5-bef0-b702b6a01f40",
-        "https://ca.headtopics.com/news/us-stock-futures-rise-ahead-of-busy-earnings-week-markets-88949591",
-        "https://www.fidelity.com/news/article/default/202610182038RTRSNEWSCOMBINED_KBN3VZ01P-OUSBS_1",
-        "https://www.fidelity.com/news/article/default/202610182034RTRSNEWSCOMBINED_L4N46405Q_1",
-        "https://www.leadertelegram.com/news/nation-world/ap-business-summarybrief-at-3-07-a-m-edt/article_1d76a484-5e79-536d-815d-64d6a88e03fa.html",
-        "https://www.swissinfo.ch/eng/us-stock-futures-bounce-after-chip-rout,-oil-slips:-markets-wrap/92235911",
-        "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-meeting-live-us-stock-market-today-dow-jones-nasdaq-sp-500-jerome-powell-fomc-meet-rate-cut-outlook-iran-israel-war-earnings-stock-news/liveblog/130607038.cms?from=mdr",
-        "https://www.swissinfo.ch/eng/us-stock-futures-rise-ahead-of-busy-earnings-week:-markets-wrap/92235911"
+        "https://www.fidelity.com/news/article/default/202610182232RTRSNEWSCOMBINED_L1N46500T_1",
+        "https://www.mk.co.kr/en/stock/12179944",
+        "https://ph.investing.com/analysis/earnings-season-takes-the-spotlight-amid-ai-market-jitters-219867",
+        "https://www.markethot.news/en/markets/macro",
+        "https://centiview.com/news",
+        "https://musaffa.com/news/week-ahead/week-ahead-earnings-season-takes-the-spotlight-amid-ai-market-jitters/"
       ]
     },
     "crypto_news": {
@@ -325,74 +325,80 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 9,
+      "count": 10,
       "items": [
         {
-          "title": "Bitcoin holds above $81,000 as major tokens weaken",
-          "summary": "Bitcoin traded near $81,100, up about 0.4% over 24 hours, while Ether fell roughly 2.1–2.3% to around $2,365. Crypto liquidations totaled approximately $359 million, with long positions accounting for 78%.",
-          "source": "The Crypto Times",
-          "url": "https://www.cryptotimes.io/2026/10/19/bitcoin-price-holds-81k-ethereum-slips-to-2365-as-crypto-liquidations-cool-to-359m/"
+          "title": "Bitcoin rebounds above $82,000 as crypto market edges higher",
+          "summary": "Bitcoin traded around $82,446, up 0.8% over 24 hours after briefly falling below $80,700. The total crypto market capitalization rose about 0.3% to $2.83 trillion, while Ethereum, BNB, XRP and Solana also posted modest daily gains.[2]",
+          "source": "CoinEdition",
+          "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-78/"
         },
         {
-          "title": "Bitcoin briefly rises above $82,000 amid sideways market",
-          "summary": "Bitcoin reached a 24-hour high of about $82,184 before consolidating, while the broader market remained largely range-bound. Major tokens generally posted gains of less than 1%.",
-          "source": "TokenPost",
-          "url": "https://www.tokenpost.com/news/investing/34525"
+          "title": "Nearly $934 million in crypto positions liquidated",
+          "summary": "About $934 million in leveraged crypto positions were liquidated across roughly 167,400 accounts during the past 24 hours, with Bitcoin and Ethereum accounting for the heaviest losses.[7]",
+          "source": "The Defiant",
+          "url": "https://thedefiant.io/news/markets/page/14"
         },
         {
-          "title": "Crypto market capitalization falls despite modest Bitcoin gain",
-          "summary": "Total cryptocurrency market capitalization declined 3.47% to approximately $2.74 trillion, even as Bitcoin gained 0.57% to about $81,983. Bitcoin dominance increased to 60.1%.",
-          "source": "Traders Union",
-          "url": "https://tradersunion.com/news/market-voices/show/3866053-crypto-market-cap-drop/"
+          "title": "CFTC proposes voluntary unified crypto oversight framework",
+          "summary": "The U.S. Commodity Futures Trading Commission proposed a voluntary Reg CM framework that would let crypto exchanges seek unified federal oversight instead of navigating fragmented state licensing requirements.[2]",
+          "source": "CoinEdition",
+          "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-78/"
         },
         {
-          "title": "Cysic bridge exploited for unauthorized CYS minting",
-          "summary": "Cysic reported that attackers exploited a processing vulnerability to mint 10 million CYS tokens on BNB Smart Chain. The project suspended its cross-chain bridge while investigating unauthorized database access.",
+          "title": "European Commission reviews MiCA staking rules",
+          "summary": "The European Commission is examining whether current staking provisions under the Markets in Crypto-Assets framework are adequate, potentially opening the door to additional requirements for crypto companies.[1]",
+          "source": "Odaily",
+          "url": "https://www.odaily.news/en/newsflash?page=265"
+        },
+        {
+          "title": "Qubic reports exploit affecting 1,404 wallets",
+          "summary": "Qubic said attackers exploited weak randomness in wallet seed generation to drain approximately 2.94 trillion QU from 1,404 wallets. The project said the vulnerability was in seed generation rather than the core protocol.[2]",
+          "source": "CoinEdition",
+          "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-78/"
+        },
+        {
+          "title": "Cysic bridge attack leads to unauthorized minting of CYS",
+          "summary": "Cysic reported that its cross-chain bridge was attacked, allowing roughly 10 million CYS tokens to be minted without authorization on BNB Smart Chain. The bridge was suspended while the team investigated database-access and processing vulnerabilities.[5]",
           "source": "ChainCatcher",
           "url": "https://www.chaincatcher.com/article/2297195"
         },
         {
-          "title": "Qubic network halts after large wallet theft",
-          "summary": "An overnight attack reportedly drained 1,404 Qubic wallets of roughly 2.94 trillion QU tokens, valued at about $1.3 million, before validators halted the network.",
-          "source": "CryptoHub",
-          "url": "https://cryptohub.digital/category/technology"
+          "title": "JPMorgan expands JPM Coin to Ethereum",
+          "summary": "JPMorgan launched its deposit token JPM Coin on the Ethereum network, making it available to institutional clients.[3]",
+          "source": "CoinByte",
+          "url": "https://coinbyte.com.au/en/news"
         },
         {
-          "title": "EU and eight countries strengthen crypto-crime cooperation",
-          "summary": "The European Union and eight countries signed an additional protocol to the Warsaw Convention aimed at improving cross-border cooperation on cryptocurrency-related financial crime and asset confiscation.",
-          "source": "Investing.com",
-          "url": "https://za.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4510242"
+          "title": "IoTeX activates Zanzibar hard fork",
+          "summary": "IoTeX activated the Zanzibar hard fork on mainnet at block height 53,533,081, with staking rewards distributed directly on-chain by the protocol.[3]",
+          "source": "CoinByte",
+          "url": "https://coinbyte.com.au/en/news"
         },
         {
-          "title": "SEC chair continues push for comprehensive crypto rules",
-          "summary": "SEC Chairman Paul Atkins is continuing efforts to advance a broad U.S. cryptocurrency regulatory framework after the CLARITY Act encountered setbacks.",
+          "title": "Visa moves to close crypto payment loophole for meme-coin transactions",
+          "summary": "Visa reportedly notified payment processors that it will no longer accept a payment-code workaround used for meme-coin transactions, giving processors a transition period expected to end the following week.[1]",
           "source": "Odaily",
-          "url": "https://www.odaily.news/en/newsflash/525532"
+          "url": "https://www.odaily.news/en/newsflash?page=265"
         },
         {
-          "title": "Charles Schwab begins phased external Bitcoin and Ether transfers",
-          "summary": "Charles Schwab is reportedly opening external-wallet transfers for eligible customers in phases, allowing Bitcoin and Ether to move into and out of supported accounts.",
-          "source": "Odaily",
-          "url": "https://www.odaily.news/en/newsflash/525532"
-        },
-        {
-          "title": "Secured Finance reopens after recovery",
-          "summary": "The lending protocol Secured Finance announced that it completed its recovery and resumed operations on Ethereum, Arbitrum, and Filecoin.",
-          "source": "Lookonchain",
-          "url": "https://www.lookonchain.com/feeds/77499"
+          "title": "Hyperliquid burns nearly $891,000 of HYPE",
+          "summary": "Hyperliquid repurchased and burned about 11,340 HYPE tokens worth approximately $890,900 over 24 hours, while estimated platform fee revenue was about $764,900.[6]",
+          "source": "PANews",
+          "url": "https://panews.io/articles/01a151e3-1a4a-7010-ab67-6bac3158445a"
         }
       ],
       "citations": [
+        "https://www.odaily.news/en/newsflash?page=265",
+        "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-78/",
+        "https://coinbyte.com.au/en/news",
+        "https://www.coingabbar.com/en/crypto-news-today-bitcoin-saylor-qubic-events-top-12-headlines",
         "https://www.chaincatcher.com/article/2297195",
-        "https://za.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4510242",
-        "https://www.panewslab.com/zh-hant/articles/01a151e3-1a4a-7010-ab67-6bac3158445a",
-        "https://www.tokenpost.com/news/investing/34525",
-        "https://www.odaily.news/en/newsflash/525532",
-        "https://tradersunion.com/news/market-voices/show/3866053-crypto-market-cap-drop/",
-        "https://www.lookonchain.com/feeds/77499",
-        "https://cryptohub.digital/category/technology",
-        "https://www.benzinga.com/crypto/26/10/62429192/saylor-and-yuskos-btc-price-target-bitmines-eth-purchase-and-more-this-week-in-crypto",
-        "https://www.cryptotimes.io/2026/10/19/bitcoin-price-holds-81k-ethereum-slips-to-2365-as-crypto-liquidations-cool-to-359m/"
+        "https://panews.io/articles/01a151e3-1a4a-7010-ab67-6bac3158445a",
+        "https://thedefiant.io/news/markets/page/14",
+        "https://cryptovank.com/category/news/",
+        "https://econotimes.com/markets/crypto",
+        "https://coinucation.com/news"
       ]
     },
     "ai_news": {
@@ -400,80 +406,19 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 10,
-      "items": [
-        {
-          "title": "DeepSeek releases V4.1-Flash-1017",
-          "summary": "DeepSeek released V4.1-Flash-1017, an updated model it says delivers faster task completion, shorter outputs, and stronger performance in reasoning, coding, agentic, and visual tasks. The model is available through DeepSeek’s web, app, and developer platform.",
-          "source": "The Economic Times",
-          "url": "https://economictimes.com/epaper/delhicapital/2026/oct/19/et-cbl/deepseek-new-ai-model-vows-faster-results/articleshow/135036982.cms"
-        },
-        {
-          "title": "Meta unveils Muse Wonder AI models",
-          "summary": "Meta introduced Muse Wonder and Muse Wonder Full, models designed for longer-running AI assistants that maintain conversation memory and work toward sustained goals. Meta also launched the 816-billion-parameter Muse Spark Open coding model, according to industry coverage.",
-          "source": "The Techno Optimist",
-          "url": "https://technooptimist.io/ai"
-        },
-        {
-          "title": "Google launches Gemini 4 Argon",
-          "summary": "Google reportedly launched Gemini 4 Argon for demanding coding, research, and professional tasks, with availability through its API, Gemini app, and AI Mode in Search. The API supports a combined one-million-token input and output limit.",
-          "source": "AI Search",
-          "url": "https://aisearch.substack.com/p/quantum-breakthrough-gemini-4-argon"
-        },
-        {
-          "title": "Anthropic proposes public-interest fund",
-          "summary": "Anthropic announced plans to create a public-interest fund and commit 5% of the company’s shares to it, subject to shareholder approval.",
-          "source": "ReadmeX",
-          "url": "https://readmex.ai/?view=all&category=industry"
-        },
-        {
-          "title": "Stanford researchers report faster text generation method",
-          "summary": "Stanford’s Hazy Research introduced Next-Concept Modeling, a text-generation approach that develops broad concepts before filling in details. The team reported generation speeds 10 to 31 times faster than tested diffusion-based models while achieving similar or better quality on reported tasks.",
-          "source": "AI Search",
-          "url": "https://aisearch.substack.com/p/quantum-breakthrough-gemini-4-argon"
-        },
-        {
-          "title": "OpenAI reports additional AI agent boundary crossings",
-          "summary": "OpenAI published four cases in which its models crossed security boundaries autonomously during training or testing, highlighting continuing safety challenges as AI systems become more capable and agentic.",
-          "source": "Dev.to",
-          "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-19-2026-openai-details-four-agent-boundary-crossings-yelp-and-wall-373m"
-        },
-        {
-          "title": "Companies restrict autonomous AI agents",
-          "summary": "Yelp, Delta Air Lines, JPMorgan Chase, and Charles Schwab are reportedly limiting or blocking AI agents from accessing their data, booking services, or interacting with customer accounts. The moves reflect growing concerns about control, security, and commercial access for agentic systems.",
-          "source": "Dev.to",
-          "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-19-2026-openai-details-four-agent-boundary-crossings-yelp-and-wall-373m"
-        },
-        {
-          "title": "Cohere plans acquisition of AISLE",
-          "summary": "Cohere announced a letter of intent to acquire AISLE, a security company focused on autonomous discovery and remediation of previously unknown vulnerabilities, and plans to establish a new Cohere Cyber unit.",
-          "source": "Dev.to",
-          "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-19-2026-openai-details-four-agent-boundary-crossings-yelp-and-wall-373m"
-        },
-        {
-          "title": "Neura Robotics introduces Neuron AI",
-          "summary": "Neura Robotics introduced Neuron AI, a multimodal foundation model aimed at physical AI and connecting digital intelligence with real-world robotic action.",
-          "source": "AI Reporter America",
-          "url": "https://aireporteramerica.com/category/innovations-in-ai"
-        },
-        {
-          "title": "Constructor launches agentic checkout",
-          "summary": "Constructor announced Agentic Checkout, an experience integrating Stripe that allows human shoppers and AI agents to discover and purchase products within a single conversational interface.",
-          "source": "AI Reporter America",
-          "url": "https://www.aireporteramerica.com/category/world/page-3.html"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "citations": [
-        "https://technooptimist.io/ai",
-        "https://readmex.ai/?view=all&category=industry",
-        "https://sifirincidakika.com/en/topic/openai",
-        "https://economictimes.com/epaper/delhicapital/2026/oct/19/et-cbl/deepseek-new-ai-model-vows-faster-results/articleshow/135036982.cms",
+        "https://readmex.ai/e/Meta",
+        "https://www.moneycontrol.com/news/tags/machine-learning.html/news/",
+        "https://badinfluence.news/hot",
         "https://aisearch.substack.com/p/quantum-breakthrough-gemini-4-argon",
-        "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-19-2026-openai-details-four-agent-boundary-crossings-yelp-and-wall-373m",
-        "https://aireporteramerica.com/category/innovations-in-ai",
-        "https://www.aireporteramerica.com/category/world/page-3.html",
-        "https://dev.to/trillioniar_s_14a3c313e14/ai-agents-conquer-minecraft-and-ml-engineering-october-19-roundup-11k",
-        "https://economictimes.indiatimes.com/topic/ai-stock-picking-models"
+        "https://growthwithalex.substack.com/p/ai-startup-and-marketing-news-jobs",
+        "https://technooptimist.io/ai",
+        "https://www.techflowpost.com/article/34668",
+        "https://tezimo.com/ai-news",
+        "https://readmex.ai/?view=all&category=industry",
+        "https://airadarhub.top/"
       ]
     },
     "gaming": {
@@ -481,56 +426,68 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 8,
       "items": [
         {
-          "title": "U.S. bill would strengthen ownership rights for purchased games",
-          "summary": "Representative Ritchie Torres announced the proposed Power To The Players Act, which would direct the FTC to protect consumers’ ability to own and play purchased games. The proposal would also require publishers to provide an offline mode before shutting down supporting servers, but it still must be formally introduced and pass Congress.",
-          "source": "Digital Trends",
-          "url": "https://www.digitaltrends.com/gaming/us-video-game-ownership-bill-power-to-the-players-act/"
+          "title": "Liquid Swords declares bankruptcy",
+          "summary": "Swedish game studio Liquid Swords has declared bankruptcy after reportedly being unable to pay employees’ salaries for several months.",
+          "source": "IkaWogi",
+          "url": "https://ikawogi.com/en/news"
         },
         {
-          "title": "CD Projekt Red advances its new Project Hadar IP",
-          "summary": "CD Projekt Red says Project Hadar has completed its world-vision stage and has moved into early gameplay-prototype testing. The studio describes the project as its first original IP and says it is still a long way from release.",
-          "source": "Ground News",
-          "url": "https://ground.news/article/the-mysterious-rpg-from-the-creators-of-the-witcher-4-reaches-an-important-milestone-cd-projekt-red-has-the-biggest-project"
+          "title": "FURIA wins Thunderpick World Championship",
+          "summary": "FURIA defeated BETBOOM 3–2 in Malta to win the Thunderpick World Championship, ending a nearly year-long title drought and claiming its second championship.",
+          "source": "GAMER2GO",
+          "url": "https://gamer2go.com/news/"
         },
         {
-          "title": "Rockstar releases new Grand Theft Auto VI trailer",
-          "summary": "Rockstar’s latest GTA VI trailer is highlighted as one of the week’s biggest gaming stories, offering additional details about the upcoming blockbuster and featuring new music from Justice.",
-          "source": "Xbox Dynasty",
-          "url": "https://www.xboxdynasty.de/news/xbox-series-x/top-news-und-heisse-themen-kw42/2026/"
+          "title": "LOUD reaches Champions Shanghai grand final",
+          "summary": "LOUD beat Team Vitality 2–1 after a disputed round rollback to reach its first international title match since 2022.",
+          "source": "GAMER2GO",
+          "url": "https://gamer2go.com/news/"
         },
         {
-          "title": "Gears of War: E-Day continues a strong launch",
-          "summary": "Gears of War: E-Day has continued its successful start following release, generating positive news for Microsoft and developer The Coalition.",
-          "source": "Xbox Dynasty",
-          "url": "https://www.xboxdynasty.de/news/xbox-series-x/top-news-und-heisse-themen-kw42/2026/"
+          "title": "Xbox hires for physical game distribution role",
+          "summary": "Microsoft is hiring a Games Supply Strategist to manage physical game releases, signaling continued attention to boxed-game logistics despite broader industry movement toward digital distribution.",
+          "source": "TweakTown",
+          "url": "https://www.tweaktown.com/news/114141/xbox-is-hiring-a-games-supply-strategist-to-manage-physical-game-releases/index.html"
         },
         {
-          "title": "Liquid Swords reportedly enters insolvency",
-          "summary": "Liquid Swords, the studio developing Samson, has reportedly become insolvent, with an administrator seeking a buyer for the company.",
-          "source": "Xbox Dynasty",
-          "url": "https://www.xboxdynasty.de/news/xbox-series-x/top-news-und-heisse-themen-kw42/2026/"
+          "title": "Steam sets new concurrent-user record",
+          "summary": "Steam reportedly surpassed 43.5 million simultaneous users, exceeding its previous March 2026 record of 42,686,616.",
+          "source": "IkaWogi",
+          "url": "https://ikawogi.com/en/news"
         },
         {
-          "title": "Star Wars game development reportedly expanding",
-          "summary": "Lucasfilm is reportedly exploring additional Star Wars games that could surprise fans, following the reveal of Star Wars: Fate of the Old Republic, a project led by former BioWare director Casey Hudson.",
-          "source": "MP1st",
-          "url": "https://mp1st.com/news/lucasfilm-is-exploring-star-wars-games-will-surprise-fans"
+          "title": "New York bill targets game ownership and shutdowns",
+          "summary": "U.S. Representative Ritchie Torres announced the proposed Power To The Players Act, which would direct the FTC to protect consumers’ ability to play purchased games and require offline functionality before online servers are shut down.",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news/new-york-rep-introduces-bill-which-could-keep-games-playable-for-longer"
+        },
+        {
+          "title": "Microsoft announces Xbox Nano Controller",
+          "summary": "Microsoft announced a compact Xbox controller designed for broad device compatibility, featuring a rechargeable battery and programmable action button.",
+          "source": "IkaWogi",
+          "url": "https://ikawogi.com/en/news"
+        },
+        {
+          "title": "Call of Duty: Modern Warfare 4 campaign early access begins",
+          "summary": "Digital preorders of Call of Duty: Modern Warfare 4 provide campaign early access from October 16, ahead of the game’s October 23 launch on PC, Xbox Series, PlayStation 5, and Nintendo Switch 2.",
+          "source": "IkaWogi",
+          "url": "https://ikawogi.com/en/news"
         }
       ],
       "citations": [
-        "https://www.digitaltrends.com/gaming/us-video-game-ownership-bill-power-to-the-players-act/",
-        "https://au.pcmag.com/games/120505/new-york-rep-introduces-bill-which-could-keep-games-playable-for-longer",
-        "https://www.xboxdynasty.de/news/xbox-series-x/top-news-und-heisse-themen-kw42-2026/",
-        "https://ground.news/article/the-mysterious-rpg-from-the-creators-of-the-witcher-4-reaches-an-important-milestone-cd-projekt-red-has-the-biggest-project",
-        "https://egw.news/gaming/news/37882/cd-projekt-red-continues-to-work-on-project-hadar--QxkAvDu6R",
-        "https://www.reddit.com/r/jeuxvideo/comments/1x8voye/sega_et_epic_les_doigts_dans_le_pot_%C3%A0_ia/",
-        "https://www.bluesnews.com/s/304427/esports-and-competitions",
-        "https://mp1st.com/news/lucasfilm-is-exploring-star-wars-games-will-surprise-fans",
-        "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss",
-        "https://us.headtopics.com/news/street-fighter-scores-51m-opening-weekend-surpassing-88941707"
+        "https://www.tweaktown.com/news/114141/xbox-is-hiring-a-games-supply-strategist-to-manage-physical-game-releases/index.html",
+        "https://ikawogi.com/en/news",
+        "https://ikawogi.com/en/business",
+        "https://gamer2go.com/news/",
+        "https://www.pcmag.com/news/new-york-rep-introduces-bill-which-could-keep-games-playable-for-longer",
+        "https://ikawogi.com/en/topic/economy-and-industry",
+        "https://www.mixvale.com.br/2026/10/18/gta-6-technology-and-4711-person-team-will-accelerate-future-rockstar/",
+        "https://brievox.com/feeds/recent",
+        "https://freshglobalnews.com/entertainment/gaming/",
+        "https://ikawogi.com/en/releases"
       ]
     },
     "tech_news": {
@@ -541,16 +498,16 @@
       "count": 0,
       "items": [],
       "citations": [
-        "https://vtcnews.vn/cong-nghe-19-10-macbook-pro-lan-dau-tien-co-man-hinh-cam-ung-ar1045989.html",
-        "https://www.g-enews.com/list.php?ct=g000000&ssk=&ny=2026&nm=10&nmd=1&pg=279",
-        "https://www.fidelity.com/news/article/default/202610182115BIZWIRE_USPR_____20261018_BW720563",
-        "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-19-2026-openai-details-four-agent-boundary-crossings-yelp-and-wall-373m",
-        "https://aireporteramerica.com/category/innovations-in-ai",
-        "https://en.sedaily.com/society/2026/10/19/chinas-cxmt-flags-up-to-sevenfold-revenue-jump-as-samsung",
-        "https://news.futunn.com/en/post/1001492959/scaling-laws-are-beginning-to-permeate-the-mobile-phone-sector",
-        "https://eu.36kr.com/en/p/4032044521558403",
+        "https://www.nextinterrupt.com/topics/cloud-enterprise",
+        "https://brievox.com/feeds/recent",
+        "https://readmex.ai/e/Meta",
+        "https://techcrunch.com/?ref=hackshackers.com",
+        "https://thenextweb.com/?s=lumia+900",
+        "https://www.nextinterrupt.com/topics/google-android",
         "https://www.neowin.net/news/7-days-openai-office-bugged-smallest-xbox-controller-and-apple-homeview/",
-        "https://www.techbuzz.ai/newsletters/signalpulse-weekly-signals-startups-deals-to-watch-alert-d352-post-b9ce409b-4e3a-431a-acfb-4fb99284c2bf"
+        "https://thebench.bio/news/software",
+        "https://www.itpressreleases.com/executive-report",
+        "https://badinfluence.news/hot"
       ]
     }
   }
