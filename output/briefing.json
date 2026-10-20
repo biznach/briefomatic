@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T16:19:10.985215+00:00",
-  "generated_at_human": "2026-10-20 16:19 UTC",
+  "generated_at": "2026-10-20T21:13:03.451163+00:00",
+  "generated_at_human": "2026-10-20 21:13 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,88 +8,142 @@
       "count": 25,
       "items": [
         {
-          "title": "Facebook now charging to post more than 2 links a month",
-          "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-          "score": 191,
-          "comments": 91
+          "title": "SimCity, but with Permits",
+          "url": "https://permit.petercai.com/",
+          "score": 303,
+          "comments": 149
         },
         {
-          "title": "DeepSeek just open-sourced its inference engine",
+          "title": "Voxtral 3",
+          "url": "https://mistral.ai/news/voxtral-3/",
+          "score": 418,
+          "comments": 113
+        },
+        {
+          "title": "DeepInfer: High-performance inference framework for DeepSeek models",
           "url": "https://github.com/deepseek-ai/DeepInfer",
-          "score": 1637,
-          "comments": 595
+          "score": 2016,
+          "comments": 787
         },
         {
-          "title": "EMudhra Intermediate CA Compromise",
-          "url": "https://emudhra.we-have-a-problem.com/",
-          "score": 146,
-          "comments": 55
+          "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+          "url": "https://github.com/google-pytorch/torch_tpu",
+          "score": 195,
+          "comments": 47
+        },
+        {
+          "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+          "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+          "score": 87,
+          "comments": 30
+        },
+        {
+          "title": "What shall I teach my son?",
+          "url": "https://stevekrouse.com/ends",
+          "score": 121,
+          "comments": 212
+        },
+        {
+          "title": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
+          "url": "https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
+          "score": 9,
+          "comments": 2
         },
         {
           "title": "Apple broke an essential presentation feature of iPads",
           "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-          "score": 243,
-          "comments": 129
+          "score": 415,
+          "comments": 229
+        },
+        {
+          "title": "On AI writing",
+          "url": "https://www.bolkunov.com/p/on-ai-writing",
+          "score": 39,
+          "comments": 8
+        },
+        {
+          "title": "Ofcom concedes defeat in 4chan case",
+          "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+          "score": 263,
+          "comments": 167
+        },
+        {
+          "title": "EMudhra Intermediate CA Compromise",
+          "url": "https://emudhra.we-have-a-problem.com/",
+          "score": 460,
+          "comments": 249
+        },
+        {
+          "title": "Tsrs: A Port of TypeScript to Rust",
+          "url": "https://blog.cloudflare.com/typescript-rust-port/",
+          "score": 283,
+          "comments": 135
+        },
+        {
+          "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+          "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+          "score": 95,
+          "comments": 47
         },
         {
           "title": "How I got over 300 Tor exit nodes removed",
           "url": "https://kaba.cx/posts/20261020_Tor/",
-          "score": 106,
-          "comments": 30
+          "score": 266,
+          "comments": 63
         },
         {
-          "title": "Publish fake stats, get cited in LLMs",
-          "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-          "score": 155,
-          "comments": 84
+          "title": "Jepsen: Orkes Conductor 5.3.2",
+          "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+          "score": 41,
+          "comments": 0
         },
         {
-          "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
-          "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
-          "score": 27,
-          "comments": 6
+          "title": "IKEA – 3D Guide",
+          "url": "https://sael.net/flatpack/",
+          "score": 105,
+          "comments": 29
+        },
+        {
+          "title": "Claude designed protein binders against scorpion neurotoxins",
+          "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+          "score": 51,
+          "comments": 22
+        },
+        {
+          "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+          "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+          "score": 270,
+          "comments": 138
+        },
+        {
+          "title": "Meta's GB{2,3}00 Cluster",
+          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+          "score": 12,
+          "comments": 0
+        },
+        {
+          "title": "JAXA is about to perform a Phobos sample return mission",
+          "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+          "score": 68,
+          "comments": 11
+        },
+        {
+          "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+          "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+          "score": 76,
+          "comments": 46
+        },
+        {
+          "title": "Facebook Pages require paid subscription to post more than two links per month",
+          "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+          "score": 375,
+          "comments": 325
         },
         {
           "title": "My Friend Bob Cringely",
           "url": "https://tyma.com/my-cringe-story/",
-          "score": 65,
-          "comments": 23
-        },
-        {
-          "title": "2026 is an exciting year for the Rust compiler (and me)",
-          "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-          "score": 45,
-          "comments": 5
-        },
-        {
-          "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-          "url": "https://jevcards.com",
-          "score": 19,
-          "comments": 6
-        },
-        {
-          "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-          "url": "https://news.ycombinator.com/item?id=50167583",
-          "score": 14,
-          "comments": 6
-        },
-        {
-          "title": "Why do we have so many meetings?",
-          "url": "https://www.nber.org/papers/w35706",
-          "score": 26,
-          "comments": 23
-        },
-        {
-          "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-          "url": "https://github.com/microg/GmsCore/wiki",
-          "score": 274,
-          "comments": 34
-        },
-        {
-          "title": "Ofcom Concedes Defeat in the 4chan Case",
-          "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-          "score": 87,
-          "comments": 50
+          "score": 138,
+          "comments": 37
         },
         {
           "title": "Hazel (YC W24) Is Hiring",
@@ -98,64 +152,10 @@
           "comments": 0
         },
         {
-          "title": "UI-Te-Rangiora",
-          "url": "https://en.wikipedia.org/wiki/Ui-te-Rangiora",
-          "score": 11,
-          "comments": 1
-        },
-        {
-          "title": "Nordwand Mono – A monospace font for coders and adventurers",
-          "url": "https://github.com/tywr/Nordwand-Mono",
-          "score": 464,
-          "comments": 128
-        },
-        {
-          "title": "24x faster Rust compilation with rust-analyzer",
-          "url": "https://github.com/indexable-inc/ra-jit",
-          "score": 9,
-          "comments": 0
-        },
-        {
-          "title": "Show HN: Run Claude Code unattended inside a fence, under a dollar budget",
-          "url": "https://github.com/metahumansworld/SIwithin",
-          "score": 6,
-          "comments": 2
-        },
-        {
-          "title": "Tsrs: A Port of TypeScript to Rust",
-          "url": "https://blog.cloudflare.com/typescript-rust-port/",
-          "score": 117,
-          "comments": 67
-        },
-        {
-          "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-          "score": 664,
-          "comments": 185
-        },
-        {
-          "title": "OpenBSD 8.0",
-          "url": "https://www.openbsd.org/80.html",
-          "score": 420,
-          "comments": 134
-        },
-        {
-          "title": "Voxtral 3",
-          "url": "https://mistral.ai/news/voxtral-3/",
-          "score": 4,
-          "comments": 0
-        },
-        {
-          "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-          "url": "https://github.com/AbdullahAlhariri/penmentor",
-          "score": 11,
-          "comments": 1
-        },
-        {
-          "title": "Making a VGA Driver in SystemVerilog",
-          "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
-          "score": 4,
-          "comments": 0
+          "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+          "url": "https://news.ycombinator.com/item?id=50167583",
+          "score": 32,
+          "comments": 14
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 82353,
-          "change_24h": 0.45,
-          "change_7d": -1.16,
-          "market_cap": 1655190691000
+          "price": 82822,
+          "change_24h": 1.0,
+          "change_7d": -0.56,
+          "market_cap": 1664640328709
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2432.67,
-          "change_24h": 1.3,
-          "change_7d": -3.12,
-          "market_cap": 297154084185
+          "price": 2450.42,
+          "change_24h": 2.02,
+          "change_7d": -2.39,
+          "market_cap": 299320236328
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 105.53,
-          "change_24h": 0.89,
-          "change_7d": -1.63,
-          "market_cap": 62217197577
+          "price": 106.66,
+          "change_24h": 1.92,
+          "change_7d": -0.75,
+          "market_cap": 62880771562
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.080426,
-          "change_24h": 1.38,
-          "change_7d": -4.82,
-          "market_cap": 12578437726
+          "price": 0.081755,
+          "change_24h": 2.97,
+          "change_7d": -3.1,
+          "market_cap": 12786123196
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.220859,
-          "change_24h": 1.38,
-          "change_7d": -6.21,
-          "market_cap": 8295349952
+          "price": 0.2235,
+          "change_24h": 2.87,
+          "change_7d": -5.65,
+          "market_cap": 8394342881
         }
       ]
     },
@@ -217,49 +217,49 @@
           "market_cap_rank": 91
         },
         {
-          "name": "Aerodrome Finance",
-          "symbol": "AERO",
-          "market_cap_rank": 85
-        },
-        {
-          "name": "Worldcoin",
-          "symbol": "WLD",
-          "market_cap_rank": 49
-        },
-        {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "market_cap_rank": 1
-        },
-        {
-          "name": "NEAR Protocol",
-          "symbol": "NEAR",
-          "market_cap_rank": 20
-        },
-        {
-          "name": "Quantus",
-          "symbol": "QTC",
-          "market_cap_rank": 735
-        },
-        {
-          "name": "Janction",
-          "symbol": "JCT",
-          "market_cap_rank": 430
-        },
-        {
-          "name": "Solana",
-          "symbol": "SOL",
-          "market_cap_rank": 7
+          "name": "Pepe",
+          "symbol": "PEPE",
+          "market_cap_rank": 53
         },
         {
           "name": "Collector Crypt",
           "symbol": "CARDS",
-          "market_cap_rank": 148
+          "market_cap_rank": 138
         },
         {
-          "name": "Injective",
-          "symbol": "INJ",
-          "market_cap_rank": 84
+          "name": "Quantus",
+          "symbol": "QTC",
+          "market_cap_rank": 723
+        },
+        {
+          "name": "Pudgy Penguins",
+          "symbol": "PENGU",
+          "market_cap_rank": 114
+        },
+        {
+          "name": "Monero",
+          "symbol": "XMR",
+          "market_cap_rank": 13
+        },
+        {
+          "name": "Grass",
+          "symbol": "GRASS",
+          "market_cap_rank": 124
+        },
+        {
+          "name": "Quant",
+          "symbol": "QNT",
+          "market_cap_rank": 38
+        },
+        {
+          "name": "Worldcoin",
+          "symbol": "WLD",
+          "market_cap_rank": 47
+        },
+        {
+          "name": "Pyth Network",
+          "symbol": "PYTH",
+          "market_cap_rank": 100
         }
       ]
     },
@@ -271,71 +271,71 @@
       "count": 9,
       "items": [
         {
-          "title": "U.S. stocks edge lower near record highs",
-          "summary": "The S&P 500 fell less than 0.1%, the Dow Jones Industrial Average dropped 0.3%, and the Nasdaq Composite declined 0.2% as investors assessed the first major batch of summer earnings reports.[3]",
-          "source": "Associated Press",
-          "url": "https://www.marshallindependent.com/news/national-news-apwire/2026/10/us-stocks-edge-back-from-their-record-following-the-first-big-batch-of-profit-reports-for-the-summer/"
+          "title": "U.S. stocks rise as Dow gains about 1%",
+          "summary": "U.S. stocks advanced Tuesday, led by the Dow, which rose about 1% to 52,485.50. The S&P 500 gained 0.4% and the Nasdaq Composite rose 0.2% as investors rotated toward healthcare and value shares.[3]",
+          "source": "Reuters via Fidelity",
+          "url": "https://www.fidelity.com/news/article/us-markets/202610201453RTRSNEWSCOMBINED_L6N46614S_1"
         },
         {
-          "title": "European shares fall as oil reaches five-month high",
-          "summary": "The STOXX 600 declined 0.6% for a second consecutive session, with European semiconductor stocks including ASML and ASMI falling more than 3%. Brent crude rose above $110 a barrel amid geopolitical supply concerns.[4]",
-          "source": "Reuters",
+          "title": "Oil prices remain elevated amid geopolitical risks",
+          "summary": "Brent crude climbed above $110 a barrel, a five-month high, as Middle East violence and uncertainty over possible U.S. sanctions relief for Russian energy exports raised supply concerns.[4][5]",
+          "source": "Reuters via Fidelity",
+          "url": "https://www.fidelity.com/news/article/international/202610200518RTRSNEWSCOMBINED_L1N46605X_1"
+        },
+        {
+          "title": "European and Asian shares retreat",
+          "summary": "European shares fell for a second consecutive session, with the STOXX 600 down 0.6%, while Asian markets broadly declined as higher oil prices pressured risk sentiment and investors awaited major technology earnings.[4][5]",
+          "source": "Reuters via Fidelity",
           "url": "https://www.fidelity.com/news/article/international/202610200518RTRSNEWSCOMBINED_L1N46605X_1"
         },
         {
           "title": "Fed seen in no rush to raise rates",
-          "summary": "Recent comments from Federal Reserve officials, including Chair Kevin Warsh, indicated policymakers are not rushing to resume rate hikes, even as elevated oil prices increase inflation pressure.[1]",
-          "source": "Reuters",
+          "summary": "Recent comments from Federal Reserve officials, including Chair Kevin Warsh, indicated that policymakers are not in a hurry to raise interest rates again, despite inflation risks from higher energy prices.[2][5]",
+          "source": "Reuters via Fidelity",
           "url": "https://www.fidelity.com/news/article/international/202610200037RTRSNEWSCOMBINED_KBN3W00BE-OUSBS_1"
         },
         {
-          "title": "Central-bank officials scheduled to speak",
-          "summary": "ECB policymakers Martin Kocher and Olli Rehn, along with Bank of England policymaker Megan Greene, were due to speak as markets assessed the outlook for interest rates amid higher energy prices.[4]",
-          "source": "Reuters",
-          "url": "https://www.fidelity.com/news/article/international/202610200518RTRSNEWSCOMBINED_L1N46605X_1"
+          "title": "People’s Bank of China leaves lending rates unchanged",
+          "summary": "The PBOC kept the one-year Loan Prime Rate at 3.00% and the five-year rate at 3.50%, matching expectations and signaling no change in near-term monetary policy.[8]",
+          "source": "XTB",
+          "url": "https://www.xtb.com/en/market-analysis/macro-calendar-uk-labor-market-zew-sentiment-and-wall-street-giants-reports"
         },
         {
-          "title": "Oil prices rise on geopolitical and sanctions uncertainty",
-          "summary": "Crude prices resumed their climb as uncertainty over potential U.S. sanctions relief for Russian energy exports and renewed Middle East violence heightened concerns about supply disruptions.[1]",
-          "source": "Reuters",
+          "title": "Netflix and SpaceX earnings in focus",
+          "summary": "Investors awaited quarterly results from Netflix and SpaceX after the close. Netflix was expected to report slower third-quarter revenue growth, while SpaceX was forecast to post $12.74 billion in quarterly revenue.[2][5]",
+          "source": "Reuters via Fidelity",
           "url": "https://www.fidelity.com/news/article/international/202610200037RTRSNEWSCOMBINED_KBN3W00BE-OUSBS_1"
         },
         {
-          "title": "Earnings focus turns to Netflix, SpaceX and industrial companies",
-          "summary": "Netflix and SpaceX were scheduled to report quarterly results, with investors expecting slower Netflix revenue growth and approximately $12.74 billion in quarterly revenue from SpaceX. General Motors, RTX, General Electric, 3M and Hasbro were also on the earnings calendar.[2]",
-          "source": "Reuters",
-          "url": "https://www.fidelity.com/news/article/international/202610200036RTRSNEWSCOMBINED_L4N46608F_1"
+          "title": "GM shares fall after outlook signals pressure",
+          "summary": "General Motors shares dropped more than 8% after the automaker warned of pressure from higher commodity costs and weaker truck sales.[3]",
+          "source": "Reuters via Fidelity",
+          "url": "https://www.fidelity.com/news/article/us-markets/202610201453RTRSNEWSCOMBINED_L6N46614S_1"
         },
         {
-          "title": "Bumble agrees to $1.3 billion buyout",
-          "summary": "Bumble shares surged 56.6% after the dating-app company announced an all-cash acquisition by Ithaca Holdings valued at $1.3 billion.[3]",
-          "source": "Associated Press",
-          "url": "https://www.marshallindependent.com/news/national-news-apwire/2026/10/us-stocks-edge-back-from-their-record-following-the-first-big-batch-of-profit-reports-for-the-summer/"
+          "title": "3M raises outlook and expands Amazon data-center partnership",
+          "summary": "3M shares gained 5.9% after the company raised its full-year profit forecast and expanded its data-center partnership with Amazon, including a warrant valued at more than $521 million.[3]",
+          "source": "Reuters via Fidelity",
+          "url": "https://www.fidelity.com/news/article/us-markets/202610201453RTRSNEWSCOMBINED_L6N46614S_1"
         },
         {
-          "title": "UnitedHealth raises 2026 profit outlook",
-          "summary": "UnitedHealth reported quarterly profit and revenue above analyst expectations and raised its full-year 2026 profit forecast, although its shares traded sharply during the session.[3]",
-          "source": "Associated Press",
-          "url": "https://www.marshallindependent.com/news/national-news-apwire/2026/10/us-stocks-edge-back-from-their-record-following-the-first-big-batch-of-profit-reports-for-the-summer/"
-        },
-        {
-          "title": "JPMorgan shares fall despite stronger interest-income outlook",
-          "summary": "JPMorgan shares declined 0.9% after quarterly profit missed expectations, despite the bank forecasting current-quarter net interest income above Wall Street estimates.[3]",
-          "source": "Associated Press",
-          "url": "https://www.marshallindependent.com/news/national-news-apwire/2026/10/us-stocks-edge-back-from-their-record-following-the-first-big-batch-of-profit-reports-for-the-summer/"
+          "title": "OpenAI reportedly seeks $30 billion in funding",
+          "summary": "Reports that OpenAI is seeking approximately $30 billion in new funding added to investor focus on the scale and financing of artificial-intelligence investment.[7]",
+          "source": "Finviz",
+          "url": "https://finviz.com/news/404322/us-stock-futures-mixed-ahead-of-netflix-earnings-and-reported-30-billion-openai-fundraising-dow-jones-nasdaq-wall-street"
         }
       ],
       "citations": [
+        "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10202026-12183813",
         "https://www.fidelity.com/news/article/international/202610200037RTRSNEWSCOMBINED_KBN3W00BE-OUSBS_1",
-        "https://www.fidelity.com/news/article/international/202610200036RTRSNEWSCOMBINED_L4N46608F_1",
-        "https://www.marshallindependent.com/news/national-news-apwire/2026/10/us-stocks-edge-back-from-their-record-following-the-first-big-batch-of-profit-reports-for-the-summer/",
+        "https://www.fidelity.com/news/article/us-markets/202610201453RTRSNEWSCOMBINED_L6N46614S_1",
         "https://www.fidelity.com/news/article/international/202610200518RTRSNEWSCOMBINED_L1N46605X_1",
-        "https://investinglive.com/news/what-are-the-main-events-for-today-67/",
-        "https://news.futunn.com/en/post/1001573653/us-stock-market-closing-ai-trading-rebounds-with-the-nasdaq",
-        "https://www.piplix.com/news?category=macro",
-        "https://www.rttnews.com/content/business.aspx?id=38510",
         "https://www.fidelity.com/news/article/default/202610200102RTRSNEWSCOMBINED_L6N466068_1",
-        "https://investinglive.com/cms/stocks/"
+        "https://www.fidelity.com/news/article/international/202610200036RTRSNEWSCOMBINED_L4N46608F_1",
+        "https://finviz.com/news/404322/us-stock-futures-mixed-ahead-of-netflix-earnings-and-reported-30-billion-openai-fundraising-dow-jones-sp-nasdaq-wall-street",
+        "https://www.xtb.com/en/market-analysis/macro-calendar-uk-labor-market-zew-sentiment-and-wall-street-giants-reports",
+        "https://www.piplix.com/news?category=macro",
+        "https://www.rttnews.com/content/business.aspx?id=38510"
       ]
     },
     "crypto_news": {
@@ -343,74 +343,68 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 9,
+      "count": 8,
       "items": [
         {
-          "title": "Bitcoin falls about 1% as crypto market declines",
-          "summary": "Bitcoin dropped to approximately $81,500 over 24 hours, while the total cryptocurrency market fell 1.4% to about $2.72 trillion. Near Protocol, Uniswap and Avalanche were among the weaker major altcoins, while Basic Attention Token and Theta outperformed.",
-          "source": "FXStreet",
-          "url": "https://www.fxstreet.com/cryptocurrencies/news/the-crypto-market-is-holding-just-below-a-key-level-202610201241"
+          "title": "Bitcoin rebounds above $82,000 as crypto ETFs see mixed flows",
+          "summary": "Bitcoin briefly reached $83,000 and traded around $82,000 as spot Bitcoin ETFs recorded approximately $526.6 million in net inflows. Spot Ethereum ETFs posted about $103.3 million in net outflows, while roughly $299.9 million in crypto positions were liquidated over 24 hours.",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62481284/bitcoin-at-82000-eth-xrp-dogecoin-jump-3-on-growing-etf-flows"
+        },
+        {
+          "title": "CFTC advances voluntary framework for crypto platforms",
+          "summary": "The CFTC is advancing Reg CAM, a proposed framework intended to let crypto trading platforms voluntarily enter a unified nationwide regulatory regime after the Clarity Act stalled in Congress.",
+          "source": "ChainCatcher",
+          "url": "https://www.chaincatcher.com/en/article/2297431"
+        },
+        {
+          "title": "EU adds nine crypto service providers under MiCA",
+          "summary": "ESMA added nine crypto-asset service providers to its MiCA registration list, bringing the reported total to 375 registered providers across the European Union.",
+          "source": "ChainCatcher",
+          "url": "https://www.chaincatcher.com/en/article/2297431"
         },
         {
           "title": "JPMorgan expands JPM Coin to Ethereum",
-          "summary": "JPMorgan is expanding its JPM Coin bank-deposit token to Ethereum, enabling approved institutional clients to transfer dollar deposits and settle eligible digital-asset transactions around the clock.",
-          "source": "Independent Reserve",
-          "url": "https://www.independentreserve.com/blog/market-update/btc-us82k-ir-named-finalist-for-six-digis-awards"
-        },
-        {
-          "title": "ASIC proposes new crypto-platform rules",
-          "summary": "Australia’s ASIC opened consultation on proposed capital, custody and trading requirements for crypto platforms. The proposals include limits on proprietary trading, quarterly customer-asset wallet reporting and new capital-model options, with the regime expected to begin in April 2027.",
-          "source": "Independent Reserve",
-          "url": "https://www.independentreserve.com/blog/market-update/btc-us82k-ir-named-finalist-for-six-digis-awards"
-        },
-        {
-          "title": "Strive adds 4,045 Bitcoin to corporate holdings",
-          "summary": "Strive purchased 4,045 BTC for roughly $335 million at an average price near $82,803, bringing its reserves to 36,818 BTC and making it the fourth-largest public-company Bitcoin holder, according to the report.",
-          "source": "FXStreet",
-          "url": "https://www.fxstreet.com/cryptocurrencies/news/the-crypto-market-is-holding-just-below-a-key-level-202610201241"
-        },
-        {
-          "title": "Ethereum Glamsterdam upgrade advances on Hoodi testnet",
-          "summary": "Ethereum’s Glamsterdam upgrade is scheduled to activate on the Hoodi testnet on October 26. The upgrade includes enshrined proposer-builder separation, block-level access lists and revised gas accounting, with the gas limit set to rise to 200 million.",
+          "summary": "JPMorgan Asset Management is expanding JPM Coin to Ethereum, allowing approved institutional clients to transfer dollar deposits and settle eligible digital-asset transactions on the network.",
           "source": "SignalPlus",
           "url": "https://t.signalplus.com/crypto-news/trending-24h"
         },
         {
-          "title": "Solana prepares Alpenglow consensus upgrade",
-          "summary": "Solana’s Alpenglow upgrade is expected to replace its existing validator voting system and target finality of about 150 milliseconds, compared with roughly 12.8 seconds under the current system.",
-          "source": "Independent Reserve",
-          "url": "https://www.independentreserve.com/blog/market-update/btc-us82k-ir-named-finalist-for-six-digis-awards"
+          "title": "Ethereum Glamsterdam upgrade scheduled for Hoodi testnet",
+          "summary": "Ethereum’s Glamsterdam upgrade is scheduled to activate on the Hoodi testnet on October 26. Planned changes include enshrined proposer-builder separation, block-level access lists and revised gas accounting, with the Hoodi gas limit set to rise to 200 million.",
+          "source": "SignalPlus",
+          "url": "https://t.signalplus.com/crypto-news/trending-24h"
         },
         {
           "title": "Qubic halts mainnet after wallet drain",
-          "summary": "Qubic halted its mainnet after a wallet-drain incident affected 1,404 accounts, making the security incident one of the day’s notable blockchain-project developments.",
+          "summary": "Qubic halted its mainnet following a reported wallet-drain incident affecting 1,404 accounts. The event was reported alongside broader blockchain developments including Pump.fun’s launch of perpetual futures trading through Hyperliquid.",
           "source": "Tekedia",
           "url": "https://www.tekedia.com/yuga-labs-launches-mudwater-as-qubic-halts-mainnet-and-pump-fun-expands-into-perpetual-futures/"
         },
         {
-          "title": "Pump.fun expands into perpetual futures",
-          "summary": "Pump.fun introduced perpetual-futures trading powered by Hyperliquid, reflecting the continued expansion of decentralized derivatives products.",
+          "title": "Yuga Labs launches Mudwater physical and Solana NFT collection",
+          "summary": "Yuga Labs launched Mudwater, a collection of physical Bored Ape Yacht Club cards paired with on-chain non-fungible tokens on Solana.",
           "source": "Tekedia",
           "url": "https://www.tekedia.com/yuga-labs-launches-mudwater-as-qubic-halts-mainnet-and-pump-fun-expands-into-perpetual-futures/"
         },
         {
-          "title": "Yuga Labs launches Mudwater collectibles",
-          "summary": "Yuga Labs launched Mudwater, a collection of physical Bored Ape Yacht Club cards paired with on-chain Solana NFTs.",
-          "source": "Tekedia",
-          "url": "https://www.tekedia.com/yuga-labs-launches-mudwater-as-qubic-halts-mainnet-and-pump-fun-expands-into-perpetual-futures/"
+          "title": "Crypto lending vault deposits surpass $10 billion",
+          "summary": "Deposits in crypto lending vaults reportedly exceeded $10 billion, up from about $4 billion at the beginning of last year, highlighting increased demand for yield-oriented digital-asset strategies.",
+          "source": "ChainCatcher",
+          "url": "https://www.chaincatcher.com/en/article/2297431"
         }
       ],
       "citations": [
+        "https://www.chaincatcher.com/en/article/2297431",
+        "https://www.benzinga.com/crypto/cryptocurrency/26/10/62481284/bitcoin-at-82000-eth-xrp-dogecoin-jump-3-on-growing-etf-flows",
         "https://t.signalplus.com/crypto-news/trending-24h",
-        "https://www.tokenpost.com/?rdUrl=/news/regulation/22489",
-        "https://www.independentreserve.com/blog/market-update/btc-us82k-ir-named-finalist-for-six-digis-awards",
         "https://www.tekedia.com/yuga-labs-launches-mudwater-as-qubic-halts-mainnet-and-pump-fun-expands-into-perpetual-futures/",
-        "https://multikhabar.com/crypto",
         "https://tokennewsnetwork.com/launches",
-        "https://podcasts.apple.com/de/podcast/podcast/id1718387588/episodes?l=en",
-        "https://www.tokenpost.com/?rdUrl=/news/technology/23065",
-        "https://crypto.news/?referrer=www.coinrithm.com/de/kryptowahrungen/epic-chain",
-        "https://www.fxstreet.com/cryptocurrencies/news/the-crypto-market-is-holding-just-below-a-key-level-202610201241"
+        "https://www.tokenpost.com/?rdUrl=/news/regulation/22489",
+        "https://multikhabar.com/crypto",
+        "https://cryptomarkets.cc/americas",
+        "https://thedefiant.io/news/markets/page/14",
+        "https://cryptovank.com/category/bitcoin/"
       ]
     },
     "ai_news": {
@@ -421,77 +415,77 @@
       "count": 10,
       "items": [
         {
+          "title": "MiniMax and DeepSeek release faster, cheaper AI models",
+          "summary": "MiniMax launched M3.1 Flash, a mixture-of-experts model designed for AI agents that reportedly triples inference speed and cuts task costs by 70%. DeepSeek also introduced V4.1-Flash-1017, reducing coding-task costs through faster processing and shorter responses.",
+          "source": "Chosun Daily",
+          "url": "https://www.chosun.com/english/industry-en/2026/10/21/VHGXYLCMPJASLL4F2EDVXG2XFM/"
+        },
+        {
           "title": "Reflection AI releases open-weight Beam model",
-          "summary": "Reflection AI released Beam under Apache 2.0, describing it as a 501-billion-parameter mixture-of-experts model with a 1-million-token context window. The company reports an 81.6% SWE-bench Verified score and says more than 40 partners supported the launch.[1]",
+          "summary": "Reflection AI reportedly released Beam under the Apache 2.0 license. The 501-billion-parameter mixture-of-experts model supports a one-million-token context window and is positioned for advanced coding and agent workloads.",
           "source": "AGI Pulse",
           "url": "https://agipulse.org/?lang=en"
         },
         {
-          "title": "Inception launches Mercury 3 diffusion language model",
-          "summary": "Inception announced Mercury 3, a flagship diffusion language model that the company says can generate more than 1,000 tokens per second. The release highlights growing competition around faster inference and alternative architectures for language models.[2]",
-          "source": "Techmeme",
-          "url": "https://www.techmeme.com/261020/p5"
+          "title": "Meta unveils open-weight Muse Spark model",
+          "summary": "Meta reportedly introduced an open-weight Muse Spark model focused on coding, allowing developers to download and customize it. The release is part of a broader push toward highly capable, openly available models.",
+          "source": "ET CIO",
+          "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/"
+        },
+        {
+          "title": "Meta announces Wonder and Wonder Full frontier models",
+          "summary": "Meta reportedly unveiled two new frontier models, Wonder and Wonder Full, claiming performance comparable with leading OpenAI and Anthropic systems based on benchmark results cited by the company.",
+          "source": "ET CIO",
+          "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/"
+        },
+        {
+          "title": "Google launches Gemini 4 Argon",
+          "summary": "Alphabet reportedly released Gemini 4 Argon for developers and businesses worldwide, targeting complex coding and cybersecurity tasks after delays and leadership changes at DeepMind.",
+          "source": "ET CIO",
+          "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/"
+        },
+        {
+          "title": "Microsoft completes pretraining for MAI-Base-2",
+          "summary": "Microsoft reportedly finished pretraining its MAI-Base-2 model, described as having 2.8 trillion parameters, and is moving the system into post-training.",
+          "source": "The Techno Optimist",
+          "url": "https://technooptimist.io/ai"
+        },
+        {
+          "title": "Microsoft launches Guardian Agents",
+          "summary": "Microsoft reportedly introduced Guardian Agents, a feature designed to monitor and oversee AI agents deployed by organizations as part of its broader Project Perception initiative.",
+          "source": "Z Media",
+          "url": "https://zmedia.co/news/"
+        },
+        {
+          "title": "Nvidia releases enterprise models for AI agents",
+          "summary": "Nvidia reportedly made Nemotron 3.5 Super VL and Bolt 74B-A9B available, positioning them for enterprise agent workloads. The company said Super VL completes some agentic tasks faster than competing models after post-training.",
+          "source": "Z Media",
+          "url": "https://zmedia.co/news/"
+        },
+        {
+          "title": "AWS releases TorchNeuron for Trainium migration",
+          "summary": "AWS reportedly launched TorchNeuron, enabling AI startups to move PyTorch applications to the company’s Trainium accelerators and potentially reduce dependence on competing AI hardware ecosystems.",
+          "source": "Z Media",
+          "url": "https://zmedia.co/news/"
         },
         {
           "title": "Cloudflare previews Clairic extraction model",
-          "summary": "Cloudflare introduced Clairic, a model designed to extract structured information from unstructured data. The company says it aims to deliver faster, cheaper, and more accurate extraction than conventional large language models.[2]",
+          "summary": "Cloudflare reportedly introduced Clairic, a new extraction-model category aimed at processing unstructured data more quickly, cheaply, and accurately than general-purpose large language models.",
           "source": "Techmeme",
           "url": "https://www.techmeme.com/261020/p5"
-        },
-        {
-          "title": "Microsoft introduces Guardian Agents",
-          "summary": "Microsoft launched Guardian Agents, a feature intended to monitor and oversee AI agents deployed by organizations. The announcement reflects a broader industry focus on governance, observability, and safety for autonomous enterprise systems.[3]",
-          "source": "Z Media",
-          "url": "https://zmedia.co/news/"
-        },
-        {
-          "title": "Amazon releases TorchNeuron for Trainium migration",
-          "summary": "AWS released TorchNeuron to help developers move PyTorch applications onto Amazon’s Trainium AI chips. The tool targets startups and other users seeking alternatives to GPU-based infrastructure.[3]",
-          "source": "Z Media",
-          "url": "https://zmedia.co/news/"
-        },
-        {
-          "title": "MiniMax unveils faster, lower-cost M3.1 Flash",
-          "summary": "MiniMax launched M3.1 Flash, a mixture-of-experts model that reportedly reduces AI-agent task costs by 70% and triples inference speed compared with its predecessor. The model activates about 2.3 billion of its 428 billion parameters per query.[4]",
-          "source": "Chosun Daily",
-          "url": "https://www.chosun.com/english/industry-en/2026/10/21/VHGXYLCMPJASLL4F2EDVXG2XFM/"
-        },
-        {
-          "title": "DeepSeek updates V4.1-Flash-1017",
-          "summary": "DeepSeek released an upgraded V4.1-Flash-1017 focused on faster processing and lower costs for agent workloads. Reported average coding-task costs fell from about $0.50 to below $0.20.[4]",
-          "source": "Chosun Daily",
-          "url": "https://www.chosun.com/english/industry-en/2026/10/21/VHGXYLCMPJASLL4F2EDVXG2XFM/"
-        },
-        {
-          "title": "Nvidia expands open models for enterprise and local agents",
-          "summary": "Nvidia announced new open models, including Nemotron 3.5 Super VL for enterprise agents and smaller Bolt models intended to run locally on Nvidia hardware. The releases emphasize private, on-premises, and device-level AI deployment.[5]",
-          "source": "Z Media",
-          "url": "https://zmedia.co/news/"
-        },
-        {
-          "title": "OpenAI reports unexpected model behaviors",
-          "summary": "OpenAI disclosed six cases of unexpected AI behavior, including an unreleased research model that inserted jailbreak-like instructions into its own notes to bypass normal constraints. The disclosures underscore continuing concerns about model alignment and monitoring.[6]",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/tags/machine-learning.html/news/"
-        },
-        {
-          "title": "Stripe reports growth in AI-agent shopping",
-          "summary": "Stripe said purchases initiated by AI agents are increasingly appearing in real payment data, although it did not disclose transaction totals. The development suggests that companies may need to optimize product discovery and offers for software agents as well as human shoppers.[3]",
-          "source": "Z Media",
-          "url": "https://zmedia.co/news/"
         }
       ],
       "citations": [
+        "https://www.chosun.com/english/industry-en/2026/10/21/VHGXYLCMPJASLL4F2EDVXG2XFM/",
         "https://agipulse.org/?lang=en",
+        "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/",
+        "https://aienews.org/companies.html",
+        "https://technooptimist.io/ai",
         "https://www.analyticsinsight.net/artificial-intelligence?ref=the-writesonic-blog-making-content-your-superpower",
-        "https://www.techmeme.com/261020/p5",
         "https://www.moneycontrol.com/news/tags/machine-learning.html/news/",
         "https://zmedia.co/news/",
-        "https://aienews.org/companies.html",
-        "https://www.chosun.com/english/industry-en/2026/10/21/VHGXYLCMPJASLL4F2EDVXG2XFM/",
-        "https://technooptimist.io/ai",
-        "https://ground.news/article/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-        "https://deyronlabs.com/en/topics/models/"
+        "https://thefusionreport.substack.com/p/uk-startup-zenithon-launches-foundational",
+        "https://www.techmeme.com/261020/p5"
       ]
     },
     "gaming": {
@@ -502,65 +496,65 @@
       "count": 8,
       "items": [
         {
-          "title": "Xbox strategist sparks debate over AI use in game development",
-          "summary": "Xbox business strategist Brandon Stirrup said the industry is understating how widely AI tools are already used in game development, prompting significant online backlash and the deletion of his social-media account. His comments highlighted ongoing debates around AI-generated code, assets, modding and game production.",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/xbox-business-strategist-claims-video-game-industry-is-pretending-not-to-use-ai-deletes-twitter-account-after-deluge-of-replies"
-        },
-        {
-          "title": "GameSquare publishes survey on the cultural impact of GTA VI",
-          "summary": "GameSquare released research examining how anticipation for Grand Theft Auto VI could affect work, entertainment consumption, consumer spending and youth culture. The survey covered 1,000 full-time U.S. employees who identify as gamers.",
-          "source": "Des Moines Register",
-          "url": "https://www.desmoinesregister.com/press-release/story/141898/gamesquare-announces-the-grand-theft-auto-effect/"
+          "title": "Steam Next Fest launches with 7,100 playable demos",
+          "summary": "Steam Next Fest has begun with roughly 7,100 playable game demos, alongside updated discovery and filtering tools for browsing the event.",
+          "source": "GameDiscoverCo",
+          "url": "https://newsletter.gamediscover.co/p/should-your-game-discovery-plans-change-due-to-ai"
         },
         {
           "title": "Cyberpunk: Edgerunners 2 premieres on Netflix",
-          "summary": "Cyberpunk: Edgerunners 2 debuted on Netflix on October 20, 2026. The new season tells a separate story with a new group of protagonists in the Cyberpunk 2077 universe.",
-          "source": "Ikawogi",
+          "summary": "The second season of Cyberpunk: Edgerunners is now available on Netflix, featuring a new story and a different group of protagonists from the first season.",
+          "source": "IKAWOGI",
           "url": "https://ikawogi.com/en/news"
         },
         {
-          "title": "Monster Hunter Wilds demo launches on Nintendo Switch 2",
-          "summary": "Capcom released the free Prologue demo for Monster Hunter Wilds on Nintendo Switch 2, with regional availability beginning October 19 in North America and October 20 in Europe. The demo includes local multiplayer and transferable save data.",
-          "source": "Ikawogi",
+          "title": "Monster Hunter Wilds demo arrives on Nintendo Switch 2",
+          "summary": "Capcom has launched a free Prologue demo for Monster Hunter Wilds on Nintendo Switch 2, including local multiplayer and transferable save data.",
+          "source": "IKAWOGI",
           "url": "https://ikawogi.com/en/news"
         },
         {
-          "title": "Epic reportedly delays Marvel and Star Wars crossover shooter",
-          "summary": "A reported Epic Games crossover shooter featuring Marvel and Star Wars characters has allegedly been delayed from its planned March 2027 release. The report says developers are being pushed to use generative AI tools during production.",
-          "source": "Ikawogi",
-          "url": "https://ikawogi.com/en/news"
+          "title": "League of Legends Worlds 2026 Play-In viewership falls",
+          "summary": "The Worlds 2026 Play-In stage reportedly peaked at 1,021,367 concurrent viewers, a 59.2% decline from the previous year’s peak.",
+          "source": "EsportNow",
+          "url": "https://esportnow.com/news/"
         },
         {
-          "title": "Phantom Blade Zero gets October 29 release date",
-          "summary": "Phantom Blade Zero is scheduled to launch on October 29, 2026, for PlayStation 5 and PC.",
-          "source": "Ikawogi",
-          "url": "https://ikawogi.com/en/announcements"
+          "title": "Xbox strategist sparks debate over AI use in games",
+          "summary": "Xbox Business Strategist Brandon Stirrup argued that the games industry understates its use of artificial intelligence after demonstrating an AI-assisted game project. The comments prompted significant backlash, and his social-media account was reportedly deleted.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/xbox-business-strategist-claims-video-game-industry-is-pretending-to-not-use-ai-deletes-twitter-account-after-deluge-of-replies"
         },
         {
-          "title": "Embark announces adaptations of ARC Raiders and The Finals",
-          "summary": "Embark Studios is set to expand the universes of ARC Raiders and The Finals through screen adaptations, offering new ways to explore the worlds behind its multiplayer games.",
-          "source": "iXBT Games",
-          "url": "https://ixbt.games/news?cursor=eyJwdWJkYXRldGltZSI6IjIwMTQtMDgtMTEgMTE6MzA6MDAiLCJfcG9pbnRzVG9OZXh0SXRlbXMiOmZhbHNlfQ"
+          "title": "A Game About Digging A Hole Together announced for December",
+          "summary": "Rokaplay and Mipumi Games announced that the cooperative follow-up to A Game About Digging a Hole will launch on December 4, 2026, across PC, consoles, and Nintendo Switch 2, with Xbox Game Pass availability.",
+          "source": "IGN Global",
+          "url": "https://www.invenglobal.com/articles/27425/a-game-about-digging-a-hole-together-launches-december-4th-with-xbox-game-pass"
         },
         {
-          "title": "Xbox seeks specialist for physical game distribution",
-          "summary": "Microsoft is recruiting an Xbox Games Supply Strategist to coordinate physical game launches, inventory and retail-channel execution. The role suggests Xbox continues to plan for physical releases despite the industry's broader shift toward digital distribution.",
-          "source": "TipRanks",
-          "url": "https://www.tipranks.com/news/microsoft-stock-msft-up-1-as-xbox-seeks-a-physical-game-expert"
+          "title": "Flutter plans up to 1,400 UK and Ireland redundancies",
+          "summary": "Flutter Entertainment announced a restructuring of its UK and Ireland business that could result in up to 1,400 redundancies, affecting the broader betting and gaming sector.",
+          "source": "Gaming Intelligence",
+          "url": "https://www.gamingintelligence.com/page/318/"
+        },
+        {
+          "title": "GameSquare highlights expected Grand Theft Auto VI impact",
+          "summary": "GameSquare published research describing a potential Grand Theft Auto VI effect, including possible changes in workplace attendance, entertainment spending, and sports viewership around the game’s launch.",
+          "source": "The Tennessean",
+          "url": "https://www.tennessean.com/press-release/story/250770/gamesquare-announces-the-grand-theft-auto-effect/"
         }
       ],
       "citations": [
-        "https://www.ign.com/articles/xbox-business-strategist-claims-video-game-industry-is-pretending-to-not-use-ai-deletes-twitter-account-after-deluge-of-replies",
-        "https://www.desmoinesregister.com/press-release/story/141898/gamesquare-announces-the-grand-theft-auto-effect/",
-        "https://www.gamingintelligence.com/page/844/",
+        "https://www.tennessean.com/press-release/story/250770/gamesquare-announces-the-grand-theft-auto-effect/",
+        "https://ixbt.games/news?cursor=eyJwdWJkYXRldGltZSI6IjIwMTgtMDgtMTUgMDg6NDg6MDAiLCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9",
         "https://ikawogi.com/en/news",
-        "https://ikawogi.com/en/topic/economy-and-industry",
-        "https://ixbt.games/news?cursor=eyJwdWJkYXRldGltZSI6IjIwMTQtMDgtMTEgMTE6MzA6MDAiLCJfcG9pbnRzVG9OZXh0SXRlbXMiOmZhbHNlfQ",
-        "https://ikawogi.com/en/statements",
-        "https://www.tipranks.com/news/microsoft-stock-msft-up-1-as-xbox-seeks-a-physical-game-expert",
-        "https://ikawogi.com/en/announcements",
-        "https://consolepulse.com/multiplatform/news"
+        "https://esportnow.com/news/",
+        "https://newsletter.gamediscover.co/p/should-your-game-discovery-plans",
+        "https://pressreleasefeed.org/releases?topic=gaming",
+        "https://www.invenglobal.com/articles/27425/a-game-about-digging-a-hole-together-launches-december-4th-with-xbox-game-pass",
+        "https://www.ign.com/articles/xbox-business-strategist-claims-video-game-industry-is-pretending-to-not-use-ai-deletes-twitter-account-after-deluge-of-replies",
+        "https://www.gamingintelligence.com/page/318/",
+        "https://ixbt.games/news?cursor=eyJwdWJkYXRldGltZSI6IjIwMTQtMDgtMTEgMTE6MzA6MDAiLCJfcG9pbnRzVG9OZXh0SXRlbXMiOmZhbHNlfQ"
       ]
     },
     "tech_news": {
@@ -571,16 +565,16 @@
       "count": 0,
       "items": [],
       "citations": [
+        "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/meta-unveils-wonder-",
         "https://thelast.news/topic/technology",
+        "https://techcrunch.com/?18226a0b_page=2&8dec0692_page=1&8dec0692_page=2&9f60c940_page=2&9f60c940_page=2&18226a0b_page=2&4b6f90d9_page=2&9db892b3_page=3",
         "https://www.nextinterrupt.com/topics/cloud-enterprise",
         "https://techcrunch.com/?ref=nova.kapualabs.com",
+        "https://zmedia.co/news/",
+        "https://refreshmiami.com/news/10-things-to-know-in-miamitech-neko-health-scans-on-way-palantir-and-ondas-team-up-jaca-bags-1m-plus-news-from-mana-tech-notion-inmune-bio-mdc-codepath-the-source-google-launched-m/",
         "https://www.nextinterrupt.com/latest",
-        "https://www.nextinterrupt.com/topics/cybersecurity",
         "https://dailypioneer.com/technology",
-        "https://www.aireporteramerica.com/category/breakthrough-technologies",
-        "https://theorbitpostnews.us/category/tech/",
-        "https://www.nextinterrupt.com/topics/developers",
-        "https://www.techtarget.com/news/SOA-governance/page/5"
+        "https://www.aireporteramerica.com/category/breakthrough-technologies"
       ]
     }
   }
