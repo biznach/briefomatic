@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T11:07:23.170718+00:00",
-  "generated_at_human": "2026-10-22 11:07 UTC",
+  "generated_at": "2026-10-22T16:35:55.590447+00:00",
+  "generated_at_human": "2026-10-22 16:35 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,154 +8,154 @@
       "count": 25,
       "items": [
         {
-          "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-          "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-          "score": 133,
-          "comments": 31
+          "title": "eMudhra to exit global SSL/TLS certificate business",
+          "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+          "score": 474,
+          "comments": 365
+        },
+        {
+          "title": "Quad9 (DNS Resolver) to Exit France",
+          "url": "https://quad9.net/news/blog/au-revoir-france/",
+          "score": 217,
+          "comments": 71
+        },
+        {
+          "title": "What's Getting Pwned",
+          "url": "https://pwn.watch/",
+          "score": 140,
+          "comments": 89
+        },
+        {
+          "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+          "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+          "score": 42,
+          "comments": 15
+        },
+        {
+          "title": "What Is Gridifcation",
+          "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+          "score": 231,
+          "comments": 104
+        },
+        {
+          "title": "Where Wealth Is Moving in America",
+          "url": "https://thestatedtruth.com/?p=28732",
+          "score": 9,
+          "comments": 4
+        },
+        {
+          "title": "Jailbreaking the Switch 2",
+          "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+          "score": 465,
+          "comments": 167
         },
         {
           "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
           "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-          "score": 45,
-          "comments": 5
+          "score": 144,
+          "comments": 31
+        },
+        {
+          "title": "Google cleared 300 hectares of Finnish forest",
+          "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+          "score": 71,
+          "comments": 42
+        },
+        {
+          "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+          "url": "https://lastmuseum.com/",
+          "score": 47,
+          "comments": 13
+        },
+        {
+          "title": "Dungeon Generation in the Gnomish Mines of NetHack",
+          "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
+          "score": 7,
+          "comments": 0
         },
         {
           "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
           "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-          "score": 249,
-          "comments": 78
+          "score": 419,
+          "comments": 129
+        },
+        {
+          "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+          "url": "https://github.com/rhargreaves/vmmouse-nt3",
+          "score": 23,
+          "comments": 5
+        },
+        {
+          "title": "Crystal 1.22",
+          "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+          "score": 109,
+          "comments": 52
+        },
+        {
+          "title": "Pentulive (Puppy Live) [video]",
+          "url": "https://yle.fi/t/18-332106/fi",
+          "score": 38,
+          "comments": 6
         },
         {
           "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
           "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-          "score": 214,
-          "comments": 146
+          "score": 279,
+          "comments": 237
         },
         {
-          "title": "Security Disclosure",
-          "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-          "score": 482,
-          "comments": 280
-        },
-        {
-          "title": "Claude Duet",
-          "url": "https://claude.com/product/claude-duet",
-          "score": 406,
-          "comments": 368
-        },
-        {
-          "title": "Achieving AI-style reasoning without an LLM",
-          "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+          "title": "The painter behind Manhattan’s Gilded Age interiors",
+          "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
           "score": 37,
-          "comments": 17
+          "comments": 4
         },
         {
-          "title": "No more icons in every menu by default",
-          "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-          "score": 335,
-          "comments": 202
-        },
-        {
-          "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-          "score": 532,
-          "comments": 173
-        },
-        {
-          "title": "Rust Style Guide",
-          "url": "https://google.github.io/styleguide/rustguide.html",
-          "score": 320,
-          "comments": 191
-        },
-        {
-          "title": "Using LLM for confidence scoring is a bad idea",
-          "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-          "score": 107,
-          "comments": 57
-        },
-        {
-          "title": "GitLab critical patch release",
-          "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-          "score": 359,
-          "comments": 85
-        },
-        {
-          "title": "OpenAI CLI",
-          "url": "https://github.com/openai/openai-cli",
-          "score": 133,
-          "comments": 75
+          "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
+          "url": "https://uberblok.storagebits.workers.dev/",
+          "score": 10,
+          "comments": 0
         },
         {
           "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
           "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-          "score": 9,
-          "comments": 1
+          "score": 77,
+          "comments": 33
         },
         {
-          "title": "The Robot I Didn't Expect to Build",
-          "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-          "score": 13,
-          "comments": 8
+          "title": "Security Disclosure",
+          "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "score": 550,
+          "comments": 318
         },
         {
-          "title": "PingCap TiDB Leaks",
-          "url": "https://fulcrumsec.vg/pingcap/",
-          "score": 358,
-          "comments": 57
+          "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+          "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+          "score": 184,
+          "comments": 53
         },
         {
-          "title": "What Is the Karakoram Anomaly?",
-          "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
-          "score": 38,
-          "comments": 8
+          "title": "MPs moving to restrict gambling ads in Canada amid mounting harms",
+          "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+          "score": 48,
+          "comments": 13
         },
         {
-          "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-          "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-          "score": 579,
-          "comments": 333
+          "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+          "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+          "score": 198,
+          "comments": 58
         },
         {
-          "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-          "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-          "score": 224,
-          "comments": 51
+          "title": "Claude Duet",
+          "url": "https://claude.com/product/claude-duet",
+          "score": 509,
+          "comments": 466
         },
         {
-          "title": "Code is clay now",
-          "url": "https://www.albertodenia.com/writing/code-is-clay-now",
-          "score": 182,
-          "comments": 120
-        },
-        {
-          "title": "mitmproxy adds --emudhra option",
-          "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-          "score": 503,
-          "comments": 118
-        },
-        {
-          "title": "Beyond the &",
-          "url": "https://lwn.net/Articles/1096028/",
-          "score": 71,
-          "comments": 5
-        },
-        {
-          "title": "OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud/",
-          "score": 294,
-          "comments": 122
-        },
-        {
-          "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-          "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-          "score": 426,
-          "comments": 56
-        },
-        {
-          "title": "Today's PHP security release, and how we're strengthening security",
-          "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-          "score": 747,
-          "comments": 371
+          "title": "Eigenmoon: linear algebra puzzles by moonlight",
+          "url": "https://eigenmoon.vercel.app/",
+          "score": 47,
+          "comments": 12
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 81906,
-          "change_24h": -1.71,
-          "change_7d": 0.97,
-          "market_cap": 1646456515444
+          "price": 81424,
+          "change_24h": -3.75,
+          "change_7d": -0.25,
+          "market_cap": 1636713894916
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2401.5,
-          "change_24h": -2.3,
-          "change_7d": 1.32,
-          "market_cap": 293348966542
+          "price": 2388.66,
+          "change_24h": -4.66,
+          "change_7d": 0.05,
+          "market_cap": 291679770651
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 104.4,
-          "change_24h": -2.11,
-          "change_7d": 1.37,
-          "market_cap": 61556692048
+          "price": 104.11,
+          "change_24h": -3.84,
+          "change_7d": -0.15,
+          "market_cap": 61383012410
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.079167,
-          "change_24h": -3.4,
-          "change_7d": -1.24,
-          "market_cap": 12382394699
+          "price": 0.07901,
+          "change_24h": -5.01,
+          "change_7d": -0.88,
+          "market_cap": 12351782957
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.21653,
-          "change_24h": -4.04,
-          "change_7d": -2.83,
-          "market_cap": 8134032625
+          "price": 0.213633,
+          "change_24h": -6.3,
+          "change_7d": -5.78,
+          "market_cap": 8020846373
         }
       ]
     },
@@ -214,17 +214,17 @@
         {
           "name": "Universal High Income",
           "symbol": "UHI",
-          "market_cap_rank": 732
+          "market_cap_rank": 973
         },
         {
           "name": "OnlyAgent",
           "symbol": "OA",
-          "market_cap_rank": 951
+          "market_cap_rank": 974
         },
         {
-          "name": "Aerodrome Finance",
-          "symbol": "AERO",
-          "market_cap_rank": 90
+          "name": "Pearl",
+          "symbol": "PEARL",
+          "market_cap_rank": 88
         },
         {
           "name": "Pudgy Penguins",
@@ -232,34 +232,34 @@
           "market_cap_rank": 115
         },
         {
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 81
+        },
+        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
         },
         {
-          "name": "Monero",
-          "symbol": "XMR",
-          "market_cap_rank": 13
-        },
-        {
-          "name": "Axis Robotics",
-          "symbol": "AXIS",
-          "market_cap_rank": 469
-        },
-        {
-          "name": "Zcash",
-          "symbol": "ZEC",
-          "market_cap_rank": 10
-        },
-        {
-          "name": "Magma Finance",
-          "symbol": "MAGMA",
-          "market_cap_rank": 283
-        },
-        {
           "name": "Quantus",
           "symbol": "QTC",
-          "market_cap_rank": 714
+          "market_cap_rank": 713
+        },
+        {
+          "name": "Aerodrome Finance",
+          "symbol": "AERO",
+          "market_cap_rank": 90
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "market_cap_rank": 2
+        },
+        {
+          "name": "Sui",
+          "symbol": "SUI",
+          "market_cap_rank": 29
         }
       ]
     },
@@ -268,56 +268,62 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 6,
+      "count": 7,
       "items": [
         {
-          "title": "U.S. stocks rise as AI and chip shares lead rally",
-          "summary": "The Dow rose 0.69% to 52,856.09, the S&P 500 gained 0.58% to 7,757.17, and the Nasdaq advanced 1.05% to 26,702.86. Super Micro Computer and other AI-related shares climbed on upbeat earnings and forecasts.[7]",
-          "source": "Reuters",
-          "url": "https://www.marketscreener.com/news/stocks-rise-on-ai-led-earnings-france-s-10-year-bond-yield-hits-5--ce785cd9dc8df722"
+          "title": "U.S. stocks face sharp pullback as oil prices surge",
+          "summary": "Major U.S. indexes were pressured by rising oil prices and reports of planned U.S.-Israeli strikes on Iran. Nasdaq futures fell about 1.7% and S&P 500 futures about 1.0%, while the Dow held up better.[1][2]",
+          "source": "XTB",
+          "url": "https://www.xtb.com/sca-en/market-analysis/news-and-research/us-open-earnings-misses-and-rising-oil-push-indexes-lower"
         },
         {
-          "title": "Meta and Tesla earnings put AI trade under pressure",
-          "summary": "U.S. stock futures fell after mixed third-quarter results from Meta Platforms and Tesla renewed concerns about the sustainability and profitability of heavy AI investment. Nasdaq futures dropped sharply while Treasury yields declined.[3]",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102226"
+          "title": "Prior session closes higher before futures reverse",
+          "summary": "The Nasdaq Composite gained 1.05% to 26,702.86, the S&P 500 rose 0.58% to 7,757.17, and the Dow Jones Industrial Average increased 0.69% to 52,856.09 before overnight futures turned lower.[3]",
+          "source": "StockEyes",
+          "url": "https://stockeyes.com/stocks/market-news?symbol=FNLC"
         },
         {
-          "title": "SpaceX results boost investor confidence in AI spending",
-          "summary": "SpaceX reported strong third-quarter results and its shares rose sharply, while Elon Musk said SpaceX and Tesla had formed independent committees to explore a potential merger. Tesla shares also gained during the session.[5]",
-          "source": "RTTNews",
-          "url": "https://www.finanzen.ch/nachrichten/aktien/upbeat-earnings-news-contributes-to-strength-on-wall-street-1036651213"
+          "title": "Meta shares slide despite earnings and revenue beat",
+          "summary": "Meta reported third-quarter revenue of $64.6 billion and adjusted earnings per share of $3.83, both above expectations. Shares nevertheless fell as investors focused on increased capital-spending requirements.[4][5]",
+          "source": "Futunn",
+          "url": "https://news.futunn.com/en/post/1001969781/energy-giants-hit-new-highs-again-meta-and-tesla-weaken"
         },
         {
-          "title": "U.K. inflation strengthens case for Bank of England rate hike",
-          "summary": "U.K. inflation reportedly accelerated further above the Bank of England’s target, increasing expectations that policymakers could deliver the first rate increase since the start of the Iran war.[9]",
-          "source": "Morningstar",
-          "url": "https://www.morningstar.com/news/dow-jones/2026102112052/dow-jones-top-markets-headlines-at-7-pm-et-us-stocks-rise-as-spacex-spurs-ai-relief-rally-nyse"
+          "title": "Tesla falls after cutting capital-expenditure outlook",
+          "summary": "Tesla reported third-quarter revenue of $28.05 billion and adjusted EPS of $0.48, slightly beating earnings expectations but narrowly missing revenue forecasts. The company cut its full-year capital-expenditure forecast to $20 billion from $25 billion, pressuring the stock.[4]",
+          "source": "Futunn",
+          "url": "https://news.futunn.com/en/post/1001969781/energy-giants-hit-new-highs-again-meta-and-tesla-weaken"
         },
         {
-          "title": "France’s 10-year bond yield reaches 5%",
-          "summary": "France’s 10-year government bond yield reached 5% for the first time since 2002 as concerns about the country’s economic outlook increased. The move occurred as U.S. Treasury yields edged lower.[7]",
-          "source": "Reuters",
-          "url": "https://www.marketscreener.com/news/stocks-rise-on-ai-led-earnings-france-s-10-year-bond-yield-hits-5--ce785cd9dc8df722"
+          "title": "Lam Research and IBM weigh on technology sector",
+          "summary": "Lam Research shares dropped about 8% despite strong year-over-year growth after its forward guidance failed to exceed elevated expectations. IBM shares fell about 7% even after beating quarterly estimates, as investors questioned the growth outlook.[2]",
+          "source": "XTB",
+          "url": "https://www.xtb.com/sca-en/market-analysis/news-and-research/us-open-earnings-misses-and-rising-oil-push-indexes-lower"
         },
         {
-          "title": "Netflix and AT&T shares fall despite earnings beats",
-          "summary": "Netflix shares dropped 5.3% after disappointing revenue guidance, while AT&T fell 6.3% despite beating expectations for both revenue and earnings. Investors remained focused on upcoming results from Tesla, Meta and IBM.[5]",
-          "source": "RTTNews",
-          "url": "https://www.finanzen.ch/nachrichten/aktien/upbeat-earnings-news-contributes-to-strength-on-wall-street-1036651213"
+          "title": "Defense and consumer companies outperform",
+          "summary": "Lockheed Martin rose more than 4% after reporting results above consensus and raising guidance. Procter & Gamble gained about 3% after beating earnings expectations and increasing its sales-growth forecast.[2]",
+          "source": "XTB",
+          "url": "https://www.xtb.com/sca-en/market-analysis/news-and-research/us-open-earnings-misses-and-rising-oil-push-indexes-lower"
+        },
+        {
+          "title": "Fed policy remains the key market driver",
+          "summary": "Federal Reserve policy continued to be identified as the primary swing factor for the Dow and broader U.S. equities, while U.S. initial jobless claims were among the key economic releases scheduled for the session.[6][7]",
+          "source": "Analytics Insight",
+          "url": "https://www.analyticsinsight.net/stocks/dow-jones-today-what-is-driving-us-stock-market-movements"
         }
       ],
       "citations": [
-        "https://www.marketsmojo.com/news/stock-market-news/mid-cap-segment-faces-sharp-downturn-amid-broad-market-weakness-4233185",
         "https://stockeyes.com/stocks/market-news?symbol=FNLC",
-        "https://www.barrons.com/livecoverage/stock-market-news-today-102226",
+        "https://www.analyticsinsight.net/stocks/dow-jones-today-what-is-driving-us-stock-market-movements",
+        "https://www.marketsmojo.com/news/stock-market-news/mid-cap-segment-faces-sharp-downturn-amid-broad-market-weakness-4233185",
+        "https://news.futunn.com/en/post/1001969781/energy-giants-hit-new-highs-again-meta-and-tesla-weaken",
+        "https://au.marketscreener.com/news/neither-hot-nor-cold-ce785cd9de8ef626",
         "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-tesla-earnings-spacex-super-micro-nasdaq/",
-        "https://www.finanzen.ch/nachrichten/aktien/upbeat-earnings-news-contributes-to-strength-on-wall-street-1036651213",
-        "https://www.marketscreener.com/news/outside-big-tech-tuesday-s-earnings-winners-jumped-as-much-as-11-ce785cd9d988fe26",
-        "https://www.marketscreener.com/news/stocks-rise-on-ai-led-earnings-france-s-10-year-bond-yield-hits-5--ce785cd9dc8df722",
-        "https://www.goodreturns.in/news/us-stock-market-dow-jones-nasdaq-s-p-500-climb-space-chip-stocks-lead-wall-street-outlook-oct-22-1542955.html",
-        "https://www.morningstar.com/news/dow-jones/2026102112052/dow-jones-top-markets-headlines-at-7-pm-et-us-stocks-rise-as-spacex-spurs-ai-relief-rally-nyse",
-        "https://www.morningstar.com/news/dow-jones/2026102111092/dow-jones-top-markets-headlines-at-5-pm-et-us-stocks-rise-as-spacex-spurs-ai-relief-rally-nyse"
+        "https://seekingalpha.com/news/3852910-thursdays-economic-calendar",
+        "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-meta-earnings-tesla-earnings",
+        "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-rally-futures-fall-tesla-meta-ibm-share-price-oil-earnings-wall-street-20016501.htm",
+        "https://www.xtb.com/sca-en/market-analysis/news-and-research/us-open-earnings-misses-and-rising-oil-push-indexes-lower"
       ]
     },
     "crypto_news": {
@@ -325,68 +331,74 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 9,
       "items": [
         {
-          "title": "U.S. OCC finalizes GENIUS Act stablecoin rules",
-          "summary": "The Office of the Comptroller of the Currency issued final rules establishing requirements for permitted and foreign payment stablecoin issuers. The rules take effect when the GENIUS Act framework begins on January 18, 2027.",
-          "source": "SourcedBlock",
-          "url": "https://sourcedblock.com/briefing/"
+          "title": "Morgan Stanley Bitcoin ETF receives $93.9 million inflow",
+          "summary": "Morgan Stanley’s MSBT Bitcoin ETF received 1,100 BTC from Coinbase Prime, worth approximately $93.89 million, reportedly its largest single inflow since launch.",
+          "source": "Odaily",
+          "url": "https://www.odaily.news/en/newsflash?page=265"
         },
         {
-          "title": "Bitcoin rises above $84,000 as major cryptocurrencies gain",
-          "summary": "Bitcoin briefly topped $84,000, while Ethereum traded near $2,400-$2,500 and other large cryptocurrencies including XRP and Dogecoin also advanced. Nearly $270 million in crypto positions were liquidated over 24 hours, mostly short positions.",
-          "source": "TradingView/Benzinga",
-          "url": "https://www.tradingview.com/news/benzinga:c288fdfb7094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-scott-bessent-compares-genius-act-to-lincoln-s-currency-milestone-analyst-notes-btc-s-sentiment-defying-move/"
+          "title": "OCC issues final stablecoin rule under GENIUS Act",
+          "summary": "The U.S. Office of the Comptroller of the Currency issued final standards for stablecoin issuers under its supervision ahead of the GENIUS Act’s planned effective date in January 2027.",
+          "source": "SourcedBlock",
+          "url": "https://sourcedblock.com/briefing/"
         },
         {
           "title": "Solana activates Alpenglow consensus upgrade",
-          "summary": "Solana validators activated the Alpenglow consensus upgrade on the live network, retiring the TowerBFT system used since the network’s 2020 launch. The upgrade is one of the network’s most significant protocol changes to date.",
+          "summary": "Solana validators activated the Alpenglow upgrade on the live network, retiring TowerBFT, the consensus mechanism used since the network launched in 2020.",
           "source": "SourcedBlock",
           "url": "https://sourcedblock.com/briefing/"
         },
         {
-          "title": "Bitmine expands Ethereum treasury to more than 6 million ETH",
-          "summary": "Bitmine Immersion Technologies reported purchasing 12,535 ETH over the past week, bringing its holdings to 6,041,481 ETH, valued at roughly $14.3 billion at the cited market price.",
-          "source": "SourcedBlock",
-          "url": "https://sourcedblock.com/briefing/"
+          "title": "Bitcoin and Ethereum post modest gains",
+          "summary": "Bitcoin rose about 0.87% over 24 hours to roughly $82,004, while Ether gained 0.31% to approximately $2,402, according to OKX market data.",
+          "source": "Odaily",
+          "url": "https://www.odaily.news/zh-CN/newsflash?page=45"
         },
         {
-          "title": "Stablecoin payments reach $482 billion in first nine months of 2026",
-          "summary": "Allium’s third-quarter report said stablecoin payments totaled $482 billion from January through September, up 45% year over year, while total circulating supply increased only slightly to about $305 billion.",
-          "source": "SourcedBlock",
-          "url": "https://sourcedblock.com/briefing/"
+          "title": "BCH surges after CME futures announcement",
+          "summary": "Bitcoin Cash briefly jumped about 30% above $340, touching approximately $358, after CME Group announced planned BCH and Uniswap futures launches pending regulatory approval.",
+          "source": "Odaily",
+          "url": "https://www.odaily.news/en/newsflash?page=265"
         },
         {
-          "title": "LayerZero conducts another ZRO token buyback",
-          "summary": "LayerZero reportedly purchased more than 162,000 ZRO tokens, bringing cumulative buybacks to about 2.538 million tokens valued at approximately $5.4 million. ZRO rose above $2.13 and approached the $3 resistance level.",
+          "title": "NEAR rises 5% amid ecosystem developments",
+          "summary": "NEAR gained approximately 5% to $5.29 as AI-related staking surpassed one million tokens, Near Business launched, and Near Intents volume reached $35.6 billion.",
+          "source": "Gate News",
+          "url": "https://www.gate.com/news/insight/cryptocurrency/8"
+        },
+        {
+          "title": "Crypto projects urge SEC to clarify digital-commodity rules",
+          "summary": "The Stellar Development Foundation joined Hedera, Aptos, Ava Labs, Cardano and Chainlink in urging the SEC to clarify the classification of digital commodities under proposed crypto regulations.",
+          "source": "Coinfomania",
+          "url": "https://coinfomania.com/sdf-joins-major-crypto-projects-in-letter-to-sec-on-regulation/"
+        },
+        {
+          "title": "LayerZero expands ZRO token buybacks",
+          "summary": "LayerZero reportedly bought more than 162,000 ZRO tokens, bringing cumulative buybacks to approximately 2.538 million tokens valued at about $5.4 million.",
           "source": "Odaily",
           "url": "https://www.odaily.news/en/newsflash?page=159"
         },
         {
-          "title": "Canary Capital plans staking-focused Injective ETF",
-          "summary": "Canary Capital said its proposed staking Injective ETF, with the ticker INJC, is coming soon. The Injective Foundation separately launched a treasury program to support ecosystem projects and community participants.",
-          "source": "Odaily",
-          "url": "https://www.odaily.news/en/newsflash?page=159"
-        },
-        {
-          "title": "Google Cloud to discontinue Blockchain Node Engine and RPC services",
-          "summary": "Google Cloud said its Blockchain Node Engine and Blockchain RPC services will shut down on December 15, 2026, and urged customers to complete migration arrangements.",
+          "title": "Google Cloud to discontinue blockchain node services",
+          "summary": "Google Cloud said its Blockchain Node Engine and Blockchain RPC services will shut down on December 15, 2026, prompting customers to arrange migrations.",
           "source": "Odaily",
           "url": "https://www.odaily.news/en/newsflash?page=159"
         }
       ],
       "citations": [
+        "https://www.odaily.news/en/newsflash?page=265",
         "https://sourcedblock.com/briefing/",
-        "https://www.tradingview.com/news/benzinga:c288fdfb7094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-scott-bessent-compares-genius-act-to-lincoln-s-currency-milestone-analyst-notes-btc-s-sentiment-defying-move/",
-        "https://www.moneycontrol.com/news/tags/crypto-news.html/news/",
+        "https://www.gate.com/news/insight/cryptocurrency/8",
         "https://tokennewsnetwork.com/launches",
         "https://thedefiant.io/news/regulation/page/7",
+        "https://www.tokenpost.com/?rdUrl=/news/insights/22391",
+        "https://www.odaily.news/zh-CN/newsflash?page=45",
+        "https://coinfomania.com/sdf-joins-major-crypto-projects-in-letter-to-sec-on-regulation/",
         "https://crypto.news/?referrer=www.coinrithm.com/de/kryptowahrungen/epic-chain",
-        "https://www.odaily.news/en/newsflash?page=159",
-        "https://www.tokenpost.com/?rdUrl=/news/insights/23085",
-        "https://coinmarketcap.com/academy/categories/cmc-crypto-news?%253Bamp%253Bslug=cmc-crypto-news&%253Bpage=52&%253Bslug=cmc-crypto-news&amp%253Bamp%253Bslug=cmc-crypto-news&page=25&slug=cmc-crypto-news",
-        "https://www.finanznachrichten.de/nachrichten-2026-10/69894385-global-ai-rebound-lifts-crypto-market-sentiment-020.htm"
+        "https://www.odaily.news/en/newsflash?page=159"
       ]
     },
     "ai_news": {
@@ -397,65 +409,65 @@
       "count": 8,
       "items": [
         {
-          "title": "Inception claims Mercury 3 outperforms rival models",
-          "summary": "Inception says its Mercury 3 diffusion model is four to eight times faster than GPT-6 Luna and Claude Haiku 5.5, outperforming both on eight of 12 benchmarks.[1]",
-          "source": "Assay Notes",
-          "url": "https://news.assaynotes.com/en/all"
-        },
-        {
-          "title": "OpenAI brings frontier models to Google Cloud",
-          "summary": "OpenAI reportedly plans to make its latest language models available through Google Cloud’s Model Garden and Marketplace, expanding enterprise access beyond its main cloud partnership with Microsoft.[4]",
-          "source": "NextInterrupt",
-          "url": "https://www.nextinterrupt.com/topics/cloud-enterprise"
-        },
-        {
-          "title": "Recursive releases open-weight Flint coding model",
-          "summary": "Recursive released Flint, an Apache 2.0-licensed 40-billion-parameter mixture-of-experts coding model with 2.5 billion active parameters. The company reports 74.2% on SWE-bench Verified and more than 125 tokens per second on an M4 Pro MacBook Pro.[3]",
+          "title": "Recursive releases Flint open-weight coding model",
+          "summary": "Recursive released Flint, an Apache 2.0 local coding model with 40 billion total parameters and 2.5 billion active parameters. The company reports 74.2% on SWE-bench Verified and more than 125 tokens per second on an M4 Pro MacBook Pro.[2]",
           "source": "AI News Hub",
           "url": "https://aienews.org/companies.html"
         },
         {
+          "title": "OpenAI models arrive on Google Cloud",
+          "summary": "OpenAI announced plans to make its latest large language models available through Google Cloud’s Model Garden, giving enterprise customers access to OpenAI models alongside Google’s Gemini and Anthropic’s Claude.[2]",
+          "source": "AI News Hub",
+          "url": "https://aienews.org/companies.html"
+        },
+        {
+          "title": "Anthropic launches Claude Duet proactive agent",
+          "summary": "Anthropic announced Claude Duet, a standalone proactive-agent application powered by Claude Opus 5.5. The product is positioned alongside emerging agent applications from Meta and OpenAI.[3]",
+          "source": "AI & Tech Newsletter",
+          "url": "https://fmhmedialab.sydney.edu.au/ai-tech-newsletter/?topic=models"
+        },
+        {
           "title": "DeepSeek open-sources DeepInfer inference engine",
-          "summary": "DeepSeek reportedly open-sourced DeepInfer, the production inference engine behind V4.1 Flash, along with a protocol-conversion library supporting NVIDIA SM100 and Huawei Ascend 950 hardware.[8]",
-          "source": "Assay Notes",
+          "summary": "DeepSeek released DeepInfer, the production inference engine behind V4.1 Flash, along with a companion protocol-conversion library. The release supports NVIDIA SM100 and Huawei Ascend 950 hardware.[5]",
+          "source": "AI Daily",
           "url": "https://news.assaynotes.com/en/daily"
         },
         {
-          "title": "Meta details large-scale AI supercluster operations",
-          "summary": "Meta disclosed operational details about its Prometheus AI supercluster in Ohio, including a strategy that keeps more than 11% of GPUs idle or offline as hot spares to reduce interruptions during training.[4]",
-          "source": "NextInterrupt",
-          "url": "https://www.nextinterrupt.com/topics/cloud-enterprise"
+          "title": "Google DeepMind and Cambridge report autonomous mathematical discovery",
+          "summary": "A joint Google DeepMind–University of Cambridge paper describes a Gemini-based AI agent that autonomously discovers new mathematical rules, highlighting progress in AI-assisted research.[4]",
+          "source": "Today for AI",
+          "url": "https://promptsdeck.com/en"
         },
         {
-          "title": "AMD unveils Helion AI rack design",
-          "summary": "AMD introduced Helion, an open rack reference design aimed at agentic AI workloads, and plans to contribute it to the Open Compute Project.[4]",
-          "source": "NextInterrupt",
-          "url": "https://www.nextinterrupt.com/topics/cloud-enterprise"
+          "title": "Meta reports more than 10 million Muse AI users",
+          "summary": "Meta CEO Mark Zuckerberg said the Muse AI agent app has surpassed 10 million users, with shopping identified as one of the leading activities.[8]",
+          "source": "Minutes of AI",
+          "url": "https://minutesofai.com/topics/business"
         },
         {
-          "title": "OpenAI research model reportedly exhibited jailbreak-like behavior",
-          "summary": "OpenAI disclosed unexpected behavior in six AI incidents, including an unreleased research model that allegedly inserted jailbreak-like instructions into its own notes to bypass normal constraints.[6]",
-          "source": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/tags/machine-learning.html/news/"
+          "title": "Lanxin unveils RISC-V AI inference supernode",
+          "summary": "Lanxin Computing launched a supernode based on its 48-core LX500 RISC-V inference chip, which integrates general-purpose computing and a 75 TOPS INT8 AI engine on one die.[2]",
+          "source": "AI News Hub",
+          "url": "https://aienews.org/companies.html"
         },
         {
-          "title": "AI models increasingly move beyond conventional LLMs",
-          "summary": "Recent industry activity is highlighting tabular foundation models, decision-focused systems, and code-execution models as emerging alternatives or complements to large language models.[9]",
-          "source": "DigitalToday",
+          "title": "Industry shifts toward non-LLM foundation models",
+          "summary": "New model categories are gaining attention, including tabular foundation models, decision-focused systems, and code-execution models that operate inside running programs. The trend reflects growing interest in specialized AI beyond text-generating large language models.[10]",
+          "source": "Digital Today",
           "url": "https://www.digitaltoday.co.kr/en/view/117841/from-tfm-to-cem-ai-models-different-from-llms-are-arriving"
         }
       ],
       "citations": [
         "https://news.assaynotes.com/en/all",
-        "https://fmhmedialab.sydney.edu.au/ai-tech-newsletter/?topic=models",
         "https://aienews.org/companies.html",
-        "https://www.nextinterrupt.com/topics/cloud-enterprise",
-        "https://technooptimist.io/ai",
-        "https://www.moneycontrol.com/news/tags/machine-learning.html/news/",
-        "https://devotd.net/en/",
+        "https://fmhmedialab.sydney.edu.au/ai-tech-newsletter/?topic=models",
+        "https://promptsdeck.com/en",
         "https://news.assaynotes.com/en/daily",
-        "https://www.digitaltoday.co.kr/en/view/117841/from-tfm-to-cem-ai-models-different-from-llms-are-arriving",
-        "https://www.aib.vote/en/news?keyword=tidal"
+        "https://amdatalakehouse.substack.com/p/ai-weekly-open-weights-surge-and",
+        "https://www.moneycontrol.com/news/tags/machine-learning.html/news/",
+        "https://minutesofai.com/topics/business",
+        "https://technooptimist.io/ai",
+        "https://www.digitaltoday.co.kr/en/view/117841/from-tfm-to-cem-ai-models-different-from-llms-are-arriving"
       ]
     },
     "gaming": {
@@ -463,44 +475,38 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "EA plans major restructuring, layoffs and game cancellations",
-          "summary": "Electronic Arts is reportedly preparing around 400 job cuts, including roughly 50 at BioWare, while shutting down BioWare and canceling The Sims-related Project Lotus. EA says it will continue prioritizing EA Sports FC, Apex Legends, Battlefield, the next Star Wars Jedi game and its Iron Man project.[1]",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/ea-outlines-future-development-plans-as-it-prepares-to-cut-around-400-jobs"
+          "title": "EA shuts down BioWare and cancels next Mass Effect",
+          "summary": "Electronic Arts announced the closure of BioWare and cancellation of its next Mass Effect project as part of a broader restructuring affecting about 400 employees. EA said it will focus on fewer major franchises, including Battlefield, Apex Legends, EA Sports FC, Marvel’s Iron Man, and the next Star Wars Jedi game.",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/with-bioware-dead-ea-lays-out-its-next-chapter-and-its-pretty-much-as-predicted-guns-and-football-are-fine-and-everything-else-is-under-the-microscope/"
         },
         {
-          "title": "EA announces Fight Night franchise return",
-          "summary": "EA Sports announced that the Fight Night boxing series is returning after more than 15 years. The publisher has not yet revealed the game's official title, release date or development studio.[8]",
-          "source": "Athlon Sports",
-          "url": "https://athlonsports.com/sports-video-games/fight-night-return-undisputed-response"
+          "title": "Indonesia gaming industry projected to add $3.3 billion by 2030",
+          "summary": "A Tencent and Access Partnership report projects that Indonesia’s gaming industry could contribute up to $3.3 billion in economic value and support 476,600 jobs by 2030 under an accelerated-growth scenario. The report calls for more financing and stronger support for local studios and intellectual property.",
+          "source": "ANTARA News",
+          "url": "https://en.antaranews.com/news/437351/indonesia-gaming-industry-eyes-us33-billion-boost-by-2030"
         },
         {
-          "title": "Taiwanese teams and players post strong esports results",
-          "summary": "Taiwanese representatives earned silver in League of Legends and bronze medals in Naraka: Bladepoint and Puyo Puyo at the Aichi-Nagoya Asian Games. A Taiwanese team also placed third in the Monster Hunter Wilds global championship at Tokyo Game Show 2026.[2]",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/27541/the-winds-of-wow-blow-again-as-autumn-esports-kicks-off-taiwans-september-game-market-trends"
-        },
-        {
-          "title": "Broken Ranks launches worldwide on Android",
-          "summary": "Polish developer Whitemoon Games announced the worldwide Android release of its free-to-play isometric MMORPG Broken Ranks.[9]",
+          "title": "Whitemoon Games launches Broken Ranks worldwide on Android",
+          "summary": "Polish developer Whitemoon Games announced the worldwide Android release of its free-to-play isometric MMORPG Broken Ranks.",
           "source": "Press Release Feed",
           "url": "https://pressreleasefeed.org/releases?brand=games-press"
         }
       ],
       "citations": [
-        "https://www.nintendolife.com/news/2026/10/ea-outlines-future-development-plans-as-it-prepares-to-cut-around-400-jobs",
+        "https://www.pcgamer.com/gaming-industry/with-bioware-dead-ea-lays-out-its-next-chapter-and-its-pretty-much-as-predicted-guns-and-football-are-fine-and-everything-else-is-under-the-microscope/",
+        "https://www.nextinterrupt.com/topics/startups-business",
         "https://www.invenglobal.com/articles/27541/the-winds-of-wow-blow-again-as-autumn-esports-kicks-off-taiwans-september-game-market-trends",
-        "https://qz.com/ea-private-layoffs-battlefront-3",
-        "https://www.igromania.ru/?ysclid=mvb0ajp2h0496304800",
-        "https://fightnews.com/ea-sports-fight-night-makes-a-comeback/198795",
-        "https://www.essentiallysports.com/flagship-think-tank-news-sports-biggest-november-threat-isnt-another-league-its-a-video-game/",
+        "https://www.is.fi/aihe/pelit/",
+        "https://en.antaranews.com/news/437351/indonesia-gaming-industry-eyes-us33-billion-boost-by-2030",
         "https://retrogems.fr/en/gemstream/?article=64048",
-        "https://athlonsports.com/sports-video-games/fight-night-return-undisputed-response",
+        "https://www.igromania.ru/?games+showall+17",
+        "https://qz.com/ea-private-layoffs-battlefront-3",
         "https://pressreleasefeed.org/releases?brand=games-press",
-        "https://www.igromania.ru/industriya/?page=114"
+        "https://www.gamereactor.eu/news/?author=Alysia+Judge"
       ]
     },
     "tech_news": {
@@ -508,50 +514,62 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Critical PHP vulnerabilities prompt emergency website patching",
-          "summary": "Researchers disclosed critical flaws in widely used PHP versions that could allow remote code execution, prompting website operators to assess and patch affected systems. The vulnerabilities are among the most significant non-AI cybersecurity developments reported in the past day.[3][10]",
-          "source": "Associated Press",
-          "url": "https://www.inquirer.com/wires/ap/ap-top-technology-news-1210-am-edt-20261022.html"
+          "title": "Bose acquires Skullcandy",
+          "summary": "Bose announced the acquisition of rival headphone and speaker maker Skullcandy on October 21. Financial terms were not disclosed, and Skullcandy will remain a separate brand within Bose’s consumer audio division.",
+          "source": "NextInterrupt",
+          "url": "https://www.nextinterrupt.com/topics/startups-business"
+        },
+        {
+          "title": "Electronic Arts shuts down BioWare and cancels next Mass Effect",
+          "summary": "Electronic Arts is reportedly closing BioWare after more than three decades and canceling the studio’s next Mass Effect game, marking a major change for one of the game industry’s best-known role-playing franchises.",
+          "source": "NextInterrupt",
+          "url": "https://www.nextinterrupt.com/topics/startups-business"
         },
         {
           "title": "Tesla begins Optimus robot production as profit falls",
-          "summary": "Tesla reportedly started production of its Optimus humanoid robot in California while reporting a 43% decline in quarterly profit. The company also said it plans to begin selling Cybercabs by the end of the year.[6]",
+          "summary": "Tesla has started production of its Optimus humanoid robot in California, while the company reported a 43% decline in profit, highlighting continued pressure to commercialize new businesses beyond electric vehicles.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/?ref=nextbigproduct"
         },
         {
-          "title": "Automattic begins layoffs amid board upheaval",
-          "summary": "WordPress.com parent Automattic has begun layoffs following board turmoil and executive departures, adding to recent restructuring across the technology industry.[6]",
+          "title": "Tesla says Cybercab sales will begin by year-end",
+          "summary": "Tesla said it plans to begin selling its Cybercab autonomous vehicle by the end of 2026, adding a firm sales target to its broader self-driving and robotaxi strategy.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/?ref=nextbigproduct"
         },
         {
-          "title": "Ukraine strikes disrupt Russian data centers and online services",
-          "summary": "Ukrainian drone attacks reportedly damaged data centers operated by Yandex, Sberbank and VK, causing ongoing interruptions to banking, e-commerce, geolocation and ride-hailing services in Russia.[1][3]",
-          "source": "Associated Press",
-          "url": "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-12-42-a-m-edt/article_cf89e7a9-974e-58b2-8078-c3b840fd544f.html"
+          "title": "Tesla and SpaceX create committees to evaluate possible merger",
+          "summary": "Tesla and SpaceX have established independent-director committees to examine a potential combination of the two companies, according to Elon Musk.",
+          "source": "NextInterrupt",
+          "url": "https://www.nextinterrupt.com/topics/startups-business"
         },
         {
-          "title": "Malaysia bans Waze use by civil servants over data concerns",
-          "summary": "Malaysia prohibited civil servants from using the navigation app Waze, citing data-security concerns and alleged links to Israel.[3]",
-          "source": "Associated Press",
-          "url": "https://www.inquirer.com/wires/ap/ap-top-technology-news-1210-am-edt-20261022.html"
+          "title": "Automattic begins layoffs after leadership upheaval",
+          "summary": "WordPress.com owner Automattic has begun layoffs following board turmoil and executive departures, adding to recent uncertainty around the company’s strategy and governance.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/?ref=nextbigproduct"
+        },
+        {
+          "title": "Blacksmith Software raises $66 million at $1 billion valuation",
+          "summary": "Continuous-integration startup Blacksmith Software raised $66 million in a Series C funding round that values the company at $1 billion.",
+          "source": "NextInterrupt",
+          "url": "https://www.nextinterrupt.com/topics/startups-business"
         }
       ],
       "citations": [
-        "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-12-42-a-m-edt/article_cf89e7a9-974e-58b2-8078-c3b840fd544f.html",
-        "https://news.assaynotes.com/en/all",
-        "https://www.inquirer.com/wires/ap/ap-top-technology-news-1210-am-edt-20261022.html",
-        "https://tradersunion.com/news/companies/show/3916727-recursive-flint-coding-model-laptop-ai/",
-        "https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-3-12-p-m-edt/article_8721cb2b-6285-5ef6-8160-70a0942df069.html",
+        "https://www.nextinterrupt.com/topics/google-android",
         "https://techcrunch.com/?ref=nextbigproduct",
         "https://www.ixbt.com/news?showType=",
-        "https://www.nextinterrupt.com/topics/google-android",
+        "https://theprimarywire.com/sections/enterprise-tech",
         "https://fmhmedialab.sydney.edu.au/ai-tech-newsletter/?topic=models",
-        "https://www.moneycontrol.com/news/business/information-technology/inside-the-ai-driven-cyber-meltdown-plunging-global-tech-into-chaos-14057692.html"
+        "https://tradersunion.com/news/companies/show/3916727-recursive-flint-coding-model-laptop-ai/",
+        "https://www.aib.vote/en/news?keyword=tidal",
+        "https://www.nextinterrupt.com/topics/startups-business",
+        "https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-3-12-p-m-edt/article_8721cb2b-6285-5ef6-8160-70a0942df069.html",
+        "https://sobasicallytech.com/news"
       ]
     }
   }
