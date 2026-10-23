@@ -1,25 +1,20 @@
 # Daily Briefing
 
-*Generated: 2026-10-23 10:58 UTC*
+*Generated: 2026-10-23 16:25 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The Nasdaq Composite fell 2.6% as tech stocks suffered a sharp selloff, while the Dow Jones Industrial Average rose 0.30% and the S&P 500 gained 0.12%. Bitcoin dropped below $80,000, down about 3.4% over 24 hours, amid a broad crypto sell-off. Major cryptocurrencies such as Ethereum, Solana, and Cardano also experienced declines.
+1. **Market Overview**: The US stock market is mixed, with the Nasdaq rising 0.2% and the S&P 500 falling 0.2% due to concerns over AI-related spending and higher crude prices. Bitcoin's price has slid below $82,000, with crypto-market liquidations reaching approximately $1.19 billion in 24 hours. Major indices such as the S&P 500 and Nasdaq are experiencing volatility, while oil prices have risen above $100 due to Middle East supply risks.
 
-2. **Tech & AI**: Meta's AI spending plans have unsettled investors, contributing to the broader technology selloff. Additionally, there have been notable developments in AI, including the training of a 360M model to pretend to be a terminal and the creation of a safe, private runtime for fleets of autonomous AI agents.
+2. **Tech & AI**: Notable tech developments include the release of OpenSSL 4.1.0, a new runtime for autonomous AI agents called OpenShell, and a wiki created by AI from 45,000 Enron emails. Additionally, there are concerns about AI financing and its impact on the tech industry, with Meta's heavy AI capital spending and negative free cash flow intensifying these concerns.
 
-3. **Gaming & Entertainment**: Xbox has announced a plan to charge users 24 to 40 cents per hour to stream games they have already purchased, sparking controversy among gamers.
+3. **Gaming & Entertainment**: Disney is raising prices for its streaming services, with ads now showing on every tier, including the premium tier. This move may impact the company's revenue and user base.
 
 4. **Key Insights**:
-* The tech sector is experiencing a selloff, with investors reducing exposure to technology stocks and moving into Treasurys.
-* The Federal Reserve's policy meeting is scheduled to begin, with markets pricing in an 89.6% probability of a 25-basis-point rate cut.
-* Bitcoin and other major cryptocurrencies have experienced significant declines amid a broad crypto sell-off.
-* Russia's central bank has proposed allowing regulated crypto access with investor limits, potentially opening up new opportunities for cryptocurrency adoption.
-* The development of AI technology continues to advance, with potential applications in various industries.
+* The US stock market is experiencing volatility due to concerns over AI-related spending and higher crude prices.
+* Bitcoin's price has slid below $82,000, with significant crypto-market liquidations.
+* Regulatory developments in the crypto space include Thailand drafting rules for Bitcoin and Ether ETFs and Spain tightening crypto-ATM identity checks.
+* The tech industry is witnessing significant developments in AI, including the release of new tools and technologies.
+* Disney's price hike for its streaming services may impact the company's revenue and user base.
 
-5. **Watch List**: 
-* The Federal Reserve's policy meeting and potential rate cut decision
-* The ongoing crypto sell-off and potential regulatory developments
-* Meta's AI spending plans and their impact on the tech sector
-* The development of AI technology and its potential applications
-* Xbox's streaming plan and its potential impact on the gaming industry
+5. **Watch List**: Items to monitor in the coming days include the Federal Reserve's interest rate decision, the Bank of Japan's policy decision, and earnings reports from major tech companies such as Microsoft, Alphabet, and Amazon. Additionally, the price movements of major cryptocurrencies like Bitcoin and Ethereum, as well as the development of new AI technologies and regulatory changes in the crypto space, should be closely watched.
