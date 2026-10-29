@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T22:08:43.714803+00:00",
-  "generated_at_human": "2026-10-28 22:08 UTC",
+  "generated_at": "2026-10-29T04:18:17.953572+00:00",
+  "generated_at_human": "2026-10-29 04:18 UTC",
   "raw_data": {
     "hackernews": {
       "source": "hackernews",
@@ -8,46 +8,106 @@
       "count": 25,
       "items": [
         {
+          "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+          "url": "https://divagr.com/blog/qwenputer",
+          "score": 203,
+          "comments": 46
+        },
+        {
           "title": "Why is this fingerprinting script creating bioweapons?",
           "url": "https://nullpt.rs/fingerprinting-bioweapons",
-          "score": 530,
-          "comments": 119
+          "score": 950,
+          "comments": 200
         },
         {
-          "title": "Formlabs Studio 1 $699 Resin Printer",
-          "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-          "score": 49,
-          "comments": 40
+          "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+          "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+          "score": 117,
+          "comments": 44
         },
         {
-          "title": "Gemini 4 Carbon",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-          "score": 685,
-          "comments": 557
+          "title": "A Health Update",
+          "url": "https://furbo.org/2026/10/28/a-health-update/",
+          "score": 147,
+          "comments": 20
+        },
+        {
+          "title": "StackOverflow now gets fewer than 1000 questions a month",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+          "score": 202,
+          "comments": 192
+        },
+        {
+          "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+          "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+          "score": 64,
+          "comments": 1
         },
         {
           "title": "CNC Stone Carving",
           "url": "https://carmelitegothic.com/cnc-stone-carving/",
-          "score": 347,
-          "comments": 109
+          "score": 431,
+          "comments": 122
         },
         {
-          "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-          "url": "https://surgehq.ai/blog/dayjob-tax",
-          "score": 166,
-          "comments": 96
+          "title": "The 'else' keyword is probably a literal translation from German (2020)",
+          "url": "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md",
+          "score": 27,
+          "comments": 10
         },
         {
-          "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-          "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-          "score": 117,
-          "comments": 33
+          "title": "Gemini 4 Carbon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "score": 844,
+          "comments": 704
+        },
+        {
+          "title": "Formlabs Studio 1 $699 Resin Printer",
+          "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+          "score": 149,
+          "comments": 97
+        },
+        {
+          "title": "Human-enhanced tsunami hazard in large lakes",
+          "url": "https://www.nature.com/articles/s41467-026-78272-8",
+          "score": 16,
+          "comments": 1
+        },
+        {
+          "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+          "url": "https://www.circuithub.com/post/unveiling-the-grid",
+          "score": 461,
+          "comments": 210
         },
         {
           "title": "MacBook Pro with PROLED XDR Display and Touch",
           "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-          "score": 431,
-          "comments": 732
+          "score": 525,
+          "comments": 904
+        },
+        {
+          "title": "Nixpkgs for the Front End Impaired",
+          "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+          "score": 25,
+          "comments": 5
+        },
+        {
+          "title": "Why birds can fly over Mount Everest (2020)",
+          "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+          "score": 99,
+          "comments": 15
+        },
+        {
+          "title": "How we made our MMDB files a 33% smaller",
+          "url": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+          "score": 21,
+          "comments": 4
+        },
+        {
+          "title": "AlpineBSD",
+          "url": "https://wiki.alpinebsd.org",
+          "score": 188,
+          "comments": 181
         },
         {
           "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
@@ -56,106 +116,46 @@
           "comments": 0
         },
         {
-          "title": "The case of the 9 bit AES key",
-          "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-          "score": 21,
-          "comments": 4
-        },
-        {
-          "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-          "url": "https://www.circuithub.com/post/unveiling-the-grid",
-          "score": 371,
-          "comments": 187
-        },
-        {
-          "title": "Start Doing Graph Theory",
-          "url": "https://vertex.degree/",
-          "score": 526,
-          "comments": 116
-        },
-        {
-          "title": "AlpineBSD",
-          "url": "https://wiki.alpinebsd.org",
-          "score": 148,
-          "comments": 129
-        },
-        {
-          "title": "The tragedy of losing your Wikipedia page",
-          "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
-          "score": 15,
-          "comments": 24
-        },
-        {
-          "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-          "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-          "score": 27,
-          "comments": 0
+          "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+          "url": "https://surgehq.ai/blog/dayjob-tax",
+          "score": 216,
+          "comments": 139
         },
         {
           "title": "Apple's git still trusts the compromised eMudhra certificates",
           "url": "https://emudhra.we-have-a-problem.com/apple.html",
-          "score": 977,
-          "comments": 369
+          "score": 1075,
+          "comments": 384
         },
         {
-          "title": "Gaussian Splats part 3: There's always a bigger scene",
-          "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
-          "score": 88,
-          "comments": 18
+          "title": "The case of the 9 bit AES key",
+          "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+          "score": 97,
+          "comments": 47
         },
         {
-          "title": "The Agent SDK",
-          "url": "https://cursor.com/blog/agent-sdk",
-          "score": 81,
-          "comments": 98
+          "title": "The first wired XR glasses powered by Android XR",
+          "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+          "score": 51,
+          "comments": 47
         },
         {
-          "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-          "url": "https://slidebyside.com/",
-          "score": 43,
+          "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+          "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+          "score": 53,
+          "comments": 5
+        },
+        {
+          "title": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
+          "url": "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing",
+          "score": 73,
           "comments": 19
         },
         {
-          "title": "Rubber Duck I've Ever Had",
-          "url": "https://blog.blockingqueue.com/the-best-rubber-duck-i-ve-ever-had",
-          "score": 9,
-          "comments": 2
-        },
-        {
-          "title": "Google AI gets cagey when asked who won the 2020 elections",
-          "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-          "score": 71,
-          "comments": 39
-        },
-        {
-          "title": "Emacs Turns 50",
-          "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-          "score": 367,
-          "comments": 159
-        },
-        {
-          "title": "Regent's Ground-Effect Vehicle Reimagines Coastal Travel",
-          "url": "https://spectrum.ieee.org/ground-effect-vehicle",
-          "score": 41,
-          "comments": 32
-        },
-        {
-          "title": "Oseberg Tapestry Fragments",
-          "url": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
-          "score": 10,
-          "comments": 0
-        },
-        {
-          "title": "The Style Is Father of the Man",
-          "url": "https://harpers.org/archive/2026/11/benjamin-kunkel-reviews-cormac-mccarthy-legacy-revisted/",
-          "score": 11,
-          "comments": 2
-        },
-        {
-          "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
-          "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
-          "score": 184,
-          "comments": 37
+          "title": "Image generation has come a long way since August 2022",
+          "url": "https://www.hbrooks.com/writing/image-generation-has-come-a-long-way",
+          "score": 43,
+          "comments": 18
         }
       ]
     },
@@ -167,42 +167,42 @@
         {
           "name": "Bitcoin",
           "symbol": "BTC",
-          "price": 81171,
-          "change_24h": 0.45,
-          "change_7d": -3.96,
-          "market_cap": 1631798528023
+          "price": 79757,
+          "change_24h": -1.39,
+          "change_7d": -3.75,
+          "market_cap": 1603597250705
         },
         {
           "name": "Ethereum",
           "symbol": "ETH",
-          "price": 2356.75,
-          "change_24h": 0.44,
-          "change_7d": -5.13,
-          "market_cap": 287897680835
+          "price": 2305.38,
+          "change_24h": -2.01,
+          "change_7d": -5.5,
+          "market_cap": 281696467494
         },
         {
           "name": "Solana",
           "symbol": "SOL",
-          "price": 102.37,
-          "change_24h": 1.17,
-          "change_7d": -4.89,
-          "market_cap": 60385635440
+          "price": 99.54,
+          "change_24h": -2.18,
+          "change_7d": -5.59,
+          "market_cap": 58743278186
         },
         {
           "name": "Dogecoin",
           "symbol": "DOGE",
-          "price": 0.080022,
-          "change_24h": 2.03,
-          "change_7d": -3.22,
-          "market_cap": 12522467097
+          "price": 0.07767,
+          "change_24h": -2.41,
+          "change_7d": -3.29,
+          "market_cap": 12160020696
         },
         {
           "name": "Cardano",
           "symbol": "ADA",
-          "price": 0.206136,
-          "change_24h": 0.54,
-          "change_7d": -9.34,
-          "market_cap": 7744432810
+          "price": 0.197275,
+          "change_24h": -4.45,
+          "change_7d": -10.9,
+          "market_cap": 7416064740
         }
       ]
     },
@@ -212,14 +212,19 @@
       "count": 10,
       "items": [
         {
-          "name": "Pudgy Penguins",
-          "symbol": "PENGU",
-          "market_cap_rank": 110
-        },
-        {
           "name": "Bitcoin",
           "symbol": "BTC",
           "market_cap_rank": 1
+        },
+        {
+          "name": "Lighter",
+          "symbol": "LIT",
+          "market_cap_rank": 87
+        },
+        {
+          "name": "Kinetiq",
+          "symbol": "KNTQ",
+          "market_cap_rank": 221
         },
         {
           "name": "Pepe",
@@ -227,39 +232,34 @@
           "market_cap_rank": 48
         },
         {
-          "name": "Canton",
-          "symbol": "CC",
-          "market_cap_rank": 27
-        },
-        {
-          "name": "Kinetiq",
-          "symbol": "KNTQ",
-          "market_cap_rank": 218
-        },
-        {
-          "name": "Pons",
-          "symbol": "PONS",
-          "market_cap_rank": 184
-        },
-        {
-          "name": "Artificial Superintelligence Alliance",
-          "symbol": "FET",
-          "market_cap_rank": 120
-        },
-        {
           "name": "Pearl",
           "symbol": "PEARL",
-          "market_cap_rank": 93
+          "market_cap_rank": 95
         },
         {
-          "name": "Starknet",
-          "symbol": "STRK",
-          "market_cap_rank": 128
+          "name": "Venice Token",
+          "symbol": "VVV",
+          "market_cap_rank": 70
         },
         {
-          "name": "Monad",
-          "symbol": "MON",
-          "market_cap_rank": 150
+          "name": "Hyperliquid",
+          "symbol": "HYPE",
+          "market_cap_rank": 11
+        },
+        {
+          "name": "Nexpace",
+          "symbol": "NXPC",
+          "market_cap_rank": 429
+        },
+        {
+          "name": "Axis Robotics",
+          "symbol": "AXIS",
+          "market_cap_rank": 750
+        },
+        {
+          "name": "Ritual",
+          "symbol": "RITUAL",
+          "market_cap_rank": 509
         }
       ]
     },
@@ -268,62 +268,68 @@
       "category": "macro_stocks",
       "query": "What are the most important macroeconomic and stock market news and developments from the past 24 hours? Include major index movements, Fed/central bank news, and significant company earnings or announcements.",
       "recency_filter": "day",
-      "count": 7,
+      "count": 8,
       "items": [
         {
-          "title": "Fed holds rates steady; December hike expectations rise",
-          "summary": "The Federal Reserve kept its policy rate at 3.75%-4.00% in a 10-2 decision, while two officials dissented in favor of a quarter-point increase. Markets increased the implied probability of a December hike to 87.4%, from 78.3% the previous day.",
-          "source": "Reuters",
-          "url": "https://live.euronext.com/en/financial-news/global-stocks-hold-gains-after-fed-decision-oil-prices-jump"
+          "title": "Fed holds rates steady with two dissenting votes",
+          "summary": "The Federal Reserve kept its benchmark interest-rate target at 3.75%-4.00% in a 10-2 vote. Two officials favored a quarter-point increase, while Chair Kevin Warsh’s comments were viewed as relatively dovish, leaving markets uncertain about a possible December move.",
+          "source": "The Wall Street Journal",
+          "url": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b"
         },
         {
-          "title": "U.S. stocks finish nearly flat after Fed decision",
-          "summary": "The Dow rose 0.17% to 52,469.11 and the S&P 500 gained 0.08% to 7,728.60, while the Nasdaq fell 0.16% to 26,434.50. Investors awaited earnings from Microsoft and Alphabet for further signals on artificial-intelligence spending and technology valuations.",
-          "source": "Reuters",
-          "url": "https://live.euronext.com/en/financial-news/global-stocks-hold-gains-after-fed-decision-oil-prices-jump"
+          "title": "U.S. stocks close modestly higher after Fed decision",
+          "summary": "The Dow rose 0.19% to 52,479.62, the S&P 500 gained 0.28% to 7,743.98, and the Nasdaq advanced 0.27% to 26,549.85. Trading remained restrained as investors assessed the Fed decision and awaited major technology earnings.",
+          "source": "InvestorsHub",
+          "url": "https://investorshub.advfn.com/market-news/article/38836/wall-street-edges-higher-as-fed-holds-rates-with-two-dissents"
         },
         {
-          "title": "Oil prices jump on Middle East supply concerns",
-          "summary": "Crude prices climbed after Iran-backed Houthis attacked a refinery in Saudi Arabia, raising concerns about potential disruption to regional energy supplies.",
-          "source": "Reuters",
-          "url": "https://www.centraloregondaily.com/news/consumer/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to/article_562c53d7-061b-533e-a3da-227a1421220f.html"
+          "title": "Oil prices rise on renewed supply-disruption concerns",
+          "summary": "Crude prices moved higher amid concerns about potential supply disruptions after an attack on a Saudi refinery attributed to Iran-backed Houthis. Higher oil prices added to inflation concerns facing markets.",
+          "source": "Reuters via Central Oregon Daily",
+          "url": "https://www.centraloregondaily.com/news/consumer/global-stocks-hold-gains-after-fed-decision-oil-prices-rise/article_ef8603df-707c-5150-9dd0-2c8d2c767796.html"
         },
         {
-          "title": "Vertiv raises outlook as data-center demand supports results",
-          "summary": "Vertiv surged 16.8% after beating quarterly expectations and increasing its full-year revenue and profit forecasts, reflecting strong demand for digital infrastructure linked to artificial-intelligence buildouts.",
-          "source": "Reuters",
-          "url": "https://www.centraloregondaily.com/news/consumer/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to/article_562c53d7-061b-533e-a3da-227a1421220f.html"
+          "title": "Microsoft beats cloud-revenue expectations",
+          "summary": "Microsoft shares rose in extended trading after the company reported quarterly revenue above Wall Street expectations, supported by stronger cloud performance.",
+          "source": "The Wall Street Journal",
+          "url": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b"
         },
         {
-          "title": "SK Hynix reports sharp profit surge; chip stocks gain",
-          "summary": "SK Hynix reported a record quarterly operating profit that was nearly seven times higher than a year earlier and exceeded market expectations. Micron rose 4.7% in U.S. trading as investors reassessed demand for memory chips and AI infrastructure.",
-          "source": "Reuters",
-          "url": "https://www.centraloregondaily.com/news/consumer/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to/article_562c53d7-061b-533e-a3da-227a1421220f.html"
+          "title": "Alphabet advertising revenue misses expectations",
+          "summary": "Alphabet shares fell after hours after the Google parent reported advertising revenue below analyst expectations, putting pressure on the company’s stock despite broader market gains.",
+          "source": "The Wall Street Journal",
+          "url": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b"
         },
         {
-          "title": "Robinhood profit misses expectations",
-          "summary": "Robinhood fell 3.9% after weaker cryptocurrency activity contributed to third-quarter profit below analyst forecasts.",
-          "source": "Reuters",
-          "url": "https://www.centraloregondaily.com/news/consumer/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to/article_562c53d7-061b-533e-a3da-227a1421220f.html"
+          "title": "Vertiv raises outlook after strong quarterly results",
+          "summary": "Vertiv jumped roughly 16.6% after reporting third-quarter sales growth of 61% and raising its full-year sales forecast by $650 million, benefiting from demand for data-center power and cooling infrastructure.",
+          "source": "InvestorsHub",
+          "url": "https://investorshub.advfn.com/market-news/article/38836/wall-street-edges-higher-as-fed-holds-rates-with-two-dissents"
         },
         {
-          "title": "Boston Scientific cuts annual profit forecast",
-          "summary": "Boston Scientific dropped 2.9% after trimming its full-year profit outlook, making it one of the notable earnings-related decliners in the session.",
-          "source": "Reuters",
-          "url": "https://www.centraloregondaily.com/news/consumer/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to/article_562c53d7-061b-533e-a3da-227a1421220f.html"
+          "title": "Wendy’s receives takeover proposal",
+          "summary": "Wendy’s shares rose about 15% after the company confirmed it had received a non-binding cash proposal of $7.35 per share from Trian Partners and affiliates led by Nelson Peltz.",
+          "source": "InvestorsHub",
+          "url": "https://investorshub.advfn.com/market-news/article/38836/wall-street-edges-higher-as-fed-holds-rates-with-two-dissents"
+        },
+        {
+          "title": "SK hynix reports record results and signals tight memory supply",
+          "summary": "South Korea’s SK hynix reported a sharp increase in quarterly profit and said memory demand could outpace supply through 2030, lifting semiconductor and artificial-intelligence-related shares globally.",
+          "source": "InvestorsHub",
+          "url": "https://investorshub.advfn.com/market-news/article/38836/wall-street-edges-higher-as-fed-holds-rates-with-two-dissents"
         }
       ],
       "citations": [
-        "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10282026-12198013",
-        "https://live.euronext.com/en/financial-news/global-stocks-hold-gains-after-fed-decision-oil-prices-jump",
-        "https://www.centraloregondaily.com/news/consumer/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to/article_562c53d7-061b-533e-a3da-227a1421220f.html",
-        "https://www.centraloregondaily.com/news/consumer/wall-street-wavers-as-federal-reserve-holds-key-rate-steady-pending-more-data/article_562c53d7-061b-533e-a3da-227a1421220f.html",
-        "https://www.barrons.com/?trk=article-ssr-frontend-pulse_little-text-block",
-        "https://www.cochraneeagle.ca/national-business/us-stocks-edge-higher-ahead-of-federal-reserve-decision-on-interest-rates-12949556",
-        "https://www.newsminimalist.com/articles/big-tech-faces-investor-scrutiny-over-ai-spending-as-earnings-reports-approach-58d9f58b",
-        "https://ucapital.com/en/news/breaking/17708381",
-        "https://ucapital.com/en/news/breaking/17709377",
-        "https://www.fidelity.com/news/article/default/202610281213RTRSNEWSCOMBINED_L3N46E1R8_1"
+        "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b",
+        "https://investorshub.advfn.com/market-news/article/38836/wall-street-edges-higher-as-fed-holds-rates-with-two-dissents",
+        "https://thenightly.com.au/world/wall-street-closes-higher-as-fed-holds-key-rate-steady-c-23086252",
+        "https://www.ndtvprofit.com/markets/wall-street-highlights-s-p-500-nasdaq-edge-higher-after-fed-as-oracle-surges-11-12251319",
+        "https://www.finanzen.at/nachrichten/aktien/u-s-stocks-close-modestly-higher-following-fed-announcement-1036679329",
+        "https://www.centraloregondaily.com/news/consumer/global-stocks-hold-gains-after-fed-decision-oil-prices-rise/article_ef8603df-707c-5150-9dd0-2c8d2c767796.html",
+        "https://www.cadillacnews.com/ap/business/ap-business-summarybrief-at-4-59-p-m-edt/article_43963ce5-cae6-58b7-92b3-8210b987e693.html",
+        "https://www.stalbertgazette.com/national-business/us-stocks-edge-higher-ahead-of-federal-reserve-decision-on-interest-rates-12949556",
+        "https://www.bignewsnetwork.com/news/279401784/dow-jones-adds-102-points-after-fed-leaves-rates-unchanged",
+        "https://seekingalpha.com/news/4658907-sp500-nasdaq-composite-dow-jones-stock-market-news?feed_item_type=news"
       ]
     },
     "crypto_news": {
@@ -331,68 +337,62 @@
       "category": "crypto_news",
       "query": "What are the most significant cryptocurrency and blockchain news from the past 24 hours? Include major price movements, regulatory news, and notable project developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 7,
       "items": [
         {
-          "title": "Bitcoin rebounds above $80,000 as traders await Fed decision",
-          "summary": "Bitcoin traded around $80,500–$81,000 after briefly falling below $80,000, while ether gained roughly 1.4%. A reported 14,942 BTC left exchanges in one day, the largest outflow in five weeks, according to cited Santiment data.",
-          "source": "Truth Network Daily",
-          "url": "https://truthnetworkdaily.com/category/crypto/"
+          "title": "Bitcoin and major cryptocurrencies edge higher after Fed holds rates",
+          "summary": "Bitcoin rose 0.3% to about $80,834 over 24 hours, while Ethereum gained 0.2% and Solana and Dogecoin rose 0.6%; XRP fell 0.7%. Total crypto market capitalization increased 0.7% to $2.82 trillion, with roughly $260 million in positions liquidated.[5]",
+          "source": "Benzinga via TradingView",
+          "url": "https://www.tradingview.com/news/benzinga:ab545003f094b:0-bitcoin-ethereum-dogecoin-gain-but-xrp-falls-as-kevin-warsh-led-fed-holds-rates-steady-analyst-puts-95-000-bitcoin-on-the-table-for-q4/"
         },
         {
-          "title": "Binance seeks Brazilian license and delists 22 tokens",
-          "summary": "Binance applied for authorization from Brazil’s central bank ahead of the October 30 deadline. It also restricted eight services and delisted 22 tokens for Brazilian users to comply with new regulations.",
-          "source": "Truth Network Daily",
-          "url": "https://truthnetworkdaily.com/category/crypto/"
+          "title": "U.S. Federal Reserve keeps interest rates unchanged",
+          "summary": "The Fed maintained its target range at 3.75%–4%, with two officials dissenting in favor of a quarter-point increase. Bitcoin traded above $80,000 as markets assessed the decision.[5]",
+          "source": "Benzinga via TradingView",
+          "url": "https://www.tradingview.com/news/benzinga:ab545003f094b:0-bitcoin-ethereum-dogecoin-gain-but-xrp-falls-as-kevin-warsh-led-fed-holds-rates-steady-analyst-puts-95-000-bitcoin-on-the-table-for-q4/"
         },
         {
-          "title": "Ripple receives final approval for U.S. national trust bank",
-          "summary": "Ripple received final approval from a U.S. banking regulator for Ripple National Trust Bank. The institution is expected to custody assets supporting the RLUSD stablecoin and hold crypto for businesses, but it cannot accept deposits or make loans.",
-          "source": "Truth Network Daily",
-          "url": "https://truthnetworkdaily.com/category/crypto/"
+          "title": "DTCC launches tokenization service for real-world assets",
+          "summary": "The Depository Trust & Clearing Corporation launched a service allowing tokenized representations of DTCC-custodied real-world assets, marking a major expansion of blockchain infrastructure in U.S. securities markets.[9]",
+          "source": "Coinfomania",
+          "url": "https://coinfomania.com/dtcc-launches-tokenization-service-for-real-world-assets/"
         },
         {
-          "title": "South Korea may delay cryptocurrency gains tax until 2029",
-          "summary": "South Korea’s presidential office is reportedly considering postponing the planned 22% cryptocurrency gains tax, scheduled to begin in January 2027, until 2029.",
-          "source": "Truth Network Daily",
-          "url": "https://truthnetworkdaily.com/category/crypto/"
+          "title": "Taiwan passes virtual-asset regulation",
+          "summary": "Taiwan’s legislature passed the Virtual Asset Service Act, requiring virtual-asset service providers and stablecoin issuers to obtain approval from the Financial Supervisory Commission. Violations can carry prison terms of up to 10 years.[4]",
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/academy/categories/cmc-crypto-news?page=53&slug=cmc-crypto-news&t=5"
         },
         {
-          "title": "Aviva Investors launches tokenized fund shares on XRP Ledger",
-          "summary": "Aviva Investors and Ripple made a tokenized share class of the Aviva Investors Sterling Liquidity Fund available on the XRP Ledger, with Aviva investing £50 million. The underlying fund remains off-chain.",
-          "source": "Truth Network Daily",
-          "url": "https://truthnetworkdaily.com/category/crypto/"
+          "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD",
+          "summary": "Moody’s rated Ripple’s RLUSD stablecoin A2 for long-term deposits and P-1 for short-term obligations, placing the ratings in the investment-grade category.[8]",
+          "source": "eFinance",
+          "url": "https://www.efin.finance/crypto/news/detail/crypto-morning-brief-october-29-2026"
         },
         {
-          "title": "Liquid Network redemption freeze continues after bitcoin exploit",
-          "summary": "Liquid Network has kept LBTC-to-bitcoin redemptions paused for 35 days after an attacker exploited an Elements software vulnerability. The attacker reportedly still controls about 598.5 BTC, valued at roughly $49.7 million.",
-          "source": "Odaily",
-          "url": "https://www.odaily.news/zh-CN/newsflash?page=168"
+          "title": "Mirae Asset completes tokenized financing note on Solana",
+          "summary": "Mirae Asset Securities Hong Kong completed issuance of a U.S.-dollar-denominated, six-month floating-rate tokenized financing note on Solana for qualified institutional investors.[1]",
+          "source": "ChainCatcher",
+          "url": "https://www.chaincatcher.com/en/article/2299786"
         },
         {
-          "title": "Mantle proposes lower annual core budget",
-          "summary": "Mantle released MIP-35, proposing to cap its core budget for July 2026 through June 2027 at $40 million in USDx and 150 million MNT, down from $52 million and 200 million MNT in the previous cycle.",
-          "source": "BBX",
-          "url": "https://bbx.com/ru/news"
-        },
-        {
-          "title": "Itaú launches cryptocurrency trading and custody in Brazil",
-          "summary": "Brazilian bank Itaú Unibanco began offering cryptocurrency trading and custody under the central bank’s new regulatory framework, initially supporting 15 crypto assets including BTC, ETH, SOL, XRP and USDC.",
-          "source": "BBX",
-          "url": "https://bbx.com/ru/news"
+          "title": "Crypto.com launches regulated U.S. perpetual futures",
+          "summary": "Crypto.com and OG.com launched regulated cryptocurrency perpetual futures for eligible U.S. traders, offering leverage of up to five times and bringing the product into the regulated U.S. derivatives market.[7]",
+          "source": "CoinFi",
+          "url": "https://www.coinfi.com/news/1849675/cryptocom-launches-regulated-us-crypto-perpetuals-with-up-to-5x-leverage"
         }
       ],
       "citations": [
-        "https://bbx.com/ru/news",
-        "https://www.tokenpost.com/?rdUrl=/news/regulation/22232",
-        "https://www.odaily.news/zh-CN/newsflash?page=168",
-        "https://www.cryptopolitan.com/armstrong-says-tokenized-stocks-are-surging/",
-        "https://sourcedblock.com/briefing/",
-        "https://truthnetworkdaily.com/category/crypto/",
-        "https://www.jrkripto.com/en/news",
-        "https://www.openpr.com/news/4675496/crypto-news-today-14-942-bitcoin-pulled-off-exchanges-before",
-        "https://www.openpr.com/news/4675499/bitcoin-price-prediction-14-942-btc-leave-exchanges-before",
-        "https://coinmarketcap.com/academy/categories/cmc-crypto-news?;;amp;slug=cmc-crypto-news&;;page=55&;amp;amp;amp;slug=cmc-crypto-news&;amp;page=2&;page=1&;slug=cmc-crypto-news&page=12&slug=cmc-crypto-news"
+        "https://www.chaincatcher.com/en/article/2299786",
+        "https://en.coin-turk.com/strategy-wins-approval-for-daily-dividends-moodys-rates-rlusd-a2-coinbase-denies-breach/",
+        "https://alphanode.global/insights/dtcc-opens-tokenisation-oct-29-2026/",
+        "https://coinmarketcap.com/academy/categories/cmc-crypto-news?page=53&slug=cmc-crypto-news&t=5",
+        "https://www.tradingview.com/news/benzinga:ab545003f094b:0-bitcoin-ethereum-dogecoin-gain-but-xrp-falls-as-kevin-warsh-led-fed-holds-rates-steady-analyst-puts-95-000-bitcoin-on-the-table-for-q4/",
+        "https://www.odaily.news/zh-CN/newsflash?page=178",
+        "https://www.coinfi.com/news/1849675/cryptocom-launches-regulated-us-crypto-perpetuals-with-up-to-5x-leverage",
+        "https://www.efin.finance/crypto/news/detail/crypto-morning-brief-october-29-2026",
+        "https://coinfomania.com/dtcc-launches-tokenization-service-for-real-world-assets/",
+        "https://www.cointribune.com/en/bitcoin-passes-above-80000-again-but-zcash-and-memecore-perform-better/"
       ]
     },
     "ai_news": {
@@ -400,19 +400,74 @@
       "category": "ai",
       "query": "What are the most important artificial intelligence and machine learning news and developments from the past 24 hours? Include new model releases, company announcements, research breakthroughs, and industry trends.",
       "recency_filter": "day",
-      "count": 0,
-      "items": [],
+      "count": 9,
+      "items": [
+        {
+          "title": "Google launches Gemini 4 Carbon",
+          "summary": "Google announced Gemini 4 Carbon, a frontier model focused on cybersecurity, complex programming, and long-horizon tasks. Initial access is limited to selected cyber defenders and trusted partners, with broader availability planned later.",
+          "source": "The Fly",
+          "url": "https://www.tipranks.com/news/the-fly/ai-daily-openai-said-to-plan-using-google-tpu-chips-for-ai-thefly-news"
+        },
+        {
+          "title": "OpenAI reportedly plans to use Google TPU chips",
+          "summary": "OpenAI reportedly intends to purchase Google’s custom TPU accelerators as it expands AI infrastructure and seeks alternatives to relying exclusively on Nvidia GPUs. The company is also hiring engineers to optimize frontier models for TPUs.",
+          "source": "The Fly",
+          "url": "https://www.tipranks.com/news/the-fly/ai-daily-openai-said-to-plan-using-google-tpu-chips-for-ai-thefly-news"
+        },
+        {
+          "title": "Google DeepMind previews Genie 4 world model",
+          "summary": "Google DeepMind announced Genie 4, a model that generates interactive, real-time simulated environments with visuals, sound, and dialogue. The research preview is available to selected testers in areas including gaming, education, journalism, and engineering.",
+          "source": "AI Daily by rclabs",
+          "url": "https://daily.rclabs.in/c/google"
+        },
+        {
+          "title": "OpenAI and ServiceNow expand partnership",
+          "summary": "OpenAI and ServiceNow are expanding their partnership to integrate OpenAI models and agents into ServiceNow products while bringing ServiceNow workflows and business context into ChatGPT and Codex.",
+          "source": "The Fly",
+          "url": "https://www.tipranks.com/news/the-fly/ai-daily-openai-said-to-plan-using-google-tpu-chips-for-ai-thefly-news"
+        },
+        {
+          "title": "AMD invests $1 billion in Meta",
+          "summary": "AMD announced a $1 billion investment in Meta and said its first Helios AI rack systems are operating at Meta. The deal follows a separate $3 billion Nvidia investment in Meta.",
+          "source": "AI Daily by rclabs",
+          "url": "https://daily.rclabs.in/t/business"
+        },
+        {
+          "title": "New York restricts unsafe chatbot behavior involving minors",
+          "summary": "New York enacted restrictions on certain AI companion behaviors involving children. Violations of the new requirements can result in fines, extending state-level regulation of AI systems used by minors.",
+          "source": "Associated Press",
+          "url": "https://santamariatimes.com/ap/business/ap-technology-summarybrief-at-8-19-p-m-edt/article_2aae49a2-3bd0-5e4d-ac8a-a03ee1106edb.html"
+        },
+        {
+          "title": "Oracle to offer Google TPUs in its cloud",
+          "summary": "Oracle plans to rent Google Tensor Processing Units through its cloud beginning in 2027, potentially making it the first major cloud provider outside Google to offer the accelerators.",
+          "source": "AI Daily by rclabs",
+          "url": "https://daily.rclabs.in/t/hardware"
+        },
+        {
+          "title": "Google adds third-party agents to Android Studio",
+          "summary": "Google introduced a Bring Your Own Agent feature for Android Studio, enabling developers to connect more than 40 external coding agents, including Claude Agent and OpenAI Codex.",
+          "source": "AI Daily by rclabs",
+          "url": "https://daily.rclabs.in/t/devtools"
+        },
+        {
+          "title": "Anthropic files for a potentially record-setting IPO",
+          "summary": "Anthropic filed paperwork for a public offering that could become one of the largest technology IPOs. The filing also details potential risks from advanced AI, including cyberattacks and dangerous misinformation.",
+          "source": "Associated Press",
+          "url": "https://santamariatimes.com/ap/business/ap-technology-summarybrief-at-8-19-p-m-edt/article_2aae49a2-3bd0-5e4d-ac8a-a03ee1106edb.html"
+        }
+      ],
       "citations": [
-        "https://ainews.tenesys.com/news",
-        "https://www.antm.ai/latest",
-        "https://myaiobserver.com/feed",
-        "https://www.thelatentdaily.com/news/",
-        "https://aiinsider.news/",
-        "https://aistatslive.com/news",
-        "https://latent.space/news/",
+        "https://charonhub.deeplearning.ai/how-to-read-the-top-model-leaderboard/",
+        "https://news.yahoo.co.jp/articles/c3f85a955b0bf49e11bc02f0210e7f97058e7c5d/images/000",
+        "https://www.tipranks.com/news/the-fly/ai-daily-openai-said-to-plan-using-google-tpu-chips-for-ai-thefly-news",
+        "https://makaroff.ai/news/",
+        "https://www.ifanr.com/1686590",
         "https://daily.rclabs.in/c/google",
-        "https://oursignal.com/t/techtalks",
-        "https://daily.rclabs.in/c/openai"
+        "https://daily.rclabs.in/t/hardware",
+        "https://daily.rclabs.in/t/business",
+        "https://daily.rclabs.in/t/devtools",
+        "https://santamariatimes.com/ap/business/ap-technology-summarybrief-at-8-19-p-m-edt/article_2aae49a2-3bd0-5e4d-ac8a-a03ee1106edb.html"
       ]
     },
     "gaming": {
@@ -420,68 +475,44 @@
       "category": "gaming",
       "query": "What are the most notable video game and gaming industry news from the past 24 hours? Include game releases, announcements, esports, and industry developments.",
       "recency_filter": "day",
-      "count": 8,
+      "count": 4,
       "items": [
         {
-          "title": "EA reportedly closes BioWare after 30 years",
-          "summary": "Electronic Arts reportedly shut down BioWare, ending the studio’s three-decade run and halting early development on the next Mass Effect project. The report has not been independently confirmed by a primary EA or BioWare announcement.",
-          "source": "The Washington Post",
-          "url": "https://www.washingtonpost.com/entertainment/video-games/"
+          "title": "Epic confirms AI-assisted development for Fortnite and Unreal Engine 6",
+          "summary": "Epic Games executive vice president Marcus Wassmer said the company is using AI-assisted or “vibe-coding” workflows for Fortnite, UEFN, Unreal Engine and Unreal Engine 6. He said engineers guide AI tools rather than writing most of the code manually.[1][2]",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code"
         },
         {
-          "title": "Warhorse Studios confirms cyberattack",
-          "summary": "Warhorse Studios, developer of Kingdom Come: Deliverance, confirmed that attackers gained unauthorized access to its systems and said it is investigating the incident and potential data exposure.",
-          "source": "Gamereactor",
-          "url": "https://www.gamereactor.eu/news/?author=Markus+Hirsila+Sergio+Figueroa"
+          "title": "Nintendo showcases 23 indie games for Switch and Switch 2",
+          "summary": "Nintendo’s latest Indie World presentation featured 23 games, including new announcements, updates and release information for titles coming to Switch and Switch 2.[9]",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/heres-all-23-games-shown-during-nintendos-latest-indie-world-presentation/"
         },
         {
-          "title": "GTA VI sets record purchase interest in Circana tracking",
-          "summary": "Nearly 29% of U.S. console and PC gamers reportedly plan to buy Grand Theft Auto VI, the highest purchase-intent figure recorded by Circana for a video game. Rockstar is scheduled to release the game on November 19.",
-          "source": "Media Play News",
-          "url": "https://www.mediaplaynews.com/circana-nearly-1-in-3-us-gamers-plan-to-buy-grand-theft-auto-vi-setting-new-industry-record/"
+          "title": "Nintendo highlights upcoming indie releases",
+          "summary": "Nintendo’s showcase included a range of independent games, from retro-styled adventures to a cooperative raccoon simulator, and revealed a release date for My Arms Are Longer Now.[4]",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1020631/a-whole-bunch-of-indie-games-to-look-forward-to"
         },
         {
-          "title": "Nintendo announces Indie World Showcase",
-          "summary": "Nintendo announced an Indie World presentation for October 28, expected to feature new and upcoming independent games for its platforms.",
-          "source": "IXBT.games",
-          "url": "https://ixbt.games/news?cursor=eyJwdWJkYXRldGltZSI6IjIwMjUtMDEtMjAgMTQ6NTU6MTciLCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9"
-        },
-        {
-          "title": "Probably Stolen launches on Steam",
-          "summary": "The cyberpunk simulation game Probably Stolen was released on Steam and reportedly set a new player-record milestone for publisher tinyBuild.",
-          "source": "IXBT.games",
-          "url": "https://ixbt.games/news?cursor=eyJwdWJkYXRldGltZSI6IjIwMjUtMDEtMjAgMTQ6NTU6MTciLCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9"
-        },
-        {
-          "title": "PlayStation reveals Prism transparent-accessory collection",
-          "summary": "PlayStation presented a Prism collection featuring transparent DualSense controllers and matching PS5 console covers.",
-          "source": "IXBT.games",
-          "url": "https://ixbt.games/news?cursor=eyJwdWJkYXRldGltZSI6IjIwMjUtMDEtMjAgMTQ6NTU6MTciLCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9"
-        },
-        {
-          "title": "KartBoard Dash announces competitive mode and console versions",
-          "summary": "Following its PC and mobile launch, KartBoard Dash developer Zatun announced a Championship Mode and plans to bring the free-to-play racer to PlayStation 5, Xbox, and Nintendo Switch.",
-          "source": "PressReleaseFeed",
-          "url": "https://pressreleasefeed.org/releases?topic=gaming"
-        },
-        {
-          "title": "PlayStation reveals Where Winds Meet story expansion",
-          "summary": "PlayStation detailed the climactic Hutuo Battlefield narrative arc for Where Winds Meet, scheduled to launch on November 13.",
-          "source": "PlayStation.Blog",
-          "url": "https://blog.playstation.com/?smcid=store:en-us:product-UP4432-CUSA29341_00-500UN1GOLD000000:primary%20nav:msg-news"
+          "title": "Wardogs tops September PC revenue rankings",
+          "summary": "Bulkhead’s Early Access shooter Wardogs ranked first in Newzoo’s September PC revenue chart, ahead of EA Sports FC 27. Marvel’s Wolverine ranked fourth on console, while several other new releases entered the monthly rankings.[7]",
+          "source": "Mezha",
+          "url": "https://mezha.net/eng/news/mezha-2ffba25d3407a09f1ab216ce_wardogs-tops-newzoo-s/"
         }
       ],
       "citations": [
-        "https://ixbt.games/news?cursor=eyJwdWJkYXRldGltZSI6IjIwMjUtMDEtMjAgMTQ6NTU6MTciLCJfcG9pbnRzVG9OZXh0SXRlbXMiOnRydWV9",
-        "https://www.washingtonpost.com/entertainment/video-games/?%20entertainment_6/",
-        "https://www.gamereactor.eu/news/?author=Markus+Hirsila+Sergio+Figueroa",
-        "https://pwnwire.com/",
-        "https://podcasts.apple.com/id/podcast/podcast/id1814396055/episodes",
-        "https://www.mediaplaynews.com/circana-nearly-1-in-3-us-gamers-plan-to-buy-grand-theft-auto-vi-setting-new-industry-record/",
-        "https://pressreleasefeed.org/releases?topic=gaming",
-        "https://www.huffpost.com/topic/gaming?page=2",
-        "https://blog.playstation.com/?smcid=store:en-us:product-UP4432-CUSA29341_00-500UN1GOLD000000:primary%20nav:msg-news:ps-blog",
-        "https://retrogems.fr/es/gemstream/"
+        "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+        "https://www.polygon.com/fortnite-unreal-engine-6-fortnite-vibe-coding/",
+        "https://tw.news.yahoo.com/tag/%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2",
+        "https://www.theverge.com/entertainment/1020631/a-whole-bunch-of-indie-games-to-look-forward-to",
+        "https://ixbt.games/en/news/2026/10/29/video-tes-vi-v-2028-certov-geimdev-v-rf-vzlom-ns2-poe-2-v-rassrocku-siuzet-mass-effect-5-hl-x.html",
+        "https://tw.news.yahoo.com/tag/Ampere",
+        "https://mezha.net/eng/news/mezha-2ffba25d3407a09f1ab216ce_wardogs_tops_newzoo-s/",
+        "https://www.patreon.com/Research_Report_Insights/posts/esports-market-173624358",
+        "https://www.videogameschronicle.com/news/heres-all-23-games-shown-during-nintendos-latest-indie-world-presentation/",
+        "https://www.polygon.com/nintendo/2/"
       ]
     },
     "tech_news": {
@@ -489,50 +520,26 @@
       "category": "tech",
       "query": "What are the most important technology news and developments from the past 24 hours? Include major product launches, company news, and significant tech industry developments. Exclude AI-specific news.",
       "recency_filter": "day",
-      "count": 5,
+      "count": 1,
       "items": [
         {
-          "title": "Apple unveils touchscreen MacBook Pro and updated iMac",
-          "summary": "Apple announced new Mac and iMac hardware featuring its latest processors, including a touchscreen MacBook Pro with a 14-inch or 16-inch display. The MacBook Pro starts at $2,899, according to Techmeme’s roundup.",
-          "source": "Techmeme",
-          "url": "https://www.techmeme.com/261028/p44"
-        },
-        {
-          "title": "Amazon announces new Echo devices and Alexa features",
-          "summary": "Amazon introduced the $500 Echo Show 16, the $200 Echo Time alarm clock and a new Alexa Photo Frame, while also raising prices for some smart speakers. The company also previewed Alexa Home Map.",
-          "source": "Techmeme",
-          "url": "https://www.techmeme.com/261028/p44"
-        },
-        {
-          "title": "FCC approves Amazon Leo acquisition of Globalstar",
-          "summary": "The U.S. Federal Communications Commission approved Amazon Leo’s $11.5 billion acquisition of Globalstar, giving Amazon access to Globalstar’s satellite fleet and mobile-satellite spectrum.",
-          "source": "Techmeme",
-          "url": "https://www.techmeme.com/261028/p44"
-        },
-        {
-          "title": "Dropbox plans approximately 200 layoffs",
-          "summary": "Dropbox said it plans to cut about 6% of its workforce, or roughly 200 jobs, with expected severance costs of $27 million to $33 million. CTO Ali Dasdan is also scheduled to leave on November 18.",
-          "source": "Techmeme",
-          "url": "https://www.techmeme.com/261028/p44"
-        },
-        {
-          "title": "Anduril and Qualcomm announce rugged BlueChip laptop",
-          "summary": "Anduril and Qualcomm unveiled BlueChip, a rugged laptop aimed at government and defense customers. Preorders are expected to open in 2027, with most first-generation components sourced from the United States or allied countries.",
-          "source": "TAFS",
-          "url": "https://tafs.uz/en/category/technology"
+          "title": "Apple unveils first touchscreen MacBooks",
+          "summary": "Apple introduced its first touchscreen MacBook models as part of a broader product launch ahead of the holiday shopping season. The move reverses the company’s longstanding resistance to touchscreen laptops.",
+          "source": "News24",
+          "url": "https://www.news24.com/business/tech/apple-shows-first-touchscreen-laptops-amid-product-blitz-20261028-1134"
         }
       ],
       "citations": [
-        "https://techcrunch.com/?ref=nextbigproduct",
-        "https://tafs.uz/en/category/technology",
-        "https://digivona.com/",
-        "https://techcrunch.com/?18226a0b_page=2&8dec0692_page=1&8dec0692_page=2&9f60c940_page=2&9f60c940_page=2&18226a0b_page=2&4b6f90d9_page=2&9db892b3_page=3",
-        "https://thenextweb.com/?s=xiaomi",
-        "https://tldr.tech/?ref=resource.fyi",
-        "https://www.fastcompany.com/all/2709",
-        "https://www.techmeme.com/261028/p44",
-        "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/",
-        "https://balvoi.com/category/tech"
+        "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-8-53-p-m-edt/article_6f4a6901-57f7-50d1-a66e-f94785a4361c.html",
+        "https://www.news24.com/business/tech/apple-shows-first-touchscreen-laptops-amid-product-blitz-20261028-1134",
+        "https://daily.rclabs.in/t/products",
+        "https://circuitobserver.com/section/tech/",
+        "https://daily.rclabs.in/c/google",
+        "https://tw.news.yahoo.com/technology/archive/?Txdy3vh9DbcJ%0F%16%0F%15%0B%0B%12%0F%1D1Nykq%E9%87%91%E4%BB%93%E6%95%B0%E6%8D%AE%E5%BA%93eh62ZgE8%0B%16%12%0E%11%1C%0F%15%13%1A%0FgaHGkF5fy",
+        "https://www.businesswire.com/news/home/20261028485880/en/",
+        "https://daily.rclabs.in/t/hardware",
+        "https://daily.rclabs.in/t/business",
+        "https://bbs.hupu.com/643400667.html"
       ]
     }
   }
