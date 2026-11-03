@@ -1,23 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-11-03 13:35 UTC*
+*Generated: 2026-11-03 22:52 UTC*
 
-1. **Market Overview**: The global market is experiencing a decline, with Asian stocks falling 1.4% and US stock futures weakening ahead of the midterm elections. The tech sector is particularly affected, with Apple shares sliding 3% after a margin warning and weaker services outlook. Bitcoin has fallen below $77,000, with the crypto market losing $176 million in liquidations. Key macroeconomic indicators include a 25-basis-point interest rate hike by the Reserve Bank of Australia and a $115 billion deal between Marvell and Lumentum.
+Here is your executive briefing:
 
-2. **Tech & AI**: Significant tech developments include Nvidia's open-source auto-ontology, the European RISC-V Industrial Computing Initiative, and Psiquantum's optical circuit switch technology. Additionally, there are advancements in AI, such as Subvocal, which enables users to communicate with their computers without making noise. Marvell's acquisition of Lumentum for $115 billion is also a notable development in the semiconductor and AI infrastructure sectors.
+1. **Market Overview**: The S&P 500 and Nasdaq rose about 0.6% and 1.1%, respectively, while the Dow fell roughly 0.3% in afternoon trading. Bitcoin and major cryptocurrencies fell, with Bitcoin down 2.2% to about $76,829. The global crypto market capitalization declined 0.7% to $2.678 trillion over 24 hours. Key cryptocurrencies such as Ethereum, Solana, and Dogecoin saw mixed movements, with Ethereum rising 1.71% and Solana rising 1.53% in the last 24 hours.
 
-3. **Gaming & Entertainment**: There is limited notable gaming news, but an interactive 3D map of Warsaw's city centre, "Warsaw in voxels," has been showcased on Hacker News.
+2. **Tech & AI**: Notable tech developments include Apple's disappointing margin outlook, which led to a decline in its shares. The company reported better-than-expected quarterly results but forecast weaker holiday-quarter gross margins due to rising memory-chip costs. Additionally, Fujifilm plans to boost tape production 5x as AI fuels archiving demand. US tech giants' hidden AI debt swelled 90% to $3.2T in 6 months.
+
+3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
 
 4. **Key Insights**:
-* The tech sector is experiencing a sell-off, with Apple and Palantir shares declining despite beating quarterly estimates.
-* The crypto market is under pressure, with Bitcoin falling below $77,000 and $176 million in liquidations.
-* The Reserve Bank of Australia has raised interest rates to a near two-decade high, citing persistent inflation pressures.
-* Marvell's acquisition of Lumentum for $115 billion is a significant development in the semiconductor and AI infrastructure sectors.
-* Nvidia's open-source auto-ontology and Psiquantum's optical circuit switch technology are notable advancements in AI and tech.
+* The US stock market is experiencing mixed movements as investors await midterm election results.
+* Apple's disappointing margin outlook has led to a decline in its shares.
+* The global crypto market capitalization has declined 0.7% to $2.678 trillion over 24 hours.
+* Fujifilm's plan to boost tape production 5x indicates growing demand for archiving solutions driven by AI.
+* US tech giants' hidden AI debt has increased significantly, reaching $3.2T in 6 months.
 
 5. **Watch List**: 
-* US midterm election results and their impact on the market
-* Friday's employment report and its potential effect on interest rates
-* The ongoing Binance hack and its implications for the crypto market
-* Upcoming earnings reports from major companies, including AMD, Amgen, and Pfizer
-* Developments in the semiconductor and AI infrastructure sectors, particularly following Marvell's acquisition of Lumentum.
+* US midterm election results and their impact on the stock market.
+* Apple's stock performance following its disappointing margin outlook.
+* Bitcoin and major cryptocurrency price movements.
+* Fujifilm's tape production expansion and its effect on the archiving industry.
+* US tech giants' AI debt and its potential implications for the tech industry.
