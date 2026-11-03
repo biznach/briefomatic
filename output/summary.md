@@ -1,26 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-11-03 00:27 UTC*
+*Generated: 2026-11-03 13:35 UTC*
 
-Here is your executive briefing for November 3, 2026:
+1. **Market Overview**: The global market is experiencing a decline, with Asian stocks falling 1.4% and US stock futures weakening ahead of the midterm elections. The tech sector is particularly affected, with Apple shares sliding 3% after a margin warning and weaker services outlook. Bitcoin has fallen below $77,000, with the crypto market losing $176 million in liquidations. Key macroeconomic indicators include a 25-basis-point interest rate hike by the Reserve Bank of Australia and a $115 billion deal between Marvell and Lumentum.
 
-1. **Market Overview**: The S&P 500 fell 0.5%, the Nasdaq 100 dropped 1.4%, and the Dow rose 0.4% as weakness in chipmakers pressured technology shares. Oil prices plunged due to hopes for diplomatic efforts related to the Iran war, with West Texas Intermediate settling near $96.50 a barrel. Bitcoin and major cryptocurrencies remain volatile, with Bitcoin hovering around $77,000-$78,000. The crypto market saw significant outflows, with U.S. spot Bitcoin ETFs recording $202.6 million in weekly outflows and spot Ethereum ETFs experiencing $431.5 million in withdrawals.
+2. **Tech & AI**: Significant tech developments include Nvidia's open-source auto-ontology, the European RISC-V Industrial Computing Initiative, and Psiquantum's optical circuit switch technology. Additionally, there are advancements in AI, such as Subvocal, which enables users to communicate with their computers without making noise. Marvell's acquisition of Lumentum for $115 billion is also a notable development in the semiconductor and AI infrastructure sectors.
 
-2. **Tech & AI**: Marvell Technology agreed to buy Lumentum Holdings at an enterprise value of about $115 billion, targeting demand for data-center networking and AI infrastructure. Anthropic reported a twelve-fold increase in quarterly revenue while indicating plans to spend over $895 billion over coming years. Oracle filed to sell $20 billion in new stock and bonds to finance its AI buildout. Astra can now read and write weights to improve Qwen, and there are advancements in egoless mathematics in the AI era.
-
-3. **Gaming & Entertainment**: There is no significant gaming news to report at this time.
+3. **Gaming & Entertainment**: There is limited notable gaming news, but an interactive 3D map of Warsaw's city centre, "Warsaw in voxels," has been showcased on Hacker News.
 
 4. **Key Insights**:
-* The Fed may reduce the number of policy meetings in 2027, making each decision more consequential and increasing market volatility.
-* Markets face a pivotal week with U.S. midterm elections, Apple's earnings report, and October employment data.
-* The People's Bank of China announced additional market-support liquidity, deploying roughly 100 billion yuan to provide financial firms with liquidity for market investment.
-* Crypto investment products see renewed outflows, adding to broader market caution.
-* Binance resumed withdrawals after a record hack, covering customer losses and seeing a net $3.64 billion in withdrawals on the first day.
+* The tech sector is experiencing a sell-off, with Apple and Palantir shares declining despite beating quarterly estimates.
+* The crypto market is under pressure, with Bitcoin falling below $77,000 and $176 million in liquidations.
+* The Reserve Bank of Australia has raised interest rates to a near two-decade high, citing persistent inflation pressures.
+* Marvell's acquisition of Lumentum for $115 billion is a significant development in the semiconductor and AI infrastructure sectors.
+* Nvidia's open-source auto-ontology and Psiquantum's optical circuit switch technology are notable advancements in AI and tech.
 
 5. **Watch List**: 
-* U.S. midterm elections and their impact on the market
-* Apple's earnings report and its effect on the tech sector
-* October employment data and its implications for the economy
-* The Fed's potential reduction in policy meetings and its consequences for market volatility
-* Developments in the crypto market, including price movements and regulatory news
-* Progress in AI infrastructure and its applications in various industries
+* US midterm election results and their impact on the market
+* Friday's employment report and its potential effect on interest rates
+* The ongoing Binance hack and its implications for the crypto market
+* Upcoming earnings reports from major companies, including AMD, Amgen, and Pfizer
+* Developments in the semiconductor and AI infrastructure sectors, particularly following Marvell's acquisition of Lumentum.
