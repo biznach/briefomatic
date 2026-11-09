@@ -1,26 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-11-09 04:35 UTC*
+*Generated: 2026-11-09 15:07 UTC*
 
-Here's your executive briefing:
+Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The cryptocurrency market has seen a decline, with Bitcoin and Ethereum falling by 1% and 4.3% respectively. The US stock market is awaiting inflation data, with the S&P 500 rising 0.31% and the Nasdaq Composite gaining 1.09%. The dollar remains firm, with an 80% probability of a 25-basis-point Federal Reserve rate hike in December.
+1. **Market Overview**: The cryptocurrency market is experiencing a sell-off, with Bitcoin falling below $74,000 and Ethereum dropping over 4%. The stock market is attempting to recover from last week's AI-related losses, with Wall Street futures pointing higher. The Dow futures are up about 1.0%, S&P 500 futures up 0.7%, and Nasdaq 100 futures up 0.7%. The US jobs report showed a strong addition of 165,000 jobs in October, increasing expectations for a December Fed hike.
 
-2. **Tech & AI**: Nvidia's CEO Jensen Huang is under investigation by the company's board due to a reported relationship with a businesswoman described as a Chinese spy. The AI trade remains under pressure ahead of CPI and tech earnings. Goldman Sachs is pulling Claude Code from its bankers and traders, and there are concerns about the sustainability and cost of the artificial-intelligence infrastructure boom.
+2. **Tech & AI**: Nvidia's CEO Jensen Huang is under investigation, and the company's shares fell about 5% premarket. There are also concerns about AI demand and tighter regulation. Additionally, KetchUp, an open-source SketchUp alternative built with Rust and WebGPU, has gained significant attention. Declarative Dragging, a new technology, has also been introduced.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
+3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, it's worth noting that the entertainment industry is likely to be impacted by the ongoing AI developments and advancements.
 
 4. **Key Insights**:
-* The cryptocurrency market is experiencing liquidations, with over $1 billion in long positions.
-* Regulatory actions, such as FinCEN's measures against MEXC Global, are causing concerns about withdrawal restrictions.
-* The EU has launched a task force to target crypto-based sanctions evasion.
-* Circle has received a US OCC bank charter, highlighting the expansion of crypto infrastructure.
-* US spot Bitcoin ETF holdings have exceeded 2.06 million BTC, equivalent to approximately 10.24% of the cryptocurrency's supply.
+* The cryptocurrency market is experiencing a significant sell-off, with major coins like Bitcoin and Ethereum dropping in value.
+* The US jobs report showed a strong addition of jobs, increasing expectations for a December Fed hike.
+* Nvidia's CEO investigation and the company's falling shares are adding volatility to the AI trade.
+* New technologies like KetchUp and Declarative Dragging are gaining attention in the tech industry.
+* The upcoming earnings reports from companies like CoreWeave, Applied Materials, and Cisco are expected to provide fresh signals on AI infrastructure spending.
 
 5. **Watch List**: 
-* Inflation data and CPI release
-* Tech earnings, including CoreWeave, Applied Materials, and Cisco Systems
-* Federal Reserve rate hike decision in December
-* Developments in the Nvidia CEO investigation
-* Regulatory actions in the cryptocurrency market
-* Expansion of crypto infrastructure and its integration with traditional financial systems
+* Bitcoin and Ethereum prices
+* US inflation data and the Federal Reserve's interest-rate path
+* Nvidia's investigation and its impact on the AI trade
+* Upcoming earnings reports from companies like CoreWeave, Applied Materials, and Cisco
+* Developments in new technologies like KetchUp and Declarative Dragging
