@@ -1,25 +1,26 @@
 # Daily Briefing
 
-*Generated: 2026-11-08 21:39 UTC*
+*Generated: 2026-11-09 04:35 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+Here's your executive briefing:
 
-1. **Market Overview**: The Nasdaq Composite rose about 1% and semiconductor stocks gained roughly 4% on Friday, while the S&P 500 advanced 0.3%, following Thursday’s sharp technology-led decline. Bitcoin was trading around $75,868 with essentially no 24-hour change, while Ethereum gained about 0.1% to approximately $2,240.24.
+1. **Market Overview**: The cryptocurrency market has seen a decline, with Bitcoin and Ethereum falling by 1% and 4.3% respectively. The US stock market is awaiting inflation data, with the S&P 500 rising 0.31% and the Nasdaq Composite gaining 1.09%. The dollar remains firm, with an 80% probability of a 25-basis-point Federal Reserve rate hike in December.
 
-2. **Tech & AI**: Goldman Sachs is pulling Claude Code from its bankers and traders, and Nvidia's Board of Directors is investigating Jensen Huang. Additionally, there are concerns about stretched AI valuations, and investors are reassessing the AI trade after election-related concerns about data-center regulation and development restrictions.
+2. **Tech & AI**: Nvidia's CEO Jensen Huang is under investigation by the company's board due to a reported relationship with a businesswoman described as a Chinese spy. The AI trade remains under pressure ahead of CPI and tech earnings. Goldman Sachs is pulling Claude Code from its bankers and traders, and there are concerns about the sustainability and cost of the artificial-intelligence infrastructure boom.
 
-3. **Gaming & Entertainment**: There is no notable gaming news in the provided data.
+3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
 
 4. **Key Insights**:
-* The US jobs report boosted December Fed hike expectations, with markets pricing in nearly an 80% probability of a Federal Reserve rate hike at its December meeting.
-* US inflation reports are becoming the next major market catalyst, with investors awaiting October consumer-price data on Tuesday and producer-price data on Friday.
-* The Canadian labor market weakened, with employment falling for a third consecutive month, reducing market expectations for a December Bank of Canada rate hike to about 33%.
-* Berkshire Hathaway reported mixed third-quarter results, with operating earnings falling 6% to $12.7 billion, roughly matching estimates, while revenue rose 11% to $105.6 billion, above forecasts.
-* Major technology earnings are scheduled for the coming week, including CoreWeave, Applied Materials, and Cisco Systems.
+* The cryptocurrency market is experiencing liquidations, with over $1 billion in long positions.
+* Regulatory actions, such as FinCEN's measures against MEXC Global, are causing concerns about withdrawal restrictions.
+* The EU has launched a task force to target crypto-based sanctions evasion.
+* Circle has received a US OCC bank charter, highlighting the expansion of crypto infrastructure.
+* US spot Bitcoin ETF holdings have exceeded 2.06 million BTC, equivalent to approximately 10.24% of the cryptocurrency's supply.
 
 5. **Watch List**: 
-* US inflation data releases on Tuesday and Friday
-* Federal Reserve rate hike expectations
-* Technology earnings reports, including CoreWeave, Applied Materials, and Cisco Systems
-* Developments in the AI trade, including regulatory concerns and valuations
-* Cryptocurrency price movements, particularly Bitcoin and Ethereum
+* Inflation data and CPI release
+* Tech earnings, including CoreWeave, Applied Materials, and Cisco Systems
+* Federal Reserve rate hike decision in December
+* Developments in the Nvidia CEO investigation
+* Regulatory actions in the cryptocurrency market
+* Expansion of crypto infrastructure and its integration with traditional financial systems
