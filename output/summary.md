@@ -1,25 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-11-09 15:07 UTC*
+*Generated: 2026-11-10 01:09 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+Here is your executive briefing:
 
-1. **Market Overview**: The cryptocurrency market is experiencing a sell-off, with Bitcoin falling below $74,000 and Ethereum dropping over 4%. The stock market is attempting to recover from last week's AI-related losses, with Wall Street futures pointing higher. The Dow futures are up about 1.0%, S&P 500 futures up 0.7%, and Nasdaq 100 futures up 0.7%. The US jobs report showed a strong addition of 165,000 jobs in October, increasing expectations for a December Fed hike.
+1. **Market Overview**: The Dow Jones rose 2.15% to 52,389.75, the S&P 500 gained 2.35% to 7,549.94, and the Nasdaq Composite advanced 2.74% to 25,253.14, led by technology and artificial-intelligence stocks. Bitcoin and Ethereum prices declined, with Bitcoin at $75,110 and Ethereum at $2,127.11. Oil prices fell amid reduced strike concerns.
 
-2. **Tech & AI**: Nvidia's CEO Jensen Huang is under investigation, and the company's shares fell about 5% premarket. There are also concerns about AI demand and tighter regulation. Additionally, KetchUp, an open-source SketchUp alternative built with Rust and WebGPU, has gained significant attention. Declarative Dragging, a new technology, has also been introduced.
+2. **Tech & AI**: Claude Fable 5.2 and Mythos 5.2 were released, with Claude Fable 5.2 scoring 65 on Artificial Analysis, the highest so far. Google announced the TPU 8tx and TPU 8i Max, and Infineon marked an innovation milestone with 300mm power silicon carbide wafer. Meta introduced Muse Ember, its smallest and most efficient model.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, it's worth noting that the entertainment industry is likely to be impacted by the ongoing AI developments and advancements.
+3. **Gaming & Entertainment**: There were no significant gaming news in the provided data.
 
 4. **Key Insights**:
-* The cryptocurrency market is experiencing a significant sell-off, with major coins like Bitcoin and Ethereum dropping in value.
-* The US jobs report showed a strong addition of jobs, increasing expectations for a December Fed hike.
-* Nvidia's CEO investigation and the company's falling shares are adding volatility to the AI trade.
-* New technologies like KetchUp and Declarative Dragging are gaining attention in the tech industry.
-* The upcoming earnings reports from companies like CoreWeave, Applied Materials, and Cisco are expected to provide fresh signals on AI infrastructure spending.
+* The US stock market rebounded sharply, led by technology and artificial-intelligence stocks.
+* Oil prices fell amid reduced strike concerns, and the crypto market dropped amid a $1.18 billion liquidation wave.
+* The NYSE selected Avalanche for tokenized-securities settlement, pending regulatory approval, and Strategy purchased another 1,036 Bitcoin.
+* Fed officials urged caution on policy, and investors await the US inflation data, which is expected to influence expectations for the Fed's next interest-rate move.
+* Bitcoin and Ethereum ETFs recorded heavy outflows, with spot Bitcoin ETFs seeing about $468 million in one-day net outflows.
 
 5. **Watch List**: 
-* Bitcoin and Ethereum prices
-* US inflation data and the Federal Reserve's interest-rate path
-* Nvidia's investigation and its impact on the AI trade
-* Upcoming earnings reports from companies like CoreWeave, Applied Materials, and Cisco
-* Developments in new technologies like KetchUp and Declarative Dragging
+* US inflation data report due Tuesday
+* Fed's next interest-rate move
+* Oil prices and strike concerns
+* Crypto market movements and regulatory news
+* Technology and artificial-intelligence stock performance
