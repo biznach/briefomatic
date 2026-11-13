@@ -1,20 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-11-12 23:10 UTC*
+*Generated: 2026-11-13 04:58 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The crypto market is experiencing a downturn, with Bitcoin and Ethereum prices falling by 3.0% and 1.5% respectively in the last 24 hours. The Nasdaq and S&P 500 are also under pressure, with Nvidia's stock plunging after CEO Jensen Huang's resignation. The US 10-year Treasury yield has climbed above 5%, and global bonds remain under pressure as yields rise.
+1. **Market Overview**: The major stock indexes (Dow, S&P 500, and Nasdaq Composite) finished lower due to a Nvidia selloff, with the Dow falling 0.36%, the S&P 500 declining 0.35%, and the Nasdaq Composite dropping 0.39%. Oil prices jumped amid Middle East tensions, with U.S. crude rising 2.55% to $88.74 a barrel and Brent gaining 3.3% to $95.82. In the crypto market, Bitcoin fell below $71,000, and Ethereum open interest declined 5.24%. The current crypto prices are: Bitcoin ($68610), Ethereum ($1925.26), Solana ($78.43), Dogecoin ($0.063308), and Cardano ($0.167523).
 
-2. **Tech & AI**: Notable tech developments include the launch of Gemini 4 Hydrogen, a new AI model by Google, and the introduction of the Foundation Models framework by Apple. Additionally, there have been significant advancements in AI infrastructure, with CoreWeave delivering stronger-than-expected results and raising its outlook.
+2. **Tech & AI**: Jensen Huang, the former CEO of Nvidia, has resigned. Nvidia employees have petitioned to bring him back. Additionally, there have been significant developments in AI, including the introduction of Gemini 4 Hydrogen, a new AI model, and the release of Rust 1.100. Anthropic has also announced its IPO. Furthermore, Apple's app review process is being impacted by AI, causing difficulties for synth developers.
 
-3. **Gaming & Entertainment**: There is limited gaming news in the provided data, but notable developments include the completion of an abandoned Quake 4 expansion by modders and the release of ExcalidrawZ, a local native Excalidraw on macOS/iOS.
+3. **Gaming & Entertainment**: There have been some notable developments in the gaming world, including the completion of an abandoned Quake 4 expansion by modders, which is now playable. Additionally, a Rick and Morty explainer video generator has been built.
 
 4. **Key Insights**:
-* The crypto market is experiencing heightened selling pressure and investor capitulation risk, with Bitcoin and Ethereum prices falling sharply.
-* The resignation of Nvidia's CEO Jensen Huang has pressured Nasdaq futures and broader technology stocks.
-* Demand for AI computing infrastructure remains robust, with CoreWeave delivering stronger-than-expected results and raising its outlook.
-* Regulatory news includes Thailand's proposal for daily limits on stablecoin transfers and the launch of a bank-issued stablecoin on Polygon.
-* The US 10-year Treasury yield has climbed above 5%, and global bonds remain under pressure as yields rise.
+* The current market sentiment is risk-off due to rising oil prices and Middle East tensions.
+* Nvidia's selloff has weighed on the major stock indexes.
+* The crypto market is experiencing significant price movements, with Bitcoin falling below $71,000 and Ethereum open interest declining.
+* AI developments continue to advance, with new models and technologies being introduced.
+* Regulatory news in the crypto space includes the U.S. Treasury planning a custody framework for government-held Bitcoin and Thailand proposing daily stablecoin transaction caps.
 
-5. **Watch List**: Items to monitor in the coming days include the continued impact of Jensen Huang's resignation on Nvidia's stock and the broader tech market, the development of AI infrastructure and its potential effects on the market, and regulatory updates in the crypto space, particularly regarding stablecoin transfers and bank-issued stablecoins. Additionally, keep an eye on the US 10-year Treasury yield and global bond markets as they continue to evolve.
+5. **Watch List**: 
+* Nvidia's stock performance and potential impact on the tech sector.
+* Oil prices and their effect on inflation and the Federal Reserve's policy outlook.
+* Bitcoin and Ethereum price movements and their impact on the crypto market.
+* Developments in AI, including new models and technologies.
+* Regulatory news in the crypto space, including the U.S. Treasury's custody framework and Thailand's proposed stablecoin transaction caps.
