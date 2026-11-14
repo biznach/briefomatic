@@ -1,25 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-11-14 04:52 UTC*
+*Generated: 2026-11-14 12:56 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+1. **Market Overview**: The S&P 500 fell 0.4% and the Nasdaq 100 dropped 1.2% due to weakness in chipmakers and concerns about Nvidia. The Dow was little changed, while the 10-year Treasury yield rose two basis points to 5.15%. In the crypto market, Bitcoin and Ethereum declined about 1.6% and 1.5% over the past 24 hours, with total crypto liquidations reaching approximately $845 million.
 
-1. **Market Overview**: The crypto market has seen a decline, with Bitcoin falling below $70,000 and experiencing $1.65 billion in liquidations over 24 hours. The stock market has been volatile, with the Dow gaining 200 points and the S&P 500 approaching a record, while Nvidia's weakness has weighed on technology stocks. The macroeconomic landscape is uncertain, with soft producer-price data and concerns about future rate cuts.
+2. **Tech & AI**: Nvidia-related concerns contributed to a broad technology selloff. IBM announced plans to release a family of AI models as open-source software, gaining 2.2%. Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs. The Solana Foundation launched Confidential Compute on Devnet, a tool designed for private AI applications.
 
-2. **Tech & AI**: Nvidia has been in the spotlight due to Jensen Huang's resignation and Colette Kress's appointment as interim CEO. Cerebras has raised its 2026 revenue forecast and announced Microsoft as a customer, increasing competition in the AI-chip market. Additionally, there have been developments in AI research, including the release of Ggml v1.0.0 and discussions on the potential of AI to solve coding challenges.
-
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, there are mentions of entertainment-related topics, such as the invention of "palmfrets" by a Minnesota guitarist and the release of a pixel-art map of the SF Bay Area.
+3. **Gaming & Entertainment**: There is no significant gaming news in the provided data. However, a Minnesota guitarist's "palmfrets" invention and a pixel-art map of the SF Bay Area were mentioned in the hackernews section.
 
 4. **Key Insights**:
-* The crypto market is experiencing significant volatility, with Bitcoin's price dropping below $70,000.
-* Nvidia's leadership change and Cerebras's announcement have increased competition in the AI-chip market.
-* The macroeconomic landscape is uncertain, with soft producer-price data and concerns about future rate cuts.
-* FedEx has cut its earnings outlook, raising concerns about the strength of freight demand and the broader economy.
-* AstraZeneca has announced a $2.5 billion investment in a Beijing research-and-development center.
+* The technology sector experienced a selloff due to concerns about Nvidia and chipmakers.
+* IBM's announcement of open-source AI models could impact the AI industry.
+* Solana's launch of Confidential Compute on Devnet may enhance private AI applications.
+* Crypto markets fell, with Bitcoin and Ethereum declining and total liquidations reaching $845 million.
+* AstraZeneca announced a $2.5 billion investment in a Beijing research and development center.
 
 5. **Watch List**: 
-* Bitcoin's price and the crypto market's overall volatility.
-* Nvidia's stock performance and the impact of its leadership change on the AI-chip market.
-* The Federal Reserve's potential rate cuts and their effects on the stock market.
-* FedEx's earnings and the broader economy's strength.
-* AstraZeneca's investment in China and its potential impact on the pharmaceutical industry.
+* Nvidia's earnings and the Federal Reserve's policy meeting minutes.
+* The impact of IBM's open-source AI models on the AI industry.
+* Solana's Confidential Compute development and its potential effects on private AI applications.
+* Crypto market movements and regulatory news.
+* AstraZeneca's investment in China and its potential implications for the pharmaceutical industry.
