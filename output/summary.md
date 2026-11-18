@@ -1,25 +1,23 @@
 # Daily Briefing
 
-*Generated: 2026-11-17 15:28 UTC*
+*Generated: 2026-11-18 00:29 UTC*
 
-Here is your executive briefing for November 17, 2026:
+Here is your executive briefing:
 
-1. **Market Overview**: The cryptocurrency market is experiencing a downturn, with Bitcoin and major cryptocurrencies under pressure. The current prices are: Bitcoin ($65,061), Ethereum ($1,814.82), Solana ($73.9), Dogecoin ($0.059415), and Cardano ($0.154909). The market weakness is linked to ETF outflows, high interest rates, and leveraged liquidations. Major stock indexes are mixed, with the Dow and S&P 500 up, while the Nasdaq falls.
+1. **Market Overview**: The Dow dropped about 1.6%, the S&P 500 1.2%, and the Nasdaq Composite 1.1%, extending multi-session declines ahead of Nvidia's earnings report. Bitcoin traded near $64,947, while Ethereum traded around $1,825. The crypto market capitalization remained near $2.2 trillion.
 
-2. **Tech & AI**: Carnegie Mellon is offering free computer science courses on YouTube. Baidu and Xiaomi CEOs warn of a growing gap between AI hype and returns. SiMa.ai has released Palette 3.0 for physical AI. Optimizely was compromised, serving malware on Zoom and GitLab. 
+2. **Tech & AI**: Notable developments include the introduction of GPT-6.2 Astra and Sol by OpenAI, Nvidia stopping disclosure of Singapore sales as revenues hit $104B, and Microsoft's ONNX Runtime disappearing from GitHub. Additionally, a pre-auth RCE flaw in Java 17 puts servers at risk, and Quad9's withdrawal from France raises concerns.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
+3. **Gaming & Entertainment**: No significant gaming news was reported in the provided data.
 
 4. **Key Insights**:
-* The cryptocurrency market is experiencing a downturn due to various factors, including ETF outflows and high interest rates.
-* AI and tech companies are making significant announcements, including new model releases and free educational resources.
-* Cybersecurity remains a concern, with Optimizely being compromised and serving malware on major platforms.
-* Regulatory news is emerging, with South Korea moving against unregistered crypto exchanges and Hong Kong planning broader digital-asset licensing rules.
-* North Korea has been linked to a $6 billion cryptocurrency theft from Binance.
+* The US stock market is experiencing declines ahead of Nvidia's earnings report, with a focus on tech and AI shares.
+* Regulatory developments in the crypto space include Backpack receiving CFTC approval for a US crypto derivatives exchange and a Senate procedural vote stalling federal Ethereum-market rules.
+* Significant price movements in the crypto market include Injective rising about 11.5% and Zcash climbing more than 10% amid development-fund vote.
+* Tech and AI developments, such as the introduction of GPT-6.2 Astra and Sol, and Nvidia's revenue growth, are noteworthy.
 
 5. **Watch List**: 
-* Cryptocurrency prices and market trends
-* AI and tech company announcements and developments
-* Regulatory news and updates in the cryptocurrency and AI spaces
-* Cybersecurity concerns and potential threats
-* Economic indicators, such as interest rates and ETF outflows, and their impact on the market.
+* Nvidia's earnings report and its potential impact on the tech and AI sectors.
+* Regulatory developments in the crypto space, including the potential establishment of federal rules for Ethereum markets.
+* Price movements of major cryptocurrencies, such as Bitcoin and Ethereum.
+* The potential consequences of the pre-auth RCE flaw in Java 17 and the disappearance of Microsoft's ONNX Runtime from GitHub.
