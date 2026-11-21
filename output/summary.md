@@ -1,25 +1,24 @@
 # Daily Briefing
 
-*Generated: 2026-11-21 14:10 UTC*
+*Generated: 2026-11-21 22:44 UTC*
 
-Here is a concise executive briefing based on the provided raw news and market data:
+Here is your executive briefing for November 21, 2026:
 
-1. **Market Overview**: The Nasdaq Composite fell 5.13% to 22,654.15, while the S&P 500 dropped 3.59% to 6,918.45 and the Dow lost 1.85% to 48,188.18. The declines confirmed corrections in the S&P 500 and Dow and erased the Nasdaq's 2026 gains. In the crypto market, Bitcoin fell below $60,000, and major altcoins plunged, with Ethereum falling below $1,657 and Solana declining below $67.
+1. **Market Overview**: The US stock market experienced a sharp selloff, with the Nasdaq Composite falling 5.1%, the S&P 500 dropping 3.6%, and the Dow Jones Industrial Average declining 1.9%. The crypto market also saw significant price movements, with Bitcoin rebounding after falling to a two-year low and Ethereum selling off after the Ethereum Foundation reportedly sold 2,500 ETH. The current crypto prices are: Bitcoin ($60,087), Ethereum ($1,678), Solana ($70), Dogecoin ($0.055), and Cardano ($0.144).
 
-2. **Tech & AI**: Levent Alpöge claims proof of the Generalized Riemann Hypothesis, a significant development in mathematics. Additionally, there have been reports of a potential hack of the FBI's criminal database. In AI, Anthropic's debut failed to reassure investors, contributing to broad declines in U.S. equities. Language models can now rewrite their own weights, and LLMs can read and write executables byte by byte from a hex dump.
+2. **Tech & AI**: Notable tech developments include a significant breakthrough in pancreatic cancer treatment, the release of Inkling-2-Mini, and advancements in Lean verification of the Riemann Hypothesis. Additionally, there have been discussions on the tech architecture of art websites, and the emergence of accessibility sensors in scooters.
 
-3. **Gaming & Entertainment**: Adult-only households accounted for 55% of toy sales in the first half of 2026, with items like Jellycats, Squishmallows, and Lego sets driving holiday traffic. There is also a new live archive for Nine Inch Nails, called NINLIVE.
+3. **Gaming & Entertainment**: There is no significant gaming news to report at this time.
 
 4. **Key Insights**:
-* The current market sell-off is intensifying, with the Nasdaq erasing its 2026 gains.
-* Fed officials signal support for further rate hikes, citing resilient growth and labor-market conditions.
-* The crypto market is experiencing a sharp sell-off, with Bitcoin falling below $60,000 and major altcoins plunging.
-* Significant developments in mathematics and AI, including proof of the Generalized Riemann Hypothesis and language models rewriting their own weights.
-* Adult-only households are driving toy sales, with a focus on items like Jellycats and Squishmallows.
+* The US stock market is experiencing a correction, with major indices entering correction territory.
+* The crypto market is highly volatile, with significant price movements in major cryptocurrencies.
+* Regulatory uncertainty is affecting the crypto market, with Hong Kong's regulatory warning pressuring HyperLiquid.
+* There have been significant advancements in tech and AI, including breakthroughs in cancer treatment and verification of mathematical hypotheses.
+* The job market remains challenging, with a discussion on Hacker News about a user who has been unemployed for 2 years despite having 15 years of experience.
 
 5. **Watch List**: 
-* The Nasdaq Composite and S&P 500 for further declines or potential recovery.
-* Bitcoin and major altcoins for continued price movements.
-* Fed officials' statements and actions regarding interest rates.
-* Developments in mathematics and AI, including potential applications of the Generalized Riemann Hypothesis proof.
-* The performance of toy sales and holiday traffic, particularly among adult-only households.
+* US stock market: Monitor the market's reaction to the current correction and potential future developments.
+* Crypto market: Keep an eye on regulatory updates and price movements in major cryptocurrencies.
+* Tech and AI: Follow advancements in cancer treatment, Lean verification, and other significant tech developments.
+* Economic indicators: Monitor consumer sentiment, inflation, and interest rates for potential impacts on the market.
