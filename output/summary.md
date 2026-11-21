@@ -1,25 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-11-21 05:33 UTC*
+*Generated: 2026-11-21 14:10 UTC*
 
-Here is your executive briefing for November 21, 2026:
+Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The global market is experiencing a significant downturn, with the S&P 500 falling 3.59%, the Nasdaq Composite dropping 5.13%, and the Dow Jones Industrial Average losing 1.85%. The cryptocurrency market is also affected, with Bitcoin falling below $60,000 and Ethereum declining approximately 6.5%. The sell-off is largely driven by concerns over AI valuations and investor risk aversion.
+1. **Market Overview**: The Nasdaq Composite fell 5.13% to 22,654.15, while the S&P 500 dropped 3.59% to 6,918.45 and the Dow lost 1.85% to 48,188.18. The declines confirmed corrections in the S&P 500 and Dow and erased the Nasdaq's 2026 gains. In the crypto market, Bitcoin fell below $60,000, and major altcoins plunged, with Ethereum falling below $1,657 and Solana declining below $67.
 
-2. **Tech & AI**: Levent Alpöge has claimed proof of the Generalized Riemann Hypothesis, a significant development in mathematics. Additionally, there are reports of a potential breakthrough in the Riemann Hypothesis, which could have major implications for cryptography and coding theory. Furthermore, Anthropic's IPO has failed to calm AI-market concerns, with Nvidia and AMD experiencing sharp declines.
+2. **Tech & AI**: Levent Alpöge claims proof of the Generalized Riemann Hypothesis, a significant development in mathematics. Additionally, there have been reports of a potential hack of the FBI's criminal database. In AI, Anthropic's debut failed to reassure investors, contributing to broad declines in U.S. equities. Language models can now rewrite their own weights, and LLMs can read and write executables byte by byte from a hex dump.
 
-3. **Gaming & Entertainment**: There is limited notable gaming news in the provided data. However, the NINLIVE: The Nine Inch Nails live archive has been mentioned, which may be of interest to fans of the band.
+3. **Gaming & Entertainment**: Adult-only households accounted for 55% of toy sales in the first half of 2026, with items like Jellycats, Squishmallows, and Lego sets driving holiday traffic. There is also a new live archive for Nine Inch Nails, called NINLIVE.
 
 4. **Key Insights**:
-* The current market downturn is driven by concerns over AI valuations and investor risk aversion.
-* The potential breakthrough in the Riemann Hypothesis could have significant implications for cryptography and coding theory.
-* Anthropic's IPO has failed to calm AI-market concerns, indicating ongoing uncertainty in the sector.
-* The cryptocurrency market is experiencing steep losses, with Bitcoin and Ethereum declining sharply.
-* Fed officials are signaling support for higher interest rates, which could impact the market in the coming months.
+* The current market sell-off is intensifying, with the Nasdaq erasing its 2026 gains.
+* Fed officials signal support for further rate hikes, citing resilient growth and labor-market conditions.
+* The crypto market is experiencing a sharp sell-off, with Bitcoin falling below $60,000 and major altcoins plunging.
+* Significant developments in mathematics and AI, including proof of the Generalized Riemann Hypothesis and language models rewriting their own weights.
+* Adult-only households are driving toy sales, with a focus on items like Jellycats and Squishmallows.
 
 5. **Watch List**: 
-* The development of the Riemann Hypothesis and its potential implications for cryptography and coding theory.
-* The performance of Anthropic and other AI-related stocks in the coming days.
-* The cryptocurrency market, particularly Bitcoin and Ethereum, as they continue to experience significant price movements.
-* The Fed's interest rate decisions and their impact on the market.
-* The potential for further market downturns driven by investor risk aversion and concerns over AI valuations.
+* The Nasdaq Composite and S&P 500 for further declines or potential recovery.
+* Bitcoin and major altcoins for continued price movements.
+* Fed officials' statements and actions regarding interest rates.
+* Developments in mathematics and AI, including potential applications of the Generalized Riemann Hypothesis proof.
+* The performance of toy sales and holiday traffic, particularly among adult-only households.
