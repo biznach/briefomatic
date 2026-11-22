@@ -1,23 +1,25 @@
 # Daily Briefing
 
-*Generated: 2026-11-22 14:00 UTC*
+*Generated: 2026-11-22 23:12 UTC*
 
-1. **Market Overview**: The S&P 500 fell 3.59% to 6,918.45, the Nasdaq Composite dropped 5.13% to 22,654.15, and the Dow Jones declined 1.85% to 48,188.18, with the selloff intensifying after Anthropic's market debut failed to revive enthusiasm for AI-related stocks. In the crypto market, Bitcoin dropped below $60,000 and Ethereum fell below $1,700, with approximately $1.57 billion in liquidations affecting 264,734 traders over 24 hours. However, Bitcoin has since rebounded above $60,000.
+Here is a concise executive briefing based on the provided raw news and market data:
 
-2. **Tech & AI**: Toyota, Nissan, and Honda are planning to standardize parts to lower costs. A real Linux kernel has been compiled to WebAssembly. Additionally, there have been significant developments in AI, including the creation of a pill to treat pancreatic cancer, which has been hailed as the "biggest breakthrough in decades." Lean verification of the Riemann Hypothesis has also been achieved.
+1. **Market Overview**: The S&P 500 and Dow have entered correction territory, with the S&P 500 falling 3.59% and the Dow declining 1.85% due to concerns over AI valuations and technology-sector exposure. Bitcoin has rebounded above $61,000 after a sharp sell-off, while Ethereum and other major cryptocurrencies have seen mixed price movements.
 
-3. **Gaming & Entertainment**: There is no significant gaming news in the provided data.
+2. **Tech & AI**: The AI trade has been weak, driving a broader market correction. Anthropic's market debut failed to revive enthusiasm for the AI trade. Additionally, there have been notable developments in local AI, with guides and resources emerging for beginners. The relationship between perplexity and intelligence has also been a topic of discussion.
+
+3. **Gaming & Entertainment**: A field guide to the birds of GTA 6 has been released, and a game where players take on the role of an LLM's subagent has been showcased on GitHub. These developments highlight the ongoing intersection of gaming and AI.
 
 4. **Key Insights**:
-* The current market sentiment is bearish, with major indices experiencing significant declines.
-* The crypto market has also been affected, with Bitcoin and Ethereum experiencing price drops.
-* There have been significant developments in AI, including the creation of a pill to treat pancreatic cancer and lean verification of the Riemann Hypothesis.
-* Toyota, Nissan, and Honda are planning to standardize parts to lower costs, which could have a significant impact on the automotive industry.
-* The Fed governor has argued for further interest-rate hikes, which could affect the market.
+* The current market correction is driven by concerns over AI valuations and technology-sector exposure.
+* Bitcoin and other cryptocurrencies have seen significant price movements, with Bitcoin rebounding above $61,000.
+* Local AI is becoming more accessible, with guides and resources emerging for beginners.
+* The relationship between perplexity and intelligence is a topic of ongoing discussion and research.
+* Regulatory developments, such as the CFTC's outline for decentralized platforms, are shaping the cryptocurrency landscape.
 
 5. **Watch List**: 
-* The performance of AI-related stocks after Anthropic's market debut.
-* The price movements of major cryptocurrencies, including Bitcoin and Ethereum.
-* The development of the pill to treat pancreatic cancer and its potential impact on the pharmaceutical industry.
-* The progress of Toyota, Nissan, and Honda's plan to standardize parts and its potential impact on the automotive industry.
-* The Fed's decision on interest rates and its potential impact on the market.
+* Market reaction to AI trade and technology-sector exposure
+* Bitcoin and major cryptocurrency price movements
+* Regulatory developments in the cryptocurrency space, particularly in the US
+* Advancements in local AI and its applications
+* Earnings and announcements from major companies, particularly those in the tech sector.
