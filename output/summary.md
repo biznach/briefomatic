@@ -1,25 +1,24 @@
 # Daily Briefing
 
-*Generated: 2026-11-22 23:12 UTC*
+*Generated: 2026-11-23 05:41 UTC*
 
 Here is a concise executive briefing based on the provided raw news and market data:
 
-1. **Market Overview**: The S&P 500 and Dow have entered correction territory, with the S&P 500 falling 3.59% and the Dow declining 1.85% due to concerns over AI valuations and technology-sector exposure. Bitcoin has rebounded above $61,000 after a sharp sell-off, while Ethereum and other major cryptocurrencies have seen mixed price movements.
+1. **Market Overview**: The S&P 500 and Dow have entered correction territory, with the S&P 500 falling 3.59% to 6,918.45 and the Dow declining 1.85% to 48,188.18. The Nasdaq Composite dropped 5.13% to 22,654.15. Bitcoin and Ethereum have rebounded, with Bitcoin rising 1.8% to $61,271 and Ethereum gaining 2.3% to $1,724.33.
 
-2. **Tech & AI**: The AI trade has been weak, driving a broader market correction. Anthropic's market debut failed to revive enthusiasm for the AI trade. Additionally, there have been notable developments in local AI, with guides and resources emerging for beginners. The relationship between perplexity and intelligence has also been a topic of discussion.
+2. **Tech & AI**: AI infrastructure spending is weighing on major technology companies, with Alphabet, Meta, and Amazon posting negative third-quarter free cash flow. Nvidia reported strong third-quarter revenue, up 103% year over year, and forecast fourth-quarter sales of $130 billion. The market remains focused on AI-sector volatility and expectations for tighter Federal Reserve policy.
 
-3. **Gaming & Entertainment**: A field guide to the birds of GTA 6 has been released, and a game where players take on the role of an LLM's subagent has been showcased on GitHub. These developments highlight the ongoing intersection of gaming and AI.
+3. **Gaming & Entertainment**: A notable article discusses the birds of GTA 6, providing a field guide to Vice City and Leonida's wildlife. Additionally, a game where players take on the role of an LLM's subagent has been showcased on GitHub.
 
 4. **Key Insights**:
-* The current market correction is driven by concerns over AI valuations and technology-sector exposure.
-* Bitcoin and other cryptocurrencies have seen significant price movements, with Bitcoin rebounding above $61,000.
-* Local AI is becoming more accessible, with guides and resources emerging for beginners.
-* The relationship between perplexity and intelligence is a topic of ongoing discussion and research.
-* Regulatory developments, such as the CFTC's outline for decentralized platforms, are shaping the cryptocurrency landscape.
+* The S&P 500 and Dow have entered correction territory, driven by concerns over AI valuations and excessive spending.
+* Bitcoin and Ethereum have rebounded, with institutional investors reportedly buying over $1 billion in Bitcoin.
+* AI infrastructure spending is weighing on major technology companies, with Nvidia's strong earnings guiding the market's expectations.
+* Regulatory news includes the SEC charging eight Colorado entities over alleged $37 million crypto fraud and Hong Kong proposing broader virtual-asset licensing rules.
+* The market remains focused on AI-sector volatility and expectations for tighter Federal Reserve policy.
 
 5. **Watch List**: 
-* Market reaction to AI trade and technology-sector exposure
-* Bitcoin and major cryptocurrency price movements
-* Regulatory developments in the cryptocurrency space, particularly in the US
-* Advancements in local AI and its applications
-* Earnings and announcements from major companies, particularly those in the tech sector.
+* Upcoming PCE inflation data and its potential impact on the Federal Reserve's interest rate decision.
+* Nvidia's forecast fourth-quarter sales and its implications for the broader AI sector.
+* Regulatory developments in the cryptocurrency space, including Hong Kong's proposed virtual-asset licensing rules.
+* The performance of major technology companies, including Alphabet, Meta, and Amazon, as they navigate AI infrastructure spending and potential returns on investment.
