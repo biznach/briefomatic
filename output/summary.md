@@ -1,25 +1,27 @@
 # Daily Briefing
 
-*Generated: 2026-11-24 16:56 UTC*
+*Generated: 2026-11-25 01:53 UTC*
 
-Here is your executive briefing for November 24, 2026:
+Here is your executive briefing for November 25, 2026:
 
-1. **Market Overview**: The US stock market experienced a significant rebound, with the Nasdaq Composite jumping 6.51%, the S&P 500 gaining 4.73%, and the Dow rising 3.01%. This rally was led by technology stocks, particularly Nvidia, which surged about 31-33% after reinstating Jensen Huang as CEO. However, US futures declined in premarket trading, with Nasdaq 100 futures down about 1.7%, S&P 500 futures 0.8%, and Dow futures 0.4%. The crypto market remains broadly lower, with Bitcoin rebounding toward $61,000 while many major altcoins declined.
+1. **Market Overview**: The Dow rose 0.85% to 50,018.69, while the S&P 500 fell 0.50% to 7,201.09 and the Nasdaq dropped 1.48% to 23,733.53. Major cryptocurrencies such as Bitcoin and Ethereum experienced declines, with Bitcoin falling below $60,000. The market is anticipating a December Fed rate hike, with a 95% probability of a 25-basis-point increase.
 
-2. **Tech & AI**: Nvidia's reinstatement of Jensen Huang as CEO led to a significant surge in the company's stock price. Additionally, there have been notable developments in AI, including the release of Ladybird in alpha and the announcement of Stalwart as a drop-in replacement for Microsoft Exchange. Tidal has also banned AI-generated music, sparking debate about the role of AI in creative industries.
+2. **Tech & AI**: Nvidia's CEO reinstatement drove major AI-stock volatility, while GPT-6 models demonstrated intrinsic protein-design capabilities. PenGPT, a generative transformer for handwriting and sketches, was also introduced. Additionally, an active intrusion campaign against Check Point security management servers was reported.
 
-3. **Gaming & Entertainment**: There have been no significant gaming news developments in the past 24 hours. However, it's worth noting that the GTA 6 Recomp (Leonida) project was banned from GitHub, and there have been discussions about the use of AI in gaming.
+3. **Gaming & Entertainment**: GTA 6 was reported to be running on Windows, sparking interest among gamers. However, there were no other significant developments in the gaming industry.
 
 4. **Key Insights**:
-* The US stock market rebound was led by technology stocks, particularly Nvidia, which surged after reinstating its CEO.
-* The crypto market remains broadly lower, with Bitcoin rebounding toward $61,000 while many major altcoins declined.
-* Notable developments in AI include the release of Ladybird in alpha and the announcement of Stalwart as a drop-in replacement for Microsoft Exchange.
-* Regulatory news includes the CFTC permitting regulated exchanges to count crypto toward reserves and South Korea proposing a digital-asset framework and ICO return.
-* Ethereum Foundation plans to complete a quantum-resistant cryptography migration by 2029.
+* The market is expecting a December Fed rate hike, which may impact stock prices and cryptocurrency values.
+* AI-related stocks are experiencing high volatility due to recent developments and announcements.
+* Cybersecurity threats are on the rise, with an active intrusion campaign against Check Point security management servers reported.
+* Consumer confidence has jumped in November, reaching its highest level since early 2025.
+* Bitcoin and other major cryptocurrencies are experiencing declines, with Bitcoin falling below $60,000.
 
 5. **Watch List**: 
-* US stock market futures and their impact on the global market
-* Crypto market movements, particularly Bitcoin and major altcoins
-* Developments in AI, including the release of new projects and updates on existing ones
-* Regulatory news, including updates on the CFTC's crypto reserve policy and South Korea's digital-asset framework
-* Nvidia's stock price and its impact on the technology sector
+* Fed rate hike decision in December
+* AI-related stock performance and announcements
+* Cybersecurity threats and developments
+* Bitcoin and cryptocurrency price movements
+* Consumer confidence and its impact on the market
+* Nvidia's performance and announcements following the CEO reinstatement
+* GTA 6 developments and release updates
